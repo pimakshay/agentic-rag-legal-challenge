@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Under Article 8(1) of the Operating Law 2018, is a person permitted to operate or conduct business in or from the DIFC without being incorporated, registered, or continued under a Prescribed Law or other Legislation administered by the Registrar?",
+    "answer_type": "boolean",
+    "id": "30ab0e56ee0c43b5bf94fd9657c7f7ac24f0e7be29ced2933437f7a234713cd7"
+  },
+  {
+    "id": "331b267822eaa013b4a79d92f2ac5118052a57150df9a29d7d11c531f02d23cf",
+    "question": "What is the Date of Issue of the document in case CFI 057/2025?",
+    "answer_type": "date"
+  },
+  {
+    "id": "5d271fced60d88e008a69adc2da21de427906206bfb49f5554a3bf1dd6f72772",
+    "question": "According to the title page of the Common Reporting Standard Law, what is its official DIFC Law number?",
+    "answer_type": "number"
+  },
+  {
+    "id": "358bf0caaa87ba7e11698c5e0bb230f5742c141f2da8a3e8969cee41ef0f7841",
+    "question": "Do cases SCT 295/2025 and SCT 514/2025 involve any of the same legal entities or individuals as main parties?",
+    "answer_type": "boolean"
+  },
+  {
+    "question": "What kind of liability do Partners have under Article 28(1) of the General Partnership Law 2004?",
+    "answer_type": "free_text",
+    "id": "bce4c288236518dfd08f6bac5a75c75ea79b1250347c4b998252fa9d7265a7c3"
+  },
+  {
+    "question": "Under the Foundations Law DIFC Law No. 3 of 2018, what is the maximum fine for failing to provide a copy of an assignment of rights to the Registered Agent or Registrar within 30 days?",
+    "answer_type": "free_text",
+    "id": "6863a7f4a5e76694620518758411bc743142897fa8077f2a73701b89fa2d0b0f"
+  },
+  {
+    "question": "Under the Operating Law - DIFC Law No. 7 of 2018, who is responsible for appointing and dismissing the Registrar?",
+    "answer_type": "free_text",
+    "id": "150d4428704ea7ce7452509bda9c25f4d242b2395114ed0ed59388b87660f218"
+  },
+  {
+    "id": "39890efe7db1258f568e838c284020a9fc79b8bf0deddab76fdf853c9b0171ed",
+    "question": "Is there any main party common to both case CFI 057/2025 and case SCT 295/2025?",
+    "answer_type": "boolean"
+  },
+  {
+    "id": "acd0ddc6715f2bccf5076dc47e6874a8ecb782dd10c0b162071f890ad96bef47",
+    "question": "Between SCT 295/2025 and SCT 514/2025, which document has the earlier issue date?",
+    "answer_type": "name"
+  },
+  {
+    "id": "436c12cc4eb26087bd1540f5d47825712632e90b4d5b2bca6c52e3b26151f874",
+    "question": "What was the result of the application heard in case CFI 057/2025?",
+    "answer_type": "free_text"
+  },
+  {
+    "id": "4fa07316db9a19980de495d2190350cc4b494ae0ab741cda7784e895709719e1",
+    "question": "Between CFI 010/2024 and SCT 169/2025, which document has the earlier issue date?",
+    "answer_type": "name"
+  },
+  {
+    "id": "1a80e5dc69fb76a97c0ada049df2425c9f06de373bbb9ee5b39dbd1f12f85387",
+    "question": "From the title pages of all documents in case CA 005/2025 and case CFI 067/2025, identify whether any individual or company is named as a main party in both cases.",
+    "answer_type": "boolean"
+  },
+  {
+    "id": "9f9fb4b911d75c22f2c9a42bb852848ac45594179a7d0d126c8ef0ac8941b18d",
+    "question": "Do cases CA 004/2025 and SCT 295/2025 involve any of the same legal entities or individuals as parties?",
+    "answer_type": "boolean"
+  },
+  {
+    "id": "d374bee20e02f7f384e766dd792856c6457f99fc1491e5fee2e6cd50a4d856b7",
+    "question": "Identify whether any person or company is a main party to both ENF 269/2023 and SCT 514/2025.",
+    "answer_type": "boolean"
+  },
+  {
+    "id": "8de44b7964cdde111c1a33ac4cc13948b7b4e14fd120351fcb5a5bfb2b2dfff0",
+    "question": "Identify the case with the higher monetary claim: SCT 169/2025 or SCT 295/2025?",
+    "answer_type": "name"
+  },
+  {
+    "id": "a8813f8f56099bd156b5fe797cc44b061d2a54fb69ca2e748ffb7cc462eaa85e",
+    "question": "Which case has an earlier Date of Issue: CFI 010/2024 or CFI 016/2025?",
+    "answer_type": "name"
+  },
+  {
+    "question": "Which specific DIFC Laws were amended by DIFC Law No. 2 of 2022?",
+    "answer_type": "free_text",
+    "id": "fcabd6aa14e2df4b7ca00fa516a70eba6de58b74dfde30270e3fe3eec6d1da7a"
+  },
+  {
+    "question": "Under Article 14(1) of the Employment Law 2019, how many days does an Employer have to provide an Employee with a written Employment Contract after the commencement of employment?",
+    "answer_type": "number",
+    "id": "e59a0dc49c291402ead91342b065bc4e9ded0043d126f73dd00ba6045aae46b7"
+  },
+  {
+    "question": "Who is the defendant in case ARB 034/2025?",
+    "answer_type": "name",
+    "id": "359f1c315f2ac48e6b34ecfa503c6b9c892365985b363dc9a4e3c85563550d05"
+  },
+  {
+    "question": "If a Muslim Employee works during the holy month of Ramadan, what is the maximum number of hours they can be required to work each day according to Article 23 of the Employment Law 2019?",
+    "answer_type": "number",
+    "id": "2fc105ec9d11e361b057e8ce21245fbc01f14cefe5ccddada9d7541c952106d2"
+  },
+  {
+    "id": "b667804a5541a24d40f211b3febc69fa5e633d52a08baf9ce6735832ea4e5ec1",
+    "question": "Based on the full case files for DEC 001/2025 and CFI 057/2025, was there any judge involved in both cases?",
+    "answer_type": "boolean"
+  },
+  {
+    "question": "Under the Operating Law 2018, can the Registrar be held liable for acts or omissions in performing their functions if the act or omission is shown to have been in bad faith, according to Article 7(8)?",
+    "answer_type": "boolean",
+    "id": "b1d0245bb7c71b42f08a4cdbec612a56715295223472ac5a45af31811ada2f3b"
+  },
+  {
+    "id": "ad7357a7eb955085f6438dfcaf44324de7fcf88da86c846242e173eacdeebfda",
+    "question": "What was the result of the application heard in case SCT 169/2025?",
+    "answer_type": "free_text"
+  },
+  {
+    "id": "0aba04f64851d1419be984476f91f278e6ada2d6c536fd119d7ab37a8ed06593",
+    "question": "Do cases CFI 067/2025 and SCT 514/2025 involve any of the same legal entities or individuals as main parties?",
+    "answer_type": "boolean"
+  },
+  {
+    "question": "What is the effective date for due diligence requirements for Pre-existing Accounts and New Accounts under the Common Reporting Standard Law 2018?",
+    "answer_type": "free_text",
+    "id": "9596fb754439e6752034890c1272a2df7c0f9000db7d186db21aa232a253fca4"
+  },
+  {
+    "question": "According to Article 2 of the DIFC Personal Property Law 2005, who made this Law?",
+    "answer_type": "free_text",
+    "id": "9f48d8eca6d10cf26f60226078f0d9cb32d3aa2fd25c90c312549cb6265ebd84"
+  },
+  {
+    "question": "Based on the second page of the document, was the Claimant's application for continuation of the ASI Order granted by the court in case ARB 034/2025?",
+    "answer_type": "boolean",
+    "id": "802d12a65530cd728da4c2f4430275488285ced247123431a905f8d525e80ede"
+  },
+  {
+    "question": "According to Article 14(2)(l) of the Employment Law 2019, what is the maximum probation period in months for an Employee, except in specific fixed-term contract circumstances?",
+    "answer_type": "number",
+    "id": "84ef7f354a41168e99812515cd775297b36c35a541c5b8eb1978be771554b546"
+  },
+  {
+    "id": "5046b4e3fa11a42090ae0cef08c4cd64a1c8761955eb711db396f7fb1634ea86",
+    "question": "According to page 2 of the judgment, from which specific claim number did the appeal in CA 009/2024 originate?",
+    "answer_type": "name"
+  },
+  {
+    "question": "Does the Law on the Application of Civil and Commercial Laws in the DIFC Law No. 3 of 2004 apply in the jurisdiction of the Dubai International Financial Centre?",
+    "answer_type": "boolean",
+    "id": "042ddf2ed161068fab8072f16e01a15e11da9d741d207bfc0185e5133a810193"
+  },
+  {
+    "question": "Under Article 11(5) of the DIFC Trust Law 2018, is a term of the trust expressly declaring that the laws of the DIFC shall govern the trust valid, effective, and conclusive regardless of any other circumstance?",
+    "answer_type": "boolean",
+    "id": "e14ad296801b3fb6855a3a9338f1e9b8e2d1bfb05c99682a3cf4f9140b49b17b"
+  },
+  {
+    "id": "f33177fc2ed5b35033bfa1c7f9fc5d7a3776feb10b498c375cdcb40e0c53ffbf",
+    "question": "Is there any main party that appeared in both cases CA 004/2025 and SCT 514/2025?",
+    "answer_type": "boolean"
+  },
+  {
+    "question": "What does Article 16(1)(c) of the Employment Law 2019 require an Employer to keep records of regarding an Employee's remuneration?",
+    "answer_type": "free_text",
+    "id": "f29159d38bf494e330b32f03507df593d5869a129796a3b7f6efe14fd1b1a0a5"
+  },
+  {
+    "id": "2e8b251fd560f4446bfc9c5fa4b83ecbce69d650a8fd00fc9815c1fb34a764ad",
+    "question": "Looking at the title/cover page of every document across both case TCD 001/2024 and case CFI 016/2025, is there any party (claimant or defendant) common to both cases?",
+    "answer_type": "boolean"
+  },
+  {
+    "id": "fa672c84261a575ba49aba560b6a00c5d944ab9373b764c743d79821658e0052",
+    "question": "What was the outcome of the specific order or application described in case CFI 016/2025, based on the last page of the document?",
+    "answer_type": "free_text"
+  },
+  {
+    "question": "Under Article 11 of the General Partnership Law 2004, is an unincorporated body of persons carrying on business for profit automatically deemed a partnership if there is an agreement specifying it as a body corporate?",
+    "answer_type": "boolean",
+    "id": "7aae865f328e2012c31b41b6e2cccac715c14df5b56ec548d3fa9cb6bc46dcd1"
+  },
+  {
+    "question": "If the Relevant Authority confirms a fine or action after an appeal under Article 21(5) of the Common Reporting Standard Law 2018, how many business days does the Reporting Financial Institution have to pay the fine or perform the action?",
+    "answer_type": "number",
+    "id": "e0798bd394af022603f1ed7a09641de2bb414bd14a9d6a2c494980c86095ccff"
+  },
+  {
+    "question": "According to Article 28(4) of the DIFC Trust Law 2018, can an order made consequential to a declaration under Articles 24 to 27 prejudice a purchaser in good faith for value of trust property without notice of the voidable matters?",
+    "answer_type": "boolean",
+    "id": "32bb32856c65215eddb17d2b5b938f58b4bec525af96f8637686e33b0d696e89"
+  },
+  {
+    "id": "698e30385362eebe29a7fd618bb6d5fc2d213fca30eb008f0496d3887d6b4677",
+    "question": "Is there any main party that appeared in both cases ARB 034/2025 and SCT 514/2025?",
+    "answer_type": "boolean"
+  },
+  {
+    "id": "52a35cfabe76f2c538c6f72a841a08e0cc85bbe8f732874a4d2827383794c213",
+    "question": "Did cases CA 004/2025 and ARB 034/2025 have any judges in common?",
+    "answer_type": "boolean"
+  },
+  {
+    "question": "According to Article 12(4) of the Common Reporting Standard Law and Article 18(2)(b) of the General Partnership Law, what are the retention periods for records?",
+    "answer_type": "free_text",
+    "id": "a341025df493b0e6a962fa637e3df6fe053c3de28cb2f5c8eb0814067af32b95"
+  },
+  {
+    "id": "acd7d2aea67ff920768aae75300837412f603e0e29f048ea33171ba52c1c0cd8",
+    "question": "Which case has an earlier Date of Issue: ENF 269/2023 or SCT 514/2025?",
+    "answer_type": "name"
+  },
+  {
+    "id": "f2a28b01dbdda99ec2b09a7001ea72e35b94a42c14c4bc5e5206c59857770306",
+    "question": "Is there a judge who presided over both case CFI 057/2025 and case ENF 269/2023?",
+    "answer_type": "boolean"
+  },
+  {
+    "id": "3c33f9a4de9bac177c65e3c3bd986ef05e527095e4c96aabbbed76599b727eb0",
+    "question": "Who are listed as the claimants in the case documents for SCT 295/2025?",
+    "answer_type": "names"
+  },
+  {
+    "id": "b982f3b308042c0eb23dfe264a56ab53866fbea5d3981c4bfcf3ffb6de22054e",
+    "question": "What was the result of the application heard in case CFI 067/2025?",
+    "answer_type": "free_text"
+  },
+  {
+    "question": "Who were the claimants in case CFI 010/2024?",
+    "answer_type": "names",
+    "id": "cdddeb6a063f29cbea5f10b3dccbd83aa16849e1f3124e223d141d1578efeb0a"
+  },
+  {
+    "question": "According to Article 19(2)(c) of the Common Reporting Standard Law 2018, how many days does a Reporting Financial Institution have to pay a fine for opening a New Account without a valid self-certification after receiving notification?",
+    "answer_type": "number",
+    "id": "f5c27c961e218728abde9ff9031d1701cb36db4a2e590d2dbd8914dd28a27b20"
+  },
+  {
+    "question": "According to Article 9(9)(a) of the Operating Law 2018, how many months does a Licence typically have effect from its issue date by the Registrar?",
+    "answer_type": "number",
+    "id": "7b31467fd9f391a836ecd316b258a6d5e849cb62a9a0c95573b084c1d1338ba0"
+  },
+  {
+    "id": "6b20dd63f6b2072c51f7063e32f5accf7218fd36fdfcc3fb627867139b41359e",
+    "question": "Which case has an earlier Date of Issue: SCT 169/2025 or SCT 295/2025?",
+    "answer_type": "name"
+  },
+  {
+    "question": "If a Reporting Financial Institution fails to provide specified information during an investigation, does this constitute obstruction of Inspectors under Article 17(b) of the Common Reporting Standard Law 2018?",
+    "answer_type": "boolean",
+    "id": "a499c8553e73100d9ecc8ccd1164beea4b82fa6b32c519de1a37c861925076a1"
+  },
+  {
+    "id": "de67a8574c9e4352ba32d662761e8b2e59ce1d2ae36c33cf5c563dfc5d879920",
+    "question": "Considering all documents across case CA 005/2025 and case TCD 001/2024, was there any judge who participated in both cases?",
+    "answer_type": "boolean"
+  },
+  {
+    "question": "According to Article 10 of the Employment Law 2019, how many months after the Termination Date must a claim under this Law be presented to the Court, unless otherwise specified?",
+    "answer_type": "number",
+    "id": "e153746c20cc385a520728ac381151f424c9eee10e4c582904fee70afe9af243"
+  },
+  {
+    "id": "922dcd5ae0d2420ec5577ed8094f593124f7b69f7e61b12c24ad46410114e8ae",
+    "question": "What official law number is stated on the cover page of the DIFC Trust Law?",
+    "answer_type": "number"
+  },
+  {
+    "id": "f950917f9b85f687161b1022a11c3ce31e4f6ab459af69dfea311c20893fc8a7",
+    "question": "Who are listed as the claimants in the case documents for CFI 067/2025?",
+    "answer_type": "names"
+  },
+  {
+    "question": "Under Article 26(2) of the Employment Law 2019, for how many months after the actual date of childbirth is a female Employee returning from Maternity Leave entitled to nursing breaks if her working time exceeds six hours?",
+    "answer_type": "number",
+    "id": "254c8499b22ba05b0b1536c111b23e8afb031d0ed14af5970f665d6b1e821e65"
+  },
+  {
+    "question": "According to Article 19(4) of the General Partnership Law 2004, how many months after the end of the financial year must the accounts for that year be prepared and approved by the Partners?",
+    "answer_type": "number",
+    "id": "322674cd65809bde505d9f50edb1bf7e1674f7e118a8179617732a3942b52d74"
+  },
+  {
+    "question": "If a Reporting Financial Institution obtains or creates records in a language other than English under the Common Reporting Standard Law 2018, what must it provide upon request to the Relevant Authority?",
+    "answer_type": "free_text",
+    "id": "87a1294f4e8414adaf49579d914252f4c7a9e90c54a452b5a420bed4934ce335"
+  },
+  {
+    "question": "On what date was the DIFC Personal Property Law 2005 enacted?",
+    "answer_type": "free_text",
+    "id": "b2fcc22c0bfc27e799fec5df74c911114a91f83d0aa2995729390d6c8cb80c1a"
+  },
+  {
+    "id": "8167b0cfeb476ce373ca991b28b3b35f78a8c3c9a5e3d1b682fdbb0ed5604ef4",
+    "question": "Looking only at the last page of the document in case SCT 514/2025, what was the outcome of the specific order or application described?",
+    "answer_type": "free_text"
+  },
+  {
+    "id": "2e211d0cdb29134de759b277c8b8ed5b8fe43f033dcec1e4bd15feafb1dbb8ab",
+    "question": "Across all documents in case DEC 001/2025 and case SCT 514/2025, is there any legal entity or individual that appears as a main party in both cases?",
+    "answer_type": "boolean"
+  },
+  {
+    "id": "89f4b2e86cf7e48e185b9d5775d67e7c8a51beccbb20abce8dac2a1b0e80b723",
+    "question": "Were the Miranda rights properly administered in case ENF 269/2023?",
+    "answer_type": "free_text"
+  },
+  {
+    "question": "When was the consolidated version of the Law on the Application of Civil and Commercial Laws in the DIFC published?",
+    "answer_type": "free_text",
+    "id": "98d473221f50a845466544b43d6bb52b0497893aade63a8659db228459c271b4"
+  },
+  {
+    "id": "5cb2e9e631929fec4306d0bf7cbf145bcfe5f29d86eade85178d359852626cbf",
+    "question": "Does the DIFC law numbered DIFC Law No. 7 of 2018 deal with insolvency and preferential debts?",
+    "answer_type": "boolean"
+  },
+  {
+    "question": "Summarize the court's final ruling in case CFI 010/2024, as stated on the first page of the document.",
+    "answer_type": "free_text",
+    "id": "30167c4bda50157907608b180c50e4e49902b0cb6bd09b6461b6c7cb75961a1b"
+  },
+  {
+    "id": "30040cc854022341de6bb9ee7dc3e932d540666a1addda4750bf974ce9d9292f",
+    "question": "Which case has an earlier Date of Issue: CFI 016/2025 or ENF 269/2023?",
+    "answer_type": "name"
+  },
+  {
+    "question": "According to Article 16(1) of the Operating Law 2018, what document must every Registered Person file with the Registrar at the same time as applying for Licence renewal?",
+    "answer_type": "name",
+    "id": "33060f268efcac79c65cd3e0a39bc0f7d91d9bb1802bc2e08bfa43ec5a5cd355"
+  },
+  {
+    "question": "Under Article 11(2)(b) of the Employment Law 2019, can an Employee waive any right under this Law by entering into a written agreement with their Employer to terminate employment, provided they were given an opportunity to receive independent legal advice or took part in mediation?",
+    "answer_type": "boolean",
+    "id": "0149374f1699ab209f6169cffcdd94f45072fca07fbf7a580720760f5c32f658"
+  },
+  {
+    "id": "5c3ca60614572a117bb7436e202cb32249c186ad8c5526b35a3556b54ff425b7",
+    "question": "Which case has an earlier Date of Issue: CA 004/2025 or SCT 295/2025?",
+    "answer_type": "name"
+  },
+  {
+    "id": "52e9e31a6d7a80a597147115b3d38065da495a41e7c11e797d0a190c9a580bcf",
+    "question": "What was the outcome of the specific order or application described in case SCT 295/2025?",
+    "answer_type": "free_text"
+  },
+  {
+    "id": "fdeb03aecacff6f7d78a86ff22a13e95abe014855c18282b142d6ad1f46daa0a",
+    "question": "Review the full case files for DEC 001/2025 and TCD 001/2024 — did any judge preside over proceedings in both cases?",
+    "answer_type": "boolean"
+  },
+  {
+    "id": "eeffebf44c689e60729c466dd3fda5e7c2731c84220464c1808ef661452d1de0",
+    "question": "According to the Conclusion section of case CA 009/2024, how did the Court of Appeal rule, and what costs were awarded?",
+    "answer_type": "free_text"
+  },
+  {
+    "question": "What was the claim value in AED referenced in the appeal judgment CA 005/2025?",
+    "answer_type": "number",
+    "id": "6c32a091c7108047fabbea4f78137837d79c46a5a864963872cb7035ea9cce0f"
+  },
+  {
+    "id": "f564b1fd7332944fa826e3af69330b53e8fed018c370dde5b57a8e338d4ecd62",
+    "question": "Between CFI 016/2025 and CFI 057/2025, which document has the earlier issue date?",
+    "answer_type": "name"
+  },
+  {
+    "question": "According to Article 13 of the Employment Law 2019, can an Employer employ a child who is under sixteen years of age?",
+    "answer_type": "boolean",
+    "id": "b31a702f36e2c43e845e13f160ebc35d3d6ea27eb66a351561a94f0ce56b8667"
+  },
+  {
+    "question": "According to Article 7(3)(j) of the Operating Law 2018, can the Registrar delegate its functions and powers to officers or employees of the DIFCA without the approval of the Board of Directors of the DIFCA?",
+    "answer_type": "boolean",
+    "id": "b13500141f04c86f328b49c56ba01c7bc13bce5afee9646860912718291a5c1a"
+  },
+  {
+    "question": "From the header/caption section of each document in case TCD 001/2024, identify all parties listed as Claimant.",
+    "answer_type": "names",
+    "id": "43f77ed8a37c7af9b3e52b0532c593c768f8f1159db9b9ca717a700d6b0a47f9"
+  },
+  {
+    "id": "12eaaba41338f13b21be7ab9fa1d754390b7aab512e9f33ea7184cc2b2f54d86",
+    "question": "Is there a judge who presided over both case CA 004/2025 and case CFI 010/2024?",
+    "answer_type": "boolean"
+  },
+  {
+    "question": "What is the minimum period for which a DIFC-incorporated General Partnership and a DIFC-incorporated Limited Liability Partnership must preserve their accounting records?",
+    "answer_type": "free_text",
+    "id": "1097af38db84c4d507357bfbdcbbcc1de60a0ccb10752bad8091a75b8f53eb5c"
+  },
+  {
+    "id": "0a414e1d999bcde13b5dac055194ed52527555ac577946acef75372eaad360fa",
+    "question": "What did the jury decide in case ENF 269/2023?",
+    "answer_type": "free_text"
+  },
+  {
+    "question": "According to Article 14(2)(b) of the General Partnership Law 2004, how many years must a Recognised Partnership's Accounting Records be preserved?",
+    "answer_type": "number",
+    "id": "146567e3d096312584103b24983e3ff8e904e4ec5dea993d9774d24fef15fce7"
+  },
+  {
+    "id": "81d5652bd7e7518381629876f05fdded589e1acc60c8e93aae54488d23493214",
+    "question": "Is there a judge who presided over both case ARB 034/2025 and case CFI 067/2025?",
+    "answer_type": "boolean"
+  },
+  {
+    "question": "Under Article 10(3) of the Operating Law 2018, how many days does a Registered Person have to change its name if it becomes misleading, deceptive, or conflicting?",
+    "answer_type": "number",
+    "id": "ca8aebcc86f2b1ea064a28736c67b04357474bcf1128890991c73a237091638a"
+  },
+  {
+    "id": "d9d27c9cace6eafd11dbb349244e0443e16c8cc0efdf516514cc945135e1a597",
+    "question": "Between ARB 034/2025 and SCT 295/2025, which was issued first?",
+    "answer_type": "name"
+  },
+  {
+    "id": "be35b591e2e2383879988055e11ebf31df0e145903e04b4e0c6fca1786ff634d",
+    "question": "According to the 'IT IS HEREBY ORDERED THAT' section of arbitration case ARB 034/2025, what did the court decide?",
+    "answer_type": "free_text"
+  },
+  {
+    "id": "8bf189fe861d79f2e2dfb2e9126fe590c41f6034afc0ee1ef5aefa61202b9d01",
+    "question": "Based on all documents in case CFI 010/2024 and case DEC 001/2025, did any judge appear in both cases?",
+    "answer_type": "boolean"
+  },
+  {
+    "id": "c9f0dd67c60a88de9c2c38956f2ffd7b394eb4d7568c73d1869b4182480faf64",
+    "question": "According to the 'IT IS HEREBY ORDERED THAT' section of case SCT 454/2024, what was the outcome of the application for permission to appeal?",
+    "answer_type": "free_text"
+  },
+  {
+    "id": "84a7c3564026e528c0a5e6a86a72447b4be016d6aa26ce5ce87843c58a975629",
+    "question": "What was the plea bargain in case ARB 034/2025?",
+    "answer_type": "free_text"
+  },
+  {
+    "id": "b9e824da7bc69fa5b2f4e989a4d591d9c5196362cc985f70a9c29e6f710ea817",
+    "question": "According to the 'IT IS HEREBY ORDERED THAT' section of case CFI 092/2024, what was the outcome of the Defendants' application?",
+    "answer_type": "free_text"
+  },
+  {
+    "question": "According to Article 12(4) of the Common Reporting Standard Law 2018, for how many years must records be retained by Reporting Financial Institutions after the date of reporting the information?",
+    "answer_type": "number",
+    "id": "3ab3489605bc64891f36d9f3c7cf9c8608d08163b8673db41aa359097786b4bc"
+  },
+  {
+    "id": "ec0aa6992207b818c06e57dd28b08dad22ba2de3bd9e81a9a222e2fba9814406",
+    "question": "Who are listed as the claimants in the case documents for SCT 454/2024?",
+    "answer_type": "names"
+  },
+  {
+    "id": "e9b7a25f2bca575390d55244471366612a7698321f47c4f1eb28724c8448ef7d",
+    "question": "Was the same judge involved in both case CFI 010/2024 and case CFI 016/2025?",
+    "answer_type": "boolean"
+  },
+  {
+    "question": "Under Article 11(1) of the Employment Law 2019, is a provision in an agreement to waive minimum employment requirements void in all circumstances, except where expressly permitted by the Law?",
+    "answer_type": "boolean",
+    "id": "d6eb4a640e0ad690e92c1463e15f5394d36d8f5bb407f0fa4d7413c456c7a5bd"
+  },
+  {
+    "id": "88f62d095220495f4a36b31f9f976e726aea7b53f6aead57084c6d8b36dc9814",
+    "question": "Which case was issued earlier by the Court of First Instance: CFI 057/2025 or CFI 067/2025?",
+    "answer_type": "name"
+  },
+  {
+    "id": "dd736c7955429054fc55ea9eb55b96d3feb13e410f27a25651eefe5ecb536575",
+    "question": "Which case has an earlier Date of Issue: ENF 269/2023 or SCT 169/2025?",
+    "answer_type": "name"
+  },
+  {
+    "id": "84941458c4ade946dae84cf5ebc4abf362a6f6e6fec835ba5c43ad2d3b4b14d7",
+    "question": "Is there any information about parole hearings in case CFI 057/2025?",
+    "answer_type": "free_text"
+  },
+  {
+    "id": "ff1b357588e9b5881ec9b1558ede2892e7cbf42a6787a1cbb922b45318f66778",
+    "question": "According to the title page of the DIFC Law on the Application of Civil and Commercial Laws, what is its official law number?",
+    "answer_type": "number"
+  },
+  {
+    "question": "Under Article 22 of the Operating Law 2018, for how many years from the date the Registrar becomes aware of an act or omission can the Registrar exercise powers in respect of a former Registered Person removed from the Public Register?",
+    "answer_type": "number",
+    "id": "f2ea23e9f861379a5c049830b57dcb499d4e6ce51013e64d49722b5845139e22"
+  },
+  {
+    "question": "Who is responsible for administering the Employment Law and any Regulations made under it?",
+    "answer_type": "free_text",
+    "id": "095cb50318776a3b8ef11769cd941775694c194924783ee31109c25e3306600e"
+  },
+  {
+    "question": "Who administers the Foundations Law?",
+    "answer_type": "free_text",
+    "id": "c2cf8224f1166780b25c77feede37101c514517ed61485c9ae31f6b1eb8c744b"
+  },
+  {
+    "question": "What is the purpose of Article 9(1) of the Foundations Law?",
+    "answer_type": "free_text",
+    "id": "cd69f5dfe06d2e7afac26c7b332ea925987864cc6730f90cce020d34d823abbe"
+  }
+]

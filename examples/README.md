@@ -44,6 +44,13 @@ Complete RAG pipeline using LangChain:
 - `langchain/naive_rag_langchain.py` - Main script
 - `langchain/requirements_langchain.txt` - Dependencies
 
+### 5. Legal Hybrid RAG (`legal_hybrid_rag.py`)
+
+Challenge-specific hybrid retrieval over ingestion outputs:
+- Uses `ingestion/docs_corpus_ingest_result` rather than loading PDFs directly
+- Applies legal structure-aware chunking and typed question routing
+- Emits starter-kit telemetry and `submission.json`
+
 ## Installation
 
 ```bash
