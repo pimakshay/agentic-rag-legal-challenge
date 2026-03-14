@@ -1,0 +1,2557 @@
+[
+    {
+        "type": "text",
+        "text": "DEC 001/2025 Techteryx Ltd v (1) Aria Commodities DMCC (2) Mashreq Bank PSC (3) Emirates Nbd Bank PJSC (4) Abu Dhabi Islamic Bank PJSC ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            170,
+            921,
+            252
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OCTOBER 17, 2025 DIGITAL ECONOMY COURT - ORDERS ",
+        "bbox": [
+            42,
+            258,
+            568,
+            275
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claim No. DEC 001/2025 ",
+        "bbox": [
+            726,
+            313,
+            959,
+            331
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IN THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS ",
+        "bbox": [
+            205,
+            348,
+            794,
+            366
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IN THE COURT OF FIRST INSTANCE ",
+        "bbox": [
+            42,
+            382,
+            386,
+            403
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BETWEEN ",
+        "bbox": [
+            40,
+            418,
+            144,
+            435
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TECHTERYX LTD. ",
+        "bbox": [
+            416,
+            453,
+            584,
+            470
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claimant ",
+        "bbox": [
+            875,
+            487,
+            959,
+            504
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "bbox": [
+            480,
+            520,
+            519,
+            536
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1) ARIA COMMODITIES DMCC (2) MASHREQ BANK PSC (3) EMIRATES NBD BANK PJSC (4) ABU DHABI ISLAMIC BANK PJSC ",
+        "bbox": [
+            322,
+            554,
+            675,
+            653
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Defendants ",
+        "bbox": [
+            852,
+            669,
+            957,
+            686
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AMENDED ORDER WITH REASONS OF H.E. JUSTICE MICHAEL BLACK KC ",
+        "bbox": [
+            139,
+            725,
+            857,
+            745
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UPON the Order of H.E. Justice Michael Black KC dated 28 February 2025 transferring Case No. CFI-020-2025 to Case No. DEC-001-2025 and granting alia the following injunctions: ",
+        "bbox": [
+            42,
+            788,
+            961,
+            832
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(a) a proprietary injunction prohibiting the First Defendant from disposing of, dealing with, or diminishing cash or assets to the value of the sum of USD 456,000,000 transferred to the First Defendant or the traceable proceeds thereof (the “Proprietary Order”); and ",
+        "bbox": [
+            78,
+            846,
+            959,
+            913
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(b) a worldwide freezing injunction, prohibiting the First Defendant from removing from Dubai any of its assets which are in Dubai up to the value of USD 456,000,000 or in any way disposing of, dealing with or diminishing the value of any of its assets whether in or outside Dubai up to the same value (the “WFO”) ",
+        "bbox": [
+            77,
+            17,
+            959,
+            109
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Order of H.E. Justice Michael Black KC dated 18 March 2025 continuing the Proprietary Order and the WFO on varied terms (respectively, the “Varied Proprietary Order” and the “Varied WFO”) until a further return date hearing on 12 May 2025 ",
+        "bbox": [
+            42,
+            116,
+            961,
+            184
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Order of H.E. Justice Michael Black KC dated 14 April 2025 prohibiting the First Defendant from taking any steps in relation to the Securitization until after the Return Date on 12 May 2025 or further order of the Court (the “Securitization Injunction”) ",
+        "bbox": [
+            40,
+            199,
+            961,
+            268
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Order of H.E. Justice Michael Black KC dated 16 May 2025 (as amended on 19 May 2025) directing that there be a further return date hearing commencing on 21 July 2025 (the “Final Return Date Hearing”), continuing the Varied Proprietary Order, the Varied WFO and the Securitization Injunction (together, the “Injunctions”) until the Final Return Date Hearing (or further order of the Court) and permitting the First Defendant to serve rejoinder evidence in relation to the Final Return Date Hearing ",
+        "bbox": [
+            38,
+            284,
+            961,
+            424
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Court on 29 July 2025: ",
+        "bbox": [
+            40,
+            441,
+            394,
+            460
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) deciding that the Injunctions shall remain in place until further order;   \n(b) providing a broad indication of its reasons by email dated 29 July 2025; and   \n(c) indicating that a judgment setting out the reasons in full will be provided to the parties in due course ",
+        "bbox": [
+            77,
+            473,
+            963,
+            581
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Order of H.E. Justice Michael Black KC dated 7 August 2025 ",
+        "bbox": [
+            42,
+            599,
+            732,
+            618
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Judgment H.E. Justice Michael Black KC dated 16 September 2025 (the “Judgment”) ",
+        "bbox": [
+            42,
+            634,
+            952,
+            653
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Claimant’s Application No. DEC-001-2025/12 dated 17 September 2025 seeking orders (1) permitting the collateral use of documents and information disclosed or provided by the First Defendant in these proceedings for the purposes of related proceedings against DMCC or other parties in other jurisdictions (the “Collateral Use Application”) and (2) requiring the First Defendant to remedy its non-compliance with the disclosure orders in paragraphs 14-16 of the WFO (the “Disclosure Application”) ",
+        "bbox": [
+            38,
+            669,
+            961,
+            810
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the First Defendant’s Application No. DEC-001-2025/13 dated 19 September 2025 seeking amendments to the Judgment (the “Amendment Application”) ",
+        "bbox": [
+            40,
+            826,
+            961,
+            870
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON hearing Counsel of the Claimant and the Counsel of the First Defendant at a further hearing held on 2 October 2025 before H.E. Justice Michael Black KC (the “Hearing”) ",
+        "bbox": [
+            40,
+            885,
+            961,
+            931
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IT IS HEREBY ORDERED THAT: ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            945,
+            337,
+            964
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The parties shall agree drafts of the following orders and submit them to the Court within 48 hours of receipt of this Order: ",
+        "bbox": [
+            40,
+            17,
+            963,
+            60
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) the fi rst order should deal with amendments to the interim WFO by way of a FRD WFO Order (including the amendment to the Judgment);   \n(b) the second order should deal with disclosure under a penal notice; and   \n(c) the third order should deal with costs.   \nIssued by:   \nHayley Norton   \nAssistant Registrar   \nDate of issue: 8 October 2025   \nDate of re-issue: 17 October 2025   \nAt: 3pm ",
+        "bbox": [
+            77,
+            73,
+            963,
+            184
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            648,
+            198,
+            959,
+            340
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE OF REASONS ",
+        "text_level": 1,
+        "bbox": [
+            376,
+            356,
+            625,
+            374
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            392,
+            198,
+            410
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Following the Final Return Date (“FRD”) hearing which took place over three days commencing on 22 July 2025, at the invitation of the parties, on 30 July 2025, I made my order and gave brief oral reasons. I ordered that the proprietary and freezing injunctions granted on 28 February 2025 (together the “WFO”) shall continue until further order of the Court. On 7 August 2025, I ordered (amongst other things): ",
+        "bbox": [
+            38,
+            428,
+            961,
+            546
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1) There shall be a further hearing in respect of consequential matters arising in relation to the Judgment (the “Consequentials Hearing”), such hearing to be fi xed with a time estimate of 1 day on a date convenient to the Court and the parties when a draft of the judgment is circulated to the parties. ",
+        "bbox": [
+            77,
+            560,
+            961,
+            653
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2) The Consequentials Hearing shall cover (without limitation) the following matters (together with any other applications fi led by the parties): ",
+        "bbox": [
+            77,
+            668,
+            963,
+            712
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) any orders in relation to costs (“Costs”);   \n(b) the continuing confi dentiality of the proceedings (“Privacy”); (c) the First Defendant’s alleged non-compliance with the WFO; and (d) any variations to be made to the WFO. ",
+        "bbox": [
+            115,
+            727,
+            729,
+            848
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. On 3 September 2025, I completed my judgment in draft and it was circulated to the parties for their comments which they returned on 15 September 2025. The fi nalised judgment was issued on 16 September 2025 (the “Judgment”). ",
+        "bbox": [
+            38,
+            862,
+            961,
+            933
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. The abbreviations adopted in the Judgment are also used in this Order. ",
+        "bbox": [
+            35,
+            946,
+            702,
+            965
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. On 17 September 2025, the Consequentials Hearing was listed for 2 October 2025. On the same day the Claimant (,“Techteryx”) issued an application seeking orders: ",
+        "bbox": [
+            40,
+            17,
+            961,
+            64
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) permitting the collateral use of documents and information disclosed or provided by the First Defendant (“DMCC”) in these proceedings for the purposes of related proceedings against DMCC or other parties in other jurisdictions (the “Collateral Use Application”); and (2) requiring DMCC to remedy its non-compliance with the disclosure orders in paragraphs 14-16 of the WFO (the “Disclosure Application”). ",
+        "bbox": [
+            72,
+            77,
+            963,
+            211
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5. On 19 September 2025, DMCC issued an application seeking amendments to the Judgment (the “Amendment Application”). ",
+        "bbox": [
+            43,
+            223,
+            963,
+            269
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. The parties fi led skeleton arguments on 30 September and 1 October 2025 and the Consequentials Hearing took place on 2 October 20025. Techteryx was represented by Mr David Holloway and DMCC was represented by Mr George McPherson. ",
+        "bbox": [
+            40,
+            282,
+            959,
+            351
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7. The following issues fall to be considered and I will address them in them in the following order: ",
+        "bbox": [
+            38,
+            365,
+            917,
+            385
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) Amendment Application;   \n(2) Privacy;   \n(3) Collateral Use Application;   \n(4) Disclosure Application;   \n(5) Costs (including release of the security for DMCC’s costs paid into Court by Techteryx). ",
+        "bbox": [
+            77,
+            397,
+            897,
+            549
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AMENDMENT ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            565,
+            174,
+            583
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8. There were two limbs to DMCC’s application. In the fi rst, DMCC requested that the word \"abricated\" be replaced with the word \"executed\" in paragraph 353 of the Judgment. This was an error, the correct reference was paragraph 365. The second was vague and diffi cult to follow in the Application Notice. It gained some defi nition in Mr McPherson’s skeleton argument but that did not however save it from being hopeless. DMCC was essentially seeking further emphasis of what was already patent from the Judgment, namely that any fi ndings made by the Court were on the “serious issue to be tried” basis. Mr McPherson sensibly did not press that limb of the application in his oral submissions. ",
+        "bbox": [
+            38,
+            598,
+            961,
+            785
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9. DMCC fared somewhat better on the fi rst limb and something of a consensus emerged at the hearing. Paragraph 365 (unamended) reads as follows: ",
+        "bbox": [
+            40,
+            800,
+            963,
+            843
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The so-called Porting exercise remains obscure notwithstanding (or perhaps because of) MWB's various accounts of what occurred. What is undeniably true is that MwB has produced documents to this Court that he accepts were fabricated after the event and do not constitute a truthful record of what occurred on their apparent dates. On the current state of the evidence it is not easy to envisage an explanation of the various subscription, confirmation, distribution and redemption documents that is consistent with an honest explanation.\" ",
+        "bbox": [
+            80,
+            857,
+            963,
+            925
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            77,
+            17,
+            961,
+            84
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10. I accepted that when one consults the dictionary the word “fabrication” can carry with it the implication that something was created in order to deceive. I also accepted that MWB did not admit that he created what he called the “mirror set” of documents in order to deceive and I therefore misstated the evidence by using the word “fabricated” in its literal sense rather than in sense of implying dishonesty. I interrupted submissions saying that I was content to substitute the word created\" and Mr Holloway accepted that would be a legitimate exercise under the \"slip rule\" (Rule 36.41 of the Rules of the DIFC Courts (“RDC”)) which permits the Court at any time to correct an accidental slip or omission in a judgment or order). ",
+        "bbox": [
+            40,
+            90,
+            961,
+            280
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "11. I would however add two comments. First, the application to amend the Judgment could and should have been made at the stage when it was circulated in draft. No explanation was proffered why this was not done. Had the potential for misunderstanding not been so great (i.e. that MWB had actually admitted dishonesty) I should have dismissed the application on the grounds of delay alone. Secondly, the comment in the sentence that follows stands, namely that it is not easy to envisage an explanation of the various subscription, confi rmation, distribution and redemption documents that is consistent with an honest explanation. ",
+        "bbox": [
+            40,
+            294,
+            961,
+            457
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PRIVACY ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            474,
+            131,
+            492
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12. Techteryx submits that the default position or strong presumption is that proceedings should be public. RDC 23.79 provides that “Applications (other than arbitration applications) will be heard in public in accordance with Article 13 of the Court Law, save where otherwise ordered\" and RDC 35.2 that “The general rule is that a hearing is to be in public. ” Article 13 of the Court Law 2004 has been superseded by the Court Law 2025, Article 8A of which states that, “All DIFC Court hearings shall be held open to the public and all judgements wil be announced publicly unless the DIFC Laws or the Rules of the Courts shall stipulate otherwise, or the DIFC Court shall order otherwise of its own initiative. ",
+        "bbox": [
+            40,
+            507,
+            963,
+            695
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "13. H.E. Justice Sir Jeremy Cooke explored the issue in Lumbini v Lotika [2021] DIFC CFI 060 (5 January 2022) in which he held that the proceedings should be public (although bizarrely his decision was anonymised). Sir Jeremy said that there is a strong presumption in favour of proceedings being held in public. Rule 35.4 of RDC sets out circumstances in which a hearing may be held in private, namely ",
+        "bbox": [
+            40,
+            708,
+            961,
+            825
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) publicity would defeat the object of the hearing;   \n(2) it involves matters relating to national security;   \n(3) it involves confi dential information (including information relating to personal fi nancial matters) and publicity would damage that confi dentiality; ",
+        "bbox": [
+            77,
+            838,
+            961,
+            948
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4) a private hearing is necessary to protect the interests of any child or patient, including the approval of a compromise or settlement on behalf of a child or patient or an application for the payment of money out of Court to such a person; ",
+        "bbox": [
+            78,
+            17,
+            959,
+            85
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(5) it is a hearing of an application made without notice and it would be unjust to any respondent for there to be a public hearing; ",
+        "bbox": [
+            77,
+            98,
+            963,
+            142
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(6) it involves uncontentious matters arising in the administration of trusts or in the administration of a deceased person’s estate; or ",
+        "bbox": [
+            77,
+            156,
+            961,
+            199
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(7) the Court considers this to be necessary, in the interests of justice. ",
+        "bbox": [
+            72,
+            212,
+            702,
+            231
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "14. Mr McPherson relied on two grounds falling broadly under the interests of justice. First, reputational damage to the business of DMCC. He submitted that that the damage would be signifi cant and disproportionate where operating in highly regulated fi nancial services. There would be a ripple effect that would adversely affect the trading entities owned by DMCC which (as I had already observed) would be in no-one’s interests. Secondly, the contents of the Judgment would adversely affect DMCC’s right to defend itself where it has not had a full opportunity to deploy its defence. The Judgment sets out the allegations against DMCC with a cogency lacking in the pleaded case against DMCC in Hong Kong. ",
+        "bbox": [
+            40,
+            237,
+            961,
+            425
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "15. It was accepted that the Judgment should be released to the Hong Kong High Court but the right balance was said to be to confi ne the relaxation of privacy to the Judgment alone. ",
+        "bbox": [
+            42,
+            438,
+            961,
+            482
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "16. The difference between allowing access to the Judgment alone and declaring the proceedings to be public is twofold. By RDC 6.10(1) a non-party to the proceedings may in general obtain in addition to any judgment, a statement of case, although not any documents fi led with or attached to the statement of case, or intended by the party whose statement it is to be served with it. Further (to be considered more fully in the section of this judgment addressing collateral use of documents disclosed in the proceedings), by RDC 28.64(1) a party to whom a document has been produced may use the document only for the purpose of the proceedings in which it has been produced, except where the document has been read to or by the Court , or referred to, at a hearing which has been held in public. ",
+        "bbox": [
+            38,
+            495,
+            961,
+            683
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "17. Mrs justice Cockerill (as she then was) wryly observed in Lakatamia Shipping Co Ltd v Su [2021] 1 WLR 1097 that the latter provision (which derives from the English CPR) “is thought by many not to be amasterpieofther ofdrafting\" It wiberelatively es toientiy from a transcipt whee document has been read to the Court or referred to at a hearing which has been held in public. “Read by the Court\" presents some real problems: does this extend to every document read by a Judge in preparation for the hearing or every document read in preparation of the judgment following the hearing. ",
+        "bbox": [
+            40,
+            696,
+            961,
+            860
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "18. I would suggest that the logic of the rule is that if a document has been made public in a hearing there is little point in restricting its use, as any confi dentiality attaching to it will have evaporated. I should therefore have thought that the mischief of the rule might more usefully and less ambiguously be captured by simply stating that a party to whom a document has been produced may use the document only for the purpose of the proceedings in which it has been produced, except where the document has been referred to at a hearing which has been held in public ( “referred to” on any natural reading must include being read to the Court). ",
+        "bbox": [
+            40,
+            873,
+            961,
+            966
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            42,
+            17,
+            959,
+            85
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "19. I do not fi nd Mr McPheson’s suggested reasons for departing from the general rule that hearings should be in public persuasive. As a matter of fact, there does not appear to be any evidence that DMCC, as opposed to the ARIA Fund, provides highly regulated fi nancial services. Be that as it may, DMCC’s argument seeks to “close the stable door after the horse has gone”. The allegations of fraud have already been made in the HK Proceedings. ",
+        "bbox": [
+            40,
+            98,
+            961,
+            215
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "20. The fact that the Judgment may set out those allegations in a more accessible form than the pleadings in the HK Proceedings is a strange and irrelevant point. DMCC cannot gainsay that the allegations made against it are within the public domain. ",
+        "bbox": [
+            40,
+            228,
+            959,
+            294
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "21. I cannot see how DMCC’s right to defend itself has been compromised. As I stated at paragraph 126 of the Judgement, “I operate under the usual interlocutory constraints that I am asked to opine on contested matters of contractual interpretation and disputed facts in the context of complex crossborder transactions on writen evidence carefully crafted and selected by the parties in the absence of disclosure and untested by cross-examination.\" If DMCC's carefully crafted and selected written evidence in the absence of disclosure and untested by cross-examination is insuffi cient to persuade the Court that there is no serious issued to be tried, it is a measure of the merits of its case. The Court was considering what should have been DMCC’s best case. ",
+        "bbox": [
+            40,
+            309,
+            961,
+            497
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "22. There is nothing that justifi es departure from the general rule in RDC 35.2 and Article 8A of the Court Law 2025. I shall order that the privacy that has hitherto attached to these proceedings shall be lifted and all hearings and all judgments shall be considered respectively to have been held and announced in public. ",
+        "bbox": [
+            40,
+            510,
+            961,
+            601
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "COLLATERAL USE ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            618,
+            221,
+            637
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "23. On analysis, the differences between the parties are less pronounced than would appear from their extensive written and oral submissions. ",
+        "bbox": [
+            40,
+            652,
+            959,
+            695
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "24. The full text of RDC 28.64 reads ",
+        "bbox": [
+            42,
+            709,
+            366,
+            727
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A party to whom a document has been produced may use the ocument only for the purpose of the proceedings in which it has been produced, except where: ",
+        "bbox": [
+            70,
+            741,
+            963,
+            785
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) the document has been read to or by the Court , or referred to, at a hearing which has been held in public; ",
+        "bbox": [
+            77,
+            799,
+            963,
+            843
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2) the Court gives permission; or ",
+        "bbox": [
+            80,
+            857,
+            384,
+            875
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3) the party who produced the document and the person to whom the document belongs agree.\" ",
+        "bbox": [
+            65,
+            889,
+            951,
+            909
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "25. RDC 29.60 addresses the use of witness statements in similar terms: ",
+        "bbox": [
+            35,
+            922,
+            695,
+            941
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A witness statement may be used only for the purpose of the proceedings in which it is served unless: ",
+        "bbox": [
+            78,
+            17,
+            963,
+            60
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) the witness gives consent in writing to some other use of it; (2) the Court gives permission for some other use; or (3) the witness statement has been put in evidence at a hearing held in public.\" ",
+        "bbox": [
+            73,
+            74,
+            791,
+            161
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "26. Techteryx already has express permission to use documents produced in these proceedings in other proceedings (“collateral use”) namely: the proceedings before the High Court of the Hong Kong Special Administrative Region under Claim Numbers HCA 161/2023 and HCA 1906/2023 and before the Singapore International Arbitration Centre Case Number 602/2023 (the “Relevant Proceedings”). Techteryx has undertaken that it will not without the permission of the Court use any information obtained as a result of these proceedings for the purpose of any civil or criminal proceedings, either in the DIFC or in any other jurisdiction. ",
+        "bbox": [
+            38,
+            173,
+            963,
+            343
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "27. By its Application Notice dated 17 September 2025, Techteryx now seeks permission of the Court to use documents, witness evidence (including affi davits, witness statements, and their exhibits) and information disclosed or provided by or on behalf of the First Defendant in these proceedings for the purposes of: ",
+        "bbox": [
+            40,
+            356,
+            963,
+            448
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) civil proceedings in any other jurisdiction in support of or related to the Relevant Proceedings or these proceedings, including the recognition or enforcement of any judgments arising out of those proceedings and any other claims brought to recover the Claimant’s assets, and in particular: ",
+        "bbox": [
+            77,
+            462,
+            961,
+            554
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) civil proceedings in the United States in relation to the recovery of moneys transferred by DMCC directly or indirectly to FTX; ",
+        "bbox": [
+            110,
+            567,
+            961,
+            611
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(b) arbitration proceedings being brought by Techteryx before the Singapore International Arbitration Centre against TrueCoin LLC and Mr Christian Alexander Boehnke De Lorraine-Elbeuf (also known as Alex de Lorraine); ",
+        "bbox": [
+            115,
+            624,
+            961,
+            692
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(c) proceedings in the Cayman Islands in relation to petitions for the winding up of ARIA Commodity Finance Fund (the “Fund”) and for the appointment of liquidators in relation to the Fund; and ",
+        "bbox": [
+            114,
+            705,
+            959,
+            772
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2) assisting with the enquiries of and investigations by government agencies concerning, amongst other things, onward dealings with any of the moneys received by DMCC from Legacy and FDT or their traceable proceeds. [my emphases] ",
+        "bbox": [
+            75,
+            787,
+            961,
+            854
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "28. In her Fifth Witness Statement, dated 24 September 2024, Karabeth Ovenden, a partner in QE, the legal representatives of DMCC (“KO-WS-5”), stated that should the Court consider it appropriate to grant further collateral use orders, then DMCC will not oppose in principle Techteryx being granted permission to make collateral use of the documents obtained in these proceedings, subject to ",
+        "bbox": [
+            40,
+            868,
+            961,
+            963
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Techteryx identifying the proceedings in which Techteryx intends to use such documents (as opposed to Techteryx being granted a general and unqualifi ed permission to use the documents obtained in any civil or criminal proceedings). ",
+        "bbox": [
+            42,
+            17,
+            959,
+            85
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "29. She noted that the exception in the WFO relates to the use of information only. It does not expressly permit Techteryx to use documents obtained by Techteryx as a result of the WFO in the Relevant Proceedings. This point goes nowhere. First, DMCC does not oppose Techteryx being granted permission to make collateral use of documents obtained in these proceedings, subject to Techteryx identifying the proceedings in which Techteryx intends to use the documents. Secondly, all the materials disclosed in these proceedings have been in documentary form. ",
+        "bbox": [
+            40,
+            98,
+            961,
+            239
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "30. Of more substance is Ms Ovenden’s observation that the draft order approved by me at the without notice hearing on 28 February 2025 deleted the provision in the standard form order relating to the privilege against self-incrimination in respect of the provision of information. This was removed on the basis that there is no criminal jurisdiction in the DIFC. Techteryx did not address the Court on any potential criminal liability (or related privilege) affecting DMCC in Hong Kong or Singapore or in any other jurisdiction. ",
+        "bbox": [
+            40,
+            252,
+            961,
+            391
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "31. While it might be said that this point could and should have been made earlier, I recognize that it may only be now that it has risen to the forefront of consideration given the much wider proposed use of the materials disclosed in these proceedings. In my judgment if permission for wider use is to be given, the usual saving for the privilege against self-incrimination must be restored. ",
+        "bbox": [
+            40,
+            405,
+            961,
+            497
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "32. Ms Ovenden annexed to her witness statement a draft order to which DMCC was willing to consent that tracked the order sought in the Application Notice save that the words “civil proceedings in any other jurisdiction in support of or related to the Relevant Proceedings or these proceedings, including the recognition or enforcement of any judgments arising out of those proceedings and any other claims brought to recover the Claimant's assets,\"were omitted limiting the concession to the US proceedings in relation to the payments to FTX, the SIAC arbitration between Techteryx and TrueCoin and Mr de Lorraine, the Cayman proceedings to wind up the Fund and assisting with the enquiries of and investigations by government agencies concerning onward dealings with the 6 Remittances. The words “amongst other things” were omitted from paragraph 2. ",
+        "bbox": [
+            40,
+            511,
+            963,
+            722
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "33. In its skeleton argument, Techteryx submits that there is one key remaining difference as to the terms of the order. DMCC suggests that Techteryx should be confi ned to identifying in advance the civil proceedings in which it intends to use such documents or information, and proposes removing the more general permission in Techteryx’s draft order. Techteryx says that this is unacceptable as Techteryx needs to be able to pursue relief, including urgent interim relief or preservation of assets, in other jurisdictions where assets or proceeds may exist. It needs to be able to do so promptly (potentially without notice) as otherwise it will be impeded in its asset-tracing and recovery. DMCC’s proposal that Techteryx identify all specifi c, potential proceedings now is impracticable because this may exclude legitimate but unforeseen collateral applications, which need to be made promptly. It would also necessitate multiple, iterative applications increasing costs, delays and (unfairly) giving DMCC notice of and the opportunity to obstruct prospective proceedings, which may be needed to preserve assets. ",
+        "bbox": [
+            40,
+            737,
+            961,
+            950
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            42,
+            17,
+            959,
+            85
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "34. Counsel for both parties then explored the legal principles governing collateral use of disclosed materials at some length. Techteryx relied heavily on the recent decision of H.E. Justice Le Miere in Byju's Alpha Inc v Raveendran & Anor [2025] DIFC CFI 050 (26 August 2025). Justice Le Miere undertook an extensive analysis of the English authorities on the identically worded English rule and his helpful distillation of the applicable principles may be summarised as follows: ",
+        "bbox": [
+            40,
+            98,
+            961,
+            215
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) The legal test for permitting the use of disclosed documents outside the original proceedings requires the presence of special circumstances. These need not be exceptional but must constitute cogent and persuasive reasons that justify the collateral use. ",
+        "bbox": [
+            77,
+            228,
+            959,
+            296
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2) Special circumstances will include: ",
+        "bbox": [
+            80,
+            310,
+            423,
+            328
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) cross-jurisdictional efforts to recover assets allegedly dissipated through conduct properly characterised as dishonest or fraudulent in nature; ",
+        "bbox": [
+            114,
+            343,
+            961,
+            386
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(b) the strong public interest in investigating and pursuing serious, cross\u0000border frauds, which outweighs the interest in restricting collateral use. International cooperation between courts is necessary to address transnational fraud effectively; ",
+        "bbox": [
+            115,
+            399,
+            961,
+            467
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(c) ensuring all courts have a full and accurate picture, reducing the risk of one-sided or misleading presentations; ",
+        "bbox": [
+            115,
+            481,
+            961,
+            524
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(d) avoiding confl ict of professional duties for lawyers if they are unable to correct or disclose inconsistencies that arise between what is said in a foreign court and what is said in DIFC proceedings; ",
+        "bbox": [
+            115,
+            537,
+            959,
+            605
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(e) facilitating the just resolution of litigation by ensuring that courts have all relevant evidence fairly to assess the credibility of the parties and the truth of contested facts. ",
+        "bbox": [
+            115,
+            618,
+            961,
+            663
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3) The legal standard of “necessary” in this context refers to what is reasonably required to achieve a legitimate legal objective, rather than what is indispensable. ",
+        "bbox": [
+            82,
+            676,
+            961,
+            719
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4) The Court must be satisfi ed that the proposed use is both necessary and proportionate, and that it would not result in unfairness or prejudice to the disclosing party. ",
+        "bbox": [
+            78,
+            733,
+            959,
+            776
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(5) There is no rule or principle requiring that an application for permission to use disclosed documents for a collateral purpose must include a schedule itemising each individual document and setting out reasons for its use. The overriding requirement is that the documents be described with suffi cient clarity and specifi city to enable the Court to identify the scope of the permission sought and to assess whether the legal test is met. While a schedule may be helpful in some cases, the key consideration is whether the documents are described in a manner that enables the Court to exercise its discretion effectively and fairly. ",
+        "bbox": [
+            77,
+            789,
+            959,
+            954
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(6) The DIFC Courts will adopt a pragmatic and commercially-oriented approach to applications for collateral use of disclosed documents, particularly in the context of international fraud litigation. The DIFC’s approach underscores its role as a forum for international commercial justice, prioritising substance over form where appropriate. ",
+        "bbox": [
+            78,
+            17,
+            961,
+            109
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(7) The Courts should adopt a reasonable and incremental approach. ",
+        "bbox": [
+            75,
+            123,
+            699,
+            141
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "35. Mr McPherson was critical of the decision in Byju ’s Alpha for including in the order granted “civil proceedings in any other jurisdiction in support of or related to the US Proceedings or the DIFC proceedings, including the recognition or enforcement of any judgments arising out of those proceedings and any other claims brought to recover the Claimant's assets\" - effectively the words deleted from Techteryx’s proposed order. He submitted that this went beyond the incremental approach exemplifi ed in the decision in Skatteforvaltningen (The Danish Customs and Tax Administration) v Solo Capital Partners LLP (in Special Administration) and Others [2019] EWHC 2807 (Comm). ",
+        "bbox": [
+            38,
+            146,
+            963,
+            335
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "36. I think this is to misunderstand H.E. Justice Le Miere’s decision. He accepted that the threshold was the presence of special circumstances. That will be a question of fact in each case. He recognised that the process was the exercise of a discretion. Again, a discretion can only be exercised on the basis of the facts of the individual case. He noted that the Court must be satisfi ed that the proposed use is both necessary and proportionate, and that it would not result in unfairness or prejudice to the disclosing party. He recognised the Court should adopt an incremental approach. I see nothing in Justice Le Miere’s judgment that (as Mr McPherson put it) goes further than the English authorities. What in fact Mr McPherson was criticising was not any statement of principle but how the discretion was exercised in a particular case which is irrelevant for present purposes. ",
+        "bbox": [
+            38,
+            348,
+            961,
+            560
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "37. Mr McPherson also sought to suggest that there should normally be a list specifying the document to be used. He relied on a passage in Matthews & Malek, Disclosure (6th ed), Chapter 19, paragraph 19-47: ",
+        "bbox": [
+            42,
+            574,
+            961,
+            640
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The application ought to specify clearly the documents in respect of which permission is sought and similar care should be taken in drawing up any order, listing the documents by way of schedule in appropriate cases so there can be no doubt which documents are covered. In general, it is inappropriate to seek a release in respect of disclosed documents wholesale, not least because the court needs to carry out a balancing exercise and it is only in special circumstances that the restriction or undertaking is to be modified. Where the application for permission is made at trial, a formal application may not be strictly necessary, but sufficient notice of the application should be given to the party who provided the discovery to enable him to consider his position adequately and, if thought fit, defend his interests accordingly. Permission may be given retrospectively.\" ",
+        "bbox": [
+            78,
+            655,
+            963,
+            891
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "38. H.E. Justice Le Miere pointed out in his judgment that in National Bank Trust v Yurov [2020] EWHC 757 (Comm) the court granted permission for the use of documents disclosed under a Worldwide Freezing Order in foreign enforcement proceedings. The documents were not listed individually in a schedule; rather, they were described by reference to their origin and the context in which they were disclosed. The court was satisfi ed that the category of documents was suffi ciently defi ned. Similarly, in Tchenguiz v Grant Thornton [2017] EWHC 310 (Comm), the court recognised the practical diffi culties in itemising large volumes of electronically stored documents and did not require a schedule. Instead, it emphasised the importance of case management and clarity in defi ning the scope of permitted use. ",
+        "bbox": [
+            40,
+            904,
+            961,
+            972
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            40,
+            17,
+            961,
+            156
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "39. I am bound to observe that not only has DMCC failed hitherto to object to the exceptions to the collateral use prohibition in the original order but it has also failed to suggest that the order lacked any clarity. In fact, the order sought by Techteryx is more defi ned and it is not without signifi cance that DMCC adopts Techteryx’s formulation in its own proposed order: “The Claimant has permission to use documents, witness evidence (including affidavits, witness statements, and their exhibits) and information disclosed or provided by or on behalf of the First Defendant in Claim No. DEC-001- 2025\". I fi nd the suggestion in DMCC’s skeleton argument that is not clear what ‘witness evidence’ covers beyond the generic reference to ‘affidavits, witness statements and their exhibits’ (nor whether, for example, this covers any expert reports served in the DIFC proceedings) unpersuasive. Any expert report is clearly “witness evidence”, i.e. the evidence of an expert witness. DMCC has been extremely vocal in criticising Kroll in its reports on behalf of Techteryx for failing to observe the standards of impartiality to be expected of an expert witness. ",
+        "bbox": [
+            40,
+            170,
+            961,
+            455
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "40. I consider that the documents the subject of any order are suffi ciently defi ned without the necessity for a schedule. ",
+        "bbox": [
+            42,
+            469,
+            961,
+            511
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "41. Adopting the incremental approach in the same way as Mr Justice Bryan in SKAT I note that while permission already exists to use the documents in Hong Kong in public proceedings (and that may be a gateway into the public domain) it is necessary to observe the criteria of necessity and proportionality. I fi nd the criticisms of Techteryx’s draft order by DMCC to be justifi ed. I am not willing to permit the use of the documents in undefi ned civil proceedings in any jurisdiction, nor do I consider an order allowing use assisting with the enquiries of and investigations by government agencies concerning, “amongst other things”, onward dealings with any of the moneys received by DMCC to be appropriate. This is too wide and too vague. I shall make an order in the terms of that annexed to KO-WS-05. ",
+        "bbox": [
+            38,
+            525,
+            961,
+            738
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "42. I do not read DMCC’s proposal to be that Techteryx immediately identify all specifi c, potential proceedings. I see no problem with Techteryx applying to this Court ex parte (if thought necessary) in writing if further and other proceedings are proposed in order to preserve assets. ",
+        "bbox": [
+            40,
+            751,
+            959,
+            819
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "DISCLOSURE ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            835,
+            174,
+            853
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "43. By its Application Notice dated 17 September 2025, Techteryx applies for the following order: ",
+        "bbox": [
+            47,
+            869,
+            907,
+            888
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) Matthew William Brittain shall within 7 days swear and serve an affi davit providing all of the information required by paragraph 14(2) of the Order of H.E. Justice Michael Black KC dated 28 February 2025 (the “WFO”), and shall produce any documentation in his control recording or relating to such information together with the affi davit. ",
+        "bbox": [
+            77,
+            901,
+            961,
+            969
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            0,
+            963,
+            36
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) The affi davit to be sworn pursuant to paragraph 1 of this Order must: ",
+        "bbox": [
+            77,
+            51,
+            727,
+            70
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) explain the onward fl ow of moneys and their traceable proceeds in respect of the full amount of USD 456,000,000 from the payments out of the First Defendant’s bank accounts to their current locations; (b) provide supporting documentation showing the complete onward fl ow of all of the moneys and their traceable proceeds to their current locations; ",
+        "bbox": [
+            115,
+            83,
+            961,
+            175
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(b) provide supporting documentation showing the complete onward fl ow of all of the moneys and their traceable proceeds to their current locations; ",
+        "bbox": [
+            115,
+            189,
+            961,
+            231
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(c) insofar as the First Defendant or Mr Brittain are unable to identify the current whereabouts and ultimate benefi ciary of any of the amounts or their traceable proceeds, provide an explanation of why they are unable to do so, and explain to the best of their knowledge, who was the most recent ultimate benefi ciary of any such assets; ",
+        "bbox": [
+            115,
+            246,
+            961,
+            337
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(d) address and remedy each of the failures to comply with paragraphs 14- 16 of the WFO, which are identifi ed in the Sixth Witness Statement of Rita Jaballah as set out in Schedule A to this Order; (e) address the inconsistencies between the documents produced by the First Respondent to FTI Consulting, and the evidence given in Mr Brittain’s affi davits and the FTI Report, which are identifi ed in the Sixth Witness Statement of Rita Jaballah as set out in Schedule A to this Order; and ",
+        "bbox": [
+            115,
+            350,
+            961,
+            491
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(e) address the inconsistencies between the documents produced by the First Respondent to FTI Consulting, and the evidence given in Mr Brittain’s affi davits and the FTI Report, which are identifi ed in the Sixth Witness Statement of Rita Jaballah as set out in Schedule A to this Order; and ",
+        "bbox": [
+            115,
+            505,
+            961,
+            595
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(f) identify any assets received by Mr Brittain, whether or not received or held in his own name and whether they are solely or jointly owned, from the funds received from Legacy Trust Company Limited and First Digital Trust Limited or their traceable proceeds. This includes any asset which he has or has had the power, directly or indirectly, to dispose of or deal with as if it were his own. ",
+        "bbox": [
+            112,
+            609,
+            961,
+            725
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(3) The First Defendant shall within 7 days produce to the Claimant’s legal representatives copies of the following documents ",
+        "bbox": [
+            42,
+            730,
+            961,
+            772
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) payment records identifying the individual or corporate recipient for each outward transfer in an amount in excess of USD 100,000 from the bank accounts of the First Defendant as listed in Schedule B to this Order; and ",
+        "bbox": [
+            78,
+            787,
+            959,
+            854
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(b) account statements for all accounts with FTX and IG Limited that have at any time held assets in the name of or under the control of the First Defendant or Mr Brittain for the period from 1 February 2021 to the date of this Order. ",
+        "bbox": [
+            78,
+            868,
+            959,
+            935
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "44. The Sixth Witness of Rita Jaballah, a partner in ATCO, Techteryx’s legal representatives, (“RJ-WS-6”) annexed Schedule A that sought to identify failures to comply with paragraph 14(2)(i) of the WFO (together with paragraphs 15 and 16) in identifying the “onward dealings” with all of the funds received. The description of the alleged defects was as follows: ",
+        "bbox": [
+            40,
+            20,
+            961,
+            114
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) The First Defendant has not identifi ed all onward dealings with the funds received from Legacy Trust Company and First Digital Trust Limited. In particular, the First Defendant has not identifi ed the recipients in respect of the transactions set out in Schedule B. The First Defendant failed to identify all of the recipients of funds as shown in the bank statements, including, for example, payments which were made to Mr Brittain, and other individuals connected to it; ",
+        "bbox": [
+            77,
+            128,
+            961,
+            243
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) Mr Brittain’s affi davits do not identify all onward dealings with the funds received from Legacy Trust Company and First Digital Trust Limited. In particular, Mr Brittain’s affi davits do not explain all of the transactions shown in the bank statements which are onward dealings with the funds received from Legacy Trust Company and First Digital Trust Limited. The First Defendant has not produced payment advices identifying the individual or corporate recipients for onward transfers from the bank accounts of the First Defendant where those recipients cannot be identifi ed in the bank statements; ",
+        "bbox": [
+            77,
+            258,
+            961,
+            420
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(3) The First Defendant has not identifi ed all of the ultimate benefi ciaries of the onward dealings with the funds received from Legacy Trust Company and First Digital Trust Limited. The First Defendant has not explained who were the ultimate benefi ciaries of the funds which it initially transferred to other ARIA companies, and other bank accounts in the name of the First Defendant. The First Defendant has not explained who received the redemption and coupon payments made to Legacy Trust and First Digital Trust. The First Defendant has not explained what happened to the payments transferred to IG Limited, FTX, North Dimension and Alameda Research; ",
+        "bbox": [
+            78,
+            435,
+            961,
+            599
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(4) The First Defendant has not identifi ed the current value, location and details of all sums received from Legacy Trust Company and First Digital Trust Limited and their traceable proceeds. The alleged assets identifi ed in Mr Brittain’s affi davits and in the FTI Report can only show what has purportedly happened to a very small proportion of the funds; ",
+        "bbox": [
+            78,
+            612,
+            961,
+            703
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(5) Mr Brittain’s affi davits do not identify all of the ultimate benefi ciaries of, and the current status of the funds received from Legacy Trust Company and First Digital Trust Limited and their traceable proceeds. The First Respondent has not produced supporting documentation which identifi es the ultimate benefi ciaries of, and the current status of all of the funds received from Legacy Trust Company and First Digital Trust Limited and their traceable proceeds. Mr Brittain’s affi davits do not explain the valuations which have been ascribed to the assets disclosed pursuant to the WFO; ",
+        "bbox": [
+            78,
+            718,
+            961,
+            881
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(6) The explanation given in Mr Brittain’s fi rst and second affi davits of the onward dealings with the funds received from Legacy Trust Company and First Digital Trust Limited is not consistent with the analysis set out in FTI’s Report; ",
+        "bbox": [
+            78,
+            895,
+            959,
+            963
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(7) The information in the document supplied by the First Defendant to FTI titled “LATEST Payments Itemisation Summary Internal_Jun25\" (the \"Payment Itemisation Summary\") is inconsistent with the explanations given in Mr Brittain’s fi rst and second affi davits, and the FTI Report. ",
+        "bbox": [
+            78,
+            17,
+            961,
+            111
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "45. The other Schedules that were annexed to RJ-WS-6 were: ",
+        "bbox": [
+            40,
+            116,
+            601,
+            135
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) Schedule B which identifi ed what were said were 106 DMCC payments with unidentifi ed benefi ciaries amounting to approximately USD 234 million;   \n(2) Schedule C set out 111 payments being made back into accounts with the Second to Fourth Defendants amounting to approximately USD 276.5 million; ",
+        "bbox": [
+            72,
+            149,
+            964,
+            250
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3) Schedule D which were said to be unexplained payments to individuals – ",
+        "bbox": [
+            75,
+            263,
+            764,
+            284
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) MWB – USD c.USD 4.2 million;   \n(b) Peter Williams – USD 923,506;   \n(c) Amanda Murray – c.USD 200,00;   \n(d) Oleg Levchenko – c.USD 185,500;   \n(e) David Gangell – c.USD 168,000;   \n(f) Alexander Newman – c.USD 389,000;   \n(g) Matthew Brock – c.USD 680,000; ",
+        "bbox": [
+            115,
+            296,
+            487,
+            514
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(4) Schedule E, payments to FDT and Legacy amounting to c.USD 90 million ",
+        "bbox": [
+            77,
+            527,
+            769,
+            548
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(5) Schedule F, ",
+        "bbox": [
+            78,
+            562,
+            218,
+            579
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) payments to IG Limited – USD 46 million;   \n(b) payments to North Dimension – USD 22 million;   \n(c) payments to FTX – USD 8.7 million;   \n(d) payments to Alameda Research – USD 500,000. ",
+        "bbox": [
+            114,
+            594,
+            586,
+            712
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "46. As to the Schedule A criticisms KO-WS-5 stated that it was not feasible for FTI (DMCC’s accounting experts) to conduct a full tracing analysis in the time available. It was therefore necessary for FTI to narrow its analysis in relation to the onward dealings of the DMCC Payments. FTI therefore focused its analysis on (1) transactions above USD 1 million; (2) made from the three bank accounts with ADIB, Mashreq and ENBD which received the DMCC Payments (the “Three Accounts”); (3) for the period spanning from when the fi rst DMCC Payment was made to each account to when the respective account balances fell to below USD 1 million. FTI was not able to and did not consider all the documents (including remittance advices) which were provided to it by DMCC. In this regard, Ms Jaballah correctly states that some 529 documents provided to FTI were only provided to Techteryx following the 7 August Order. These documents were not considered or relied upon by FTI, and therefore not disclosed in the bundle supporting FTI’s report. It was also accepted that FTI’s report \"does not completely match the transactions set out in the Payment Itemisation Summary\". ",
+        "bbox": [
+            38,
+            725,
+            961,
+            941
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            42,
+            17,
+            959,
+            85
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "47. As to Schedule B, DMCC proposed that FTI undertake further tracing exercises. For the fi rst time DMCC claimed that some of the monies may have been dispersed to entities not under ARIA control and who are not co-operative. This contrasts pointedly with the statement in MWB-A-1 that “Subject to confirming the allocation of each DMCC Payment, I am able to say that the Payments were sent to various trading entites including within the ARIA Group used for (among other things) trade financing, commodity transactions, the purchase of cargo vessels , bitumen refineries and project financing of a wind and solar renewables platform as well as the other assets described .. above\". It also contrasts with the organogram annexed to MWB-A-2 showing MWB to be the Ultimate Benefi cial Owner of all ARIA trading entities. This does little to dispel my “grave reservations about MWB’s evidence to this Court. It seems calculated to obfuscate and confuse. It is ridled with internal inconsistences and anomalies\" as stated in the Judgment ",
+        "bbox": [
+            40,
+            98,
+            963,
+            359
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "48. DMCC proposed that the results of the tracing exercise should be provided to Techteryx and the Court in the form of reports from Mr Thompson (assisted by his team at FTI) rather than an affi davit from Mr Brittain. ",
+        "bbox": [
+            40,
+            372,
+            961,
+            439
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "49. Ms Ovenden stated that an essential input for the tracing exercise is the remittance advices, which allow the entries on the bank statements that contain limited information to be tied to specifi c recipients. The process of gathering them is already underway, as Mr Brittain requested that DMCC’s banks, the Second to Fourth Defendants (the “Banks”), provide remittance advices necessary for the preparation of further expert reports on 14 September 2025, and QE subsequently wrote to them on 23 September 2025 seeking also the remittance advices to which reference is made in Schedule B to Techteryx’s draft order. ",
+        "bbox": [
+            38,
+            454,
+            963,
+            620
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "50. Why this process was not begun in February 2025 when the WFO was made is unexplained and underlines DMCC’s unsatisfactory approach to compliance with the Order. ",
+        "bbox": [
+            40,
+            633,
+            959,
+            677
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "51. As to timing of the further report, Ms Ovenden suggested that its preparation will depend on how many so-called co-operating entities there are and the number and complexity of the transactions recorded in their bank statements. Since that is currently unclear, it would be prudent to allow six weeks from the provision of the relevant information ",
+        "bbox": [
+            40,
+            690,
+            961,
+            782
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "52. She continued: ",
+        "bbox": [
+            42,
+            797,
+            213,
+            814
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) In relation to the payment records (identifying the individual or corporate recipient for each outward transfer exceeding USD 100,000 from specifi c bank accounts) (the “Bank Payment Records”), by letters from QE dated 23 September 2025, DMCC has requested the documents specifi ed in Schedule B to the Order from the Banks as soon as possible. DMCC is unable to control when such documents will be provided or guarantee their provision within 7 days as required by Techteryx, but will provide such documents to Techteryx promptly upon their receipt; ",
+        "bbox": [
+            77,
+            829,
+            961,
+            975
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(2) In relation to the account statements for all accounts with FTX and IG Limited (the “FTX/IG Account Statements”), DMCC will provide within 14 days of the present hearing all such account statements under its control in relation to the period specifi ed (i.e. from 21 February 2021); ",
+        "bbox": [
+            78,
+            20,
+            961,
+            90
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(3) It is not appropriate that Mr Brittain personally should be subject to the Order as he is not a party to the proceedings. ",
+        "bbox": [
+            77,
+            103,
+            961,
+            147
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "53. On the day of the hearing, DMCC fi led a further witness statement from Ms Ovenden, KO-WS-6, where she exhibited correspondence with the relevant ARIA entities requesting the provision of bank statements, remittance advices (to the extent information relating to the onward dealings, including the identity of recipients of such onward dealings, were not recorded in the bank statements), as well as any other information or documents that may be of assistance in tracing the whereabouts of the sums transferred by DMCC to those entities. She also explained what was (now) being done to obtain information from DMCC’s banks. Again, why this was not done 7 months earlier remains unexplained. ",
+        "bbox": [
+            40,
+            184,
+            961,
+            349
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "54. All of this amply confi rms DMCC’s inadequate compliance with the WFO. ",
+        "bbox": [
+            40,
+            362,
+            727,
+            381
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "55. In his oral submissions, Mr McPherson wisely rowed back from the frankly absurd suggestion that MWB should not be the deponent of any affi davit provided. It was however unclear to me whether Mr McPherson was suggesting that there would be some dichotomy between what MWB would depose to and the information compiled by FTI. ",
+        "bbox": [
+            40,
+            395,
+            961,
+            487
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "56. It would be perfectly proper for MWB to have the assistance of FTI in compiling the material to be included in the affi davit but ultimately he must take responsibility for that material, both as the UBO of ARIA and the person who appears to have been responsible for the relevant transactions. He must swear to the truth and completeness of the information and personally bear the consequences should it be found to be untrue or incomplete. This has nothing to do with the merits or lack of them of the underlying claims in the HK Proceedings (which I have found raise serious issues to be tried) and everything to do with respect and enforcement of orders of this Court. ",
+        "bbox": [
+            40,
+            500,
+            961,
+            664
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "57. It was also unclear what timing was proposed. DMCC’s suggestions appear to be open-ended. I do not consider that to be appropriate, especially where there is a possibility (as ventilated by Mr Holloway) that Techteryx might consider contempt proceedings in the event on non-compliance. The order must be clear in its terms. I do however accept that the 7 days suggested by Techteryx is impractical and unreasonably short. In my view a more reasonable period for compliance is 28 days and if that presents any problems DMCC will have to come back to Court and seek an extension on evidence-based grounds. ",
+        "bbox": [
+            40,
+            678,
+            963,
+            841
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "58. It was suggested that paragraph 2(b) of the draft order proposed by Techteryx ( “address and remedy each of the failures to comply with paragraphs 14-16 of the WFO, which are identified in the Sixth Witness Statement of Rita Jaballah as set out in Schedule A to this Order\") is redundant. I disagree, I think reference to Schedule A actually assists MWB in knowing what he must address in his affi davit, albeit the required information is not limited remedying the failures identifi ed. ",
+        "bbox": [
+            40,
+            856,
+            963,
+            972
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "59. In the circumstances, I will make the order as sought with the modifi cations indicated. ",
+        "bbox": [
+            40,
+            17,
+            840,
+            36
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "COSTS ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            54,
+            114,
+            71
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "60. Techteryx seeks its costs of the proceedings to date to be subject to a detailed assessment on the indemnity basis. It also seeks a payment on account pending the detailed assessment. ",
+        "bbox": [
+            40,
+            86,
+            961,
+            129
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "61. Techteryx’s costs are set out in the Seventh Witness Statement of Ms Jaballah dated 1 October   \n2025 (“RJ-WS-7”). ",
+        "bbox": [
+            40,
+            143,
+            961,
+            189
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "62. DMCC submits: ",
+        "bbox": [
+            40,
+            203,
+            220,
+            221
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(1) the costs of the WFO applications should be reserved until the determination of the substantive claims in the HK Proceedings or DMCC’s jurisdiction challenge. That is because the true issue determined by the DIFC Court was to grant a proprietary injunction on American Cyanamid principles. As a matter of principle, the costs of such injunction should be reserved until trial; ",
+        "bbox": [
+            77,
+            236,
+            961,
+            351
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(2) if any order as to costs is to be made in favour of Techteryx and against DMCC at this stage, it should be heavily discounted to refl ect the facts that (a) the argument at the hearing was directed to the grant of a proprietary injunction (and those costs should be reserved); and (b) Techteryx should be penalised in costs for breaching its duty of full and frank disclosure; ",
+        "bbox": [
+            77,
+            366,
+            961,
+            456
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(3) the amounts previously ordered to be paid into Court by Techteryx by way of (a) security in respect of DMCC’s costs and (b) fortifi cation should remain. ",
+        "bbox": [
+            78,
+            470,
+            961,
+            514
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Reserving Costs ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            531,
+            200,
+            549
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "63. DMCC makes 7 points in support of reserving the costs. ",
+        "bbox": [
+            40,
+            563,
+            576,
+            582
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(1) The general position with respect to the costs of interim injunctions is as stated by the Court of Appeal in Melody v Melance [2020] DIFC CA 010 (11 May 2021) at [36]: ",
+        "bbox": [
+            78,
+            596,
+            961,
+            639
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "\"..it will often be appropriate to either reserve the costs of such applications until such time as the substantive rights and obligations of the parties have been determined, or alternatively use a form of order which will allocate those costs to the party ultimately found to be successful.\" ",
+        "bbox": [
+            114,
+            653,
+            961,
+            744
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(2) This is to be distinguished from the position governing freezing injunctions, where the court will not normally reserve costs to the trial judge, albeit retaining a discretion to do so. ",
+        "bbox": [
+            78,
+            759,
+            961,
+            802
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(3) In applying the provisions of the RDC in relation to costs, it is appropriate for the Court to have regard to the approach established in respect of the comparable provisions in the English Civil Procedure Rules: see Al Khorafi v Bank Sarasin-Alpen (ME) Ltd [2009] DIFC CFI 026 (16 January 2017) at [36]. ",
+        "bbox": [
+            77,
+            815,
+            959,
+            908
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(4) In the present case, the relief claimed is predicated on Techteryx establishing a proprietary interest in the Reserves. At the interlocutory stage, that requires Techteryx to satisfy American Cyanamid principles. It is those principles (arguable case for proprietary remedy; balance of convenience; justice and convenience) on which the Court has relied in granting the proprietary injunctive relief claimed. ",
+        "bbox": [
+            78,
+            17,
+            961,
+            133
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(5) The Court’s grant of the proprietary relief and freezing relief presupposes a serious issue to be tried as to a proprietary remedy only. ",
+        "bbox": [
+            78,
+            147,
+            961,
+            190
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(a) The Court has determined that there are two causes of action raising serious issues to be tried: constructive trusteeship and knowing receipt. Both are proprietary claims. ",
+        "bbox": [
+            114,
+            204,
+            959,
+            247
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(b) In relation to each cause of action, the Court has held that the ‘threshold point’ is the existence of a trust in respect of the monies paid by Techteryx to FDT. If the Hong Kong court reaches the opposite conclusion, as it might, Techteryx will have had no substantive entitlement to be granted injunctive relief. ",
+        "bbox": [
+            114,
+            260,
+            959,
+            353
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(6) The Court rejected the suggestion that any non-proprietary cause of action can found Techteryx’s entitlement to a freezing order. Specifi cally, as against DMCC, the Court rejected the pleaded claims in misrepresentation and conspiracy. It is true that the Judgment raises the possibility of an unpleaded conspiracy claim. However, the possibility of this supposed conspiracy is relied on to support the knowledge element of the proprietary knowing receipt claim. Therefore, the only cause of action to justify a freezing injunction is also and purely proprietary. ",
+        "bbox": [
+            77,
+            366,
+            961,
+            506
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(7) Techteryx’s presentation of the case is consistent with C pursuing a proprietary injunction on American Cyanamid principles. It did not advance any nonproprietary cause of action in support of the injunctive relief sought. The wide\u0000ranging disclosure orders which Techteryx continues to pursue, at great cost to DMCC, are predicated on Techteryx holding a proprietary interest in the DMCC Payments, based on proprietary causes of action ",
+        "bbox": [
+            77,
+            519,
+            961,
+            634
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "64. In summary, following the reasoning in Unitel SA v dos Santos [2025] KB 438, DMCC submits that it is appropriate for the costs of the injunction obtained in DIFC to be reserved in their totality until the fi nal determination of the claims in the HCA 161/2023 Claim. Only at that point can the Court determine which party has been ultimately successful, or whether an issue-based assessment is correct and how it should be conducted, and so where the incidence of the costs incurred should lie. Any attempt at apportionment at this stage is fraught with diffi culty and susceptible to error, pending the outcome of the HCA 161/2023 Claim. ",
+        "bbox": [
+            40,
+            639,
+            961,
+            803
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "65. The relevant passages in dos Santos are found at [116]-[120] in the judgment of Sir Julian Flaux C: ",
+        "bbox": [
+            42,
+            818,
+            963,
+            859
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "\"116 In so far as there is a general rule as to the costs of contested interlocutory or procedural applications, it is that a party who contests an application and fights it tooth and nail on every point, thereby causing the successful party to incur costs which would not otherwise be incurred, should be ordered to pay the successful partys costs at the conclusion of the application. This is clear from CPR r 44.2(2) and is the general rule applied in the Business and Property Courts in relation to contested interlocutory applications. The court will not usually reserve costs to the trial judge of, for example, a contested jurisdiction or disclosure application which the defendant has lost, merely because the defendant points out that it might ",
+        "bbox": [
+            78,
+            873,
+            963,
+            966
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            17,
+            963,
+            109
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "succeed in defeating a claim at trial. Were it otherwise trial judges and, in turn costs judges, would be inundated with having to make rulings on costs of interlocutory applications which had been reserved by the judges who heard the applications. ",
+        "bbox": [
+            78,
+            122,
+            961,
+            190
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "117 Of course the court has a discretion to make a different order on a contested interlocutory application, including reserving the costs to the trial judge, as CPR r 44.2(b) provides. One situation in which the court will usually make an order that the costs be reserved is in the case of an American Cyanamid interim injunction as the authorities from Desquenne [2001] FSR 1 onwards establish. However, that is because, on the balance of convenience, the court is prepared to grant an interim injunction which allows a party to rely upon a right or obligation, the existence of which has yet to be established, efectively holding the ring pending the trial. If at trial the right or obligation is established then the injunction can be made final and permanent or other relief granted. However if the claimant's case fails at trial, then it can generally be said that the interim injunction should not have been granted, since the right or obligation did not exist or was not established. Hence it is generally more appropriate for the costs of the application for the interim injunction to be reserved to the trial judge. ",
+        "bbox": [
+            78,
+            204,
+            963,
+            488
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "118 However, the position is different in the case of a freezing injunction. If the claimant establishes the three criteria referred to in para 6 above: (1) a good arguable case on the merits; (2) a real risk that a future judgment would not be met because of an unjustified dissipation of assets; (3) that it would be just and convenient in all the circumstances to grant the freezing injunction, then the court will grant the injunction. When granted it is not \"interim\" or dependent on the balance of convenience like an American Cyanamid injunction, nor will the court make the injunction final at trial, as in the case of an interim American Cyanamid injunction. As Edwin Johnson J pointed out at para 29 of his costs judgment in Harrington [2023] EWHC 609 (Ch) there is no such thing as a final freezing order. ",
+        "bbox": [
+            78,
+            502,
+            963,
+            714
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Subject to any subsequent application to vary or discharge it, the freezing injunction remains in place until trial. If the claim succeeds the court may continue the injunction post judgment but that is not the making of a fi nal injunction. The purpose of the freezing injunction remains as set out at para 85 of Convoy Collateral [2023] AC 389: “to facilitate the enforcement of a judgment or order for the payment of a sum of money by preventing assets against which such a judgment could potentially be enforced from being dealt with in such a way that insuffi cient assets are available to meet the judgment. ",
+        "bbox": [
+            78,
+            727,
+            961,
+            890
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "119 Another important distinction between a freezing injunction and an American Cyanamid injunction is that whereas, in the case of the latter, if the relevant right or obligation is not established at trial it can generally be said that the interim injunction should not have been granted, in the case of the former even if the claim fails at trial, it does not follow that the freezing order was not correctly granted on the basis that the claimant satisfi ed the three criteria for the grant of the freezing injunction. This point was made by Martin Spencer J at para 52 of Bravo [2020] Costs LR 1329 (cited at para 60 above) and by Edwin Johnson J at para 29 of Harrington (cited at para 67 above) and I agree with their analysis, which I consider is to be preferred to that of Judge Davis-White QC in Al Assam [2022] EWHC 2137 (Ch) (although I recognise that his decision on costs may have been justifi ed on the facts of that case). I also note that in a recent judgment handed down since the hearing of the appeal, Cancrie Investments Ltd v Haider [2025] 1 WLR 170, Nigel Cooper KC (sitting as a deputy judge of the King’s Bench Division) preferred the analysis in Bravo ",
+        "bbox": [
+            78,
+            904,
+            961,
+            972
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            77,
+            16,
+            961,
+            254
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "and Harrington to that in Al-Assam: see paras 20—31 of that judgment. In my judgment, Mr Margolin's \"undamental\" point set out at para 9 above, that if the claim failed at trial, the freezing injunction should not have been granted in the same way as in the case of an interim American Cyanamid injunction, is misconceived. ",
+        "bbox": [
+            78,
+            267,
+            961,
+            359
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "120. Accordingly, I consider that Bright J was entitled to reach the conclusion that Ms dos Santos should pay the costs of the freezing injunction application which she had fought and lost and that the judge exercised his discretion appropriately.\" ",
+        "bbox": [
+            77,
+            372,
+            961,
+            439
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "66. The decision of the Deputy Judge in Cancrie Investments Ltd v Haider was also cited to me but clearly dos Santos is the later and higher authority. ",
+        "bbox": [
+            45,
+            445,
+            961,
+            488
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "67. In my judgment, DMCC’s submissions are as misconceived as those of counsel in dos Santos. It is only necessary to make the most cursory reading of the Judgment to see that the proprietary element of the WFO was to serve the same purpose as that of any other freezing order namely (as stated in Broad Idea), to facilitate the enforcement of a judgment or order for the payment of a sum of money by preventing assets against which such a judgment could potentially be enforced from being dealt with in such a way that insuffi cient assets are available to meet the judgment. The critical passage is at [66] of the Judgment where I stated in terms, following Broad Idea, that the object of the injunction was to secure any assets found to be subject to a constructive trust to enable execution of an order for payment of sums found on the taking of the account in the form of restitution or equitable compensation. I went on to grant the injunction on the basis of the three criteria identifi ed by Sir Julain Flaux at paragraph [118] of dos Santos. ",
+        "bbox": [
+            38,
+            502,
+            961,
+            762
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "68. The suggested difference between the WFO in the present case and any other freezing injunction is non-existent. There is no reason why the approach approved at paragraph [120] of dos Santos should not be followed in the present case. There is also good reason why it should: the fi nal determination of DMCC’s ultimate liability (assuming that service is not set aside) may be a long time in the future and is in the hands of courts other than those of the DIFC. It is appropriate that the proceedings before this Court achieve the highest degree of fi nality that is practicably possible. I will not therefore reserve any costs order I may make. ",
+        "bbox": [
+            38,
+            775,
+            961,
+            939
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Discounting Costs ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            956,
+            216,
+            975
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "69. Turning to DMCC’s arguments for discounting any award of costs, it seems to be common ground that the Court has a wide discretion in relation to costs under RDC 38.6 – 38.8. I recently explored that discretion in Al Buhaira National Insurance Company v Arab War Risks Insurance Syndicate [2024] DIFC CFI 01, 9 September 2025, [192]-[196]. I will not repeat those observations here. In the present case I am satisfi ed that Techteryx is the overall winner (including of the instant applications) even if it may have failed on some issues. Mr McPherson did point to some early successes on the part of DMCC in obtaining security and fortifi cation, but they were at stage when the Court was not fully immersed in the facts of the case and had to act with circumspection. He also pointed to the necessity for the adjournment of the May hearing and DMCC’s criticisms of Kroll. Mr Holloway characterized these matters (quoting me in Al Buhaira) as “no more than the usual cut and thrust of hotly disputed liaon\" I one looks at heend the resut, Techteryx achieved the result  sought and the Cour was critical of DMCC’s conduct. ",
+        "bbox": [
+            38,
+            16,
+            959,
+            302
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "70. The breach by Techteryx of its duty of full and frank disclosure by misstating in paragraph 67 of Li-A-1 that there were no audited fi nancial statements of the Fund in existence for the fi nancial year ended December 2021 stands on a different footing. While I was not satisfi ed that the misstatement was deliberate, I did not however consider that the failure of disclosure should not go unmarked. It is impossible to isolate a specifi c sum of wasted costs attributable to the misstatement. I suspect that any costs were attributable to pointing out the misstatement rather than the misstatement itself. In my judgment the just and proportionate order will be to deprive Techteryx of an appropriate amount of costs. I assess that amount in the sum of USD 10,000. ",
+        "bbox": [
+            38,
+            315,
+            961,
+            502
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Basis of Assessment ",
+        "text_level": 1,
+        "bbox": [
+            45,
+            520,
+            242,
+            537
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "71. DMCC submitted that it would be wrong to direct an assessment of Techteryx’s costs on the indemnity basis. It referred to the judgement of H.E. Justice Le Miere in (1) AES Middle East Insurance Broker LLC (2) AES Financial Services (DIFC) Limited (3) AES Financial Services Limited v GSB Capital Ltd [2023] CFI 060, 28 August 2025 and said that the present case comes nowhere near the criteria stated at paragraphs [25] and [26]: ",
+        "bbox": [
+            40,
+            552,
+            963,
+            669
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "25. Indemnity costs orders are a departure from the usual practice, where costs are generally awarded on a standard basis. For an indemnity costs order to be made, there must be some special or unusual feature in the case justifying the Court exercising its discretion in that way. This can include improper, unreasonable, or delinquent conduct by a party, the making of false allegations (such as fraud), or the pursuit of hopeless claims. The power to order indemnity costs is discretionary and is exercised judicially, considering all relevant circumstances of the case. ",
+        "bbox": [
+            78,
+            682,
+            963,
+            822
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "26. Practice Direction No. 5 of 2014 (\"PD 5/2014\") provides that in determining whether costs should be assessed on the indemnity basis, the following factors, among others, will be taken into consideration in the exercise of a judge's discretion: ",
+        "bbox": [
+            78,
+            835,
+            961,
+            903
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(a) circumstances where the facts of the case and/or the conduct of the paying party arelis such as to take the situation away from the norm; for example, where the Court has found deliberate misconduct in breach of a direction of the Court or unreasonable conduct to a high degree in connection with the litigation; or ",
+        "bbox": [
+            78,
+            17,
+            961,
+            109
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "() otherwise inappropriate conduct in its wider sense in relation to a paying party's pre-litigation dealings with the receiving party, or in relation to the commencement or conduct of the litigation itself; or ",
+        "bbox": [
+            78,
+            122,
+            961,
+            190
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(c) where the Court considers the paying party's conduct to be an abuse of process.\" ",
+        "bbox": [
+            70,
+            204,
+            842,
+            223
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "72. DMCC also referred to JSC Mezhdunarodniy Promyshlenniy Bank and another v Pugachev (No 2) [2015] EWHC 1694 (Ch), [32]-[34] which deals with analogous situation of a suggestion of a failure to engage in good faith with cross-examination on assets under a freezing injunction: ",
+        "bbox": [
+            40,
+            228,
+            961,
+            296
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "32 As to the basis of assessment of any costs awarded, the general rule is that the standard basis applies, unless the court is persuaded that the paying partys conduct or some other exceptional circumstance takes the case \"out of the norm\": see Excelsior Commercial and Industrial Holdings Ltd v Salisbury Hamer Aspden & Johnson [2002] CPRep 67. ",
+        "bbox": [
+            78,
+            309,
+            961,
+            401
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "33 In the particular circumstances, the claimants accept that to justify an order for costs on an indemnity basis they must satisfy me that the defendant did not engage in good faith with the process of crossexaminations and was not merely evasive but actually intending to obstruct justice, the paradigm in a sense being by giving answers demonstrated to be plainly and obviously false. ",
+        "bbox": [
+            77,
+            413,
+            963,
+            529
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "34 The hurdle is a high one. The court is likely to be reluctant to reach a conclusion of bad faith and dishonesty in the course of what is meant to be an exploratory rather than adjudicatory process, and at an interlocutory stage, except on the clearest evidence.\" ",
+        "bbox": [
+            75,
+            543,
+            961,
+            612
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "73. I was also referred to what I said in Al Buhaira cited above to indicate that there is a “margin of appreciation\". ",
+        "bbox": [
+            43,
+            624,
+            963,
+            667
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "74. Mr Holloway submitted that DMCC did behave unreasonably: its evidence was calculated to obfuscate and confuse; it dragged proceedings out for 7 months; even now it is in breach of the disclosure orders; it consistently tried to proceed with the Securitisation which would have obstructed the execution of any ultimate judgment; and it made unfounded allegations of dishonesty against Ms Li and Mr Sun. ",
+        "bbox": [
+            40,
+            681,
+            963,
+            797
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "75. I am not sure Mr Sun’s conduct entitles him to the sympathy of the Court given his attempt to deceive the Court as to his status when seeking to attend the fi rst inter partes hearing. Instead, it is right to note that I have made the following comments during the course of these proceedings: ",
+        "bbox": [
+            42,
+            810,
+            961,
+            879
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(1) \"I regret that I do not consider that MWB-A-2 does comply with paragraph 14(2)(i) of the WFO which required DMCC to inform ATCO of \"any onward dealings with any of the funds received from Legacy Trust Company and First Digital Trust Limited, including as to who was the ultimate beneficiary of such dealings\" .. This is unsatisfactory. It appears to be a random selection of documents, unexplained and in no apparent order giving the impression of a \"document dump\". What it certainly does not disclose is the accounts into the Six Remittances were paid nor any audit trail to the ultimate beneficiaries.\" ",
+        "bbox": [
+            78,
+            891,
+            961,
+            960
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            17,
+            963,
+            109
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(2) MWB’s evidence was “internally inconsistent, evasive and opaque” and “raises issues of bona fides\"; ",
+        "bbox": [
+            78,
+            123,
+            963,
+            166
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(3) \"on the current state of the evidence it is not easy to envisage an explanation [of the various subscription documentation] that is consistent with an honest explanation\"; ",
+        "bbox": [
+            78,
+            179,
+            961,
+            224
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(4) I have “grave reservations about MWB’s evidence to this Court. It seems calculated to obfuscate and confuse. It is riddled with internal inconsistences and anomalies\"; ",
+        "bbox": [
+            78,
+            237,
+            961,
+            280
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(5) DMCC allegations of material non-disclosure adopted “the ‘scatter-gun approach’ deprecated by Carr J and its initial position was what the English Court of Appeal described as an 'avalanche of trivia'. ",
+        "bbox": [
+            75,
+            293,
+            961,
+            360
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "76. Even allowing for the high hurdle, as noted in Pugachev (No 2) , and that this is an exploratory rather than adjudicatory process at an interlocutory stage, I consider that my comments set out under the preceding paragraph do demonstrate behaviour “out of the norm” and deliberate misconduct in breach of a direction of the Court justifying the assessment of costs on the indemnity basis. ",
+        "bbox": [
+            40,
+            366,
+            963,
+            458
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Payment on Account ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            474,
+            240,
+            493
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "77. RDC 38.13 provides that “Where the Court has ordered a party to pay costs, it may order an amount to be paid on account before the costs are assessed.\"Practice Direction 5 of 2014 - states at paragraph 5 “Where the Court has ordered a party to pay costs subject to detailed assessment unless agreed, it will order $50 \\%$ of the amount claimed in the statement of costs to be paid on account before the costs are assessed, unless the Court sees fit to order otherwise.\"H.E. Justice Le Miere noted in AES at [49] that the DIFC Courts have emphasised that interim payments are discretionary and context-sensitive. The Courts do not impose a rigid cap but rather seek to estimate a reasonable and conservative fi gure based on the circumstances, including the scale of litigation and the Judge's familiarity with the case. ",
+        "bbox": [
+            40,
+            507,
+            961,
+            719
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "78. Mr McPerson suggests that the payment on account should be $40 \\%$ . There was no real reasoning behind the suggestion and I can see no basis to depart from the $50 \\%$ fi gure in paragraph 5 of the Practice Direction ",
+        "bbox": [
+            40,
+            733,
+            961,
+            800
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "79. Techteryx claims costs in the sum of USD 2,177,824.97 including disbursements. This sum falls to be reduced to USD 2,167,824.97 in accordance with paragraph 70 above. $50 \\%$ of that sum is USD 1,083,912.49. I shall order that sum to be paid within 14 days by way of payment on account of Techteryx’s costs of the proceeding ",
+        "bbox": [
+            40,
+            814,
+            961,
+            906
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Security for Costs and Fortification ",
+        "bbox": [
+            43,
+            922,
+            369,
+            940
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "80. DMCC submits that the payment made into Court by Techteryx as security in respect of its costs should remain there pending the determination of the HCA 161/2023 Claim. Techteryx seeks its return. Given that I have ordered that DMCC pay Techteryx’s costs of the proceedings there is no reason for the security to remain in Court and it should be returned to Techteryx together with any accrued interest. ",
+        "bbox": [
+            40,
+            17,
+            961,
+            133
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "81. DMCC submits that the amounts paid into Court by Techteryx by way of fortifi cation should remain there while the injunctions are in force and pending the fi nal determination of the claims in Hong Kong. I do not understand Techteryx to contend otherwise and it would be illogical for the fortifi cation of the cross-undertaking in damages to be discharged while the WFO remains in force. ",
+        "bbox": [
+            40,
+            146,
+            961,
+            239
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "DISPOSITION ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            254,
+            174,
+            273
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "82. I consider that there should be three separate Orders. The fi rst should deal with amendments to the interim WFO by way of a FRD WFO Order (including the amendment to the Judgment). The second should deal with disclosure under a penal notice. The third should deal with costs. ",
+        "bbox": [
+            40,
+            287,
+            961,
+            355
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "83. The parties shall agree drafts of the Orders and submit them to the Court within 48 hours of the receipt of this Order. ",
+        "bbox": [
+            40,
+            369,
+            961,
+            412
+        ],
+        "page_idx": 24
+    }
+]
