@@ -296,7 +296,7 @@
         "page_idx": 1
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -307,7 +307,7 @@
         "page_idx": 1
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "i ",
         "bbox": [
             493,
@@ -316,17 +316,6 @@
             956
         ],
         "page_idx": 1
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            104,
-            66,
-            887,
-            217
-        ],
-        "page_idx": 2
     },
     {
         "type": "text",
@@ -444,7 +433,7 @@
         "page_idx": 2
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -455,7 +444,7 @@
         "page_idx": 2
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "ii ",
         "bbox": [
             493,
@@ -669,7 +658,7 @@
         "page_idx": 3
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -680,7 +669,7 @@
         "page_idx": 3
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "1 ",
         "bbox": [
             493,
@@ -689,17 +678,6 @@
             967
         ],
         "page_idx": 3
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            223,
-            66,
-            787,
-            81
-        ],
-        "page_idx": 4
     },
     {
         "type": "text",
@@ -859,7 +837,7 @@
         "page_idx": 4
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "2 ",
         "bbox": [
             493,
@@ -870,7 +848,7 @@
         "page_idx": 4
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -911,17 +889,6 @@
             123,
             722,
             138
-        ],
-        "page_idx": 5
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            163,
-            152,
-            523,
-            167
         ],
         "page_idx": 5
     },
@@ -971,7 +938,7 @@
         "page_idx": 5
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -982,7 +949,7 @@
         "page_idx": 5
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "3 ",
         "bbox": [
             493,
@@ -1046,17 +1013,6 @@
             209,
             883,
             308
-        ],
-        "page_idx": 6
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            292,
-            323,
-            882,
-            409
         ],
         "page_idx": 6
     },
@@ -1163,7 +1119,7 @@
         "page_idx": 6
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             700,
@@ -1174,7 +1130,7 @@
         "page_idx": 6
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "4 ",
         "bbox": [
             493,
@@ -1183,17 +1139,6 @@
             967
         ],
         "page_idx": 6
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            235,
-            67,
-            883,
-            456
-        ],
-        "page_idx": 7
     },
     {
         "type": "text",
@@ -1286,7 +1231,7 @@
         "page_idx": 7
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             700,
@@ -1297,7 +1242,7 @@
         "page_idx": 7
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "5 ",
         "bbox": [
             493,
@@ -1306,17 +1251,6 @@
             969
         ],
         "page_idx": 7
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            237,
-            66,
-            882,
-            239
-        ],
-        "page_idx": 8
     },
     {
         "type": "text",
@@ -1419,7 +1353,7 @@
         "page_idx": 8
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             700,
@@ -1430,7 +1364,7 @@
         "page_idx": 8
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "6 ",
         "bbox": [
             493,
@@ -1475,34 +1409,12 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            294,
-            194,
-            570,
-            210
-        ],
-        "page_idx": 9
-    },
-    {
-        "type": "text",
         "text": "and using that number to calculate what percentage of it comprises of a Work Week; and (b) applying, where applicable, such percentage to the entitlements referred to in Articles 27, 33, 34, 37 and 39(1) and the sixty (60) Work Days limit referred to in Article 36, to determine the applicable pro rata portion thereof. ",
         "bbox": [
             234,
             223,
             838,
             238
-        ],
-        "page_idx": 9
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            250,
-            251,
-            885,
-            295
         ],
         "page_idx": 9
     },
@@ -1529,7 +1441,7 @@
         "page_idx": 9
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             700,
@@ -1540,7 +1452,7 @@
         "page_idx": 9
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "7 ",
         "bbox": [
             494,
@@ -1698,7 +1610,7 @@
         "page_idx": 10
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -1709,7 +1621,7 @@
         "page_idx": 10
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "8 ",
         "bbox": [
             493,
@@ -1842,7 +1754,7 @@
         "page_idx": 11
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -1853,7 +1765,7 @@
         "page_idx": 11
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "9 ",
         "bbox": [
             493,
@@ -1862,17 +1774,6 @@
             956
         ],
         "page_idx": 11
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            205,
-            67,
-            892,
-            96
-        ],
-        "page_idx": 12
     },
     {
         "type": "text",
@@ -1886,24 +1787,13 @@
         "page_idx": 12
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 12
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            491,
-            945,
-            508,
-            956
         ],
         "page_idx": 12
     },
@@ -2113,24 +2003,13 @@
         "page_idx": 13
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 13
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            491,
-            945,
-            506,
-            956
         ],
         "page_idx": 13
     },
@@ -2283,24 +2162,13 @@
         "page_idx": 14
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 14
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            491,
-            945,
-            508,
-            956
         ],
         "page_idx": 14
     },
@@ -2451,24 +2319,13 @@
         "page_idx": 15
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 15
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            491,
-            945,
-            508,
-            956
         ],
         "page_idx": 15
     },
@@ -2619,24 +2476,13 @@
         "page_idx": 16
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 16
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            491,
-            945,
-            508,
-            956
         ],
         "page_idx": 16
     },
@@ -2752,24 +2598,13 @@
         "page_idx": 17
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 17
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            491,
-            945,
-            508,
-            956
         ],
         "page_idx": 17
     },
@@ -2898,24 +2733,13 @@
         "page_idx": 18
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 18
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            491,
-            945,
-            508,
-            956
         ],
         "page_idx": 18
     },
@@ -3092,24 +2916,13 @@
         "page_idx": 19
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 19
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            491,
-            945,
-            508,
-            956
         ],
         "page_idx": 19
     },
@@ -3308,17 +3121,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            282,
-            793,
-            584,
-            809
-        ],
-        "page_idx": 20
-    },
-    {
-        "type": "text",
         "text": "55. Employment accidents and illnesses ",
         "text_level": 1,
         "bbox": [
@@ -3341,24 +3143,13 @@
         "page_idx": 20
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 20
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            491,
-            945,
-            508,
-            956
         ],
         "page_idx": 20
     },
@@ -3453,24 +3244,13 @@
         "page_idx": 21
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 21
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            491,
-            945,
-            508,
-            956
         ],
         "page_idx": 21
     },
@@ -3532,24 +3312,13 @@
         "page_idx": 22
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 22
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            945,
-            510,
-            956
         ],
         "page_idx": 22
     },
@@ -3666,7 +3435,7 @@
         "page_idx": 23
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -3677,7 +3446,7 @@
         "page_idx": 23
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "21 ",
         "bbox": [
             489,
@@ -3854,24 +3623,13 @@
         "page_idx": 24
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 24
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            945,
-            508,
-            956
         ],
         "page_idx": 24
     },
@@ -4031,7 +3789,7 @@
         "page_idx": 25
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -4042,7 +3800,7 @@
         "page_idx": 25
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "23 ",
         "bbox": [
             489,
@@ -4075,24 +3833,13 @@
         "page_idx": 26
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 26
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            945,
-            508,
-            956
         ],
         "page_idx": 26
     },
@@ -4265,7 +4012,7 @@
         "page_idx": 27
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -4276,7 +4023,7 @@
         "page_idx": 27
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "25 ",
         "bbox": [
             489,
@@ -4466,7 +4213,7 @@
         "page_idx": 28
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -4475,28 +4222,6 @@
             55
         ],
         "page_idx": 28
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            945,
-            508,
-            956
-        ],
-        "page_idx": 28
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            208,
-            67,
-            893,
-            181
-        ],
-        "page_idx": 29
     },
     {
         "type": "text",
@@ -4577,17 +4302,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            279,
-            722,
-            893,
-            809
-        ],
-        "page_idx": 29
-    },
-    {
-        "type": "text",
         "text": "provided that where an Employee’s Termination Date occurs part-way through a month, the Core Benefits payable by an Employer in respect of an Employee shall be calculated on a pro rata basis in respect of the part of the month served in employment, and which may be paid directly to the Employee pursuant to Article 19(1)(d). ",
         "bbox": [
             225,
@@ -4609,24 +4323,13 @@
         "page_idx": 29
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 29
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            945,
-            508,
-            956
         ],
         "page_idx": 29
     },
@@ -4752,7 +4455,7 @@
         "page_idx": 30
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -4763,7 +4466,7 @@
         "page_idx": 30
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "28 ",
         "bbox": [
             489,
@@ -4928,7 +4631,7 @@
         "page_idx": 31
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -4939,7 +4642,7 @@
         "page_idx": 31
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "29 ",
         "bbox": [
             489,
@@ -4994,7 +4697,7 @@
         "page_idx": 32
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -5005,7 +4708,7 @@
         "page_idx": 32
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "30 ",
         "bbox": [
             489,
@@ -5173,7 +4876,7 @@
         "page_idx": 33
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -5182,28 +4885,6 @@
             55
         ],
         "page_idx": 33
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            945,
-            506,
-            956
-        ],
-        "page_idx": 33
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            220,
-            67,
-            670,
-            81
-        ],
-        "page_idx": 34
     },
     {
         "type": "text",
@@ -5263,24 +4944,13 @@
         "page_idx": 34
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 34
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            945,
-            508,
-            956
         ],
         "page_idx": 34
     },
@@ -5430,7 +5100,7 @@
         "page_idx": 35
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -5441,7 +5111,7 @@
         "page_idx": 35
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "33 ",
         "bbox": [
             489,
@@ -5523,7 +5193,7 @@
         "page_idx": 36
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -5534,31 +5204,7 @@
         "page_idx": 36
     },
     {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            945,
-            508,
-            956
-        ],
-        "page_idx": 36
-    },
-    {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            114,
-            74,
-            882,
-            880
-        ],
-        "page_idx": 37
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "35 ",
         "bbox": [
             489,
@@ -5569,7 +5215,7 @@
         "page_idx": 37
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -5580,31 +5226,7 @@
         "page_idx": 37
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            114,
-            71,
-            880,
-            884
-        ],
-        "page_idx": 38
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            945,
-            508,
-            956
-        ],
-        "page_idx": 38
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -5615,37 +5237,13 @@
         "page_idx": 38
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            114,
-            68,
-            882,
-            900
-        ],
-        "page_idx": 39
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
             41,
             893,
             55
-        ],
-        "page_idx": 39
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            945,
-            508,
-            956
         ],
         "page_idx": 39
     },
@@ -5664,18 +5262,7 @@
         "page_idx": 40
     },
     {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            712,
-            41,
-            893,
-            55
-        ],
-        "page_idx": 40
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "38 ",
         "bbox": [
             489,
@@ -5700,7 +5287,7 @@
         "page_idx": 41
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "39 ",
         "bbox": [
             489,
@@ -5711,7 +5298,7 @@
         "page_idx": 41
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -5722,20 +5309,7 @@
         "page_idx": 41
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            116,
-            65,
-            880,
-            141
-        ],
-        "page_idx": 42
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "40 ",
         "bbox": [
             489,
@@ -5746,7 +5320,7 @@
         "page_idx": 42
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             712,
@@ -5784,24 +5358,13 @@
         "page_idx": 43
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "EMPLOYMENT LAW ",
         "bbox": [
             699,
             41,
             880,
             55
-        ],
-        "page_idx": 43
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            490,
-            932,
-            507,
-            942
         ],
         "page_idx": 43
     }

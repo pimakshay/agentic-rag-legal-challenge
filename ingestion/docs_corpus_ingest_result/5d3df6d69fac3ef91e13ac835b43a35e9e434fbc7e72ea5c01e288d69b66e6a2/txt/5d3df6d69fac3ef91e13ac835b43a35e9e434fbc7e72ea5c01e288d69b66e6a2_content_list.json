@@ -47,17 +47,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            440,
-            424,
-            561,
-            497
-        ],
-        "page_idx": 0
-    },
-    {
-        "type": "text",
         "text": "Appellants/Respondents ",
         "bbox": [
             737,
@@ -156,7 +145,7 @@
         "page_idx": 0
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "Case No: ENF 269/2023 ",
         "bbox": [
             734,
@@ -499,17 +488,6 @@
             939
         ],
         "page_idx": 2
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            40,
-            17,
-            959,
-            85
-        ],
-        "page_idx": 3
     },
     {
         "type": "text",
@@ -1053,17 +1031,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            42,
-            17,
-            959,
-            84
-        ],
-        "page_idx": 8
-    },
-    {
-        "type": "text",
         "text": "Mr Ozias ",
         "text_level": 1,
         "bbox": [
@@ -1385,17 +1352,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            40,
-            16,
-            961,
-            156
-        ],
-        "page_idx": 11
-    },
-    {
-        "type": "text",
         "text": "64. Mr Olivier gives no evidence of the circumstances or the terms upon which the shares in Obadiah were transferred to Mr Ordell . He asserts that one of the commercial motives for the acquisition of the shares was access to Obadiah’s cash at bank, but gives no evidence as to the quantum of that cash or what has happened to it. Nor does he provide any evidence with respect to Obadiah’s utilisation of the commercial value which Mr Olivier asserts Obadiah retained, in the form of claims against other parties and business opportunities. Of course, the current Commercial Manager of Obadiah, Mr Ozias, has given no evidence in relation to those matters either. ",
         "bbox": [
             40,
@@ -1708,17 +1664,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            47,
-            17,
-            915,
-            36
-        ],
-        "page_idx": 14
-    },
-    {
-        "type": "text",
         "text": "86. Oaklen currently has no information of any signifi cance in relation to the means by which Obadiah might satisfy the judgment debt, in circumstances in which the apparent dissipation of very large streams of revenue is unexplained, the terms of the transaction by which all of the shares in Obadiah were transferred to a third party who is said to be disinterested have not been provided, and although a number of sources of value to the purchaser in that transaction have been identifi ed in the evidence, nothing has been said in relation to the current commercial value which might be attributed to those matters. ",
         "bbox": [
             38,
@@ -1853,17 +1798,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            78,
-            17,
-            959,
-            109
-        ],
-        "page_idx": 15
-    },
-    {
-        "type": "text",
         "text": "94. This ground is another ground which proceeds on a false premise. The Judge did not ask himself whether Mr Octaviowas an “offi ce-holder” rather than an “offi cer” as defi ned by the Court in China State. To the contrary, the Judge concluded that Mr Octavio had a suffi cient degree of control over the affairs of Obadiah to be classifi ed as a de facto director. That same degree of control also sustained his conclusion that Mr Octavio may be in possession of or have access to information relevant to the means by which Obadiah might satisfy the judgment debt. As already indicated, that conclusion was plainly open to the Judge on the evidence before him and there is no prospect that a Court of Appeal would interfere with that conclusion. ",
         "bbox": [
             38,
@@ -1982,17 +1916,6 @@
             963
         ],
         "page_idx": 15
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            40,
-            17,
-            961,
-            60
-        ],
-        "page_idx": 16
     },
     {
         "type": "text",

@@ -179,7 +179,7 @@
         "page_idx": 0
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "Claim No: CFI 092/2024 ",
         "bbox": [
             736,
@@ -345,17 +345,6 @@
             964
         ],
         "page_idx": 1
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            78,
-            24,
-            102,
-            36
-        ],
-        "page_idx": 2
     },
     {
         "type": "text",
@@ -756,17 +745,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            77,
-            197,
-            963,
-            268
-        ],
-        "page_idx": 4
-    },
-    {
-        "type": "text",
         "text": "Notice of Termination for the Agreement from the Claimant to the Defendants dated 16 September 2024 ",
         "bbox": [
             77,
@@ -916,17 +894,6 @@
             290,
             961,
             381
-        ],
-        "page_idx": 5
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            80,
-            401,
-            102,
-            413
         ],
         "page_idx": 5
     },
@@ -1087,17 +1054,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            40,
-            17,
-            959,
-            84
-        ],
-        "page_idx": 7
-    },
-    {
-        "type": "text",
         "text": "40. The Claimant advances that it is not appropriate for the Defendants, for the fi rst time, to plead the issue that the email is in itself a contract in this type of application. To be dealt with as part of an immediate judgment, the issue must have been pleaded in the Parties’ pleadings. This issue is not in the Defence Particulars. Further, the Defendants have not properly plead nor satisfi ed the conditions for the formation of a contract under DIFC Law using the emails relied on. ",
         "bbox": [
             40,
@@ -1183,17 +1139,6 @@
             976
         ],
         "page_idx": 7
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            40,
-            17,
-            959,
-            85
-        ],
-        "page_idx": 8
     },
     {
         "type": "text",

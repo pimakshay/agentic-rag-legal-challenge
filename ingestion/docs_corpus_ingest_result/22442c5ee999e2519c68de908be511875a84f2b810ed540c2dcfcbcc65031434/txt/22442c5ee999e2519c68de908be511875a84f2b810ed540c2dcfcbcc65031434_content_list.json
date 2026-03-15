@@ -263,7 +263,7 @@
         "page_idx": 1
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             700,
@@ -274,7 +274,7 @@
         "page_idx": 1
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "i ",
         "bbox": [
             494,
@@ -283,17 +283,6 @@
             956
         ],
         "page_idx": 1
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            102,
-            73,
-            885,
-            210
-        ],
-        "page_idx": 2
     },
     {
         "type": "text",
@@ -400,7 +389,7 @@
         "page_idx": 2
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             700,
@@ -411,7 +400,7 @@
         "page_idx": 2
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "ii ",
         "bbox": [
             492,
@@ -672,7 +661,7 @@
         "page_idx": 3
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             709,
@@ -683,7 +672,7 @@
         "page_idx": 3
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "1 ",
         "bbox": [
             494,
@@ -692,17 +681,6 @@
             954
         ],
         "page_idx": 3
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            221,
-            83,
-            895,
-            285
-        ],
-        "page_idx": 4
     },
     {
         "type": "text",
@@ -749,24 +727,13 @@
         "page_idx": 4
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
             42,
             895,
             57
-        ],
-        "page_idx": 4
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            494,
-            944,
-            505,
-            954
         ],
         "page_idx": 4
     },
@@ -929,7 +896,7 @@
         "page_idx": 5
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -940,7 +907,7 @@
         "page_idx": 5
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "3 ",
         "bbox": [
             494,
@@ -1139,7 +1106,7 @@
         "page_idx": 6
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -1150,7 +1117,7 @@
         "page_idx": 6
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "4 ",
         "bbox": [
             494,
@@ -1261,7 +1228,7 @@
         "page_idx": 7
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -1272,7 +1239,7 @@
         "page_idx": 7
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "5 ",
         "bbox": [
             494,
@@ -1417,7 +1384,7 @@
         "page_idx": 8
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -1428,7 +1395,7 @@
         "page_idx": 8
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "6 ",
         "bbox": [
             494,
@@ -1473,24 +1440,13 @@
         "page_idx": 9
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
             42,
             895,
             55
-        ],
-        "page_idx": 9
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            495,
-            944,
-            504,
-            954
         ],
         "page_idx": 9
     },
@@ -1663,7 +1619,7 @@
         "page_idx": 10
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -1674,7 +1630,7 @@
         "page_idx": 10
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "8 ",
         "bbox": [
             494,
@@ -1851,7 +1807,7 @@
         "page_idx": 11
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -1862,7 +1818,7 @@
         "page_idx": 11
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "9 ",
         "bbox": [
             494,
@@ -1952,17 +1908,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            282,
-            757,
-            895,
-            844
-        ],
-        "page_idx": 12
-    },
-    {
-        "type": "text",
         "text": "(g) detail the name and address of a default recipient, failing which the default recipient shall be the DIFCA; and ",
         "bbox": [
             211,
@@ -1984,24 +1929,13 @@
         "page_idx": 12
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
             42,
             895,
             57
-        ],
-        "page_idx": 12
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            944,
-            509,
-            954
         ],
         "page_idx": 12
     },
@@ -2206,24 +2140,13 @@
         "page_idx": 13
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
             42,
             897,
             57
-        ],
-        "page_idx": 13
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            490,
-            944,
-            507,
-            954
         ],
         "page_idx": 13
     },
@@ -2394,18 +2317,7 @@
         "page_idx": 14
     },
     {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            944,
-            509,
-            954
-        ],
-        "page_idx": 14
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -2638,24 +2550,13 @@
         "page_idx": 15
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
             42,
             895,
             57
-        ],
-        "page_idx": 15
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            944,
-            509,
-            954
         ],
         "page_idx": 15
     },
@@ -2838,24 +2739,13 @@
         "page_idx": 16
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
             42,
             897,
             57
-        ],
-        "page_idx": 16
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            944,
-            509,
-            954
         ],
         "page_idx": 16
     },
@@ -2871,24 +2761,13 @@
         "page_idx": 17
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
             42,
             895,
             55
-        ],
-        "page_idx": 17
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            944,
-            509,
-            954
         ],
         "page_idx": 17
     },
@@ -3029,7 +2908,7 @@
         "page_idx": 18
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -3040,7 +2919,7 @@
         "page_idx": 18
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "16 ",
         "bbox": [
             490,
@@ -3163,7 +3042,7 @@
         "page_idx": 19
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -3174,7 +3053,7 @@
         "page_idx": 19
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "17 ",
         "bbox": [
             490,
@@ -3298,7 +3177,7 @@
         "page_idx": 20
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "18 ",
         "bbox": [
             490,
@@ -3309,7 +3188,7 @@
         "page_idx": 20
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -3362,17 +3241,6 @@
             172,
             578,
             217
-        ],
-        "page_idx": 21
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            226,
-            230,
-            458,
-            245
         ],
         "page_idx": 21
     },
@@ -3510,24 +3378,13 @@
         "page_idx": 21
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
             42,
             895,
             57
-        ],
-        "page_idx": 21
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            944,
-            509,
-            954
         ],
         "page_idx": 21
     },
@@ -3722,7 +3579,7 @@
         "page_idx": 22
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -3733,7 +3590,7 @@
         "page_idx": 22
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "20 ",
         "bbox": [
             490,
@@ -3745,34 +3602,12 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            151,
-            73,
-            897,
-            217
-        ],
-        "page_idx": 23
-    },
-    {
-        "type": "discarded",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
             42,
             895,
             57
-        ],
-        "page_idx": 23
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            490,
-            944,
-            507,
-            954
         ],
         "page_idx": 23
     },
@@ -3958,24 +3793,13 @@
         "page_idx": 24
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
             42,
             895,
             57
-        ],
-        "page_idx": 24
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            490,
-            944,
-            509,
-            954
         ],
         "page_idx": 24
     },
@@ -4159,24 +3983,13 @@
         "page_idx": 25
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
             42,
             895,
             57
-        ],
-        "page_idx": 25
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            490,
-            944,
-            509,
-            954
         ],
         "page_idx": 25
     },
@@ -4305,17 +4118,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            341,
-            586,
-            897,
-            616
-        ],
-        "page_idx": 26
-    },
-    {
-        "type": "text",
         "text": "(ii) a mistake as to a fact existing either before or at the time of, a transfer or other disposition of property to a Foundation, or the exercise of a power over or in relation to a Foundation or property of a Foundation; or ",
         "bbox": [
             282,
@@ -4333,17 +4135,6 @@
             686,
             766,
             701
-        ],
-        "page_idx": 26
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            287,
-            714,
-            895,
-            744
         ],
         "page_idx": 26
     },
@@ -4370,24 +4161,13 @@
         "page_idx": 26
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
             42,
             895,
             57
-        ],
-        "page_idx": 26
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            490,
-            944,
-            509,
-            954
         ],
         "page_idx": 26
     },
@@ -4570,24 +4350,13 @@
         "page_idx": 27
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
             42,
             895,
             57
-        ],
-        "page_idx": 27
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            490,
-            944,
-            509,
-            954
         ],
         "page_idx": 27
     },
@@ -4748,7 +4517,7 @@
         "page_idx": 28
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -4757,28 +4526,6 @@
             57
         ],
         "page_idx": 28
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            490,
-            944,
-            509,
-            954
-        ],
-        "page_idx": 28
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            221,
-            73,
-            897,
-            102
-        ],
-        "page_idx": 29
     },
     {
         "type": "text",
@@ -4915,7 +4662,7 @@
         "page_idx": 29
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -4926,7 +4673,7 @@
         "page_idx": 29
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "27 ",
         "bbox": [
             490,
@@ -5037,7 +4784,7 @@
         "page_idx": 30
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "28 ",
         "bbox": [
             490,
@@ -5048,7 +4795,7 @@
         "page_idx": 30
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -5251,24 +4998,13 @@
         "page_idx": 31
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             709,
             42,
             895,
             57
-        ],
-        "page_idx": 31
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            944,
-            507,
-            954
         ],
         "page_idx": 31
     },
@@ -5452,7 +5188,7 @@
         "page_idx": 32
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             709,
@@ -5463,7 +5199,7 @@
         "page_idx": 32
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "30 ",
         "bbox": [
             489,
@@ -5472,17 +5208,6 @@
             954
         ],
         "page_idx": 32
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            161,
-            73,
-            894,
-            146
-        ],
-        "page_idx": 33
     },
     {
         "type": "text",
@@ -5632,24 +5357,13 @@
         "page_idx": 33
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             709,
             42,
             895,
             57
-        ],
-        "page_idx": 33
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            944,
-            507,
-            954
         ],
         "page_idx": 33
     },
@@ -5779,17 +5493,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            223,
-            757,
-            768,
-            771
-        ],
-        "page_idx": 34
-    },
-    {
-        "type": "text",
         "text": "(2) An application made under Article 66A(1) shall be in such form as may be prescribed by the Registrar and be accompanied by Articles of Continuation that comply with Articles 11(1) and 11(2) of the Companies Law, the written agreement of the proposed shareholders of the Company to hold the shares referred to in Article 66B(2)(c) and any other Document prescribed by the Registrar. ",
         "bbox": [
             161,
@@ -5811,7 +5514,7 @@
         "page_idx": 34
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             709,
@@ -5822,7 +5525,7 @@
         "page_idx": 34
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "32 ",
         "bbox": [
             489,
@@ -5957,24 +5660,13 @@
         "page_idx": 35
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             709,
             42,
             895,
             57
-        ],
-        "page_idx": 35
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            944,
-            507,
-            954
         ],
         "page_idx": 35
     },
@@ -6137,24 +5829,13 @@
         "page_idx": 36
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             709,
             42,
             895,
             57
-        ],
-        "page_idx": 36
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            944,
-            507,
-            954
         ],
         "page_idx": 36
     },
@@ -6239,17 +5920,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            221,
-            372,
-            897,
-            401
-        ],
-        "page_idx": 37
-    },
-    {
-        "type": "text",
         "text": "(2) If by the end of the three (3) month period, the Registrar has not received from the Foundation an objection to the striking off of the Foundation from the Register or from any other party sufficient reason as to why the Foundation should not be struck off the Register, the Registrar may strike the name of the Foundation off the Register and the Foundation shall be dissolved. ",
         "bbox": [
             161,
@@ -6327,24 +5997,13 @@
         "page_idx": 37
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             709,
             42,
             895,
             57
-        ],
-        "page_idx": 37
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            944,
-            507,
-            954
         ],
         "page_idx": 37
     },
@@ -6428,7 +6087,7 @@
         "page_idx": 38
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             709,
@@ -6439,7 +6098,7 @@
         "page_idx": 38
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "36 ",
         "bbox": [
             489,
@@ -6552,7 +6211,7 @@
         "page_idx": 39
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             709,
@@ -6563,7 +6222,7 @@
         "page_idx": 39
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "37 ",
         "bbox": [
             489,
@@ -6622,7 +6281,7 @@
         "page_idx": 40
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             709,
@@ -6633,7 +6292,7 @@
         "page_idx": 40
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "38 ",
         "bbox": [
             489,
@@ -6644,20 +6303,7 @@
         "page_idx": 40
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            164,
-            77,
-            895,
-            922
-        ],
-        "page_idx": 41
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "39 ",
         "bbox": [
             489,
@@ -6668,7 +6314,7 @@
         "page_idx": 41
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             709,
@@ -6679,20 +6325,7 @@
         "page_idx": 41
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            163,
-            80,
-            895,
-            932
-        ],
-        "page_idx": 42
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "40 ",
         "bbox": [
             489,
@@ -6703,7 +6336,7 @@
         "page_idx": 42
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             709,
@@ -6714,20 +6347,7 @@
         "page_idx": 42
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            163,
-            74,
-            895,
-            868
-        ],
-        "page_idx": 43
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "41 ",
         "bbox": [
             489,
@@ -6738,7 +6358,7 @@
         "page_idx": 43
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             709,
@@ -6784,18 +6404,7 @@
         "page_idx": 44
     },
     {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            490,
-            945,
-            509,
-            956
-        ],
-        "page_idx": 44
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -6834,7 +6443,7 @@
         "page_idx": 45
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "43 ",
         "bbox": [
             490,
@@ -6845,7 +6454,7 @@
         "page_idx": 45
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             709,
@@ -6872,7 +6481,7 @@
         "page_idx": 46
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "FOUNDATIONS LAW ",
         "bbox": [
             710,
@@ -6883,7 +6492,7 @@
         "page_idx": 46
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "44 ",
         "bbox": [
             490,

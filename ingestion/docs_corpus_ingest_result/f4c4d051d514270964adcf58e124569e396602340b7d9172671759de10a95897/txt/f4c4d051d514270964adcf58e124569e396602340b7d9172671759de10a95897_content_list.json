@@ -191,7 +191,7 @@
         "page_idx": 0
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "Claim No: SCT 454/2024 ",
         "bbox": [
             727,
@@ -202,7 +202,7 @@
         "page_idx": 0
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "BETWEEN ",
         "bbox": [
             40,
@@ -391,17 +391,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            42,
-            17,
-            959,
-            85
-        ],
-        "page_idx": 2
-    },
-    {
-        "type": "text",
         "text": "7. Under RDC 53.87, the “Court”, meaning the Court to which an appeal is made, will allow an appeal where the decision of the lower court was: ",
         "bbox": [
             40,
@@ -452,17 +441,6 @@
             369,
             805,
             388
-        ],
-        "page_idx": 2
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            73,
-            401,
-            761,
-            420
         ],
         "page_idx": 2
     },

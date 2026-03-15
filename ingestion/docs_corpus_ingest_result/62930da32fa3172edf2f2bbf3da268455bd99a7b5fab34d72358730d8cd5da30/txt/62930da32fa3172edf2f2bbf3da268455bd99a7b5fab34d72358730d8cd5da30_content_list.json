@@ -324,17 +324,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            73,
-            0,
-            961,
-            38
-        ],
-        "page_idx": 2
-    },
-    {
-        "type": "text",
         "text": "3. The Claimant’s statement of costs: ",
         "bbox": [
             40,
@@ -552,17 +541,6 @@
             947
         ],
         "page_idx": 2
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            77,
-            17,
-            961,
-            128
-        ],
-        "page_idx": 3
     },
     {
         "type": "text",

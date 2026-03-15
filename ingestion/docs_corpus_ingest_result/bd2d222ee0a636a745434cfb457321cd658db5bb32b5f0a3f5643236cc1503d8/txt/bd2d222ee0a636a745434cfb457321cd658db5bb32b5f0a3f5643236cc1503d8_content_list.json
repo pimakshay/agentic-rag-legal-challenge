@@ -158,7 +158,7 @@
         "page_idx": 0
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "Claim No. CA 009/2024 Claim No. ENF 316/2023 ",
         "bbox": [
             726,
@@ -167,19 +167,6 @@
             302
         ],
         "page_idx": 0
-    },
-    {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            42,
-            16,
-            957,
-            74
-        ],
-        "page_idx": 1
     },
     {
         "type": "text",
@@ -604,17 +591,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            42,
-            708,
-            647,
-            727
-        ],
-        "page_idx": 4
-    },
-    {
-        "type": "text",
         "text": "8. We have set out the order sought in the Application and the Order made in full, because unfortunately, the Order does not accurately record what the Judge decided and, as appears from his reasons, intended to order. First, he ruled that the court did have jurisdiction in the matter before him (§§46-47) (which ruling is not challenged in this Appeal) and that the question that arose on the Application, was whether the Applicants were “Offi cers” within the meaning of RDC 50.2., which question he went on to answer in the negative. ",
         "bbox": [
             38,
@@ -634,17 +610,6 @@
             963
         ],
         "page_idx": 4
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            40,
-            16,
-            961,
-            156
-        ],
-        "page_idx": 5
     },
     {
         "type": "text",
@@ -831,17 +796,6 @@
             255,
             465,
             273
-        ],
-        "page_idx": 7
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            43,
-            290,
-            704,
-            310
         ],
         "page_idx": 7
     },
@@ -1231,17 +1185,6 @@
             932
         ],
         "page_idx": 11
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            42,
-            17,
-            959,
-            85
-        ],
-        "page_idx": 12
     },
     {
         "type": "text",
