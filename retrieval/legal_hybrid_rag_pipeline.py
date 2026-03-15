@@ -18,6 +18,7 @@ from retrieval.legal_question_router import LegalQuestionRouter, RoutePlan
 from retrieval.loaders import IngestedCorpusLoader
 from retrieval.retrievers.base import BaseRAGRetriever
 from retrieval.retrievers.sparse_retriever import BM25SparseRetriever
+from retrieval.retrievers.pyserini_sparse_retriever import PyseriniBM25Retriever
 from retrieval.utils.rerankers import BaseReranker, MiniLMReranker
 
 logger = logging.getLogger(__name__)
@@ -93,6 +94,8 @@ class LegalHybridRAGPipeline:
         self._law_lookup: Dict[str, set[str]] = {}
         self._doc_metadata: Dict[str, Dict[str, Any]] = {}
 
+        self.pyserini_retriever: Optional[Any] = None
+
     def load_corpus(self) -> List[Document]:
         self.source_documents = self.loader.load_corpus(self.ingest_root, self.docs_root)
         self._build_metadata_indexes(self.source_documents)
@@ -105,6 +108,14 @@ class LegalHybridRAGPipeline:
             return False
         # Chroma persists chroma.sqlite3 in the given directory
         return (p / "chroma.sqlite3").is_file()
+    
+    def _pyserini_persist_dir_exists(self) -> bool:
+        """Return True if Chroma has already persisted a DB in chroma_persist_dir."""
+        p = Path(self.chroma_persist_dir).parent / "pyserini"
+        if not p.is_dir():
+            return False
+        return (p / "bm25_corpus" / "corpus.jsonl").is_file() and (p / "bm25_indexes" / "index_corpus").is_dir()
+    
 
     def build_indexes(self) -> Any:
         if self.embedding_model is None:
@@ -154,6 +165,22 @@ class LegalHybridRAGPipeline:
         if self.use_persistent_db:
             self.doc_search.persist()
         return self.doc_search
+    
+    def build_indexes_pyserini(self) -> Any:
+        if self.use_persistent_db and self._pyserini_persist_dir_exists():
+            self.pyserini_retriever=PyseriniBM25Retriever(documents=[], 
+                                                default_k=self.sparse_candidate_k,
+                                                corpus_dir=os.path.join(os.path.dirname(self.chroma_persist_dir), "pyserini", "bm25_corpus"),
+                                                index_dir=os.path.join(os.path.dirname(self.chroma_persist_dir), "pyserini", "bm25_indexes", "index_corpus"),
+            )
+            self.pyserini_retriever._init_searcher()
+        else:
+            self.pyserini_retriever=PyseriniBM25Retriever(documents=self.raw_chunks, 
+                                                default_k=self.sparse_candidate_k,
+                                                corpus_dir=os.path.join(os.path.dirname(self.chroma_persist_dir), "pyserini", "bm25_corpus"),
+                                                index_dir=os.path.join(os.path.dirname(self.chroma_persist_dir), "pyserini", "bm25_indexes", "index_corpus"),
+            )
+    
 
     def retrieve(
         self,
@@ -169,7 +196,9 @@ class LegalHybridRAGPipeline:
         sparse_pool = self._filter_chunks(self.raw_chunks, candidate_doc_ids)
 
         dense_docs = self._dense_search(question_text, candidate_doc_ids, active_route)
-        sparse_docs = self._sparse_search(question_text, sparse_pool, active_route)
+        # sparse_docs = self._sparse_search(question_text, sparse_pool, active_route)
+        sparse_docs = self._pyserini_sparse_search(question_text, candidate_doc_ids, active_route)
+        print('sparse_docs', sparse_docs)
         fused_docs = self._fuse_results(dense_docs, sparse_docs, self.top_k_docs * 3)
         reranked_docs = self._rerank(question_text, fused_docs)
         return reranked_docs[: self.top_k_docs], active_route
@@ -319,6 +348,19 @@ class LegalHybridRAGPipeline:
         retriever = BM25SparseRetriever(documents=list(sparse_pool), default_k=self.sparse_candidate_k)
         result = retriever.retrieve(sparse_query, k=self.sparse_candidate_k)
         return self._strictly_filter_route(self._apply_route_bias(result.documents, route), route)
+
+    def _pyserini_sparse_search(
+        self,
+        question_text: str,
+        candidate_doc_ids: set[str],
+        route: RoutePlan,
+    ) -> List[Document]:
+        if self.pyserini_retriever is None:
+            return []
+
+        sparse_query = self._build_sparse_query(question_text, route)
+        result = self.pyserini_retriever.retrieve(sparse_query, k=self.sparse_candidate_k, candidate_doc_ids=candidate_doc_ids)
+        return self._strictly_filter_route(result.documents, route)
 
     def _build_sparse_query(self, question_text: str, route: RoutePlan) -> str:
         tokens = [question_text]

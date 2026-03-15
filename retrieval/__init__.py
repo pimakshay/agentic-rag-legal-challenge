@@ -31,6 +31,7 @@ __all__ = [
     "BaseRAGRetriever",
     "RetrievalResult",
     "BM25SparseRetriever",
+    "PyseriniBM25Retriever",
     "BaseReranker",
     "RerankResult",
     "NoOpReranker",
