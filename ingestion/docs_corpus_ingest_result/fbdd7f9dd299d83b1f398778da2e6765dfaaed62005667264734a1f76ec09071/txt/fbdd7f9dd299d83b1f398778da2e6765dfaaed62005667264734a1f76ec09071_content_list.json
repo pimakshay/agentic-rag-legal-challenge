@@ -195,7 +195,7 @@
         "page_idx": 1
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             519,
@@ -206,7 +206,7 @@
         "page_idx": 1
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "i ",
         "bbox": [
             494,
@@ -433,7 +433,7 @@
         "page_idx": 2
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "1 ",
         "bbox": [
             482,
@@ -444,7 +444,7 @@
         "page_idx": 2
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             517,
@@ -512,7 +512,7 @@
         "page_idx": 3
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             517,
@@ -523,7 +523,7 @@
         "page_idx": 3
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "2 ",
         "bbox": [
             482,
@@ -680,7 +680,7 @@
         "page_idx": 4
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             517,
@@ -691,7 +691,7 @@
         "page_idx": 4
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "3 ",
         "bbox": [
             482,
@@ -790,24 +790,13 @@
         "page_idx": 5
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             517,
             30,
             878,
             45
-        ],
-        "page_idx": 5
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            482,
-            944,
-            492,
-            953
         ],
         "page_idx": 5
     },
@@ -980,7 +969,7 @@
         "page_idx": 6
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "5 ",
         "bbox": [
             482,
@@ -991,7 +980,7 @@
         "page_idx": 6
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             519,
@@ -1136,7 +1125,7 @@
         "page_idx": 7
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             517,
@@ -1147,7 +1136,7 @@
         "page_idx": 7
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "6 ",
         "bbox": [
             480,
@@ -1156,17 +1145,6 @@
             954
         ],
         "page_idx": 7
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            215,
-            58,
-            878,
-            189
-        ],
-        "page_idx": 8
     },
     {
         "type": "text",
@@ -1313,24 +1291,13 @@
         "page_idx": 8
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             517,
             30,
             878,
             45
-        ],
-        "page_idx": 8
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            482,
-            944,
-            492,
-            953
         ],
         "page_idx": 8
     },
@@ -1436,7 +1403,7 @@
         "page_idx": 9
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             517,
@@ -1447,7 +1414,7 @@
         "page_idx": 9
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "8 ",
         "bbox": [
             480,
@@ -1580,7 +1547,7 @@
         "page_idx": 10
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             519,
@@ -1591,7 +1558,7 @@
         "page_idx": 10
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "9 ",
         "bbox": [
             480,
@@ -1600,17 +1567,6 @@
             954
         ],
         "page_idx": 10
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            215,
-            59,
-            880,
-            87
-        ],
-        "page_idx": 11
     },
     {
         "type": "text",
@@ -1736,7 +1692,7 @@
         "page_idx": 11
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "10 ",
         "bbox": [
             478,
@@ -1747,7 +1703,7 @@
         "page_idx": 11
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             517,
@@ -1765,17 +1721,6 @@
             59,
             623,
             74
-        ],
-        "page_idx": 12
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            216,
-            87,
-            442,
-            102
         ],
         "page_idx": 12
     },
@@ -1868,24 +1813,13 @@
         "page_idx": 12
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             517,
             29,
             878,
             45
-        ],
-        "page_idx": 12
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            478,
-            944,
-            495,
-            954
         ],
         "page_idx": 12
     },
@@ -2101,7 +2035,7 @@
         "page_idx": 13
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "12 ",
         "bbox": [
             478,
@@ -2112,7 +2046,7 @@
         "page_idx": 13
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             519,
@@ -2205,7 +2139,7 @@
         "page_idx": 14
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             517,
@@ -2216,7 +2150,7 @@
         "page_idx": 14
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "13 ",
         "bbox": [
             478,
@@ -2227,20 +2161,7 @@
         "page_idx": 14
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            105,
-            54,
-            887,
-            793
-        ],
-        "page_idx": 15
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             517,
@@ -2251,7 +2172,7 @@
         "page_idx": 15
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "14 ",
         "bbox": [
             478,
@@ -2310,18 +2231,7 @@
         "page_idx": 16
     },
     {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            478,
-            944,
-            495,
-            954
-        ],
-        "page_idx": 16
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "COMMON REPORTING STANDARD LAW ",
         "bbox": [
             517,

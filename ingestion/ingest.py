@@ -135,7 +135,7 @@ def parse_heading_level(text):
             for m in matched:
                 key = m.group(0)
                 level = m.group(1)
-                if prev_key + 1 != key:  # Make sure consecutive
+                if key > prev_key and prev_key + 1 != key:  # Make sure consecutive
                     return None
                 result[key] = min(5, max(level, 1))
                 prev_key = key
@@ -173,6 +173,27 @@ class Ingestion:
     def _get_parse_cmd(file, output_path):
         cmd = f"mineru -p {file} -l en -m txt -b pipeline -o {output_path}"
         return cmd.split()
+    
+    @staticmethod
+    def refine_parse_result(file):
+        """Removing unwanted bbox
+        """
+        data= json.load(open(file))
+        new_data = []
+        for el in data:
+            if "text" not in el and "table_body" not in el:
+                continue
+            text = el.get("text", el.get("table_body", "")).strip()
+            if text == "":
+                continue
+            if el["type"] in ["text", "table"]:
+                new_data.append(el.copy())
+            else:
+                if el["type"] == "discarded":
+                    el["type"] = "text"
+                    new_data.append(el.copy())
+        with open(file, 'w') as f:
+            json.dump(new_data, f, indent=4, ensure_ascii=False)
 
     def parse(self):
         try:
@@ -190,6 +211,8 @@ class Ingestion:
                     print(line, end="")
 
                 process.wait()
+
+                Ingestion.refine_parse_result(os.path.join(self.output_path, file[:-4], "txt", f"{file[:-4]}_content_list.json"))
             return True
         except:
             return False
@@ -200,16 +223,13 @@ class Ingestion:
         def filter_elements(data):
             new_data = []
             for element in data:
-                if "text" in element and element["text"] == "":
-                    continue
+                assert element["type"] in ["text", "table"]
                 if element["type"] == "table":
                     if "table_body" in element:
                         element["text"] = element["table_body"]
                         del element["table_body"]
                     else:
                         continue
-                if element["type"] not in ["table", "text"]:
-                    continue
                 new_data.append(element.copy())
             return new_data
         data = json.load(open(parse_file))
@@ -247,6 +267,7 @@ class Ingestion:
 
         for key in input_dict:
             input_dict[key]["level"] = result[key]
+        assert len(input_dict) == len(data) # Just to make sure there is no weird bbox
         with open(structure_file, 'w') as f:
             json.dump(input_dict, f, indent=4, ensure_ascii=False)
         return True
@@ -262,7 +283,7 @@ class Ingestion:
                 structure_file = os.path.join(self.output_path, file_name, "txt", f"{file_name}_structure.json")
                 success = Ingestion._structure_analysis(parse_file, structure_file)
                 if not success:
-                    print(file)
+                    print("Fail", file)
                 print("success", success)
         except Exception as e:
             logger.error(traceback.format_exc())

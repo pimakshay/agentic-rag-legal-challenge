@@ -265,7 +265,7 @@
         "page_idx": 1
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -276,7 +276,7 @@
         "page_idx": 1
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
@@ -287,7 +287,7 @@
         "page_idx": 1
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "i ",
         "bbox": [
             492,
@@ -447,7 +447,7 @@
         "page_idx": 2
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -458,7 +458,7 @@
         "page_idx": 2
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
@@ -469,7 +469,7 @@
         "page_idx": 2
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "1 ",
         "bbox": [
             495,
@@ -515,7 +515,7 @@
         "page_idx": 3
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -526,24 +526,13 @@
         "page_idx": 3
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
             19,
             134,
             29
-        ],
-        "page_idx": 3
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            494,
-            944,
-            504,
-            954
         ],
         "page_idx": 3
     },
@@ -652,7 +641,7 @@
         "page_idx": 4
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -663,7 +652,7 @@
         "page_idx": 4
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
@@ -674,7 +663,7 @@
         "page_idx": 4
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "3 ",
         "bbox": [
             494,
@@ -876,7 +865,7 @@
         "page_idx": 5
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -887,7 +876,7 @@
         "page_idx": 5
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
@@ -898,7 +887,7 @@
         "page_idx": 5
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "4 ",
         "bbox": [
             494,
@@ -1056,7 +1045,7 @@
         "page_idx": 6
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -1067,7 +1056,7 @@
         "page_idx": 6
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             30,
@@ -1078,7 +1067,7 @@
         "page_idx": 6
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "5 ",
         "bbox": [
             494,
@@ -1235,7 +1224,7 @@
         "page_idx": 7
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -1246,7 +1235,7 @@
         "page_idx": 7
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
@@ -1257,7 +1246,7 @@
         "page_idx": 7
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "6 ",
         "bbox": [
             494,
@@ -1291,7 +1280,7 @@
         "page_idx": 8
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -1302,24 +1291,13 @@
         "page_idx": 8
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
             19,
             134,
             29
-        ],
-        "page_idx": 8
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            494,
-            944,
-            504,
-            954
         ],
         "page_idx": 8
     },
@@ -1343,17 +1321,6 @@
             96,
             440,
             110
-        ],
-        "page_idx": 9
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            168,
-            123,
-            532,
-            138
         ],
         "page_idx": 9
     },
@@ -1459,7 +1426,7 @@
         "page_idx": 9
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -1470,7 +1437,7 @@
         "page_idx": 9
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
@@ -1481,7 +1448,7 @@
         "page_idx": 9
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "8 ",
         "bbox": [
             494,
@@ -1594,7 +1561,7 @@
         "page_idx": 10
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -1605,7 +1572,7 @@
         "page_idx": 10
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
@@ -1616,7 +1583,7 @@
         "page_idx": 10
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "9 ",
         "bbox": [
             494,
@@ -1625,17 +1592,6 @@
             954
         ],
         "page_idx": 10
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            223,
-            67,
-            889,
-            109
-        ],
-        "page_idx": 11
     },
     {
         "type": "text",
@@ -1772,7 +1728,7 @@
         "page_idx": 11
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -1783,24 +1739,13 @@
         "page_idx": 11
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             30,
             19,
             134,
             29
-        ],
-        "page_idx": 11
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            944,
-            509,
-            954
         ],
         "page_idx": 11
     },
@@ -1906,17 +1851,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            163,
-            652,
-            484,
-            666
-        ],
-        "page_idx": 12
-    },
-    {
-        "type": "text",
         "text": "(a) make any credit of an investment to an investment account maintained by it; or (b) dispose of an investment held by it or credited to an investment account which it holds with another investment intermediary ",
         "bbox": [
             220,
@@ -1960,7 +1894,7 @@
         "page_idx": 12
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -1971,24 +1905,13 @@
         "page_idx": 12
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
             19,
             134,
             29
-        ],
-        "page_idx": 12
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            944,
-            507,
-            954
         ],
         "page_idx": 12
     },
@@ -2149,7 +2072,7 @@
         "page_idx": 13
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -2160,24 +2083,13 @@
         "page_idx": 13
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
             19,
             134,
             29
-        ],
-        "page_idx": 13
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            944,
-            509,
-            954
         ],
         "page_idx": 13
     },
@@ -2339,7 +2251,7 @@
         "page_idx": 14
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -2350,24 +2262,13 @@
         "page_idx": 14
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
             19,
             134,
             29
-        ],
-        "page_idx": 14
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            944,
-            509,
-            954
         ],
         "page_idx": 14
     },
@@ -2506,7 +2407,7 @@
         "page_idx": 15
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -2517,24 +2418,13 @@
         "page_idx": 15
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
             19,
             134,
             29
-        ],
-        "page_idx": 15
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            944,
-            509,
-            954
         ],
         "page_idx": 15
     },
@@ -2574,7 +2464,7 @@
         "page_idx": 16
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -2585,24 +2475,13 @@
         "page_idx": 16
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
             19,
             134,
             29
-        ],
-        "page_idx": 16
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            944,
-            509,
-            954
         ],
         "page_idx": 16
     },
@@ -2735,7 +2614,7 @@
         "page_idx": 17
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -2746,7 +2625,7 @@
         "page_idx": 17
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
@@ -2757,7 +2636,7 @@
         "page_idx": 17
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "16 ",
         "bbox": [
             492,
@@ -2768,20 +2647,7 @@
         "page_idx": 17
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            115,
-            77,
-            899,
-            851
-        ],
-        "page_idx": 18
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
@@ -2792,18 +2658,7 @@
         "page_idx": 18
     },
     {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            944,
-            509,
-            954
-        ],
-        "page_idx": 18
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -2814,20 +2669,7 @@
         "page_idx": 18
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            115,
-            73,
-            899,
-            908
-        ],
-        "page_idx": 19
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
@@ -2838,7 +2680,7 @@
         "page_idx": 19
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "18 ",
         "bbox": [
             490,
@@ -2849,7 +2691,7 @@
         "page_idx": 19
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,
@@ -2860,20 +2702,7 @@
         "page_idx": 19
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            115,
-            65,
-            900,
-            245
-        ],
-        "page_idx": 20
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "CONFIDENTIAL ",
         "bbox": [
             31,
@@ -2884,18 +2713,7 @@
         "page_idx": 20
     },
     {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            944,
-            509,
-            954
-        ],
-        "page_idx": 20
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "PERSONAL PROPERTY LAW",
         "bbox": [
             631,

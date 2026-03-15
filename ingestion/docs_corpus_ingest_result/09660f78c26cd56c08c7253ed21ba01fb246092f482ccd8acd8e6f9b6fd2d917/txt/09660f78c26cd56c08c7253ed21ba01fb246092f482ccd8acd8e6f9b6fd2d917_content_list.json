@@ -168,7 +168,7 @@
         "page_idx": 0
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "Claim No: SCT 295/2025 ",
         "bbox": [
             727,
@@ -337,17 +337,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            40,
-            17,
-            961,
-            109
-        ],
-        "page_idx": 2
-    },
-    {
-        "type": "text",
         "text": "6. The Claimant also sought an order imposing penalties on the Defendant of AED 300,162.86 pursuant to Article 19 of the DIFC Employment Law No. 2 of 2019 as amended (the “Employment Law”), due to the Defendant’s failure to pay the sums the Claimant claims are due to him within 14 days of the termination of his employment. ",
         "bbox": [
             40,
@@ -443,17 +432,6 @@
             730,
             563,
             749
-        ],
-        "page_idx": 2
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            114,
-            762,
-            961,
-            853
         ],
         "page_idx": 2
     },
@@ -590,17 +568,6 @@
             965
         ],
         "page_idx": 3
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            80,
-            17,
-            633,
-            35
-        ],
-        "page_idx": 4
     },
     {
         "type": "text",

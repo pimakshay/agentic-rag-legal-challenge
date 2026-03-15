@@ -56,7 +56,7 @@
         "page_idx": 0
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "Consolidated Version No. 2 (March 2022) ",
         "bbox": [
             401,
@@ -67,7 +67,7 @@
         "page_idx": 0
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             196,
@@ -298,7 +298,7 @@
         "page_idx": 1
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
@@ -309,7 +309,7 @@
         "page_idx": 1
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "ii ",
         "bbox": [
             492,
@@ -505,7 +505,7 @@
         "page_idx": 2
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
@@ -516,7 +516,7 @@
         "page_idx": 2
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "iii ",
         "bbox": [
             490,
@@ -721,7 +721,7 @@
         "page_idx": 3
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
@@ -732,7 +732,7 @@
         "page_idx": 3
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "1 ",
         "bbox": [
             494,
@@ -958,7 +958,7 @@
         "page_idx": 4
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
@@ -969,7 +969,7 @@
         "page_idx": 4
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "2 ",
         "bbox": [
             494,
@@ -1114,7 +1114,7 @@
         "page_idx": 5
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
@@ -1125,7 +1125,7 @@
         "page_idx": 5
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "3 ",
         "bbox": [
             494,
@@ -1328,7 +1328,7 @@
         "page_idx": 6
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
@@ -1339,7 +1339,7 @@
         "page_idx": 6
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "4 ",
         "bbox": [
             494,
@@ -1395,7 +1395,7 @@
         "page_idx": 7
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
@@ -1406,7 +1406,7 @@
         "page_idx": 7
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "5 ",
         "bbox": [
             494,
@@ -1519,7 +1519,7 @@
         "page_idx": 8
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
@@ -1530,7 +1530,7 @@
         "page_idx": 8
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "6 ",
         "bbox": [
             494,
@@ -1759,24 +1759,13 @@
         "page_idx": 9
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
             32,
             895,
             46
-        ],
-        "page_idx": 9
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            494,
-            954,
-            504,
-            964
         ],
         "page_idx": 9
     },
@@ -1976,7 +1965,7 @@
         "page_idx": 10
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
@@ -1987,7 +1976,7 @@
         "page_idx": 10
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "8 ",
         "bbox": [
             494,
@@ -2134,7 +2123,7 @@
         "page_idx": 11
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
@@ -2145,7 +2134,7 @@
         "page_idx": 11
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "9 ",
         "bbox": [
             494,
@@ -2329,24 +2318,13 @@
         "page_idx": 12
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
             32,
             895,
             46
-        ],
-        "page_idx": 12
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            954,
-            509,
-            965
         ],
         "page_idx": 12
     },
@@ -2499,7 +2477,7 @@
         "page_idx": 13
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
@@ -2508,28 +2486,6 @@
             46
         ],
         "page_idx": 13
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            490,
-            954,
-            507,
-            965
-        ],
-        "page_idx": 13
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            156,
-            67,
-            895,
-            211
-        ],
-        "page_idx": 14
     },
     {
         "type": "text",
@@ -2704,24 +2660,13 @@
         "page_idx": 14
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
             32,
             894,
             46
-        ],
-        "page_idx": 14
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            954,
-            509,
-            965
         ],
         "page_idx": 14
     },
@@ -2830,17 +2775,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            221,
-            609,
-            852,
-            766
-        ],
-        "page_idx": 15
-    },
-    {
-        "type": "text",
         "text": "56. Postponement of rights of person in case of insolvency ",
         "text_level": 1,
         "bbox": [
@@ -2863,24 +2797,13 @@
         "page_idx": 15
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
             32,
             894,
             46
-        ],
-        "page_idx": 15
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            954,
-            509,
-            965
         ],
         "page_idx": 15
     },
@@ -2920,24 +2843,13 @@
         "page_idx": 16
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
             32,
             895,
             46
-        ],
-        "page_idx": 16
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            954,
-            509,
-            964
         ],
         "page_idx": 16
     },
@@ -3089,24 +3001,13 @@
         "page_idx": 17
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
             32,
             895,
             46
-        ],
-        "page_idx": 17
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            954,
-            509,
-            965
         ],
         "page_idx": 17
     },
@@ -3177,24 +3078,13 @@
         "page_idx": 18
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
             32,
             894,
             46
-        ],
-        "page_idx": 18
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            954,
-            509,
-            965
         ],
         "page_idx": 18
     },
@@ -3267,24 +3157,13 @@
         "page_idx": 19
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
             32,
             895,
             46
-        ],
-        "page_idx": 19
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            490,
-            954,
-            509,
-            964
         ],
         "page_idx": 19
     },
@@ -3360,7 +3239,7 @@
         "page_idx": 20
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
@@ -3371,7 +3250,7 @@
         "page_idx": 20
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "18 ",
         "bbox": [
             490,
@@ -3382,31 +3261,7 @@
         "page_idx": 20
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            157,
-            65,
-            897,
-            505
-        ],
-        "page_idx": 21
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            492,
-            954,
-            509,
-            964
-        ],
-        "page_idx": 21
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
@@ -3443,24 +3298,13 @@
         "page_idx": 22
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "GENERAL PARTNERSHIP LAW ",
         "bbox": [
             618,
             32,
             895,
             46
-        ],
-        "page_idx": 22
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            490,
-            954,
-            509,
-            965
         ],
         "page_idx": 22
     }

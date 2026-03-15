@@ -192,7 +192,7 @@
         "page_idx": 0
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "Claim No: SCT 514/2025 ",
         "bbox": [
             727,
@@ -283,17 +283,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            80,
-            576,
-            102,
-            588
-        ],
-        "page_idx": 1
-    },
-    {
-        "type": "text",
         "text": "SCHEDULE 3: ",
         "bbox": [
             78,
@@ -333,17 +322,6 @@
             749,
             961,
             793
-        ],
-        "page_idx": 1
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            78,
-            813,
-            102,
-            826
         ],
         "page_idx": 1
     },
@@ -511,17 +489,6 @@
             20,
             579,
             39
-        ],
-        "page_idx": 3
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            78,
-            55,
-            961,
-            147
         ],
         "page_idx": 3
     },
@@ -745,17 +712,6 @@
             923
         ],
         "page_idx": 4
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            42,
-            17,
-            959,
-            85
-        ],
-        "page_idx": 5
     },
     {
         "type": "text",

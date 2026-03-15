@@ -169,7 +169,7 @@
         "page_idx": 0
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "Claim No. ARB 034/2025 ",
         "bbox": [
             726,
@@ -199,17 +199,6 @@
             53,
             961,
             185
-        ],
-        "page_idx": 1
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            652,
-            200,
-            959,
-            318
         ],
         "page_idx": 1
     },

@@ -168,7 +168,7 @@
         "page_idx": 0
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "Claim No: CFI 016/2025 ",
         "bbox": [
             736,
@@ -330,17 +330,6 @@
             837,
             961,
             928
-        ],
-        "page_idx": 1
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            80,
-            950,
-            102,
-            960
         ],
         "page_idx": 1
     },

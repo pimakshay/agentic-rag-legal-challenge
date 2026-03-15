@@ -265,7 +265,7 @@
         "page_idx": 1
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -276,7 +276,7 @@
         "page_idx": 1
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "i ",
         "bbox": [
             494,
@@ -403,7 +403,7 @@
         "page_idx": 2
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -414,7 +414,7 @@
         "page_idx": 2
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "ii ",
         "bbox": [
             492,
@@ -573,7 +573,7 @@
         "page_idx": 3
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -584,7 +584,7 @@
         "page_idx": 3
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "1 ",
         "bbox": [
             494,
@@ -730,24 +730,13 @@
         "page_idx": 4
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
             41,
             880,
             55
-        ],
-        "page_idx": 4
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            494,
-            946,
-            504,
-            957
         ],
         "page_idx": 4
     },
@@ -950,24 +939,13 @@
         "page_idx": 5
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
             41,
             880,
             55
-        ],
-        "page_idx": 5
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            494,
-            946,
-            504,
-            957
         ],
         "page_idx": 5
     },
@@ -1027,24 +1005,13 @@
         "page_idx": 6
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
             42,
             880,
             55
-        ],
-        "page_idx": 6
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            494,
-            947,
-            504,
-            956
         ],
         "page_idx": 6
     },
@@ -1250,7 +1217,7 @@
         "page_idx": 7
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -1261,7 +1228,7 @@
         "page_idx": 7
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "5 ",
         "bbox": [
             494,
@@ -1461,7 +1428,7 @@
         "page_idx": 8
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -1472,7 +1439,7 @@
         "page_idx": 8
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "6 ",
         "bbox": [
             494,
@@ -1545,17 +1512,6 @@
             323,
             702,
             368
-        ],
-        "page_idx": 9
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            191,
-            381,
-            878,
-            410
         ],
         "page_idx": 9
     },
@@ -1651,24 +1607,13 @@
         "page_idx": 9
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
             41,
             880,
             55
-        ],
-        "page_idx": 9
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            494,
-            946,
-            504,
-            956
         ],
         "page_idx": 9
     },
@@ -1808,24 +1753,13 @@
         "page_idx": 10
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
             41,
             880,
             55
-        ],
-        "page_idx": 10
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            494,
-            946,
-            504,
-            957
         ],
         "page_idx": 10
     },
@@ -1886,17 +1820,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            238,
-            367,
-            789,
-            381
-        ],
-        "page_idx": 11
-    },
-    {
-        "type": "text",
         "text": "(6) If any Record or register referred to in this Article is kept otherwise than in intelligible written form, any duty imposed on the Registered Person by any law to allow inspection and copying of, or to require the giving or production of, information or Documents shall be treated as a duty to provide such information or Documents in intelligible written form. ",
         "bbox": [
             179,
@@ -1907,7 +1830,7 @@
         "page_idx": 11
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -1918,7 +1841,7 @@
         "page_idx": 11
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "9 ",
         "bbox": [
             494,
@@ -2120,7 +2043,7 @@
         "page_idx": 12
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -2131,7 +2054,7 @@
         "page_idx": 12
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "10 ",
         "bbox": [
             490,
@@ -2231,24 +2154,13 @@
         "page_idx": 13
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             719,
             41,
             880,
             55
-        ],
-        "page_idx": 13
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            490,
-            946,
-            507,
-            957
         ],
         "page_idx": 13
     },
@@ -2379,7 +2291,7 @@
         "page_idx": 14
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -2390,7 +2302,7 @@
         "page_idx": 14
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "12 ",
         "bbox": [
             490,
@@ -2511,7 +2423,7 @@
         "page_idx": 15
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -2522,7 +2434,7 @@
         "page_idx": 15
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "13 ",
         "bbox": [
             490,
@@ -2688,7 +2600,7 @@
         "page_idx": 16
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -2699,7 +2611,7 @@
         "page_idx": 16
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "14 ",
         "bbox": [
             490,
@@ -2867,7 +2779,7 @@
         "page_idx": 17
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -2878,7 +2790,7 @@
         "page_idx": 17
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "15 ",
         "bbox": [
             490,
@@ -3067,7 +2979,7 @@
         "page_idx": 18
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -3078,7 +2990,7 @@
         "page_idx": 18
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "16 ",
         "bbox": [
             490,
@@ -3107,28 +3019,6 @@
             152,
             710,
             167
-        ],
-        "page_idx": 19
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            297,
-            181,
-            744,
-            196
-        ],
-        "page_idx": 19
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            238,
-            209,
-            882,
-            239
         ],
         "page_idx": 19
     },
@@ -3245,7 +3135,7 @@
         "page_idx": 19
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -3256,7 +3146,7 @@
         "page_idx": 19
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "17 ",
         "bbox": [
             490,
@@ -3318,17 +3208,6 @@
             309,
             768,
             354
-        ],
-        "page_idx": 20
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            297,
-            366,
-            880,
-            395
         ],
         "page_idx": 20
     },
@@ -3410,7 +3289,7 @@
         "page_idx": 20
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -3421,7 +3300,7 @@
         "page_idx": 20
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "18 ",
         "bbox": [
             490,
@@ -3597,7 +3476,7 @@
         "page_idx": 21
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -3608,7 +3487,7 @@
         "page_idx": 21
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "19 ",
         "bbox": [
             490,
@@ -3617,28 +3496,6 @@
             957
         ],
         "page_idx": 21
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            228,
-            67,
-            749,
-            82
-        ],
-        "page_idx": 22
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            235,
-            96,
-            877,
-            123
-        ],
-        "page_idx": 22
     },
     {
         "type": "text",
@@ -3741,7 +3598,7 @@
         "page_idx": 22
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -3752,7 +3609,7 @@
         "page_idx": 22
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "20 ",
         "bbox": [
             490,
@@ -3920,24 +3777,13 @@
         "page_idx": 23
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
             41,
             880,
             55
-        ],
-        "page_idx": 23
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            946,
-            507,
-            957
         ],
         "page_idx": 23
     },
@@ -4000,17 +3846,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            236,
-            581,
-            880,
-            725
-        ],
-        "page_idx": 24
-    },
-    {
-        "type": "text",
         "text": "37. Administrative Censures ",
         "text_level": 1,
         "bbox": [
@@ -4055,24 +3890,13 @@
         "page_idx": 24
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             719,
             41,
             880,
             55
-        ],
-        "page_idx": 24
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            946,
-            509,
-            957
         ],
         "page_idx": 24
     },
@@ -4235,24 +4059,13 @@
         "page_idx": 25
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
             41,
             880,
             55
-        ],
-        "page_idx": 25
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            946,
-            509,
-            957
         ],
         "page_idx": 25
     },
@@ -4424,7 +4237,7 @@
         "page_idx": 26
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -4435,7 +4248,7 @@
         "page_idx": 26
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "24 ",
         "bbox": [
             489,
@@ -4444,17 +4257,6 @@
             957
         ],
         "page_idx": 26
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            236,
-            67,
-            878,
-            109
-        ],
-        "page_idx": 27
     },
     {
         "type": "text",
@@ -4491,7 +4293,7 @@
         "page_idx": 27
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -4502,7 +4304,7 @@
         "page_idx": 27
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "25 ",
         "bbox": [
             489,
@@ -4682,7 +4484,7 @@
         "page_idx": 28
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             719,
@@ -4693,7 +4495,7 @@
         "page_idx": 28
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "26 ",
         "bbox": [
             489,
@@ -4702,17 +4504,6 @@
             957
         ],
         "page_idx": 28
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            236,
-            66,
-            880,
-            183
-        ],
-        "page_idx": 29
     },
     {
         "type": "text",
@@ -4850,7 +4641,7 @@
         "page_idx": 29
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -4861,7 +4652,7 @@
         "page_idx": 29
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "27 ",
         "bbox": [
             489,
@@ -4870,17 +4661,6 @@
             957
         ],
         "page_idx": 29
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            176,
-            67,
-            880,
-            153
-        ],
-        "page_idx": 30
     },
     {
         "type": "text",
@@ -5007,7 +4787,7 @@
         "page_idx": 30
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -5018,7 +4798,7 @@
         "page_idx": 30
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "28 ",
         "bbox": [
             489,
@@ -5029,7 +4809,7 @@
         "page_idx": 30
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "52. Financial year ",
         "bbox": [
             119,
@@ -5241,7 +5021,7 @@
         "page_idx": 31
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -5252,7 +5032,7 @@
         "page_idx": 31
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "29 ",
         "bbox": [
             489,
@@ -5429,7 +5209,7 @@
         "page_idx": 32
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -5440,7 +5220,7 @@
         "page_idx": 32
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "30 ",
         "bbox": [
             490,
@@ -5608,7 +5388,7 @@
         "page_idx": 33
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -5619,7 +5399,7 @@
         "page_idx": 33
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "31 ",
         "bbox": [
             489,
@@ -5775,7 +5555,7 @@
         "page_idx": 34
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -5784,28 +5564,6 @@
             55
         ],
         "page_idx": 34
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            946,
-            509,
-            957
-        ],
-        "page_idx": 34
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            176,
-            67,
-            880,
-            140
-        ],
-        "page_idx": 35
     },
     {
         "type": "text",
@@ -5954,7 +5712,7 @@
         "page_idx": 35
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -5965,7 +5723,7 @@
         "page_idx": 35
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "33 ",
         "bbox": [
             489,
@@ -6027,17 +5785,6 @@
             280,
             811,
             325
-        ],
-        "page_idx": 36
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            297,
-            337,
-            880,
-            381
         ],
         "page_idx": 36
     },
@@ -6176,24 +5923,13 @@
         "page_idx": 36
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
             41,
             880,
             55
-        ],
-        "page_idx": 36
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            489,
-            946,
-            509,
-            957
         ],
         "page_idx": 36
     },
@@ -6255,7 +5991,7 @@
         "page_idx": 37
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -6266,7 +6002,7 @@
         "page_idx": 37
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "35 ",
         "bbox": [
             489,
@@ -6345,7 +6081,7 @@
         "page_idx": 38
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -6356,7 +6092,7 @@
         "page_idx": 38
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "36 ",
         "bbox": [
             490,
@@ -6438,7 +6174,7 @@
         "page_idx": 39
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -6449,7 +6185,7 @@
         "page_idx": 39
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "37 ",
         "bbox": [
             489,
@@ -6460,20 +6196,7 @@
         "page_idx": 39
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            129,
-            67,
-            868,
-            901
-        ],
-        "page_idx": 40
-    },
-    {
-        "type": "discarded",
+        "type": "text",
         "text": "38 ",
         "bbox": [
             489,
@@ -6484,7 +6207,7 @@
         "page_idx": 40
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -6493,19 +6216,6 @@
             55
         ],
         "page_idx": 40
-    },
-    {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            126,
-            60,
-            872,
-            590
-        ],
-        "page_idx": 41
     },
     {
         "type": "text",
@@ -6542,7 +6252,7 @@
         "page_idx": 41
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "39 ",
         "bbox": [
             489,
@@ -6553,7 +6263,7 @@
         "page_idx": 41
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             721,
@@ -6618,24 +6328,13 @@
         "page_idx": 42
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "OPERATING LAW",
         "bbox": [
             719,
             41,
             880,
             55
-        ],
-        "page_idx": 42
-    },
-    {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            490,
-            946,
-            509,
-            957
         ],
         "page_idx": 42
     }

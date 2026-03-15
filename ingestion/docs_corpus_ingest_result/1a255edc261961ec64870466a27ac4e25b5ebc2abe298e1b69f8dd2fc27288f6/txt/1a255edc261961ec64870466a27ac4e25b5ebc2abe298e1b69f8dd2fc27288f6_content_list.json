@@ -136,19 +136,6 @@
         "page_idx": 0
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            45,
-            16,
-            957,
-            74
-        ],
-        "page_idx": 1
-    },
-    {
         "type": "text",
         "text": "AMENDED JUDGMENT OF H.E. JUSTICE MICHAEL BLACK KC ",
         "text_level": 1,
@@ -588,57 +575,6 @@
     },
     {
         "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            38,
-            92,
-            956,
-            971
-        ],
-        "page_idx": 5
-    },
-    {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            38,
-            17,
-            963,
-            958
-        ],
-        "page_idx": 6
-    },
-    {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            38,
-            89,
-            956,
-            978
-        ],
-        "page_idx": 7
-    },
-    {
-        "type": "text",
-        "text": "",
-        "text_level": 1,
-        "bbox": [
-            50,
-            131,
-            235,
-            149
-        ],
-        "page_idx": 8
-    },
-    {
-        "type": "table",
         "img_path": "images/f5f9b337d72560fceea35c86d2fdc1418f1262c2cea2a8bf3091ab0b55ebe7b4.jpg",
         "table_caption": [],
         "table_footnote": [],
@@ -650,32 +586,6 @@
             979
         ],
         "page_idx": 8
-    },
-    {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            38,
-            123,
-            956,
-            984
-        ],
-        "page_idx": 9
-    },
-    {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            40,
-            14,
-            956,
-            492
-        ],
-        "page_idx": 10
     },
     {
         "type": "text",
@@ -823,19 +733,6 @@
             952
         ],
         "page_idx": 11
-    },
-    {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            40,
-            16,
-            956,
-            306
-        ],
-        "page_idx": 12
     },
     {
         "type": "text",
@@ -1359,28 +1256,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            78,
-            741,
-            578,
-            760
-        ],
-        "page_idx": 17
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            72,
-            775,
-            957,
-            818
-        ],
-        "page_idx": 17
-    },
-    {
-        "type": "text",
         "text": "Essentially there must be presence before, or submission to the jurisdiction of, the foreign court, even if the foreign court asserts jurisdiction on other grounds. ",
         "bbox": [
             40,
@@ -1678,17 +1553,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            40,
-            16,
-            961,
-            156
-        ],
-        "page_idx": 21
-    },
-    {
-        "type": "text",
         "text": "67. At paragraph (11) of the Prayer to the Amended Statement of Claim in the HK Proceedings (“ASOC”) Techteryx claims “An order that the 4th Defendant do account to the Plaintiff as constructive trustee the said sums, together with their traceable proceeds, substitutes, income, or fruits and all such assets or part thereof\" (see paragraph 100 below). I consider that any order under this Prayer would be for a debt or defi nite sum of money immediately enforceable by action in the DIFC Courts. ",
         "bbox": [
             40,
@@ -1830,17 +1694,6 @@
             972
         ],
         "page_idx": 22
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            40,
-            17,
-            961,
-            60
-        ],
-        "page_idx": 23
     },
     {
         "type": "text",
@@ -2072,17 +1925,6 @@
             960
         ],
         "page_idx": 24
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            42,
-            16,
-            961,
-            85
-        ],
-        "page_idx": 25
     },
     {
         "type": "text",
@@ -2751,17 +2593,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            78,
-            158,
-            963,
-            249
-        ],
-        "page_idx": 30
-    },
-    {
-        "type": "text",
         "text": "110. Clause 6.2 ",
         "text_level": 1,
         "bbox": [
@@ -2817,7 +2648,7 @@
         "page_idx": 30
     },
     {
-        "type": "discarded",
+        "type": "text",
         "text": "112. SECTION 10, ACTIONS BY THE FDT AND ASSET SERVICES, Clause 10.1 ",
         "bbox": [
             42,
@@ -3090,17 +2921,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            78,
-            287,
-            102,
-            300
-        ],
-        "page_idx": 33
-    },
-    {
-        "type": "text",
         "text": "Effective immediately on the date of occurrence of the Triggering Event, a resulting trust shall deemed to have arisen and all of the Escrow Amount received by FDT up to that date shall be segregated from the other funds held by FDT, and shall deemed to be held in trust by FDT in its capacity as trustee (the \"Resulting Trustee\") in favour of the Holders (the \"Resulting Trust\"): Upon creation of \"the Resulting Trust, FDT shall be vested with all powers incidental or ancilary to its capacity as Resulting Trustee and shall be entitled to apply the Escrow Funds, or any part thereof, as it deems fit to pay for the costs, fees or expenses necessarily incurred or accrued on the part of FDT upon such occurrence.\" ",
         "bbox": [
             78,
@@ -3281,17 +3101,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            42,
-            17,
-            959,
-            85
-        ],
-        "page_idx": 35
-    },
-    {
-        "type": "text",
         "text": "128. Accordingly, anything I do say is necessarily provisional, based on both incomplete evidence and incomplete legal argument. Nothing I say is intended to, or could, have any impact on the fi nal determination of any issue by the Hong Kong Courts. ",
         "bbox": [
             42,
@@ -3424,17 +3233,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            42,
-            17,
-            961,
-            85
-        ],
-        "page_idx": 37
-    },
-    {
-        "type": "text",
         "text": "140. Clause 4.f fi gured prominently in DMCC’s submissions because it imposes an express resulting trust in favour of the holders in certain circumstances (“Triggering Events”). DMCC argues that the drafters of the ESA were thus capable of saying there was to be a trust if that was what was intended and further a resulting trust in favour of the Holders would be inconsistent with a subsisting trust in favour of Techteryx. The Triggering Events were disability on the part of the Client (i.e., Techteryx), default by the Client incapable of remedy, seizure of the Client’s assets, supervening absence of regulatory approval or illegality. ",
         "bbox": [
             40,
@@ -3520,17 +3318,6 @@
             978
         ],
         "page_idx": 37
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            78,
-            17,
-            961,
-            109
-        ],
-        "page_idx": 38
     },
     {
         "type": "text",
@@ -3652,17 +3439,6 @@
             964
         ],
         "page_idx": 39
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            78,
-            16,
-            963,
-            133
-        ],
-        "page_idx": 40
     },
     {
         "type": "text",
@@ -4220,17 +3996,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            80,
-            129,
-            102,
-            141
-        ],
-        "page_idx": 46
-    },
-    {
-        "type": "text",
         "text": "Insured Risks ",
         "text_level": 1,
         "bbox": [
@@ -4249,17 +4014,6 @@
             190,
             963,
             428
-        ],
-        "page_idx": 46
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            80,
-            448,
-            102,
-            460
         ],
         "page_idx": 46
     },
@@ -4376,17 +4130,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            80,
-            189,
-            853,
-            208
-        ],
-        "page_idx": 47
-    },
-    {
-        "type": "text",
         "text": "Short Duration Asset Backed transactions and self liquidating positions ",
         "bbox": [
             82,
@@ -4404,17 +4147,6 @@
             254,
             909,
             274
-        ],
-        "page_idx": 47
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            82,
-            287,
-            831,
-            306
         ],
         "page_idx": 47
     },
@@ -4915,17 +4647,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            78,
-            17,
-            959,
-            85
-        ],
-        "page_idx": 51
-    },
-    {
-        "type": "text",
         "text": "(5) any and all actions of the Company, or the Director(s), or any offi cer(s) (including for the avoidance of doubt, Alex De Lorraine or person(s) authorized by the Company taken in connection with the actions contemplated by the foregoing resolutions prior to the execution hereof be and are hereby ratifi ed, confi rmed, approved and adopted in all respects as fully as if such action(s) had been presented to for approval and approved by, the Directors prior to such action being taken. ",
         "bbox": [
             77,
@@ -5048,34 +4769,12 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            80,
-            179,
-            104,
-            193
-        ],
-        "page_idx": 52
-    },
-    {
-        "type": "text",
         "text": "Maria 14:07 So we can bump to above $70 \\%$ , but we are currently at $30 \\%$ cap, and you were asking is move it up to $38 \\%$ ok? correct? ",
         "bbox": [
             80,
             210,
             959,
             252
-        ],
-        "page_idx": 52
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            80,
-            271,
-            102,
-            285
         ],
         "page_idx": 52
     },
@@ -5099,17 +4798,6 @@
             326,
             961,
             368
-        ],
-        "page_idx": 52
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            80,
-            388,
-            102,
-            401
         ],
         "page_idx": 52
     },
@@ -5357,17 +5045,6 @@
             913
         ],
         "page_idx": 54
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            78,
-            17,
-            959,
-            85
-        ],
-        "page_idx": 55
     },
     {
         "type": "text",
@@ -5667,17 +5344,6 @@
             960
         ],
         "page_idx": 57
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            42,
-            17,
-            961,
-            85
-        ],
-        "page_idx": 58
     },
     {
         "type": "text",
@@ -6860,17 +6526,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            75,
-            681,
-            963,
-            730
-        ],
-        "page_idx": 67
-    },
-    {
-        "type": "text",
         "text": "280. FTI identifi ed the following receipts in the ENBD Account from Legacy totalling approximately USD 29 million: ",
         "bbox": [
             43,
@@ -7042,32 +6697,6 @@
         "page_idx": 68
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            36,
-            67,
-            957,
-            956
-        ],
-        "page_idx": 69
-    },
-    {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            40,
-            16,
-            957,
-            145
-        ],
-        "page_idx": 70
-    },
-    {
         "type": "text",
         "text": "284. FTI identifi ed one receipt in the ADIB Account from FDT. USD 199,999,963.56 was received into this account on 16 March 2022 with transaction description “0255000074FF:-CHAS FIRST DIGITAL TRUST LIMITED CLASS D 6.0.\". This correlates to Remittance No.6. ",
         "bbox": [
@@ -7104,19 +6733,6 @@
         "page_idx": 70
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            38,
-            15,
-            957,
-            343
-        ],
-        "page_idx": 71
-    },
-    {
         "type": "text",
         "text": "286. It is not possible to identify which (if any) payments were used to fund investments in assetbacked, credit-insured short term commodity fi nance transactions. ",
         "bbox": [
@@ -7146,17 +6762,6 @@
             551,
             586,
             570
-        ],
-        "page_idx": 71
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            78,
-            585,
-            961,
-            676
         ],
         "page_idx": 71
     },
@@ -7344,17 +6949,6 @@
             430,
             961,
             787
-        ],
-        "page_idx": 73
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            80,
-            806,
-            102,
-            819
         ],
         "page_idx": 73
     },
@@ -7625,17 +7219,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            40,
-            17,
-            959,
-            85
-        ],
-        "page_idx": 76
-    },
-    {
-        "type": "text",
         "text": "302. In MWB-A-1, MWB seeks to explain why the Fund ceased honouring redemption requests: ",
         "bbox": [
             50,
@@ -7873,17 +7456,6 @@
             83,
             963,
             272
-        ],
-        "page_idx": 78
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            117,
-            291,
-            141,
-            303
         ],
         "page_idx": 78
     },
@@ -8440,28 +8012,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            77,
-            19,
-            963,
-            171
-        ],
-        "page_idx": 84
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            80,
-            189,
-            102,
-            203
-        ],
-        "page_idx": 84
-    },
-    {
-        "type": "text",
         "text": "8 The position is reiterated in DMCC's skeleton argument for the 12 May hearing at paragraph   \n160: ",
         "bbox": [
             78,
@@ -8534,17 +8084,6 @@
             16,
             963,
             328
-        ],
-        "page_idx": 85
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            80,
-            346,
-            102,
-            357
         ],
         "page_idx": 85
     },
@@ -8848,17 +8387,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            42,
-            17,
-            959,
-            85
-        ],
-        "page_idx": 89
-    },
-    {
-        "type": "text",
         "text": "341. The closest account given by MWB that came to suggesting that the payments to DMCC were functionally equivalent\" to an investment in the Fund was that which he originally gave in the HK Proceedings in his First Affi rmation on 3 June 2024. He simply stated, ",
         "bbox": [
             42,
@@ -9012,17 +8540,6 @@
         "page_idx": 90
     },
     {
-        "type": "discarded",
-        "text": "",
-        "bbox": [
-            80,
-            921,
-            102,
-            931
-        ],
-        "page_idx": 90
-    },
-    {
         "type": "text",
         "text": "3.23 Section 40(1) of the Companies Act provides that the Fund must keep a register of members which contains the names and addresses of the Fund's shareholders, a statement of the number and category of shares held by each shareholder, and of the amount paid or agreed to be considered as paid, on the shares of each shareholder; whether each relevant category of shares held by a shareholder carries voting rights under the Articles and, if so, whether such voting rights are conditional, the date on which the name of any person was entered on the register as a shareholder; and the date on which any person ceased to be a shareholder. Additionally, the Fund is permitted to maintain one or more branch registers of such category or categories of members as the Fund may determine from time to time. A duplicate of the branch register of members must be kept in the same place where the principal register of members is kept. Most commonly, the principal register of members would be maintained at the office of the administrator and a branch register of management shares would be maintained by a fund's registered office with a duplicate branch register of management shares sent to the administrator. ",
         "bbox": [
@@ -9054,17 +8571,6 @@
             970
         ],
         "page_idx": 91
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            40,
-            16,
-            961,
-            181
-        ],
-        "page_idx": 92
     },
     {
         "type": "text",
@@ -9254,17 +8760,6 @@
         "page_idx": 93
     },
     {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            40,
-            17,
-            961,
-            60
-        ],
-        "page_idx": 94
-    },
-    {
         "type": "table",
         "img_path": "images/4e227ad9b598f451629522bee85b9b07492269bfbde755aea8404e4e317bc735.jpg",
         "table_caption": [],
@@ -9277,19 +8772,6 @@
             787
         ],
         "page_idx": 94
-    },
-    {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            47,
-            15,
-            957,
-            271
-        ],
-        "page_idx": 95
     },
     {
         "type": "text",
@@ -9956,17 +9438,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            117,
-            562,
-            304,
-            580
-        ],
-        "page_idx": 102
-    },
-    {
-        "type": "text",
         "text": "388. During the course of argument, I observed that I thought that the fourth allegation was, by far, the weakest as it was an issue of law and there were different views upon it. ",
         "bbox": [
             42,
@@ -10008,17 +9479,6 @@
             978
         ],
         "page_idx": 102
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            80,
-            17,
-            963,
-            85
-        ],
-        "page_idx": 103
     },
     {
         "type": "text",
@@ -10506,17 +9966,6 @@
             954
         ],
         "page_idx": 108
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            42,
-            17,
-            959,
-            84
-        ],
-        "page_idx": 109
     },
     {
         "type": "text",

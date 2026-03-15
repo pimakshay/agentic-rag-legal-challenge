@@ -410,17 +410,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            77,
-            707,
-            959,
-            751
-        ],
-        "page_idx": 2
-    },
-    {
-        "type": "text",
         "text": "(1) the sum of USD 456,000,000 transferred to it from Legacy Trust Company Limited and First Digital Trust Limited, including in particular (without limitation): ",
         "bbox": [
             78,
@@ -493,17 +482,6 @@
             208,
             463,
             225
-        ],
-        "page_idx": 3
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            77,
-            242,
-            835,
-            261
         ],
         "page_idx": 3
     },
@@ -676,17 +654,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            77,
-            368,
-            961,
-            435
-        ],
-        "page_idx": 4
-    },
-    {
-        "type": "text",
         "text": "12. There were other terms of the Order: ",
         "bbox": [
             43,
@@ -753,58 +720,6 @@
             963
         ],
         "page_idx": 4
-    },
-    {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            38,
-            98,
-            956,
-            958
-        ],
-        "page_idx": 5
-    },
-    {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            40,
-            129,
-            956,
-            979
-        ],
-        "page_idx": 6
-    },
-    {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            38,
-            93,
-            956,
-            954
-        ],
-        "page_idx": 7
-    },
-    {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            38,
-            14,
-            957,
-            273
-        ],
-        "page_idx": 8
     },
     {
         "type": "text",
@@ -916,17 +831,6 @@
             952
         ],
         "page_idx": 8
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            77,
-            17,
-            961,
-            61
-        ],
-        "page_idx": 9
     },
     {
         "type": "text",
@@ -1345,17 +1249,6 @@
             942
         ],
         "page_idx": 12
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            112,
-            17,
-            961,
-            85
-        ],
-        "page_idx": 13
     },
     {
         "type": "text",
@@ -1976,17 +1869,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            115,
-            17,
-            623,
-            36
-        ],
-        "page_idx": 18
-    },
-    {
-        "type": "text",
         "text": "(2) The 2 May Order is varied so that: ",
         "bbox": [
             78,
@@ -2175,17 +2057,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            78,
-            228,
-            526,
-            247
-        ],
-        "page_idx": 19
-    },
-    {
-        "type": "text",
         "text": "56. I also gave consequential directions leading to a 4-day Final Return Date Hearing commencing on   \n21 July 2025 and that the WFO should continue until that date. ",
         "bbox": [
             38,
@@ -2344,32 +2215,6 @@
         "page_idx": 20
     },
     {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            38,
-            71,
-            956,
-            966
-        ],
-        "page_idx": 21
-    },
-    {
-        "type": "table",
-        "img_path": "",
-        "table_caption": [],
-        "table_footnote": [],
-        "bbox": [
-            40,
-            15,
-            957,
-            273
-        ],
-        "page_idx": 22
-    },
-    {
         "type": "text",
         "text": "63. This is unsatisfactory. It appears to be a random selection of documents, unexplained and in no apparent order giving the impression of a “document dump”. What it certainly does not disclose is the accounts into the Six Remittances were paid nor any audit trail to the ultimate benefi ciaries. ",
         "bbox": [
@@ -2434,17 +2279,6 @@
             961
         ],
         "page_idx": 22
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            42,
-            17,
-            556,
-            36
-        ],
-        "page_idx": 23
     },
     {
         "type": "text",
@@ -2636,17 +2470,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            42,
-            17,
-            961,
-            109
-        ],
-        "page_idx": 25
-    },
-    {
-        "type": "text",
         "text": "79. Following the Securitisation Order QE wrote to ATCO on 21 April 2025: ",
         "bbox": [
             40,
@@ -2746,17 +2569,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            40,
-            16,
-            961,
-            133
-        ],
-        "page_idx": 26
-    },
-    {
-        "type": "text",
         "text": "83. It is for that reason, and that reason alone, that I do not consider that it is necessary (at this stage) to order further disclosure of Securitisation documentation. ",
         "bbox": [
             40,
@@ -2832,17 +2644,6 @@
             969
         ],
         "page_idx": 26
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            42,
-            17,
-            961,
-            109
-        ],
-        "page_idx": 27
     },
     {
         "type": "text",
@@ -3192,17 +2993,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            68,
-            401,
-            966,
-            525
-        ],
-        "page_idx": 31
-    },
-    {
-        "type": "text",
         "text": "108. RDC 25.110 provides that investigation of the merits of the case on an application for security is strongly discouraged. Only in those cases where it can be shown without detailed investigation of evidence or law that the claim is certain or almost certain to succeed or fail will the merits be taken into consideration. I do not regard this to be any different from the use of the phrase “highly likely to succeed\" in Al-Koronky. ",
         "bbox": [
             40,
@@ -3519,17 +3309,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            77,
-            16,
-            963,
-            133
-        ],
-        "page_idx": 35
-    },
-    {
-        "type": "text",
         "text": "122. Adopting a robust basis and applying a broad brush, taking all of the foregoing into account I consider that it is appropriate to make an Order that Techteryx shall provide security for DMCC’s costs in the sum of USD 650,000. ",
         "bbox": [
             42,
@@ -3807,17 +3586,6 @@
     },
     {
         "type": "text",
-        "text": "",
-        "bbox": [
-            78,
-            637,
-            105,
-            650
-        ],
-        "page_idx": 37
-    },
-    {
-        "type": "text",
         "text": "In the premises, please confirm how the attachments have \"imperiled [your] client's ability (and those of other companies in the group) to use its assets in the ordinary course of business\" and are \"causing damage\" to your client.\" ",
         "bbox": [
             77,
@@ -3848,17 +3616,6 @@
             920
         ],
         "page_idx": 37
-    },
-    {
-        "type": "text",
-        "text": "",
-        "bbox": [
-            42,
-            17,
-            959,
-            85
-        ],
-        "page_idx": 38
     },
     {
         "type": "text",
