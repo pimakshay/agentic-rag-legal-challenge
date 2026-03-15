@@ -30,6 +30,8 @@ class EnvConfig:
     openai_api_key: str
     openrouter_api_key: str
     llm_api_base: str
+    llm_model: str
+    embedding_model: str
     submission_path: Path
     code_archive_path: Path
     questions_path: Path
@@ -45,6 +47,8 @@ class EnvConfig:
         )
         openai_api_key = _get("OPENAI_API_KEY")
         openrouter_api_key = _get("OPENROUTER_API_KEY")
+        llm_model = _get("LLM_MODEL", "gpt-4o-mini")
+        embedding_model = _get("EMBEDDING_MODEL", "text-embedding-3-small")
 
         if openai_api_key:
             llm_api_base = _get("OPENAI_API_BASE", "https://api.openai.com/v1")
@@ -62,6 +66,8 @@ class EnvConfig:
             openai_api_key=openai_api_key,
             openrouter_api_key=openrouter_api_key,
             llm_api_base=llm_api_base,
+            llm_model=llm_model,
+            embedding_model=embedding_model,
             submission_path=submission_path,
             code_archive_path=code_archive_path,
             questions_path=questions_path,

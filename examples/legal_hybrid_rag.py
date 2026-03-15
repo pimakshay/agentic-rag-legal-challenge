@@ -23,8 +23,8 @@ from retrieval import LegalHybridRAGPipeline  # noqa: E402
 
 CONFIG = get_config()
 
-_EXCLUDE_DIRS = {"__pycache__", "docs_corpus", "storage", ".venv", "venv", "env"}
-_EXCLUDE_FILES = {".env", "submission.json", "questions.json", "code_archive.zip"}
+_EXCLUDE_DIRS = {"__pycache__", "ingestion", "docs_corpus", "storage", ".venv", "venv", "env", "tmp", "code_archive", ".git", "public_dataset", "notebooks"}
+_EXCLUDE_FILES = {".env", "submission.json", "questions.json", "code_archive.zip", "*.out", "*.zip"}
 
 
 def ensure_code_archive(archive_path: Path) -> Path:
@@ -54,13 +54,13 @@ def build_pipeline():
     from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 
     llm = ChatOpenAI(
-        model="gpt-4o-mini",
+        model=CONFIG.llm_model,#"gpt-4o-mini",
         temperature=0.0,
         openai_api_key=CONFIG.get_llm_api_key(),
         openai_api_base=CONFIG.llm_api_base,
     )
     embeddings = OpenAIEmbeddings(
-        model="text-embedding-3-small",
+        model=CONFIG.embedding_model,#"text-embedding-3-small",
         openai_api_key=CONFIG.get_embedding_api_key(),
         openai_api_base=CONFIG.llm_api_base,
     )
@@ -112,7 +112,7 @@ def main() -> None:
 
     tokenizer = None
     try:
-        tokenizer = tiktoken.encoding_for_model("gpt-4o-mini")
+        tokenizer = tiktoken.encoding_for_model(CONFIG.llm_model)
     except Exception:
         tokenizer = None
 
@@ -146,7 +146,7 @@ def main() -> None:
             ),
             retrieval=result.retrieval_refs,
             usage=usage,
-            model_name="gpt-4o-mini",
+            model_name=CONFIG.llm_model,
         )
         builder.add_answer(
             SubmissionAnswer(
