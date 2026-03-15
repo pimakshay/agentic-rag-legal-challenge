@@ -203,17 +203,18 @@ class LegalHybridRAGPipeline:
 
         if answer is None and answer_type == "free_text":
             answer = self._default_absent_answer(answer_type)
-
-        retrieval_refs = normalize_retrieved_pages(
-            RetrievalRef(doc_id=str(doc.metadata["doc_id"]), page_numbers=self._chunk_page_numbers(doc))
-            for doc in supporting_docs
-        )
-
-        if answer_type == "free_text" and isinstance(answer, str):
-            answer = answer[:280].strip()
-
-        if answer is None:
             retrieval_refs = []
+        else:
+            retrieval_refs = normalize_retrieved_pages(
+                RetrievalRef(doc_id=str(doc.metadata["doc_id"]), page_numbers=self._chunk_page_numbers(doc))
+                for doc in supporting_docs
+            )
+
+            if answer_type == "free_text" and isinstance(answer, str):
+                answer = answer[:280].strip()
+
+            if answer is None:
+                retrieval_refs = []
 
         return AnswerResult(
             answer=answer,
@@ -303,7 +304,7 @@ class LegalHybridRAGPipeline:
 
         filtered = [doc for doc in results if str(doc.metadata.get("doc_id") or "") in candidate_doc_ids]
         dense_docs = filtered or results[: self.dense_candidate_k]
-        return self._apply_route_bias(dense_docs, route)
+        return self._strictly_filter_route(self._apply_route_bias(dense_docs, route), route)
 
     def _sparse_search(
         self,
@@ -317,7 +318,7 @@ class LegalHybridRAGPipeline:
         sparse_query = self._build_sparse_query(question_text, route)
         retriever = BM25SparseRetriever(documents=list(sparse_pool), default_k=self.sparse_candidate_k)
         result = retriever.retrieve(sparse_query, k=self.sparse_candidate_k)
-        return self._apply_route_bias(result.documents, route)
+        return self._strictly_filter_route(self._apply_route_bias(result.documents, route), route)
 
     def _build_sparse_query(self, question_text: str, route: RoutePlan) -> str:
         tokens = [question_text]
@@ -326,6 +327,22 @@ class LegalHybridRAGPipeline:
         tokens.extend(route.law_names)
         tokens.extend(route.law_numbers)
         return " ".join(token for token in tokens if token).strip()
+    
+    def _strictly_filter_route(self, docs: Sequence[Document], route: RoutePlan) -> List[Document]:
+        def strictly_filter(doc: Document) -> bool:
+            metadata = doc.metadata or {}
+            chunk_kind = str(metadata.get("chunk_kind") or "")
+            page_numbers = self._chunk_page_numbers(doc)
+            if route.target_pages and (not any(page in page_numbers for page in route.target_pages)):
+                return False
+            if route.prefer_title_page and chunk_kind != "title_page":
+                return False
+            if route.prefer_last_page:
+                doc_pages = int(self._doc_metadata.get(str(metadata.get("doc_id") or ""), {}).get("page_count") or 0)
+                if not (doc_pages and page_numbers and max(page_numbers) == doc_pages):
+                    return False
+            return True
+        return list(filter(strictly_filter, docs))
 
     def _apply_route_bias(self, docs: Sequence[Document], route: RoutePlan) -> List[Document]:
         def score(doc: Document) -> Tuple[int, int, int]:
