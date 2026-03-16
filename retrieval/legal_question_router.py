@@ -10,11 +10,12 @@ from typing import List
 CASE_ID_PATTERN = re.compile(r"\b(?:CA|CFI|SCT|DEC|ENF|ARB|TCD)\s+\d{3}/\d{4}\b")
 ARTICLE_PATTERN = re.compile(r"\bArticle\s+\d+(?:\([^)]+\))*", re.IGNORECASE)
 LAW_NUMBER_PATTERN = re.compile(r"\bDIFC Law No\.?\s+\d+\s+of\s+\d{4}\b", re.IGNORECASE)
-LAW_NAME_PATTERN = re.compile(
-    r"\b([A-Z][A-Za-z&,\- ]+? Law(?:\s+\d{4})?)\b"
-)
+LAW_NAME_PATTERN = re.compile(r"\b([A-Z][A-Za-z&,\- ]+? Law(?:\s+\d{4})?)\b")
 EXPLICIT_PAGE_PATTERN = re.compile(r"\bpage\s+(\d+)\b", re.IGNORECASE)
-PHRASE_PAGE_PATTERN = re.compile(r"\b(second|third|fourth|fifth|sixth|seventh|eighth|ninth|tenth)\s+page\b", re.IGNORECASE)
+PHRASE_PAGE_PATTERN = re.compile(
+    r"\b(second|third|fourth|fifth|sixth|seventh|eighth|ninth|tenth)\s+page\b",
+    re.IGNORECASE,
+)
 DICT_PHRASE_PAGE = {
     "second": 2,
     "three": 3,
@@ -24,11 +25,14 @@ DICT_PHRASE_PAGE = {
     "seventh": 7,
     "eighth": 8,
     "ninth": 9,
-    "tenth": 10
+    "tenth": 10,
 }
+
+
 def extract_phrase_page_patern(text: str) -> List[int]:
     matched = PHRASE_PAGE_PATTERN.findall(text)
     return sorted([DICT_PHRASE_PAGE[m] for m in matched])
+
 
 @dataclass
 class RoutePlan:
@@ -59,15 +63,30 @@ class LegalQuestionRouter:
         law_numbers = [match.strip() for match in LAW_NUMBER_PATTERN.findall(question_text)]
         law_names = self._extract_law_names(question_text)
         target_pages = [int(match) for match in EXPLICIT_PAGE_PATTERN.findall(question_text)]
-        target_pages = target_pages + [page_num for page_num in extract_phrase_page_patern(question_text) if page_num not in target_pages]
+        target_pages = target_pages + [
+            page_num
+            for page_num in extract_phrase_page_patern(question_text)
+            if page_num not in target_pages
+        ]
 
-        prefer_title_page = any(phrase in lowered for phrase in ["title page", "cover page", "first page"])
+        prefer_title_page = any(
+            phrase in lowered for phrase in ["title page", "cover page", "first page"]
+        )
         prefer_last_page = "last page" in lowered
         page_specific_mode = prefer_title_page or prefer_last_page or bool(target_pages)
-        comparison_mode = len(case_ids) > 1 or any(token in lowered for token in ["between", "both cases", "both case", "common to both"])
+        comparison_mode = len(case_ids) > 1 or any(
+            token in lowered for token in ["between", "both cases", "both case", "common to both"]
+        )
         common_entity_mode = any(
             token in lowered
-            for token in ["same legal", "same party", "common", "shared", "involve any of the same", "judge involved in both"]
+            for token in [
+                "same legal",
+                "same party",
+                "common",
+                "shared",
+                "involve any of the same",
+                "judge involved in both",
+            ]
         )
 
         preferred_chunk_kinds: List[str] = []

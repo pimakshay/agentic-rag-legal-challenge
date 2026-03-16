@@ -70,7 +70,9 @@ class IngestedCorpusLoader:
 
         source_path = str((docs_root / f"{doc_id}.pdf").resolve()) if docs_root else ""
         first_page_text = "\n".join(block["text"] for block in blocks if block["page_number"] == 1)
-        claim_number = (metadata.get("claim_number") or self._extract_claim_number(first_page_text)).strip()
+        claim_number = (
+            metadata.get("claim_number") or self._extract_claim_number(first_page_text)
+        ).strip()
         case_name = (metadata.get("case_name") or "").strip()
 
         doc_metadata = {

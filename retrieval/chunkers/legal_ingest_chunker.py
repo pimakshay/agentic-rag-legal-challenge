@@ -5,7 +5,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 import logging
 import re
-from typing import Dict, Iterable, List
+from typing import Dict, List
 
 from langchain_core.documents import Document
 
@@ -73,7 +73,9 @@ class LegalIngestChunker(TextChunker):
                 )
             )
 
-        section_windows = self._build_section_windows(blocks, bool(metadata.get("structure_available")))
+        section_windows = self._build_section_windows(
+            blocks, bool(metadata.get("structure_available"))
+        )
         for window in section_windows:
             chunks.extend(self._split_window(metadata, window))
 
@@ -178,9 +180,13 @@ class LegalIngestChunker(TextChunker):
                         ),
                     )
                 )
-                overlap_blocks = overlap_tail_blocks(current_blocks, self.config.chunk_overlap_tokens)
+                overlap_blocks = overlap_tail_blocks(
+                    current_blocks, self.config.chunk_overlap_tokens
+                )
                 current_blocks = list(overlap_blocks)
-                running_tokens = sum(approximate_token_count(str(item["text"])) for item in current_blocks)
+                running_tokens = sum(
+                    approximate_token_count(str(item["text"])) for item in current_blocks
+                )
 
             current_blocks.append(block)
             running_tokens += block_tokens

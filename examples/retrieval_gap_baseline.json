@@ -1,0 +1,6 @@
+{
+  "description": "Locked retrieval gap metrics; eval fails if current run is worse.",
+  "n_questions": 100,
+  "max_zero_docs": 0,
+  "min_4_6_docs": 100
+}

@@ -38,15 +38,23 @@ def main() -> None:
     timer.mark_token()
     timer.mark_token()
     timing = timer.finish()
-    print(f"   Example: ttft_ms={timing.ttft_ms}, tpot_ms={timing.tpot_ms}, total_time_ms={timing.total_time_ms}\n")
+    print(
+        f"   Example: ttft_ms={timing.ttft_ms}, tpot_ms={timing.tpot_ms}, total_time_ms={timing.total_time_ms}\n"
+    )
 
     print("2. Retrieval references (page_numbers start from 1)")
     print("   - doc_id = PDF filename (SHA-like string from corpus)")
     print("   - page_numbers = list of 1-based page indices in the document\n")
 
     raw_refs = [
-        RetrievalRef(doc_id="443e04bc1a78940b3fcd5438d24b6c5f182a276d354a3108e738b193675de032", page_numbers=[1, 2]),
-        {"doc_id": "443e04bc1a78940b3fcd5438d24b6c5f182a276d354a3108e738b193675de032", "page_numbers": [2, 3]},
+        RetrievalRef(
+            doc_id="443e04bc1a78940b3fcd5438d24b6c5f182a276d354a3108e738b193675de032",
+            page_numbers=[1, 2],
+        ),
+        {
+            "doc_id": "443e04bc1a78940b3fcd5438d24b6c5f182a276d354a3108e738b193675de032",
+            "page_numbers": [2, 3],
+        },
     ]
     merged = normalize_retrieved_pages(raw_refs)
     print(f"   normalize_retrieved_pages merges duplicates: {merged}\n")

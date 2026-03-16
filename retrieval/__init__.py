@@ -8,11 +8,24 @@ from retrieval.chunkers import (
     RecursiveMarkdownChunker,
     TextChunker,
 )
-from retrieval.hybrid_rag_pipeline import AnswerResult, HybridRAGPipeline, LegalHybridRAGPipeline, NormalizedQuery
+from retrieval.hybrid_rag_pipeline import (
+    AnswerResult,
+    HybridRAGPipeline,
+    LegalHybridRAGPipeline,
+    NormalizedQuery,
+)
 from retrieval.legal_question_router import LegalQuestionRouter, RoutePlan
 from retrieval.loaders import IngestedCorpusLoader
 from retrieval.retrievers import BaseRAGRetriever, BM25SparseRetriever, RetrievalResult
-from retrieval.utils import BGEReranker, BaseReranker, MiniLMReranker, NoOpReranker, RerankResult
+from retrieval.utils import (
+    BGEReranker,
+    BaseReranker,
+    CohereReranker,
+    MiniLMReranker,
+    NoOpReranker,
+    RerankResult,
+    VoyageReranker,
+)
 
 __all__ = [
     "AnswerResult",
@@ -36,4 +49,6 @@ __all__ = [
     "NoOpReranker",
     "MiniLMReranker",
     "BGEReranker",
+    "VoyageReranker",
+    "CohereReranker",
 ]

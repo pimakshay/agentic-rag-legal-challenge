@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import os
 from pathlib import Path
 import sys
 from zipfile import ZIP_DEFLATED, ZipFile
@@ -19,12 +20,36 @@ from arlc import (  # noqa: E402
     UsageMetrics,
     get_config,
 )
-from retrieval import LegalHybridRAGPipeline  # noqa: E402
+from retrieval import (  # noqa: E402
+    CohereReranker,
+    LegalHybridRAGPipeline,
+    VoyageReranker,
+)
 
 CONFIG = get_config()
 
-_EXCLUDE_DIRS = {"__pycache__", "ingestion", "docs_corpus", "storage", ".venv", "venv", "env", "tmp", "code_archive", ".git", "public_dataset", "notebooks"}
-_EXCLUDE_FILES = {".env", "submission.json", "questions.json", "code_archive.zip", "*.out", "*.zip"}
+_EXCLUDE_DIRS = {
+    "__pycache__",
+    "ingestion",
+    "docs_corpus",
+    "storage",
+    ".venv",
+    "venv",
+    "env",
+    "tmp",
+    "code_archive",
+    ".git",
+    "public_dataset",
+    "notebooks",
+}
+_EXCLUDE_FILES = {
+    ".env",
+    "submission.json",
+    "questions.json",
+    "code_archive.zip",
+    "*.out",
+    "*.zip",
+}
 
 
 def ensure_code_archive(archive_path: Path) -> Path:
@@ -51,27 +76,60 @@ def count_tokens(tokenizer, text: str) -> int:
 
 
 def build_pipeline():
+    from langchain_cohere import CohereEmbeddings
     from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 
     llm = ChatOpenAI(
-        model=CONFIG.llm_model,#"gpt-4o-mini",
+        model=CONFIG.llm_model,
         temperature=0.0,
         openai_api_key=CONFIG.get_llm_api_key(),
         openai_api_base=CONFIG.llm_api_base,
     )
-    embeddings = OpenAIEmbeddings(
-        model=CONFIG.embedding_model,#"text-embedding-3-small",
-        openai_api_key=CONFIG.get_embedding_api_key(),
-        openai_api_base=CONFIG.llm_api_base,
-    )
+
+    # Use Cohere for embeddings when COHERE_API_KEY is set (rate-limited to 90/60s)
+    if CONFIG.cohere_api_key:
+        from retrieval.utils.cohere_rate_limit import RateLimitedCohereEmbeddings, get_cohere_rate_limiter
+
+        base_embeddings = CohereEmbeddings(
+            model="embed-english-v3.0",
+            cohere_api_key=CONFIG.cohere_api_key,
+        )
+        embeddings = RateLimitedCohereEmbeddings(base_embeddings, limiter=get_cohere_rate_limiter())
+    else:
+        embeddings = OpenAIEmbeddings(
+            model=CONFIG.embedding_model,
+            openai_api_key=CONFIG.get_embedding_api_key(),
+            openai_api_base=CONFIG.llm_api_base,
+        )
+
+    # Optional: skip re-indexing when Turbopuffer namespace is already populated (query-only).
+    skip_indexing_env = os.getenv("LEGAL_HYBRID_SKIP_INDEXING", "0").strip()
+    skip_indexing = skip_indexing_env in {"1", "true", "True"}
+
+    # Optional: disable reranking via feature flag (fusion-only retrieval).
+    enable_reranking_env = os.getenv("LEGAL_HYBRID_ENABLE_RERANK", "1").strip()
+    enable_reranking = enable_reranking_env not in {"0", "false", "False"}
+
+    reranker = None
+    if enable_reranking:
+        # Prefer API reranker (no local compute, better TTFT); fall back to local MiniLM.
+        if CONFIG.voyage_api_key:
+            reranker = VoyageReranker(api_key=CONFIG.voyage_api_key)
+        elif CONFIG.cohere_api_key:
+            reranker = CohereReranker(api_key=CONFIG.cohere_api_key)
+        else:
+            from retrieval.utils.rerankers import MiniLMReranker
+
+            reranker = MiniLMReranker()
 
     return LegalHybridRAGPipeline(
         llm=llm,
         embedding_model=embeddings,
         ingest_root=str(ROOT_DIR / "ingestion" / "docs_corpus_ingest_result"),
         docs_root=str(Path(CONFIG.docs_dir)),
-        chroma_persist_dir=str(ROOT_DIR / "tmp" / "legal_hybrid_chroma"),
-        use_persistent_db=True,
+        enable_reranking=enable_reranking,
+        reranker=reranker,
+        skip_indexing=skip_indexing,
     )
 
 

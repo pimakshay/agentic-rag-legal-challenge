@@ -51,7 +51,9 @@ class SubmissionBuilder:
     def __enter__(self) -> "SubmissionBuilder":
         return self
 
-    def __exit__(self, exc_type: type | None, exc_val: BaseException | None, exc_tb: object) -> None:
+    def __exit__(
+        self, exc_type: type | None, exc_val: BaseException | None, exc_tb: object
+    ) -> None:
         if exc_type is None and self.target_path is not None:
             self.save(self.target_path)
 
@@ -78,4 +80,3 @@ class SubmissionBuilder:
         payload = self.build()
         path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
         return path
-

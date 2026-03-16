@@ -29,6 +29,8 @@ class EnvConfig:
     eval_base_url: str
     openai_api_key: str
     openrouter_api_key: str
+    voyage_api_key: str
+    cohere_api_key: str
     llm_api_base: str
     llm_model: str
     embedding_model: str
@@ -47,6 +49,8 @@ class EnvConfig:
         )
         openai_api_key = _get("OPENAI_API_KEY")
         openrouter_api_key = _get("OPENROUTER_API_KEY")
+        voyage_api_key = _get("VOYAGE_API_KEY")
+        cohere_api_key = _get("COHERE_API_KEY")
         llm_model = _get("LLM_MODEL", "gpt-4o-mini")
         embedding_model = _get("EMBEDDING_MODEL", "text-embedding-3-small")
 
@@ -65,6 +69,8 @@ class EnvConfig:
             eval_base_url=eval_base_url.rstrip("/"),
             openai_api_key=openai_api_key,
             openrouter_api_key=openrouter_api_key,
+            voyage_api_key=voyage_api_key,
+            cohere_api_key=cohere_api_key,
             llm_api_base=llm_api_base,
             llm_model=llm_model,
             embedding_model=embedding_model,
@@ -79,7 +85,7 @@ class EnvConfig:
         return self.openai_api_key or self.openrouter_api_key
 
     def get_embedding_api_key(self) -> str:
-        """API key for embeddings: OpenAI or OpenRouter."""
+        """API key for embeddings: OpenAI or OpenRouter (Cohere uses cohere_api_key in pipeline)."""
         return self.openai_api_key or self.openrouter_api_key
 
 

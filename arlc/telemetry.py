@@ -63,7 +63,8 @@ class Telemetry:
             },
             "retrieval": {
                 "retrieved_chunk_pages": [
-                    {"doc_id": ref.doc_id, "page_numbers": ref.page_numbers} for ref in self.retrieval
+                    {"doc_id": ref.doc_id, "page_numbers": ref.page_numbers}
+                    for ref in self.retrieval
                 ]
             },
             "usage": {
@@ -110,7 +111,9 @@ class TelemetryTimer:
         return TimingMetrics(ttft_ms=ttft_ms, tpot_ms=tpot_ms, total_time_ms=total_time_ms)
 
 
-def normalize_retrieved_pages(raw_refs: list[dict[str, Any] | RetrievalRef]) -> list[RetrievalRef]:
+def normalize_retrieved_pages(
+    raw_refs: list[dict[str, Any] | RetrievalRef],
+) -> list[RetrievalRef]:
     """
     Normalize source references by merging duplicates and cleaning pages
     """

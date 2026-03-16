@@ -5,7 +5,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 import hashlib
 import re
-from typing import Dict, Iterable, List, Sequence
+from typing import Dict, List, Sequence
 
 from langchain_core.documents import Document
 
@@ -29,7 +29,9 @@ def stable_chunk_id(
     return f"{doc_id}:{chunk_kind}:{page_key}:{block_start}:{block_end}:{digest}"
 
 
-def build_breadcrumbs(metadata: Dict[str, object], section_path: Sequence[str], chunk_kind: str) -> str:
+def build_breadcrumbs(
+    metadata: Dict[str, object], section_path: Sequence[str], chunk_kind: str
+) -> str:
     parts: List[str] = []
     claim_number = str(metadata.get("claim_number") or "").strip()
     if claim_number:
@@ -137,7 +139,9 @@ def decode_page_numbers(metadata: Dict[str, object]) -> List[int]:
     return sorted({int(token) for token in tokens if token})
 
 
-def overlap_tail_blocks(blocks: Sequence[Dict[str, object]], target_tokens: int) -> List[Dict[str, object]]:
+def overlap_tail_blocks(
+    blocks: Sequence[Dict[str, object]], target_tokens: int
+) -> List[Dict[str, object]]:
     """Return trailing blocks approximating the requested overlap size."""
     if target_tokens <= 0:
         return []
@@ -149,4 +153,3 @@ def overlap_tail_blocks(blocks: Sequence[Dict[str, object]], target_tokens: int)
         if running_tokens >= target_tokens:
             break
     return collected
-

@@ -3,4 +3,3 @@
 from retrieval.loaders.ingested_corpus_loader import IngestedCorpusLoader
 
 __all__ = ["IngestedCorpusLoader"]
-

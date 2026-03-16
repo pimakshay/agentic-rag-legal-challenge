@@ -120,15 +120,17 @@ Return JSON in the following format:
 
 RE_THINK = re.compile(r"<think>(.*?)</think>", re.DOTALL)
 RE_DICT = re.compile(r"\b(\d+)\:(\d+)\,")
+
+
 def parse_heading_level(text):
     try:
         text = RE_THINK.sub("", text).strip()
-        text = text.replace('`', '')
+        text = text.replace("`", "")
         try:
             result = ast.literal_eval(text)
             result = {int(x): min(5, max(y, 1)) for x, y in result.items()}
             return result
-        except:
+        except Exception:
             matched = list(RE_DICT.finditer(text))
             result = {}
             prev_key = -1
@@ -140,16 +142,17 @@ def parse_heading_level(text):
                 result[key] = min(5, max(level, 1))
                 prev_key = key
             return result
-    except:
+    except Exception:
         return None
-    
+
+
 def parse_metadata(text):
     try:
         text = RE_THINK.sub("", text).strip()
         text = text.replace("```json", "")
-        text = text.replace('`', '')
-        text = text[text.find('{'):text.rfind('}') + 1]
-        text = text.replace('"NOT_FOUND"', '""').replace('NOT_FOUND', '""')
+        text = text.replace("`", "")
+        text = text[text.find("{") : text.rfind("}") + 1]
+        text = text.replace('"NOT_FOUND"', '""').replace("NOT_FOUND", '""')
         text = text.strip()
         try:
             result = ast.literal_eval(text)
@@ -159,8 +162,9 @@ def parse_metadata(text):
         except Exception as e:
             print(e)
             return {}
-    except:
+    except Exception:
         return {}
+
 
 class Ingestion:
     def __init__(self, folder, output_path):
@@ -173,12 +177,11 @@ class Ingestion:
     def _get_parse_cmd(file, output_path):
         cmd = f"mineru -p {file} -l en -m txt -b pipeline -o {output_path}"
         return cmd.split()
-    
+
     @staticmethod
     def refine_parse_result(file):
-        """Removing unwanted bbox
-        """
-        data= json.load(open(file))
+        """Removing unwanted bbox"""
+        data = json.load(open(file))
         new_data = []
         for el in data:
             if "text" not in el and "table_body" not in el:
@@ -192,7 +195,7 @@ class Ingestion:
                 if el["type"] == "discarded":
                     el["type"] = "text"
                     new_data.append(el.copy())
-        with open(file, 'w') as f:
+        with open(file, "w") as f:
             json.dump(new_data, f, indent=4, ensure_ascii=False)
 
     def parse(self):
@@ -200,10 +203,7 @@ class Ingestion:
             for file in tqdm(self.files, desc="Parsing documents"):
                 cmd = Ingestion._get_parse_cmd(os.path.join(self.folder, file), self.output_path)
                 process = subprocess.Popen(
-                    cmd,
-                    stdout=subprocess.PIPE,
-                    stderr=subprocess.STDOUT,
-                    text=True
+                    cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True
                 )
 
                 # stream log realtime
@@ -212,14 +212,22 @@ class Ingestion:
 
                 process.wait()
 
-                Ingestion.refine_parse_result(os.path.join(self.output_path, file[:-4], "txt", f"{file[:-4]}_content_list.json"))
+                Ingestion.refine_parse_result(
+                    os.path.join(
+                        self.output_path,
+                        file[:-4],
+                        "txt",
+                        f"{file[:-4]}_content_list.json",
+                    )
+                )
             return True
-        except:
+        except Exception:
             return False
 
     @staticmethod
     def _structure_analysis(parse_file, structure_file):
-        print('>' * 10 + parse_file)
+        print(">" * 10 + parse_file)
+
         def filter_elements(data):
             new_data = []
             for element in data:
@@ -232,13 +240,13 @@ class Ingestion:
                         continue
                 new_data.append(element.copy())
             return new_data
+
         data = json.load(open(parse_file))
         data = filter_elements(data)
 
-
         input_dict = {}
         for i, element in enumerate(data):
-            page_idx = element["page_idx"]
+            element["page_idx"]
             text = element["text"]
             if i not in input_dict:
                 input_dict[i] = {}
@@ -255,10 +263,10 @@ class Ingestion:
 
         prompt = prompt_template.format(input_dict=input_dict_prompting)
         result = call_llm(prompt)
-        print(f'R1 = {result}')
+        print(f"R1 = {result}")
         result = parse_heading_level(result)
-        print(f'R2 = {result}')
-        if result == None:
+        print(f"R2 = {result}")
+        if result is None:
             result = {}
         if result.keys() != input_dict.keys():
             result = {}
@@ -267,40 +275,49 @@ class Ingestion:
 
         for key in input_dict:
             input_dict[key]["level"] = result[key]
-        assert len(input_dict) == len(data) # Just to make sure there is no weird bbox
-        with open(structure_file, 'w') as f:
+        assert len(input_dict) == len(data)  # Just to make sure there is no weird bbox
+        with open(structure_file, "w") as f:
             json.dump(input_dict, f, indent=4, ensure_ascii=False)
         return True
-        
-    
+
     def structure_analysis(self):
         try:
             for file in tqdm(self.files, desc="Structure analysis"):
                 file_name = file[:-4]
                 print(file_name)
-                parse_file = os.path.join(self.output_path,  file_name, "txt", f"{file_name}_content_list.json")
+                parse_file = os.path.join(
+                    self.output_path, file_name, "txt", f"{file_name}_content_list.json"
+                )
                 assert os.path.isfile(parse_file)
-                structure_file = os.path.join(self.output_path, file_name, "txt", f"{file_name}_structure.json")
+                structure_file = os.path.join(
+                    self.output_path, file_name, "txt", f"{file_name}_structure.json"
+                )
                 success = Ingestion._structure_analysis(parse_file, structure_file)
                 if not success:
                     print("Fail", file)
                 print("success", success)
-        except Exception as e:
+        except Exception:
             logger.error(traceback.format_exc())
             return False
-        
+
     def _metadata_extaction(file, metadata_file):
         try:
             data = json.load(open(file))
-            text = "\n".join([element.get("text", element.get("table_body", "")).strip() for element in data if element["page_idx"] == 0])
+            text = "\n".join(
+                [
+                    element.get("text", element.get("table_body", "")).strip()
+                    for element in data
+                    if element["page_idx"] == 0
+                ]
+            )
             prompt = prompt_template_kie.format(text=text)
             result = call_llm(prompt)
             result = parse_metadata(result)
-            with open(metadata_file, 'w') as f:
+            with open(metadata_file, "w") as f:
                 json.dump(result, f, indent=4, ensure_ascii=False)
             logger.info(f"result = {result}")
             return result
-        except Exception as e:
+        except Exception:
             logger.error(traceback.format_exc())
             return False
 
@@ -309,25 +326,26 @@ class Ingestion:
             for file in tqdm(self.files, desc="Metadata extraction"):
                 file_name = file[:-4]
                 logger.info(file_name)
-                parse_file = os.path.join(self.output_path,  file_name, "txt", f"{file_name}_content_list.json")
-                metadata_file = os.path.join(self.output_path,  file_name, "txt", f"{file_name}_metadata.json")
-                success = Ingestion._metadata_extaction(parse_file, metadata_file)  
+                parse_file = os.path.join(
+                    self.output_path, file_name, "txt", f"{file_name}_content_list.json"
+                )
+                metadata_file = os.path.join(
+                    self.output_path, file_name, "txt", f"{file_name}_metadata.json"
+                )
+                success = Ingestion._metadata_extaction(parse_file, metadata_file)
                 if not success:
-                    print(file)              
+                    print(file)
 
-        
-        except Exception as e:
+        except Exception:
             logger.error(traceback.format_exc())
             return False
 
     def ingest(self):
-        success = self.parse()
-        success = self.structure_analysis()
-        success = self.metadata_extraction()
+        self.parse()
+        self.structure_analysis()
+        self.metadata_extraction()
+
 
 if __name__ == "__main__":
-    pipeline = Ingestion(folder=folder, output_path=f"docs_corpus_ingest_result")
+    pipeline = Ingestion(folder=folder, output_path="docs_corpus_ingest_result")
     pipeline.ingest()
-
-    
-

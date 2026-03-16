@@ -5,7 +5,13 @@ from __future__ import annotations
 import unittest
 from pathlib import Path
 
-from retrieval import IngestedCorpusLoader, LegalChunkerConfig, LegalHybridRAGPipeline, LegalIngestChunker, LegalQuestionRouter
+from retrieval import (
+    IngestedCorpusLoader,
+    LegalChunkerConfig,
+    LegalHybridRAGPipeline,
+    LegalIngestChunker,
+    LegalQuestionRouter,
+)
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -26,8 +32,16 @@ class LegalHybridRAGTests(unittest.TestCase):
         doc_ids = {doc.metadata["doc_id"] for doc in documents}
         self.assertIn("03b621728fe29eb6113fcdb57f6458d793fd2d5c5b833ae26d40f04a29c85359", doc_ids)
 
-        missing_structure_docs = [doc for doc in documents if not doc.metadata["structure_available"]]
-        self.assertTrue(any(doc.metadata["doc_id"] == "4e387152960c1029b3711cacb05b287b13c977bc61f2558059a62b7b427a62eb" for doc in missing_structure_docs))
+        missing_structure_docs = [
+            doc for doc in documents if not doc.metadata["structure_available"]
+        ]
+        self.assertTrue(
+            any(
+                doc.metadata["doc_id"]
+                == "4e387152960c1029b3711cacb05b287b13c977bc61f2558059a62b7b427a62eb"
+                for doc in missing_structure_docs
+            )
+        )
 
     def test_legal_chunker_emits_title_and_page_chunks(self):
         loader = IngestedCorpusLoader(ingest_root=INGEST_ROOT, docs_root=DOCS_ROOT)

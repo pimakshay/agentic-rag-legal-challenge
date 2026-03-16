@@ -93,7 +93,11 @@ class EvaluationClient:
                 f"{self._config.base_url}/submissions",
                 files={
                     "file": (path.name, file_handle, "application/json"),
-                    "code_archive": (archive_path.name, archive_handle, "application/zip"),
+                    "code_archive": (
+                        archive_path.name,
+                        archive_handle,
+                        "application/zip",
+                    ),
                 },
                 timeout=120,
             )

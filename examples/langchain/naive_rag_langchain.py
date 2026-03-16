@@ -111,11 +111,11 @@ def _parse_answer_by_type(raw: str, answer_type: str):
 
 
 _TYPE_INSTRUCTIONS: dict[str, str] = {
-    "number":    "Return only the numeric value (integer or decimal). No units, no explanation.",
-    "boolean":   "Return only 'true' or 'false'. No explanation.",
-    "name":      "Return only the exact name or entity as it appears in the documents. No explanation.",
-    "names":     "Return a semicolon-separated list of names only. No explanation.",
-    "date":      "Return the date in YYYY-MM-DD format only. No explanation.",
+    "number": "Return only the numeric value (integer or decimal). No units, no explanation.",
+    "boolean": "Return only 'true' or 'false'. No explanation.",
+    "name": "Return only the exact name or entity as it appears in the documents. No explanation.",
+    "names": "Return a semicolon-separated list of names only. No explanation.",
+    "date": "Return the date in YYYY-MM-DD format only. No explanation.",
     "free_text": "Answer in full sentences with reasoning grounded in the context.",
 }
 
