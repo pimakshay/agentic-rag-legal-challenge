@@ -51,7 +51,7 @@ class EnvConfig:
         openrouter_api_key = _get("OPENROUTER_API_KEY")
         voyage_api_key = _get("VOYAGE_API_KEY")
         cohere_api_key = _get("COHERE_API_KEY")
-        llm_model = _get("LLM_MODEL", "gpt-4o-mini")
+        llm_model = _get("LLM_MODEL", "gpt-5-mini")
         embedding_model = _get("EMBEDDING_MODEL", "text-embedding-3-small")
 
         if openai_api_key:

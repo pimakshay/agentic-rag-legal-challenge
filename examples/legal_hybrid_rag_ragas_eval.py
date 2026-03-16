@@ -2,12 +2,12 @@
 
 from __future__ import annotations
 
+import asyncio
 import json
 import sys
 import time
 from pathlib import Path
 from typing import Any, Dict, List
-import warnings
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 sys.path.append(str(ROOT_DIR))
@@ -23,29 +23,27 @@ from examples.legal_hybrid_rag import (  # noqa: E402
 def run_local_ragas_eval(limit: int = 20) -> None:
     """Run the hybrid pipeline on a subset of questions and score with RAGAS.
 
-    This uses a single retrieval-focused metric (ContextRelevance) to keep runtime reasonable.
+    Uses ragas.metrics.collections: ContextRelevance (retrieval), Faithfulness
+    (answer grounded in context), AnswerRelevancy (answer addresses the question).
+    No ground truth required. Uses llm_factory + OpenAI client from config.
     """
-    from datasets import Dataset  # type: ignore[import-untyped]
-    from langchain_openai import ChatOpenAI  # type: ignore[import-untyped]
-    from ragas import evaluate  # type: ignore[import-untyped]
-    from ragas.metrics import (  # type: ignore[import-untyped]
-        ContextRelevance,
-    )
+    from openai import AsyncOpenAI  # type: ignore[import-untyped]
 
-    # Suppress the ragas ContextRelevance deprecation warning for this script.
-    warnings.filterwarnings(
-        "ignore",
-        category=DeprecationWarning,
-        message="Importing ContextRelevance from 'ragas.metrics' is deprecated*",
+    from ragas.embeddings import OpenAIEmbeddings  # type: ignore[import-untyped]
+    from ragas.llms import llm_factory  # type: ignore[import-untyped]
+    from ragas.metrics.collections import (  # type: ignore[import-untyped]
+        ContextRelevance,
+        Faithfulness,
+        AnswerRelevancy,
     )
 
     cfg = get_config()
-    eval_llm = ChatOpenAI(
-        model=cfg.llm_model,
-        temperature=0.0,
-        openai_api_key=cfg.get_llm_api_key(),
-        openai_api_base=cfg.llm_api_base,
+    client = AsyncOpenAI(
+        api_key=cfg.get_llm_api_key(),
+        base_url=cfg.llm_api_base,
     )
+    llm = llm_factory(cfg.llm_model, client=client, max_tokens=8192)
+    embeddings = OpenAIEmbeddings(client=client, model=cfg.embedding_model)
 
     questions_path = ROOT_DIR / "public_dataset" / "questions.json"
     if not questions_path.exists():
@@ -87,38 +85,68 @@ def run_local_ragas_eval(limit: int = 20) -> None:
             for doc in getattr(result, "supporting_docs", [])[:4]
         ]
         contexts = [c for c in contexts if c]
+        answer_str = str(result.answer).strip() if result.answer is not None else ""
+        if not answer_str:
+            answer_str = "[No response]"
 
         eval_rows.append(
             {
-                "question": q_text,
-                "answer": str(result.answer),
-                "contexts": contexts,
+                "user_input": q_text,
+                "response": answer_str,
+                "retrieved_contexts": contexts,
             }
         )
 
-    ds = Dataset.from_dict(
-        {
-            "question": [row["question"] for row in eval_rows],
-            "answer": [row["answer"] for row in eval_rows],
-            "contexts": [row["contexts"] for row in eval_rows],
-        }
-    )
+    async def run_metrics() -> Dict[str, float]:
+        context_relevance = ContextRelevance(llm=llm)
+        faithfulness = Faithfulness(llm=llm)
+        answer_relevancy = AnswerRelevancy(llm=llm, embeddings=embeddings)
 
-    print("\nRunning RAGAS evaluation (ContextRelevance only)...")
-    result = evaluate(ds, metrics=[ContextRelevance()], llm=eval_llm)
+        inputs_cr = [
+            {"user_input": r["user_input"], "retrieved_contexts": r["retrieved_contexts"]}
+            for r in eval_rows
+        ]
+        inputs_f = [
+            {
+                "user_input": r["user_input"],
+                "response": r["response"],
+                "retrieved_contexts": r["retrieved_contexts"],
+            }
+            for r in eval_rows
+        ]
+        inputs_ar = [
+            {"user_input": r["user_input"], "response": r["response"]}
+            for r in eval_rows
+        ]
+
+        results_cr, results_f, results_ar = await asyncio.gather(
+            context_relevance.abatch_score(inputs_cr),
+            faithfulness.abatch_score(inputs_f),
+            answer_relevancy.abatch_score(inputs_ar),
+        )
+
+        def mean_score(results: List[Any]) -> float:
+            values = [r.value for r in results if hasattr(r, "value") and r.value is not None]
+            if not values:
+                return float("nan")
+            return sum(float(v) for v in values) / len(values)
+
+        return {
+            "context_relevance": mean_score(results_cr),
+            "faithfulness": mean_score(results_f),
+            "answer_relevancy": mean_score(results_ar),
+        }
+
+    print("\nRunning RAGAS evaluation (collections: ContextRelevance, Faithfulness, AnswerRelevancy)...")
+    scores = asyncio.run(run_metrics())
+
     print("\n=== RAGAS scores (mean) ===")
-    if hasattr(result, "_repr_dict") and result._repr_dict:
-        for key, value in result._repr_dict.items():
-            try:
-                v = float(value)
-            except Exception:
-                v = value
-            print(f"  {key}: {v}")
-    elif hasattr(result, "to_pandas"):
-        df = result.to_pandas()
-        print(df.describe() or str(result))
-    else:
-        print(result)
+    for key, value in scores.items():
+        try:
+            v = float(value)
+        except (TypeError, ValueError):
+            v = value
+        print(f"  {key}: {v}")
 
     if answer_latencies_ms:
         mean_lat = sum(answer_latencies_ms) / len(answer_latencies_ms)
@@ -136,4 +164,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

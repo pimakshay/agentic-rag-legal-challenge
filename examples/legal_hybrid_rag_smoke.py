@@ -104,7 +104,7 @@ def build_pipeline(use_smoke_loader: bool = True, mock_llm: bool = False):
 
 
 def _eval_relevance(question: str, result) -> None:
-    """Print relevance signal: RAGAS context relevance if available, else context preview."""
+    """Print relevance signal: RAGAS ContextRelevance (same setup as legal_hybrid_rag_ragas_eval)."""
     contexts = [str(getattr(doc, "page_content", "") or "").strip() for doc in result.supporting_docs]
     contexts = [c for c in contexts if c]
     if not contexts:
@@ -112,20 +112,37 @@ def _eval_relevance(question: str, result) -> None:
         return
 
     try:
-        from ragas import evaluate
-        from ragas.metrics import context_relevance
+        import warnings
         from datasets import Dataset
+        from langchain_openai import ChatOpenAI
+        from ragas import evaluate
+        from ragas.metrics import ContextRelevance
 
-        data = {
+        warnings.filterwarnings(
+            "ignore",
+            category=DeprecationWarning,
+            message="Importing ContextRelevance from 'ragas.metrics' is deprecated*",
+        )
+        cfg = get_config()
+        eval_llm = ChatOpenAI(
+            model=cfg.llm_model,
+            temperature=0.0,
+            openai_api_key=cfg.get_llm_api_key(),
+            openai_api_base=cfg.llm_api_base,
+        )
+        answer_str = str(result.answer) if result.answer is not None else ""
+        ds = Dataset.from_dict({
             "question": [question],
+            "answer": [answer_str],
             "contexts": [contexts],
-        }
-        ds = Dataset.from_dict(data)
-        out = evaluate(ds, metrics=[context_relevance])
-        score = out["context_relevance"]
-        if isinstance(score, (list, tuple)):
-            score = score[0] if score else 0.0
-        print(f"Relevance (RAGAS context_relevance): {float(score):.3f}")
+        })
+        out = evaluate(ds, metrics=[ContextRelevance()], llm=eval_llm)
+        if hasattr(out, "_repr_dict") and out._repr_dict:
+            score = next((v for k, v in out._repr_dict.items() if "context_relevance" in k.lower()), None)
+            score = float(score) if score is not None else 0.0
+        else:
+            score = 0.0
+        print(f"Relevance (RAGAS ContextRelevance): {score:.3f}")
     except ImportError:
         # No ragas: show short context preview and a crude keyword overlap hint
         preview_len = 120

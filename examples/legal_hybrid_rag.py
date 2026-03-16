@@ -84,6 +84,7 @@ def build_pipeline():
         temperature=0.0,
         openai_api_key=CONFIG.get_llm_api_key(),
         openai_api_base=CONFIG.llm_api_base,
+        model_kwargs={"reasoning_effort": "low"},
     )
 
     # Use Cohere for embeddings when COHERE_API_KEY is set (rate-limited to 90/60s)

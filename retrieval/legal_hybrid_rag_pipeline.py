@@ -506,6 +506,7 @@ class LegalHybridRAGPipeline:
         instruction = self._type_instruction(answer_type)
         return (
             "You answer legal challenge questions using only the provided context.\n"
+            "Your reply must be the minimal substantive statement that directly satisfies the question asked (nothing extra).\n"
             "If the context is insufficient, return null for deterministic types or the standard absence statement for free_text.\n"
             f"{instruction}\n\n"
             f"Question: {question_text}\n\n"
