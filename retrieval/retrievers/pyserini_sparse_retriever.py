@@ -51,6 +51,7 @@ class PyseriniBM25Retriever(BaseRAGRetriever):
     def _init_searcher(self):
         """Initialize LuceneSearcher."""
         self._searcher = LuceneSearcher(self.index_dir)
+        self.num_docs = self._searcher.num_docs
         logger.info(f"Loaded Pyserini index from {self.index_dir}")
 
     def _build_index(self, documents: List[Document]):
@@ -62,9 +63,8 @@ class PyseriniBM25Retriever(BaseRAGRetriever):
                 metadata = dict(document.metadata or {})
                 doc_id = str(metadata.get("doc_id") or "")
                 metadata["page_content"] = document.page_content
-                metadata["id"] = document.id
                 content = self._preprocess(document.page_content)
-                f.write(json.dumps({"id": i, "contents": content, **metadata}, ensure_ascii=False)+ "\n")
+                f.write(json.dumps({"id": str(i), "contents": content, **metadata}, ensure_ascii=False)+ "\n")
         cmd = [
             "python",
             "-m",
@@ -109,8 +109,7 @@ class PyseriniBM25Retriever(BaseRAGRetriever):
         k = k or self.default_k
         query = self._preprocess(query)
 
-        hits = self._searcher.search(query, k=k)
-
+        hits = self._searcher.search(query, k=self.num_docs)
         documents: List[Document] = []
         scores: List[float] = []
         for hit in hits:
@@ -130,6 +129,8 @@ class PyseriniBM25Retriever(BaseRAGRetriever):
             )
 
             scores.append(hit.score)
+            if len(documents) > k:
+                break
         return RetrievalResult(
             documents=documents,
             scores=scores,

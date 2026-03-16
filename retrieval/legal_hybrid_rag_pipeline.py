@@ -195,11 +195,12 @@ class LegalHybridRAGPipeline:
         candidate_doc_ids = self._resolve_candidate_doc_ids(active_route)
         sparse_pool = self._filter_chunks(self.raw_chunks, candidate_doc_ids)
 
-        dense_docs = self._dense_search(question_text, candidate_doc_ids, active_route)
+        dense_docs = self._dense_search_with_score(question_text, candidate_doc_ids, active_route)
         # sparse_docs = self._sparse_search(question_text, sparse_pool, active_route)
         sparse_docs = self._pyserini_sparse_search(question_text, candidate_doc_ids, active_route)
-        print('sparse_docs', sparse_docs)
-        fused_docs = self._fuse_results(dense_docs, sparse_docs, self.top_k_docs * 3)
+        # fused_docs = self._fuse_results(dense_docs, sparse_docs, self.top_k_docs * 3)
+        fused_docs = self._fuse_results_with_score(dense_docs, sparse_docs, self.top_k_docs * 3)
+        
         reranked_docs = self._rerank(question_text, fused_docs)
         return reranked_docs[: self.top_k_docs], active_route
 
@@ -335,6 +336,27 @@ class LegalHybridRAGPipeline:
         dense_docs = filtered or results[: self.dense_candidate_k]
         return self._strictly_filter_route(self._apply_route_bias(dense_docs, route), route)
 
+    def _dense_search_with_score(
+        self,
+        question_text: str,
+        candidate_doc_ids: set[str],
+        route: RoutePlan,
+    ) -> List[Document]:
+        if self.doc_search is None:
+            return []
+
+        search_kwargs: Dict[str, Any] = {"query": question_text, "k": self.dense_candidate_k}
+        if candidate_doc_ids and candidate_doc_ids != self._all_doc_ids:
+            search_kwargs["filter"] = {"doc_id": {"$in": sorted(candidate_doc_ids)}}
+
+    
+        results_with_scores = self.doc_search.similarity_search_with_relevance_scores(**search_kwargs)
+        results = [(self._decode_dense_document(doc), score) for doc, score in results_with_scores]
+
+        filtered = [(doc, score) for doc, score in results if str(doc.metadata.get("doc_id") or "") in candidate_doc_ids]
+        dense_docs = filtered or results[: self.dense_candidate_k]
+        return self._strictly_filter_route_with_score(self._apply_route_bias_with_score(dense_docs, route), route)
+
     def _sparse_search(
         self,
         question_text: str,
@@ -360,7 +382,7 @@ class LegalHybridRAGPipeline:
 
         sparse_query = self._build_sparse_query(question_text, route)
         result = self.pyserini_retriever.retrieve(sparse_query, k=self.sparse_candidate_k, candidate_doc_ids=candidate_doc_ids)
-        return self._strictly_filter_route(result.documents, route)
+        return self._strictly_filter_route_with_score(list(zip(result.documents, result.scores)), route)
 
     def _build_sparse_query(self, question_text: str, route: RoutePlan) -> str:
         tokens = [question_text]
@@ -386,8 +408,25 @@ class LegalHybridRAGPipeline:
             return True
         return list(filter(strictly_filter, docs))
 
+    def _strictly_filter_route_with_score(self, docs: Sequence[Tuple[Document, float]], route: RoutePlan) -> List[Document]:
+        def strictly_filter(element: Tuple[Document, float]) -> bool:
+            doc, score = element
+            metadata = doc.metadata or {}
+            chunk_kind = str(metadata.get("chunk_kind") or "")
+            page_numbers = self._chunk_page_numbers(doc)
+            if route.target_pages and (not any(page in page_numbers for page in route.target_pages)):
+                return False
+            if route.prefer_title_page and chunk_kind != "title_page":
+                return False
+            if route.prefer_last_page:
+                doc_pages = int(self._doc_metadata.get(str(metadata.get("doc_id") or ""), {}).get("page_count") or 0)
+                if not (doc_pages and page_numbers and max(page_numbers) == doc_pages):
+                    return False
+            return True
+        return list(filter(strictly_filter, docs))
+
     def _apply_route_bias(self, docs: Sequence[Document], route: RoutePlan) -> List[Document]:
-        def score(doc: Document) -> Tuple[int, int, int]:
+        def scoring(doc: Document) -> Tuple[int, int, int]:
             metadata = doc.metadata or {}
             chunk_kind = str(metadata.get("chunk_kind") or "")
             page_numbers = self._chunk_page_numbers(doc)
@@ -403,7 +442,27 @@ class LegalHybridRAGPipeline:
                     target_page_hit = 2
             return (preferred_kind, target_page_hit, -int(metadata.get("page_start") or 0))
 
-        return sorted(docs, key=score, reverse=True)
+        return sorted(docs, key=scoring, reverse=True)
+
+    def _apply_route_bias_with_score(self, docs: Sequence[Tuple[Document, float]], route: RoutePlan) -> List[Document]:
+        def scoring(element: Tuple[Document, float]) -> Tuple[int, int, int, float]:
+            doc, score = element
+            metadata = doc.metadata or {}
+            chunk_kind = str(metadata.get("chunk_kind") or "")
+            page_numbers = self._chunk_page_numbers(doc)
+            preferred_kind = 1 if chunk_kind in route.preferred_chunk_kinds else 0
+            target_page_hit = 0
+            if route.target_pages and any(page in page_numbers for page in route.target_pages):
+                target_page_hit = 1
+            if route.prefer_title_page and chunk_kind == "title_page":
+                target_page_hit = 2
+            if route.prefer_last_page:
+                doc_pages = int(self._doc_metadata.get(str(metadata.get("doc_id") or ""), {}).get("page_count") or 0)
+                if doc_pages and page_numbers and max(page_numbers) == doc_pages:
+                    target_page_hit = 2
+            return (preferred_kind, target_page_hit, -int(metadata.get("page_start") or 0), -score)
+
+        return sorted(docs, key=scoring, reverse=True)
 
     def _fuse_results(
         self,
@@ -424,6 +483,55 @@ class LegalHybridRAGPipeline:
         accumulate(sparse_docs, self.sparse_weight)
         ranked = sorted(scores.items(), key=lambda item: item[1], reverse=True)
         return [docs_by_key[key] for key, _ in ranked[:k]]
+
+    def _fuse_results_with_score(
+        self,
+        dense_docs: Sequence[Tuple[Document, float]],
+        sparse_docs: Sequence[Tuple[Document, float]],
+        k: int,
+    ) -> List[Document]:
+        scores: Dict[str, float] = {}
+        docs_by_key_dense: Dict[str, Document] = {}
+        docs_by_key_sparse: Dict[str, Document] = {}
+
+        scores_denses = [score for _, score in dense_docs]
+        scores_sparse = [score for _, score in sparse_docs]
+
+        min_dense_score = min(scores_denses) if len(scores_denses) > 0 else 0
+        max_dense_score = max(scores_denses) if len(scores_denses) > 0 else 1
+
+        min_sparse_score = min(scores_sparse) if len(scores_sparse) > 0 else 0
+        max_sparse_score = max(scores_sparse) if len(scores_sparse) > 0 else 1
+
+        for element in dense_docs:
+            doc = element[0]
+            key = BaseRAGRetriever.fusion_key(doc)
+            docs_by_key_dense[key] = element
+        
+        for element in sparse_docs:
+            doc = element[0]
+            key = BaseRAGRetriever.fusion_key(doc)
+            docs_by_key_sparse[key] = element
+        results = []
+        for key in set(docs_by_key_dense.keys()) | set(docs_by_key_sparse.keys()):
+            if key not in docs_by_key_dense:
+                doc, sparse_score = docs_by_key_sparse[key]
+                dense_score = min_dense_score
+            elif key not in docs_by_key_sparse:
+                sparse_score = min_sparse_score
+                doc, dense_score = docs_by_key_dense[key]
+            else:
+                doc, sparse_score = docs_by_key_sparse[key]
+                dense_score = docs_by_key_dense[key][1]
+            
+            sparse_score = (sparse_score - min_sparse_score) / (max_sparse_score - min_sparse_score + 1e-6)
+            dense_score = (dense_score - min_dense_score) / (max_dense_score - min_dense_score + 1e-6)
+            score = self.dense_weight * dense_score + self.sparse_weight * sparse_score
+            results.append((doc, score))
+            
+
+        ranked = sorted(results, key=lambda item: item[1], reverse=True)
+        return [doc for doc, _ in ranked[:k]]
 
     def _rerank(self, question_text: str, docs: Sequence[Document]) -> List[Document]:
         if not docs:
