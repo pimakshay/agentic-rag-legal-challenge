@@ -1,9 +1,13 @@
 {
+    "doc_type": "case",
     "case_name": "(1) Mr Oran (2) Oaken v Oved",
+    "case_name_normalized": "1 mr oran 2 oaken v oved",
     "neutral_citation": "",
+    "neutral_citation_normalized": "",
+    "claim_number": "CA 004/2025",
+    "claim_number_normalized": "ca 004 2025",
     "court": "COURT OF APPEAL",
     "court_division": "",
-    "claim_number": "CA 004/2025",
     "hearing_date": "",
     "judgment_date": "DECEMBER 08, 2025",
     "judgment_release_date": "",
@@ -14,5 +18,8 @@
     "claimant_counsel": [],
     "defendant_counsel": [],
     "claimant_law_firm": "",
-    "defendant_law_firm": ""
+    "defendant_law_firm": "",
+    "title_page_number": 1,
+    "last_page_number": 5,
+    "page_count": 5
 }

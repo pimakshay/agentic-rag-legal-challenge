@@ -1,9 +1,13 @@
 {
+    "doc_type": "case",
     "case_name": "LXT Real Estate Broker L.L.C v SIR Real Estate LLC",
+    "case_name_normalized": "lxt real estate broker l l c v sir real estate llc",
     "neutral_citation": "",
+    "neutral_citation_normalized": "",
+    "claim_number": "CA 005/2025",
+    "claim_number_normalized": "ca 005 2025",
     "court": "THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
     "court_division": "COURT OF APPEAL",
-    "claim_number": "CA 005/2025",
     "hearing_date": "",
     "judgment_date": "JANUARY 13, 2026",
     "judgment_release_date": "",
@@ -14,5 +18,8 @@
     "claimant_counsel": [],
     "defendant_counsel": [],
     "claimant_law_firm": "",
-    "defendant_law_firm": ""
+    "defendant_law_firm": "",
+    "title_page_number": 1,
+    "last_page_number": 3,
+    "page_count": 3
 }

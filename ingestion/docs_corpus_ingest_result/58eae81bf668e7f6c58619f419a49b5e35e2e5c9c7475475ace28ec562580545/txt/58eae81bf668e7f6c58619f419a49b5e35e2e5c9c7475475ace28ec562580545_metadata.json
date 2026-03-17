@@ -1,9 +1,13 @@
 {
+    "doc_type": "case",
     "case_name": "Ohtli v Onora",
+    "case_name_normalized": "ohtli v onora",
     "neutral_citation": "",
+    "neutral_citation_normalized": "",
+    "claim_number": "ARB 034/2025",
+    "claim_number_normalized": "arb 034 2025",
     "court": "DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
     "court_division": "COURT OF FIRST INSTANCE",
-    "claim_number": "ARB 034/2025",
     "hearing_date": "26 November 2025",
     "judgment_date": "DECEMBER 19, 2025",
     "judgment_release_date": "",
@@ -14,5 +18,8 @@
     "claimant_counsel": [],
     "defendant_counsel": [],
     "claimant_law_firm": "",
-    "defendant_law_firm": ""
+    "defendant_law_firm": "",
+    "title_page_number": 1,
+    "last_page_number": 4,
+    "page_count": 4
 }

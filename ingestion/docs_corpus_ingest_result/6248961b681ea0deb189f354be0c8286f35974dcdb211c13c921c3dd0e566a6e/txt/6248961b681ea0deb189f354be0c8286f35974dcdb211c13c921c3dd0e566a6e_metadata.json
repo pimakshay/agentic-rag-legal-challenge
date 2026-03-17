@@ -1,9 +1,13 @@
 {
+    "doc_type": "case",
     "case_name": "OMAR BEN HALLAM v NATIXIS",
+    "case_name_normalized": "omar ben hallam v natixis",
     "neutral_citation": "",
+    "neutral_citation_normalized": "",
+    "claim_number": "CFI 016/2025",
+    "claim_number_normalized": "cfi 016 2025",
     "court": "DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
     "court_division": "COURT OF FIRST INSTANCE",
-    "claim_number": "CFI 016/2025",
     "hearing_date": "",
     "judgment_date": "FEBRUARY 03, 2026",
     "judgment_release_date": "",
@@ -14,5 +18,8 @@
     "claimant_counsel": [],
     "defendant_counsel": [],
     "claimant_law_firm": "",
-    "defendant_law_firm": ""
+    "defendant_law_firm": "",
+    "title_page_number": 1,
+    "last_page_number": 7,
+    "page_count": 7
 }

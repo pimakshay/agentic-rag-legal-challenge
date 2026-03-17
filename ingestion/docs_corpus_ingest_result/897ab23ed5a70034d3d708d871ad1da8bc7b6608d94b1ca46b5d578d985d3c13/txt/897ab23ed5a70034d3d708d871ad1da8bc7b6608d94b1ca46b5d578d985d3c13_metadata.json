@@ -1,9 +1,13 @@
 {
+    "doc_type": "case",
     "case_name": "Coinmena B.S.C. (C) v Foloosi Technologies Ltd",
+    "case_name_normalized": "coinmena b s c c v foloosi technologies ltd",
     "neutral_citation": "",
+    "neutral_citation_normalized": "",
+    "claim_number": "CFI 067/2025",
+    "claim_number_normalized": "cfi 067 2025",
     "court": "DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
     "court_division": "COURT OF FIRST INSTANCE",
-    "claim_number": "CFI 067/2025",
     "hearing_date": "",
     "judgment_date": "FEBRUARY 06, 2026",
     "judgment_release_date": "",
@@ -14,5 +18,8 @@
     "claimant_counsel": [],
     "defendant_counsel": [],
     "claimant_law_firm": "",
-    "defendant_law_firm": ""
+    "defendant_law_firm": "",
+    "title_page_number": 1,
+    "last_page_number": 2,
+    "page_count": 2
 }

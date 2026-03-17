@@ -1,9 +1,13 @@
 {
+    "doc_type": "case",
     "case_name": "Okpara v Oralee",
+    "case_name_normalized": "okpara v oralee",
     "neutral_citation": "[2025] DIFC SCT 514",
+    "neutral_citation_normalized": "2025 difc sct 514",
+    "claim_number": "SCT 514/2025",
+    "claim_number_normalized": "sct 514 2025",
     "court": "THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
     "court_division": "SMALL CLAIMS TRIBUNAL",
-    "claim_number": "SCT 514/2025",
     "hearing_date": "5 January 2026",
     "judgment_date": "",
     "judgment_release_date": "JANUARY 07, 2026",
@@ -14,5 +18,8 @@
     "claimant_counsel": [],
     "defendant_counsel": [],
     "claimant_law_firm": "",
-    "defendant_law_firm": ""
+    "defendant_law_firm": "",
+    "title_page_number": 1,
+    "last_page_number": 6,
+    "page_count": 6
 }

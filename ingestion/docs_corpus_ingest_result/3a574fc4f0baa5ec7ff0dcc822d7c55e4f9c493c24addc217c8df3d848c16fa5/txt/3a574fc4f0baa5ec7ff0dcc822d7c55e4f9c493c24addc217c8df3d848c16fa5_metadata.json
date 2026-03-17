@@ -1,9 +1,13 @@
 {
+    "doc_type": "case",
     "case_name": "Obasi v Oreana",
+    "case_name_normalized": "obasi v oreana",
     "neutral_citation": "[2025] DIFC SCT 169",
+    "neutral_citation_normalized": "2025 difc sct 169",
+    "claim_number": "SCT 169/2025",
+    "claim_number_normalized": "sct 169 2025",
     "court": "THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
     "court_division": "IN THE COURT OF FIRST INSTANCE",
-    "claim_number": "SCT 169/2025",
     "hearing_date": "15 December 2025",
     "judgment_date": "24 October 2025",
     "judgment_release_date": "DECEMBER 24, 2025",
@@ -14,5 +18,8 @@
     "claimant_counsel": [],
     "defendant_counsel": [],
     "claimant_law_firm": "",
-    "defendant_law_firm": ""
+    "defendant_law_firm": "",
+    "title_page_number": 1,
+    "last_page_number": 5,
+    "page_count": 5
 }

@@ -10,6 +10,9 @@ from typing import Dict, Iterable, List, Sequence
 from langchain_core.documents import Document
 
 
+HEAVY_METADATA_KEYS = {"blocks", "article_index", "section_heading_index"}
+
+
 def approximate_token_count(text: str) -> int:
     """Approximate token count without adding a hard tokenizer dependency."""
     return max(1, int(len(re.findall(r"\S+", text)) * 1.3))
@@ -60,7 +63,7 @@ def build_chunk_document(
         chunk_text = f"{breadcrumbs}\n\n{chunk_text}"
 
     page_numbers_list = sorted({int(page) for page in page_numbers})
-    chunk_metadata = dict(base_metadata)
+    chunk_metadata = {key: value for key, value in dict(base_metadata).items() if key not in HEAVY_METADATA_KEYS}
     chunk_metadata.update(
         {
             "chunk_id": stable_chunk_id(
@@ -116,6 +119,8 @@ def sanitize_metadata_for_vectorstore(metadata: Dict[str, object]) -> Dict[str, 
     """Convert list-rich metadata into Chroma-friendly primitive values."""
     serialized: Dict[str, object] = {}
     for key, value in metadata.items():
+        if key in HEAVY_METADATA_KEYS:
+            continue
         if isinstance(value, list):
             serialized[key] = ", ".join(str(item) for item in value)
         elif isinstance(value, dict):
@@ -149,4 +154,3 @@ def overlap_tail_blocks(blocks: Sequence[Dict[str, object]], target_tokens: int)
         if running_tokens >= target_tokens:
             break
     return collected
-

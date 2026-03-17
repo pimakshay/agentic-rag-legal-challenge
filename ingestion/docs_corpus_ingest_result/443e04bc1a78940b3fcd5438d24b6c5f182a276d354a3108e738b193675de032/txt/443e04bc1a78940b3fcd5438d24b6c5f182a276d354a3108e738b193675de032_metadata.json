@@ -1,9 +1,13 @@
 {
+    "doc_type": "case",
     "case_name": "Fursa Consulting v Bay Gate Investment LLC",
+    "case_name_normalized": "fursa consulting v bay gate investment llc",
     "neutral_citation": "",
+    "neutral_citation_normalized": "",
+    "claim_number": "CFI 010/2024",
+    "claim_number_normalized": "cfi 010 2024",
     "court": "THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
     "court_division": "IN THE COURT OF FIRST INSTANCE",
-    "claim_number": "CFI 010/2024",
     "hearing_date": "",
     "judgment_date": "JANUARY 23, 2026",
     "judgment_release_date": "",
@@ -14,5 +18,8 @@
     "claimant_counsel": [],
     "defendant_counsel": [],
     "claimant_law_firm": "",
-    "defendant_law_firm": ""
+    "defendant_law_firm": "",
+    "title_page_number": 1,
+    "last_page_number": 3,
+    "page_count": 3
 }

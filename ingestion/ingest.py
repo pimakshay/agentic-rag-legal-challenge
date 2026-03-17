@@ -1,17 +1,46 @@
+from __future__ import annotations
+
+import ast
+import json
+import logging
 import os
 import subprocess
-import json
-import re
-import ast
-from tqdm import tqdm
 import traceback
-from loguru import logger
-from utils import call_llm
+from typing import Any, Dict, Optional
+
+from tqdm import tqdm
+
+try:
+    from .legal_metadata import (
+        LAW_METADATA_PROMPT,
+        build_blocks,
+        build_case_metadata,
+        build_law_metadata,
+        build_law_payload,
+        classify_document,
+        parse_llm_json,
+        title_page_lines,
+    )
+    from .utils import call_openai_llm as call_llm
+except ImportError:
+    from legal_metadata import (  # type: ignore
+        LAW_METADATA_PROMPT,
+        build_blocks,
+        build_case_metadata,
+        build_law_metadata,
+        build_law_payload,
+        classify_document,
+        parse_llm_json,
+        title_page_lines,
+    )
+    from utils import call_openai_llm as call_llm  # type: ignore
+
 
 folder = "../public_dataset/docs_corpus"
+logger = logging.getLogger(__name__)
 prompt_template = """/no_think
 # Task
-You are an expert document structure in Legal domain. 
+You are an expert document structure in Legal domain.
 Given documentation paragraphs (type: text or table, text: content of that paragraphs, page_idx: page index (starting from 0)),
 your task is to assign correct heading levels to all paragraphs in that document so that they follow a natural structure.
 
@@ -22,39 +51,21 @@ The input is a dictionary where:
 
 # Instructions
 1. **Primary rules**
-	- Do not add, remove, merge, or change any headings.
-	- The number of output elements must exactly match the input.
+    - Do not add, remove, merge, or change any headings.
+    - The number of output elements must exactly match the input.
 2. **Heading Hierarchy Rules**
-        - The level 1 must be the highest heading level, and gradually decrease to 5.
-        - Maximum depth is **5 levels**. Heading level must be 1, 2, 3, 4 or 5. NO OTHER NUMBERS.
-	- Headings that follow the same textual pattern (e.g., numbered articles, chapters, or sections) should generally be assigned to the same level.
-	- Level progression constraints:
-		+ When increasing depth, levels can only increase by **1** step (e.g., 1 → 2 valid, 1 → 3 invalid).
-		+ When decreasing depth, levels can drop by any number (e.g., 3 → 1 valid).
-3. **More strictly rules**
-        - In first page (page_idx = 0):
-               + there are usually case title between claimant and defendants, their heading level should be 1.
-               + "ORDER WITH REASONS OF ..." should be level 1
-               + "UPON ..." and "AND UPON ..." should be level 1
-               + "IT IS HEREBY ORDERED THAT:" should be level 1 and its following paragraphs belongs to that section should be level 2.
-        - In legal domain, if text is "SCHEDULE OF REASONS", then heading level should be 1.
-        - There are usually sections starting with CONSECUTIVE numbers: "1.", "2.", "3.", .... They should be SAME LEVEL 2.
-              + Note: But there are also sub-sections maybe starting with numbers: "(1)", "(2)", ... or  "1.", "2." ... or "(a)", "(b)", ... or "1.1", "3.1", "2.2", ... or [7.], [8.], (i), (ii), (iii), ... Read content carefully and please assign them level 3, 4 or 5.
-              + Between sections, sometimes there are important titles (For example: The Release Agreement, Introduction, Summary, Discussion, The grounds of appeal ... ). They should have level 1.
+    - The level 1 must be the highest heading level, and gradually decrease to 5.
+    - Maximum depth is **5 levels**. Heading level must be 1, 2, 3, 4 or 5. NO OTHER NUMBERS.
+    - Headings that follow the same textual pattern should generally be assigned to the same level.
+    - When increasing depth, levels can only increase by 1 step.
+3. **More strict rules**
+    - On the first page, case title, ORDER WITH REASONS headings, UPON/AND UPON headings and IT IS HEREBY ORDERED THAT behave as top-level headings.
+    - "SCHEDULE OF REASONS" should be level 1.
+    - Consecutive numbered sections such as "1.", "2.", "3." should usually be the same level.
 
 # Output Format
-- Return only the optimized structure as a valid **Python dictionary** in the format: {{HeadingID: HeadingLevel}}:
-- EVERY Heading level must be 1, 2, 3, 4 or 5. NO OTHER NUMBERS. No null values.
-For example:
-{{
-  0:1,
-  1:1,
-  2:2,
-  3:3,
-  4:2
-}}
-- No explanations, reasoning, or additional text.
-- No code generation or commentary.
+- Return only a valid Python dictionary in the format {HeadingID: HeadingLevel}.
+- Every heading level must be 1, 2, 3, 4 or 5.
 
 # Input
 {input_dict}
@@ -62,44 +73,21 @@ For example:
 # Result
 """
 
+CASE_METADATA_PROMPT = """You are a legal document information extraction system.
 
-prompt_template_kie = """You are a legal document information extraction system.
+Your task is to extract key metadata from a legal judgment title page.
 
-Your task is to extract key metadata from a legal judgment page.
-
-
-# Rules:
+Rules:
 - Only extract information explicitly present in the text.
-- Do NOT infer or hallucinate missing information.
+- Do not infer missing information.
 - If a field is not present, return NOT_FOUND.
-- Preserve the original wording of names.
-- Return the output in JSON format only.
+- Preserve original wording.
+- Return JSON only.
 
-#Field descriptions:
-
-- case_name: Full case title including all parties (e.g., "A v B").
-- neutral_citation: Official court citation such as "[2025] DIFC SCT 169".
-- court: Name of the court institution.
-- court_division: Specific division or chamber of the court (e.g., Court of First Instance).
-- claim_number: Case filing number (e.g., "DEC 001/2025").
-- hearing_date: Date of the hearing if stated.
-- judgment_date: Date the judgment was issued or signed.
-- judgment_release_date: Date the judgment was publicly released or published.
-- claimant: The party bringing the claim.
-- defendants: List of all defendants in the case.
-- claimant_counsel: Lawyers representing the claimant.
-- defendant_counsel: Lawyers representing the defendants.
-- claimant_law_firm: Law firm representing the claimant.
-- defendant_law_firm: Law firm representing the defendants.
-
-# Text:
+Text:
 {text}
 
-If the value cannot be found exactly in the text, return NOT_FOUND.
-Do not rephrase or summarize extracted values.
-
-Return JSON in the following format:
-
+Return:
 {{
   "case_name": "",
   "neutral_citation": "",
@@ -118,84 +106,71 @@ Return JSON in the following format:
 }}
 """
 
-RE_THINK = re.compile(r"<think>(.*?)</think>", re.DOTALL)
-RE_DICT = re.compile(r"\b(\d+)\:(\d+)\,")
-def parse_heading_level(text):
+RE_THINK = __import__("re").compile(r"<think>(.*?)</think>", __import__("re").DOTALL)
+RE_DICT = __import__("re").compile(r"(\d+)\s*:\s*(\d+)")
+
+
+def parse_heading_level(text: str) -> Optional[Dict[int, int]]:
     try:
-        text = RE_THINK.sub("", text).strip()
-        text = text.replace('`', '')
+        cleaned = RE_THINK.sub("", (text or "")).replace("`", "").strip()
         try:
-            result = ast.literal_eval(text)
-            result = {int(x): min(5, max(y, 1)) for x, y in result.items()}
-            return result
-        except:
-            matched = list(RE_DICT.finditer(text))
-            result = {}
-            prev_key = -1
-            for m in matched:
-                key = m.group(0)
-                level = m.group(1)
-                if key > prev_key and prev_key + 1 != key:  # Make sure consecutive
-                    return None
-                result[key] = min(5, max(level, 1))
-                prev_key = key
-            return result
-    except:
+            parsed = ast.literal_eval(cleaned)
+            if not isinstance(parsed, dict):
+                return None
+            return {int(key): max(1, min(5, int(value))) for key, value in parsed.items()}
+        except Exception:
+            matches = list(RE_DICT.finditer(cleaned))
+            result: Dict[int, int] = {}
+            for match in matches:
+                result[int(match.group(1))] = max(1, min(5, int(match.group(2))))
+            return result or None
+    except Exception:
         return None
-    
-def parse_metadata(text):
-    try:
-        text = RE_THINK.sub("", text).strip()
-        text = text.replace("```json", "")
-        text = text.replace('`', '')
-        text = text[text.find('{'):text.rfind('}') + 1]
-        text = text.replace('"NOT_FOUND"', '""').replace('NOT_FOUND', '""')
-        text = text.strip()
-        try:
-            result = ast.literal_eval(text)
-            if not isinstance(result, dict):
-                return {}
-            return result
-        except Exception as e:
-            print(e)
-            return {}
-    except:
-        return {}
+
 
 class Ingestion:
-    def __init__(self, folder, output_path):
+    def __init__(self, folder: str, output_path: str):
         self.folder = folder
-        self.files = [file for file in os.listdir(folder) if file.endswith(".pdf")]
+        self.files = sorted(file for file in os.listdir(folder) if file.endswith(".pdf"))
         self.output_path = output_path
+        self.use_llm = os.getenv("LEGAL_INGEST_USE_LLM", "0").strip().lower() not in {"0", "false", "no"}
         os.makedirs(self.output_path, exist_ok=True)
 
     @staticmethod
-    def _get_parse_cmd(file, output_path):
-        cmd = f"mineru -p {file} -l en -m txt -b pipeline -o {output_path}"
-        return cmd.split()
-    
-    @staticmethod
-    def refine_parse_result(file):
-        """Removing unwanted bbox
-        """
-        data= json.load(open(file))
-        new_data = []
-        for el in data:
-            if "text" not in el and "table_body" not in el:
-                continue
-            text = el.get("text", el.get("table_body", "")).strip()
-            if text == "":
-                continue
-            if el["type"] in ["text", "table"]:
-                new_data.append(el.copy())
-            else:
-                if el["type"] == "discarded":
-                    el["type"] = "text"
-                    new_data.append(el.copy())
-        with open(file, 'w') as f:
-            json.dump(new_data, f, indent=4, ensure_ascii=False)
+    def _get_parse_cmd(file: str, output_path: str) -> list[str]:
+        return f"mineru -p {file} -l en -m txt -b pipeline -o {output_path}".split()
 
-    def parse(self):
+    @staticmethod
+    def _read_json(path: str, default: Any) -> Any:
+        if not os.path.isfile(path):
+            return default
+        with open(path, "r", encoding="utf-8") as handle:
+            return json.load(handle)
+
+    @staticmethod
+    def _write_json(path: str, value: Any) -> None:
+        with open(path, "w", encoding="utf-8") as handle:
+            json.dump(value, handle, indent=4, ensure_ascii=False)
+
+    @staticmethod
+    def refine_parse_result(file: str) -> None:
+        data = Ingestion._read_json(file, [])
+        new_data = []
+        for element in data:
+            if "text" not in element and "table_body" not in element:
+                continue
+            text = (element.get("text") or element.get("table_body") or "").strip()
+            if not text:
+                continue
+            if element["type"] in {"text", "table"}:
+                new_data.append(element.copy())
+            elif element["type"] == "discarded":
+                normalized = element.copy()
+                normalized["type"] = "text"
+                new_data.append(normalized)
+        Ingestion._write_json(file, new_data)
+
+    def parse(self) -> bool:
         try:
             for file in tqdm(self.files, desc="Parsing documents"):
                 cmd = Ingestion._get_parse_cmd(os.path.join(self.folder, file), self.output_path)
@@ -203,131 +178,135 @@ class Ingestion:
                     cmd,
                     stdout=subprocess.PIPE,
                     stderr=subprocess.STDOUT,
-                    text=True
+                    text=True,
                 )
-
-                # stream log realtime
+                assert process.stdout is not None
                 for line in process.stdout:
                     print(line, end="")
-
                 process.wait()
-
-                Ingestion.refine_parse_result(os.path.join(self.output_path, file[:-4], "txt", f"{file[:-4]}_content_list.json"))
+                self.refine_parse_result(
+                    os.path.join(self.output_path, file[:-4], "txt", f"{file[:-4]}_content_list.json")
+                )
             return True
-        except:
+        except Exception:
+            logger.error(traceback.format_exc())
             return False
 
     @staticmethod
-    def _structure_analysis(parse_file, structure_file):
-        print('>' * 10 + parse_file)
-        def filter_elements(data):
-            new_data = []
+    def _structure_analysis(parse_file: str, structure_file: str) -> bool:
+        def filter_elements(data: list[dict[str, Any]]) -> list[dict[str, Any]]:
+            normalized = []
             for element in data:
-                assert element["type"] in ["text", "table"]
-                if element["type"] == "table":
-                    if "table_body" in element:
-                        element["text"] = element["table_body"]
-                        del element["table_body"]
-                    else:
-                        continue
-                new_data.append(element.copy())
-            return new_data
-        data = json.load(open(parse_file))
-        data = filter_elements(data)
+                if element["type"] not in {"text", "table"}:
+                    continue
+                copied = element.copy()
+                if copied["type"] == "table":
+                    copied["text"] = copied.get("table_body", "")
+                    copied.pop("table_body", None)
+                normalized.append(copied)
+            return normalized
 
+        data = filter_elements(Ingestion._read_json(parse_file, []))
+        input_dict: Dict[int, Dict[str, Any]] = {}
+        for index, element in enumerate(data):
+            input_dict[index] = {
+                "type": element["type"],
+                "page_idx": element["page_idx"],
+                "text": element["text"],
+            }
 
-        input_dict = {}
-        for i, element in enumerate(data):
-            page_idx = element["page_idx"]
-            text = element["text"]
-            if i not in input_dict:
-                input_dict[i] = {}
-            input_dict[i]["type"] = element["type"]
-            input_dict[i]["page_idx"] = element["page_idx"]
-            input_dict[i]["text"] = text
-
-        input_dict_prompting = input_dict.copy()
-        for key in input_dict_prompting:
-            text = input_dict_prompting[key]["text"]
+        prompt_input = {key: value.copy() for key, value in input_dict.items()}
+        for value in prompt_input.values():
+            text = value["text"]
             if len(text) > 200:
-                text = text[:200] + "..."
-            input_dict_prompting[key]["text"] = text
+                value["text"] = text[:200] + "..."
 
-        prompt = prompt_template.format(input_dict=input_dict_prompting)
-        result = call_llm(prompt)
-        print(f'R1 = {result}')
-        result = parse_heading_level(result)
-        print(f'R2 = {result}')
-        if result == None:
-            result = {}
-        if result.keys() != input_dict.keys():
-            result = {}
-        if result == {}:
+        result = parse_heading_level(call_llm(prompt_template.format(input_dict=prompt_input)))
+        if not result or set(result.keys()) != set(input_dict.keys()):
             return False
 
         for key in input_dict:
             input_dict[key]["level"] = result[key]
-        assert len(input_dict) == len(data) # Just to make sure there is no weird bbox
-        with open(structure_file, 'w') as f:
-            json.dump(input_dict, f, indent=4, ensure_ascii=False)
+        Ingestion._write_json(structure_file, input_dict)
         return True
-        
-    
-    def structure_analysis(self):
+
+    def structure_analysis(self) -> bool:
         try:
             for file in tqdm(self.files, desc="Structure analysis"):
                 file_name = file[:-4]
-                print(file_name)
-                parse_file = os.path.join(self.output_path,  file_name, "txt", f"{file_name}_content_list.json")
-                assert os.path.isfile(parse_file)
+                parse_file = os.path.join(self.output_path, file_name, "txt", f"{file_name}_content_list.json")
                 structure_file = os.path.join(self.output_path, file_name, "txt", f"{file_name}_structure.json")
-                success = Ingestion._structure_analysis(parse_file, structure_file)
-                if not success:
-                    print("Fail", file)
-                print("success", success)
-        except Exception as e:
-            logger.error(traceback.format_exc())
-            return False
-        
-    def _metadata_extaction(file, metadata_file):
-        try:
-            data = json.load(open(file))
-            text = "\n".join([element.get("text", element.get("table_body", "")).strip() for element in data if element["page_idx"] == 0])
-            prompt = prompt_template_kie.format(text=text)
-            result = call_llm(prompt)
-            result = parse_metadata(result)
-            with open(metadata_file, 'w') as f:
-                json.dump(result, f, indent=4, ensure_ascii=False)
-            logger.info(f"result = {result}")
-            return result
-        except Exception as e:
+                if not os.path.isfile(parse_file):
+                    raise FileNotFoundError(parse_file)
+                success = self._structure_analysis(parse_file, structure_file)
+                logger.info("structure %s success=%s", file_name, success)
+            return True
+        except Exception:
             logger.error(traceback.format_exc())
             return False
 
-    def metadata_extraction(self):
+    @staticmethod
+    def _case_llm_metadata(content_items: list[dict[str, Any]]) -> Dict[str, Any]:
+        first_page_text = "\n".join(
+            (item.get("text") or item.get("table_body") or "").strip()
+            for item in content_items
+            if int(item.get("page_idx", 0)) == 0
+        )
+        if not first_page_text.strip():
+            return {}
+        return parse_llm_json(call_llm(CASE_METADATA_PROMPT.format(text=first_page_text)))
+
+    @staticmethod
+    def _law_llm_metadata(blocks: list[dict[str, Any]]) -> Dict[str, Any]:
+        payload = build_law_payload(blocks)
+        return parse_llm_json(call_llm(LAW_METADATA_PROMPT.format(payload=json.dumps(payload, indent=2, ensure_ascii=False))))
+
+    def _metadata_extraction(self, parse_file: str, structure_file: str, metadata_file: str) -> Dict[str, Any] | bool:
+        try:
+            content_items = self._read_json(parse_file, [])
+            structured_items = self._read_json(structure_file, {})
+            existing_metadata = self._read_json(metadata_file, {})
+            blocks = build_blocks(content_items, structured_items)
+            doc_type = classify_document(content_items, structured_items, existing_metadata)
+
+            if doc_type == "law":
+                llm_metadata = self._law_llm_metadata(blocks) if self.use_llm else {}
+                result = build_law_metadata(content_items, structured_items, existing_metadata, llm_metadata)
+            else:
+                existing_case = existing_metadata if existing_metadata.get("doc_type") == "case" or existing_metadata.get("claim_number") else existing_metadata
+                llm_metadata = {}
+                if self.use_llm and (not existing_case or not existing_case.get("case_name") or not existing_case.get("claim_number")):
+                    llm_metadata = self._case_llm_metadata(content_items)
+                result = build_case_metadata(content_items, structured_items, existing_case, llm_metadata)
+
+            self._write_json(metadata_file, result)
+            logger.info("metadata %s doc_type=%s", os.path.basename(metadata_file), result.get("doc_type"))
+            return result
+        except Exception:
+            logger.error(traceback.format_exc())
+            return False
+
+    def metadata_extraction(self) -> bool:
         try:
             for file in tqdm(self.files, desc="Metadata extraction"):
                 file_name = file[:-4]
-                logger.info(file_name)
-                parse_file = os.path.join(self.output_path,  file_name, "txt", f"{file_name}_content_list.json")
-                metadata_file = os.path.join(self.output_path,  file_name, "txt", f"{file_name}_metadata.json")
-                success = Ingestion._metadata_extaction(parse_file, metadata_file)  
+                parse_file = os.path.join(self.output_path, file_name, "txt", f"{file_name}_content_list.json")
+                structure_file = os.path.join(self.output_path, file_name, "txt", f"{file_name}_structure.json")
+                metadata_file = os.path.join(self.output_path, file_name, "txt", f"{file_name}_metadata.json")
+                success = self._metadata_extraction(parse_file, structure_file, metadata_file)
                 if not success:
-                    print(file)              
-
-        
-        except Exception as e:
+                    logger.error("metadata extraction failed for %s", file)
+            return True
+        except Exception:
             logger.error(traceback.format_exc())
             return False
 
-    def ingest(self):
-        success = self.parse()
-        success = self.structure_analysis()
-        success = self.metadata_extraction()
+    def ingest(self) -> None:
+        self.parse()
+        self.structure_analysis()
+        self.metadata_extraction()
+
 
 if __name__ == "__main__":
-    pipeline = Ingestion(folder=folder, output_path=f"docs_corpus_ingest_result")
+    pipeline = Ingestion(folder=folder, output_path="docs_corpus_ingest_result")
     pipeline.ingest()
-
-    
-

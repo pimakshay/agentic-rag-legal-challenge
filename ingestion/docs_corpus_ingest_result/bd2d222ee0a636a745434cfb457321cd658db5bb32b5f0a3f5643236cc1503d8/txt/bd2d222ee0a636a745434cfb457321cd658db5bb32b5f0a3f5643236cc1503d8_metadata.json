@@ -1,9 +1,13 @@
 {
+    "doc_type": "case",
     "case_name": "Oskar v (1) Olindo (2) Onita (3) Oron",
+    "case_name_normalized": "oskar v 1 olindo 2 onita 3 oron",
     "neutral_citation": "[2024] DIFC CA 009",
+    "neutral_citation_normalized": "2024 difc ca 009",
+    "claim_number": "CA 009/2024",
+    "claim_number_normalized": "ca 009 2024",
     "court": "DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
     "court_division": "COURT OF APPEAL",
-    "claim_number": "CA 009/2024",
     "hearing_date": "17 October 2024",
     "judgment_date": "30 October 2024",
     "judgment_release_date": "",
@@ -21,5 +25,8 @@
         "Mr Rajdeep Choudhury"
     ],
     "claimant_law_firm": "Eversheds Sutherland International LLP",
-    "defendant_law_firm": "Al Aidarous Advocates and Legal Consultants"
+    "defendant_law_firm": "Al Aidarous Advocates and Legal Consultants",
+    "title_page_number": 1,
+    "last_page_number": 14,
+    "page_count": 14
 }
