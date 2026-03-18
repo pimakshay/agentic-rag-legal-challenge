@@ -14,6 +14,7 @@ from langchain_core.documents import Document
 from arlc import RetrievalRef, normalize_retrieved_pages
 from retrieval.chunkers import LegalChunkerConfig, LegalIngestChunker
 from retrieval.chunkers.legal_chunk_types import decode_page_numbers, sanitize_metadata_for_vectorstore
+from retrieval.free_text_prompts import build_free_text_prompt, detect_free_text_subtype
 from retrieval.legal_question_router import LegalQuestionRouter, RoutePlan
 from retrieval.loaders import IngestedCorpusLoader
 from retrieval.retrievers.base import BaseRAGRetriever
@@ -519,6 +520,9 @@ class LegalHybridRAGPipeline:
         supporting_docs: Sequence[Document],
         route: RoutePlan,
     ) -> str:
+        if answer_type.lower() == "free_text":
+            return self._build_free_text_prompt(question_text, supporting_docs)
+
         context_chunks = []
         for index, doc in enumerate(supporting_docs, start=1):
             metadata = doc.metadata or {}
@@ -544,6 +548,21 @@ class LegalHybridRAGPipeline:
             f"Context:\n{context}\n\n"
             "Answer:"
         )
+
+    def _build_free_text_prompt(
+        self,
+        question_text: str,
+        supporting_docs: Sequence[Document],
+    ) -> str:
+        subtype = self._select_free_text_prompt_subtype(question_text, supporting_docs)
+        return build_free_text_prompt(question_text, supporting_docs, subtype, self._default_absent_answer("free_text"))
+
+    def _select_free_text_prompt_subtype(
+        self,
+        question_text: str,
+        supporting_docs: Sequence[Document],
+    ) -> str:
+        return detect_free_text_subtype(question_text, supporting_docs)
 
     def _type_instruction(self, answer_type: str) -> str:
         normalized = answer_type.lower()
