@@ -1,9 +1,13 @@
 {
+    "doc_type": "case",
     "case_name": "Techteryx Ltd v (1) Aria Commodities DMCC (2) Mashreq Bank PSC (3) Emirates Nbd Bank PJSC (4) Abu Dhabi Islamic Bank PJSC",
+    "case_name_normalized": "techteryx ltd v 1 aria commodities dmcc 2 mashreq bank psc 3 emirates nbd bank pjsc 4 abu dhabi islamic bank pjsc",
     "neutral_citation": "",
+    "neutral_citation_normalized": "",
+    "claim_number": "DEC 001/2025",
+    "claim_number_normalized": "dec 001 2025",
     "court": "DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
     "court_division": "COURT OF FIRST INSTANCE",
-    "claim_number": "DEC 001/2025",
     "hearing_date": "",
     "judgment_date": "OCTOBER 17, 2025",
     "judgment_release_date": "",
@@ -17,5 +21,8 @@
     "claimant_counsel": [],
     "defendant_counsel": [],
     "claimant_law_firm": "",
-    "defendant_law_firm": ""
+    "defendant_law_firm": "",
+    "title_page_number": 1,
+    "last_page_number": 25,
+    "page_count": 25
 }

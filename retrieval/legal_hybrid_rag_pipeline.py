@@ -5,7 +5,7 @@ from __future__ import annotations
 from dataclasses import asdict, dataclass, field
 import logging
 import re
-from typing import Any, Dict, List, Optional, Sequence, Tuple
+from typing import Any, Dict, List, Optional, Sequence, Set, Tuple
 
 from langchain_core.documents import Document
 
@@ -15,6 +15,7 @@ from retrieval.chunkers.legal_chunk_types import (
     decode_page_numbers,
     sanitize_metadata_for_vectorstore,
 )
+from retrieval.free_text_prompts import build_free_text_prompt, detect_free_text_subtype
 from retrieval.legal_question_router import LegalQuestionRouter, RoutePlan
 from retrieval.loaders import IngestedCorpusLoader
 from retrieval.retrievers.base import BaseRAGRetriever
@@ -27,7 +28,6 @@ logger = logging.getLogger(__name__)
 @dataclass
 class NormalizedQuery:
     """Compatibility container for dense and sparse query variants."""
-
     original_query: str
     dense_query: str
     sparse_query: str
@@ -37,12 +37,19 @@ class NormalizedQuery:
 @dataclass
 class AnswerResult:
     """Answer payload returned by the legal pipeline."""
-
     answer: Any
     supporting_docs: List[Document]
     retrieval_refs: List[RetrievalRef]
     debug_metadata: Dict[str, Any] = field(default_factory=dict)
     raw_response: str = ""
+
+
+@dataclass
+class ResolutionContext:
+    """Resolved metadata constraints for one query."""
+    candidate_doc_ids: Set[str]
+    confident_match: bool = False
+    article_entries: Dict[str, List[Dict[str, Any]]] = field(default_factory=dict)
 
 
 class LegalHybridRAGPipeline:
@@ -54,7 +61,7 @@ class LegalHybridRAGPipeline:
         embedding_model: Any = None,
         ingest_root: str = "ingestion/docs_corpus_ingest_result",
         docs_root: str = "docs_corpus",
-        top_k_docs: int = 6,
+        top_k_docs: int = 10,
         dense_candidate_k: int = 14,
         sparse_candidate_k: int = 24,
         dense_weight: float = 0.5,
@@ -90,7 +97,10 @@ class LegalHybridRAGPipeline:
         self.raw_chunks: List[Document] = []
         self._all_doc_ids: set[str] = set()
         self._claim_number_index: Dict[str, set[str]] = {}
-        self._law_lookup: Dict[str, set[str]] = {}
+        self._neutral_citation_index: Dict[str, set[str]] = {}
+        self._law_number_index: Dict[str, set[str]] = {}
+        self._law_alias_index: Dict[str, set[str]] = {}
+        self._article_index: Dict[str, List[Dict[str, Any]]] = {}
         self._doc_metadata: Dict[str, Dict[str, Any]] = {}
 
     def load_corpus(self) -> List[Document]:
@@ -129,16 +139,16 @@ class LegalHybridRAGPipeline:
             self.build_indexes()
 
         active_route = route or self.router.route(question_text, answer_type)
-        candidate_doc_ids = self._resolve_candidate_doc_ids(active_route)
-        sparse_pool = self._filter_chunks(self.raw_chunks, candidate_doc_ids)
+        resolution = self._resolve_route_context(active_route)
+        sparse_pool = self._filter_chunks(self.raw_chunks, resolution.candidate_doc_ids)
 
-        dense_docs = self._dense_search(question_text, candidate_doc_ids, active_route)
-        sparse_docs = self._sparse_search(question_text, sparse_pool, active_route)
+        dense_docs = self._dense_search(question_text, resolution, active_route)
+        sparse_docs = self._sparse_search(question_text, sparse_pool, active_route, resolution)
         fused_docs = self._fuse_results(dense_docs, sparse_docs, self.top_k_docs * 4)
         reranked_docs = self._rerank(question_text, fused_docs)
         return reranked_docs[: self.top_k_docs], active_route
 
-    def answer_question(self, question_item: Dict[str, Any]) -> AnswerResult:
+    def answer_question(self, question_item: Dict[str, Any], telemetry_timer: Optional[Any] = None) -> AnswerResult:
         question_text = question_item["question"]
         answer_type = question_item.get("answer_type", "free_text")
         route = self.router.route(question_text, answer_type)
@@ -146,11 +156,11 @@ class LegalHybridRAGPipeline:
         if route.comparison_mode and len(route.case_ids) > 1:
             supporting_docs = self._retrieve_for_comparison(question_text, answer_type, route)
         else:
-            supporting_docs, route = self.retrieve(
-                question_text, answer_type=answer_type, route=route
-            )
+            supporting_docs, route = self.retrieve(question_text, answer_type=answer_type, route=route)
 
         if not supporting_docs:
+            if telemetry_timer:
+                telemetry_timer.mark_token()
             answer = self._default_absent_answer(answer_type)
             return AnswerResult(
                 answer=answer,
@@ -164,19 +174,52 @@ class LegalHybridRAGPipeline:
             raise ValueError("llm must be provided to answer questions")
 
         prompt = self._build_prompt(question_text, answer_type, supporting_docs, route)
-        raw_response = self._invoke_llm(prompt)
-        answer = self._parse_answer_by_type(raw_response, answer_type)
+        raw_response = self._invoke_llm(prompt, telemetry_timer=telemetry_timer)
+        
+        used_indices = []
+        parsed_answer = raw_response
+        
+        if answer_type.lower() == "free_text":
+            ans_match = re.search(r"Answer:\s*(.*?)(?:\nIndices:|$)", raw_response, re.IGNORECASE | re.DOTALL)
+            idx_match = re.search(r"Indices:\s*(.*)", raw_response, re.IGNORECASE | re.DOTALL)
+            if ans_match:
+                parsed_answer = ans_match.group(1).strip()
+            if idx_match:
+                idx_str = idx_match.group(1).strip()
+                for token in re.split(r"[^\d]+", idx_str):
+                    if token.isdigit():
+                        used_indices.append(int(token))
+                        
+        answer = self._parse_answer_by_type(parsed_answer, answer_type)
 
-        if answer is None and answer_type == "free_text":
-            answer = self._default_absent_answer(answer_type)
+        is_absent = answer is None or (
+            answer_type == "free_text" and answer == self._default_absent_answer("free_text")
+        )
+
+        if is_absent:
+            if answer is None and answer_type == "free_text":
+                answer = self._default_absent_answer("free_text")
             retrieval_refs = []
         else:
+            filtered_docs = list(supporting_docs)
+            if answer_type.lower() == "free_text" and used_indices:
+                filtered_docs = []
+                for idx in used_indices:
+                    try:
+                        doc_idx = int(idx) - 1
+                        if 0 <= doc_idx < len(supporting_docs):
+                            filtered_docs.append(supporting_docs[doc_idx])
+                    except (ValueError, TypeError):
+                        pass
+                if not filtered_docs:
+                    filtered_docs = list(supporting_docs)
+            elif answer_type.lower() != "free_text" and len(supporting_docs) > 0:
+                # For deterministic answers, usually the top 1 or 2 docs contain the fact.
+                filtered_docs = supporting_docs[:2]
+
             retrieval_refs = normalize_retrieved_pages(
-                RetrievalRef(
-                    doc_id=str(doc.metadata["doc_id"]),
-                    page_numbers=self._chunk_page_numbers(doc),
-                )
-                for doc in supporting_docs
+                RetrievalRef(doc_id=str(doc.metadata["doc_id"]), page_numbers=self._chunk_page_numbers(doc))
+                for doc in filtered_docs
             )
 
             if answer_type == "free_text" and isinstance(answer, str):
@@ -196,7 +239,10 @@ class LegalHybridRAGPipeline:
     def _build_metadata_indexes(self, source_documents: Sequence[Document]) -> None:
         self._all_doc_ids = set()
         self._claim_number_index = {}
-        self._law_lookup = {}
+        self._neutral_citation_index = {}
+        self._law_number_index = {}
+        self._law_alias_index = {}
+        self._article_index = {}
         self._doc_metadata = {}
 
         for document in source_documents:
@@ -207,48 +253,93 @@ class LegalHybridRAGPipeline:
             self._all_doc_ids.add(doc_id)
             self._doc_metadata[doc_id] = metadata
 
-            claim_number = self._normalize_key(str(metadata.get("claim_number") or ""))
+            claim_number = self._normalize_key(
+                str(metadata.get("claim_number_normalized") or metadata.get("claim_number") or "")
+            )
             if claim_number:
                 self._claim_number_index.setdefault(claim_number, set()).add(doc_id)
 
-            for key in self._candidate_law_terms(metadata, document.page_content):
-                self._law_lookup.setdefault(self._normalize_key(key), set()).add(doc_id)
+            neutral_citation = self._normalize_key(
+                str(metadata.get("neutral_citation_normalized") or metadata.get("neutral_citation") or "")
+            )
+            if neutral_citation:
+                self._neutral_citation_index.setdefault(neutral_citation, set()).add(doc_id)
 
-    def _candidate_law_terms(self, metadata: Dict[str, Any], page_content: str) -> List[str]:
-        terms = []
-        for value in [
-            metadata.get("case_name") or "",
-            metadata.get("title") or "",
-            metadata.get("neutral_citation") or "",
-        ]:
-            if isinstance(value, str) and value.strip():
-                terms.append(value.strip())
+            law_number = self._normalize_key(
+                str(metadata.get("official_citation_normalized") or metadata.get("official_citation") or "")
+            )
+            if law_number:
+                self._law_number_index.setdefault(law_number, set()).add(doc_id)
 
-        first_lines = "\n".join(page_content.splitlines()[:20])
-        law_matches = re.findall(r"([A-Z][A-Za-z&,\- ]+? Law(?:\s+\d{4})?)", first_lines)
-        terms.extend(match.strip() for match in law_matches if match.strip())
-        return terms
+            for alias in metadata.get("alias_keys") or []:
+                normalized_alias = self._normalize_key(str(alias))
+                if normalized_alias:
+                    self._law_alias_index.setdefault(normalized_alias, set()).add(doc_id)
 
-    def _resolve_candidate_doc_ids(self, route: RoutePlan) -> set[str]:
-        candidate_doc_ids: set[str] = set()
+            for article_ref, article_entry in (metadata.get("article_index") or {}).items():
+                normalized_article = self._normalize_article_ref(str(article_ref))
+                if not normalized_article or not isinstance(article_entry, dict):
+                    continue
+                entry = dict(article_entry)
+                entry["doc_id"] = doc_id
+                self._article_index.setdefault(normalized_article, []).append(entry)
+
+    def _resolve_route_context(self, route: RoutePlan) -> ResolutionContext:
+        candidate_doc_ids: Set[str] = set()
+        confident_match = False
+        article_entries: Dict[str, List[Dict[str, Any]]] = {}
 
         for case_id in route.case_ids:
-            candidate_doc_ids.update(
-                self._claim_number_index.get(self._normalize_key(case_id), set())
-            )
+            candidate_doc_ids.update(self._claim_number_index.get(self._normalize_key(case_id), set()))
+        if candidate_doc_ids:
+            confident_match = True
 
-        if not candidate_doc_ids and (route.law_names or route.law_numbers):
-            for term in route.law_names + route.law_numbers:
-                normalized = self._normalize_key(term)
-                for key, doc_ids in self._law_lookup.items():
-                    if normalized in key or key in normalized:
-                        candidate_doc_ids.update(doc_ids)
+        if not candidate_doc_ids:
+            for neutral_citation in route.neutral_citations:
+                candidate_doc_ids.update(
+                    self._neutral_citation_index.get(self._normalize_key(neutral_citation), set())
+                )
+            if candidate_doc_ids:
+                confident_match = True
 
-        return candidate_doc_ids or set(self._all_doc_ids)
+        if not candidate_doc_ids:
+            for law_number in route.law_numbers:
+                candidate_doc_ids.update(self._law_number_index.get(self._normalize_key(law_number), set()))
+            if candidate_doc_ids:
+                confident_match = True
 
-    def _filter_chunks(
-        self, chunks: Sequence[Document], candidate_doc_ids: set[str]
-    ) -> List[Document]:
+        if not candidate_doc_ids:
+            for law_title in route.law_title_candidates:
+                candidate_doc_ids.update(self._law_alias_index.get(self._normalize_key(law_title), set()))
+            if candidate_doc_ids:
+                confident_match = True
+
+        if route.article_refs:
+            for article_ref in route.article_refs:
+                normalized_article = self._normalize_article_ref(article_ref)
+                for entry in self._article_index.get(normalized_article, []):
+                    doc_id = str(entry.get("doc_id") or "")
+                    if not doc_id:
+                        continue
+                    article_entries.setdefault(doc_id, []).append(entry)
+
+            if candidate_doc_ids and article_entries:
+                restricted = {
+                    doc_id: entries
+                    for doc_id, entries in article_entries.items()
+                    if doc_id in candidate_doc_ids
+                }
+                if restricted:
+                    article_entries = restricted
+                    candidate_doc_ids = set(restricted)
+
+        return ResolutionContext(
+            candidate_doc_ids=candidate_doc_ids or set(self._all_doc_ids),
+            confident_match=confident_match,
+            article_entries=article_entries,
+        )
+
+    def _filter_chunks(self, chunks: Sequence[Document], candidate_doc_ids: Set[str]) -> List[Document]:
         return [
             chunk
             for chunk in chunks
@@ -258,76 +349,85 @@ class LegalHybridRAGPipeline:
     def _dense_search(
         self,
         question_text: str,
-        candidate_doc_ids: set[str],
+        resolution: ResolutionContext,
         route: RoutePlan,
     ) -> List[Document]:
         query_vec = self.embedding_model.embed_query(question_text)
-        base_k = self.dense_candidate_k * 3 if candidate_doc_ids and candidate_doc_ids != self._all_doc_ids else self.dense_candidate_k
+        base_k = self.dense_candidate_k * 3 if resolution.candidate_doc_ids and resolution.candidate_doc_ids != self._all_doc_ids else self.dense_candidate_k
         if route.prefer_title_page or route.prefer_last_page:
             base_k = min(base_k * 2, 50)
         raw = self.store.vector_search(query_vec, top_k=base_k)
         filtered = [
             doc for doc in raw
-            if str(doc.metadata.get("doc_id") or "") in candidate_doc_ids
+            if str(doc.metadata.get("doc_id") or "") in resolution.candidate_doc_ids
         ]
         take = self.dense_candidate_k * 2 if (route.prefer_title_page or route.prefer_last_page) else self.dense_candidate_k
         take = min(take, len(filtered) if filtered else len(raw))
         results = filtered or raw[: self.dense_candidate_k]
         dense_docs = results[:take]
-        return self._strictly_filter_route(self._apply_route_bias(dense_docs, route), route)
+        return self._strictly_filter_route(self._apply_route_bias(dense_docs, route, resolution), route, resolution)
 
     def _sparse_search(
         self,
         question_text: str,
         sparse_pool: Sequence[Document],
         route: RoutePlan,
+        resolution: ResolutionContext,
     ) -> List[Document]:
         if not sparse_pool:
             return []
-        candidate_doc_ids = {str(doc.metadata.get("doc_id") or "") for doc in sparse_pool}
+        
+        # We can still use text_search on turbopuffer but it searches globally, then we filter
         sparse_query = self._build_sparse_query(question_text, route)
         top_k_sparse = self.sparse_candidate_k * 2
         if route.prefer_title_page or route.prefer_last_page:
             top_k_sparse = min(top_k_sparse * 2, 60)
+            
         raw = self.store.text_search(sparse_query, top_k=top_k_sparse)
         filtered = [
             doc for doc in raw
-            if str(doc.metadata.get("doc_id") or "") in candidate_doc_ids
+            if str(doc.metadata.get("doc_id") or "") in resolution.candidate_doc_ids
         ]
         take = self.sparse_candidate_k * 2 if (route.prefer_title_page or route.prefer_last_page) else self.sparse_candidate_k
         results = filtered or raw[: self.sparse_candidate_k]
         return self._strictly_filter_route(
-            self._apply_route_bias(results[:take], route), route
+            self._apply_route_bias(results[:take], route, resolution), route, resolution
         )
 
     def _build_sparse_query(self, question_text: str, route: RoutePlan) -> str:
         tokens = [question_text]
         tokens.extend(route.case_ids)
+        tokens.extend(route.neutral_citations)
         tokens.extend(route.article_refs)
-        tokens.extend(route.law_names)
+        tokens.extend(route.law_title_candidates)
         tokens.extend(route.law_numbers)
         if route.prefer_title_page:
             tokens.extend(["title page", "cover page", "law number"])
         if route.prefer_last_page:
             tokens.extend(["last page", "order", "outcome"])
         return " ".join(token for token in tokens if token).strip()
-
-    def _strictly_filter_route(self, docs: Sequence[Document], route: RoutePlan) -> List[Document]:
+    
+    def _strictly_filter_route(
+        self,
+        docs: Sequence[Document],
+        route: RoutePlan,
+        resolution: ResolutionContext,
+    ) -> List[Document]:
         def strictly_filter(doc: Document) -> bool:
             metadata = doc.metadata or {}
+            doc_id = str(metadata.get("doc_id") or "")
             chunk_kind = str(metadata.get("chunk_kind") or "")
             page_numbers = self._chunk_page_numbers(doc)
-            if route.target_pages and (
-                not any(page in page_numbers for page in route.target_pages)
-            ):
+            if route.target_pages and (not any(page in page_numbers for page in route.target_pages)):
                 return False
             if route.prefer_title_page and chunk_kind != "title_page":
                 return False
+            if resolution.confident_match and route.article_refs and resolution.article_entries:
+                entries = resolution.article_entries.get(doc_id, [])
+                if entries and not any(self._chunk_overlaps_entry(doc, entry) for entry in entries):
+                    return False
             if route.prefer_last_page:
-                doc_pages = int(
-                    self._doc_metadata.get(str(metadata.get("doc_id") or ""), {}).get("page_count")
-                    or 0
-                )
+                doc_pages = int(self._doc_metadata.get(doc_id, {}).get("page_count") or 0)
                 if not (doc_pages and page_numbers and max(page_numbers) == doc_pages):
                     return False
             return True
@@ -378,42 +478,31 @@ class LegalHybridRAGPipeline:
             filtered = sorted(filtered, key=last_page_sort_key)[: self.top_k_docs]
         return filtered
 
-    def _apply_route_bias(self, docs: Sequence[Document], route: RoutePlan) -> List[Document]:
-        def score(doc: Document) -> Tuple[int, int, int]:
+    def _apply_route_bias(
+        self,
+        docs: Sequence[Document],
+        route: RoutePlan,
+        resolution: ResolutionContext,
+    ) -> List[Document]:
+        def score(doc: Document) -> Tuple[int, int, int, int]:
             metadata = doc.metadata or {}
+            doc_id = str(metadata.get("doc_id") or "")
             chunk_kind = str(metadata.get("chunk_kind") or "")
             page_numbers = self._chunk_page_numbers(doc)
-            doc_type = str(metadata.get("doc_type") or "")
-
-            # Prefer statute / law documents for law-style questions,
-            # and case judgments when routing is by case-id.
-            law_question = bool(route.law_names or route.law_numbers or route.article_refs)
-            has_case_id = bool(route.case_ids)
-            doc_type_bonus = 0
-            if law_question and doc_type == "law":
-                doc_type_bonus = 2
-            elif has_case_id and doc_type == "case_judgment":
-                doc_type_bonus = 1
-
             preferred_kind = 1 if chunk_kind in route.preferred_chunk_kinds else 0
             target_page_hit = 0
+            article_hit = 0
             if route.target_pages and any(page in page_numbers for page in route.target_pages):
                 target_page_hit = 1
             if route.prefer_title_page and chunk_kind == "title_page":
                 target_page_hit = 2
             if route.prefer_last_page:
-                doc_pages = int(
-                    self._doc_metadata.get(str(metadata.get("doc_id") or ""), {}).get("page_count")
-                    or 0
-                )
+                doc_pages = int(self._doc_metadata.get(doc_id, {}).get("page_count") or 0)
                 if doc_pages and page_numbers and max(page_numbers) == doc_pages:
                     target_page_hit = 2
-            return (
-                doc_type_bonus,
-                preferred_kind,
-                target_page_hit,
-                -int(metadata.get("page_start") or 0),
-            )
+            if route.article_refs and resolution.article_entries.get(doc_id):
+                article_hit = 1 if any(self._chunk_overlaps_entry(doc, entry) for entry in resolution.article_entries[doc_id]) else 0
+            return (article_hit, preferred_kind, target_page_hit, -int(metadata.get("page_start") or 0))
 
         return sorted(docs, key=score, reverse=True)
 
@@ -461,8 +550,9 @@ class LegalHybridRAGPipeline:
                 question_text=route.question_text,
                 answer_type=route.answer_type,
                 case_ids=[case_id],
+                neutral_citations=list(route.neutral_citations),
                 article_refs=list(route.article_refs),
-                law_names=list(route.law_names),
+                law_title_candidates=list(route.law_title_candidates),
                 law_numbers=list(route.law_numbers),
                 target_pages=list(route.target_pages),
                 prefer_last_page=route.prefer_last_page,
@@ -487,6 +577,9 @@ class LegalHybridRAGPipeline:
         supporting_docs: Sequence[Document],
         route: RoutePlan,
     ) -> str:
+        if answer_type.lower() == "free_text":
+            return self._build_free_text_prompt(question_text, supporting_docs)
+
         context_chunks = []
         for index, doc in enumerate(supporting_docs, start=1):
             metadata = doc.metadata or {}
@@ -506,13 +599,27 @@ class LegalHybridRAGPipeline:
         instruction = self._type_instruction(answer_type)
         return (
             "You answer legal challenge questions using only the provided context.\n"
-            "Your reply must be the minimal substantive statement that directly satisfies the question asked (nothing extra).\n"
             "If the context is insufficient, return null for deterministic types or the standard absence statement for free_text.\n"
             f"{instruction}\n\n"
             f"Question: {question_text}\n\n"
             f"Context:\n{context}\n\n"
             "Answer:"
         )
+
+    def _build_free_text_prompt(
+        self,
+        question_text: str,
+        supporting_docs: Sequence[Document],
+    ) -> str:
+        subtype = self._select_free_text_prompt_subtype(question_text, supporting_docs)
+        return build_free_text_prompt(question_text, supporting_docs, subtype, self._default_absent_answer("free_text"))
+
+    def _select_free_text_prompt_subtype(
+        self,
+        question_text: str,
+        supporting_docs: Sequence[Document],
+    ) -> str:
+        return detect_free_text_subtype(question_text, supporting_docs)
 
     def _type_instruction(self, answer_type: str) -> str:
         normalized = answer_type.lower()
@@ -528,28 +635,41 @@ class LegalHybridRAGPipeline:
             return "Return only the date in YYYY-MM-DD format."
         return "Return a concise answer grounded in the context, max 280 characters."
 
-    def _invoke_llm(self, prompt: str) -> str:
-        response = self.llm.invoke(prompt)
-        if hasattr(response, "content"):
-            content = response.content
-            if isinstance(content, list):
-                return "".join(
-                    part.get("text", "") if isinstance(part, dict) else str(part)
-                    for part in content
-                ).strip()
-            return str(content).strip()
-        return str(response).strip()
+    def _invoke_llm(self, prompt: str, telemetry_timer: Optional[Any] = None) -> str:
+        if hasattr(self.llm, "stream"):
+            response_chunks = []
+            for chunk in self.llm.stream(prompt):
+                if not response_chunks and telemetry_timer:
+                    telemetry_timer.mark_token()
+                
+                if hasattr(chunk, "content"):
+                    content = chunk.content
+                    if isinstance(content, list):
+                        text = "".join(
+                            part.get("text", "") if isinstance(part, dict) else str(part)
+                            for part in content
+                        )
+                    else:
+                        text = str(content)
+                else:
+                    text = str(chunk)
+                response_chunks.append(text)
+            return "".join(response_chunks).strip()
+        else:
+            response = self.llm.invoke(prompt)
+            if telemetry_timer:
+                telemetry_timer.mark_token()
+            if hasattr(response, "content"):
+                content = response.content
+                if isinstance(content, list):
+                    return "".join(part.get("text", "") if isinstance(part, dict) else str(part) for part in content).strip()
+                return str(content).strip()
+            return str(response).strip()
 
     def _parse_answer_by_type(self, raw: str, answer_type: str) -> Any:
         text = (raw or "").strip()
         lowered = text.lower()
-        if lowered in {
-            "null",
-            "none",
-            "not found",
-            "unknown",
-            "insufficient information",
-        }:
+        if lowered in {"null", "none", "not found", "unknown", "insufficient information"}:
             return None
 
         normalized = answer_type.lower()
@@ -606,16 +726,36 @@ class LegalHybridRAGPipeline:
         metadata = dict(doc.metadata or {})
         metadata["page_numbers"] = decode_page_numbers(metadata)
         if isinstance(metadata.get("section_path"), str):
-            metadata["section_path"] = [
-                item.strip() for item in str(metadata["section_path"]).split(",") if item.strip()
-            ]
+            metadata["section_path"] = [item.strip() for item in str(metadata["section_path"]).split(",") if item.strip()]
         return Document(page_content=doc.page_content, metadata=metadata, id=doc.id)
 
     def _chunk_page_numbers(self, doc: Document) -> List[int]:
         return decode_page_numbers(doc.metadata or {})
 
+    def _chunk_overlaps_entry(self, doc: Document, entry: Dict[str, Any]) -> bool:
+        metadata = doc.metadata or {}
+        chunk_start = int(metadata.get("block_start") or 0)
+        chunk_end = int(metadata.get("block_end") or 0)
+        entry_start = int(entry.get("block_start") or 0)
+        entry_end = int(entry.get("block_end") or 0)
+        if chunk_end and entry_end and max(chunk_start, entry_start) <= min(chunk_end, entry_end):
+            return True
+        chunk_pages = set(self._chunk_page_numbers(doc))
+        entry_pages = {
+            int(entry.get("page_start") or 0),
+            int(entry.get("page_end") or 0),
+        }
+        entry_pages.discard(0)
+        return bool(chunk_pages & entry_pages)
+
+    def _normalize_article_ref(self, value: str) -> str:
+        cleaned = re.sub(r"\barticle\b", "Article", value or "", flags=re.IGNORECASE)
+        cleaned = re.sub(r"\s+", "", cleaned.replace("Article", ""))
+        return f"article:{cleaned.lower()}" if cleaned else ""
+
     def _normalize_key(self, value: str) -> str:
-        return re.sub(r"\s+", " ", value.strip().lower())
+        cleaned = re.sub(r"[^a-z0-9]+", " ", (value or "").strip().lower())
+        return re.sub(r"\s+", " ", cleaned).strip()
 
 
 HybridRAGPipeline = LegalHybridRAGPipeline

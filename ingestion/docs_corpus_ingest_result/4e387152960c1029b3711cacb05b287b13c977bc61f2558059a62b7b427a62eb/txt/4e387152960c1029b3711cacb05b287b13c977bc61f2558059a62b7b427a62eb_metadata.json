@@ -1,16 +1,4641 @@
 {
-    "case_name": "",
-    "neutral_citation": "",
-    "court": "",
-    "court_division": "",
-    "claim_number": "",
-    "hearing_date": "",
-    "judgment_date": "",
-    "judgment_release_date": "",
-    "claimant": "",
-    "defendants": [],
-    "claimant_counsel": [],
-    "defendant_counsel": [],
-    "claimant_law_firm": "",
-    "defendant_law_firm": ""
+    "doc_type": "law",
+    "official_title": "Trust Law",
+    "official_title_normalized": "trust law",
+    "short_title": "Trust Law 2018",
+    "short_title_normalized": "trust law 2018",
+    "law_number": "4",
+    "law_year": "2018",
+    "official_citation": "DIFC Law No. 4 of 2018",
+    "official_citation_normalized": "difc law no 4 of 2018",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "March 2024",
+    "amending_laws": [
+        "DIFC Laws Amendment Law DIFC Law No. 3 of 2024",
+        "DIFC Laws Amendment Law DIFC Law No. 1 of 2024",
+        "DIFC Laws Amendment Law DIFC Law No. 2 of 2022",
+        "DIFC Laws Amendment Law DIFC Law No. 8 of 2018"
+    ],
+    "administering_authority": "DIFCA",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 53,
+    "page_count": 53,
+    "alias_keys": [
+        "Trust Law",
+        "Trust Law 2018",
+        "DIFC Law No. 4 of 2018"
+    ],
+    "article_index": {
+        "Article 1": {
+            "heading": "The Arbitration Law shall apply and be construed with respect to a trust arbitration, as stated hereunder",
+            "article_number": "1",
+            "page_start": 53,
+            "page_end": 53,
+            "block_start": 672,
+            "block_end": 672
+        },
+        "Article 11": {
+            "heading": "Governing law",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 72,
+            "block_end": 80
+        },
+        "Article 18": {
+            "heading": "Role of the Court in administration of trust",
+            "article_number": "18",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 133,
+            "block_end": 134
+        },
+        "Article 45": {
+            "heading": "Beneficiaries of a trust (1) A beneficiary shall be:",
+            "article_number": "45",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 320,
+            "block_end": 323
+        },
+        "Article 49": {
+            "heading": "Protective trusts",
+            "article_number": "49",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 337,
+            "block_end": 345
+        },
+        "Article 51": {
+            "heading": "Accepting or declining trusteeship",
+            "article_number": "51",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 363,
+            "block_end": 369
+        },
+        "Article 59": {
+            "heading": "Duty to administer a trust",
+            "article_number": "59",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 434,
+            "block_end": 438
+        },
+        "Article 67": {
+            "heading": "Powers of trustee",
+            "article_number": "67",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 471,
+            "block_end": 474
+        },
+        "Article 73": {
+            "heading": "Liability for breach of trust",
+            "article_number": "73",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 544,
+            "block_end": 555
+        },
+        "Article 84": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 45,
+            "page_end": 46,
+            "block_start": 602,
+            "block_end": 627
+        },
+        "Article 86": {
+            "heading": "Enforceability of a foreign trust",
+            "article_number": "86",
+            "page_start": 48,
+            "page_end": 49,
+            "block_start": 642,
+            "block_end": 651
+        },
+        "Article 2": {
+            "heading": "In the Arbitration Law, “dispute” includes an administration question",
+            "article_number": "2",
+            "page_start": 53,
+            "page_end": 53,
+            "block_start": 673,
+            "block_end": 673
+        },
+        "Article 4": {
+            "heading": "Where in the Arbitration Law reference is made to a matter agreed between the parties to an arbitration agreement (including a matter which may be authorised, chosen, conferred, designated, nominated or vested by the parties) that matter shall (except where no effective provision is made) be determined as provided in the trust instrument",
+            "article_number": "4",
+            "page_start": 53,
+            "page_end": 53,
+            "block_start": 675,
+            "block_end": 675
+        },
+        "Article 5": {
+            "heading": "Neither Article 12 of the Arbitration Law nor any rule of law or construction treating an arbitration agreement separate to any agreement of which it is a part shall apply in relation to a trust arbitration",
+            "article_number": "5",
+            "page_start": 53,
+            "page_end": 53,
+            "block_start": 676,
+            "block_end": 676
+        },
+        "Article 6": {
+            "heading": "The term “action” in Article 13 of the Arbitration Law includes an application or other reference to the Court concerning an administration question which the trust instrument requires to be submitted to arbitration and a stay of that application or other reference may be sought by any of the parties in relation to the trust, whether or not a party to that application or other reference",
+            "article_number": "6",
+            "page_start": 53,
+            "page_end": 53,
+            "block_start": 677,
+            "block_end": 677
+        },
+        "Article 7": {
+            "heading": "In any application or other reference to the Court referred to in paragraph 6, the Court may stay the proceedings on its own volition unless all parties in relation to the trust affected by the application are before it or are represented by persons before it",
+            "article_number": "7",
+            "page_start": 53,
+            "page_end": 53,
+            "block_start": 678,
+            "block_end": 678
+        },
+        "Article 7(1)(a)": {
+            "heading": "Interpretation",
+            "article_number": "7",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 57,
+            "block_end": 57
+        },
+        "Article 7(1)": {
+            "heading": "Interpretation",
+            "article_number": "7",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 56,
+            "block_end": 57
+        },
+        "Article 7(2)": {
+            "heading": "Interpretation",
+            "article_number": "7",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 58,
+            "block_end": 58
+        },
+        "Article 8": {
+            "heading": "Article 38 of the Arbitration Law shall apply as if it included the following Articles:",
+            "article_number": "8",
+            "page_start": 53,
+            "page_end": 53,
+            "block_start": 679,
+            "block_end": 681
+        },
+        "Article 9": {
+            "heading": "For the purposes of enforcing an arbitral award under Article 41(2)(a)(iii) of the Arbitration Law, the term “dispute” includes an administration question",
+            "article_number": "9",
+            "page_start": 53,
+            "page_end": 53,
+            "block_start": 682,
+            "block_end": 684
+        },
+        "Article 9(1)": {
+            "heading": "Default and mandatory rules",
+            "article_number": "9",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 62,
+            "block_end": 62
+        },
+        "Article 9(2)(a)": {
+            "heading": "Default and mandatory rules",
+            "article_number": "9",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 64,
+            "block_end": 66
+        },
+        "Article 9(2)": {
+            "heading": "Default and mandatory rules",
+            "article_number": "9",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 63,
+            "block_end": 66
+        },
+        "Article 10": {
+            "heading": "Common law and principles of equity",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 67,
+            "block_end": 71
+        },
+        "Article 10(1)": {
+            "heading": "Common law and principles of equity",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 68,
+            "block_end": 71
+        },
+        "Article 11(1)(a)": {
+            "heading": "Governing law",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 74,
+            "block_end": 74
+        },
+        "Article 11(1)": {
+            "heading": "Governing law",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 73,
+            "block_end": 74
+        },
+        "Article 11(2)(a)": {
+            "heading": "Governing law",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 76,
+            "block_end": 76
+        },
+        "Article 11(2)": {
+            "heading": "Governing law",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 75,
+            "block_end": 76
+        },
+        "Article 11(3)(a)": {
+            "heading": "Governing law",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 78,
+            "block_end": 78
+        },
+        "Article 11(3)": {
+            "heading": "Governing law",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 77,
+            "block_end": 78
+        },
+        "Article 11(4)": {
+            "heading": "Governing law",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 79,
+            "block_end": 79
+        },
+        "Article 11(5)": {
+            "heading": "Governing law",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 80,
+            "block_end": 80
+        },
+        "Article 12": {
+            "heading": "Provision for change of governing law",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 81,
+            "block_end": 89
+        },
+        "Article 12(1)(a)": {
+            "heading": "Provision for change of governing law",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 83,
+            "block_end": 85
+        },
+        "Article 12(1)": {
+            "heading": "Provision for change of governing law",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 82,
+            "block_end": 85
+        },
+        "Article 12(5)": {
+            "heading": "Provision for change of governing law",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 86,
+            "block_end": 86
+        },
+        "Article 12(6)": {
+            "heading": "Provision for change of governing law",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 87,
+            "block_end": 87
+        },
+        "Article 12(7)": {
+            "heading": "Provision for change of governing law",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 88,
+            "block_end": 88
+        },
+        "Article 12(8)": {
+            "heading": "Provision for change of governing law",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 89,
+            "block_end": 89
+        },
+        "Article 13": {
+            "heading": "Matters determined by governing law",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 90,
+            "block_end": 97
+        },
+        "Article 13(1)(a)": {
+            "heading": "Matters determined by governing law",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 92,
+            "block_end": 93
+        },
+        "Article 13(1)": {
+            "heading": "Matters determined by governing law",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 91,
+            "block_end": 93
+        },
+        "Article 13(2)(a)": {
+            "heading": "Matters determined by governing law",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 95,
+            "block_end": 97
+        },
+        "Article 13(2)": {
+            "heading": "Matters determined by governing law",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 94,
+            "block_end": 97
+        },
+        "Article 14": {
+            "heading": "Limitations in foreign law",
+            "article_number": "14",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 98,
+            "block_end": 109
+        },
+        "Article 14(1)(a)": {
+            "heading": "Limitations in foreign law",
+            "article_number": "14",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 100,
+            "block_end": 100
+        },
+        "Article 14(1)(b)": {
+            "heading": "Limitations in foreign law",
+            "article_number": "14",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 101,
+            "block_end": 102
+        },
+        "Article 14(1)": {
+            "heading": "Limitations in foreign law",
+            "article_number": "14",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 99,
+            "block_end": 102
+        },
+        "Article 14(3)(a)": {
+            "heading": "Limitations in foreign law",
+            "article_number": "14",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 104,
+            "block_end": 105
+        },
+        "Article 14(3)": {
+            "heading": "Limitations in foreign law",
+            "article_number": "14",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 103,
+            "block_end": 105
+        },
+        "Article 14(4)": {
+            "heading": "Limitations in foreign law",
+            "article_number": "14",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 106,
+            "block_end": 106
+        },
+        "Article 14(5)": {
+            "heading": "Limitations in foreign law",
+            "article_number": "14",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 107,
+            "block_end": 109
+        },
+        "Article 15": {
+            "heading": "Heirship rights",
+            "article_number": "15",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 110,
+            "block_end": 112
+        },
+        "Article 16": {
+            "heading": "Foreign judgments",
+            "article_number": "16",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 113,
+            "block_end": 117
+        },
+        "Article 16(1)": {
+            "heading": "Foreign judgments",
+            "article_number": "16",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 114,
+            "block_end": 114
+        },
+        "Article 16(2)(a)": {
+            "heading": "Foreign judgments",
+            "article_number": "16",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 116,
+            "block_end": 117
+        },
+        "Article 16(2)": {
+            "heading": "Foreign judgments",
+            "article_number": "16",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 115,
+            "block_end": 117
+        },
+        "Article 16A": {
+            "heading": "Assertion of jurisdiction over trustee and protector",
+            "article_number": "16A",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 118,
+            "block_end": 123
+        },
+        "Article 16A(1)": {
+            "heading": "Assertion of jurisdiction over trustee and protector",
+            "article_number": "16A",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 119,
+            "block_end": 119
+        },
+        "Article 16A(2)": {
+            "heading": "Assertion of jurisdiction over trustee and protector",
+            "article_number": "16A",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 120,
+            "block_end": 120
+        },
+        "Article 16A(3)": {
+            "heading": "Assertion of jurisdiction over trustee and protector",
+            "article_number": "16A",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 121,
+            "block_end": 123
+        },
+        "Article 17": {
+            "heading": "Place of administration",
+            "article_number": "17",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 124,
+            "block_end": 132
+        },
+        "Article 17(1)(a)": {
+            "heading": "Place of administration",
+            "article_number": "17",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 126,
+            "block_end": 126
+        },
+        "Article 17(1)": {
+            "heading": "Place of administration",
+            "article_number": "17",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 125,
+            "block_end": 126
+        },
+        "Article 17(2)": {
+            "heading": "Place of administration",
+            "article_number": "17",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 127,
+            "block_end": 127
+        },
+        "Article 17(3)": {
+            "heading": "Place of administration",
+            "article_number": "17",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 128,
+            "block_end": 128
+        },
+        "Article 17(4)": {
+            "heading": "Place of administration",
+            "article_number": "17",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 129,
+            "block_end": 132
+        },
+        "Article 18(1)": {
+            "heading": "Role of the Court in administration of trust",
+            "article_number": "18",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 134,
+            "block_end": 134
+        },
+        "Article 19": {
+            "heading": "Jurisdiction of the Court",
+            "article_number": "19",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 135,
+            "block_end": 137
+        },
+        "Article 20": {
+            "heading": "Application to and certain powers of the Court",
+            "article_number": "20",
+            "page_start": 11,
+            "page_end": 12,
+            "block_start": 138,
+            "block_end": 153
+        },
+        "Article 20(1)": {
+            "heading": "Application to and certain powers of the Court",
+            "article_number": "20",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 139,
+            "block_end": 139
+        },
+        "Article 20(2)(a)": {
+            "heading": "Application to and certain powers of the Court",
+            "article_number": "20",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 143,
+            "block_end": 145
+        },
+        "Article 20(2)(i)": {
+            "heading": "Application to and certain powers of the Court",
+            "article_number": "20",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 150,
+            "block_end": 150
+        },
+        "Article 20(2)(a)(iii)": {
+            "heading": "Application to and certain powers of the Court",
+            "article_number": "20",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 144,
+            "block_end": 144
+        },
+        "Article 20(2)(a)(iv)": {
+            "heading": "Application to and certain powers of the Court",
+            "article_number": "20",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 145,
+            "block_end": 145
+        },
+        "Article 20(2)(b)": {
+            "heading": "Application to and certain powers of the Court",
+            "article_number": "20",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 146,
+            "block_end": 148
+        },
+        "Article 20(2)(c)": {
+            "heading": "Application to and certain powers of the Court",
+            "article_number": "20",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 149,
+            "block_end": 149
+        },
+        "Article 20(2)": {
+            "heading": "Application to and certain powers of the Court",
+            "article_number": "20",
+            "page_start": 11,
+            "page_end": 12,
+            "block_start": 140,
+            "block_end": 150
+        },
+        "Article 20(3)(a)": {
+            "heading": "Application to and certain powers of the Court",
+            "article_number": "20",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 152,
+            "block_end": 152
+        },
+        "Article 20(3)": {
+            "heading": "Application to and certain powers of the Court",
+            "article_number": "20",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 151,
+            "block_end": 152
+        },
+        "Article 20(4)": {
+            "heading": "Application to and certain powers of the Court",
+            "article_number": "20",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 153,
+            "block_end": 153
+        },
+        "Article 21": {
+            "heading": "Payment of costs",
+            "article_number": "21",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 154,
+            "block_end": 155
+        },
+        "Article 22": {
+            "heading": "Articles 23 to 28: Interpretation (1) In Articles 23 to 28:",
+            "article_number": "22",
+            "page_start": 12,
+            "page_end": 13,
+            "block_start": 156,
+            "block_end": 163
+        },
+        "Article 22(2)(a)": {
+            "heading": "Articles 23 to 28: Interpretation (1) In Articles 23 to 28:",
+            "article_number": "22",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 159,
+            "block_end": 159
+        },
+        "Article 22(2)(i)": {
+            "heading": "Articles 23 to 28: Interpretation (1) In Articles 23 to 28:",
+            "article_number": "22",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 160,
+            "block_end": 162
+        },
+        "Article 22(2)(b)": {
+            "heading": "Articles 23 to 28: Interpretation (1) In Articles 23 to 28:",
+            "article_number": "22",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 163,
+            "block_end": 163
+        },
+        "Article 22(2)": {
+            "heading": "Articles 23 to 28: Interpretation (1) In Articles 23 to 28:",
+            "article_number": "22",
+            "page_start": 12,
+            "page_end": 13,
+            "block_start": 158,
+            "block_end": 163
+        },
+        "Article 23": {
+            "heading": "Application of powers under Articles 24 to 28",
+            "article_number": "23",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 164,
+            "block_end": 165
+        },
+        "Article 24": {
+            "heading": "Power to set aside a transfer or disposition of property to a trust due to mistake",
+            "article_number": "24",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 166,
+            "block_end": 173
+        },
+        "Article 24(1)": {
+            "heading": "Power to set aside a transfer or disposition of property to a trust due to mistake",
+            "article_number": "24",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 167,
+            "block_end": 167
+        },
+        "Article 24(2)(a)": {
+            "heading": "Power to set aside a transfer or disposition of property to a trust due to mistake",
+            "article_number": "24",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 169,
+            "block_end": 170
+        },
+        "Article 24(2)(c)": {
+            "heading": "Power to set aside a transfer or disposition of property to a trust due to mistake",
+            "article_number": "24",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 171,
+            "block_end": 171
+        },
+        "Article 24(2)": {
+            "heading": "Power to set aside a transfer or disposition of property to a trust due to mistake",
+            "article_number": "24",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 168,
+            "block_end": 171
+        },
+        "Article 24(3)(a)": {
+            "heading": "Power to set aside a transfer or disposition of property to a trust due to mistake",
+            "article_number": "24",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 173,
+            "block_end": 173
+        },
+        "Article 24(3)": {
+            "heading": "Power to set aside a transfer or disposition of property to a trust due to mistake",
+            "article_number": "24",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 172,
+            "block_end": 173
+        },
+        "Article 25": {
+            "heading": "Power to set aside a transfer or disposition of property to a trust exercised by fiduciary power",
+            "article_number": "25",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 174,
+            "block_end": 181
+        },
+        "Article 25(1)": {
+            "heading": "Power to set aside a transfer or disposition of property to a trust exercised by fiduciary power",
+            "article_number": "25",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 175,
+            "block_end": 175
+        },
+        "Article 25(2)(a)": {
+            "heading": "Power to set aside a transfer or disposition of property to a trust exercised by fiduciary power",
+            "article_number": "25",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 177,
+            "block_end": 177
+        },
+        "Article 25(2)": {
+            "heading": "Power to set aside a transfer or disposition of property to a trust exercised by fiduciary power",
+            "article_number": "25",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 176,
+            "block_end": 177
+        },
+        "Article 25(3)(a)": {
+            "heading": "Power to set aside a transfer or disposition of property to a trust exercised by fiduciary power",
+            "article_number": "25",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 180,
+            "block_end": 180
+        },
+        "Article 25(3)": {
+            "heading": "Power to set aside a transfer or disposition of property to a trust exercised by fiduciary power",
+            "article_number": "25",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 178,
+            "block_end": 180
+        },
+        "Article 25(4)": {
+            "heading": "Power to set aside a transfer or disposition of property to a trust exercised by fiduciary power",
+            "article_number": "25",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 181,
+            "block_end": 181
+        },
+        "Article 26": {
+            "heading": "Power to set aside the exercise of powers in relation to a trust or trust property due to mistake",
+            "article_number": "26",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 182,
+            "block_end": 187
+        },
+        "Article 26(1)": {
+            "heading": "Power to set aside the exercise of powers in relation to a trust or trust property due to mistake",
+            "article_number": "26",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 183,
+            "block_end": 183
+        },
+        "Article 26(2)(a)": {
+            "heading": "Power to set aside the exercise of powers in relation to a trust or trust property due to mistake",
+            "article_number": "26",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 185,
+            "block_end": 185
+        },
+        "Article 26(2)": {
+            "heading": "Power to set aside the exercise of powers in relation to a trust or trust property due to mistake",
+            "article_number": "26",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 184,
+            "block_end": 185
+        },
+        "Article 26(3)(a)": {
+            "heading": "Power to set aside the exercise of powers in relation to a trust or trust property due to mistake",
+            "article_number": "26",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 187,
+            "block_end": 187
+        },
+        "Article 26(3)": {
+            "heading": "Power to set aside the exercise of powers in relation to a trust or trust property due to mistake",
+            "article_number": "26",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 186,
+            "block_end": 187
+        },
+        "Article 27": {
+            "heading": "Power to set aside the exercise of fiduciary powers in relation to a trust or trust property",
+            "article_number": "27",
+            "page_start": 14,
+            "page_end": 15,
+            "block_start": 188,
+            "block_end": 195
+        },
+        "Article 27(1)": {
+            "heading": "Power to set aside the exercise of fiduciary powers in relation to a trust or trust property",
+            "article_number": "27",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 189,
+            "block_end": 189
+        },
+        "Article 27(2)(a)": {
+            "heading": "Power to set aside the exercise of fiduciary powers in relation to a trust or trust property",
+            "article_number": "27",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 191,
+            "block_end": 191
+        },
+        "Article 27(2)": {
+            "heading": "Power to set aside the exercise of fiduciary powers in relation to a trust or trust property",
+            "article_number": "27",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 190,
+            "block_end": 191
+        },
+        "Article 27(3)(a)": {
+            "heading": "Power to set aside the exercise of fiduciary powers in relation to a trust or trust property",
+            "article_number": "27",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 193,
+            "block_end": 194
+        },
+        "Article 27(3)": {
+            "heading": "Power to set aside the exercise of fiduciary powers in relation to a trust or trust property",
+            "article_number": "27",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 192,
+            "block_end": 194
+        },
+        "Article 27(4)": {
+            "heading": "Power to set aside the exercise of fiduciary powers in relation to a trust or trust property",
+            "article_number": "27",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 195,
+            "block_end": 195
+        },
+        "Article 28": {
+            "heading": "Applications and orders under Articles 24 to 27",
+            "article_number": "28",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 196,
+            "block_end": 201
+        },
+        "Article 28(1)": {
+            "heading": "Applications and orders under Articles 24 to 27",
+            "article_number": "28",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 197,
+            "block_end": 197
+        },
+        "Article 28(2)(a)": {
+            "heading": "Applications and orders under Articles 24 to 27",
+            "article_number": "28",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 199,
+            "block_end": 199
+        },
+        "Article 28(2)": {
+            "heading": "Applications and orders under Articles 24 to 27",
+            "article_number": "28",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 198,
+            "block_end": 199
+        },
+        "Article 28(3)": {
+            "heading": "Applications and orders under Articles 24 to 27",
+            "article_number": "28",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 200,
+            "block_end": 200
+        },
+        "Article 28(4)": {
+            "heading": "Applications and orders under Articles 24 to 27",
+            "article_number": "28",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 201,
+            "block_end": 201
+        },
+        "Article 29": {
+            "heading": "Savings in respect of applications made under Articles 24 to 27",
+            "article_number": "29",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 202,
+            "block_end": 204
+        },
+        "Article 30": {
+            "heading": "Articles 31, 32 and Schedule 2: Interpretation",
+            "article_number": "30",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 205,
+            "block_end": 212
+        },
+        "Article 31": {
+            "heading": "Arbitration of trust disputes",
+            "article_number": "31",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 213,
+            "block_end": 217
+        },
+        "Article 31(1)": {
+            "heading": "Arbitration of trust disputes",
+            "article_number": "31",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 214,
+            "block_end": 214
+        },
+        "Article 31(2)": {
+            "heading": "Arbitration of trust disputes",
+            "article_number": "31",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 215,
+            "block_end": 215
+        },
+        "Article 31(3)": {
+            "heading": "Arbitration of trust disputes",
+            "article_number": "31",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 216,
+            "block_end": 216
+        },
+        "Article 31(4)": {
+            "heading": "Arbitration of trust disputes",
+            "article_number": "31",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 217,
+            "block_end": 217
+        },
+        "Article 32": {
+            "heading": "Powers of the arbitral tribunal",
+            "article_number": "32",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 218,
+            "block_end": 222
+        },
+        "Article 32(1)": {
+            "heading": "Powers of the arbitral tribunal",
+            "article_number": "32",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 219,
+            "block_end": 219
+        },
+        "Article 32(2)": {
+            "heading": "Powers of the arbitral tribunal",
+            "article_number": "32",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 220,
+            "block_end": 222
+        },
+        "Article 33": {
+            "heading": "Creation of a trust",
+            "article_number": "33",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 223,
+            "block_end": 225
+        },
+        "Article 34": {
+            "heading": "Requirements for creation",
+            "article_number": "34",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 226,
+            "block_end": 230
+        },
+        "Article 34(1)(a)": {
+            "heading": "Requirements for creation",
+            "article_number": "34",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 228,
+            "block_end": 228
+        },
+        "Article 34(1)": {
+            "heading": "Requirements for creation",
+            "article_number": "34",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 227,
+            "block_end": 228
+        },
+        "Article 34(2)": {
+            "heading": "Requirements for creation",
+            "article_number": "34",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 229,
+            "block_end": 229
+        },
+        "Article 34(3)": {
+            "heading": "Requirements for creation",
+            "article_number": "34",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 230,
+            "block_end": 230
+        },
+        "Article 35": {
+            "heading": "Trust purposes",
+            "article_number": "35",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 231,
+            "block_end": 232
+        },
+        "Article 35(1)": {
+            "heading": "Trust purposes",
+            "article_number": "35",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 232,
+            "block_end": 232
+        },
+        "Article 36": {
+            "heading": "Duration of a trust",
+            "article_number": "36",
+            "page_start": 17,
+            "page_end": 18,
+            "block_start": 233,
+            "block_end": 237
+        },
+        "Article 36(1)": {
+            "heading": "Duration of a trust",
+            "article_number": "36",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 234,
+            "block_end": 236
+        },
+        "Article 36(3)": {
+            "heading": "Duration of a trust",
+            "article_number": "36",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 237,
+            "block_end": 237
+        },
+        "Article 37": {
+            "heading": "Validity and invalidity of a trust",
+            "article_number": "37",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 238,
+            "block_end": 244
+        },
+        "Article 37(1)": {
+            "heading": "Validity and invalidity of a trust",
+            "article_number": "37",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 239,
+            "block_end": 239
+        },
+        "Article 37(2)(a)": {
+            "heading": "Validity and invalidity of a trust",
+            "article_number": "37",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 241,
+            "block_end": 241
+        },
+        "Article 37(2)": {
+            "heading": "Validity and invalidity of a trust",
+            "article_number": "37",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 240,
+            "block_end": 241
+        },
+        "Article 37(3)(a)": {
+            "heading": "Validity and invalidity of a trust",
+            "article_number": "37",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 243,
+            "block_end": 243
+        },
+        "Article 37(3)": {
+            "heading": "Validity and invalidity of a trust",
+            "article_number": "37",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 242,
+            "block_end": 243
+        },
+        "Article 37(4)": {
+            "heading": "Validity and invalidity of a trust",
+            "article_number": "37",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 244,
+            "block_end": 244
+        },
+        "Article 38": {
+            "heading": "Charitable trusts",
+            "article_number": "38",
+            "page_start": 18,
+            "page_end": 19,
+            "block_start": 245,
+            "block_end": 253
+        },
+        "Article 38(1)": {
+            "heading": "Charitable trusts",
+            "article_number": "38",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 246,
+            "block_end": 246
+        },
+        "Article 38(2)": {
+            "heading": "Charitable trusts",
+            "article_number": "38",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 247,
+            "block_end": 247
+        },
+        "Article 38(3)(a)": {
+            "heading": "Charitable trusts",
+            "article_number": "38",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 249,
+            "block_end": 251
+        },
+        "Article 38(3)": {
+            "heading": "Charitable trusts",
+            "article_number": "38",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 248,
+            "block_end": 251
+        },
+        "Article 38(4)": {
+            "heading": "Charitable trusts",
+            "article_number": "38",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 252,
+            "block_end": 252
+        },
+        "Article 38(5)": {
+            "heading": "Charitable trusts",
+            "article_number": "38",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 253,
+            "block_end": 253
+        },
+        "Article 39": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 19,
+            "page_end": 20,
+            "block_start": 254,
+            "block_end": 273
+        },
+        "Article 39(1)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 255,
+            "block_end": 255
+        },
+        "Article 39(2)(a)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 257,
+            "block_end": 257
+        },
+        "Article 39(2)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 256,
+            "block_end": 257
+        },
+        "Article 39(3)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 258,
+            "block_end": 258
+        },
+        "Article 39(4)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 259,
+            "block_end": 259
+        },
+        "Article 39(5)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 260,
+            "block_end": 260
+        },
+        "Article 39(6)(a)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 262,
+            "block_end": 262
+        },
+        "Article 39(6)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 261,
+            "block_end": 262
+        },
+        "Article 39(7)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 263,
+            "block_end": 263
+        },
+        "Article 39(8)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 264,
+            "block_end": 264
+        },
+        "Article 39(9)(a)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 266,
+            "block_end": 267
+        },
+        "Article 39(9)(c)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 268,
+            "block_end": 268
+        },
+        "Article 39(9)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 19,
+            "page_end": 20,
+            "block_start": 265,
+            "block_end": 268
+        },
+        "Article 39(10)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 269,
+            "block_end": 269
+        },
+        "Article 39(11)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 270,
+            "block_end": 270
+        },
+        "Article 39(12)(a)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 272,
+            "block_end": 272
+        },
+        "Article 39(12)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 271,
+            "block_end": 272
+        },
+        "Article 39(13)": {
+            "heading": "Non-charitable trusts or purpose trusts",
+            "article_number": "39",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 273,
+            "block_end": 273
+        },
+        "Article 40": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 20,
+            "page_end": 21,
+            "block_start": 274,
+            "block_end": 293
+        },
+        "Article 40(1)(a)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 276,
+            "block_end": 276
+        },
+        "Article 40(1)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 275,
+            "block_end": 276
+        },
+        "Article 40(2)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 277,
+            "block_end": 277
+        },
+        "Article 40(3)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 278,
+            "block_end": 278
+        },
+        "Article 40(4)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 279,
+            "block_end": 279
+        },
+        "Article 40(5)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 280,
+            "block_end": 280
+        },
+        "Article 40(6)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 281,
+            "block_end": 283
+        },
+        "Article 40(7)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 284,
+            "block_end": 284
+        },
+        "Article 40(8)(a)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 286,
+            "block_end": 286
+        },
+        "Article 40(8)(b)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 287,
+            "block_end": 287
+        },
+        "Article 40(8)(c)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 288,
+            "block_end": 289
+        },
+        "Article 40(8)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 285,
+            "block_end": 289
+        },
+        "Article 40(9)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 290,
+            "block_end": 290
+        },
+        "Article 40(10)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 291,
+            "block_end": 291
+        },
+        "Article 40(11)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 292,
+            "block_end": 292
+        },
+        "Article 40(12)": {
+            "heading": "Variation and revocation of a trust",
+            "article_number": "40",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 293,
+            "block_end": 293
+        },
+        "Article 41": {
+            "heading": "Power of Court to authorise dealings with trust property",
+            "article_number": "41",
+            "page_start": 21,
+            "page_end": 22,
+            "block_start": 294,
+            "block_end": 300
+        },
+        "Article 41(1)": {
+            "heading": "Power of Court to authorise dealings with trust property",
+            "article_number": "41",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 295,
+            "block_end": 295
+        },
+        "Article 41(2)": {
+            "heading": "Power of Court to authorise dealings with trust property",
+            "article_number": "41",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 296,
+            "block_end": 296
+        },
+        "Article 41(3)": {
+            "heading": "Power of Court to authorise dealings with trust property",
+            "article_number": "41",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 297,
+            "block_end": 297
+        },
+        "Article 41(4)": {
+            "heading": "Power of Court to authorise dealings with trust property",
+            "article_number": "41",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 298,
+            "block_end": 299
+        },
+        "Article 41(5)": {
+            "heading": "Power of Court to authorise dealings with trust property",
+            "article_number": "41",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 300,
+            "block_end": 300
+        },
+        "Article 42": {
+            "heading": "Failure or lapse of interest",
+            "article_number": "42",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 301,
+            "block_end": 304
+        },
+        "Article 42(1)(a)": {
+            "heading": "Failure or lapse of interest",
+            "article_number": "42",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 303,
+            "block_end": 303
+        },
+        "Article 42(1)": {
+            "heading": "Failure or lapse of interest",
+            "article_number": "42",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 302,
+            "block_end": 303
+        },
+        "Article 42(2)": {
+            "heading": "Failure or lapse of interest",
+            "article_number": "42",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 304,
+            "block_end": 304
+        },
+        "Article 43": {
+            "heading": "Termination of a trust",
+            "article_number": "43",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 305,
+            "block_end": 310
+        },
+        "Article 43(1)(a)": {
+            "heading": "Termination of a trust",
+            "article_number": "43",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 307,
+            "block_end": 307
+        },
+        "Article 43(1)": {
+            "heading": "Termination of a trust",
+            "article_number": "43",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 306,
+            "block_end": 307
+        },
+        "Article 43(2)(a)": {
+            "heading": "Termination of a trust",
+            "article_number": "43",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 309,
+            "block_end": 309
+        },
+        "Article 43(2)": {
+            "heading": "Termination of a trust",
+            "article_number": "43",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 308,
+            "block_end": 309
+        },
+        "Article 43(3)": {
+            "heading": "Termination of a trust",
+            "article_number": "43",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 310,
+            "block_end": 310
+        },
+        "Article 44": {
+            "heading": "Distribution of property",
+            "article_number": "44",
+            "page_start": 22,
+            "page_end": 24,
+            "block_start": 311,
+            "block_end": 319
+        },
+        "Article 44(1)": {
+            "heading": "Distribution of property",
+            "article_number": "44",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 312,
+            "block_end": 312
+        },
+        "Article 44(2)": {
+            "heading": "Distribution of property",
+            "article_number": "44",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 313,
+            "block_end": 313
+        },
+        "Article 44(3)(a)": {
+            "heading": "Distribution of property",
+            "article_number": "44",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 315,
+            "block_end": 316
+        },
+        "Article 44(3)(b)": {
+            "heading": "Distribution of property",
+            "article_number": "44",
+            "page_start": 23,
+            "page_end": 24,
+            "block_start": 317,
+            "block_end": 319
+        },
+        "Article 44(3)": {
+            "heading": "Distribution of property",
+            "article_number": "44",
+            "page_start": 22,
+            "page_end": 24,
+            "block_start": 314,
+            "block_end": 319
+        },
+        "Article 45(2)": {
+            "heading": "Beneficiaries of a trust (1) A beneficiary shall be:",
+            "article_number": "45",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 323,
+            "block_end": 323
+        },
+        "Article 46": {
+            "heading": "Disclaimer",
+            "article_number": "46",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 324,
+            "block_end": 325
+        },
+        "Article 46(1)": {
+            "heading": "Disclaimer",
+            "article_number": "46",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 325,
+            "block_end": 325
+        },
+        "Article 47": {
+            "heading": "Interest of beneficiary and dealings thereof",
+            "article_number": "47",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 326,
+            "block_end": 327
+        },
+        "Article 47(1)": {
+            "heading": "Interest of beneficiary and dealings thereof",
+            "article_number": "47",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 327,
+            "block_end": 327
+        },
+        "Article 48": {
+            "heading": "Termination of interest of beneficiary upon trust being challenged",
+            "article_number": "48",
+            "page_start": 24,
+            "page_end": 26,
+            "block_start": 328,
+            "block_end": 336
+        },
+        "Article 48(1)(a)": {
+            "heading": "Termination of interest of beneficiary upon trust being challenged",
+            "article_number": "48",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 330,
+            "block_end": 330
+        },
+        "Article 48(1)": {
+            "heading": "Termination of interest of beneficiary upon trust being challenged",
+            "article_number": "48",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 329,
+            "block_end": 330
+        },
+        "Article 48(2)": {
+            "heading": "Termination of interest of beneficiary upon trust being challenged",
+            "article_number": "48",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 331,
+            "block_end": 332
+        },
+        "Article 48(3)(a)": {
+            "heading": "Termination of interest of beneficiary upon trust being challenged",
+            "article_number": "48",
+            "page_start": 25,
+            "page_end": 26,
+            "block_start": 334,
+            "block_end": 336
+        },
+        "Article 48(3)": {
+            "heading": "Termination of interest of beneficiary upon trust being challenged",
+            "article_number": "48",
+            "page_start": 25,
+            "page_end": 26,
+            "block_start": 333,
+            "block_end": 336
+        },
+        "Article 49(1)": {
+            "heading": "Protective trusts",
+            "article_number": "49",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 338,
+            "block_end": 338
+        },
+        "Article 49(2)(a)": {
+            "heading": "Protective trusts",
+            "article_number": "49",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 340,
+            "block_end": 340
+        },
+        "Article 49(2)": {
+            "heading": "Protective trusts",
+            "article_number": "49",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 339,
+            "block_end": 340
+        },
+        "Article 49(3)": {
+            "heading": "Protective trusts",
+            "article_number": "49",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 341,
+            "block_end": 341
+        },
+        "Article 49(4)": {
+            "heading": "Protective trusts",
+            "article_number": "49",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 342,
+            "block_end": 342
+        },
+        "Article 49(5)(a)": {
+            "heading": "Protective trusts",
+            "article_number": "49",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 344,
+            "block_end": 344
+        },
+        "Article 49(5)": {
+            "heading": "Protective trusts",
+            "article_number": "49",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 343,
+            "block_end": 344
+        },
+        "Article 49(6)": {
+            "heading": "Protective trusts",
+            "article_number": "49",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 345,
+            "block_end": 345
+        },
+        "Article 50": {
+            "heading": "Creditors’ claim in relation to a discretionary trust",
+            "article_number": "50",
+            "page_start": 26,
+            "page_end": 27,
+            "block_start": 346,
+            "block_end": 354
+        },
+        "Article 50(1)": {
+            "heading": "Creditors’ claim in relation to a discretionary trust",
+            "article_number": "50",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 347,
+            "block_end": 347
+        },
+        "Article 50(2)(a)": {
+            "heading": "Creditors’ claim in relation to a discretionary trust",
+            "article_number": "50",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 349,
+            "block_end": 349
+        },
+        "Article 50(2)": {
+            "heading": "Creditors’ claim in relation to a discretionary trust",
+            "article_number": "50",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 348,
+            "block_end": 349
+        },
+        "Article 50(3)(a)": {
+            "heading": "Creditors’ claim in relation to a discretionary trust",
+            "article_number": "50",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 353,
+            "block_end": 353
+        },
+        "Article 50(3)": {
+            "heading": "Creditors’ claim in relation to a discretionary trust",
+            "article_number": "50",
+            "page_start": 26,
+            "page_end": 27,
+            "block_start": 350,
+            "block_end": 353
+        },
+        "Article 50(4)": {
+            "heading": "Creditors’ claim in relation to a discretionary trust",
+            "article_number": "50",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 354,
+            "block_end": 354
+        },
+        "Article 50A": {
+            "heading": "General power of appointment granted to a beneficiary",
+            "article_number": "50A",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 355,
+            "block_end": 358
+        },
+        "Article 50B": {
+            "heading": "Right of revocation retained by settlor",
+            "article_number": "50B",
+            "page_start": 27,
+            "page_end": 28,
+            "block_start": 359,
+            "block_end": 362
+        },
+        "Article 51(1)(a)": {
+            "heading": "Accepting or declining trusteeship",
+            "article_number": "51",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 365,
+            "block_end": 365
+        },
+        "Article 51(1)": {
+            "heading": "Accepting or declining trusteeship",
+            "article_number": "51",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 364,
+            "block_end": 365
+        },
+        "Article 51(2)": {
+            "heading": "Accepting or declining trusteeship",
+            "article_number": "51",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 366,
+            "block_end": 366
+        },
+        "Article 51(3)(a)": {
+            "heading": "Accepting or declining trusteeship",
+            "article_number": "51",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 368,
+            "block_end": 368
+        },
+        "Article 51(3)": {
+            "heading": "Accepting or declining trusteeship",
+            "article_number": "51",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 367,
+            "block_end": 368
+        },
+        "Article 51(4)": {
+            "heading": "Accepting or declining trusteeship",
+            "article_number": "51",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 369,
+            "block_end": 369
+        },
+        "Article 52": {
+            "heading": "Vacancy in trusteeship and appointment of a new trustee",
+            "article_number": "52",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 370,
+            "block_end": 374
+        },
+        "Article 52(1)(a)": {
+            "heading": "Vacancy in trusteeship and appointment of a new trustee",
+            "article_number": "52",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 372,
+            "block_end": 374
+        },
+        "Article 52(1)": {
+            "heading": "Vacancy in trusteeship and appointment of a new trustee",
+            "article_number": "52",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 371,
+            "block_end": 374
+        },
+        "Article 53": {
+            "heading": "Resignation of trustee",
+            "article_number": "53",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 375,
+            "block_end": 378
+        },
+        "Article 53(1)(a)": {
+            "heading": "Resignation of trustee",
+            "article_number": "53",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 377,
+            "block_end": 377
+        },
+        "Article 53(1)": {
+            "heading": "Resignation of trustee",
+            "article_number": "53",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 376,
+            "block_end": 377
+        },
+        "Article 53(2)": {
+            "heading": "Resignation of trustee",
+            "article_number": "53",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 378,
+            "block_end": 378
+        },
+        "Article 54": {
+            "heading": "Removal of trustee by Court or under the terms of a trust",
+            "article_number": "54",
+            "page_start": 29,
+            "page_end": 30,
+            "block_start": 379,
+            "block_end": 386
+        },
+        "Article 54(1)": {
+            "heading": "Removal of trustee by Court or under the terms of a trust",
+            "article_number": "54",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 380,
+            "block_end": 380
+        },
+        "Article 54(2)(a)": {
+            "heading": "Removal of trustee by Court or under the terms of a trust",
+            "article_number": "54",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 382,
+            "block_end": 382
+        },
+        "Article 54(2)": {
+            "heading": "Removal of trustee by Court or under the terms of a trust",
+            "article_number": "54",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 381,
+            "block_end": 382
+        },
+        "Article 54(3)": {
+            "heading": "Removal of trustee by Court or under the terms of a trust",
+            "article_number": "54",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 383,
+            "block_end": 385
+        },
+        "Article 54(4)": {
+            "heading": "Removal of trustee by Court or under the terms of a trust",
+            "article_number": "54",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 386,
+            "block_end": 386
+        },
+        "Article 55": {
+            "heading": "Position of outgoing trustee",
+            "article_number": "55",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 387,
+            "block_end": 392
+        },
+        "Article 55(1)": {
+            "heading": "Position of outgoing trustee",
+            "article_number": "55",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 388,
+            "block_end": 388
+        },
+        "Article 55(2)": {
+            "heading": "Position of outgoing trustee",
+            "article_number": "55",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 389,
+            "block_end": 389
+        },
+        "Article 55(3)": {
+            "heading": "Position of outgoing trustee",
+            "article_number": "55",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 390,
+            "block_end": 390
+        },
+        "Article 55(4)(a)": {
+            "heading": "Position of outgoing trustee",
+            "article_number": "55",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 392,
+            "block_end": 392
+        },
+        "Article 55(4)": {
+            "heading": "Position of outgoing trustee",
+            "article_number": "55",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 391,
+            "block_end": 392
+        },
+        "Article 56": {
+            "heading": "Remuneration of a trustee",
+            "article_number": "56",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 393,
+            "block_end": 399
+        },
+        "Article 56(1)(a)": {
+            "heading": "Remuneration of a trustee",
+            "article_number": "56",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 395,
+            "block_end": 396
+        },
+        "Article 56(1)": {
+            "heading": "Remuneration of a trustee",
+            "article_number": "56",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 394,
+            "block_end": 396
+        },
+        "Article 56(2)(a)": {
+            "heading": "Remuneration of a trustee",
+            "article_number": "56",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 398,
+            "block_end": 398
+        },
+        "Article 56(2)": {
+            "heading": "Remuneration of a trustee",
+            "article_number": "56",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 397,
+            "block_end": 398
+        },
+        "Article 56(3)": {
+            "heading": "Remuneration of a trustee",
+            "article_number": "56",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 399,
+            "block_end": 399
+        },
+        "Article 57": {
+            "heading": "Advisory trustees",
+            "article_number": "57",
+            "page_start": 30,
+            "page_end": 31,
+            "block_start": 400,
+            "block_end": 407
+        },
+        "Article 57(1)(a)": {
+            "heading": "Advisory trustees",
+            "article_number": "57",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 405,
+            "block_end": 405
+        },
+        "Article 57(1)": {
+            "heading": "Advisory trustees",
+            "article_number": "57",
+            "page_start": 30,
+            "page_end": 31,
+            "block_start": 401,
+            "block_end": 405
+        },
+        "Article 57(4)": {
+            "heading": "Advisory trustees",
+            "article_number": "57",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 406,
+            "block_end": 406
+        },
+        "Article 57(5)": {
+            "heading": "Advisory trustees",
+            "article_number": "57",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 407,
+            "block_end": 407
+        },
+        "Article 58": {
+            "heading": "Custodian trustees",
+            "article_number": "58",
+            "page_start": 31,
+            "page_end": 34,
+            "block_start": 408,
+            "block_end": 433
+        },
+        "Article 58(1)": {
+            "heading": "Custodian trustees",
+            "article_number": "58",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 409,
+            "block_end": 409
+        },
+        "Article 58(2)(a)": {
+            "heading": "Custodian trustees",
+            "article_number": "58",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 413,
+            "block_end": 413
+        },
+        "Article 58(2)(b)": {
+            "heading": "Custodian trustees",
+            "article_number": "58",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 414,
+            "block_end": 414
+        },
+        "Article 58(2)(c)": {
+            "heading": "Custodian trustees",
+            "article_number": "58",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 415,
+            "block_end": 415
+        },
+        "Article 58(2)(d)": {
+            "heading": "Custodian trustees",
+            "article_number": "58",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 416,
+            "block_end": 417
+        },
+        "Article 58(2)(i)(ii)": {
+            "heading": "Custodian trustees",
+            "article_number": "58",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 419,
+            "block_end": 419
+        },
+        "Article 58(2)(i)(iv)": {
+            "heading": "Custodian trustees",
+            "article_number": "58",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 421,
+            "block_end": 421
+        },
+        "Article 58(2)(i)": {
+            "heading": "Custodian trustees",
+            "article_number": "58",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 426,
+            "block_end": 426
+        },
+        "Article 58(2)(v)": {
+            "heading": "Custodian trustees",
+            "article_number": "58",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 422,
+            "block_end": 422
+        },
+        "Article 58(2)(f)": {
+            "heading": "Custodian trustees",
+            "article_number": "58",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 423,
+            "block_end": 424
+        },
+        "Article 58(2)(h)": {
+            "heading": "Custodian trustees",
+            "article_number": "58",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 425,
+            "block_end": 425
+        },
+        "Article 58(2)": {
+            "heading": "Custodian trustees",
+            "article_number": "58",
+            "page_start": 31,
+            "page_end": 32,
+            "block_start": 410,
+            "block_end": 426
+        },
+        "Article 58(3)": {
+            "heading": "Custodian trustees",
+            "article_number": "58",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 427,
+            "block_end": 427
+        },
+        "Article 58(4)": {
+            "heading": "Custodian trustees",
+            "article_number": "58",
+            "page_start": 32,
+            "page_end": 34,
+            "block_start": 428,
+            "block_end": 433
+        },
+        "Article 59(1)(a)": {
+            "heading": "Duty to administer a trust",
+            "article_number": "59",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 436,
+            "block_end": 437
+        },
+        "Article 59(1)": {
+            "heading": "Duty to administer a trust",
+            "article_number": "59",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 435,
+            "block_end": 437
+        },
+        "Article 59(2)": {
+            "heading": "Duty to administer a trust",
+            "article_number": "59",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 438,
+            "block_end": 438
+        },
+        "Article 60": {
+            "heading": "Duties of trustees",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 35,
+            "block_start": 439,
+            "block_end": 452
+        },
+        "Article 60(1)": {
+            "heading": "Duties of trustees",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 440,
+            "block_end": 440
+        },
+        "Article 60(3)(a)": {
+            "heading": "Duties of trustees",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 442,
+            "block_end": 442
+        },
+        "Article 60(3)": {
+            "heading": "Duties of trustees",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 441,
+            "block_end": 442
+        },
+        "Article 60(4)": {
+            "heading": "Duties of trustees",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 443,
+            "block_end": 443
+        },
+        "Article 60(5)": {
+            "heading": "Duties of trustees",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 444,
+            "block_end": 444
+        },
+        "Article 60(6)(a)": {
+            "heading": "Duties of trustees",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 446,
+            "block_end": 447
+        },
+        "Article 60(6)(b)": {
+            "heading": "Duties of trustees",
+            "article_number": "60",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 448,
+            "block_end": 448
+        },
+        "Article 60(6)": {
+            "heading": "Duties of trustees",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 35,
+            "block_start": 445,
+            "block_end": 448
+        },
+        "Article 60(7)(a)": {
+            "heading": "Duties of trustees",
+            "article_number": "60",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 450,
+            "block_end": 450
+        },
+        "Article 60(7)": {
+            "heading": "Duties of trustees",
+            "article_number": "60",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 449,
+            "block_end": 450
+        },
+        "Article 60(8)": {
+            "heading": "Duties of trustees",
+            "article_number": "60",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 451,
+            "block_end": 451
+        },
+        "Article 60(9)": {
+            "heading": "Duties of trustees",
+            "article_number": "60",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 452,
+            "block_end": 452
+        },
+        "Article 61": {
+            "heading": "Duties of co-trustees to act together",
+            "article_number": "61",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 453,
+            "block_end": 454
+        },
+        "Article 61(1)": {
+            "heading": "Duties of co-trustees to act together",
+            "article_number": "61",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 454,
+            "block_end": 454
+        },
+        "Article 62": {
+            "heading": "Impartiality of a trustee",
+            "article_number": "62",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 455,
+            "block_end": 456
+        },
+        "Article 63": {
+            "heading": "Cost of administration",
+            "article_number": "63",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 457,
+            "block_end": 459
+        },
+        "Article 64": {
+            "heading": "Enforcement and defence of claims",
+            "article_number": "64",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 460,
+            "block_end": 461
+        },
+        "Article 65": {
+            "heading": "Collecting trust property",
+            "article_number": "65",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 462,
+            "block_end": 463
+        },
+        "Article 66": {
+            "heading": "Duty to inform and report",
+            "article_number": "66",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 464,
+            "block_end": 470
+        },
+        "Article 66(1)": {
+            "heading": "Duty to inform and report",
+            "article_number": "66",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 465,
+            "block_end": 465
+        },
+        "Article 66(2)(a)": {
+            "heading": "Duty to inform and report",
+            "article_number": "66",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 467,
+            "block_end": 467
+        },
+        "Article 66(2)": {
+            "heading": "Duty to inform and report",
+            "article_number": "66",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 466,
+            "block_end": 467
+        },
+        "Article 66(3)(a)": {
+            "heading": "Duty to inform and report",
+            "article_number": "66",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 469,
+            "block_end": 470
+        },
+        "Article 66(3)": {
+            "heading": "Duty to inform and report",
+            "article_number": "66",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 468,
+            "block_end": 470
+        },
+        "Article 67(1)(a)": {
+            "heading": "Powers of trustee",
+            "article_number": "67",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 473,
+            "block_end": 473
+        },
+        "Article 67(1)": {
+            "heading": "Powers of trustee",
+            "article_number": "67",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 472,
+            "block_end": 473
+        },
+        "Article 67(2)": {
+            "heading": "Powers of trustee",
+            "article_number": "67",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 474,
+            "block_end": 474
+        },
+        "Article 68": {
+            "heading": "Specific powers of trustees",
+            "article_number": "68",
+            "page_start": 36,
+            "page_end": 38,
+            "block_start": 475,
+            "block_end": 508
+        },
+        "Article 69": {
+            "heading": "Power of accumulation and advancement",
+            "article_number": "69",
+            "page_start": 38,
+            "page_end": 39,
+            "block_start": 509,
+            "block_end": 519
+        },
+        "Article 69(1)": {
+            "heading": "Power of accumulation and advancement",
+            "article_number": "69",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 510,
+            "block_end": 512
+        },
+        "Article 69(2)": {
+            "heading": "Power of accumulation and advancement",
+            "article_number": "69",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 513,
+            "block_end": 513
+        },
+        "Article 69(3)(a)": {
+            "heading": "Power of accumulation and advancement",
+            "article_number": "69",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 515,
+            "block_end": 515
+        },
+        "Article 69(3)(i)": {
+            "heading": "Power of accumulation and advancement",
+            "article_number": "69",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 516,
+            "block_end": 517
+        },
+        "Article 69(3)(c)": {
+            "heading": "Power of accumulation and advancement",
+            "article_number": "69",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 518,
+            "block_end": 519
+        },
+        "Article 69(3)": {
+            "heading": "Power of accumulation and advancement",
+            "article_number": "69",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 514,
+            "block_end": 519
+        },
+        "Article 70": {
+            "heading": "Delegation by a trustee",
+            "article_number": "70",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 520,
+            "block_end": 529
+        },
+        "Article 70(1)": {
+            "heading": "Delegation by a trustee",
+            "article_number": "70",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 521,
+            "block_end": 521
+        },
+        "Article 70(2)(a)": {
+            "heading": "Delegation by a trustee",
+            "article_number": "70",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 523,
+            "block_end": 523
+        },
+        "Article 70(2)": {
+            "heading": "Delegation by a trustee",
+            "article_number": "70",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 522,
+            "block_end": 523
+        },
+        "Article 70(3)": {
+            "heading": "Delegation by a trustee",
+            "article_number": "70",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 524,
+            "block_end": 524
+        },
+        "Article 70(4)": {
+            "heading": "Delegation by a trustee",
+            "article_number": "70",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 525,
+            "block_end": 525
+        },
+        "Article 70(5)": {
+            "heading": "Delegation by a trustee",
+            "article_number": "70",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 526,
+            "block_end": 526
+        },
+        "Article 70(6)": {
+            "heading": "Delegation by a trustee",
+            "article_number": "70",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 527,
+            "block_end": 529
+        },
+        "Article 71": {
+            "heading": "Corporate trustee may act by resolution",
+            "article_number": "71",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 530,
+            "block_end": 532
+        },
+        "Article 72": {
+            "heading": "Combination and division of trusts",
+            "article_number": "72",
+            "page_start": 40,
+            "page_end": 41,
+            "block_start": 533,
+            "block_end": 543
+        },
+        "Article 72(1)": {
+            "heading": "Combination and division of trusts",
+            "article_number": "72",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 534,
+            "block_end": 534
+        },
+        "Article 72(2)(a)": {
+            "heading": "Combination and division of trusts",
+            "article_number": "72",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 536,
+            "block_end": 536
+        },
+        "Article 72(2)": {
+            "heading": "Combination and division of trusts",
+            "article_number": "72",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 535,
+            "block_end": 536
+        },
+        "Article 72(3)": {
+            "heading": "Combination and division of trusts",
+            "article_number": "72",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 537,
+            "block_end": 537
+        },
+        "Article 72(4)": {
+            "heading": "Combination and division of trusts",
+            "article_number": "72",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 538,
+            "block_end": 538
+        },
+        "Article 72(5)(a)": {
+            "heading": "Combination and division of trusts",
+            "article_number": "72",
+            "page_start": 40,
+            "page_end": 41,
+            "block_start": 540,
+            "block_end": 543
+        },
+        "Article 72(5)": {
+            "heading": "Combination and division of trusts",
+            "article_number": "72",
+            "page_start": 40,
+            "page_end": 41,
+            "block_start": 539,
+            "block_end": 543
+        },
+        "Article 73(1)": {
+            "heading": "Liability for breach of trust",
+            "article_number": "73",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 545,
+            "block_end": 545
+        },
+        "Article 73(2)(a)": {
+            "heading": "Liability for breach of trust",
+            "article_number": "73",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 547,
+            "block_end": 547
+        },
+        "Article 73(2)": {
+            "heading": "Liability for breach of trust",
+            "article_number": "73",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 546,
+            "block_end": 547
+        },
+        "Article 73(3)": {
+            "heading": "Liability for breach of trust",
+            "article_number": "73",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 548,
+            "block_end": 549
+        },
+        "Article 73(5)(a)": {
+            "heading": "Liability for breach of trust",
+            "article_number": "73",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 551,
+            "block_end": 551
+        },
+        "Article 73(5)": {
+            "heading": "Liability for breach of trust",
+            "article_number": "73",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 550,
+            "block_end": 551
+        },
+        "Article 73(6)(a)": {
+            "heading": "Liability for breach of trust",
+            "article_number": "73",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 553,
+            "block_end": 553
+        },
+        "Article 73(6)": {
+            "heading": "Liability for breach of trust",
+            "article_number": "73",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 552,
+            "block_end": 553
+        },
+        "Article 73(7)(a)": {
+            "heading": "Liability for breach of trust",
+            "article_number": "73",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 555,
+            "block_end": 555
+        },
+        "Article 73(7)": {
+            "heading": "Liability for breach of trust",
+            "article_number": "73",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 554,
+            "block_end": 555
+        },
+        "Article 74": {
+            "heading": "Remedies for breach of trust",
+            "article_number": "74",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 556,
+            "block_end": 560
+        },
+        "Article 75": {
+            "heading": "Damages in absence of a breach",
+            "article_number": "75",
+            "page_start": 42,
+            "page_end": 42,
+            "block_start": 561,
+            "block_end": 562
+        },
+        "Article 75(1)": {
+            "heading": "Damages in absence of a breach",
+            "article_number": "75",
+            "page_start": 42,
+            "page_end": 42,
+            "block_start": 562,
+            "block_end": 562
+        },
+        "Article 76": {
+            "heading": "Legal fees and costs",
+            "article_number": "76",
+            "page_start": 42,
+            "page_end": 42,
+            "block_start": 563,
+            "block_end": 564
+        },
+        "Article 77": {
+            "heading": "Limitation of action against trustee",
+            "article_number": "77",
+            "page_start": 42,
+            "page_end": 43,
+            "block_start": 565,
+            "block_end": 576
+        },
+        "Article 77(1)": {
+            "heading": "Limitation of action against trustee",
+            "article_number": "77",
+            "page_start": 42,
+            "page_end": 42,
+            "block_start": 566,
+            "block_end": 566
+        },
+        "Article 77(2)": {
+            "heading": "Limitation of action against trustee",
+            "article_number": "77",
+            "page_start": 42,
+            "page_end": 42,
+            "block_start": 567,
+            "block_end": 567
+        },
+        "Article 77(3)(a)": {
+            "heading": "Limitation of action against trustee",
+            "article_number": "77",
+            "page_start": 42,
+            "page_end": 42,
+            "block_start": 569,
+            "block_end": 569
+        },
+        "Article 77(3)": {
+            "heading": "Limitation of action against trustee",
+            "article_number": "77",
+            "page_start": 42,
+            "page_end": 42,
+            "block_start": 568,
+            "block_end": 569
+        },
+        "Article 77(4)(a)": {
+            "heading": "Limitation of action against trustee",
+            "article_number": "77",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 573,
+            "block_end": 573
+        },
+        "Article 77(4)(b)": {
+            "heading": "Limitation of action against trustee",
+            "article_number": "77",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 574,
+            "block_end": 574
+        },
+        "Article 77(4)(i)": {
+            "heading": "Limitation of action against trustee",
+            "article_number": "77",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 575,
+            "block_end": 575
+        },
+        "Article 77(4)": {
+            "heading": "Limitation of action against trustee",
+            "article_number": "77",
+            "page_start": 42,
+            "page_end": 43,
+            "block_start": 570,
+            "block_end": 575
+        },
+        "Article 77(5)": {
+            "heading": "Limitation of action against trustee",
+            "article_number": "77",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 576,
+            "block_end": 576
+        },
+        "Article 78": {
+            "heading": "Reliance on trust instrument",
+            "article_number": "78",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 577,
+            "block_end": 578
+        },
+        "Article 79": {
+            "heading": "Exculpation or insurance of trustee",
+            "article_number": "79",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 579,
+            "block_end": 583
+        },
+        "Article 79(1)(a)": {
+            "heading": "Exculpation or insurance of trustee",
+            "article_number": "79",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 581,
+            "block_end": 581
+        },
+        "Article 79(1)": {
+            "heading": "Exculpation or insurance of trustee",
+            "article_number": "79",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 580,
+            "block_end": 581
+        },
+        "Article 79(2)(a)": {
+            "heading": "Exculpation or insurance of trustee",
+            "article_number": "79",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 583,
+            "block_end": 583
+        },
+        "Article 79(2)": {
+            "heading": "Exculpation or insurance of trustee",
+            "article_number": "79",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 582,
+            "block_end": 583
+        },
+        "Article 80": {
+            "heading": "Beneficiary’s consent, release or ratification",
+            "article_number": "80",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 584,
+            "block_end": 589
+        },
+        "Article 80(1)(a)": {
+            "heading": "Beneficiary’s consent, release or ratification",
+            "article_number": "80",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 586,
+            "block_end": 586
+        },
+        "Article 80(1)": {
+            "heading": "Beneficiary’s consent, release or ratification",
+            "article_number": "80",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 585,
+            "block_end": 586
+        },
+        "Article 80(2)": {
+            "heading": "Beneficiary’s consent, release or ratification",
+            "article_number": "80",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 587,
+            "block_end": 589
+        },
+        "Article 81": {
+            "heading": "Limitation on personal liability of trustee",
+            "article_number": "81",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 590,
+            "block_end": 591
+        },
+        "Article 81(1)": {
+            "heading": "Limitation on personal liability of trustee",
+            "article_number": "81",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 591,
+            "block_end": 591
+        },
+        "Article 82": {
+            "heading": "Protection of persons dealing with trustees",
+            "article_number": "82",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 592,
+            "block_end": 597
+        },
+        "Article 82(1)": {
+            "heading": "Protection of persons dealing with trustees",
+            "article_number": "82",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 593,
+            "block_end": 593
+        },
+        "Article 82(2)": {
+            "heading": "Protection of persons dealing with trustees",
+            "article_number": "82",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 594,
+            "block_end": 594
+        },
+        "Article 82(3)": {
+            "heading": "Protection of persons dealing with trustees",
+            "article_number": "82",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 595,
+            "block_end": 595
+        },
+        "Article 82(4)": {
+            "heading": "Protection of persons dealing with trustees",
+            "article_number": "82",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 596,
+            "block_end": 596
+        },
+        "Article 82(5)": {
+            "heading": "Protection of persons dealing with trustees",
+            "article_number": "82",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 597,
+            "block_end": 597
+        },
+        "Article 83": {
+            "heading": "Trustees of more than one trust",
+            "article_number": "83",
+            "page_start": 44,
+            "page_end": 45,
+            "block_start": 598,
+            "block_end": 601
+        },
+        "Article 84(1)(a)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 604,
+            "block_end": 604
+        },
+        "Article 84(1)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 603,
+            "block_end": 604
+        },
+        "Article 84(2)(a)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 606,
+            "block_end": 606
+        },
+        "Article 84(2)(c)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 607,
+            "block_end": 607
+        },
+        "Article 84(2)(d)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 608,
+            "block_end": 608
+        },
+        "Article 84(2)(e)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 609,
+            "block_end": 610
+        },
+        "Article 84(2)(g)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 611,
+            "block_end": 611
+        },
+        "Article 84(2)(h)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 612,
+            "block_end": 613
+        },
+        "Article 84(2)(k)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 614,
+            "block_end": 614
+        },
+        "Article 84(2)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 45,
+            "page_end": 46,
+            "block_start": 605,
+            "block_end": 614
+        },
+        "Article 84(3)(a)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 616,
+            "block_end": 616
+        },
+        "Article 84(3)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 615,
+            "block_end": 616
+        },
+        "Article 84(4)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 617,
+            "block_end": 617
+        },
+        "Article 84(5)(a)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 619,
+            "block_end": 620
+        },
+        "Article 84(5)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 618,
+            "block_end": 620
+        },
+        "Article 84(6)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 621,
+            "block_end": 622
+        },
+        "Article 84(8)(a)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 624,
+            "block_end": 624
+        },
+        "Article 84(8)(b)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 625,
+            "block_end": 627
+        },
+        "Article 84(8)": {
+            "heading": "Reserved and restricted powers",
+            "article_number": "84",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 623,
+            "block_end": 627
+        },
+        "Article 85": {
+            "heading": "Incapacitation of protector or settlor",
+            "article_number": "85",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 628,
+            "block_end": 634
+        },
+        "Article 85(1)": {
+            "heading": "Incapacitation of protector or settlor",
+            "article_number": "85",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 629,
+            "block_end": 629
+        },
+        "Article 85(2)": {
+            "heading": "Incapacitation of protector or settlor",
+            "article_number": "85",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 630,
+            "block_end": 630
+        },
+        "Article 85(3)(a)": {
+            "heading": "Incapacitation of protector or settlor",
+            "article_number": "85",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 632,
+            "block_end": 632
+        },
+        "Article 85(3)(b)": {
+            "heading": "Incapacitation of protector or settlor",
+            "article_number": "85",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 633,
+            "block_end": 633
+        },
+        "Article 85(3)": {
+            "heading": "Incapacitation of protector or settlor",
+            "article_number": "85",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 631,
+            "block_end": 633
+        },
+        "Article 85(4)": {
+            "heading": "Incapacitation of protector or settlor",
+            "article_number": "85",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 634,
+            "block_end": 634
+        },
+        "Article 85A": {
+            "heading": "Duress",
+            "article_number": "85A",
+            "page_start": 47,
+            "page_end": 48,
+            "block_start": 635,
+            "block_end": 641
+        },
+        "Article 85A(1)(a)": {
+            "heading": "Duress",
+            "article_number": "85A",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 637,
+            "block_end": 637
+        },
+        "Article 85A(1)(b)": {
+            "heading": "Duress",
+            "article_number": "85A",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 638,
+            "block_end": 638
+        },
+        "Article 85A(1)": {
+            "heading": "Duress",
+            "article_number": "85A",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 636,
+            "block_end": 638
+        },
+        "Article 85A(2)": {
+            "heading": "Duress",
+            "article_number": "85A",
+            "page_start": 47,
+            "page_end": 48,
+            "block_start": 639,
+            "block_end": 641
+        },
+        "Article 86(1)": {
+            "heading": "Enforceability of a foreign trust",
+            "article_number": "86",
+            "page_start": 48,
+            "page_end": 48,
+            "block_start": 643,
+            "block_end": 643
+        },
+        "Article 86(2)(a)": {
+            "heading": "Enforceability of a foreign trust",
+            "article_number": "86",
+            "page_start": 48,
+            "page_end": 48,
+            "block_start": 645,
+            "block_end": 645
+        },
+        "Article 86(2)(i)": {
+            "heading": "Enforceability of a foreign trust",
+            "article_number": "86",
+            "page_start": 48,
+            "page_end": 48,
+            "block_start": 646,
+            "block_end": 646
+        },
+        "Article 86(2)(b)": {
+            "heading": "Enforceability of a foreign trust",
+            "article_number": "86",
+            "page_start": 48,
+            "page_end": 49,
+            "block_start": 647,
+            "block_end": 651
+        },
+        "Article 86(2)": {
+            "heading": "Enforceability of a foreign trust",
+            "article_number": "86",
+            "page_start": 48,
+            "page_end": 49,
+            "block_start": 644,
+            "block_end": 651
+        },
+        "Article 1(1)(a)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 49,
+            "page_end": 49,
+            "block_start": 654,
+            "block_end": 654
+        },
+        "Article 1(1)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 49,
+            "page_end": 49,
+            "block_start": 653,
+            "block_end": 654
+        },
+        "Article 1(2)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 49,
+            "page_end": 49,
+            "block_start": 655,
+            "block_end": 655
+        },
+        "Article 1(3)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 49,
+            "page_end": 49,
+            "block_start": 656,
+            "block_end": 658
+        },
+        "Article 3": {
+            "heading": "Article 12(1) of the Arbitration Law shall apply as if it read - “The settlor of a trust shall be free to determine (by provision in the trust instrument) how, in relation to a trust, disputes are resolved, subject only to such safeguards as are necessary in the public interest.”",
+            "article_number": "3",
+            "page_start": 53,
+            "page_end": 53,
+            "block_start": 674,
+            "block_end": 674
+        },
+        "Article 8(7)": {
+            "heading": "Article 38 of the Arbitration Law shall apply as if it included the following Articles:",
+            "article_number": "8",
+            "page_start": 53,
+            "page_end": 53,
+            "block_start": 681,
+            "block_end": 681
+        }
+    },
+    "section_heading_index": {
+        "Title and repeal ........ .... 1 2. Legislative authority . .1 3. Application of the Law ...... ... 1 4. Scope of the Law .... .. 1 5. Date of enactment ... ... 1 6. Commencement ... .1 7. Interpretation... ... 1 8. Administration of this Law ... .. 1 9. Default and mandatory rules.. .1 10. Common law and principles of equity . .2": [
+            {
+                "heading": "Title and repeal ........ .... 1 2. Legislative authority . .1 3. Application of the Law ...... ... 1 4. Scope of the Law .... .. 1 5. Date of enactment ... ... 1 6. Commencement ... .1 7. Interpretation... ... 1 8. Administration of this Law ... .. 1 9. Default and mandatory rules.. .1 10. Common law and principles of equity . .2",
+                "article_number": "1",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 11,
+                "block_end": 12
+            }
+        ],
+        "Governing law ..... ... 3 12. Provision for change of governing law . ... 3 13. Matters determined by governing law . .. 4 14. Limitations in foreign law.. ... 5 15. Heirship rights . ... 6 16. Foreign judgments . ... 6 16A. Assertion of jurisdiction over trustee and protector .. ... 6 17. Place of administration .. .. 7": [
+            {
+                "heading": "Governing law ..... ... 3 12. Provision for change of governing law . ... 3 13. Matters determined by governing law . .. 4 14. Limitations in foreign law.. ... 5 15. Heirship rights . ... 6 16. Foreign judgments . ... 6 16A. Assertion of jurisdiction over trustee and protector .. ... 6 17. Place of administration .. .. 7",
+                "article_number": "11",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 13,
+                "block_end": 14
+            }
+        ],
+        "Role of the Court in administration of trust .. .. 8 19. Jurisdiction of the Court.. ... 8 20. Application to and certain powers of the Court . . 8 21. Payment of costs . .. 9 22. Articles 23 to 28: Interpretation . .. 9 23. Application of powers under Articles 24 to 28 . . 10 24. Power to set aside a transfer or disposition of property to a trust due to mistake .. .10 26. Power to set aside a transfer or disposition of property to a trust exercised by fiduciary power .......10 Power to set aside the exercise of powers in relation to a trust or trust property due to mistake ....... 11 27. Power to set aside the exercise of fiduciary powers in relation to a trust or trust property...... .11 28. Applications and orders under Articles 24 to 27.. . 12 29. Savings in respect of applications made under Articles 24 to 27. . 12 30. Articles 31, 32 and Schedule 2: Interpretation . . 12 31. Arbitration of trust disputes ... .13 32. Powers of the arbitral tribunal . .13": [
+            {
+                "heading": "Role of the Court in administration of trust .. .. 8 19. Jurisdiction of the Court.. ... 8 20. Application to and certain powers of the Court . . 8 21. Payment of costs . .. 9 22. Articles 23 to 28: Interpretation . .. 9 23. Application of powers under Articles 24 to 28 . . 10 24. Power to set aside a transfer or disposition of property to a trust due to mistake .. .10 26. Power to set aside a transfer or disposition of property to a trust exercised by fiduciary power .......10 Power to set aside the exercise of powers in relation to a trust or trust property due to mistake ....... 11 27. Power to set aside the exercise of fiduciary powers in relation to a trust or trust property...... .11 28. Applications and orders under Articles 24 to 27.. . 12 29. Savings in respect of applications made under Articles 24 to 27. . 12 30. Articles 31, 32 and Schedule 2: Interpretation . . 12 31. Arbitration of trust disputes ... .13 32. Powers of the arbitral tribunal . .13",
+                "article_number": "18",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 15,
+                "block_end": 18
+            }
+        ],
+        "Beneficiaries of a trust .. . 21 46. Disclaimer.. . 21 47. Interest of beneficiary and dealings thereof .. . 21 48. Termination of interest of beneficiary upon trust being challenged . .. 21": [
+            {
+                "heading": "Beneficiaries of a trust .. . 21 46. Disclaimer.. . 21 47. Interest of beneficiary and dealings thereof .. . 21 48. Termination of interest of beneficiary upon trust being challenged . .. 21",
+                "article_number": "45",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 19,
+                "block_end": 22
+            }
+        ],
+        "Protective trusts .. . 23 50. Creditors’ claims in relation to a biscretionary trust .. . 23 50A. General power of appointment granted to a beneficiary . .24 50B. Right of revocation retained by settlor.. . 24": [
+            {
+                "heading": "Protective trusts .. . 23 50. Creditors’ claims in relation to a biscretionary trust .. . 23 50A. General power of appointment granted to a beneficiary . .24 50B. Right of revocation retained by settlor.. . 24",
+                "article_number": "49",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 23,
+                "block_end": 24
+            }
+        ],
+        "Accepting or declining trusteeship.. . 25 52. Vacancy in trusteeship and appointment of a new trustee .. .25 53. Resignation of Trustee ..... . 26 54. Removal of trustee by Court or under the terms of a trust .. .. 26 55. Position of outgoing trustee . .. 27 56. Remuneration of a trustee . . 27 57. Advisory trustees ... .27 58. Custodian trustees . . 28": [
+            {
+                "heading": "Accepting or declining trusteeship.. . 25 52. Vacancy in trusteeship and appointment of a new trustee .. .25 53. Resignation of Trustee ..... . 26 54. Removal of trustee by Court or under the terms of a trust .. .. 26 55. Position of outgoing trustee . .. 27 56. Remuneration of a trustee . . 27 57. Advisory trustees ... .27 58. Custodian trustees . . 28",
+                "article_number": "51",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 25,
+                "block_end": 27
+            }
+        ],
+        "Duty to administer a trust.. . 31 60. Duties of trustees..... . 31 61. Duties of co-trustees to act together.. . 32 62. Impartiality of a trustee .. .. 32 63. Cost of administration.. .. 32 64. Enforcement and defence of claims . .. 33 65. Collecting trust property .. . 33 66. Duty to inform and report . .. 33": [
+            {
+                "heading": "Duty to administer a trust.. . 31 60. Duties of trustees..... . 31 61. Duties of co-trustees to act together.. . 32 62. Impartiality of a trustee .. .. 32 63. Cost of administration.. .. 32 64. Enforcement and defence of claims . .. 33 65. Collecting trust property .. . 33 66. Duty to inform and report . .. 33",
+                "article_number": "59",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 28,
+                "block_end": 29
+            }
+        ],
+        "Powers of trustee.. . 33 68. Specific powers of ttrustees . . 33 69. Power of accumulation and advancement.. . 35 70. Delegation by a trustee... . 36 71. Corporate trustee may act by resolution . 37 72. Combination and division of trusts ... .. 37": [
+            {
+                "heading": "Powers of trustee.. . 33 68. Specific powers of ttrustees . . 33 69. Power of accumulation and advancement.. . 35 70. Delegation by a trustee... . 36 71. Corporate trustee may act by resolution . 37 72. Combination and division of trusts ... .. 37",
+                "article_number": "67",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 30,
+                "block_end": 32
+            }
+        ],
+        "Liability for breach of trust ... . 38 74. Remedies for breach of trust .... .38 75. Damages in absence of a breach . . 39 76. Legal fees and costs . .39 77. Limitation of action against trustee. .. 39 78. Reliance on trust instrument . ... 40 79. Exculpation or insurance of trustee. .. 40 80. Beneficiary’s consent, release or ratification .. .. 40 81. Limitation on personal liability of trustee ... .. 41 82. Protection of persons dealing with trustees.. .. 41 83. Trustees of more than one trust. .. 41": [
+            {
+                "heading": "Liability for breach of trust ... . 38 74. Remedies for breach of trust .... .38 75. Damages in absence of a breach . . 39 76. Legal fees and costs . .39 77. Limitation of action against trustee. .. 39 78. Reliance on trust instrument . ... 40 79. Exculpation or insurance of trustee. .. 40 80. Beneficiary’s consent, release or ratification .. .. 40 81. Limitation on personal liability of trustee ... .. 41 82. Protection of persons dealing with trustees.. .. 41 83. Trustees of more than one trust. .. 41",
+                "article_number": "73",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 33,
+                "block_end": 34
+            }
+        ],
+        "Reserved and restricted powers . . 42 85. Incapacitation of protector or settlor .. . 44 85A. Duress ... . 44": [
+            {
+                "heading": "Reserved and restricted powers . . 42 85. Incapacitation of protector or settlor .. . 44 85A. Duress ... . 44",
+                "article_number": "84",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 35,
+                "block_end": 36
+            }
+        ],
+        "Enforceability of a foreign trust ... .. 45": [
+            {
+                "heading": "Enforceability of a foreign trust ... .. 45",
+                "article_number": "86",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 37,
+                "block_end": 41
+            }
+        ],
+        "Title and repeal": [
+            {
+                "heading": "Title and repeal",
+                "article_number": "1",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 42,
+                "block_end": 43
+            }
+        ],
+        "Legislative authority": [
+            {
+                "heading": "Legislative authority",
+                "article_number": "2",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 44,
+                "block_end": 48
+            }
+        ],
+        "Scope of the Law": [
+            {
+                "heading": "Scope of the Law",
+                "article_number": "4",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 49,
+                "block_end": 50
+            }
+        ],
+        "Date of enactment": [
+            {
+                "heading": "Date of enactment",
+                "article_number": "5",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 51,
+                "block_end": 52
+            }
+        ],
+        "Commencement": [
+            {
+                "heading": "Commencement",
+                "article_number": "6",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 53,
+                "block_end": 54
+            }
+        ],
+        "Interpretation": [
+            {
+                "heading": "Interpretation",
+                "article_number": "7",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 55,
+                "block_end": 58
+            }
+        ],
+        "Administration of this Law": [
+            {
+                "heading": "Administration of this Law",
+                "article_number": "8",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 59,
+                "block_end": 60
+            }
+        ],
+        "Default and mandatory rules": [
+            {
+                "heading": "Default and mandatory rules",
+                "article_number": "9",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 61,
+                "block_end": 66
+            }
+        ],
+        "Common law and principles of equity": [
+            {
+                "heading": "Common law and principles of equity",
+                "article_number": "10",
+                "page_start": 5,
+                "page_end": 6,
+                "block_start": 67,
+                "block_end": 71
+            }
+        ],
+        "Governing law": [
+            {
+                "heading": "Governing law",
+                "article_number": "11",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 72,
+                "block_end": 80
+            }
+        ],
+        "Provision for change of governing law": [
+            {
+                "heading": "Provision for change of governing law",
+                "article_number": "12",
+                "page_start": 6,
+                "page_end": 7,
+                "block_start": 81,
+                "block_end": 89
+            }
+        ],
+        "Matters determined by governing law": [
+            {
+                "heading": "Matters determined by governing law",
+                "article_number": "13",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 90,
+                "block_end": 97
+            }
+        ],
+        "Limitations in foreign law": [
+            {
+                "heading": "Limitations in foreign law",
+                "article_number": "14",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 98,
+                "block_end": 109
+            }
+        ],
+        "Heirship rights": [
+            {
+                "heading": "Heirship rights",
+                "article_number": "15",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 110,
+                "block_end": 112
+            }
+        ],
+        "Foreign judgments": [
+            {
+                "heading": "Foreign judgments",
+                "article_number": "16",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 113,
+                "block_end": 117
+            }
+        ],
+        "Assertion of jurisdiction over trustee and protector": [
+            {
+                "heading": "Assertion of jurisdiction over trustee and protector",
+                "article_number": "16A",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 118,
+                "block_end": 123
+            }
+        ],
+        "Place of administration": [
+            {
+                "heading": "Place of administration",
+                "article_number": "17",
+                "page_start": 10,
+                "page_end": 11,
+                "block_start": 124,
+                "block_end": 132
+            }
+        ],
+        "Role of the Court in administration of trust": [
+            {
+                "heading": "Role of the Court in administration of trust",
+                "article_number": "18",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 133,
+                "block_end": 134
+            }
+        ],
+        "Jurisdiction of the Court": [
+            {
+                "heading": "Jurisdiction of the Court",
+                "article_number": "19",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 135,
+                "block_end": 137
+            }
+        ],
+        "Application to and certain powers of the Court": [
+            {
+                "heading": "Application to and certain powers of the Court",
+                "article_number": "20",
+                "page_start": 11,
+                "page_end": 12,
+                "block_start": 138,
+                "block_end": 153
+            }
+        ],
+        "Payment of costs": [
+            {
+                "heading": "Payment of costs",
+                "article_number": "21",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 154,
+                "block_end": 155
+            }
+        ],
+        "Articles 23 to 28: Interpretation (1) In Articles 23 to 28:": [
+            {
+                "heading": "Articles 23 to 28: Interpretation (1) In Articles 23 to 28:",
+                "article_number": "22",
+                "page_start": 12,
+                "page_end": 13,
+                "block_start": 156,
+                "block_end": 163
+            }
+        ],
+        "Application of powers under Articles 24 to 28": [
+            {
+                "heading": "Application of powers under Articles 24 to 28",
+                "article_number": "23",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 164,
+                "block_end": 165
+            }
+        ],
+        "Power to set aside a transfer or disposition of property to a trust due to mistake": [
+            {
+                "heading": "Power to set aside a transfer or disposition of property to a trust due to mistake",
+                "article_number": "24",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 166,
+                "block_end": 173
+            }
+        ],
+        "Power to set aside a transfer or disposition of property to a trust exercised by fiduciary power": [
+            {
+                "heading": "Power to set aside a transfer or disposition of property to a trust exercised by fiduciary power",
+                "article_number": "25",
+                "page_start": 13,
+                "page_end": 14,
+                "block_start": 174,
+                "block_end": 181
+            }
+        ],
+        "Power to set aside the exercise of powers in relation to a trust or trust property due to mistake": [
+            {
+                "heading": "Power to set aside the exercise of powers in relation to a trust or trust property due to mistake",
+                "article_number": "26",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 182,
+                "block_end": 187
+            }
+        ],
+        "Power to set aside the exercise of fiduciary powers in relation to a trust or trust property": [
+            {
+                "heading": "Power to set aside the exercise of fiduciary powers in relation to a trust or trust property",
+                "article_number": "27",
+                "page_start": 14,
+                "page_end": 15,
+                "block_start": 188,
+                "block_end": 195
+            }
+        ],
+        "Applications and orders under Articles 24 to 27": [
+            {
+                "heading": "Applications and orders under Articles 24 to 27",
+                "article_number": "28",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 196,
+                "block_end": 201
+            }
+        ],
+        "Savings in respect of applications made under Articles 24 to 27": [
+            {
+                "heading": "Savings in respect of applications made under Articles 24 to 27",
+                "article_number": "29",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 202,
+                "block_end": 204
+            }
+        ],
+        "Articles 31, 32 and Schedule 2: Interpretation": [
+            {
+                "heading": "Articles 31, 32 and Schedule 2: Interpretation",
+                "article_number": "30",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 205,
+                "block_end": 212
+            }
+        ],
+        "Arbitration of trust disputes": [
+            {
+                "heading": "Arbitration of trust disputes",
+                "article_number": "31",
+                "page_start": 16,
+                "page_end": 16,
+                "block_start": 213,
+                "block_end": 217
+            }
+        ],
+        "Powers of the arbitral tribunal": [
+            {
+                "heading": "Powers of the arbitral tribunal",
+                "article_number": "32",
+                "page_start": 16,
+                "page_end": 17,
+                "block_start": 218,
+                "block_end": 222
+            }
+        ],
+        "Creation of a trust": [
+            {
+                "heading": "Creation of a trust",
+                "article_number": "33",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 223,
+                "block_end": 225
+            }
+        ],
+        "Requirements for creation": [
+            {
+                "heading": "Requirements for creation",
+                "article_number": "34",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 226,
+                "block_end": 230
+            }
+        ],
+        "Trust purposes": [
+            {
+                "heading": "Trust purposes",
+                "article_number": "35",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 231,
+                "block_end": 232
+            }
+        ],
+        "Duration of a trust": [
+            {
+                "heading": "Duration of a trust",
+                "article_number": "36",
+                "page_start": 17,
+                "page_end": 18,
+                "block_start": 233,
+                "block_end": 237
+            }
+        ],
+        "Validity and invalidity of a trust": [
+            {
+                "heading": "Validity and invalidity of a trust",
+                "article_number": "37",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 238,
+                "block_end": 244
+            }
+        ],
+        "Charitable trusts": [
+            {
+                "heading": "Charitable trusts",
+                "article_number": "38",
+                "page_start": 18,
+                "page_end": 19,
+                "block_start": 245,
+                "block_end": 253
+            }
+        ],
+        "Non-charitable trusts or purpose trusts": [
+            {
+                "heading": "Non-charitable trusts or purpose trusts",
+                "article_number": "39",
+                "page_start": 19,
+                "page_end": 20,
+                "block_start": 254,
+                "block_end": 273
+            }
+        ],
+        "Variation and revocation of a trust": [
+            {
+                "heading": "Variation and revocation of a trust",
+                "article_number": "40",
+                "page_start": 20,
+                "page_end": 21,
+                "block_start": 274,
+                "block_end": 293
+            }
+        ],
+        "Power of Court to authorise dealings with trust property": [
+            {
+                "heading": "Power of Court to authorise dealings with trust property",
+                "article_number": "41",
+                "page_start": 21,
+                "page_end": 22,
+                "block_start": 294,
+                "block_end": 300
+            }
+        ],
+        "Failure or lapse of interest": [
+            {
+                "heading": "Failure or lapse of interest",
+                "article_number": "42",
+                "page_start": 22,
+                "page_end": 22,
+                "block_start": 301,
+                "block_end": 304
+            }
+        ],
+        "Termination of a trust": [
+            {
+                "heading": "Termination of a trust",
+                "article_number": "43",
+                "page_start": 22,
+                "page_end": 22,
+                "block_start": 305,
+                "block_end": 310
+            }
+        ],
+        "Distribution of property": [
+            {
+                "heading": "Distribution of property",
+                "article_number": "44",
+                "page_start": 22,
+                "page_end": 24,
+                "block_start": 311,
+                "block_end": 319
+            }
+        ],
+        "Beneficiaries of a trust (1) A beneficiary shall be:": [
+            {
+                "heading": "Beneficiaries of a trust (1) A beneficiary shall be:",
+                "article_number": "45",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 320,
+                "block_end": 323
+            }
+        ],
+        "Disclaimer": [
+            {
+                "heading": "Disclaimer",
+                "article_number": "46",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 324,
+                "block_end": 325
+            }
+        ],
+        "Interest of beneficiary and dealings thereof": [
+            {
+                "heading": "Interest of beneficiary and dealings thereof",
+                "article_number": "47",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 326,
+                "block_end": 327
+            }
+        ],
+        "Termination of interest of beneficiary upon trust being challenged": [
+            {
+                "heading": "Termination of interest of beneficiary upon trust being challenged",
+                "article_number": "48",
+                "page_start": 24,
+                "page_end": 26,
+                "block_start": 328,
+                "block_end": 336
+            }
+        ],
+        "Protective trusts": [
+            {
+                "heading": "Protective trusts",
+                "article_number": "49",
+                "page_start": 26,
+                "page_end": 26,
+                "block_start": 337,
+                "block_end": 345
+            }
+        ],
+        "Creditors’ claim in relation to a discretionary trust": [
+            {
+                "heading": "Creditors’ claim in relation to a discretionary trust",
+                "article_number": "50",
+                "page_start": 26,
+                "page_end": 27,
+                "block_start": 346,
+                "block_end": 354
+            }
+        ],
+        "General power of appointment granted to a beneficiary": [
+            {
+                "heading": "General power of appointment granted to a beneficiary",
+                "article_number": "50A",
+                "page_start": 27,
+                "page_end": 27,
+                "block_start": 355,
+                "block_end": 358
+            }
+        ],
+        "Right of revocation retained by settlor": [
+            {
+                "heading": "Right of revocation retained by settlor",
+                "article_number": "50B",
+                "page_start": 27,
+                "page_end": 28,
+                "block_start": 359,
+                "block_end": 362
+            }
+        ],
+        "Accepting or declining trusteeship": [
+            {
+                "heading": "Accepting or declining trusteeship",
+                "article_number": "51",
+                "page_start": 28,
+                "page_end": 28,
+                "block_start": 363,
+                "block_end": 369
+            }
+        ],
+        "Vacancy in trusteeship and appointment of a new trustee": [
+            {
+                "heading": "Vacancy in trusteeship and appointment of a new trustee",
+                "article_number": "52",
+                "page_start": 28,
+                "page_end": 28,
+                "block_start": 370,
+                "block_end": 374
+            }
+        ],
+        "Resignation of trustee": [
+            {
+                "heading": "Resignation of trustee",
+                "article_number": "53",
+                "page_start": 29,
+                "page_end": 29,
+                "block_start": 375,
+                "block_end": 378
+            }
+        ],
+        "Removal of trustee by Court or under the terms of a trust": [
+            {
+                "heading": "Removal of trustee by Court or under the terms of a trust",
+                "article_number": "54",
+                "page_start": 29,
+                "page_end": 30,
+                "block_start": 379,
+                "block_end": 386
+            }
+        ],
+        "Position of outgoing trustee": [
+            {
+                "heading": "Position of outgoing trustee",
+                "article_number": "55",
+                "page_start": 30,
+                "page_end": 30,
+                "block_start": 387,
+                "block_end": 392
+            }
+        ],
+        "Remuneration of a trustee": [
+            {
+                "heading": "Remuneration of a trustee",
+                "article_number": "56",
+                "page_start": 30,
+                "page_end": 30,
+                "block_start": 393,
+                "block_end": 399
+            }
+        ],
+        "Advisory trustees": [
+            {
+                "heading": "Advisory trustees",
+                "article_number": "57",
+                "page_start": 30,
+                "page_end": 31,
+                "block_start": 400,
+                "block_end": 407
+            }
+        ],
+        "Custodian trustees": [
+            {
+                "heading": "Custodian trustees",
+                "article_number": "58",
+                "page_start": 31,
+                "page_end": 34,
+                "block_start": 408,
+                "block_end": 433
+            }
+        ],
+        "Duty to administer a trust": [
+            {
+                "heading": "Duty to administer a trust",
+                "article_number": "59",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 434,
+                "block_end": 438
+            }
+        ],
+        "Duties of trustees": [
+            {
+                "heading": "Duties of trustees",
+                "article_number": "60",
+                "page_start": 34,
+                "page_end": 35,
+                "block_start": 439,
+                "block_end": 452
+            }
+        ],
+        "Duties of co-trustees to act together": [
+            {
+                "heading": "Duties of co-trustees to act together",
+                "article_number": "61",
+                "page_start": 35,
+                "page_end": 35,
+                "block_start": 453,
+                "block_end": 454
+            }
+        ],
+        "Impartiality of a trustee": [
+            {
+                "heading": "Impartiality of a trustee",
+                "article_number": "62",
+                "page_start": 35,
+                "page_end": 35,
+                "block_start": 455,
+                "block_end": 456
+            }
+        ],
+        "Cost of administration": [
+            {
+                "heading": "Cost of administration",
+                "article_number": "63",
+                "page_start": 35,
+                "page_end": 35,
+                "block_start": 457,
+                "block_end": 459
+            }
+        ],
+        "Enforcement and defence of claims": [
+            {
+                "heading": "Enforcement and defence of claims",
+                "article_number": "64",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 460,
+                "block_end": 461
+            }
+        ],
+        "Collecting trust property": [
+            {
+                "heading": "Collecting trust property",
+                "article_number": "65",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 462,
+                "block_end": 463
+            }
+        ],
+        "Duty to inform and report": [
+            {
+                "heading": "Duty to inform and report",
+                "article_number": "66",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 464,
+                "block_end": 470
+            }
+        ],
+        "Powers of trustee": [
+            {
+                "heading": "Powers of trustee",
+                "article_number": "67",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 471,
+                "block_end": 474
+            }
+        ],
+        "Specific powers of trustees": [
+            {
+                "heading": "Specific powers of trustees",
+                "article_number": "68",
+                "page_start": 36,
+                "page_end": 38,
+                "block_start": 475,
+                "block_end": 508
+            }
+        ],
+        "Power of accumulation and advancement": [
+            {
+                "heading": "Power of accumulation and advancement",
+                "article_number": "69",
+                "page_start": 38,
+                "page_end": 39,
+                "block_start": 509,
+                "block_end": 519
+            }
+        ],
+        "Delegation by a trustee": [
+            {
+                "heading": "Delegation by a trustee",
+                "article_number": "70",
+                "page_start": 39,
+                "page_end": 39,
+                "block_start": 520,
+                "block_end": 529
+            }
+        ],
+        "Corporate trustee may act by resolution": [
+            {
+                "heading": "Corporate trustee may act by resolution",
+                "article_number": "71",
+                "page_start": 40,
+                "page_end": 40,
+                "block_start": 530,
+                "block_end": 532
+            }
+        ],
+        "Combination and division of trusts": [
+            {
+                "heading": "Combination and division of trusts",
+                "article_number": "72",
+                "page_start": 40,
+                "page_end": 41,
+                "block_start": 533,
+                "block_end": 543
+            }
+        ],
+        "Liability for breach of trust": [
+            {
+                "heading": "Liability for breach of trust",
+                "article_number": "73",
+                "page_start": 41,
+                "page_end": 41,
+                "block_start": 544,
+                "block_end": 555
+            }
+        ],
+        "Remedies for breach of trust": [
+            {
+                "heading": "Remedies for breach of trust",
+                "article_number": "74",
+                "page_start": 41,
+                "page_end": 41,
+                "block_start": 556,
+                "block_end": 560
+            }
+        ],
+        "Damages in absence of a breach": [
+            {
+                "heading": "Damages in absence of a breach",
+                "article_number": "75",
+                "page_start": 42,
+                "page_end": 42,
+                "block_start": 561,
+                "block_end": 562
+            }
+        ],
+        "Legal fees and costs": [
+            {
+                "heading": "Legal fees and costs",
+                "article_number": "76",
+                "page_start": 42,
+                "page_end": 42,
+                "block_start": 563,
+                "block_end": 564
+            }
+        ],
+        "Limitation of action against trustee": [
+            {
+                "heading": "Limitation of action against trustee",
+                "article_number": "77",
+                "page_start": 42,
+                "page_end": 43,
+                "block_start": 565,
+                "block_end": 576
+            }
+        ],
+        "Reliance on trust instrument": [
+            {
+                "heading": "Reliance on trust instrument",
+                "article_number": "78",
+                "page_start": 43,
+                "page_end": 43,
+                "block_start": 577,
+                "block_end": 578
+            }
+        ],
+        "Exculpation or insurance of trustee": [
+            {
+                "heading": "Exculpation or insurance of trustee",
+                "article_number": "79",
+                "page_start": 43,
+                "page_end": 43,
+                "block_start": 579,
+                "block_end": 583
+            }
+        ],
+        "Beneficiary’s consent, release or ratification": [
+            {
+                "heading": "Beneficiary’s consent, release or ratification",
+                "article_number": "80",
+                "page_start": 43,
+                "page_end": 43,
+                "block_start": 584,
+                "block_end": 589
+            }
+        ],
+        "Limitation on personal liability of trustee": [
+            {
+                "heading": "Limitation on personal liability of trustee",
+                "article_number": "81",
+                "page_start": 44,
+                "page_end": 44,
+                "block_start": 590,
+                "block_end": 591
+            }
+        ],
+        "Protection of persons dealing with trustees": [
+            {
+                "heading": "Protection of persons dealing with trustees",
+                "article_number": "82",
+                "page_start": 44,
+                "page_end": 44,
+                "block_start": 592,
+                "block_end": 597
+            }
+        ],
+        "Trustees of more than one trust": [
+            {
+                "heading": "Trustees of more than one trust",
+                "article_number": "83",
+                "page_start": 44,
+                "page_end": 45,
+                "block_start": 598,
+                "block_end": 601
+            }
+        ],
+        "Reserved and restricted powers": [
+            {
+                "heading": "Reserved and restricted powers",
+                "article_number": "84",
+                "page_start": 45,
+                "page_end": 46,
+                "block_start": 602,
+                "block_end": 627
+            }
+        ],
+        "Incapacitation of protector or settlor": [
+            {
+                "heading": "Incapacitation of protector or settlor",
+                "article_number": "85",
+                "page_start": 47,
+                "page_end": 47,
+                "block_start": 628,
+                "block_end": 634
+            }
+        ],
+        "Duress": [
+            {
+                "heading": "Duress",
+                "article_number": "85A",
+                "page_start": 47,
+                "page_end": 48,
+                "block_start": 635,
+                "block_end": 641
+            }
+        ],
+        "Enforceability of a foreign trust": [
+            {
+                "heading": "Enforceability of a foreign trust",
+                "article_number": "86",
+                "page_start": 48,
+                "page_end": 49,
+                "block_start": 642,
+                "block_end": 651
+            }
+        ],
+        "Rules of interpretation": [
+            {
+                "heading": "Rules of interpretation",
+                "article_number": "1",
+                "page_start": 49,
+                "page_end": 49,
+                "block_start": 652,
+                "block_end": 658
+            }
+        ],
+        "Legislation in the DIFC": [
+            {
+                "heading": "Legislation in the DIFC",
+                "article_number": "2",
+                "page_start": 50,
+                "page_end": 50,
+                "block_start": 659,
+                "block_end": 661
+            }
+        ],
+        "Defined terms": [
+            {
+                "heading": "Defined terms",
+                "article_number": "3",
+                "page_start": 50,
+                "page_end": 53,
+                "block_start": 662,
+                "block_end": 671
+            }
+        ],
+        "The Arbitration Law shall apply and be construed with respect to a trust arbitration, as stated hereunder": [
+            {
+                "heading": "The Arbitration Law shall apply and be construed with respect to a trust arbitration, as stated hereunder",
+                "article_number": "1",
+                "page_start": 53,
+                "page_end": 53,
+                "block_start": 672,
+                "block_end": 672
+            }
+        ],
+        "In the Arbitration Law, “dispute” includes an administration question": [
+            {
+                "heading": "In the Arbitration Law, “dispute” includes an administration question",
+                "article_number": "2",
+                "page_start": 53,
+                "page_end": 53,
+                "block_start": 673,
+                "block_end": 673
+            }
+        ],
+        "Article 12(1) of the Arbitration Law shall apply as if it read - “The settlor of a trust shall be free to determine (by provision in the trust instrument) how, in relation to a trust, disputes are resolved, subject only to such safeguards as are necessary in the public interest.”": [
+            {
+                "heading": "Article 12(1) of the Arbitration Law shall apply as if it read - “The settlor of a trust shall be free to determine (by provision in the trust instrument) how, in relation to a trust, disputes are resolved, subject only to such safeguards as are necessary in the public interest.”",
+                "article_number": "3",
+                "page_start": 53,
+                "page_end": 53,
+                "block_start": 674,
+                "block_end": 674
+            }
+        ],
+        "Where in the Arbitration Law reference is made to a matter agreed between the parties to an arbitration agreement (including a matter which may be authorised, chosen, conferred, designated, nominated or vested by the parties) that matter shall (except where no effective provision is made) be determined as provided in the trust instrument": [
+            {
+                "heading": "Where in the Arbitration Law reference is made to a matter agreed between the parties to an arbitration agreement (including a matter which may be authorised, chosen, conferred, designated, nominated or vested by the parties) that matter shall (except where no effective provision is made) be determined as provided in the trust instrument",
+                "article_number": "4",
+                "page_start": 53,
+                "page_end": 53,
+                "block_start": 675,
+                "block_end": 675
+            }
+        ],
+        "Neither Article 12 of the Arbitration Law nor any rule of law or construction treating an arbitration agreement separate to any agreement of which it is a part shall apply in relation to a trust arbitration": [
+            {
+                "heading": "Neither Article 12 of the Arbitration Law nor any rule of law or construction treating an arbitration agreement separate to any agreement of which it is a part shall apply in relation to a trust arbitration",
+                "article_number": "5",
+                "page_start": 53,
+                "page_end": 53,
+                "block_start": 676,
+                "block_end": 676
+            }
+        ],
+        "The term “action” in Article 13 of the Arbitration Law includes an application or other reference to the Court concerning an administration question which the trust instrument requires to be submitted to arbitration and a stay of that application or other reference may be sought by any of the parties in relation to the trust, whether or not a party to that application or other reference": [
+            {
+                "heading": "The term “action” in Article 13 of the Arbitration Law includes an application or other reference to the Court concerning an administration question which the trust instrument requires to be submitted to arbitration and a stay of that application or other reference may be sought by any of the parties in relation to the trust, whether or not a party to that application or other reference",
+                "article_number": "6",
+                "page_start": 53,
+                "page_end": 53,
+                "block_start": 677,
+                "block_end": 677
+            }
+        ],
+        "In any application or other reference to the Court referred to in paragraph 6, the Court may stay the proceedings on its own volition unless all parties in relation to the trust affected by the application are before it or are represented by persons before it": [
+            {
+                "heading": "In any application or other reference to the Court referred to in paragraph 6, the Court may stay the proceedings on its own volition unless all parties in relation to the trust affected by the application are before it or are represented by persons before it",
+                "article_number": "7",
+                "page_start": 53,
+                "page_end": 53,
+                "block_start": 678,
+                "block_end": 678
+            }
+        ],
+        "Article 38 of the Arbitration Law shall apply as if it included the following Articles:": [
+            {
+                "heading": "Article 38 of the Arbitration Law shall apply as if it included the following Articles:",
+                "article_number": "8",
+                "page_start": 53,
+                "page_end": 53,
+                "block_start": 679,
+                "block_end": 681
+            }
+        ],
+        "For the purposes of enforcing an arbitral award under Article 41(2)(a)(iii) of the Arbitration Law, the term “dispute” includes an administration question": [
+            {
+                "heading": "For the purposes of enforcing an arbitral award under Article 41(2)(a)(iii) of the Arbitration Law, the term “dispute” includes an administration question",
+                "article_number": "9",
+                "page_start": 53,
+                "page_end": 53,
+                "block_start": 682,
+                "block_end": 684
+            }
+        ]
+    }
 }

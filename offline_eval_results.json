@@ -1,0 +1,167 @@
+[
+  {
+    "id": "30ab0e56ee0c43b5bf94fd9657c7f7ac24f0e7be29ced2933437f7a234713cd7",
+    "question": "Under Article 8(1) of the Operating Law 2018, is a person permitted to operate or conduct business in or from the DIFC without being incorporated, registered, or continued under a Prescribed Law or other Legislation administered by the Registrar?",
+    "answer_type": "boolean",
+    "predicted_answer": false,
+    "retrieval_refs": [
+      {
+        "doc_id": "72ea171147bf30326fe6fd2e6798f607c7cef4bf9d43761dbccd2f1b6a356849",
+        "page_numbers": [
+          8
+        ]
+      }
+    ],
+    "latency_ms": 2796.544458018616,
+    "raw_response": "false"
+  },
+  {
+    "id": "331b267822eaa013b4a79d92f2ac5118052a57150df9a29d7d11c531f02d23cf",
+    "question": "What is the Date of Issue of the document in case CFI 057/2025?",
+    "answer_type": "date",
+    "predicted_answer": "2026-02-02",
+    "retrieval_refs": [
+      {
+        "doc_id": "1b446e196b4d1752241c8ff689a31ea705e98ad0c16b9d343c303664f72b64a1",
+        "page_numbers": [
+          1,
+          2
+        ]
+      }
+    ],
+    "latency_ms": 4258.485125028528,
+    "raw_response": "2026-02-02"
+  },
+  {
+    "id": "5d271fced60d88e008a69adc2da21de427906206bfb49f5554a3bf1dd6f72772",
+    "question": "According to the title page of the Common Reporting Standard Law, what is its official DIFC Law number?",
+    "answer_type": "number",
+    "predicted_answer": 2,
+    "retrieval_refs": [
+      {
+        "doc_id": "fbdd7f9dd299d83b1f398778da2e6765dfaaed62005667264734a1f76ec09071",
+        "page_numbers": [
+          1
+        ]
+      }
+    ],
+    "latency_ms": 3354.46566704195,
+    "raw_response": "2"
+  },
+  {
+    "id": "358bf0caaa87ba7e11698c5e0bb230f5742c141f2da8a3e8969cee41ef0f7841",
+    "question": "Do cases SCT 295/2025 and SCT 514/2025 involve any of the same legal entities or individuals as main parties?",
+    "answer_type": "boolean",
+    "predicted_answer": false,
+    "retrieval_refs": [
+      {
+        "doc_id": "09660f78c26cd56c08c7253ed21ba01fb246092f482ccd8acd8e6f9b6fd2d917",
+        "page_numbers": [
+          1
+        ]
+      }
+    ],
+    "latency_ms": 3531.1537499073893,
+    "raw_response": "false"
+  },
+  {
+    "id": "bce4c288236518dfd08f6bac5a75c75ea79b1250347c4b998252fa9d7265a7c3",
+    "question": "What kind of liability do Partners have under Article 28(1) of the General Partnership Law 2004?",
+    "answer_type": "free_text",
+    "predicted_answer": "Partners are jointly and severally liable for all debts and obligations of the General Partnership incurred while they are partners, unless all the other partners agree otherwise.",
+    "retrieval_refs": [
+      {
+        "doc_id": "302a0bd8d67775e8dc5960ecec7879be566300d8b32c4b0153ba15ebdb279425",
+        "page_numbers": [
+          10
+        ]
+      }
+    ],
+    "latency_ms": 4658.052625018172,
+    "raw_response": "Answer: Partners are jointly and severally liable for all debts and obligations of the General Partnership incurred while they are partners, unless all the other partners agree otherwise.  \nIndices: 1, 2"
+  },
+  {
+    "id": "6863a7f4a5e76694620518758411bc743142897fa8077f2a73701b89fa2d0b0f",
+    "question": "Under the Foundations Law DIFC Law No. 3 of 2018, what is the maximum fine for failing to provide a copy of an assignment of rights to the Registered Agent or Registrar within 30 days?",
+    "answer_type": "free_text",
+    "predicted_answer": "$1,500",
+    "retrieval_refs": [
+      {
+        "doc_id": "22442c5ee999e2519c68de908be511875a84f2b810ed540c2dcfcbcc65031434",
+        "page_numbers": [
+          6,
+          46
+        ]
+      }
+    ],
+    "latency_ms": 3615.0276659755036,
+    "raw_response": "Answer: $1,500\nIndices: 1,4,6"
+  },
+  {
+    "id": "150d4428704ea7ce7452509bda9c25f4d242b2395114ed0ed59388b87660f218",
+    "question": "Under the Operating Law - DIFC Law No. 7 of 2018, who is responsible for appointing and dismissing the Registrar?",
+    "answer_type": "free_text",
+    "predicted_answer": "The Board of Directors of the DIFCA appoints and may dismiss the Registrar (subject to consultation with the President).",
+    "retrieval_refs": [
+      {
+        "doc_id": "72ea171147bf30326fe6fd2e6798f607c7cef4bf9d43761dbccd2f1b6a356849",
+        "page_numbers": [
+          5
+        ]
+      }
+    ],
+    "latency_ms": 3372.911332990043,
+    "raw_response": "Answer: The Board of Directors of the DIFCA appoints and may dismiss the Registrar (subject to consultation with the President). \nIndices: 1, 2"
+  },
+  {
+    "id": "39890efe7db1258f568e838c284020a9fc79b8bf0deddab76fdf853c9b0171ed",
+    "question": "Is there any main party common to both case CFI 057/2025 and case SCT 295/2025?",
+    "answer_type": "boolean",
+    "predicted_answer": false,
+    "retrieval_refs": [
+      {
+        "doc_id": "1b446e196b4d1752241c8ff689a31ea705e98ad0c16b9d343c303664f72b64a1",
+        "page_numbers": [
+          1,
+          3
+        ]
+      }
+    ],
+    "latency_ms": 3077.314749942161,
+    "raw_response": "false"
+  },
+  {
+    "id": "acd0ddc6715f2bccf5076dc47e6874a8ecb782dd10c0b162071f890ad96bef47",
+    "question": "Between SCT 295/2025 and SCT 514/2025, which document has the earlier issue date?",
+    "answer_type": "name",
+    "predicted_answer": "SCT 295/2025",
+    "retrieval_refs": [
+      {
+        "doc_id": "09660f78c26cd56c08c7253ed21ba01fb246092f482ccd8acd8e6f9b6fd2d917",
+        "page_numbers": [
+          1,
+          7
+        ]
+      }
+    ],
+    "latency_ms": 3688.641665969044,
+    "raw_response": "SCT 295/2025"
+  },
+  {
+    "id": "436c12cc4eb26087bd1540f5d47825712632e90b4d5b2bca6c52e3b26151f874",
+    "question": "What was the result of the application heard in case CFI 057/2025?",
+    "answer_type": "free_text",
+    "predicted_answer": "The Permission to Appeal Application in CFI 057/2025 was refused.",
+    "retrieval_refs": [
+      {
+        "doc_id": "1b446e196b4d1752241c8ff689a31ea705e98ad0c16b9d343c303664f72b64a1",
+        "page_numbers": [
+          2,
+          3
+        ]
+      }
+    ],
+    "latency_ms": 2749.815584043972,
+    "raw_response": "Answer: The Permission to Appeal Application in CFI 057/2025 was refused.  \nIndices: 3, 6"
+  }
+]

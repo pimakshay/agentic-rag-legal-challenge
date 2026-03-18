@@ -188,8 +188,7 @@ def main() -> None:
         print(f"[{index_number}/{len(questions)}] {question_id}")
 
         telemetry_timer = TelemetryTimer()
-        result = pipeline.answer_question(question_item)
-        telemetry_timer.mark_token()
+        result = pipeline.answer_question(question_item, telemetry_timer=telemetry_timer)
         timing = telemetry_timer.finish()
 
         prompt = result.debug_metadata.get("prompt", "")

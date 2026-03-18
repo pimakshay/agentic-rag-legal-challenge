@@ -1,9 +1,13 @@
 {
+    "doc_type": "case",
     "case_name": "(1) Ozias (2) Ori (3) Octavio v (1) Obadiah (2) Oaklen",
+    "case_name_normalized": "1 ozias 2 ori 3 octavio v 1 obadiah 2 oaklen",
     "neutral_citation": "",
+    "neutral_citation_normalized": "",
+    "claim_number": "ENF 269/2023",
+    "claim_number_normalized": "enf 269 2023",
     "court": "THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
     "court_division": "COURT OF APPEAL",
-    "claim_number": "ENF 269/2023",
     "hearing_date": "",
     "judgment_date": "JULY 01, 2025",
     "judgment_release_date": "",
@@ -17,5 +21,8 @@
     "claimant_counsel": [],
     "defendant_counsel": [],
     "claimant_law_firm": "",
-    "defendant_law_firm": ""
+    "defendant_law_firm": "",
+    "title_page_number": 1,
+    "last_page_number": 19,
+    "page_count": 19
 }

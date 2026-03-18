@@ -1,9 +1,13 @@
 {
+    "doc_type": "case",
     "case_name": "Techteryx Ltd v (1) Aria Commodities DMCC (2) Mashreq Bank PSC (3) Emirates Nbd Bank PJSC (4) Abu Dhabi Islamic Bank PJSC",
+    "case_name_normalized": "techteryx ltd v 1 aria commodities dmcc 2 mashreq bank psc 3 emirates nbd bank pjsc 4 abu dhabi islamic bank pjsc",
     "neutral_citation": "[2025] DIFC DEC 001",
+    "neutral_citation_normalized": "2025 difc dec 001",
+    "claim_number": "DEC 001/2025",
+    "claim_number_normalized": "dec 001 2025",
     "court": "DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
     "court_division": "COURT OF FIRST INSTANCE",
-    "claim_number": "DEC 001/2025",
     "hearing_date": "30 July 2025",
     "judgment_date": "16 September 2025",
     "judgment_release_date": "17 October 2025",
@@ -23,5 +27,8 @@
         "George McPherson"
     ],
     "claimant_law_firm": "Al Tamimi & Company",
-    "defendant_law_firm": "Quinn Emanuel Urquhart & Sullivan UK LLP"
+    "defendant_law_firm": "Quinn Emanuel Urquhart & Sullivan UK LLP",
+    "title_page_number": 1,
+    "last_page_number": 112,
+    "page_count": 112
 }

@@ -1,9 +1,13 @@
 {
+    "doc_type": "case",
     "case_name": "Architeriors Interior Design (L.L.C) v Emirates National Investment Co (L.L.C)",
+    "case_name_normalized": "architeriors interior design l l c v emirates national investment co l l c",
     "neutral_citation": "",
+    "neutral_citation_normalized": "",
+    "claim_number": "TCD 001/2024",
+    "claim_number_normalized": "tcd 001 2024",
     "court": "COURTS OF DUBAI INTERNATIONAL FINANCIAL CENTRE",
     "court_division": "TECHNOLOGY AND CONSTRUCTION DIVISION",
-    "claim_number": "TCD 001/2024",
     "hearing_date": "",
     "judgment_date": "31 July 2025",
     "judgment_release_date": "DECEMBER 03, 2025",
@@ -14,5 +18,8 @@
     "claimant_counsel": [],
     "defendant_counsel": [],
     "claimant_law_firm": "",
-    "defendant_law_firm": ""
+    "defendant_law_firm": "",
+    "title_page_number": 1,
+    "last_page_number": 4,
+    "page_count": 4
 }

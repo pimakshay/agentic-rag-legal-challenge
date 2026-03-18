@@ -31,14 +31,12 @@ class IngestedCorpusLoader:
         ingest_root: str | Path | None = None,
         docs_root: str | Path | None = None,
     ) -> List[Document]:
-        """Load the full ingest corpus as one LangChain document per source file."""
         root = Path(ingest_root) if ingest_root else self.ingest_root
         if root is None:
             raise ValueError("ingest_root must be provided")
 
         pdf_root = Path(docs_root) if docs_root else self.docs_root
         documents: List[Document] = []
-
         for doc_dir in sorted(path for path in root.iterdir() if path.is_dir()):
             loaded = self._load_single_document(doc_dir, pdf_root)
             if loaded is not None:
@@ -69,37 +67,29 @@ class IngestedCorpusLoader:
             return None
 
         source_path = str((docs_root / f"{doc_id}.pdf").resolve()) if docs_root else ""
-        first_page_text = "\n".join(block["text"] for block in blocks if block["page_number"] == 1)
-        claim_number = (
-            metadata.get("claim_number") or self._extract_claim_number(first_page_text)
-        ).strip()
-        case_name = (metadata.get("case_name") or "").strip()
-
-        doc_metadata = {
-            "doc_id": doc_id,
-            "source": source_path or f"{doc_id}.pdf",
-            "source_path": source_path,
-            "claim_number": claim_number,
-            "case_name": case_name,
-            "court": (metadata.get("court") or "").strip(),
-            "court_division": (metadata.get("court_division") or "").strip(),
-            "judgment_date": (metadata.get("judgment_date") or "").strip(),
-            "judgment_release_date": (metadata.get("judgment_release_date") or "").strip(),
-            "hearing_date": (metadata.get("hearing_date") or "").strip(),
-            "claimant": (metadata.get("claimant") or "").strip(),
-            "defendants": metadata.get("defendants") or [],
-            "neutral_citation": (metadata.get("neutral_citation") or "").strip(),
-            "claimant_counsel": metadata.get("claimant_counsel") or [],
-            "defendant_counsel": metadata.get("defendant_counsel") or [],
-            "claimant_law_firm": (metadata.get("claimant_law_firm") or "").strip(),
-            "defendant_law_firm": (metadata.get("defendant_law_firm") or "").strip(),
-            "doc_type": self._detect_doc_type(metadata, first_page_text),
-            "structure_available": structure_available,
-            "block_count": len(blocks),
-            "page_count": max(block["page_number"] for block in blocks),
-            "title": case_name or claim_number or doc_id,
-            "blocks": blocks,
-        }
+        doc_metadata = dict(metadata or {})
+        doc_metadata.update(
+            {
+                "doc_id": doc_id,
+                "source": source_path or f"{doc_id}.pdf",
+                "source_path": source_path,
+                "doc_type": self._coerce_doc_type(metadata),
+                "structure_available": structure_available,
+                "block_count": len(blocks),
+                "page_count": int(metadata.get("page_count") or max(block["page_number"] for block in blocks)),
+                "title_page_number": int(metadata.get("title_page_number") or 1),
+                "last_page_number": int(metadata.get("last_page_number") or max(block["page_number"] for block in blocks)),
+                "title": self._derive_title(metadata, doc_id),
+                "blocks": blocks,
+            }
+        )
+        doc_metadata.setdefault("alias_keys", [])
+        doc_metadata.setdefault("article_index", {})
+        doc_metadata.setdefault("section_heading_index", {})
+        doc_metadata.setdefault("defendants", [])
+        doc_metadata.setdefault("claimant_counsel", [])
+        doc_metadata.setdefault("defendant_counsel", [])
+        doc_metadata.setdefault("amending_laws", [])
 
         page_content = "\n".join(block["text"] for block in blocks if block["text"])
         return Document(page_content=page_content, metadata=doc_metadata, id=doc_id)
@@ -134,17 +124,18 @@ class IngestedCorpusLoader:
                 continue
             structure = structured_items.get(index, {})
             page_idx = structure.get("page_idx", item.get("page_idx", 0))
-            block = {
-                "block_index": index,
-                "page_idx": int(page_idx),
-                "page_number": int(page_idx) + 1,
-                "text": text,
-                "type": structure.get("type", item.get("type", "text")),
-                "level": int(structure.get("level") or self._synthetic_level(item, text)),
-                "bbox": item.get("bbox") or [],
-                "synthetic_structure": index not in structured_items,
-            }
-            blocks.append(block)
+            blocks.append(
+                {
+                    "block_index": index,
+                    "page_idx": int(page_idx),
+                    "page_number": int(page_idx) + 1,
+                    "text": text,
+                    "type": structure.get("type", item.get("type", "text")),
+                    "level": int(structure.get("level") or self._synthetic_level(item, text)),
+                    "bbox": item.get("bbox") or [],
+                    "synthetic_structure": index not in structured_items,
+                }
+            )
         return blocks
 
     def _synthetic_level(self, item: Dict[str, Any], text: str) -> int:
@@ -160,25 +151,19 @@ class IngestedCorpusLoader:
             return 3
         return 4
 
-    def _extract_claim_number(self, text: str) -> str:
-        match = self.CASE_NUMBER_PATTERN.search(text)
-        return match.group(0) if match else ""
-
-    def _detect_doc_type(self, metadata: Dict[str, Any], first_page_text: str) -> str:
-        claim_number = (metadata.get("claim_number") or "").strip()
-        if claim_number:
-            return "case_judgment"
-
-        haystack = " ".join(
-            value
-            for value in [
-                metadata.get("case_name") or "",
-                metadata.get("neutral_citation") or "",
-                first_page_text,
-            ]
-            if isinstance(value, str)
-        ).lower()
-
-        if " law " in f" {haystack} " or "difc law" in haystack:
+    def _coerce_doc_type(self, metadata: Dict[str, Any]) -> str:
+        value = str(metadata.get("doc_type") or "").strip().lower()
+        if value in {"case", "law"}:
+            return value
+        if metadata.get("claim_number") or metadata.get("case_name"):
+            return "case"
+        if metadata.get("official_title") or metadata.get("alias_keys"):
             return "law"
         return "unknown"
+
+    def _derive_title(self, metadata: Dict[str, Any], doc_id: str) -> str:
+        for key in ("official_title", "short_title", "case_name", "claim_number"):
+            value = str(metadata.get(key) or "").strip()
+            if value:
+                return value
+        return doc_id

@@ -1,16 +1,3184 @@
 {
-    "case_name": "",
-    "neutral_citation": "",
-    "court": "",
-    "court_division": "",
-    "claim_number": "",
-    "hearing_date": "",
-    "judgment_date": "",
-    "judgment_release_date": "",
-    "claimant": "",
-    "defendants": [],
-    "claimant_counsel": [],
-    "defendant_counsel": [],
-    "claimant_law_firm": "",
-    "defendant_law_firm": ""
+    "doc_type": "law",
+    "official_title": "EMPLOYMENT LAW Consolidated Version No. 5 (July 2025)",
+    "official_title_normalized": "employment law consolidated version no 5 july 2025",
+    "short_title": "EMPLOYMENT LAW Consolidated Version No. 5 (July 2025) 2019",
+    "short_title_normalized": "employment law consolidated version no 5 july 2025 2019",
+    "law_number": "2",
+    "law_year": "2019",
+    "official_citation": "DIFC Law No. 2 of 2019",
+    "official_citation_normalized": "difc law no 2 of 2019",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "",
+    "amending_laws": [
+        "DIFC Laws Amendment Law DIFC Law No. 1 of 2025",
+        "DIFC Laws Amendment Law DIFC Law No. 1 of 2024",
+        "DIFC Laws Amendment Law DIFC Law No. 2 of 2022",
+        "Employment Law Amendment Law DIFC Law No. 4 of 2021",
+        "Employment Law Amendment Law DIFC Law No. 4 of 2020"
+    ],
+    "administering_authority": "DIFCA",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 44,
+    "page_count": 44,
+    "alias_keys": [
+        "DIFC Law No. 2 of 2019",
+        "EMPLOYMENT LAW Consolidated Version No. 5 (July 2025)",
+        "EMPLOYMENT LAW Consolidated Version No. 5 (July 2025) 2019"
+    ],
+    "article_index": {
+        "Article 1": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 443,
+            "block_end": 456
+        },
+        "Article 11": {
+            "heading": "No waiver",
+            "article_number": "11",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 86,
+            "block_end": 89
+        },
+        "Article 18": {
+            "heading": "Paydays",
+            "article_number": "18",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 131,
+            "block_end": 132
+        },
+        "Article 22": {
+            "heading": "Maximum weekly working time",
+            "article_number": "22",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 161,
+            "block_end": 162
+        },
+        "Article 37": {
+            "heading": "Maternity Leave",
+            "article_number": "37",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 208,
+            "block_end": 212
+        },
+        "Article 41": {
+            "heading": "Time off for ante-natal care and adoption proceedings",
+            "article_number": "41",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 233,
+            "block_end": 240
+        },
+        "Article 43": {
+            "heading": "General duties of Employers",
+            "article_number": "43",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 245,
+            "block_end": 246
+        },
+        "Article 58": {
+            "heading": "General duties of Employees",
+            "article_number": "58",
+            "page_start": 23,
+            "page_end": 24,
+            "block_start": 290,
+            "block_end": 295
+        },
+        "Article 59": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 24,
+            "page_end": 25,
+            "block_start": 296,
+            "block_end": 317
+        },
+        "Article 62": {
+            "heading": "Minimum notice periods",
+            "article_number": "62",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 343,
+            "block_end": 351
+        },
+        "Article 67": {
+            "heading": "General contraventions",
+            "article_number": "67",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 422,
+            "block_end": 426
+        },
+        "Article 1(1)": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 444,
+            "block_end": 452
+        },
+        "Article 1(2)": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 453,
+            "block_end": 453
+        },
+        "Article 1(3)(a)": {
+            "heading": "Title and repeal",
+            "article_number": "1",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 45,
+            "block_end": 46
+        },
+        "Article 1(3)": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 454,
+            "block_end": 456
+        },
+        "Article 1(4)": {
+            "heading": "Title and repeal",
+            "article_number": "1",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 47,
+            "block_end": 47
+        },
+        "Article 2": {
+            "heading": "Legislation in the DIFC",
+            "article_number": "2",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 457,
+            "block_end": 459
+        },
+        "Article 3": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 37,
+            "page_end": 44,
+            "block_start": 460,
+            "block_end": 477
+        },
+        "Article 4": {
+            "heading": "Application of the Law",
+            "article_number": "4",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 53,
+            "block_end": 64
+        },
+        "Article 4(1)(a)": {
+            "heading": "Application of the Law",
+            "article_number": "4",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 55,
+            "block_end": 55
+        },
+        "Article 4(1)(b)": {
+            "heading": "Application of the Law",
+            "article_number": "4",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 56,
+            "block_end": 56
+        },
+        "Article 4(1)(i)": {
+            "heading": "Application of the Law",
+            "article_number": "4",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 57,
+            "block_end": 59
+        },
+        "Article 4(1)": {
+            "heading": "Application of the Law",
+            "article_number": "4",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 54,
+            "block_end": 59
+        },
+        "Article 4(2)(a)": {
+            "heading": "Application of the Law",
+            "article_number": "4",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 63,
+            "block_end": 63
+        },
+        "Article 4(2)": {
+            "heading": "Application of the Law",
+            "article_number": "4",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 60,
+            "block_end": 63
+        },
+        "Article 4(4)": {
+            "heading": "Application of the Law",
+            "article_number": "4",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 64,
+            "block_end": 64
+        },
+        "Article 5": {
+            "heading": "Date of enactment",
+            "article_number": "5",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 65,
+            "block_end": 69
+        },
+        "Article 7": {
+            "heading": "Schedules",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 70,
+            "block_end": 75
+        },
+        "Article 7(1)(a)": {
+            "heading": "Schedules",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 72,
+            "block_end": 72
+        },
+        "Article 7(1)": {
+            "heading": "Schedules",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 71,
+            "block_end": 72
+        },
+        "Article 7(2)": {
+            "heading": "Schedules",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 73,
+            "block_end": 75
+        },
+        "Article 8": {
+            "heading": "Administration of the Law",
+            "article_number": "8",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 76,
+            "block_end": 77
+        },
+        "Article 9": {
+            "heading": "The power of the DIFCA to make Regulations and impose fines and penalties (1) The Board of Directors of the DIFCA may:",
+            "article_number": "9",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 78,
+            "block_end": 80
+        },
+        "Article 9(2)": {
+            "heading": "The power of the DIFCA to make Regulations and impose fines and penalties (1) The Board of Directors of the DIFCA may:",
+            "article_number": "9",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 80,
+            "block_end": 80
+        },
+        "Article 10": {
+            "heading": "Limitation Period",
+            "article_number": "10",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 81,
+            "block_end": 85
+        },
+        "Article 11(1)": {
+            "heading": "No waiver",
+            "article_number": "11",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 87,
+            "block_end": 87
+        },
+        "Article 11(2)(a)": {
+            "heading": "No waiver",
+            "article_number": "11",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 89,
+            "block_end": 89
+        },
+        "Article 11(2)": {
+            "heading": "No waiver",
+            "article_number": "11",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 88,
+            "block_end": 89
+        },
+        "Article 12": {
+            "heading": "No false representations",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 90,
+            "block_end": 92
+        },
+        "Article 13": {
+            "heading": "Hiring children",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 93,
+            "block_end": 94
+        },
+        "Article 14": {
+            "heading": "Right to a written contract",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 95,
+            "block_end": 101
+        },
+        "Article 14(1)": {
+            "heading": "Right to a written contract",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 96,
+            "block_end": 96
+        },
+        "Article 14(2)(a)": {
+            "heading": "Right to a written contract",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 98,
+            "block_end": 100
+        },
+        "Article 14(2)": {
+            "heading": "Right to a written contract",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 97,
+            "block_end": 100
+        },
+        "Article 14(3)": {
+            "heading": "Right to a written contract",
+            "article_number": "14",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 101,
+            "block_end": 101
+        },
+        "Article 15": {
+            "heading": "Itemised pay statements",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 102,
+            "block_end": 105
+        },
+        "Article 15(1)(a)": {
+            "heading": "Itemised pay statements",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 104,
+            "block_end": 104
+        },
+        "Article 15(1)": {
+            "heading": "Itemised pay statements",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 103,
+            "block_end": 104
+        },
+        "Article 15(2)": {
+            "heading": "Itemised pay statements",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 105,
+            "block_end": 105
+        },
+        "Article 16": {
+            "heading": "Payroll records",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 106,
+            "block_end": 112
+        },
+        "Article 16(1)(a)": {
+            "heading": "Payroll records",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 108,
+            "block_end": 110
+        },
+        "Article 16(1)": {
+            "heading": "Payroll records",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 107,
+            "block_end": 110
+        },
+        "Article 16(2)(a)": {
+            "heading": "Payroll records",
+            "article_number": "16",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 112,
+            "block_end": 112
+        },
+        "Article 16(2)": {
+            "heading": "Payroll records",
+            "article_number": "16",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 111,
+            "block_end": 112
+        },
+        "Article 17": {
+            "heading": "Part-Time Employees and Short-Term Employees",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 11,
+            "block_start": 113,
+            "block_end": 130
+        },
+        "Article 17(1)(a)": {
+            "heading": "Part-Time Employees and Short-Term Employees",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 115,
+            "block_end": 116
+        },
+        "Article 17(1)": {
+            "heading": "Part-Time Employees and Short-Term Employees",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 114,
+            "block_end": 116
+        },
+        "Article 17(2)": {
+            "heading": "Part-Time Employees and Short-Term Employees",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 117,
+            "block_end": 117
+        },
+        "Article 17(3)(a)": {
+            "heading": "Part-Time Employees and Short-Term Employees",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 119,
+            "block_end": 121
+        },
+        "Article 17(3)": {
+            "heading": "Part-Time Employees and Short-Term Employees",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 118,
+            "block_end": 121
+        },
+        "Article 17(4)(a)": {
+            "heading": "Part-Time Employees and Short-Term Employees",
+            "article_number": "17",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 123,
+            "block_end": 123
+        },
+        "Article 17(4)(i)": {
+            "heading": "Part-Time Employees and Short-Term Employees",
+            "article_number": "17",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 124,
+            "block_end": 125
+        },
+        "Article 17(4)": {
+            "heading": "Part-Time Employees and Short-Term Employees",
+            "article_number": "17",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 122,
+            "block_end": 125
+        },
+        "Article 17(5)(a)": {
+            "heading": "Part-Time Employees and Short-Term Employees",
+            "article_number": "17",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 127,
+            "block_end": 130
+        },
+        "Article 17(5)": {
+            "heading": "Part-Time Employees and Short-Term Employees",
+            "article_number": "17",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 126,
+            "block_end": 130
+        },
+        "Article 18(1)": {
+            "heading": "Paydays",
+            "article_number": "18",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 132,
+            "block_end": 132
+        },
+        "Article 19": {
+            "heading": "Payments following termination",
+            "article_number": "19",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 133,
+            "block_end": 139
+        },
+        "Article 19(1)(a)": {
+            "heading": "Payments following termination",
+            "article_number": "19",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 135,
+            "block_end": 136
+        },
+        "Article 19(1)": {
+            "heading": "Payments following termination",
+            "article_number": "19",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 134,
+            "block_end": 136
+        },
+        "Article 19(3)(a)": {
+            "heading": "Payments following termination",
+            "article_number": "19",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 139,
+            "block_end": 139
+        },
+        "Article 19(3)": {
+            "heading": "Payments following termination",
+            "article_number": "19",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 137,
+            "block_end": 139
+        },
+        "Article 20": {
+            "heading": "Deductions",
+            "article_number": "20",
+            "page_start": 11,
+            "page_end": 12,
+            "block_start": 140,
+            "block_end": 149
+        },
+        "Article 20(2)(a)": {
+            "heading": "Deductions",
+            "article_number": "20",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 146,
+            "block_end": 146
+        },
+        "Article 20(2)(i)": {
+            "heading": "Deductions",
+            "article_number": "20",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 149,
+            "block_end": 149
+        },
+        "Article 20(2)(b)": {
+            "heading": "Deductions",
+            "article_number": "20",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 148,
+            "block_end": 148
+        },
+        "Article 20(2)": {
+            "heading": "Deductions",
+            "article_number": "20",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 145,
+            "block_end": 149
+        },
+        "Article 21": {
+            "heading": "Recruitment costs",
+            "article_number": "21",
+            "page_start": 12,
+            "page_end": 14,
+            "block_start": 150,
+            "block_end": 160
+        },
+        "Article 21(1)(a)": {
+            "heading": "Recruitment costs",
+            "article_number": "21",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 152,
+            "block_end": 152
+        },
+        "Article 21(1)": {
+            "heading": "Recruitment costs",
+            "article_number": "21",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 151,
+            "block_end": 152
+        },
+        "Article 21(2)": {
+            "heading": "Recruitment costs",
+            "article_number": "21",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 153,
+            "block_end": 153
+        },
+        "Article 21(3)(a)": {
+            "heading": "Recruitment costs",
+            "article_number": "21",
+            "page_start": 12,
+            "page_end": 14,
+            "block_start": 155,
+            "block_end": 160
+        },
+        "Article 21(3)": {
+            "heading": "Recruitment costs",
+            "article_number": "21",
+            "page_start": 12,
+            "page_end": 14,
+            "block_start": 154,
+            "block_end": 160
+        },
+        "Article 23": {
+            "heading": "Ramadan",
+            "article_number": "23",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 163,
+            "block_end": 164
+        },
+        "Article 24": {
+            "heading": "Daily rest",
+            "article_number": "24",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 165,
+            "block_end": 166
+        },
+        "Article 25": {
+            "heading": "Weekly rest period",
+            "article_number": "25",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 167,
+            "block_end": 168
+        },
+        "Article 26": {
+            "heading": "Breaks",
+            "article_number": "26",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 169,
+            "block_end": 170
+        },
+        "Article 26(1)": {
+            "heading": "Breaks",
+            "article_number": "26",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 170,
+            "block_end": 170
+        },
+        "Article 27": {
+            "heading": "Vacation Leave",
+            "article_number": "27",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 171,
+            "block_end": 178
+        },
+        "Article 27(1)": {
+            "heading": "Vacation Leave",
+            "article_number": "27",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 172,
+            "block_end": 172
+        },
+        "Article 27(2)": {
+            "heading": "Vacation Leave",
+            "article_number": "27",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 173,
+            "block_end": 173
+        },
+        "Article 27(3)": {
+            "heading": "Vacation Leave",
+            "article_number": "27",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 174,
+            "block_end": 174
+        },
+        "Article 27(4)": {
+            "heading": "Vacation Leave",
+            "article_number": "27",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 175,
+            "block_end": 175
+        },
+        "Article 27(5)": {
+            "heading": "Vacation Leave",
+            "article_number": "27",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 176,
+            "block_end": 176
+        },
+        "Article 27(6)": {
+            "heading": "Vacation Leave",
+            "article_number": "27",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 177,
+            "block_end": 178
+        },
+        "Article 28": {
+            "heading": "Compensation in lieu of Vacation Leave",
+            "article_number": "28",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 179,
+            "block_end": 180
+        },
+        "Article 28(1)": {
+            "heading": "Compensation in lieu of Vacation Leave",
+            "article_number": "28",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 180,
+            "block_end": 180
+        },
+        "Article 29": {
+            "heading": "Dates of Vacation Leave",
+            "article_number": "29",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 181,
+            "block_end": 182
+        },
+        "Article 29(1)": {
+            "heading": "Dates of Vacation Leave",
+            "article_number": "29",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 182,
+            "block_end": 182
+        },
+        "Article 30": {
+            "heading": "Vacation Leave during first year of employment",
+            "article_number": "30",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 183,
+            "block_end": 184
+        },
+        "Article 30(1)": {
+            "heading": "Vacation Leave during first year of employment",
+            "article_number": "30",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 184,
+            "block_end": 184
+        },
+        "Article 31": {
+            "heading": "Entitlements under other provisions",
+            "article_number": "31",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 185,
+            "block_end": 186
+        },
+        "Article 32": {
+            "heading": "Public Holidays and pay",
+            "article_number": "32",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 187,
+            "block_end": 192
+        },
+        "Article 32(1)": {
+            "heading": "Public Holidays and pay",
+            "article_number": "32",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 188,
+            "block_end": 189
+        },
+        "Article 32(3)(a)": {
+            "heading": "Public Holidays and pay",
+            "article_number": "32",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 191,
+            "block_end": 192
+        },
+        "Article 32(3)": {
+            "heading": "Public Holidays and pay",
+            "article_number": "32",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 190,
+            "block_end": 192
+        },
+        "Article 33": {
+            "heading": "Special Leave",
+            "article_number": "33",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 193,
+            "block_end": 194
+        },
+        "Article 34": {
+            "heading": "Sick Leave",
+            "article_number": "34",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 195,
+            "block_end": 198
+        },
+        "Article 34(1)(a)": {
+            "heading": "Sick Leave",
+            "article_number": "34",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 198,
+            "block_end": 198
+        },
+        "Article 34(1)": {
+            "heading": "Sick Leave",
+            "article_number": "34",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 196,
+            "block_end": 198
+        },
+        "Article 35": {
+            "heading": "Sick Pay",
+            "article_number": "35",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 199,
+            "block_end": 203
+        },
+        "Article 35(1)(a)": {
+            "heading": "Sick Pay",
+            "article_number": "35",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 201,
+            "block_end": 201
+        },
+        "Article 35(1)": {
+            "heading": "Sick Pay",
+            "article_number": "35",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 200,
+            "block_end": 201
+        },
+        "Article 35(2)": {
+            "heading": "Sick Pay",
+            "article_number": "35",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 202,
+            "block_end": 202
+        },
+        "Article 35(3)": {
+            "heading": "Sick Pay",
+            "article_number": "35",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 203,
+            "block_end": 203
+        },
+        "Article 36": {
+            "heading": "Excessive Sick Leave",
+            "article_number": "36",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 204,
+            "block_end": 207
+        },
+        "Article 36(1)": {
+            "heading": "Excessive Sick Leave",
+            "article_number": "36",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 205,
+            "block_end": 207
+        },
+        "Article 37(1)": {
+            "heading": "Maternity Leave",
+            "article_number": "37",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 209,
+            "block_end": 209
+        },
+        "Article 37(3)": {
+            "heading": "Maternity Leave",
+            "article_number": "37",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 210,
+            "block_end": 210
+        },
+        "Article 37(4)": {
+            "heading": "Maternity Leave",
+            "article_number": "37",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 211,
+            "block_end": 211
+        },
+        "Article 37(5)": {
+            "heading": "Maternity Leave",
+            "article_number": "37",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 212,
+            "block_end": 212
+        },
+        "Article 38": {
+            "heading": "Maternity Pay",
+            "article_number": "38",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 213,
+            "block_end": 216
+        },
+        "Article 38(1)(a)": {
+            "heading": "Maternity Pay",
+            "article_number": "38",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 215,
+            "block_end": 215
+        },
+        "Article 38(1)": {
+            "heading": "Maternity Pay",
+            "article_number": "38",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 214,
+            "block_end": 215
+        },
+        "Article 38(2)": {
+            "heading": "Maternity Pay",
+            "article_number": "38",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 216,
+            "block_end": 216
+        },
+        "Article 39": {
+            "heading": "Paternity Leave and pay",
+            "article_number": "39",
+            "page_start": 17,
+            "page_end": 18,
+            "block_start": 217,
+            "block_end": 226
+        },
+        "Article 39(1)(a)": {
+            "heading": "Paternity Leave and pay",
+            "article_number": "39",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 219,
+            "block_end": 220
+        },
+        "Article 39(1)": {
+            "heading": "Paternity Leave and pay",
+            "article_number": "39",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 218,
+            "block_end": 220
+        },
+        "Article 39(2)": {
+            "heading": "Paternity Leave and pay",
+            "article_number": "39",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 221,
+            "block_end": 221
+        },
+        "Article 39(3)(a)": {
+            "heading": "Paternity Leave and pay",
+            "article_number": "39",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 223,
+            "block_end": 223
+        },
+        "Article 39(3)": {
+            "heading": "Paternity Leave and pay",
+            "article_number": "39",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 222,
+            "block_end": 223
+        },
+        "Article 39(4)": {
+            "heading": "Paternity Leave and pay",
+            "article_number": "39",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 224,
+            "block_end": 224
+        },
+        "Article 39(5)": {
+            "heading": "Paternity Leave and pay",
+            "article_number": "39",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 225,
+            "block_end": 225
+        },
+        "Article 39(6)": {
+            "heading": "Paternity Leave and pay",
+            "article_number": "39",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 226,
+            "block_end": 226
+        },
+        "Article 40": {
+            "heading": "Right to return to work",
+            "article_number": "40",
+            "page_start": 18,
+            "page_end": 19,
+            "block_start": 227,
+            "block_end": 232
+        },
+        "Article 40(1)(a)": {
+            "heading": "Right to return to work",
+            "article_number": "40",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 229,
+            "block_end": 229
+        },
+        "Article 40(1)": {
+            "heading": "Right to return to work",
+            "article_number": "40",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 228,
+            "block_end": 229
+        },
+        "Article 40(2)": {
+            "heading": "Right to return to work",
+            "article_number": "40",
+            "page_start": 18,
+            "page_end": 19,
+            "block_start": 230,
+            "block_end": 232
+        },
+        "Article 41(1)(a)": {
+            "heading": "Time off for ante-natal care and adoption proceedings",
+            "article_number": "41",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 235,
+            "block_end": 236
+        },
+        "Article 41(1)": {
+            "heading": "Time off for ante-natal care and adoption proceedings",
+            "article_number": "41",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 234,
+            "block_end": 236
+        },
+        "Article 41(2)(a)": {
+            "heading": "Time off for ante-natal care and adoption proceedings",
+            "article_number": "41",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 238,
+            "block_end": 238
+        },
+        "Article 41(2)": {
+            "heading": "Time off for ante-natal care and adoption proceedings",
+            "article_number": "41",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 237,
+            "block_end": 238
+        },
+        "Article 41(3)(a)": {
+            "heading": "Time off for ante-natal care and adoption proceedings",
+            "article_number": "41",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 240,
+            "block_end": 240
+        },
+        "Article 41(3)": {
+            "heading": "Time off for ante-natal care and adoption proceedings",
+            "article_number": "41",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 239,
+            "block_end": 240
+        },
+        "Article 42": {
+            "heading": "Remuneration for time off under Article 41",
+            "article_number": "42",
+            "page_start": 19,
+            "page_end": 20,
+            "block_start": 241,
+            "block_end": 244
+        },
+        "Article 43(1)": {
+            "heading": "General duties of Employers",
+            "article_number": "43",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 246,
+            "block_end": 246
+        },
+        "Article 44": {
+            "heading": "Health and safety",
+            "article_number": "44",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 247,
+            "block_end": 250
+        },
+        "Article 44(1)(a)": {
+            "heading": "Health and safety",
+            "article_number": "44",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 249,
+            "block_end": 249
+        },
+        "Article 44(1)": {
+            "heading": "Health and safety",
+            "article_number": "44",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 248,
+            "block_end": 249
+        },
+        "Article 44(2)": {
+            "heading": "Health and safety",
+            "article_number": "44",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 250,
+            "block_end": 250
+        },
+        "Article 45": {
+            "heading": "Ventilation",
+            "article_number": "45",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 251,
+            "block_end": 252
+        },
+        "Article 46": {
+            "heading": "Temperature in indoor workplaces",
+            "article_number": "46",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 253,
+            "block_end": 254
+        },
+        "Article 47": {
+            "heading": "Lighting",
+            "article_number": "47",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 255,
+            "block_end": 256
+        },
+        "Article 48": {
+            "heading": "Cleanliness",
+            "article_number": "48",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 257,
+            "block_end": 259
+        },
+        "Article 49": {
+            "heading": "Room dimensions and space",
+            "article_number": "49",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 260,
+            "block_end": 261
+        },
+        "Article 50": {
+            "heading": "Workstations and seating",
+            "article_number": "50",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 262,
+            "block_end": 263
+        },
+        "Article 51": {
+            "heading": "Sanitary conveniences",
+            "article_number": "51",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 264,
+            "block_end": 265
+        },
+        "Article 52": {
+            "heading": "Drinking water",
+            "article_number": "52",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 266,
+            "block_end": 267
+        },
+        "Article 53": {
+            "heading": "No penalties for preventing health and safety risks",
+            "article_number": "53",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 268,
+            "block_end": 271
+        },
+        "Article 53(1)(a)": {
+            "heading": "No penalties for preventing health and safety risks",
+            "article_number": "53",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 270,
+            "block_end": 270
+        },
+        "Article 53(1)": {
+            "heading": "No penalties for preventing health and safety risks",
+            "article_number": "53",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 269,
+            "block_end": 270
+        },
+        "Article 53(2)": {
+            "heading": "No penalties for preventing health and safety risks",
+            "article_number": "53",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 271,
+            "block_end": 271
+        },
+        "Article 54": {
+            "heading": "Liability of Employers for an Employee’s conduct",
+            "article_number": "54",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 272,
+            "block_end": 276
+        },
+        "Article 54(1)": {
+            "heading": "Liability of Employers for an Employee’s conduct",
+            "article_number": "54",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 273,
+            "block_end": 273
+        },
+        "Article 54(2)(a)": {
+            "heading": "Liability of Employers for an Employee’s conduct",
+            "article_number": "54",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 275,
+            "block_end": 276
+        },
+        "Article 54(2)": {
+            "heading": "Liability of Employers for an Employee’s conduct",
+            "article_number": "54",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 274,
+            "block_end": 276
+        },
+        "Article 55": {
+            "heading": "Employment accidents and illnesses",
+            "article_number": "55",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 277,
+            "block_end": 279
+        },
+        "Article 56": {
+            "heading": "Health insurance",
+            "article_number": "56",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 280,
+            "block_end": 281
+        },
+        "Article 57": {
+            "heading": "Visas and permits",
+            "article_number": "57",
+            "page_start": 22,
+            "page_end": 23,
+            "block_start": 282,
+            "block_end": 289
+        },
+        "Article 57(1)": {
+            "heading": "Visas and permits",
+            "article_number": "57",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 283,
+            "block_end": 283
+        },
+        "Article 57(2)(a)": {
+            "heading": "Visas and permits",
+            "article_number": "57",
+            "page_start": 22,
+            "page_end": 23,
+            "block_start": 285,
+            "block_end": 289
+        },
+        "Article 57(2)": {
+            "heading": "Visas and permits",
+            "article_number": "57",
+            "page_start": 22,
+            "page_end": 23,
+            "block_start": 284,
+            "block_end": 289
+        },
+        "Article 58(1)(a)": {
+            "heading": "General duties of Employees",
+            "article_number": "58",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 292,
+            "block_end": 292
+        },
+        "Article 58(1)": {
+            "heading": "General duties of Employees",
+            "article_number": "58",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 291,
+            "block_end": 292
+        },
+        "Article 58(2)": {
+            "heading": "General duties of Employees",
+            "article_number": "58",
+            "page_start": 23,
+            "page_end": 24,
+            "block_start": 293,
+            "block_end": 295
+        },
+        "Article 59(1)(a)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 298,
+            "block_end": 298
+        },
+        "Article 59(1)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 297,
+            "block_end": 298
+        },
+        "Article 59(2)(a)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 300,
+            "block_end": 301
+        },
+        "Article 59(2)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 299,
+            "block_end": 301
+        },
+        "Article 59(4)(a)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 303,
+            "block_end": 303
+        },
+        "Article 59(4)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 302,
+            "block_end": 303
+        },
+        "Article 59(5)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 304,
+            "block_end": 306
+        },
+        "Article 59(6)(a)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 308,
+            "block_end": 308
+        },
+        "Article 59(6)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 307,
+            "block_end": 308
+        },
+        "Article 59(7)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 309,
+            "block_end": 309
+        },
+        "Article 59(8)(a)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 311,
+            "block_end": 311
+        },
+        "Article 59(8)(b)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 312,
+            "block_end": 312
+        },
+        "Article 59(8)(c)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 313,
+            "block_end": 313
+        },
+        "Article 59(8)(d)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 314,
+            "block_end": 314
+        },
+        "Article 59(8)(i)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 315,
+            "block_end": 316
+        },
+        "Article 59(8)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 310,
+            "block_end": 316
+        },
+        "Article 59(9)": {
+            "heading": "Discrimination",
+            "article_number": "59",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 317,
+            "block_end": 317
+        },
+        "Article 60": {
+            "heading": "Victimisation",
+            "article_number": "60",
+            "page_start": 25,
+            "page_end": 26,
+            "block_start": 318,
+            "block_end": 323
+        },
+        "Article 60(1)": {
+            "heading": "Victimisation",
+            "article_number": "60",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 319,
+            "block_end": 319
+        },
+        "Article 60(2)(a)": {
+            "heading": "Victimisation",
+            "article_number": "60",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 321,
+            "block_end": 322
+        },
+        "Article 60(2)": {
+            "heading": "Victimisation",
+            "article_number": "60",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 320,
+            "block_end": 322
+        },
+        "Article 60(3)": {
+            "heading": "Victimisation",
+            "article_number": "60",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 323,
+            "block_end": 323
+        },
+        "Article 61": {
+            "heading": "Proceedings under Part 9",
+            "article_number": "61",
+            "page_start": 26,
+            "page_end": 28,
+            "block_start": 324,
+            "block_end": 342
+        },
+        "Article 61(1)(a)": {
+            "heading": "Proceedings under Part 9",
+            "article_number": "61",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 326,
+            "block_end": 326
+        },
+        "Article 61(1)": {
+            "heading": "Proceedings under Part 9",
+            "article_number": "61",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 325,
+            "block_end": 326
+        },
+        "Article 61(2)(a)": {
+            "heading": "Proceedings under Part 9",
+            "article_number": "61",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 328,
+            "block_end": 328
+        },
+        "Article 61(2)": {
+            "heading": "Proceedings under Part 9",
+            "article_number": "61",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 327,
+            "block_end": 328
+        },
+        "Article 61(3)(a)": {
+            "heading": "Proceedings under Part 9",
+            "article_number": "61",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 330,
+            "block_end": 330
+        },
+        "Article 61(3)": {
+            "heading": "Proceedings under Part 9",
+            "article_number": "61",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 329,
+            "block_end": 330
+        },
+        "Article 61(4)(a)": {
+            "heading": "Proceedings under Part 9",
+            "article_number": "61",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 332,
+            "block_end": 332
+        },
+        "Article 61(4)": {
+            "heading": "Proceedings under Part 9",
+            "article_number": "61",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 331,
+            "block_end": 332
+        },
+        "Article 61(5)(a)": {
+            "heading": "Proceedings under Part 9",
+            "article_number": "61",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 334,
+            "block_end": 334
+        },
+        "Article 61(5)": {
+            "heading": "Proceedings under Part 9",
+            "article_number": "61",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 333,
+            "block_end": 334
+        },
+        "Article 61(6)": {
+            "heading": "Proceedings under Part 9",
+            "article_number": "61",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 335,
+            "block_end": 335
+        },
+        "Article 61(7)": {
+            "heading": "Proceedings under Part 9",
+            "article_number": "61",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 336,
+            "block_end": 338
+        },
+        "Article 61(8)(a)": {
+            "heading": "Proceedings under Part 9",
+            "article_number": "61",
+            "page_start": 27,
+            "page_end": 28,
+            "block_start": 340,
+            "block_end": 342
+        },
+        "Article 61(8)": {
+            "heading": "Proceedings under Part 9",
+            "article_number": "61",
+            "page_start": 27,
+            "page_end": 28,
+            "block_start": 339,
+            "block_end": 342
+        },
+        "Article 62(1)(a)": {
+            "heading": "Minimum notice periods",
+            "article_number": "62",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 346,
+            "block_end": 346
+        },
+        "Article 62(1)": {
+            "heading": "Minimum notice periods",
+            "article_number": "62",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 344,
+            "block_end": 346
+        },
+        "Article 62(3)": {
+            "heading": "Minimum notice periods",
+            "article_number": "62",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 347,
+            "block_end": 347
+        },
+        "Article 62(4)": {
+            "heading": "Minimum notice periods",
+            "article_number": "62",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 348,
+            "block_end": 348
+        },
+        "Article 62(5)": {
+            "heading": "Minimum notice periods",
+            "article_number": "62",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 349,
+            "block_end": 349
+        },
+        "Article 62(6)(a)": {
+            "heading": "Minimum notice periods",
+            "article_number": "62",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 351,
+            "block_end": 351
+        },
+        "Article 62(6)": {
+            "heading": "Minimum notice periods",
+            "article_number": "62",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 350,
+            "block_end": 351
+        },
+        "Article 63": {
+            "heading": "Termination for cause",
+            "article_number": "63",
+            "page_start": 28,
+            "page_end": 29,
+            "block_start": 352,
+            "block_end": 359
+        },
+        "Article 63(1)": {
+            "heading": "Termination for cause",
+            "article_number": "63",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 353,
+            "block_end": 353
+        },
+        "Article 63(2)(a)": {
+            "heading": "Termination for cause",
+            "article_number": "63",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 355,
+            "block_end": 355
+        },
+        "Article 63(2)": {
+            "heading": "Termination for cause",
+            "article_number": "63",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 354,
+            "block_end": 355
+        },
+        "Article 63(3)(a)": {
+            "heading": "Termination for cause",
+            "article_number": "63",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 359,
+            "block_end": 359
+        },
+        "Article 63(3)": {
+            "heading": "Termination for cause",
+            "article_number": "63",
+            "page_start": 28,
+            "page_end": 29,
+            "block_start": 356,
+            "block_end": 359
+        },
+        "Article 64": {
+            "heading": "Right to written statement of reasons",
+            "article_number": "64",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 360,
+            "block_end": 362
+        },
+        "Article 64(1)": {
+            "heading": "Right to written statement of reasons",
+            "article_number": "64",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 361,
+            "block_end": 361
+        },
+        "Article 64(2)": {
+            "heading": "Right to written statement of reasons",
+            "article_number": "64",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 362,
+            "block_end": 362
+        },
+        "Article 65": {
+            "heading": "Pension for UAE and GCC nationals",
+            "article_number": "65",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 363,
+            "block_end": 366
+        },
+        "Article 65(1)": {
+            "heading": "Pension for UAE and GCC nationals",
+            "article_number": "65",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 364,
+            "block_end": 364
+        },
+        "Article 65(2)": {
+            "heading": "Pension for UAE and GCC nationals",
+            "article_number": "65",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 365,
+            "block_end": 365
+        },
+        "Article 65(3)": {
+            "heading": "Pension for UAE and GCC nationals",
+            "article_number": "65",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 366,
+            "block_end": 366
+        },
+        "Article 66": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 29,
+            "page_end": 34,
+            "block_start": 367,
+            "block_end": 421
+        },
+        "Article 66(1)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 368,
+            "block_end": 368
+        },
+        "Article 66(2)(a)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 370,
+            "block_end": 370
+        },
+        "Article 66(2)(b)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 371,
+            "block_end": 372
+        },
+        "Article 66(2)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 369,
+            "block_end": 372
+        },
+        "Article 66(3)(a)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 374,
+            "block_end": 375
+        },
+        "Article 66(3)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 373,
+            "block_end": 375
+        },
+        "Article 66(4)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 376,
+            "block_end": 377
+        },
+        "Article 66(6)(a)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 379,
+            "block_end": 379
+        },
+        "Article 66(6)(i)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 380,
+            "block_end": 380
+        },
+        "Article 66(6)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 378,
+            "block_end": 380
+        },
+        "Article 66(7)(a)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 382,
+            "block_end": 383
+        },
+        "Article 66(7)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 381,
+            "block_end": 383
+        },
+        "Article 66(8)(a)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 386,
+            "block_end": 386
+        },
+        "Article 66(8)(i)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 390,
+            "block_end": 390
+        },
+        "Article 66(8)(d)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 391,
+            "block_end": 391
+        },
+        "Article 66(8)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 30,
+            "page_end": 31,
+            "block_start": 384,
+            "block_end": 391
+        },
+        "Article 66(9)(a)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 393,
+            "block_end": 393
+        },
+        "Article 66(9)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 392,
+            "block_end": 393
+        },
+        "Article 66(10)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 394,
+            "block_end": 394
+        },
+        "Article 66(11)(a)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 396,
+            "block_end": 398
+        },
+        "Article 66(11)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 395,
+            "block_end": 398
+        },
+        "Article 66(12)(a)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 400,
+            "block_end": 400
+        },
+        "Article 66(12)(i)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 401,
+            "block_end": 403
+        },
+        "Article 66(12)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 399,
+            "block_end": 403
+        },
+        "Article 66(13)(a)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 405,
+            "block_end": 406
+        },
+        "Article 66(13)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 404,
+            "block_end": 406
+        },
+        "Article 66(14)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 407,
+            "block_end": 407
+        },
+        "Article 66(15)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 408,
+            "block_end": 408
+        },
+        "Article 66(16)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 409,
+            "block_end": 409
+        },
+        "Article 66(17)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 410,
+            "block_end": 410
+        },
+        "Article 66(18)(a)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 412,
+            "block_end": 414
+        },
+        "Article 66(18)(b)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 415,
+            "block_end": 416
+        },
+        "Article 66(18)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 32,
+            "page_end": 33,
+            "block_start": 411,
+            "block_end": 416
+        },
+        "Article 66(19)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 417,
+            "block_end": 417
+        },
+        "Article 66(20)": {
+            "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+            "article_number": "66",
+            "page_start": 33,
+            "page_end": 34,
+            "block_start": 418,
+            "block_end": 421
+        },
+        "Article 67(1)(a)": {
+            "heading": "General contraventions",
+            "article_number": "67",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 424,
+            "block_end": 425
+        },
+        "Article 67(1)": {
+            "heading": "General contraventions",
+            "article_number": "67",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 423,
+            "block_end": 425
+        },
+        "Article 67(2)": {
+            "heading": "General contraventions",
+            "article_number": "67",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 426,
+            "block_end": 426
+        },
+        "Article 68": {
+            "heading": "Administration of fines and penalties",
+            "article_number": "68",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 427,
+            "block_end": 435
+        },
+        "Article 68(1)(a)": {
+            "heading": "Administration of fines and penalties",
+            "article_number": "68",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 429,
+            "block_end": 429
+        },
+        "Article 68(1)": {
+            "heading": "Administration of fines and penalties",
+            "article_number": "68",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 428,
+            "block_end": 429
+        },
+        "Article 68(2)": {
+            "heading": "Administration of fines and penalties",
+            "article_number": "68",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 430,
+            "block_end": 430
+        },
+        "Article 68(3)(a)": {
+            "heading": "Administration of fines and penalties",
+            "article_number": "68",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 432,
+            "block_end": 432
+        },
+        "Article 68(3)": {
+            "heading": "Administration of fines and penalties",
+            "article_number": "68",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 431,
+            "block_end": 432
+        },
+        "Article 68(4)(a)": {
+            "heading": "Administration of fines and penalties",
+            "article_number": "68",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 434,
+            "block_end": 435
+        },
+        "Article 68(4)": {
+            "heading": "Administration of fines and penalties",
+            "article_number": "68",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 433,
+            "block_end": 435
+        },
+        "Article 69": {
+            "heading": "Inspections and access to records",
+            "article_number": "69",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 436,
+            "block_end": 438
+        },
+        "Article 69(1)": {
+            "heading": "Inspections and access to records",
+            "article_number": "69",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 437,
+            "block_end": 437
+        },
+        "Article 69(2)": {
+            "heading": "Inspections and access to records",
+            "article_number": "69",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 438,
+            "block_end": 438
+        },
+        "Article 70": {
+            "heading": "Liability of the DIFCA",
+            "article_number": "70",
+            "page_start": 35,
+            "page_end": 36,
+            "block_start": 439,
+            "block_end": 442
+        },
+        "Article 1(1)(c)": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 445,
+            "block_end": 445
+        },
+        "Article 1(1)(d)": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 446,
+            "block_end": 446
+        },
+        "Article 1(1)(e)": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 447,
+            "block_end": 447
+        },
+        "Article 1(1)(f)": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 448,
+            "block_end": 448
+        },
+        "Article 1(1)(g)": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 449,
+            "block_end": 449
+        },
+        "Article 1(1)(h)": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 450,
+            "block_end": 450
+        },
+        "Article 1(1)(i)": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 451,
+            "block_end": 451
+        },
+        "Article 1(1)(j)": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 452,
+            "block_end": 452
+        }
+    },
+    "section_heading_index": {
+        "Title and repeal.. 1 2. Legislative Authority.. 1 3. Purpose of this Law . 1 4. Application of the Law.... .. 1 5. Date of enactment. . 2 6. Commencement.. 2 7. Schedules..... . 2 8. Administration of the Law... . 2 9. The power of the DIFCA to make Regulations and impose fines and penalties . . 3 10. Limitation Period.. . 3": [
+            {
+                "heading": "Title and repeal.. 1 2. Legislative Authority.. 1 3. Purpose of this Law . 1 4. Application of the Law.... .. 1 5. Date of enactment. . 2 6. Commencement.. 2 7. Schedules..... . 2 8. Administration of the Law... . 2 9. The power of the DIFCA to make Regulations and impose fines and penalties . . 3 10. Limitation Period.. . 3",
+                "article_number": "1",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 13,
+                "block_end": 14
+            }
+        ],
+        "No waiver ..... .... 4 12. No false representations . ............................................................................. .... 4 13. Hiring children ......... 14. Right to a written contract .. ........................................................................................................... .... 4 15. Itemised pay statements..... .......................................................................................... ...... 5 16. Payroll records... .............................................................................. ..... 5 17. Part-Time Employees and Short-Term Employees .. .... 6": [
+            {
+                "heading": "No waiver ..... .... 4 12. No false representations . ............................................................................. .... 4 13. Hiring children ......... 14. Right to a written contract .. ........................................................................................................... .... 4 15. Itemised pay statements..... .......................................................................................... ...... 5 16. Payroll records... .............................................................................. ..... 5 17. Part-Time Employees and Short-Term Employees .. .... 6",
+                "article_number": "11",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 15,
+                "block_end": 16
+            }
+        ],
+        "Paydays.......... ... 8 19. Payments following termination.. .. 8 20. Deductions.... . 8 21. Recruitment costs . . 9": [
+            {
+                "heading": "Paydays.......... ... 8 19. Payments following termination.. .. 8 20. Deductions.... . 8 21. Recruitment costs . . 9",
+                "article_number": "18",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 17,
+                "block_end": 18
+            }
+        ],
+        "Maximum weekly working time... ................................................................................................. ... 11 23. Ramadan... .......................................................................................................... . 11 24. Daily rest ....... ..................................................................................................................... .... 11 25. Weekly rest period... ....................................................................................................................... . 11 26. Breaks.... 27. Vacation Leave..... ............................................................................................. ..... 11 28. Compensation in lieu of Vacation Leave.... ..................................................................................... . 12 29. Dates of Vacation Leave .... ............................................................................................ 12 30. Vacation Leave during first year of employment .................................................................................. ..... 12 31. Entitlements under other provisions ... ...................................................................................... . 12 32. Public Holidays and pay. ................................................................................................................ 12 33. Special Leave ..... ............................................................................................................... .... 13 34. Sick Leave .... ............................................................................................................. . 13 35. Sick Pay ............... .............................................................................................................................. . 13 36. Excessive Sick Leave ................................................. ...................................................... ..... 13": [
+            {
+                "heading": "Maximum weekly working time... ................................................................................................. ... 11 23. Ramadan... .......................................................................................................... . 11 24. Daily rest ....... ..................................................................................................................... .... 11 25. Weekly rest period... ....................................................................................................................... . 11 26. Breaks.... 27. Vacation Leave..... ............................................................................................. ..... 11 28. Compensation in lieu of Vacation Leave.... ..................................................................................... . 12 29. Dates of Vacation Leave .... ............................................................................................ 12 30. Vacation Leave during first year of employment .................................................................................. ..... 12 31. Entitlements under other provisions ... ...................................................................................... . 12 32. Public Holidays and pay. ................................................................................................................ 12 33. Special Leave ..... ............................................................................................................... .... 13 34. Sick Leave .... ............................................................................................................. . 13 35. Sick Pay ............... .............................................................................................................................. . 13 36. Excessive Sick Leave ................................................. ...................................................... ..... 13",
+                "article_number": "22",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 19,
+                "block_end": 20
+            }
+        ],
+        "Maternity Leave ...... . 14 38. Maternity Pay ... . 14 39. Paternity Leave and pay . 14 40. Right to return to work .. . 15": [
+            {
+                "heading": "Maternity Leave ...... . 14 38. Maternity Pay ... . 14 39. Paternity Leave and pay . 14 40. Right to return to work .. . 15",
+                "article_number": "37",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 21,
+                "block_end": 22
+            }
+        ],
+        "Time off for ante-natal care and adoption proceedings . . 16 42. Remuneration for time off under Article 41 .. .. 16": [
+            {
+                "heading": "Time off for ante-natal care and adoption proceedings . . 16 42. Remuneration for time off under Article 41 .. .. 16",
+                "article_number": "41",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 23,
+                "block_end": 24
+            }
+        ],
+        "General duties of Employers . . 17 44. Health and safety .. .. 17 45. Ventilation .... . 17 46. Temperature in indoor workplaces . . 17 47. Lighting ... 17 48. Cleanliness . . 17 49. Room dimensions and space ....... ...... 18 50. Workstations and seating.. . 18 51. Sanitary conveniences . .. 18 52. Drinking water.. .. 18 53. No penalties for preventing health and safety risks. ..................... .. 18 54. Liability of Employers for an Employee’s conduct.. . 18 55. Employment accidents and illnesses . .. 18 56. Health insurance .. . 19 57. Visas and permits . . 19": [
+            {
+                "heading": "General duties of Employers . . 17 44. Health and safety .. .. 17 45. Ventilation .... . 17 46. Temperature in indoor workplaces . . 17 47. Lighting ... 17 48. Cleanliness . . 17 49. Room dimensions and space ....... ...... 18 50. Workstations and seating.. . 18 51. Sanitary conveniences . .. 18 52. Drinking water.. .. 18 53. No penalties for preventing health and safety risks. ..................... .. 18 54. Liability of Employers for an Employee’s conduct.. . 18 55. Employment accidents and illnesses . .. 18 56. Health insurance .. . 19 57. Visas and permits . . 19",
+                "article_number": "43",
+                "page_start": 2,
+                "page_end": 3,
+                "block_start": 25,
+                "block_end": 28
+            }
+        ],
+        "General duties of Employees.. .. 20": [
+            {
+                "heading": "General duties of Employees.. .. 20",
+                "article_number": "58",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 29,
+                "block_end": 30
+            }
+        ],
+        "Discrimination .. .. 21 60. Victimisation .. . 22 61. Proceedings under Part 9 .. . 23": [
+            {
+                "heading": "Discrimination .. .. 21 60. Victimisation .. . 22 61. Proceedings under Part 9 .. . 23",
+                "article_number": "59",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 31,
+                "block_end": 32
+            }
+        ],
+        "Minimum notice periods... ............................................................................................ . 25 63. Termination for cause.. ...................................................................................................... .. 25 64. Right to written statement of reasons .... ......................................................................................... . 26 65. Pension for UAE and GCC nationals .. ................................................................................ .. 26 66. Gratuity Payment and Qualifying Scheme Benefits .. ....................................................................... .. 26": [
+            {
+                "heading": "Minimum notice periods... ............................................................................................ . 25 63. Termination for cause.. ...................................................................................................... .. 25 64. Right to written statement of reasons .... ......................................................................................... . 26 65. Pension for UAE and GCC nationals .. ................................................................................ .. 26 66. Gratuity Payment and Qualifying Scheme Benefits .. ....................................................................... .. 26",
+                "article_number": "62",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 33,
+                "block_end": 34
+            }
+        ],
+        "General contraventions...... . 31 68. Administration of fines and penalties . . 31 69. Inspections and access to records . . 32 70. Liability of the DIFCA .. .. 32": [
+            {
+                "heading": "General contraventions...... . 31 68. Administration of fines and penalties . . 31 69. Inspections and access to records . . 32 70. Liability of the DIFCA .. .. 32",
+                "article_number": "67",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 35,
+                "block_end": 40
+            }
+        ],
+        "Title and repeal": [
+            {
+                "heading": "Title and repeal",
+                "article_number": "1",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 41,
+                "block_end": 47
+            }
+        ],
+        "Legislative Authority": [
+            {
+                "heading": "Legislative Authority",
+                "article_number": "2",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 48,
+                "block_end": 49
+            }
+        ],
+        "Purpose of this Law": [
+            {
+                "heading": "Purpose of this Law",
+                "article_number": "3",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 50,
+                "block_end": 52
+            }
+        ],
+        "Application of the Law": [
+            {
+                "heading": "Application of the Law",
+                "article_number": "4",
+                "page_start": 4,
+                "page_end": 5,
+                "block_start": 53,
+                "block_end": 64
+            }
+        ],
+        "Date of enactment": [
+            {
+                "heading": "Date of enactment",
+                "article_number": "5",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 65,
+                "block_end": 69
+            }
+        ],
+        "Schedules": [
+            {
+                "heading": "Schedules",
+                "article_number": "7",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 70,
+                "block_end": 75
+            }
+        ],
+        "Administration of the Law": [
+            {
+                "heading": "Administration of the Law",
+                "article_number": "8",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 76,
+                "block_end": 77
+            }
+        ],
+        "The power of the DIFCA to make Regulations and impose fines and penalties (1) The Board of Directors of the DIFCA may:": [
+            {
+                "heading": "The power of the DIFCA to make Regulations and impose fines and penalties (1) The Board of Directors of the DIFCA may:",
+                "article_number": "9",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 78,
+                "block_end": 80
+            }
+        ],
+        "Limitation Period": [
+            {
+                "heading": "Limitation Period",
+                "article_number": "10",
+                "page_start": 6,
+                "page_end": 7,
+                "block_start": 81,
+                "block_end": 85
+            }
+        ],
+        "No waiver": [
+            {
+                "heading": "No waiver",
+                "article_number": "11",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 86,
+                "block_end": 89
+            }
+        ],
+        "No false representations": [
+            {
+                "heading": "No false representations",
+                "article_number": "12",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 90,
+                "block_end": 92
+            }
+        ],
+        "Hiring children": [
+            {
+                "heading": "Hiring children",
+                "article_number": "13",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 93,
+                "block_end": 94
+            }
+        ],
+        "Right to a written contract": [
+            {
+                "heading": "Right to a written contract",
+                "article_number": "14",
+                "page_start": 7,
+                "page_end": 8,
+                "block_start": 95,
+                "block_end": 101
+            }
+        ],
+        "Itemised pay statements": [
+            {
+                "heading": "Itemised pay statements",
+                "article_number": "15",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 102,
+                "block_end": 105
+            }
+        ],
+        "Payroll records": [
+            {
+                "heading": "Payroll records",
+                "article_number": "16",
+                "page_start": 8,
+                "page_end": 9,
+                "block_start": 106,
+                "block_end": 112
+            }
+        ],
+        "Part-Time Employees and Short-Term Employees": [
+            {
+                "heading": "Part-Time Employees and Short-Term Employees",
+                "article_number": "17",
+                "page_start": 9,
+                "page_end": 11,
+                "block_start": 113,
+                "block_end": 130
+            }
+        ],
+        "Paydays": [
+            {
+                "heading": "Paydays",
+                "article_number": "18",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 131,
+                "block_end": 132
+            }
+        ],
+        "Payments following termination": [
+            {
+                "heading": "Payments following termination",
+                "article_number": "19",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 133,
+                "block_end": 139
+            }
+        ],
+        "Deductions": [
+            {
+                "heading": "Deductions",
+                "article_number": "20",
+                "page_start": 11,
+                "page_end": 12,
+                "block_start": 140,
+                "block_end": 149
+            }
+        ],
+        "Recruitment costs": [
+            {
+                "heading": "Recruitment costs",
+                "article_number": "21",
+                "page_start": 12,
+                "page_end": 14,
+                "block_start": 150,
+                "block_end": 160
+            }
+        ],
+        "Maximum weekly working time": [
+            {
+                "heading": "Maximum weekly working time",
+                "article_number": "22",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 161,
+                "block_end": 162
+            }
+        ],
+        "Ramadan": [
+            {
+                "heading": "Ramadan",
+                "article_number": "23",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 163,
+                "block_end": 164
+            }
+        ],
+        "Daily rest": [
+            {
+                "heading": "Daily rest",
+                "article_number": "24",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 165,
+                "block_end": 166
+            }
+        ],
+        "Weekly rest period": [
+            {
+                "heading": "Weekly rest period",
+                "article_number": "25",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 167,
+                "block_end": 168
+            }
+        ],
+        "Breaks": [
+            {
+                "heading": "Breaks",
+                "article_number": "26",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 169,
+                "block_end": 170
+            }
+        ],
+        "Vacation Leave": [
+            {
+                "heading": "Vacation Leave",
+                "article_number": "27",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 171,
+                "block_end": 178
+            }
+        ],
+        "Compensation in lieu of Vacation Leave": [
+            {
+                "heading": "Compensation in lieu of Vacation Leave",
+                "article_number": "28",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 179,
+                "block_end": 180
+            }
+        ],
+        "Dates of Vacation Leave": [
+            {
+                "heading": "Dates of Vacation Leave",
+                "article_number": "29",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 181,
+                "block_end": 182
+            }
+        ],
+        "Vacation Leave during first year of employment": [
+            {
+                "heading": "Vacation Leave during first year of employment",
+                "article_number": "30",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 183,
+                "block_end": 184
+            }
+        ],
+        "Entitlements under other provisions": [
+            {
+                "heading": "Entitlements under other provisions",
+                "article_number": "31",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 185,
+                "block_end": 186
+            }
+        ],
+        "Public Holidays and pay": [
+            {
+                "heading": "Public Holidays and pay",
+                "article_number": "32",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 187,
+                "block_end": 192
+            }
+        ],
+        "Special Leave": [
+            {
+                "heading": "Special Leave",
+                "article_number": "33",
+                "page_start": 16,
+                "page_end": 16,
+                "block_start": 193,
+                "block_end": 194
+            }
+        ],
+        "Sick Leave": [
+            {
+                "heading": "Sick Leave",
+                "article_number": "34",
+                "page_start": 16,
+                "page_end": 16,
+                "block_start": 195,
+                "block_end": 198
+            }
+        ],
+        "Sick Pay": [
+            {
+                "heading": "Sick Pay",
+                "article_number": "35",
+                "page_start": 16,
+                "page_end": 16,
+                "block_start": 199,
+                "block_end": 203
+            }
+        ],
+        "Excessive Sick Leave": [
+            {
+                "heading": "Excessive Sick Leave",
+                "article_number": "36",
+                "page_start": 16,
+                "page_end": 17,
+                "block_start": 204,
+                "block_end": 207
+            }
+        ],
+        "Maternity Leave": [
+            {
+                "heading": "Maternity Leave",
+                "article_number": "37",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 208,
+                "block_end": 212
+            }
+        ],
+        "Maternity Pay": [
+            {
+                "heading": "Maternity Pay",
+                "article_number": "38",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 213,
+                "block_end": 216
+            }
+        ],
+        "Paternity Leave and pay": [
+            {
+                "heading": "Paternity Leave and pay",
+                "article_number": "39",
+                "page_start": 17,
+                "page_end": 18,
+                "block_start": 217,
+                "block_end": 226
+            }
+        ],
+        "Right to return to work": [
+            {
+                "heading": "Right to return to work",
+                "article_number": "40",
+                "page_start": 18,
+                "page_end": 19,
+                "block_start": 227,
+                "block_end": 232
+            }
+        ],
+        "Time off for ante-natal care and adoption proceedings": [
+            {
+                "heading": "Time off for ante-natal care and adoption proceedings",
+                "article_number": "41",
+                "page_start": 19,
+                "page_end": 19,
+                "block_start": 233,
+                "block_end": 240
+            }
+        ],
+        "Remuneration for time off under Article 41": [
+            {
+                "heading": "Remuneration for time off under Article 41",
+                "article_number": "42",
+                "page_start": 19,
+                "page_end": 20,
+                "block_start": 241,
+                "block_end": 244
+            }
+        ],
+        "General duties of Employers": [
+            {
+                "heading": "General duties of Employers",
+                "article_number": "43",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 245,
+                "block_end": 246
+            }
+        ],
+        "Health and safety": [
+            {
+                "heading": "Health and safety",
+                "article_number": "44",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 247,
+                "block_end": 250
+            }
+        ],
+        "Ventilation": [
+            {
+                "heading": "Ventilation",
+                "article_number": "45",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 251,
+                "block_end": 252
+            }
+        ],
+        "Temperature in indoor workplaces": [
+            {
+                "heading": "Temperature in indoor workplaces",
+                "article_number": "46",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 253,
+                "block_end": 254
+            }
+        ],
+        "Lighting": [
+            {
+                "heading": "Lighting",
+                "article_number": "47",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 255,
+                "block_end": 256
+            }
+        ],
+        "Cleanliness": [
+            {
+                "heading": "Cleanliness",
+                "article_number": "48",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 257,
+                "block_end": 259
+            }
+        ],
+        "Room dimensions and space": [
+            {
+                "heading": "Room dimensions and space",
+                "article_number": "49",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 260,
+                "block_end": 261
+            }
+        ],
+        "Workstations and seating": [
+            {
+                "heading": "Workstations and seating",
+                "article_number": "50",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 262,
+                "block_end": 263
+            }
+        ],
+        "Sanitary conveniences": [
+            {
+                "heading": "Sanitary conveniences",
+                "article_number": "51",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 264,
+                "block_end": 265
+            }
+        ],
+        "Drinking water": [
+            {
+                "heading": "Drinking water",
+                "article_number": "52",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 266,
+                "block_end": 267
+            }
+        ],
+        "No penalties for preventing health and safety risks": [
+            {
+                "heading": "No penalties for preventing health and safety risks",
+                "article_number": "53",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 268,
+                "block_end": 271
+            }
+        ],
+        "Liability of Employers for an Employee’s conduct": [
+            {
+                "heading": "Liability of Employers for an Employee’s conduct",
+                "article_number": "54",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 272,
+                "block_end": 276
+            }
+        ],
+        "Employment accidents and illnesses": [
+            {
+                "heading": "Employment accidents and illnesses",
+                "article_number": "55",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 277,
+                "block_end": 279
+            }
+        ],
+        "Health insurance": [
+            {
+                "heading": "Health insurance",
+                "article_number": "56",
+                "page_start": 22,
+                "page_end": 22,
+                "block_start": 280,
+                "block_end": 281
+            }
+        ],
+        "Visas and permits": [
+            {
+                "heading": "Visas and permits",
+                "article_number": "57",
+                "page_start": 22,
+                "page_end": 23,
+                "block_start": 282,
+                "block_end": 289
+            }
+        ],
+        "General duties of Employees": [
+            {
+                "heading": "General duties of Employees",
+                "article_number": "58",
+                "page_start": 23,
+                "page_end": 24,
+                "block_start": 290,
+                "block_end": 295
+            }
+        ],
+        "Discrimination": [
+            {
+                "heading": "Discrimination",
+                "article_number": "59",
+                "page_start": 24,
+                "page_end": 25,
+                "block_start": 296,
+                "block_end": 317
+            }
+        ],
+        "Victimisation": [
+            {
+                "heading": "Victimisation",
+                "article_number": "60",
+                "page_start": 25,
+                "page_end": 26,
+                "block_start": 318,
+                "block_end": 323
+            }
+        ],
+        "Proceedings under Part 9": [
+            {
+                "heading": "Proceedings under Part 9",
+                "article_number": "61",
+                "page_start": 26,
+                "page_end": 28,
+                "block_start": 324,
+                "block_end": 342
+            }
+        ],
+        "Minimum notice periods": [
+            {
+                "heading": "Minimum notice periods",
+                "article_number": "62",
+                "page_start": 28,
+                "page_end": 28,
+                "block_start": 343,
+                "block_end": 351
+            }
+        ],
+        "Termination for cause": [
+            {
+                "heading": "Termination for cause",
+                "article_number": "63",
+                "page_start": 28,
+                "page_end": 29,
+                "block_start": 352,
+                "block_end": 359
+            }
+        ],
+        "Right to written statement of reasons": [
+            {
+                "heading": "Right to written statement of reasons",
+                "article_number": "64",
+                "page_start": 29,
+                "page_end": 29,
+                "block_start": 360,
+                "block_end": 362
+            }
+        ],
+        "Pension for UAE and GCC nationals": [
+            {
+                "heading": "Pension for UAE and GCC nationals",
+                "article_number": "65",
+                "page_start": 29,
+                "page_end": 29,
+                "block_start": 363,
+                "block_end": 366
+            }
+        ],
+        "Gratuity Payment and Qualifying Scheme Benefits": [
+            {
+                "heading": "Gratuity Payment and Qualifying Scheme Benefits",
+                "article_number": "66",
+                "page_start": 29,
+                "page_end": 34,
+                "block_start": 367,
+                "block_end": 421
+            }
+        ],
+        "General contraventions": [
+            {
+                "heading": "General contraventions",
+                "article_number": "67",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 422,
+                "block_end": 426
+            }
+        ],
+        "Administration of fines and penalties": [
+            {
+                "heading": "Administration of fines and penalties",
+                "article_number": "68",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 427,
+                "block_end": 435
+            }
+        ],
+        "Inspections and access to records": [
+            {
+                "heading": "Inspections and access to records",
+                "article_number": "69",
+                "page_start": 35,
+                "page_end": 35,
+                "block_start": 436,
+                "block_end": 438
+            }
+        ],
+        "Liability of the DIFCA": [
+            {
+                "heading": "Liability of the DIFCA",
+                "article_number": "70",
+                "page_start": 35,
+                "page_end": 36,
+                "block_start": 439,
+                "block_end": 442
+            }
+        ],
+        "Rules of Interpretation": [
+            {
+                "heading": "Rules of Interpretation",
+                "article_number": "1",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 443,
+                "block_end": 456
+            }
+        ],
+        "Legislation in the DIFC": [
+            {
+                "heading": "Legislation in the DIFC",
+                "article_number": "2",
+                "page_start": 37,
+                "page_end": 37,
+                "block_start": 457,
+                "block_end": 459
+            }
+        ],
+        "Defined terms": [
+            {
+                "heading": "Defined terms",
+                "article_number": "3",
+                "page_start": 37,
+                "page_end": 44,
+                "block_start": 460,
+                "block_end": 477
+            }
+        ]
+    }
 }
