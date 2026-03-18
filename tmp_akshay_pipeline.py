@@ -187,7 +187,7 @@ class LegalHybridRAGPipeline:
         reranked_docs = self._rerank(question_text, fused_docs)
         return reranked_docs[: self.top_k_docs], active_route
 
-    def answer_question(self, question_item: Dict[str, Any], telemetry_timer: Optional[Any] = None) -> AnswerResult:
+    def answer_question(self, question_item: Dict[str, Any]) -> AnswerResult:
         question_text = question_item["question"]
         answer_type = question_item.get("answer_type", "free_text")
         route = self.router.route(question_text, answer_type)
@@ -198,8 +198,6 @@ class LegalHybridRAGPipeline:
             supporting_docs, route = self.retrieve(question_text, answer_type=answer_type, route=route)
 
         if not supporting_docs:
-            if telemetry_timer:
-                telemetry_timer.mark_token()
             answer = self._default_absent_answer(answer_type)
             return AnswerResult(
                 answer=answer,
@@ -213,52 +211,16 @@ class LegalHybridRAGPipeline:
             raise ValueError("llm must be provided to answer questions")
 
         prompt = self._build_prompt(question_text, answer_type, supporting_docs, route)
-        raw_response = self._invoke_llm(prompt, telemetry_timer=telemetry_timer)
-        
-        used_indices = []
-        parsed_answer = raw_response
-        
-        if answer_type.lower() == "free_text":
-            ans_match = re.search(r"Answer:\s*(.*?)(?:\nIndices:|$)", raw_response, re.IGNORECASE | re.DOTALL)
-            idx_match = re.search(r"Indices:\s*(.*)", raw_response, re.IGNORECASE | re.DOTALL)
-            if ans_match:
-                parsed_answer = ans_match.group(1).strip()
-            if idx_match:
-                idx_str = idx_match.group(1).strip()
-                for token in re.split(r"[^\d]+", idx_str):
-                    if token.isdigit():
-                        used_indices.append(int(token))
-                        
-        answer = self._parse_answer_by_type(parsed_answer, answer_type)
+        raw_response = self._invoke_llm(prompt)
+        answer = self._parse_answer_by_type(raw_response, answer_type)
 
-        is_absent = answer is None or (
-            answer_type == "free_text" and answer == self._default_absent_answer("free_text")
-        )
-
-        if is_absent:
-            if answer is None and answer_type == "free_text":
-                answer = self._default_absent_answer("free_text")
+        if answer is None and answer_type == "free_text":
+            answer = self._default_absent_answer(answer_type)
             retrieval_refs = []
         else:
-            filtered_docs = list(supporting_docs)
-            if answer_type.lower() == "free_text" and used_indices:
-                filtered_docs = []
-                for idx in used_indices:
-                    try:
-                        doc_idx = int(idx) - 1
-                        if 0 <= doc_idx < len(supporting_docs):
-                            filtered_docs.append(supporting_docs[doc_idx])
-                    except (ValueError, TypeError):
-                        pass
-                if not filtered_docs:
-                    filtered_docs = list(supporting_docs)
-            elif answer_type.lower() != "free_text" and len(supporting_docs) > 0:
-                # For deterministic answers, usually the top 1 or 2 docs contain the fact.
-                filtered_docs = supporting_docs[:2]
-
             retrieval_refs = normalize_retrieved_pages(
                 RetrievalRef(doc_id=str(doc.metadata["doc_id"]), page_numbers=self._chunk_page_numbers(doc))
-                for doc in filtered_docs
+                for doc in supporting_docs
             )
 
             if answer_type == "free_text" and isinstance(answer, str):
@@ -616,36 +578,14 @@ class LegalHybridRAGPipeline:
             return "Return only the date in YYYY-MM-DD format."
         return "Return a concise answer grounded in the context, max 280 characters."
 
-    def _invoke_llm(self, prompt: str, telemetry_timer: Optional[Any] = None) -> str:
-        if hasattr(self.llm, "stream"):
-            response_chunks = []
-            for chunk in self.llm.stream(prompt):
-                if not response_chunks and telemetry_timer:
-                    telemetry_timer.mark_token()
-                
-                if hasattr(chunk, "content"):
-                    content = chunk.content
-                    if isinstance(content, list):
-                        text = "".join(
-                            part.get("text", "") if isinstance(part, dict) else str(part)
-                            for part in content
-                        )
-                    else:
-                        text = str(content)
-                else:
-                    text = str(chunk)
-                response_chunks.append(text)
-            return "".join(response_chunks).strip()
-        else:
-            response = self.llm.invoke(prompt)
-            if telemetry_timer:
-                telemetry_timer.mark_token()
-            if hasattr(response, "content"):
-                content = response.content
-                if isinstance(content, list):
-                    return "".join(part.get("text", "") if isinstance(part, dict) else str(part) for part in content).strip()
-                return str(content).strip()
-            return str(response).strip()
+    def _invoke_llm(self, prompt: str) -> str:
+        response = self.llm.invoke(prompt)
+        if hasattr(response, "content"):
+            content = response.content
+            if isinstance(content, list):
+                return "".join(part.get("text", "") if isinstance(part, dict) else str(part) for part in content).strip()
+            return str(content).strip()
+        return str(response).strip()
 
     def _parse_answer_by_type(self, raw: str, answer_type: str) -> Any:
         text = (raw or "").strip()

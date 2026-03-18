@@ -71,7 +71,9 @@ def build_free_text_prompt(
         f"{_subtype_instruction(subtype, absence_statement)}\n\n"
         f"Question: {question_text}\n\n"
         f"Context:\n{context}\n\n"
-        "Answer:"
+        "Respond in the following format exactly:\n"
+        "Answer: <your answer>\n"
+        "Indices: <comma-separated list of [Context N] indices used, e.g. 1, 3. Empty if not found>"
     )
 
 
