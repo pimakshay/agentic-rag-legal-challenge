@@ -21,19 +21,19 @@
         "type": "text",
         "page_idx": 0,
         "text": "Consolidated Version (November 2024) As amended by ",
-        "level": 1
+        "level": 2
     },
     "4": {
         "type": "text",
         "page_idx": 0,
         "text": "Law of Application of Civil and Commercial Laws in the DIFC Amendment Law DIFC Law No. 8 of 2024 ",
-        "level": 1
+        "level": 2
     },
     "5": {
         "type": "text",
         "page_idx": 0,
         "text": "DIFC Laws Amendment Law DIFC Law No.2 of 2022 ",
-        "level": 1
+        "level": 2
     },
     "6": {
         "type": "text",
@@ -50,7 +50,7 @@
     "8": {
         "type": "text",
         "page_idx": 1,
-        "text": "1. Title ...........   \n2. Legislative Authority. ........................................................................................................... . 1   \n3. Application of the Law ............",
+        "text": "1. Title ...........   \n2. Legislative Authority. ........................................................................................................... . 1   \n3. Application of the Law ................................................................................................................................. 1   \n4. Date of enactment...   \n5. Commencement.... ........................................................................................................................................ 1   \n6. Interpretation ................................................................................................................................................ 1   \n7. The objectives of this Law .... .................. .. 1 ",
         "level": 3
     },
     "9": {
@@ -81,7 +81,7 @@
         "type": "text",
         "page_idx": 1,
         "text": "i ",
-        "level": 1
+        "level": 5
     },
     "14": {
         "type": "text",
@@ -170,8 +170,8 @@
     "28": {
         "type": "text",
         "page_idx": 2,
-        "text": "(a) provide certainty as to the rights, liabilities and obligations of persons in relation to civil and commercial matters arising in the DIFC;   \n(b) assist in the development of the non-statutory la...",
-        "level": 5
+        "text": "(a) provide certainty as to the rights, liabilities and obligations of persons in relation to civil and commercial matters arising in the DIFC;   \n(b) assist in the development of the non-statutory law of the DIFC through decisions of the DIFC Courts; and   \n(c) allow persons to adopt the laws of another jurisdiction in relation to civil and commercial matters arising within the DIFC. ",
+        "level": 4
     },
     "29": {
         "type": "text",
@@ -183,7 +183,7 @@
         "type": "text",
         "page_idx": 2,
         "text": "1 ",
-        "level": 1
+        "level": 5
     },
     "31": {
         "type": "text",
@@ -200,7 +200,7 @@
     "33": {
         "type": "text",
         "page_idx": 3,
-        "text": "(1) Since by virtue of Article 3 of Federal Law No. 8 of 2004, DIFC Law is able to apply in the DIFC notwithstanding any Federal Law on civil or commercial matters, the rights and liabilities between ...",
+        "text": "(1) Since by virtue of Article 3 of Federal Law No. 8 of 2004, DIFC Law is able to apply in the DIFC notwithstanding any Federal Law on civil or commercial matters, the rights and liabilities between persons in any civil or commercial matter are to be determined according to the laws for the time being in force in the Jurisdiction chosen in accordance with paragraph (2). ",
         "level": 4
     },
     "34": {
@@ -212,8 +212,8 @@
     "35": {
         "type": "text",
         "page_idx": 3,
-        "text": "(a) so far as there is a regulatory content, any applicable DIFC Statute; failing which,   \n(b) the law of any Jurisdiction other than that of the DIFC expressly chosen by any DIFC Statute; failing wh...",
-        "level": 5
+        "text": "(a) so far as there is a regulatory content, any applicable DIFC Statute; failing which,   \n(b) the law of any Jurisdiction other than that of the DIFC expressly chosen by any DIFC Statute; failing which,   \n(c) the laws of a Jurisdiction as agreed between all the relevant persons concerned in the matter; failing which,   \n(d) the laws of any Jurisdiction which appears to the DIFC Court or Arbitrator to be the one most closely related to the facts of and the persons concerned in the matter; failing which,   \n(e) DIFC Law. ",
+        "level": 4
     },
     "36": {
         "type": "text",
@@ -224,7 +224,7 @@
     "37": {
         "type": "text",
         "page_idx": 3,
-        "text": "(1) The following provisions apply where DIFC Law is the law applicable to a civil or commercial matter pursuant to Article 8 above.   \n(2) The content of DIFC Law shall be determined by any applicabl...",
+        "text": "(1) The following provisions apply where DIFC Law is the law applicable to a civil or commercial matter pursuant to Article 8 above.   \n(2) The content of DIFC Law shall be determined by any applicable DIFC Statute, and any DIFC Court judgments interpreting and applying the applicable DIFC Statute in a manner consistent with this Law.   \n(3) The common law (including the principles and rules of equity) supplements DIFC Statute except to the extent modified by this Law or any other DIFC Law. The DIFC Courts in determining the common law for the DIFC in any case may have regard to the common law of England and Wales and other common law jurisdictions.   \n(4) The common law of the DIFC (including the principles and rules of equity), as determined by the DIFC Courts, must not be inconsistent with DIFC Statute. ",
         "level": 4
     },
     "38": {
@@ -242,8 +242,8 @@
     "40": {
         "type": "text",
         "page_idx": 3,
-        "text": "(a) jurisprudence from common law jurisdictions regarding the interpretation and application of analogous laws; and (b) the rules and principles of statutory interpretation from common law jurisdictio...",
-        "level": 5
+        "text": "(a) jurisprudence from common law jurisdictions regarding the interpretation and application of analogous laws; and (b) the rules and principles of statutory interpretation from common law jurisdictions. ",
+        "level": 4
     },
     "41": {
         "type": "text",
@@ -254,8 +254,8 @@
     "42": {
         "type": "text",
         "page_idx": 3,
-        "text": "(3) If a DIFC Statute is based on an international model law, its interpretation may also be guided by international jurisprudence interpreting and applying the international model law, as well as int...",
-        "level": 5
+        "text": "(3) If a DIFC Statute is based on an international model law, its interpretation may also be guided by international jurisprudence interpreting and applying the international model law, as well as interpretative aids and commentary published by international bodies regarding the international model law. ",
+        "level": 4
     },
     "43": {
         "type": "text",
@@ -267,13 +267,13 @@
         "type": "text",
         "page_idx": 4,
         "text": "9. Submission to jurisdiction ",
-        "level": 2
+        "level": 3
     },
     "45": {
         "type": "text",
         "page_idx": 4,
-        "text": "(1) The DIFC Court shall determine any matter before it in accordance with the laws that may apply by virtue of Article 8.   \n(2) An Arbitrator shall determine any matter before them in accordance wit...",
-        "level": 3
+        "text": "(1) The DIFC Court shall determine any matter before it in accordance with the laws that may apply by virtue of Article 8.   \n(2) An Arbitrator shall determine any matter before them in accordance with the laws that may apply by virtue of Article 8. ",
+        "level": 4
     },
     "46": {
         "type": "text",
@@ -285,7 +285,7 @@
         "type": "text",
         "page_idx": 4,
         "text": "3 ",
-        "level": 1
+        "level": 5
     },
     "48": {
         "type": "text",
@@ -308,26 +308,26 @@
     "51": {
         "type": "text",
         "page_idx": 5,
-        "text": "(a) a statutory provision includes a reference to the statutory provision as amended or re-enacted from time to time;   \n(b) a person includes any natural person, body corporate or body unincorporate,...",
-        "level": 5
+        "text": "(a) a statutory provision includes a reference to the statutory provision as amended or re-enacted from time to time;   \n(b) a person includes any natural person, body corporate or body unincorporate, including a company, partnership, unincorporated association, government or state;   \n(c) an obligation to publish or cause to be published a particular document shall, unless expressly provided otherwise in the Law, include publishing or causing to be published in printed or electronic form;   \n(d) a day shall refer to a business day, being a calendar day, excluding Saturdays, Sundays and official public holidays;   \n(e) a calendar year shall mean a year of the Gregorian calendar;   \n(f) a reference to the masculine gender includes the feminine. ",
+        "level": 4
     },
     "52": {
         "type": "text",
         "page_idx": 5,
         "text": "(2) The headings in the Law shall not affect its interpretation. ",
-        "level": 5
+        "level": 4
     },
     "53": {
         "type": "text",
         "page_idx": 5,
         "text": "(3) References in this Law to a body corporate include a body corporate incorporated outside DIFC. ",
-        "level": 5
+        "level": 4
     },
     "54": {
         "type": "text",
         "page_idx": 5,
-        "text": "(4) A reference in this Law to a Part, Article or Schedule by number only, and without further identification, is a reference to the Part, Article or Schedule of that number in this Law.   \n(5) A refe...",
-        "level": 5
+        "text": "(4) A reference in this Law to a Part, Article or Schedule by number only, and without further identification, is a reference to the Part, Article or Schedule of that number in this Law.   \n(5) A reference in an Article or other division of this Law to a paragraph, sub-paragraph or Article by number or letter only, and without further identification, is a reference to the paragraph, sub-paragraph or Article of that number or letter contained in the Article or other division of this Law in which that reference occurs.   \n(6) Unless the context otherwise requires, where this Law refers to an enactment, the reference is to that enactment as amended from time to time, and includes a reference to that enactment as extended or applied by or under another enactment, including any other provision of that enactment.   \n(7) References to this Law to a writing, filing, instrument or certificate include any mode of communication that preserves a record of the information contained therein and is capable of being reproduced in tangible form, including electronic means. ",
+        "level": 4
     },
     "55": {
         "type": "text",
@@ -339,24 +339,24 @@
         "type": "text",
         "page_idx": 5,
         "text": "4 ",
-        "level": 1
+        "level": 5
     },
     "57": {
         "type": "text",
         "page_idx": 6,
         "text": "2. Legislation in the DIFC ",
-        "level": 2
+        "level": 3
     },
     "58": {
         "type": "text",
         "page_idx": 6,
         "text": "References to legislation and Guidance in the Law shall be construed in accordance with the following provisions: ",
-        "level": 3
+        "level": 4
     },
     "59": {
         "type": "text",
         "page_idx": 6,
-        "text": "(a) Federal Law is law made by the federal government of the United Arab Emirates; (b) Dubai Law is law made by the Ruler, as applicable in the Emirate of Dubai; and (c) the Law on the Application of ...",
+        "text": "(a) Federal Law is law made by the federal government of the United Arab Emirates; (b) Dubai Law is law made by the Ruler, as applicable in the Emirate of Dubai; and (c) the Law on the Application of Civil and Commercial Law, DIFC Law No. 3 of 2004 is made by the Ruler. ",
         "level": 4
     },
     "60": {
@@ -374,8 +374,8 @@
     "62": {
         "type": "table",
         "page_idx": 6,
-        "text": "<table><tr><td rowspan=1 colspan=1>Terms</td><td rowspan=1 colspan=1>Definitions</td></tr><tr><td rowspan=1 colspan=1>Arbitrator</td><td rowspan=1 colspan=1>an Arbitrator appointed by the parties for ...",
-        "level": 4
+        "text": "<table><tr><td rowspan=1 colspan=1>Terms</td><td rowspan=1 colspan=1>Definitions</td></tr><tr><td rowspan=1 colspan=1>Arbitrator</td><td rowspan=1 colspan=1>an Arbitrator appointed by the parties for the purpose ofarbitrating matters between the parties.</td></tr><tr><td rowspan=1 colspan=1>DIFC</td><td rowspan=1 colspan=1>the Dubai International Financial Centre.</td></tr><tr><td rowspan=1 colspan=1>DIFC Bodies</td><td rowspan=1 colspan=1>the bodies established pursuant to Article (3) of Law No. 9 of2004 concerning the Dubai International Financial Centre (asamended).</td></tr><tr><td rowspan=1 colspan=1>DIFC Court</td><td rowspan=1 colspan=1>the DIFC Court of First Instance and the DIFC Court of Appeal.</td></tr><tr><td rowspan=1 colspan=1>DIFC LaW</td><td rowspan=1 colspan=1>the law of the DIFC as established by DIFC Statute and thedecisions of the DIFC Courts.</td></tr><tr><td rowspan=1 colspan=1>DIFC Statute</td><td rowspan=1 colspan=1>laws enacted by the Ruler as proposed by DIFC Bodies, and anyregulations or rules issued by them pursuant to such laws.</td></tr><tr><td rowspan=1 colspan=1>Jurisdiction</td><td rowspan=1 colspan=1>any jurisdiction in any country for the time being recognised bythe UAE.</td></tr><tr><td rowspan=1 colspan=1>Law</td><td rowspan=1 colspan=1>the Law on the Application of Civil and Commercial Law 2004.</td></tr><tr><td rowspan=1 colspan=1>person</td><td rowspan=1 colspan=1>has the meaning given in Article 1 of Schedule 1 of the Law.</td></tr><tr><td rowspan=1 colspan=1>Ruler</td><td rowspan=1 colspan=1>the ruler of the Emirate of Dubai.</td></tr><tr><td rowspan=1 colspan=1>Schedule</td><td rowspan=1 colspan=1>a schedule to the Law.</td></tr><tr><td rowspan=1 colspan=1>UAE</td><td rowspan=1 colspan=1>the United Arab Emirates.</td></tr></table>",
+        "level": 5
     },
     "63": {
         "type": "text",
@@ -387,6 +387,6 @@
         "type": "text",
         "page_idx": 6,
         "text": "5 ",
-        "level": 1
+        "level": 5
     }
 }

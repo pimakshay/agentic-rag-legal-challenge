@@ -9,49 +9,49 @@
         "type": "text",
         "page_idx": 0,
         "text": "THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS ",
-        "level": 1
+        "level": 2
     },
     "2": {
         "type": "text",
         "page_idx": 0,
         "text": "IN THE SMALL CLAIMS TRIBUNAL ",
-        "level": 1
+        "level": 2
     },
     "3": {
         "type": "text",
         "page_idx": 0,
         "text": "BETWEEN ",
-        "level": 1
+        "level": 2
     },
     "4": {
         "type": "text",
         "page_idx": 0,
         "text": "OKPARA ",
-        "level": 1
+        "level": 3
     },
     "5": {
         "type": "text",
         "page_idx": 0,
         "text": "Claimant/Respondent ",
-        "level": 1
+        "level": 3
     },
     "6": {
         "type": "text",
         "page_idx": 0,
         "text": "and ",
-        "level": 1
+        "level": 2
     },
     "7": {
         "type": "text",
         "page_idx": 0,
         "text": "ORALEE ",
-        "level": 1
+        "level": 3
     },
     "8": {
         "type": "text",
         "page_idx": 0,
         "text": "Defendant/Applicant ",
-        "level": 1
+        "level": 3
     },
     "9": {
         "type": "text",
@@ -105,7 +105,7 @@
         "type": "text",
         "page_idx": 0,
         "text": "Claim No: SCT 514/2025 ",
-        "level": 3
+        "level": 2
     },
     "18": {
         "type": "text",
@@ -117,7 +117,7 @@
         "type": "text",
         "page_idx": 1,
         "text": "Issued by:   \nHayley Norton   \nSCT Judge and Assistant Registrar   \nDate of Issue: 7 January 2026   \nAt: 10am ",
-        "level": 3
+        "level": 2
     },
     "20": {
         "type": "text",
@@ -134,31 +134,31 @@
     "22": {
         "type": "text",
         "page_idx": 1,
-        "text": "1. The Claimant sought the assistance of the Defendant company to apply for a Portuguese D2 visa. His business partner, Mr Oreste, also engaged the Defendant to assist him in applying for the same vis...",
+        "text": "1. The Claimant sought the assistance of the Defendant company to apply for a Portuguese D2 visa. His business partner, Mr Oreste, also engaged the Defendant to assist him in applying for the same visa, and the two applications were supported by identical business plans. The Claimant and Mr Oreste each paid AED 15,570 (the “Fee”) to the Defendant for the processing of their respective applications, excluding any third-party fees. ",
         "level": 3
     },
     "23": {
         "type": "text",
         "page_idx": 1,
-        "text": "2. The agreement between the Claimant and Defendant (the “Agreement”) provides at Clause 4 that it is governed by UAE law. The Agreement includes the following terms at Clause 4 and Schedule 3 relatin...",
+        "text": "2. The agreement between the Claimant and Defendant (the “Agreement”) provides at Clause 4 that it is governed by UAE law. The Agreement includes the following terms at Clause 4 and Schedule 3 relating to the Fee: ",
         "level": 3
     },
     "24": {
         "type": "text",
         "page_idx": 1,
-        "text": "“4. The advisory fee shall be as set out in Schedule three of this Agreement. Any balance amount as set out in Schedule Three of this Agreement must be paid within twenty-four hours after the Visa (AS...",
+        "text": "“4. The advisory fee shall be as set out in Schedule three of this Agreement. Any balance amount as set out in Schedule Three of this Agreement must be paid within twenty-four hours after the Visa (AS MENTIONED ABOVE) Approval. The fee incorporates the cost of the professional consultancy services provided by Oralee only and does not include any Third-party fees.” ",
         "level": 4
     },
     "25": {
         "type": "text",
         "page_idx": 1,
         "text": "SCHEDULE 3: ",
-        "level": 3
+        "level": 4
     },
     "26": {
         "type": "text",
         "page_idx": 1,
-        "text": "Note: The above agreed Oralee Professional fees is Subject Oralee Terms and Conditions and do not include any third-party charges like but not limited to FIU /Due Diligence charges and Investment / Do...",
+        "text": "Note: The above agreed Oralee Professional fees is Subject Oralee Terms and Conditions and do not include any third-party charges like but not limited to FIU /Due Diligence charges and Investment / Donation, which may arise.” ",
         "level": 4
     },
     "27": {
@@ -176,20 +176,20 @@
     "29": {
         "type": "text",
         "page_idx": 1,
-        "text": "7. If the Visa application is refused OR delayed, due to any error by applicant -likebut not limited to not fulfi lling the documents and information requirements OR Change of Mind OR any false/incorr...",
+        "text": "7. If the Visa application is refused OR delayed, due to any error by applicant -likebut not limited to not fulfi lling the documents and information requirements OR Change of Mind OR any false/incorrect information provided by applicant OR anyfake document provided by applicant for the application purpose OR If the Hosting Country (Country Name is mentioned in this agreement) ",
         "level": 4
     },
     "30": {
         "type": "text",
         "page_idx": 2,
-        "text": "Visa authorities makes an enquiry to any other authority about the applicant and that other authority does not reply to satisfactory level. In all these cases applicant will not be refunded any servic...",
-        "level": 5
+        "text": "Visa authorities makes an enquiry to any other authority about the applicant and that other authority does not reply to satisfactory level. In all these cases applicant will not be refunded any service Charges paid to us. ",
+        "level": 4
     },
     "31": {
         "type": "text",
         "page_idx": 2,
-        "text": "8.Oralee will represent the applicant until the successful result of the Visa application. In case the application remains unsuccessful without falling under clause no.7 (above mentioned cause) of thi...",
-        "level": 5
+        "text": "8.Oralee will represent the applicant until the successful result of the Visa application. In case the application remains unsuccessful without falling under clause no.7 (above mentioned cause) of this agreement, any our professional service charges received will be refunded in 2 weeks.” ",
+        "level": 4
     },
     "32": {
         "type": "text",
@@ -200,7 +200,7 @@
     "33": {
         "type": "text",
         "page_idx": 2,
-        "text": "5. It is not disputed that the Claimant completed all procedural requirements and provided all necessary documents throughout the application process. The Claimant fi led his Claim before the DIFC Cou...",
+        "text": "5. It is not disputed that the Claimant completed all procedural requirements and provided all necessary documents throughout the application process. The Claimant fi led his Claim before the DIFC Courts on the basis that the Defendant provided inaccurate assurances regarding his visa eligibility, and that it failed to exercise due diligence and care when preparing and submitting the business plan to support his visa application. The Claimant claimed a refund of the Fee, as well as AED 14,384.98 for third party expenses, plus moral compensation and damages, interest and costs. ",
         "level": 3
     },
     "34": {
@@ -218,19 +218,19 @@
     "36": {
         "type": "text",
         "page_idx": 2,
-        "text": "(a) The Defendant was in breach of Clause 8 of the Agreement, which guarantees a refund of professional service charges if the visa application is unsuccessful for reasons not attributable to the Clai...",
+        "text": "(a) The Defendant was in breach of Clause 8 of the Agreement, which guarantees a refund of professional service charges if the visa application is unsuccessful for reasons not attributable to the Claimant. ",
         "level": 4
     },
     "37": {
         "type": "text",
         "page_idx": 2,
-        "text": "(b) The Claimant was therefore entitled to a refund of the Fee of AED 15,570. However, based on Clause 4 and Schedule 3 of the Agreement, the Claimant was not entitled to the third-party expenses he c...",
+        "text": "(b) The Claimant was therefore entitled to a refund of the Fee of AED 15,570. However, based on Clause 4 and Schedule 3 of the Agreement, the Claimant was not entitled to the third-party expenses he claimed of AED 14,384.98. The Defendant provided invoices for any third-party charges relating to the visa application, and the Claimant settled those amounts. ",
         "level": 4
     },
     "38": {
         "type": "text",
         "page_idx": 2,
-        "text": "(c) The Claimant’s Claim for moral compensation and damages was rejected, as the Claimant had failed to provide evidence to demonstrate the stress or damages that he was subjected to by the Defendant....",
+        "text": "(c) The Claimant’s Claim for moral compensation and damages was rejected, as the Claimant had failed to provide evidence to demonstrate the stress or damages that he was subjected to by the Defendant. ",
         "level": 4
     },
     "39": {
@@ -248,7 +248,7 @@
     "41": {
         "type": "text",
         "page_idx": 2,
-        "text": "(a) Misinterpretation of Clause 7: the Judgment found that the Claimant was entitled to a refund of the Fee if the visa rejection was not due to any fault of the Claimant. The Defendant submits that t...",
+        "text": "(a) Misinterpretation of Clause 7: the Judgment found that the Claimant was entitled to a refund of the Fee if the visa rejection was not due to any fault of the Claimant. The Defendant submits that this is not what Clause 7 provides, as it “expressly extends to refusals arising from enquiries or discretionary assessments by foreign visa authorities, which are matters beyond the applicant’s control”. ",
         "level": 4
     },
     "42": {
@@ -260,13 +260,13 @@
     "43": {
         "type": "text",
         "page_idx": 3,
-        "text": "(c) Misrepresentation under UAE Law was not proven (d) Material Factual Evidence Ignored: Mr Oreste’s application was identical to the Claimant’s. The fact that it was approved establishes conclusivel...",
+        "text": "(c) Misrepresentation under UAE Law was not proven (d) Material Factual Evidence Ignored: Mr Oreste’s application was identical to the Claimant’s. The fact that it was approved establishes conclusively that the refusal of the Claimant’s visa application was due to discretionary sovereign assessment, rather than any failing on the part of the Defendant. ",
         "level": 4
     },
     "44": {
         "type": "text",
         "page_idx": 3,
-        "text": "(e) Procedural Errors regarding evidence: The Judgment “attributed determinative weight to allegations unsupported by documentary or verifi ed evidence, while failing to properly assess the evidence s...",
+        "text": "(e) Procedural Errors regarding evidence: The Judgment “attributed determinative weight to allegations unsupported by documentary or verifi ed evidence, while failing to properly assess the evidence submitted by the appellant, resulting in a procedural and evidentiary error”. ",
         "level": 4
     },
     "45": {
@@ -278,7 +278,7 @@
     "46": {
         "type": "text",
         "page_idx": 3,
-        "text": "8. Pursuant to Article 21 of DIFC Law No. (2) of 2025 (pertaining to the DIFC Courts), judgments of the Small Claims Tribunal may be appealed before the Court of First Instance where the appeal relate...",
+        "text": "8. Pursuant to Article 21 of DIFC Law No. (2) of 2025 (pertaining to the DIFC Courts), judgments of the Small Claims Tribunal may be appealed before the Court of First Instance where the appeal relates to: ",
         "level": 3
     },
     "47": {
@@ -290,7 +290,7 @@
     "48": {
         "type": "text",
         "page_idx": 3,
-        "text": "9. Under Rule 53.87 of the Rules of the Dubai International Financial Centre Courts 2014 (the “RDC”), the “Court”, meaning the Court to which an appeal is made, will allow an appeal where the decision...",
+        "text": "9. Under Rule 53.87 of the Rules of the Dubai International Financial Centre Courts 2014 (the “RDC”), the “Court”, meaning the Court to which an appeal is made, will allow an appeal where the decision of the lower court was: ",
         "level": 3
     },
     "49": {
@@ -302,7 +302,7 @@
     "50": {
         "type": "text",
         "page_idx": 3,
-        "text": "10. Under RDC 53.89, an application for permission to appeal a decision of the SCT must be made to the Court of First Instance in a particular form, and under RDC 53.91, permission to appeal may only ...",
+        "text": "10. Under RDC 53.89, an application for permission to appeal a decision of the SCT must be made to the Court of First Instance in a particular form, and under RDC 53.91, permission to appeal may only be granted by me as a judge of the Court of First Instance where: ",
         "level": 3
     },
     "51": {
@@ -314,7 +314,7 @@
     "52": {
         "type": "text",
         "page_idx": 3,
-        "text": "11. Applying the test that the appeal would have a real prospect of success requires a prospective assessment. In short, an applicant must show that there is a real (i.e. realistic as opposed to fanci...",
+        "text": "11. Applying the test that the appeal would have a real prospect of success requires a prospective assessment. In short, an applicant must show that there is a real (i.e. realistic as opposed to fanciful) prospect of persuading an Appeal Court that the learned Judge of fi rst instance in the Small Claims Tribunal was wrong in what she decided, or that the decision was unjust because of a serious procedural or other irregularity in the proceedings. This requirement must be satisfi ed by the grounds of appeal advanced, and any submissions showing how it is contended that the learned Judge erred in her fi ndings and decision. ",
         "level": 3
     },
     "53": {
@@ -350,7 +350,7 @@
     "58": {
         "type": "text",
         "page_idx": 4,
-        "text": "(b) Although the Claimant’s Claim had alleged that the Defendant’s services had been defective, the Judgment did not turn on this point. The learned Judge found that the Claimant was entitled to a ref...",
+        "text": "(b) Although the Claimant’s Claim had alleged that the Defendant’s services had been defective, the Judgment did not turn on this point. The learned Judge found that the Claimant was entitled to a refund of the Fee pursuant to Clauses 7 and 8 of the Agreement, and not because the Defendant’s services had been defective. ",
         "level": 4
     },
     "59": {
@@ -362,31 +362,31 @@
     "60": {
         "type": "text",
         "page_idx": 4,
-        "text": "15. In relation to Clauses 7 and 8, I fi nd that there is a prospect of an appeal court holding that the learned Judge was wrong in holding that Clause 8 guarantees a refund of professional service ch...",
+        "text": "15. In relation to Clauses 7 and 8, I fi nd that there is a prospect of an appeal court holding that the learned Judge was wrong in holding that Clause 8 guarantees a refund of professional service charges if the visa application is unsuccessful for reasons not attributable to the Claimant. ",
         "level": 3
     },
     "61": {
         "type": "text",
         "page_idx": 4,
-        "text": "16. Under Clause 8, the Claimant would be entitled to a refund of the Fee if any circumstances in Clause 7 were applicable. Some of those circumstances relate to reasons attributable to the Claimant, ...",
+        "text": "16. Under Clause 8, the Claimant would be entitled to a refund of the Fee if any circumstances in Clause 7 were applicable. Some of those circumstances relate to reasons attributable to the Claimant, such as if the Claimant committed an error, or provided any false or inaccurate information, or any fake document. However, in addition, Clause 7 provides for the following circumstance which is not attributable to the Claimant in any way: ",
         "level": 3
     },
     "62": {
         "type": "text",
         "page_idx": 4,
-        "text": "“…If the Hosting Country (Country Name is mentioned in this agreement) Visa authorities makes an enquiry to any other authority about the applicant and that other authority does not reply to satisfact...",
+        "text": "“…If the Hosting Country (Country Name is mentioned in this agreement) Visa authorities makes an enquiry to any other authority about the applicant and that other authority does not reply to satisfactory level. In all these cases applicant will not be refunded any service Charges paid to us.” ",
         "level": 4
     },
     "63": {
         "type": "text",
         "page_idx": 4,
-        "text": "17. The Defendant contends that the refusal of the Claimant’s visa was due to a sovereign act, rather than any matter within the Defendant’s control, and that Clause 7 provides for “refusals arising f...",
+        "text": "17. The Defendant contends that the refusal of the Claimant’s visa was due to a sovereign act, rather than any matter within the Defendant’s control, and that Clause 7 provides for “refusals arising from… discretionary assessments by foreign visa authorities”. However, the Defendant ultimately accepted in oral submissions that, whilst the refusal of the Claimant’s visa may well have been for reasons outside the Defendant’s control, Clause 7 does not provide for a refusal due to a discretionary sovereign act outside the Defendant’s control; in fact the only specifi c circumstance provided for in Clause 7 which is not attributable to the Claimant is where enquiries are made by the “Hosting Country” to any other authority, and that authority does not reply to a satisfactory level. It is not the Defendant’s position that an enquiry was made by the “Hosting Country” to another authority in relation to the Claimant’s visa application, and there is no evidence of this on the record. The Defendant therefore conceded at the Hearing that Clause 7 is not applicable in the current circumstances. ",
         "level": 3
     },
     "64": {
         "type": "text",
         "page_idx": 5,
-        "text": "18. I have found that there is a prospect of an appeal court holding that the learned Judge was wrong in fi nding that Clause 8 guarantees a refund of the Fee if the visa application is unsuccessful f...",
+        "text": "18. I have found that there is a prospect of an appeal court holding that the learned Judge was wrong in fi nding that Clause 8 guarantees a refund of the Fee if the visa application is unsuccessful for reasons not attributable to the Claimant. However, this error would not have any signifi cant impact on the outcome of the case, because the one reason provided in Clause 7 which is not attributable to the Claimant (relating to an enquiry made by the Hosting Country) would not be applicable in any event. As found by this Court in Miret v Musto [2023] DIFC SCT 177 (13 October 2023) and Mudro $v$ Mahan [2023] DIFC SCT 266 (11 December 2023), an applicant for Permission to Appeal must demonstrate not only that there is an error in the Judgment, but that the error caused the ultimate decision of the SCT to have been wrong. ",
         "level": 3
     },
     "65": {

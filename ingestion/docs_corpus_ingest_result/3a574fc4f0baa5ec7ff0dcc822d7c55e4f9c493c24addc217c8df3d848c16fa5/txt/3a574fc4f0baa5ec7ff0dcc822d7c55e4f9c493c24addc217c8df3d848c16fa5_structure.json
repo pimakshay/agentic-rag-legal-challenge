@@ -9,49 +9,49 @@
         "type": "text",
         "page_idx": 0,
         "text": "THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS ",
-        "level": 1
+        "level": 2
     },
     "2": {
         "type": "text",
         "page_idx": 0,
         "text": "IN THE COURT OF FIRST INSTANCE ",
-        "level": 1
+        "level": 2
     },
     "3": {
         "type": "text",
         "page_idx": 0,
         "text": "BETWEEN ",
-        "level": 1
+        "level": 3
     },
     "4": {
         "type": "text",
         "page_idx": 0,
         "text": "OBASI ",
-        "level": 1
+        "level": 4
     },
     "5": {
         "type": "text",
         "page_idx": 0,
         "text": "Claimant/Respondent ",
-        "level": 1
+        "level": 4
     },
     "6": {
         "type": "text",
         "page_idx": 0,
         "text": "and ",
-        "level": 1
+        "level": 3
     },
     "7": {
         "type": "text",
         "page_idx": 0,
         "text": "OREANA ",
-        "level": 1
+        "level": 4
     },
     "8": {
         "type": "text",
         "page_idx": 0,
         "text": "Defendant/Appellant ",
-        "level": 1
+        "level": 4
     },
     "9": {
         "type": "text",
@@ -99,7 +99,7 @@
         "type": "text",
         "page_idx": 0,
         "text": "Claim No: SCT 169/2025 ",
-        "level": 1
+        "level": 3
     },
     "17": {
         "type": "text",
@@ -129,7 +129,7 @@
         "type": "text",
         "page_idx": 1,
         "text": "Issued by:   \nDelvin Sumo   \nSCT Judge and Assistant Registrar   \nDate of Issue: 24 December 2025   \nAt: 9am ",
-        "level": 1
+        "level": 3
     },
     "22": {
         "type": "text",
@@ -164,7 +164,7 @@
     "27": {
         "type": "text",
         "page_idx": 1,
-        "text": "3. On 6 March 2025, the Claimant fi led a Claim with the DIFC Courts’ Small Claims Tribunal (the “SCT”) seeking payment from the Defendant for brokerage services in the amount of AED 391,123.45 based ...",
+        "text": "3. On 6 March 2025, the Claimant fi led a Claim with the DIFC Courts’ Small Claims Tribunal (the “SCT”) seeking payment from the Defendant for brokerage services in the amount of AED 391,123.45 based on the lease brokerage agreement the parties entered into (the “Agreement”). ",
         "level": 3
     },
     "28": {
@@ -176,7 +176,7 @@
     "29": {
         "type": "text",
         "page_idx": 1,
-        "text": "5. The First Hearing was adjourned to 8 September 2025, in which the Defendant sought to rely on documents that had previously been fi led with the Court. The Defendant was directed by Judge Norton, t...",
+        "text": "5. The First Hearing was adjourned to 8 September 2025, in which the Defendant sought to rely on documents that had previously been fi led with the Court. The Defendant was directed by Judge Norton, to seek permission from the Court to rely upon the documents at such a later stage. ",
         "level": 3
     },
     "30": {
@@ -224,25 +224,25 @@
     "37": {
         "type": "text",
         "page_idx": 2,
-        "text": "12. I requested that the matter proceed as scheduled, and the Defendant appeared stating he was ill suffering from infl uenza, although no medical certifi cate was produced. However, he stated that he...",
+        "text": "12. I requested that the matter proceed as scheduled, and the Defendant appeared stating he was ill suffering from infl uenza, although no medical certifi cate was produced. However, he stated that he was fi nding it diffi cult to proceed and wanted to instruct legal representation in relation to the matter. ",
         "level": 3
     },
     "38": {
         "type": "text",
         "page_idx": 2,
-        "text": "13. I granted an adjournment until 3:30 that afternoon on 15 December 2025, at which point the Defendant’s appointed legal representation was present. She made it clear that she was not in a position ...",
+        "text": "13. I granted an adjournment until 3:30 that afternoon on 15 December 2025, at which point the Defendant’s appointed legal representation was present. She made it clear that she was not in a position to proceed and needed time to review the documents and therefore renewed the application for adjournment. ",
         "level": 3
     },
     "39": {
         "type": "text",
         "page_idx": 2,
-        "text": "14. Notwithstanding the circumstances, I was not prepared to grant an adjournment in those circumstances. It seems to me that the Defendant has had every opportunity to make arrangements to appear in ...",
+        "text": "14. Notwithstanding the circumstances, I was not prepared to grant an adjournment in those circumstances. It seems to me that the Defendant has had every opportunity to make arrangements to appear in relation to this matter. ",
         "level": 3
     },
     "40": {
         "type": "text",
         "page_idx": 2,
-        "text": "15. It also seems so me that given the history of the event of the matters of fi rst instance, there has been two hearings which have been wasted effectively because the Defendant has either failed to...",
+        "text": "15. It also seems so me that given the history of the event of the matters of fi rst instance, there has been two hearings which have been wasted effectively because the Defendant has either failed to attend or produced documents late. ",
         "level": 3
     },
     "41": {
@@ -279,12 +279,12 @@
         "type": "text",
         "page_idx": 2,
         "text": "“21. Appeals Against Small Claims Tribunal Judgments ",
-        "level": 3
+        "level": 4
     },
     "47": {
         "type": "text",
         "page_idx": 2,
-        "text": "A. Judgments of the Small Claims Tribunal may be appealed before the Courts of First Instance in accordance with the procedures established under the DIFC Laws, DIFC Regulations, Rules of the Courts o...",
+        "text": "A. Judgments of the Small Claims Tribunal may be appealed before the Courts of First Instance in accordance with the procedures established under the DIFC Laws, DIFC Regulations, Rules of the Courts or any Practice Direction or Order issued by the DIFC Courts, where the appeal relates to: ",
         "level": 4
     },
     "48": {
@@ -296,7 +296,7 @@
     "49": {
         "type": "text",
         "page_idx": 3,
-        "text": "20. There is no right to appeal on questions of fact. This is unsurprising given that hearings before the SCT are intended to be informal as set out in RDC 53.51 and that the strict rules of evidence ...",
+        "text": "20. There is no right to appeal on questions of fact. This is unsurprising given that hearings before the SCT are intended to be informal as set out in RDC 53.51 and that the strict rules of evidence do not apply as set out in RDC 53.53. ",
         "level": 3
     },
     "50": {
@@ -314,7 +314,7 @@
     "52": {
         "type": "text",
         "page_idx": 3,
-        "text": "22. Under Clause 2 of the Agreement along with what the Defendant says, the Defendant had already been in direct contact with Ofi r about management months earlier from January to May 2024, regarding ...",
+        "text": "22. Under Clause 2 of the Agreement along with what the Defendant says, the Defendant had already been in direct contact with Ofi r about management months earlier from January to May 2024, regarding the same development. ",
         "level": 3
     },
     "53": {
@@ -332,7 +332,7 @@
     "55": {
         "type": "text",
         "page_idx": 3,
-        "text": "25. In paragraphs 18 and following, the judge recorded the Defendant submits that it actively searched for a retail space unit for over a year before engaging the service of the Claimant, including re...",
+        "text": "25. In paragraphs 18 and following, the judge recorded the Defendant submits that it actively searched for a retail space unit for over a year before engaging the service of the Claimant, including registering its interest with Ofi r Properties and remaining on its waitlist for several months and exploring leading options with Olivija at onshore Dubai, prior to signing the Agreement. ",
         "level": 3
     },
     "56": {
@@ -350,25 +350,25 @@
     "58": {
         "type": "text",
         "page_idx": 3,
-        "text": "“The Broker will introduce the suitable properties to the Tenant via email. The Tenant does need to have physically visited the properties to be deemed as introduced by the Broker. If the Tenant has a...",
+        "text": "“The Broker will introduce the suitable properties to the Tenant via email. The Tenant does need to have physically visited the properties to be deemed as introduced by the Broker. If the Tenant has already been introduced to the property/s, then an email must be sent to the Broker within two (2) business days confi rming they have already been introduced to the property/s, these property/s will then not be considered as introduced by the Broker. If this email is not sent by the Tenant these properties will be deemed to have been introduced by the Broker.” [emphasis added] ",
         "level": 4
     },
     "59": {
         "type": "text",
         "page_idx": 3,
-        "text": "28. As the Judge records, the Claimant sent the introduction email on 13 June 2024, and there is nothing before the Court suggesting that there had already been an introduction. The Judge accordingly ...",
+        "text": "28. As the Judge records, the Claimant sent the introduction email on 13 June 2024, and there is nothing before the Court suggesting that there had already been an introduction. The Judge accordingly found that the email was suffi cient evidence to demonstrate the Claimant’s introduction to the property. ",
         "level": 3
     },
     "60": {
         "type": "text",
         "page_idx": 3,
-        "text": "29. The Judge also found in paragraph 40, that the discussions which had been taking place in relation to the February proposed lease, were in relation to a different property from that ultimately agr...",
+        "text": "29. The Judge also found in paragraph 40, that the discussions which had been taking place in relation to the February proposed lease, were in relation to a different property from that ultimately agreed. ",
         "level": 3
     },
     "61": {
         "type": "text",
         "page_idx": 4,
-        "text": "30. It seems to me, there is no basis for suggesting that the Judge did not consider the relevant evidence and material, or that she came to a wrong conclusion in relation to Clause 2 of the material ...",
+        "text": "30. It seems to me, there is no basis for suggesting that the Judge did not consider the relevant evidence and material, or that she came to a wrong conclusion in relation to Clause 2 of the material Agreement. ",
         "level": 3
     },
     "62": {
@@ -380,19 +380,19 @@
     "63": {
         "type": "text",
         "page_idx": 4,
-        "text": "32. The second ground is that the broker’s actions were not the effective cause of the lease, and that rather the independent negotiations led to the lease with no contribution from the respondent. Th...",
+        "text": "32. The second ground is that the broker’s actions were not the effective cause of the lease, and that rather the independent negotiations led to the lease with no contribution from the respondent. This is also dealt with by the Judge in her Judgment, where she refers in paragraph 41, to Clause 4 of the Agreement, which reads as follows: ",
         "level": 3
     },
     "64": {
         "type": "text",
         "page_idx": 4,
-        "text": "“Once a property/building has been introduced by the Broker, the Tenant may not directly contact the Landlord/Owner. If they do so and sign a lease contract within 12 months of the introduction, then ...",
+        "text": "“Once a property/building has been introduced by the Broker, the Tenant may not directly contact the Landlord/Owner. If they do so and sign a lease contract within 12 months of the introduction, then the commission amount as outlined in this agreement shall become immediately due.” [emphasis added] ",
         "level": 4
     },
     "65": {
         "type": "text",
         "page_idx": 4,
-        "text": "33. It follows as it seems to me, that the correct consideration here is not what the effective cause was, but whether the material terms of the agreement were met. I see no basis upon which it can be...",
+        "text": "33. It follows as it seems to me, that the correct consideration here is not what the effective cause was, but whether the material terms of the agreement were met. I see no basis upon which it can be said that the Judge did not consider anything other than the correct legal test. ",
         "level": 3
     },
     "66": {
@@ -404,13 +404,13 @@
     "67": {
         "type": "text",
         "page_idx": 4,
-        "text": "35. First, I see no basis upon which it is set out or alleged that there was a breach of these duties. Secondly, it seems to me that it would amount to a counterclaim, and third I take the view that t...",
+        "text": "35. First, I see no basis upon which it is set out or alleged that there was a breach of these duties. Secondly, it seems to me that it would amount to a counterclaim, and third I take the view that these are irrelevant to the Claimant’s claim for commission, and I therefore see no prospect of any ground succeeding under this head. ",
         "level": 3
     },
     "68": {
         "type": "text",
         "page_idx": 4,
-        "text": "36. The fourth ground of appeal asserts that material evidence was not considered. This is plainly a direct factual challenge, and in any event, it does not seem to me that it is borne out, and I take...",
+        "text": "36. The fourth ground of appeal asserts that material evidence was not considered. This is plainly a direct factual challenge, and in any event, it does not seem to me that it is borne out, and I take the view that there is no prospect of success. ",
         "level": 3
     },
     "69": {
@@ -422,7 +422,7 @@
     "70": {
         "type": "text",
         "page_idx": 4,
-        "text": "38. The alternative request is effectively for time to pay or a reduction. I do not consider that this has any basis on an appeal, and it seems to me that in those circumstances there are no grounds i...",
+        "text": "38. The alternative request is effectively for time to pay or a reduction. I do not consider that this has any basis on an appeal, and it seems to me that in those circumstances there are no grounds in relation to that. ",
         "level": 3
     },
     "71": {
