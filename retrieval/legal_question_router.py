@@ -69,6 +69,7 @@ class RoutePlan:
     prefer_last_page: bool = False
     prefer_title_page: bool = False
     comparison_mode: bool = False
+    comparison_kind: str | None = None
     common_entity_mode: bool = False
     page_specific_mode: bool = False
     preferred_chunk_kinds: List[str] = field(default_factory=list)
@@ -87,7 +88,10 @@ class LegalQuestionRouter:
         target_pages = [int(match) for match in EXPLICIT_PAGE_PATTERN.findall(question_text)]
         target_pages = target_pages + [page_num for page_num in extract_phrase_page_patern(question_text) if page_num not in target_pages]
 
+        comparison_kind = self._detect_comparison_kind(lowered, answer_type)
         prefer_title_page = any(phrase in lowered for phrase in ["title page", "cover page", "first page"])
+        if comparison_kind == "issue_date":
+            prefer_title_page = True        
         prefer_last_page = "last page" in lowered
         page_specific_mode = prefer_title_page or prefer_last_page or bool(target_pages)
         comparison_mode = len(case_ids) > 1 or any(token in lowered for token in ["between", "both cases", "both case", "common to both", "party to both"])
@@ -116,10 +120,54 @@ class LegalQuestionRouter:
             prefer_last_page=prefer_last_page,
             prefer_title_page=prefer_title_page,
             comparison_mode=comparison_mode,
+            comparison_kind=comparison_kind,
             common_entity_mode=common_entity_mode,
             page_specific_mode=page_specific_mode,
             preferred_chunk_kinds=preferred_chunk_kinds,
         )
+
+    def _detect_comparison_kind(self, lowered_question: str, answer_type: str) -> str | None:
+        normalized_answer_type = answer_type.lower()
+        if normalized_answer_type == "date" and (
+            "date of issue" in lowered_question or "issue date" in lowered_question
+        ):
+            return "issue_date"
+        if normalized_answer_type == "boolean" and "judge" in lowered_question and any(
+            phrase in lowered_question
+            for phrase in [
+                "both case",
+                "both cases",
+                "both ca",
+                "in both",
+                "participated in both",
+                "presided over both",
+                "judge involved in both",
+                "judge who presided over both",
+            ]
+        ):
+            return "judge_overlap"
+        if normalized_answer_type == "boolean" and "judge" not in lowered_question and any(
+            phrase in lowered_question
+            for phrase in [
+                "same party",
+                "common to both",
+                "party to both",
+                "involve any of the same",
+                "same legal",
+            ]
+        ):
+            return "party_overlap"
+        if normalized_answer_type == "name" and any(
+            phrase in lowered_question
+            for phrase in [
+                "earlier issue date",
+                "earlier date of issue",
+                "issued earlier",
+                "earlier issue",
+            ]
+        ):
+            return "issue_date"
+        return None
 
     def _extract_law_title_candidates(self, question_text: str) -> List[str]:
         candidates: List[str] = []

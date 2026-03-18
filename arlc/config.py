@@ -35,6 +35,8 @@ class EnvConfig:
     llm_model: str
     embedding_model: str
     submission_path: Path
+    use_cohere_embeddings: bool
+    use_openai_embeddings: bool
     code_archive_path: Path
     questions_path: Path
     docs_dir: str
@@ -53,6 +55,8 @@ class EnvConfig:
         cohere_api_key = _get("COHERE_API_KEY")
         llm_model = _get("LLM_MODEL", "gpt-5-mini")
         embedding_model = _get("EMBEDDING_MODEL", "text-embedding-3-small")
+        use_cohere_embeddings = _get("USE_COHERE_EMBEDDINGS", "0").strip() in {"1", "true", "True"}
+        use_openai_embeddings = _get("USE_OPENAI_EMBEDDINGS", "0").strip() in {"1", "true", "True"}
 
         if openai_api_key:
             llm_api_base = _get("OPENAI_API_BASE", "https://api.openai.com/v1")
@@ -74,6 +78,8 @@ class EnvConfig:
             llm_api_base=llm_api_base,
             llm_model=llm_model,
             embedding_model=embedding_model,
+            use_cohere_embeddings=use_cohere_embeddings,
+            use_openai_embeddings=use_openai_embeddings,
             submission_path=submission_path,
             code_archive_path=code_archive_path,
             questions_path=questions_path,

@@ -88,7 +88,7 @@ def build_pipeline():
     )
 
     # Use Cohere for embeddings when COHERE_API_KEY is set (rate-limited to 90/60s)
-    if CONFIG.cohere_api_key:
+    if CONFIG.cohere_api_key and CONFIG.use_cohere_embeddings:
         from retrieval.utils.cohere_rate_limit import RateLimitedCohereEmbeddings, get_cohere_rate_limiter
 
         base_embeddings = CohereEmbeddings(
@@ -96,7 +96,7 @@ def build_pipeline():
             cohere_api_key=CONFIG.cohere_api_key,
         )
         embeddings = RateLimitedCohereEmbeddings(base_embeddings, limiter=get_cohere_rate_limiter())
-    else:
+    elif CONFIG.openai_api_key and CONFIG.use_openai_embeddings:
         embeddings = OpenAIEmbeddings(
             model=CONFIG.embedding_model,
             openai_api_key=CONFIG.get_embedding_api_key(),
@@ -123,6 +123,12 @@ def build_pipeline():
 
             reranker = MiniLMReranker()
 
+    # Turbopuffer is an optional acceleration layer. It must not be used with
+    # non-Cohere embedding models because vector dimensionality can mismatch.
+    use_turbopuffer = (
+        CONFIG.use_cohere_embeddings and bool(os.getenv("TURBOPUFFER_API_KEY"))
+    )
+
     return LegalHybridRAGPipeline(
         llm=llm,
         embedding_model=embeddings,
@@ -130,6 +136,7 @@ def build_pipeline():
         docs_root=str(Path(CONFIG.docs_dir)),
         enable_reranking=enable_reranking,
         reranker=reranker,
+        use_turbopuffer=use_turbopuffer,
         skip_indexing=skip_indexing,
     )
 
@@ -158,9 +165,9 @@ def main() -> None:
     client = EvaluationClient.from_env()
     print("Downloading questions...")
     questions = client.download_questions(target_path=CONFIG.questions_path)
-    print("Downloading documents...")
-    client.download_documents(CONFIG.docs_dir)
-    print("Documents extracted")
+    print("Skipping downloading documents...")
+    # client.download_documents(CONFIG.docs_dir)
+    # print("Documents extracted")
 
     ingest_root = ROOT_DIR / "ingestion" / "docs_corpus_ingest_result"
     validate_ingest_coverage(CONFIG.docs_dir, ingest_root)
