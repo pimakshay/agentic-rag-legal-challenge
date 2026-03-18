@@ -14,10 +14,10 @@ client = OpenAI(
 )
 
 
-def call_gemini_llm(text):
+def call_gemini_llm(text, model="gemini-2.5-flash-lite"):
     try:
         response = client.chat.completions.create(
-            model="gemini-2.5-flash-lite",
+            model=model,
             reasoning_effort="low",
             messages=[
                 {
@@ -31,7 +31,7 @@ def call_gemini_llm(text):
         logger.error(traceback.format_exc())
         return ""
 
-def call_openai_llm(text, model):
+def call_openai_llm(text, model="gpt-5.1"):
     try:
         response = client.chat.completions.create(
             model=model,
