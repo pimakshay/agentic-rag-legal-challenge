@@ -13,7 +13,7 @@ ARTICLE_PATTERN = re.compile(r"\bArticle\s+\d+(?:\([^)]+\))*", re.IGNORECASE)
 LAW_NUMBER_PATTERN = re.compile(r"\bDIFC Law No\.?\s+\d+\s+of\s+\d{4}\b", re.IGNORECASE)
 CONTEXTUAL_LAW_TITLE_PATTERN = re.compile(
     r"(?:(?:under|according to|pursuant to|of|in|under the|title page of|cover page of)\s+(?:the\s+)?)"
-    r"((?:DIFC\s+)?[A-Z][A-Za-z]+(?:\s+[A-Za-z][A-Za-z&,\-]+){0,12}\s+Law(?:\s+\d{4})?)",
+    r"((?:DIFC\s+)?[A-Z][A-Za-z]+(?:\s+[A-Za-z][A-Za-z&,\-]+){0,8}\s+Law(?:\s+\d{4})?)",
     re.IGNORECASE,
 )
 LAW_ON_TITLE_PATTERN = re.compile(
@@ -21,7 +21,7 @@ LAW_ON_TITLE_PATTERN = re.compile(
     re.IGNORECASE,
 )
 FALLBACK_LAW_TITLE_PATTERN = re.compile(
-    r"\b((?:DIFC\s+)?[A-Z][A-Za-z]+(?:\s+[A-Za-z][A-Za-z&,\-]+){0,12}\s+Law(?:\s+\d{4})?)\b"
+    r"\b((?:DIFC\s+)?[A-Z][A-Za-z]+(?:\s+(?:[a-z]{2,3}|[A-Z][A-Za-z&,\-]+)){0,8}\s+Law(?:\s+\d{4})?)\b"
 )
 EXPLICIT_PAGE_PATTERN = re.compile(r"\bpage\s+(\d+)\b", re.IGNORECASE)
 PHRASE_PAGE_PATTERN = re.compile(r"\b(second|third|fourth|fifth|sixth|seventh|eighth|ninth|tenth)\s+page\b", re.IGNORECASE)
@@ -90,10 +90,10 @@ class LegalQuestionRouter:
         prefer_title_page = any(phrase in lowered for phrase in ["title page", "cover page", "first page"])
         prefer_last_page = "last page" in lowered
         page_specific_mode = prefer_title_page or prefer_last_page or bool(target_pages)
-        comparison_mode = len(case_ids) > 1 or any(token in lowered for token in ["between", "both cases", "both case", "common to both"])
+        comparison_mode = len(case_ids) > 1 or any(token in lowered for token in ["between", "both cases", "both case", "common to both", "party to both"])
         common_entity_mode = any(
             token in lowered
-            for token in ["same legal", "same party", "common", "shared", "involve any of the same", "judge involved in both"]
+            for token in ["same legal", "same party", "common", "shared", "involve any of the same", "judge involved in both", "party to both"]
         )
 
         preferred_chunk_kinds: List[str] = []
@@ -135,11 +135,12 @@ class LegalQuestionRouter:
         if not normalized:
             return ""
         key = re.sub(r"[^a-z0-9]+", " ", normalized.lower()).strip()
-        key = re.sub(r"^(under|according to|pursuant to|of|in)\s+", "", key).strip()
+        key = re.sub(r"^(?:under|according to|pursuant to|of|in|title page of|cover page of|the)\s+", "", key).strip()
+        key = re.sub(r"^(?:the)\s+", "", key).strip()
         if key in GENERIC_LAW_TITLE_KEYS:
             return ""
         if not re.search(r"\bLaw\b", normalized, re.IGNORECASE):
             return ""
         if any(generic in key for generic in GENERIC_LAW_TITLE_KEYS):
             return ""
-        return normalized
+        return key

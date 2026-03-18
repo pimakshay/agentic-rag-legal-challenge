@@ -153,6 +153,24 @@ class LegalHybridRAGPipeline:
         answer_type = question_item.get("answer_type", "free_text")
         route = self.router.route(question_text, answer_type)
 
+        resolution = self._resolve_route_context(route)
+        bypass_result = self._try_bypass_llm(question_text, answer_type, route, resolution)
+        if bypass_result is not None:
+            if telemetry_timer:
+                telemetry_timer.mark_token()
+            ans, bypass_docs = bypass_result
+            retrieval_refs = normalize_retrieved_pages(
+                RetrievalRef(doc_id=str(doc.metadata["doc_id"]), page_numbers=self._chunk_page_numbers(doc))
+                for doc in bypass_docs
+            )
+            return AnswerResult(
+                answer=ans,
+                supporting_docs=bypass_docs,
+                retrieval_refs=retrieval_refs,
+                debug_metadata={"route": asdict(route), "reason": "metadata_bypass"},
+                raw_response=str(ans),
+            )
+
         if route.comparison_mode and len(route.case_ids) > 1:
             supporting_docs = self._retrieve_for_comparison(question_text, answer_type, route)
         else:
@@ -235,6 +253,76 @@ class LegalHybridRAGPipeline:
             debug_metadata={"route": asdict(route), "prompt": prompt[:4000]},
             raw_response=raw_response,
         )
+
+    def _try_bypass_llm(self, question_text: str, answer_type: str, route: RoutePlan, resolution: ResolutionContext) -> Optional[Tuple[Any, List[Document]]]:
+        if answer_type.lower() == "free_text":
+            return None
+            
+        lowered = question_text.lower()
+        if not resolution.confident_match or not resolution.candidate_doc_ids:
+            return None
+            
+        doc_ids = list(resolution.candidate_doc_ids)
+
+        def _get_bypass_docs(d_ids: List[str], use_page_1_and_2: bool = False) -> List[Document]:
+            docs = []
+            for d_id in d_ids:
+                meta = dict(self._doc_metadata.get(d_id, {}))
+                meta["doc_id"] = d_id
+                if use_page_1_and_2 and int(meta.get("page_count") or 0) >= 2:
+                    meta["page_numbers"] = [1, 2]
+                else:
+                    meta["page_numbers"] = [1]
+                docs.append(Document(page_content="[Metadata Bypass]", metadata=meta))
+            return docs
+
+        if answer_type == "boolean":
+            if route.common_entity_mode and len(route.case_ids) == 2 and len(doc_ids) == 2:
+                if "judge" not in lowered:
+                    parties_sets = []
+                    for d_id in doc_ids:
+                        meta = self._doc_metadata.get(d_id, {})
+                        parties = set()
+                        if meta.get("claimant"): parties.add(str(meta["claimant"]).lower())
+                        for d in meta.get("defendants", []): parties.add(str(d).lower())
+                        parties_sets.append(parties)
+                    
+                    if len(parties_sets) == 2 and (parties_sets[0] or parties_sets[1]):
+                        common = parties_sets[0].intersection(parties_sets[1])
+                        return (bool(common), _get_bypass_docs(doc_ids))
+
+        if answer_type == "date":
+            if ("date of issue" in lowered or "issue date" in lowered) and len(doc_ids) == 1:
+                meta = self._doc_metadata.get(doc_ids[0], {})
+                d = meta.get("judgment_date") or meta.get("judgment_release_date")
+                if d:
+                    ans = self._parse_answer_by_type(d, "date")
+                    if ans:
+                        return (ans, _get_bypass_docs(doc_ids, use_page_1_and_2=True))
+                        
+        if answer_type == "number":
+            if ("official difc law number" in lowered or "law number" in lowered) and len(doc_ids) == 1:
+                meta = self._doc_metadata.get(doc_ids[0], {})
+                num = meta.get("law_number")
+                if num:
+                    ans = self._parse_answer_by_type(str(num), "number")
+                    if ans is not None:
+                        return (ans, _get_bypass_docs(doc_ids))
+
+        if answer_type == "name":
+            if ("earlier issue date" in lowered or "earlier date" in lowered) and len(route.case_ids) == 2 and len(doc_ids) == 2:
+                dates_and_cases = []
+                for d_id in doc_ids:
+                    meta = self._doc_metadata.get(d_id, {})
+                    d = meta.get("judgment_date") or meta.get("judgment_release_date")
+                    claim_num = meta.get("claim_number")
+                    if d and claim_num:
+                        dates_and_cases.append((d, claim_num))
+                if len(dates_and_cases) == 2:
+                    dates_and_cases.sort()
+                    return (dates_and_cases[0][1], _get_bypass_docs(doc_ids, use_page_1_and_2=True))
+                    
+        return None
 
     def _build_metadata_indexes(self, source_documents: Sequence[Document]) -> None:
         self._all_doc_ids = set()

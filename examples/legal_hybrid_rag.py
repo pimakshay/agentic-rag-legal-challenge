@@ -190,6 +190,8 @@ def main() -> None:
         telemetry_timer = TelemetryTimer()
         result = pipeline.answer_question(question_item, telemetry_timer=telemetry_timer)
         timing = telemetry_timer.finish()
+        ttft_ms = max(0, min(timing.ttft_ms, timing.total_time_ms))
+        total_time_ms = max(timing.total_time_ms, ttft_ms)
 
         prompt = result.debug_metadata.get("prompt", "")
         usage = UsageMetrics(
@@ -198,9 +200,9 @@ def main() -> None:
         )
         telemetry = Telemetry(
             timing=TimingMetrics(
-                ttft_ms=timing.ttft_ms,
+                ttft_ms=ttft_ms,
                 tpot_ms=timing.tpot_ms,
-                total_time_ms=timing.total_time_ms,
+                total_time_ms=total_time_ms,
             ),
             retrieval=result.retrieval_refs,
             usage=usage,

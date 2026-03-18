@@ -65,7 +65,7 @@ def build_free_text_prompt(
     return (
         "You answer legal challenge questions using only the provided context.\n"
         "Start with the direct answer, not setup or meta-commentary.\n"
-        "Keep the answer fully grounded, concise, and under 280 characters.\n"
+        "Maximum 280 characters. One to two sentences when possible. Fully grounded and concise.\n"
         "Optimize for correctness, completeness, confidence calibration, and clarity.\n"
         "Avoid phrases like 'provided excerpts', 'context lacks', or similar unless the answer is genuinely unsupported.\n"
         f"{_subtype_instruction(subtype, absence_statement)}\n\n"

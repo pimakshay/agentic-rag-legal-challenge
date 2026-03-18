@@ -40,7 +40,7 @@ def main():
         print(f"File not found: {questions_path}")
         return
     
-    questions = json.loads(questions_path.read_text(encoding="utf-8"))[:10]
+    questions = json.loads(questions_path.read_text(encoding="utf-8"))[:100]
     print(f"Loaded {len(questions)} questions")
     
     ingest_root = ROOT_DIR / "ingestion" / "docs_corpus_ingest_result"
@@ -55,12 +55,17 @@ def main():
     print("Starting concurrent evaluation...")
     t_start_eval = time.perf_counter()
     
-    for i, q in enumerate(questions):
-        try:
-            res = process_question(pipeline, q, i+1, len(questions))
-            results.append(res)
-        except Exception as exc:
-            print(f"Question [{i+1}] generated an exception: {exc}")
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        future_to_q = {
+            executor.submit(process_question, pipeline, q, i+1, len(questions)): q 
+            for i, q in enumerate(questions)
+        }
+        for future in as_completed(future_to_q):
+            try:
+                res = future.result()
+                results.append(res)
+            except Exception as exc:
+                print(f"Question generated an exception: {exc}")
                 
     t_end_eval = time.perf_counter()
     print(f"Total concurrent evaluation time: {(t_end_eval - t_start_eval):.2f}s")
