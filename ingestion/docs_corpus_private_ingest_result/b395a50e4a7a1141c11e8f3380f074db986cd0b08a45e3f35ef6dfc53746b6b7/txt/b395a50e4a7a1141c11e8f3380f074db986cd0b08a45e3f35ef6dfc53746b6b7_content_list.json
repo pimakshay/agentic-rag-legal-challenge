@@ -1,0 +1,761 @@
+[
+    {
+        "type": "text",
+        "text": "ARB 007/2026 Orabelle v Orzenia JANUARY 30, 2026 ARBITRATION - ORDERS ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            171,
+            512,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IN THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS ",
+        "text_level": 1,
+        "bbox": [
+            206,
+            291,
+            794,
+            310
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IN THE COURT OF FIRST INSTANCE ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            326,
+            388,
+            346
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ORABELLE ",
+        "bbox": [
+            443,
+            395,
+            554,
+            413
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claimant/Applicant ",
+        "bbox": [
+            788,
+            430,
+            959,
+            447
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "bbox": [
+            480,
+            463,
+            519,
+            479
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ORZENIA ",
+        "bbox": [
+            453,
+            498,
+            546,
+            516
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Defendant/Respondent ",
+        "bbox": [
+            747,
+            531,
+            959,
+            549
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "REASONS OF H.E. JUSTICE SHAMLAN AL SAWALEHI FOR THE ORDER DATED 21 JANUARY ",
+        "text_level": 1,
+        "bbox": [
+            63,
+            588,
+            941,
+            607
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2026 ",
+        "bbox": [
+            475,
+            615,
+            526,
+            633
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. These are the reasons for the Order dated 21 January 2026 dismissing the Applicant’s urgent exparte application seeking: (i) a worldwide freezing order up to USD 8,071,581.39 (or equivalent); and (ii) an asset disclosure order, together with related procedural relief including alternative service. ",
+        "bbox": [
+            40,
+            675,
+            961,
+            743
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. I accept, for the purposes of determining this application, that the relief sought was framed as interim and protective, pending resolution of a contractual dispute said to arise under an asset management agreement, the parties having agreed to arbitration with the seat in Paris. ",
+        "bbox": [
+            38,
+            756,
+            961,
+            825
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. However, even in urgent applications, the Court may only grant interim relief if the Court is satisfi ed that it has jurisdiction to do so, and that the relevant requirements for a freezing order are met. The jurisdiction question is anterior and cannot be put off to the return date where the Court is not persuaded that it has a proper jurisdictional foundation for the relief sought. ",
+        "bbox": [
+            38,
+            838,
+            961,
+            929
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4. For the reasons set out below, the application was dismissed. ",
+        "bbox": [
+            40,
+            944,
+            615,
+            963
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claim No: ARB 007/2026 ",
+        "bbox": [
+            726,
+            256,
+            959,
+            273
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BETWEEN ",
+        "bbox": [
+            40,
+            361,
+            144,
+            378
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            21,
+            159,
+            39
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. The Applicant is a company incorporated in the UAE. It operates as an investment solution provider in the hospitality and property sector. ",
+        "bbox": [
+            38,
+            53,
+            963,
+            97
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6. The Respondent is a legal entity registered in Osprey. The Applicant’s evidence and submissions described the Respondent as holding assets and operating accounts in Osprey and elsewhere. ",
+        "bbox": [
+            38,
+            110,
+            961,
+            154
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7. The dispute arises from an Asset Management Agreement dated 7 December 2015 (“AMA”), said to have operated from 1 January 2016 with an initial term and a renewal mechanism. ",
+        "bbox": [
+            40,
+            167,
+            963,
+            211
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8. The Applicant contends that the AMA was subsequently amended by an agreement executed in September 2022 (“Amendment Agreement”), which introduced the concept of successive renewal terms. ",
+        "bbox": [
+            40,
+            223,
+            961,
+            291
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9. The Applicant submits that in late November 2025 the Respondent took steps to terminate the contractual relationship and to remove the Applicant’s and its representatives’ access to systems, premises, and banking permissions, including in relation to a UAE bank account referred to as the “Dubai Account”. ",
+        "bbox": [
+            40,
+            305,
+            961,
+            397
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "10. The Applicant contends that the Respondent’s actions constituted an “early termination” triggering a termination indemnity, together with unpaid management fees. ",
+        "bbox": [
+            40,
+            411,
+            961,
+            455
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "11. The Applicant’s intended forum for determination of the merits is arbitration seated in Paris. At the date of the hearing, the arbitration had not yet been commenced; the Applicant exhibited only a draft request for arbitration and relied upon undertakings to commence the arbitral proceedings. ",
+        "bbox": [
+            40,
+            468,
+            961,
+            536
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Application and Relief Sought ",
+        "bbox": [
+            43,
+            552,
+            363,
+            570
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "12. The Applicant sought: ",
+        "bbox": [
+            43,
+            586,
+            272,
+            604
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) a worldwide freezing order, restraining the Respondent from disposing of, dealing with, or diminishing the value of assets up to the stated sum; and ",
+        "bbox": [
+            70,
+            618,
+            964,
+            661
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(b) a provision of information / asset disclosure order, requiring the Respondent to disclose worldwide assets above a stated threshold within a short period and to swear an affi davit of assets thereafter. ",
+        "bbox": [
+            75,
+            675,
+            963,
+            741
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "13. The Applicant also sought permission concerning service, including service by courier to Osprey and by email to an address said to be used by the Respondent. ",
+        "bbox": [
+            40,
+            756,
+            961,
+            800
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "14. The Applicant relied principally on: (i) asserted jurisdiction under Article 15(4) of Dubai Law No. 2 of 2025 concerning the DIFC; (ii) the interim remedies provisions in RDC Part 25; and (iii) authorities addressing interim relief and the DIFC Courts’ supportive role in cross-border disputes. ",
+        "bbox": [
+            40,
+            813,
+            961,
+            881
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "15. The Applicant submitted that the Court’s powers included the ability to restrain dealings in assets worldwide, and that the Court’s powers should be read in a liberal manner consistent with the DIFC Courts’ role in supporting transnational commerce and enforcement. ",
+        "bbox": [
+            42,
+            894,
+            959,
+            963
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Legal Framework ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            21,
+            206,
+            39
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "16. The Court’s power to grant interim remedies is contained in Part 25 of the Rules of the DIFC Courts (“RDC”), including the power to grant freezing orders and related ancillary orders. ",
+        "bbox": [
+            40,
+            53,
+            961,
+            97
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "17. Pursuant to RDC 25.11-15 and 25.33-36, and the established jurisprudence of the DIFC Courts applying English law principles, an applicant for a freezing order must demonstrate: (i) a good arguable case; (ii) the existence of assets capable of enforcement; (iii) a real risk of dissipation; and (iv) that it is just and convenient for the Court to grant the relief sought. ",
+        "bbox": [
+            40,
+            110,
+            961,
+            203
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "18. Separately, and critically, I must be satisfi ed that DIFC Courts have the jurisdiction to grant the interim relief sought. ",
+        "bbox": [
+            42,
+            215,
+            963,
+            259
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "19. The Applicant invoked Article 15(4) of the new DIFC Courts law and relied on that provision as confi rming jurisdiction for interim measures related to “applications, claims, or current or future arbitral proceedings brought outside the DIFC seeking suitable precautionary measures within the DIFC\". ",
+        "bbox": [
+            40,
+            272,
+            963,
+            340
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "20. The Applicant also referred to the DIFC Arbitration Law provisions concerning interim measures. However, it was necessary to distinguish between: ",
+        "bbox": [
+            40,
+            353,
+            956,
+            397
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) the Court’s jurisdiction and powers in relation to arbitral proceedings; and (b) enforcement of arbitral awards, which is conceptually distinct from interim relief. ",
+        "bbox": [
+            68,
+            410,
+            825,
+            463
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "21. The Applicant relied on appellate authority for the proposition that DIFC Courts may grant interim measures in aid of foreign proceedings and that the Court’s powers may extend to assets outside the jurisdiction. ",
+        "bbox": [
+            40,
+            476,
+            961,
+            544
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "22. I accept that such authorities may be relevant to the general principles of interim relief and the scope of powers under the RDC. However, I am required to decide the present application on its own facts and on the particular statutory gateway relied upon, bearing in mind that: (i) the application was in support of arbitration not yet commenced; and (ii) the Applicant could not identify any assets in the DIFC. ",
+        "bbox": [
+            38,
+            557,
+            961,
+            674
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            690,
+            146,
+            708
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Jurisdiction ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            725,
+            146,
+            741
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "23. The principal issue in the hearing was jurisdiction, not the merits of the contractual dispute. The Respondent was not a DIFC entity; the Applicant was not a DIFC entity; and the seat of the intended arbitration was outside the DIFC. ",
+        "bbox": [
+            40,
+            756,
+            961,
+            824
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "24. The Applicant’s reliance on Article 15(4) made the following matters critical: ",
+        "bbox": [
+            40,
+            837,
+            747,
+            857
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) whether the intended arbitration fell within the concept of “current or future arbitral proceedings”; and (b) whether the application sought “suitable precautionary measures within the DIFC”. ",
+        "bbox": [
+            70,
+            870,
+            963,
+            947
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "25. I accept that the statutory wording invoked by the Applicant includes reference to “future” arbitral proceedings. I also accept that, in principle, legislation may confer powers in advance of the formal commencement of arbitral proceedings. However, the presence of the term “future” does not remove the need for the Court to be satisfi ed that the statutory condition “within the DIFC” is properly met. ",
+        "bbox": [
+            40,
+            17,
+            961,
+            109
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "26. My concern, which was repeatedly raised during the hearing, was that the application sought a worldwide freezing order where the Applicant could not identify any assets within the DIFC, and where the only specifi cally identifi ed UAE asset was a bank account located in Dubai (onshore), not within the DIFC. ",
+        "bbox": [
+            40,
+            122,
+            961,
+            214
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "27. The Applicant invited the Court to treat the “precautionary measure within the DIFC” as referring to the order being made by the DIFC Courts, regardless of whether any assets were shown to be within the DIFC. I was not persuaded that such an interpretation was available in circumstances where the practical effect of the order would be to regulate assets wholly outside the DIFC with no identifi ed DIFC nexus. ",
+        "bbox": [
+            40,
+            228,
+            961,
+            343
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "28. I considered that the phrase “within the DIFC” in the statutory gateway relied upon is not surplusage. On the Applicant’s construction, “within the DIFC” would add little or nothing, because any order made by this Court would necessarily be made “within” this Court. That reading risks depriving the statutory condition of operative meaning. ",
+        "bbox": [
+            38,
+            356,
+            961,
+            449
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "29. In an ex parte setting, it is not suffi cient to say that jurisdiction is “arguable” if the Court is not itself satisfi ed that the jurisdictional gateway is properly engaged by reference to identifi able facts. I am obliged to satisfy the criteria of jurisdiction before granting interim remedies. ",
+        "bbox": [
+            40,
+            462,
+            961,
+            530
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "30. During the hearing, i specifi cally queried whether the Trafi gura reasoning, developed in the context of foreign court proceedings and particular jurisdictional gateways, could simply be transposed to a case concerning non-commenced foreign arbitration and a statutory condition tied to measures “within the DIFC”. ",
+        "bbox": [
+            40,
+            543,
+            961,
+            634
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "31. I accept that the Applicant’s submissions attempted to bridge this gap by relying on RDC Part 25 provisions permitting freezing orders to extend worldwide and on statements in authorities recognising wide remedial powers. However, wide remedial powers do not themselves answer the anterior question: whether the jurisdictional trigger under the statute relied upon is met on the facts. ",
+        "bbox": [
+            40,
+            649,
+            961,
+            740
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "32. I am not satisfi ed that the Applicant had demonstrated a suffi cient jurisdictional basis for the relief sought, because the Application did not identify any asset within the DIFC and because the relief sought was, in substance, directed at assets outside the DIFC. ",
+        "bbox": [
+            40,
+            755,
+            959,
+            821
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Lack of DIFC assets ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            837,
+            228,
+            854
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "33. The Applicant’s evidence and the draft order included schedules of bank accounts and properties, but these were largely located in Osprey. The only specifi cally identifi ed UAE bank accounts were said to be with Ovile in Dubai (onshore). ",
+        "bbox": [
+            40,
+            869,
+            961,
+            935
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "34. The Applicant candidly accepted in submissions that it was not aware of any assets in the DIFC and sought disclosure orders to identify whether any such assets might exist. ",
+        "bbox": [
+            40,
+            17,
+            961,
+            60
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "35. In the hearing, I regarded the absence of identifi ed DIFC assets as materially undermining the statutory gateway as advanced, and as an additional diffi culty for the proposed asset disclosure relief. ",
+        "bbox": [
+            38,
+            74,
+            963,
+            118
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "36. I also note that, where asset disclosure orders are sought as ancillary relief, they are ordinarily tethered to properly grounded freezing relief. Where the freezing jurisdiction is not established, the disclosure relief cannot operate as a substitute gateway to jurisdiction. ",
+        "bbox": [
+            40,
+            131,
+            961,
+            199
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“Forum Shopping” concern ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            214,
+            287,
+            233
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "37. In the hearing, I also raised, the line of argument, that requiring worldwide asset disclosure where no DIFC assets were identifi ed carried the concern of a “forum shopping” exercise. ",
+        "bbox": [
+            40,
+            246,
+            961,
+            288
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "38. I considered it signifi cant that: (i) the Applicant sought worldwide disclosure; (ii) the Applicant could not point to any DIFC-based asset; and (iii) the jurisdictional gateway relied upon required measures “within the DIFC”. These factors reinforced the conclusion that the Application, as presented, was not properly anchored to a DIFC nexus suffi cient for the relief sought. ",
+        "bbox": [
+            40,
+            303,
+            961,
+            394
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Evidential limitations concerning assets ",
+        "bbox": [
+            42,
+            409,
+            398,
+            428
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "39. In the hearing, I also raised concerns regarding the degree of documentary substantiation for the immovable assets in Osprey. The affi davit contained registration references and the Applicant’s belief based on prior access and responsibilities, but no title documents were produced. ",
+        "bbox": [
+            40,
+            441,
+            961,
+            508
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "40. I accept that applicants are not always able to produce complete documentation of a respondent’s assets at the interim stage, particularly in urgent ex-parte cases. Nonetheless, where the Court is being asked to exercise a far-reaching jurisdiction to freeze assets worldwide, evidential gaps weigh against the grant of relief. ",
+        "bbox": [
+            40,
+            521,
+            961,
+            613
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "41. Further, I note the Applicant’s evidence that its access was removed in late November 2025 and that it could not confi rm present balances or current asset status. That uncertainty may support an argument for urgency. However, it does not cure the jurisdictional defi ciency identifi ed above. ",
+        "bbox": [
+            40,
+            627,
+            961,
+            695
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            712,
+            149,
+            730
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "42. Taking these matters cumulatively, and applying Article 15(4), I was not satisfi ed that the Applicant had established the requisite jurisdictional foundation for the grant of interim or precautionary measures. The Applicant also failed to demonstrate that the statutory requirement of measures being sought “within the DIFC” was satisfi ed, given the absence of any identifi ed assets, property, or other relevant nexus connecting the Respondent to the DIFC. ",
+        "bbox": [
+            40,
+            744,
+            963,
+            859
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "43. For the foregoing reasons, the Application is dismissed. ",
+        "bbox": [
+            42,
+            873,
+            573,
+            892
+        ],
+        "page_idx": 4
+    }
+]

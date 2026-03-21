@@ -1,0 +1,1915 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            393,
+            380,
+            601,
+            430
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INVESTMENT COMPANIES (IC) REGULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            209,
+            561,
+            789,
+            632
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In force on 12 November 2018 ",
+        "bbox": [
+            318,
+            696,
+            679,
+            722
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            437,
+            89,
+            531,
+            106
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. INTRODUCTION..... ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            147,
+            869,
+            164
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 Application and interpretation.   \n1.2 Rules, regulations, general powers of the DFSA..   \n1.3 Incorporation of, or conversion into, an Investment Company ..... . 2   \n1.4 Name and Articles of Association of an Investment Company... . 2   \n1.5 Permissible uses and DFSA consent .... . 3   \n1.6 Withdrawal of consent of the DFSA . . 3   \n1.7 Directions by the DFSA .. .. 5   \n1.8 Applications to the Court .... .. 6   \n1.9 Shares, register ofShareholders .... . 6   \n1.10 Share transfers and redemptions.. .. 7   \n1.11 Distributions .... .. 7   \n1.12 Records, accounts and audit . . 8 ",
+        "bbox": [
+            99,
+            167,
+            872,
+            441
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 1- FEES . ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            455,
+            870,
+            470
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 2 – DECISION MAKING PROCEDURES . 10 ",
+        "bbox": [
+            102,
+            483,
+            869,
+            500
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INVESTMENT COMPANIES (IC) REGULATIONS ",
+        "bbox": [
+            464,
+            44,
+            869,
+            61
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            480,
+            917,
+            490,
+            929
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Board of Directors of the DIFCA, in the exercise of the powers conferred on them under Articles 132 and 151 of the Companies Law 2018 hereby make these Regulations. ",
+        "bbox": [
+            99,
+            83,
+            897,
+            122
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            156,
+            151,
+            294,
+            167
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 Application and interpretation ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            191,
+            375,
+            208
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 These Regulations apply to: ",
+        "bbox": [
+            102,
+            231,
+            344,
+            247
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) a person making an application to incorporate an Investment Company under the Law;   \n(b) an Investment Company;   \n(c) the Fund Manager of an Investment Company;   \n(d) the Directors, employees and staff of an Investment Company and of its Fund Manager; and (e) any other person carrying on any function or service in relation to an Investment Company. ",
+        "bbox": [
+            156,
+            261,
+            823,
+            406
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 Capitalised terms are defined terms in: ",
+        "bbox": [
+            104,
+            420,
+            415,
+            436
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) the Law or Regulations made under that law; (b) the Regulatory Law 2004 and Rules made under that law; (c) the Collective Investment Law 2010 and Rules made under that law; or (d) the Insolvency Law 2009 and Rules made under that law. ",
+        "bbox": [
+            156,
+            450,
+            689,
+            563
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 Where capitalisation of the initial letter is not used, an expression has its natural meaning, unless otherwise provided in these Regulations or the context requires otherwise. The terms: ",
+        "bbox": [
+            96,
+            578,
+            892,
+            611
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) ‘administrative receiver’ has the meaning given in Article 14(5) of the Insolvency Law; and (b) ‘receiver’ has the meaning given in Article 14(1) of the Insolvency Law. ",
+        "bbox": [
+            158,
+            626,
+            821,
+            674
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.4 These Investment Companies Regulations are referred to as ‘these Regulations’. ",
+        "bbox": [
+            98,
+            689,
+            686,
+            705
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 Rules, regulations, general powers of the DFSA ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            728,
+            491,
+            744
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 Subject to Regulation 1.2.2, these Regulations are additional to any other legislation that applies to the incorporation of, or conversion to, an Investment Company, or that may apply to the operations, affairs, listing on an Exchange or winding up of an Investment Company, including the Law, the Collective Investment Law 2010, the Markets Law 2012 and the Insolvency Law 2009 and any Rules or Regulations made under such laws. ",
+        "bbox": [
+            101,
+            767,
+            897,
+            833
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 In accordance with Article 132(2)(b) of the Law, where there is any inconsistency between the provisions of: ",
+        "bbox": [
+            106,
+            848,
+            875,
+            864
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) the DFSA administered legislation applicable to an Investment Company; and (b) the Law and Regulations made thereunder, ",
+        "bbox": [
+            153,
+            878,
+            732,
+            896
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "INVESTMENT COMPANIES (IC) REGULATIONS ",
+        "bbox": [
+            490,
+            45,
+            897,
+            61
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            493,
+            917,
+            503,
+            929
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "the provisions in (a) shall prevail over the provisions in (b) and be taken to exclude, waive or modify the Law or Regulations to the extent of any such inconsistency, unless expressly provided otherwise or the context requires otherwise. ",
+        "bbox": [
+            158,
+            117,
+            897,
+            166
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 In accordance with Article 132(2)(b) of the Law, the application of Article 66(1) and (2) of the Law is modified in relation to its application to Investment Companies so as to permit such an Investment Company to be managed by its sole Corporate Director in accordance with the requirements in section 8.1A of the CIR module of the DFSA Rulebook. ",
+        "bbox": [
+            101,
+            181,
+            898,
+            247
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4 Without limiting the generality of powers of the DFSA under Article 23 of the Regulatory Law 2004 and Article 8 of the Collective Investment Law 2010, the DFSA shall have authority to make, issue, amend and rescind such Rules as are necessary or appropriate in the interests of the DIFC. ",
+        "bbox": [
+            101,
+            262,
+            897,
+            311
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 Incorporation of, or conversion into, an Investment Company ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            335,
+            591,
+            352
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 Subject to the provisions of these Regulations, a person may, pursuant to Article 132(1) of the Law: ",
+        "bbox": [
+            96,
+            373,
+            816,
+            391
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) incorporate an Open-ended Investment Company or a Closed-ended Investment Company; or (b) convert, if so authorised by its Articles of Association and by a Special Resolution, an existing Company into an Open-ended Investment Company or a Closed-ended Investment Company, ",
+        "bbox": [
+            156,
+            405,
+            898,
+            469
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "for the main purpose of carrying on the business of a Fund, provided the DFSA has given its consent to such incorporation or conversion respectively. ",
+        "bbox": [
+            155,
+            484,
+            895,
+            517
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 An application for the incorporation of a Company as an Investment Company or for the conversion of an existing Company into an Investment Company shall not be made without submission to the Registrar of a copy of any consent of the DFSA given under Regulation 1.5.1(b). ",
+        "bbox": [
+            102,
+            534,
+            897,
+            582
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 Name and Articles of Association of an Investment Company ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            606,
+            586,
+            622
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 The name of an Investment Company shall, without prejudice to the application of Articles 29 and 29 of the Law, include the expressions as provided below: ",
+        "bbox": [
+            98,
+            643,
+            893,
+            676
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) in the case of an Open-ended Investment Company, the expression ‘Open-ended Investment Company’ or ‘OEIC’; or   \n(b) in the case of a Closed-ended Investment Company, the expression ‘Closed-ended Investment Company’ or ‘CEIC’. ",
+        "bbox": [
+            158,
+            691,
+            897,
+            772
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 The Articles of Association of an Open-ended Investment Company shall state that it is an Open-ended Investment Company with variable Share capital. ",
+        "bbox": [
+            99,
+            787,
+            897,
+            820
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 The Articles of Association of an Open-ended Investment Company shall contain a provision to the effect that Shareholders have a right, generally, on request or at specified frequency, to have their Shares redeemed or repurchased by the Fund Manager, at a value calculated based on the net asset value of the Fund Property in accordance with the requirements in section 8.6 of the CIR module of the DFSA Rulebook. ",
+        "bbox": [
+            99,
+            835,
+            897,
+            901
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "INVESTMENT COMPANIES (IC) REGULATIONS ",
+        "bbox": [
+            491,
+            45,
+            897,
+            61
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 The Articles of Association of an Investment Company shall comply with the requirements imposed under the Regulations in this Chapter and the Collective Investment Law 2010 and the Rules under that law. ",
+        "bbox": [
+            127,
+            85,
+            893,
+            118
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Articles of Association of an Investment Company shall contain the matters required to be included in the Constitution of a Domestic Fund under CIR App 5. ",
+        "bbox": [
+            145,
+            133,
+            893,
+            167
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "An Investment Company may alter its Articles of Association by Special Resolution in order to comply with the requirements of these Companies (IC) Regulations and the Collective Investment Law 2010. ",
+        "bbox": [
+            142,
+            181,
+            895,
+            214
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 Permissible uses and DFSA consent ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            238,
+            410,
+            253
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 A Company shall not be incorporated as, or operate as, an Investment Company, and an existing Company shall not be converted into, or operate as, an Investment Company, unless: ",
+        "bbox": [
+            101,
+            276,
+            897,
+            309
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) the Company is to be formed, and will operate, for the main purpose of conducting the business of a Fund; and   \n(b) the DFSA has given its prior written consent. ",
+        "bbox": [
+            158,
+            324,
+            897,
+            388
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 An application for consent shall be made to the DFSA by the Incorporators of a proposed Company or the Company and the Fund Manager and shall be in such form, containing such information and be accompanied by such other particulars, as required from time to time by the DFSA. ",
+        "bbox": [
+            101,
+            405,
+            897,
+            453
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.3 The DFSA may only grant its consent under Regulation 1.5.1 where it is satisfied that the requirements under these Regulations and under other applicable legislation administered by it are met by the applicant. The DFSA may grant its consent subject to such conditions and restrictions as it considers appropriate. ",
+        "bbox": [
+            99,
+            469,
+            898,
+            517
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.4 If the DFSA refuses to grant consent, or imposes conditions or restrictions relating to its consent, the DFSA shall, without undue delay, inform the applicant in writing of such refusal or conditions or restrictions. The procedures in Appendix 2 apply to such a decision. ",
+        "bbox": [
+            101,
+            534,
+            898,
+            582
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.5 In accordance with Article 29(2) of the Regulatory Law 2004, the Financial Markets Tribunal has jurisdiction to hear and determine where an applicant refers a decision of the DFSA in relation to an application for consent under Regulation 1.5.4. ",
+        "bbox": [
+            101,
+            597,
+            895,
+            647
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6 Withdrawal of consent of the DFSA ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            670,
+            410,
+            685
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6.1 The DFSA may revoke its consent to operate an Investment Company if it appears to it that: ",
+        "bbox": [
+            102,
+            708,
+            764,
+            724
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) any requirement for the continuation of the consent is no longer satisfied; (b) the Investment Company, any Director of the Company or its Fund Manager: ",
+        "bbox": [
+            147,
+            739,
+            725,
+            789
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(i) has contravened any requirement under the Law or these Regulations; (ii) has contravened any applicable requirements under the Regulatory Law 2004 and the Collective Investment Law 2010 or Rules made under those laws; (iii) has failed to comply with a condition or restriction in relation to the grant of consent; or ",
+        "bbox": [
+            217,
+            803,
+            897,
+            900
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "INVESTMENT COMPANIES (IC) REGULATIONS ",
+        "bbox": [
+            491,
+            45,
+            897,
+            61
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(iv) has, in purported compliance with any such requirement or any such condition or restriction, knowingly or recklessly given the DFSA or the Registrar information which is false or misleading in a material particular; ",
+        "bbox": [
+            215,
+            85,
+            897,
+            135
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(c) no activity relevant to the grant of the consent has been carried on in relation to the Investment Company for the previous 12 months; or   \n(d) it is in the interests of the DIFC to revoke the consent in order to protect the interests of Shareholders or Creditors, or potential Shareholders or Creditors, of the Investment Company. ",
+        "bbox": [
+            156,
+            150,
+            897,
+            232
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.6.2 For the purposes of Regulation 1.6.1(d), the DFSA may take into account any relevant matter, including those relating to or affecting: ",
+        "bbox": [
+            102,
+            246,
+            895,
+            279
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) the Company and its Fund Manager;   \n(b) any person employed by or associated with the Company or by the Fund Manager;   \n(c) any Director of the Company;   \n(d) any person exercising influence over any Director of the Company;   \n(e) any body corporate in the same group as the Company;   \n(f) any Director of a body corporate referred to in (e);   \n(g) any person exercising influence over a body corporate referred to in (e); or (h) the interests of a Shareholder or Creditor of the Company. ",
+        "bbox": [
+            156,
+            292,
+            761,
+            532
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.6.3 Before revoking any consent, the DFSA shall consider whether any necessary and appropriate steps have been taken to secure one or more of the following under the Insolvency Law 2009 and Insolvency Regulations: ",
+        "bbox": [
+            101,
+            546,
+            897,
+            580
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) appointment of a receiver or administrative receiver to the Investment Company; or (b) the winding up of the Investment Company. ",
+        "bbox": [
+            160,
+            594,
+            781,
+            643
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.6.4 (1) On withdrawal of the DFSA consent, the Investment Company and the Fund Manager shall, without unnecessary delay, notify that fact to: ",
+        "bbox": [
+            107,
+            659,
+            897,
+            691
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) each regulatory authority in every country or territory to which the consent related prior to its withdrawal; and   \n(b) each Shareholder of the Investment Company in question. ",
+        "bbox": [
+            217,
+            705,
+            893,
+            771
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) The notice required of each of the persons respectively referred to in this Regulation may be given by them jointly. ",
+        "bbox": [
+            148,
+            785,
+            897,
+            819
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.6.5 Subject to Regulation 1.6.6: ",
+        "bbox": [
+            101,
+            833,
+            346,
+            849
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) if the consent is revoked by the DFSA, such revocation does not affect the operation of any direction given by the DFSA which is then in force; and ",
+        "bbox": [
+            158,
+            864,
+            895,
+            898
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "INVESTMENT COMPANIES (IC) REGULATIONS ",
+        "bbox": [
+            491,
+            45,
+            897,
+            61
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            491,
+            917,
+            503,
+            929
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(b) a direction may be given by the DFSA in relation to an Investment Company in the case of which a consent has been revoked, if a direction was already in force at the time of revocation. ",
+        "bbox": [
+            151,
+            85,
+            897,
+            118
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": ".6.6 Where a winding up order has been made by the Court, no direction given by the DFSA is to have effect in relation to the Investment Company concerned. ",
+        "bbox": [
+            114,
+            133,
+            897,
+            166
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.6.7 The DFSA may, on its own initiative, or on the application of the Investment Company or its Fund Manager, revoke or vary a direction given under this Regulation if it appears to the DFSA that it would be necessary or appropriate in the interests of the DIFC. ",
+        "bbox": [
+            99,
+            181,
+            898,
+            231
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.6.8 The procedures in Appendix 2 apply to a decision under Regulation 1.6.1. ",
+        "bbox": [
+            102,
+            246,
+            645,
+            263
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.6.9 In accordance with Article 29(2) of the Regulatory Law 2004, the Financial Markets Tribunal has jurisdiction to hear and determine any referral where an Investment Company, or its Fund Manager, refers a decision of the DFSA to revoke its consent under this Regulation. ",
+        "bbox": [
+            101,
+            277,
+            897,
+            327
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.7 Directions by the DFSA ",
+        "text_level": 1,
+        "bbox": [
+            101,
+            351,
+            326,
+            366
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.7.1 The DFSA may: ",
+        "bbox": [
+            101,
+            382,
+            269,
+            397
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) require an Open-ended Investment Company to cease the issue or redemption, or both the issue and redemption, of Shares or any class of Shares in the Investment Company; ",
+        "bbox": [
+            148,
+            412,
+            895,
+            445
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(b) require the Investment Company, any Director or its Fund Manager, as the case may be, to present a petition to the Court to: ",
+        "bbox": [
+            148,
+            460,
+            897,
+            493
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(i) make an order or orders for the appointment of a receiver or administrative receiver to the Company; or   \n(ii) make an order or orders for the winding up of the Investment Company under the Insolvency Regulations. ",
+        "bbox": [
+            215,
+            508,
+            895,
+            590
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(c) require the Fund Manager to take such steps as necessary to wind up the affairs of the Investment Company otherwise than by an order of the Court. ",
+        "bbox": [
+            153,
+            606,
+            895,
+            637
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.7.2 Subject to Regulation 1.7.3: ",
+        "bbox": [
+            101,
+            654,
+            346,
+            670
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) if the consent is revoked by the DFSA pursuant to Regulation 1.6 of these Regulations, such revocation does not affect the operation of any direction given by the DFSA which is then in force; and   \n(b) a direction may be given by the DFSA in relation to an Investment Company in the case of which a consent has been revoked, if a direction was already in force at the time of revocation. ",
+        "bbox": [
+            158,
+            684,
+            898,
+            765
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.7.3 Where a winding up order has been made by the Court, no direction given by the DFSA is to have effect in relation to the Investment Company concerned. ",
+        "bbox": [
+            104,
+            780,
+            897,
+            813
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.7.4 The DFSA may, on its own initiative, or on the application of the Investment Company or its Fund Manager, revoke or vary a direction given under this Regulation if it appears to the DFSA that it would be necessary or appropriate in the interests of the DIFC. If the DFSA varies, on its own initiative, a direction given under Regulation 1.7 of these Regulations, the procedures in Appendix 2 apply to such a decision. ",
+        "bbox": [
+            99,
+            829,
+            898,
+            893
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "INVESTMENT COMPANIES (IC) REGULATIONS ",
+        "bbox": [
+            491,
+            45,
+            897,
+            61
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            491,
+            917,
+            503,
+            929
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.7.5 In accordance with Article 29(2) of the Regulatory Law 2004, the Financial Markets Tribunal has jurisdiction to hear and determine any referral where an Investment Company or its Fund Manager refers a decision of the DFSA made under this Regulation 1.7 in relation to a direction. ",
+        "bbox": [
+            99,
+            85,
+            897,
+            135
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.8 Applications to the Court ",
+        "text_level": 1,
+        "bbox": [
+            101,
+            159,
+            339,
+            174
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.8.1 The Court may, on application of the DFSA, make one or more of the following orders: ",
+        "bbox": [
+            98,
+            196,
+            735,
+            213
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) an order removing the Fund Manager or any Director of the Investment Company and replacing such a person with a person or persons nominated by the DFSA or as the Court may consider appropriate;   \n(b) an order appointing a receiver or administrative receiver, or an order for the winding up of the Investment Company pursuant to the Insolvency Regulations; or   \n(c) any other order as the Court thinks fit. ",
+        "bbox": [
+            158,
+            228,
+            898,
+            342
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.8.2 The DFSA shall: ",
+        "bbox": [
+            101,
+            356,
+            272,
+            372
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) give written notice of the making of an application under Regulation 1.8.1 to: ",
+        "bbox": [
+            148,
+            387,
+            732,
+            405
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(i) the Investment Company and its Fund Manager; and   \n(ii) where the application seeks the removal of any Director of the Investment Company, that Director; and ",
+        "bbox": [
+            215,
+            419,
+            897,
+            483
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(b) take such steps as it considers appropriate for bringing the application to the attention of the Shareholders of the Investment Company. ",
+        "bbox": [
+            151,
+            500,
+            897,
+            531
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.8.3 The Court may, on application of a person who is subject to an order, make any other orders it thinks fit including, but not limited to, orders: ",
+        "bbox": [
+            101,
+            547,
+            895,
+            579
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) revoking the order;   \n(b) varying the order;   \n(c) requiring the order to be complied with in a manner that the Court considers appropriate; or (d) requiring the Investment Company, its Fund Manager or the DFSA to do any act or thing. ",
+        "bbox": [
+            156,
+            595,
+            823,
+            707
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.9 Shares, register of Shareholders ",
+        "text_level": 1,
+        "bbox": [
+            101,
+            729,
+            385,
+            744
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": ".9.1 (1) The DFSA may prescribe in Rules made under the Collective Investment Law 2010 the form and contents of Share certificates and the manner in which such Share certificates may be delivered by an Investment Company. (2) Nothing in Paragraph (1) shall prevent an Investment Company issuing Share certification in a dematerialised (electronic) form. ",
+        "bbox": [
+            107,
+            768,
+            898,
+            866
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.9.2 An Investment Company shall maintain its register of Shareholders in accordance with the requirements: ",
+        "bbox": [
+            99,
+            881,
+            849,
+            897
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "INVESTMENT COMPANIES (IC) REGULATIONS ",
+        "bbox": [
+            491,
+            45,
+            897,
+            61
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            491,
+            917,
+            503,
+            929
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) in CIR section 8.7 of the DFSA Rulebook; and   \n(b) in Chapter 5 of Part 7 of the Law, to the extent that such requirements are not inconsistent with the requirements referred to in (a). ",
+        "bbox": [
+            156,
+            85,
+            895,
+            151
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.9.3 The Fund Manager of an Open-ended Investment Company shall be deemed to hold each uncancelled issued Share in the Company during such times as neither the Fund Manager nor any other person is entered in the Shareholder register as the holder of such Share. ",
+        "bbox": [
+            104,
+            165,
+            897,
+            214
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.10 Share transfers and redemptions ",
+        "text_level": 1,
+        "bbox": [
+            101,
+            238,
+            392,
+            253
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.10.1 The Articles of Association of an Investment Company may contain provision as to Share transfers in respect of any matter for which provision is not made in the Law, the Collective Investment Law 2010 or Rules made for the purposes of that law. ",
+        "bbox": [
+            101,
+            276,
+            898,
+            325
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.10.2 Where any Shares of an Investment Company are transferred to the Investment Company, the Investment Company must cancel those Shares, unless it is an Open-ended Investment Company. ",
+        "bbox": [
+            104,
+            340,
+            895,
+            373
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.10.3 For the purposes of Article 46(5) of the Law, an Investment Company may refuse to register a transfer of Shares if: ",
+        "bbox": [
+            104,
+            388,
+            897,
+            421
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) there exists a minimum requirement as to the number or value of Shares that must be held by any Shareholder of the Investment Company and the transfer would result in either the transferor or transferee holding less than the required minimum; or   \n(b) the transfer would result in a contravention of any provision of the Investment Company’s Articles of Association or would produce a result inconsistent with any provision of the Investment Company’s Prospectus. ",
+        "bbox": [
+            158,
+            435,
+            897,
+            550
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.10.4 An Open-ended Investment Company shall redeem its Shares at a price based on the net asset value of the property of the Company in accordance with its Articles of Association and the provisions in sections 8.6 and 8.6A of the CIR module of the DFSA Rulebook and, where it does so, Chapters 6 and 7 of Part 7 of the Law shall not apply to such redemptions of Shares. ",
+        "bbox": [
+            99,
+            565,
+            897,
+            631
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.10.5 A Closed-ended Investment Company may purchase its Shares belonging to any class in accordance with the requirements in Chapter 6 of Part 7 of the Law, subject to any restrictions in its Articles of Association or Prospectus. ",
+        "bbox": [
+            101,
+            647,
+            898,
+            695
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.11 Distributions ",
+        "text_level": 1,
+        "bbox": [
+            101,
+            719,
+            253,
+            734
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.11.1 An Investment Company shall make distributions, as stated in its Articles of Association and the Prospectus, subject to the requirements in the Collective Investment Law 2010 and the CIR module of the DFSA Rulebook. ",
+        "bbox": [
+            99,
+            757,
+            895,
+            790
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "INVESTMENT COMPANIES (IC) REGULATIONS ",
+        "bbox": [
+            491,
+            45,
+            897,
+            61
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            493,
+            917,
+            503,
+            929
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.12 Records, accounts and audit ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            87,
+            357,
+            102
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.12.1 (1) Every Investment Company shall comply with the accounting, audit and reporting requirements in Chapter 9 of the CIR module of the DFSA Rulebook. (2) Every Investment Company shall maintain and preserve such records for such period as the DFSA, by Rules, may prescribe. ",
+        "bbox": [
+            102,
+            125,
+            897,
+            205
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "INVESTMENT COMPANIES (IC) REGULATIONS ",
+        "bbox": [
+            490,
+            45,
+            897,
+            61
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            491,
+            917,
+            503,
+            929
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 1 ",
+        "text_level": 1,
+        "bbox": [
+            449,
+            106,
+            547,
+            121
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FEES ",
+        "text_level": 1,
+        "bbox": [
+            477,
+            145,
+            521,
+            160
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table of fees ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            184,
+            235,
+            199
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e09c41f18a67d123f88facc13d45211761ef23f57f057a20227148d26c9b395.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Upon receipt by the Registrar of:</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Application for the incorporation of an Open-ended/Closed-ended Investment Company</td><td rowspan=1 colspan=1>$1,000</td></tr><tr><td rowspan=1 colspan=1>FMT fees:</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Making a referral to the FMT (which can be waived by the president of the FMT if the personcommencing the reference is an individual and if, in the circumstances, the president considers itis equitable to do so)</td><td rowspan=1 colspan=1>$5,000</td></tr></table>",
+        "bbox": [
+            155,
+            234,
+            898,
+            328
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "INVESTMENT COMPANIES (IC) REGULATIONS ",
+        "bbox": [
+            447,
+            44,
+            854,
+            61
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            493,
+            917,
+            504,
+            929
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 2 ",
+        "text_level": 1,
+        "bbox": [
+            478,
+            93,
+            578,
+            109
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "DECISION MAKING PROCEDURES ",
+        "text_level": 1,
+        "bbox": [
+            390,
+            125,
+            665,
+            141
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1. Interpretation ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            166,
+            263,
+            181
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For the purposes of this Appendix: ",
+        "bbox": [
+            161,
+            204,
+            390,
+            220
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) a “Decision Maker” means a person making a decision to which these procedures apply; and (b) a “Relevant Person” means a person in relation to whom a power referred to in paragraph 2 of this Appendix is exercised or proposed to be exercised. ",
+        "bbox": [
+            160,
+            234,
+            897,
+            300
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2. Application of the Appendix ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            323,
+            362,
+            339
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This Appendix applies to the Decision Maker, subject to paragraph 3 of this Appendix, where a provision requires the Decision Maker to make a decision pursuant to a provision under these Regulations. ",
+        "bbox": [
+            161,
+            362,
+            895,
+            395
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3. Decisions to which the procedures do not apply ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            417,
+            491,
+            434
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) The procedures in this Appendix (other than sub-paragraph (b) below) do not apply to a decision by the Decision Maker: ",
+        "bbox": [
+            153,
+            457,
+            897,
+            488
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(i) to withdraw a direction, requirement, restriction or prohibition;   \n(ii) to withdraw a condition or restriction imposed in relation to a Licence; or   \n(iii) in relation to a person, if the person has requested, or consented in writing to, the making of the decision. ",
+        "bbox": [
+            217,
+            503,
+            895,
+            599
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(b) In the cases referred to in subparagraph (a) above, the Decision Maker shall notify the person in writing of the decision and the date on which it is to take effect. ",
+        "bbox": [
+            151,
+            616,
+            893,
+            648
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(c) If the Decision Maker makes a decision in relation to a person after a decision of the Financial Markets Tribunal or Court relating to the conduct of the person, the requirement to give the person an opportunity to make representations under paragraph 4 or 6 of this Appendix (as applicable), does not apply in relation to findings of fact of the Court. ",
+        "bbox": [
+            160,
+            664,
+            895,
+            728
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4. Opportunity to make representations before a decision ",
+        "text_level": 1,
+        "bbox": [
+            101,
+            752,
+            545,
+            768
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) If the Decision Maker proposes to make a decision to which this Appendix applies other than a decision under paragraph 3(a) of this Appendix, the Decision Maker shall first give the Relevant Person: ",
+        "bbox": [
+            156,
+            791,
+            893,
+            824
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(i) a written notice (a “Preliminary Notice”) containing the information in sub-paragraph (b) below; and ",
+        "bbox": [
+            209,
+            838,
+            893,
+            871
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "INVESTMENT COMPANIES (IC) REGULATIONS ",
+        "bbox": [
+            490,
+            44,
+            895,
+            61
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            490,
+            917,
+            508,
+            929
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(ii) an opportunity to make representations to the Decision Maker in person and in writing concerning the decision the Decision Maker proposes to make. ",
+        "bbox": [
+            214,
+            92,
+            893,
+            125
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(b) The Preliminary Notice shall: ",
+        "bbox": [
+            161,
+            140,
+            416,
+            156
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(i) specify the proposed decision;   \n(ii) specify the reasons for that proposed decision, including any proposed findings of fact;   \n(iii) include a copy of any relevant materials which were considered in making the proposed decision;   \n(iv) inform the person that the person may make representations to the Decision Maker concerning the proposed decision; and   \n(v) specify how and by when any representations may be made. ",
+        "bbox": [
+            217,
+            170,
+            897,
+            348
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(c) For the purposes of sub paragraph (b)(iii) above, the Decision Maker: ",
+        "bbox": [
+            158,
+            362,
+            678,
+            378
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(i) may refer to materials (instead of providing a copy) if they are to the knowledge of the Decision Maker already held by the Relevant Person or are publicly available; and (ii) is not required to provide material that is the subject of legal professional privilege. ",
+        "bbox": [
+            210,
+            393,
+            895,
+            458
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(d) If the Decision Maker does not receive any representations within the period specified in the Preliminary Notice, the Decision Maker may proceed to make the proposed decision and give the person a Decision Notice in accordance with paragraph 5. ",
+        "bbox": [
+            160,
+            473,
+            895,
+            522
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "If the Decision Maker receives representations within the period specified in the Preliminary Notice, the Decision Maker shall consider the representations in making the decision. ",
+        "bbox": [
+            205,
+            537,
+            895,
+            570
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "If, after considering the representations, the Decision Maker decides: ",
+        "bbox": [
+            217,
+            585,
+            673,
+            602
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(i) to make the proposed decision (either as proposed or with variations), then the Decision Maker shall give the person a Decision Notice under paragraph 5; or   \n(ii) not to make the proposed decision, then the Decision Maker shall as soon as reasonably practicable notify the person in writing that the Decision Maker has decided not to make the decision. ",
+        "bbox": [
+            209,
+            616,
+            895,
+            713
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(g) If the Decision Maker concludes that any delay likely to arise as a result of complying with the procedures in this paragraph would be prejudicial to the interests of a Relevant Person, its Shareholders or members or otherwise prejudicial to the interests of the DIFC, the requirements in subparagraphs (a) to (f) above do not apply and the Decision Maker shall provide the Relevant Person with an opportunity to make representations in accordance with the procedures in paragraph 6, after the Decision Maker has made the decision. ",
+        "bbox": [
+            158,
+            729,
+            895,
+            827
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "INVESTMENT COMPANIES (IC) REGULATIONS ",
+        "bbox": [
+            490,
+            45,
+            895,
+            61
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5. Decision Notice ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            92,
+            274,
+            107
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) If the Decision Maker decides to make a decision to which this Appendix applies, the Decision Maker shall, as soon as practicable, give the Relevant Person a written notice (a “Decision Notice”) specifying: ",
+        "bbox": [
+            155,
+            131,
+            893,
+            164
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(i) the decision;   \n(ii) the reasons for the decision, including any findings of fact and the application of any applicable law to the facts as found;   \n(iii) the date on which the decision is to take effect; and   \n(iv) if applicable, the date by which any relevant action shall be taken by the person. ",
+        "bbox": [
+            217,
+            179,
+            895,
+            308
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(b) The Decision Notice shall include a copy of the relevant materials which were considered in making the decision. ",
+        "bbox": [
+            155,
+            321,
+            897,
+            353
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(c) For the purposes of subparagraph (b), the Decision Maker: ",
+        "bbox": [
+            156,
+            369,
+            606,
+            386
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(i) may refer to materials (instead of providing a copy) if they are already held to the knowledge of the Decision Maker by the Relevant Person or are publicly available; and (ii) is not required to provide material that is the subject of legal professional privilege. ",
+        "bbox": [
+            217,
+            401,
+            897,
+            467
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6. Opportunity to make representations after a decision ",
+        "text_level": 1,
+        "bbox": [
+            101,
+            488,
+            532,
+            505
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) If this paragraph applies under paragraph $4 ( \\mathrm { g } )$ , the Decision Maker shall: ",
+        "bbox": [
+            156,
+            527,
+            699,
+            544
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(i) provide the Relevant Person with an opportunity to make representations to the Decision Maker in person and in writing within a period of fourteen (14) days, or such further period as may be determined by the Decision Maker, from the date on which the Decision Notice is given to the person under paragraph 5 above; and   \n(ii) inform the Relevant Person in the Decision Notice that the person may make representations concerning the decision and specify how and by when any representations may be made. ",
+        "bbox": [
+            202,
+            559,
+            901,
+            672
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(b) If the Decision Maker does not receive any representations within the period specified in the Decision Notice, the Decision Maker shall inform the person in writing that the decision is to stand. ",
+        "bbox": [
+            158,
+            688,
+            895,
+            720
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(c) If the Decision Maker receives representations within the period specified in the Decision Notice, the Decision Maker shall consider the representations in deciding whether to confirm, withdraw or vary the decision. ",
+        "bbox": [
+            161,
+            734,
+            895,
+            785
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(d) If after considering representations received the Decision Maker decides: ",
+        "bbox": [
+            150,
+            799,
+            700,
+            816
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(i) to confirm the decision, the Decision Maker shall as soon as reasonably practicable notify the person in writing that the decision is to stand; ",
+        "bbox": [
+            210,
+            832,
+            895,
+            864
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "INVESTMENT COMPANIES (IC) REGULATIONS ",
+        "bbox": [
+            490,
+            45,
+            895,
+            61
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "12 ",
+        "bbox": [
+            490,
+            917,
+            508,
+            929
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(ii) to withdraw the decision, the Decision Maker shall as soon as reasonably practicable notify the person in writing that the decision has been withdrawn; or   \n(iii) to vary the decision, the Decision Maker shall as soon as reasonably practicable give the person an amended Decision Notice under paragraph 5. ",
+        "bbox": [
+            217,
+            90,
+            895,
+            172
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(e) For the avoidance of doubt, the opportunity to make representations under this paragraph does not arise: ",
+        "bbox": [
+            153,
+            188,
+            892,
+            204
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(i) if the person was given a Preliminary Notice and the opportunity to make representations under paragraph 4 before the decision was made; or (ii) in respect of an amended Decision Notice given under sub-paragraph (d)(iii) above. ",
+        "bbox": [
+            217,
+            218,
+            893,
+            285
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "INVESTMENT COMPANIES (IC) REGULATIONS ",
+        "bbox": [
+            490,
+            45,
+            895,
+            61
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "13 ",
+        "bbox": [
+            490,
+            917,
+            508,
+            929
+        ],
+        "page_idx": 14
+    }
+]

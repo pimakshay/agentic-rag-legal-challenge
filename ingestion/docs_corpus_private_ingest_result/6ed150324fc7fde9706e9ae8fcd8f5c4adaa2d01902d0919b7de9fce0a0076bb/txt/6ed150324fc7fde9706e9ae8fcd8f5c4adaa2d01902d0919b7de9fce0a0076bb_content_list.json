@@ -1,0 +1,105 @@
+[
+    {
+        "type": "text",
+        "text": "ENF 002/2011 - Order ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            172,
+            349,
+            195
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Enforcement No: 002/2011 THE JUDICIAL AUTHORITY OF THE DUBAI INTERNATIONAL FINANCIAL CENTRE IN THE COURT OF FIRST INSTANCE BETWEEN ",
+        "bbox": [
+            40,
+            254,
+            863,
+            299
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/70f140cdd9b9cd60a4c3552e6785aec0004496f3948556d636b100a0c9581dd2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>KBH KAANUUN LIMITED</td><td>Judgment Creditor</td></tr><tr><td>And JANAYEN II LIMITED</td><td>Judgment Debtor</td></tr></table>",
+        "bbox": [
+            42,
+            302,
+            489,
+            382
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ORDER NOTICE: You must obey this Order. If you do not, you may be fined for contempt of Court. UPON reading the application or an Order requiring the Judgment Debtor to attend the Court; IT IS ORDERED THAT: ",
+        "bbox": [
+            40,
+            409,
+            942,
+            476
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Mr. Jack Fleifel must attend the Court at 10am on Wednesday, 09 March 2011. ",
+        "bbox": [
+            77,
+            483,
+            816,
+            502
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. At that time, Mr. Jack Fleifel to produce the following: ",
+        "bbox": [
+            77,
+            525,
+            578,
+            543
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a. All documents relevant to the fi nancial status of the Judgment Debtor; including audited fi nancials   \nb. Bank account records and statements   \nc. Lease Agreements between the Judgment Creditor and third parties, including in relation to leases of the Judgment Debtor's real property.   \nd. Title deeds to all property and assets owned by the Judgment Debtor. ",
+        "bbox": [
+            114,
+            545,
+            947,
+            665
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. At that time, Mr. Jack Fleifel to answer on oath such questions as the Court may require. Issued by Mark Beer Registrar Date of Issue: 15 February 2011 At: 12pm ",
+        "bbox": [
+            52,
+            687,
+            892,
+            731
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FEBRUARY 15, 2011 ENFORCEMENT,ORDERS ",
+        "bbox": [
+            40,
+            200,
+            462,
+            218
+        ],
+        "page_idx": 0
+    }
+]

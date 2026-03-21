@@ -1,0 +1,768 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            395,
+            334,
+            612,
+            382
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 2 ",
+        "text_level": 1,
+        "bbox": [
+            205,
+            534,
+            804,
+            567
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "April 2023 ",
+        "bbox": [
+            436,
+            583,
+            577,
+            606
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Amended Data Protection Regulations ",
+        "text_level": 1,
+        "bbox": [
+            156,
+            660,
+            856,
+            697
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 2 ",
+        "text_level": 1,
+        "bbox": [
+            343,
+            67,
+            668,
+            85
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AMENDED DATA PROTECTION REGULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            255,
+            91,
+            755,
+            111
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Why are we issuing this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            127,
+            358,
+            144
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The Dubai International Financial Centre Authority (“DIFCA”) proposes to enact amended Data Protection Regulations (the “Proposed Regulations”) to establish additional areas of regulation that support robust implementation of the Data Protection Law, DIFC Law No. 5 of 2020 (the “DPL”). This Consultation Paper No. 2 of 2023 (“Consultation Paper”) seeks public comments on the Proposed Regulations. ",
+        "bbox": [
+            95,
+            157,
+            922,
+            267
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Who should read this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            288,
+            338,
+            306
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. This Consultation Paper would be of interest to persons conducting or proposing to conduct business in the DIFC. In particular: ",
+        "bbox": [
+            92,
+            320,
+            920,
+            361
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a. Data protection officers, professionals, and the senior managers of the companies they represent;   \nb. Landlords of leased offices in the DIFC;   \nc. Developers of technology that enables the digital economy;   \nd. Marketing and communications professionals and the companies they support; and e. legal advisors to any of the above. ",
+        "bbox": [
+            151,
+            380,
+            914,
+            568
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How to provide comments ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            591,
+            314,
+            606
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. All comments should be provided to the person specified below: ",
+        "bbox": [
+            90,
+            622,
+            688,
+            640
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates   \nor e-mailed to: consultation@difc.ae ",
+        "bbox": [
+            153,
+            659,
+            484,
+            790
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. You may choose to identify the organisation you represent in your comments. ",
+        "bbox": [
+            90,
+            807,
+            799,
+            826
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "bbox": [
+            94,
+            844,
+            919,
+            885
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AMENDED DATA PROTECTION REGULATIONS ",
+        "bbox": [
+            494,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            946
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "What happens next? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            71,
+            269,
+            86
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. The deadline for providing comments on the proposals in this Consultation Paper is 17 May 2023. ",
+        "bbox": [
+            92,
+            102,
+            919,
+            141
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. Once we receive your comments, we will consider if any further refinements are required to the Proposed Regulations. Once DIFCA considers the Proposed Regulations to be in a suitable form, they will be enacted as new DIFC Regulations to come in to force on a date specified and published. ",
+        "bbox": [
+            92,
+            160,
+            922,
+            247
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8. The Proposed Regulations are in draft form only. You should not act on them until they are formally enacted. We will issue a notice on our website when this happens. ",
+        "bbox": [
+            89,
+            264,
+            917,
+            307
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            328,
+            215,
+            344
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase, or are defined in the DPL or the Proposed Regulations. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "bbox": [
+            92,
+            359,
+            922,
+            446
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            469,
+            198,
+            485
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "I. Regulation 8: Personal Data Breaches ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            508,
+            456,
+            524
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. Article 41 and Article 42 of the DPL address Personal Data Breaches. Due to the potentially sensitive nature of the Personal Data that may be exposed by way of a Personal Data Breach, it is important to lay down regulations to clarify the actions and remedies required to report and manage such an incident. ",
+        "bbox": [
+            94,
+            543,
+            920,
+            630
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11. In certain instances, a Personal Data Breach may occur where a former tenant of a DIFCbased property accidentally or intentionally leaves information behind that contains or potentially contains Personal Data (“Inadvertently Obtained Information”). ",
+        "bbox": [
+            94,
+            648,
+            919,
+            712
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "12. Upon consideration of independent legal consultation and advice, the Proposed Regulations seek to address the steps necessary to assess whether a Personal Data Breach has occurred regarding Inadvertently Obtained Information and what actions, if any, the Commissioner may consider to assure that fair and lawful processing and remediation occurs thereafter. ",
+        "bbox": [
+            94,
+            729,
+            920,
+            838
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AMENDED DATA PROTECTION REGULATIONS ",
+        "bbox": [
+            494,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            890,
+            934,
+            904,
+            945
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. Regulation 9: Data Collection and Use for Digital Communications and Services ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            66,
+            835,
+            85
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "13. Collection and use of Personal Data for use in electronic marketing or general outreach, along with Personal Data and consent collection through website interfaces for the provision of various digital services (“Digital Communications and Services”) are addressed generally in the DPL and specifically in obligations included in Articles 12, 14(4), 22, 29(1)(h)(viii) and (ix), 30, and 31. ",
+        "bbox": [
+            95,
+            103,
+            920,
+            211
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14. Personal preferences and ability to control the use of one’s Personal Data after it has been shared, even if apparently voluntarily or publicly, is a basic privacy right that the DPL obliges companies in the DIFC and elsewhere to adhere. ",
+        "bbox": [
+            94,
+            230,
+            919,
+            293
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15. Regulation 9 is proposed in order to provide clear collection, use, and lawful basis requirements regarding Digital Communications and Services. These regulations will reinforce the accountability and transparency of DIFC-based entities in such situations. They will also enhance the objectives of the DIFC to continuously evolve as a jurisdiction that enables digital economy through an efficient legal structure protecting consumers from intrusive, unlawful digital data practices as well as companies that implement such regulations from potential risk of enforcement action imposed by other regulatory authorities. ",
+        "bbox": [
+            95,
+            312,
+            919,
+            465
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III. Regulation 10: Personal Data Processed Through Digital Enablement Technology Systems ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            484,
+            917,
+            524
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "16. It is becoming increasingly important to provide controls and guardrails around Personal Data collection and use for processing in a variety of new ways, including via platforms built through digital enablement technology systems such as artificial intelligence (“Systems”). ",
+        "bbox": [
+            95,
+            543,
+            919,
+            606
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "17. While such Systems are a powerful and useful tool in daily life, the amount of Personal Data processing that occurs to power them is exponentially more than that used in any other technology that came before them. ",
+        "bbox": [
+            94,
+            625,
+            919,
+            687
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "18. In addition, these Systems are increasingly designed to be “generative”, meaning they are built to generate volumes of data, including audio, code, images, text, and much more. They are also designed to learn how to Process Personal Data through a variety of instructions and patterns for uses and results that are derived from such instructions. Generative machine learning or enablement is potentially extremely useful in terms of positive outcomes such as sustainability, transparency, accountability, and improving quality of life. At the same time it is potentially extremely dangerous in terms of resulting unwanted bias, controversial political or financial implications, or in impressions or directions of actions that negatively impact the data subject himself. ",
+        "bbox": [
+            95,
+            706,
+            919,
+            904
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AMENDED DATA PROTECTION REGULATIONS ",
+        "bbox": [
+            494,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            890,
+            935,
+            902,
+            945
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "19. Implementing basic technical, organisational, and ethical obligations of Controllers and Processors are the starting point for “regulating” any types of generative, machine-learning, large language model Systems. This is because they are still a vastly unknown quantity but the ability to assert controls and concepts in order to direct the Processing and mitigate risk is not. ",
+        "bbox": [
+            94,
+            66,
+            919,
+            174
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "20. Until such Systems and use cases are better understood, setting out regulations reinforcing relevant controls and concepts to fairly and ethically develop them is of immediate concern. ",
+        "bbox": [
+            92,
+            193,
+            917,
+            233
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "21. Regulation 10 addresses these obligations, controls and concepts, incorporating requirements that ensure compliance with critical parts of the DPL, including fair and lawful processing, and human intervention when input queries may result in responses that ought to be designed to share Personal Data with government authorities in line with Article 28 of the DPL. ",
+        "bbox": [
+            92,
+            252,
+            920,
+            359
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Key features of the Proposed Regulations ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            383,
+            446,
+            401
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "22. The key aspects of the proposal include the: ",
+        "bbox": [
+            94,
+            422,
+            523,
+            439
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) directions for a DIFC-based entity or landlord to follow to determine whether a Personal Data Breach has been committed, whether by the company itself or by a previous tenant, and if or when to report such breach;   \n(b) accountability and transparency controls and processes for assuring data subjects’ rights if their Personal Data is collected and used for digital communications and services by a DIFC-based company;   \n(c) clarity on the obligations of Controllers and Processors regarding controls and safeguards to be built into digital enablement technology systems; and   \n(d) concepts to incorporate privacy by design or default into generative, machine learning or similar Systems ",
+        "bbox": [
+            139,
+            459,
+            920,
+            655
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Regulation 8: Personal Data Breaches ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            671,
+            415,
+            686
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "23. It is potentially unclear whether a finder of Inadvertently Obtained Information that potentially or does in fact contain Personal Data becomes a Controller or Processor of such data. ",
+        "bbox": [
+            95,
+            701,
+            917,
+            742
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "24. It is also necessary to ascertain what should be done with such Inadvertently Obtained Information and who ought to make that decision. ",
+        "bbox": [
+            94,
+            760,
+            920,
+            801
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q1. What are your views on whether a Party that finds Inadvertently Obtained Information that potentially contains, or does in fact contain, Personal Data becomes a Controller or Processor of such data? ",
+        "bbox": [
+            92,
+            824,
+            919,
+            887
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            946
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AMENDED DATA PROTECTION REGULATIONS ",
+        "bbox": [
+            496,
+            43,
+            917,
+            60
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q2. Do you think any other criteria for the Party that finds Inadvertently Obtained Information to make this determination is necessary or desirable?   \nQ3. Is it appropriate for the Commissioner of Data Protection to make a determination and associated directions (if any) regarding disposal / disposition of such data?   \nQ4. Please comment on the fairness, necessity and proportionality of the requirements set out in Regulation 8.4.6.   \nQ5. Please comment on the fairness, necessity and proportionality of the requirements set out in Regulation 8.4.7. ",
+        "bbox": [
+            90,
+            66,
+            922,
+            286
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Regulation 9: Collection and Use of Personal Data in Digital Communications and Services ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            321,
+            883,
+            339
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "25. Understanding the nuanced and often risky territory of use of Personal Data in Digital Communications and Services is the objective of proposed Regulation 9. ",
+        "bbox": [
+            94,
+            353,
+            919,
+            395
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "26. Alignment of proposed Regulation 9 with international best practices and obligations is a further objective, in order to diminish fragmentation. ",
+        "bbox": [
+            92,
+            413,
+            919,
+            454
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Q6. Are the proposed requirements set out in Regulation 9 clear regarding appropriate collection, use, notification and rights obligations when engaging in Digital Communications and Services provision? If not, please provide a detailed explanation for your views.   \nQ7. Will proposed Regulation 9 mitigate risks to companies that are required to also comply with international obligations in this area of practice?   \nQ8. Will proposed Regulation 9 mitigate risks to Data Subjects regarding their rights to control the use of their Personal Data, especially in the context of Digital Communications and Services? ",
+        "bbox": [
+            90,
+            476,
+            922,
+            705
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Regulation 10: Personal Data Processed Through Digital Enablement Technology Systems ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            743,
+            855,
+            761
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "27. Digitisation of our every day functions and the immense power of the technology that creates platforms for this purpose also requires controls to and guideposts to establish etiquette and ethics around its development. ",
+        "bbox": [
+            92,
+            774,
+            920,
+            838
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            946
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AMENDED DATA PROTECTION REGULATIONS ",
+        "bbox": [
+            494,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "28. Whereas many jurisdictions are attempting to promulgate principles, frameworks and in some cases regulating the content and composition of algorithms themselves for this purpose, proposed Regulation 10 seeks to take a small but important first step in establishing boundaries for Controllers and Processors vis a vis emphasising the relevant requirements of the DPL, including but not limited to: ",
+        "bbox": [
+            94,
+            66,
+            919,
+            175
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a. Prompt and clear notification requirements relevant to Systems development and use;   \nb. Encouraging the use of applicable codes or standards; and   \nc. Incorporation of such principles to assure that negative impacts to the rights of Data Subjects are minimised or eliminated through well-formed, human-centric standards for algorithm development. ",
+        "bbox": [
+            149,
+            193,
+            920,
+            352
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "29. On this basis, it is suggested that related guidance on this Regulation comprised of use cases, case studies and specific information serves to provide the foundational support for further regulation on this topic, that then grows over time. ",
+        "bbox": [
+            92,
+            371,
+            919,
+            434
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Q9. Does the approach proposed in Regulation 10 of “regulating” Systems through data protection principles for collection and use of Personal Data serve as a reasonable starting point for setting basic controls around Processing in this manner? If not, please provide detailed reasons.   \nQ.10 Would this approach assist in mitigating risks of harm to individuals whose Personal Data is processed? If not, please provide detailed reasons.   \nQ.11 Would this approach to regulation assist designers of Systems with understanding and implementing controls by design and default, while permitting flexibility for innovation? If not, please provide detailed reasons.   \nQ.12 What other approaches would you suggest? Please provide detailed responses.   \nQ.13 Should a common set of principles regarding such Systems be agreed at an international level, and if so, what governmental or non-governmental body would be most appropriate to do so? Please provide detailed responses.   \nQ.14 What other questions or issues should be asked and addressed in the Regulations or guidance? ",
+        "bbox": [
+            85,
+            452,
+            924,
+            864
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AMENDED DATA PROTECTION REGULATIONS ",
+        "bbox": [
+            496,
+            43,
+            917,
+            60
+        ],
+        "page_idx": 6
+    }
+]

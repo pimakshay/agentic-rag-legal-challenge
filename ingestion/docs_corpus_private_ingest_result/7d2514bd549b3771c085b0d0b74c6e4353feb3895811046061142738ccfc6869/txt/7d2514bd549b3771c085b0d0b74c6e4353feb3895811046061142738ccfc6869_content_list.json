@@ -1,0 +1,4985 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            389,
+            455,
+            605,
+            501
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW DIFC LAW No. 4 of 2019 ",
+        "text_level": 1,
+        "bbox": [
+            183,
+            541,
+            816,
+            621
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Consolidated Version (March 2022) ",
+        "bbox": [
+            423,
+            650,
+            574,
+            681
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As amended by DIFC Laws Amendment Law DIFC Law No. 2 of 2022 ",
+        "bbox": [
+            394,
+            699,
+            603,
+            746
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            447,
+            98,
+            551,
+            115
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 1: GENERAL ... ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            158,
+            850,
+            171
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Title .. ..3   \n2. Legislative authority. ..3   \n3. Application of this Law . ...3   \n4. Date of enactment and commencement. ..3   \n5. Administration of the Law.... ..3   \n6. Schedules.... .3 ",
+        "bbox": [
+            105,
+            172,
+            850,
+            253
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 2: PATENTS, UTILITY CERTIFICATES, INDUSTRIAL DRAWINGS AND DESIGNS .............4 ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            265,
+            847,
+            280
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1: GENERAL RULES ON PATENTS AND UTILITY CERTIFICATES. 4 ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            291,
+            847,
+            305
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7. Recognition of Patents and Utility Certificates registered in the UAE. ..4   \n8. Rights conferred by a Patent or Utility Certificate . ..4   \n9. Acts of infringement... ..4   \n10. Acts of exploitation that would not constitute infringement . ..5   \n11. Reversal of burden of proof. ..5   \n12. Patent ownership in employment relationship.. ..5   \n13. Rights to an Invention ..6 ",
+        "bbox": [
+            105,
+            306,
+            850,
+            400
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 2: GENERAL RULES ON INDUSTRIAL DRAWINGS AND DESIGNS .6 ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            412,
+            848,
+            425
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "14. Recognition of Industrial Drawings and Industrial Designs registered in the UAE .. ..6   \n15. Rights conferred by an Industrial Drawing or Designs . ...7   \n16. Application of Articles related to Patents and Utility Certificates on Industrial Drawing or Designs .7 ",
+        "bbox": [
+            105,
+            426,
+            847,
+            468
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 3: COPYRIGHT.. ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            478,
+            848,
+            493
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1: GENERAL RULES ON COPYRIGHT . .8",
+        "text_level": 1,
+        "bbox": [
+            107,
+            504,
+            847,
+            517
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "17. Recognition of copyright under the Federal Copyright Law .... ....8   \n18. Works protected by copyright . ...8   \n19. Works that are not protected by copyright . ..8   \n20. Authorship.. ...9   \n21. First ownership of copyright . .................................................................. .....9   \n22. Copyright ownership in employment relationships . ...9   \n23. Work of Joint Authorship. ..10   \n24. Works of Co-Authorship ...... .....10   \n25. Collective Work . ...10   \n26. Co-Authors of Audio-Visual Work, audio Work and visual Work . .10   \n27. Moral Rights.. ..11   \n28. Moral Rights of Performing Artists .. ........................................................ ....12   \n29. Economic Rights . .12   \n30. Economic Rights of Producers of Sound Recording . .......................... ............................... ..12   \n31. Economic Rights of Broadcasting Organisations ..... ................... .....12   \n32. Economic Rights of Performing Artists . . ..13   \n33. Lease of software.. .13   \n34. Assignment of Copyright . ...13   \n35. Licence of Copyright.. ....13   \n36. Disposal of original copy of a Work . ..14   \n37. Attachment of Economic Rights . ................................................................................. ..14   \n38. Disposal of future Work ..... ................................................... ......14   \n39. Duration of Copyright . ..14   \n40. Acts permitted in relation to copyrighted Work . ..15   \n41. Collection societies... ..17 ",
+        "bbox": [
+            104,
+            519,
+            852,
+            860
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 2: COPYRIGHT INFRINGEMENTS. 17 ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            871,
+            850,
+            885
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "42. Prohibited Acts ... .17 ",
+        "bbox": [
+            102,
+            888,
+            848,
+            900
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            621,
+            41,
+            892,
+            55
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            494,
+            931,
+            504,
+            942
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 4: TRADEMARKS AND TRADE NAMES. .19 ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            84,
+            848,
+            98
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1: GENERAL RULES ON TRADEMARKS.. 19",
+        "text_level": 1,
+        "bbox": [
+            109,
+            110,
+            850,
+            123
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "43. Recognition of Trademarks Registered in the UAE . ..19   \n44. Marks that cannot be protected. ................................... ............. ..19   \n45. Well-known trademarks . ...20   \n46. Rights of Trademark owner.. ................................. ............ ..20   \n47. Licence ... ..20 ",
+        "bbox": [
+            105,
+            124,
+            850,
+            192
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 2: TRADEMARK INFRINGEMENTS. .21 ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            204,
+            850,
+            217
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "48. Prohibited Acts that would constitute infringement .. .21   \n49. Acts that are not prohibited in relation to Trademarks ........ .21   \nCHAPTER 3: TRADE NAMES.. .22   \n50. Trade Names . .22   \n51. Conflicts between Trademarks and Trade Names ... .22 ",
+        "bbox": [
+            105,
+            218,
+            847,
+            246
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Part 5: TRADE SECRETS .. .23 ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            310,
+            848,
+            323
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "52. General Conditions for Trade Secrets .. .23   \n53. Rights of Trade Secrets Owner.. ..23   \n54. Misappropriation of Trade Secrets . .23   \n55. Acts that are not considered misappropriation of Trade Secrets . .23 ",
+        "bbox": [
+            105,
+            324,
+            848,
+            380
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Part 6: COMMISSIONER OF INTELLECTUAL PROPERTY. .25",
+        "text_level": 1,
+        "bbox": [
+            102,
+            390,
+            847,
+            404
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1: CONSTITUTION, POWERS AND FUNCTIONS OF THE COMMISSIONER . ..25 ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            416,
+            847,
+            429
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "56. Appointment of the Commissioner of Intellectual Property...... .25   \n57. Removal of the Commissioner of Intellectual Property .25   \n58. Resignation of the Commissioner of Intellectual Property.... .25   \n59. Powers, Functions and Objectives of the Commissioner of Intellectual Property. ..25   \n60. Regulations... .26 ",
+        "bbox": [
+            105,
+            431,
+            848,
+            499
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 2: COMMISSIONER OF INTELLECTUAL PROPERTY FUNDING .27",
+        "text_level": 1,
+        "bbox": [
+            104,
+            510,
+            848,
+            523
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "61. Funding..... ..27   \n62. Annual Funding of the Commissioner of Intellectual Property .............. ..27   \n63. Accounts... ..28   \n64. Audit... ..28   \n65. Annual Report .. ..29 ",
+        "bbox": [
+            105,
+            525,
+            850,
+            592
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Part 7: REMEDIES AND SANCTIONS .... ..30 ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            604,
+            850,
+            617
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "66. Directions . ..30   \n67. Actions with the Court . ..30   \n68. Non-Conflict with DIFC Courts .. .31 ",
+        "bbox": [
+            105,
+            619,
+            848,
+            659
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Schedule 1.... .32 ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            670,
+            847,
+            684
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Schedule 2.... .37 ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            695,
+            847,
+            709
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Schedule 3..... .38 ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            721,
+            848,
+            736
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            621,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ii ",
+        "bbox": [
+            492,
+            932,
+            504,
+            942
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PART 1: GENERAL ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            86,
+            260,
+            102
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Title ",
+        "text_level": 1,
+        "bbox": [
+            168,
+            116,
+            203,
+            130
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law may be cited as the “Intellectual Property Law 2019”. ",
+        "bbox": [
+            166,
+            145,
+            600,
+            160
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. Legislative authority ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            173,
+            317,
+            187
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law is made by the Ruler of Dubai. ",
+        "bbox": [
+            168,
+            202,
+            443,
+            216
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Application of this Law ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            230,
+            337,
+            246
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) This Law applies in the jurisdiction of the DIFC.   \n(2) This Law applies to any person who owns or claims ownership, uses or attempts to use, or who seeks to enforce or protect an intellectual property right, or any part thereof, in the DIFC.   \n(3) This Law does not establish any registry for intellectual property rights and any intellectual property rights registered in the UAE under applicable Federal IP Laws shall be recognised as valid and enforceable under this Law. ",
+        "bbox": [
+            166,
+            258,
+            894,
+            374
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. Date of enactment and commencement ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            387,
+            448,
+            403
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) This Law is enacted on the date specified in the Enactment Notice in respect of this Law.   \n(2) This Law comes into force on the date specified in the Enactment Notice in respect of this Law. ",
+        "bbox": [
+            144,
+            414,
+            877,
+            460
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5. Administration of the Law ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            473,
+            361,
+            487
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law and any legislation made for the purpose of this Law shall be administered by the Commissioner of Intellectual Property. ",
+        "bbox": [
+            164,
+            501,
+            892,
+            530
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. Schedules ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            545,
+            242,
+            558
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) Schedule 1 contains: ",
+        "bbox": [
+            168,
+            573,
+            368,
+            588
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) interpretative provisions which apply to this Law; and (b) a list of defined terms used in this Law. ",
+        "bbox": [
+            225,
+            600,
+            657,
+            645
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2) Schedule 2 contains a list of the Federal Laws, conventions, agreements and treaties considered under this Law.   \n(3) Schedule 3 contains prescribed fines for contravention of this Law. ",
+        "bbox": [
+            156,
+            658,
+            894,
+            717
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            621,
+            41,
+            892,
+            55
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            494,
+            932,
+            505,
+            942
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PART 2: PATENTS, UTILITY CERTIFICATES, INDUSTRIAL DRAWINGS AND DESIGNS ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            84,
+            796,
+            99
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1: GENERAL RULES ON PATENTS AND UTILITY CERTIFICATES ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            112,
+            715,
+            129
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7. Recognition of Patents and Utility Certificates registered in the UAE ",
+        "bbox": [
+            107,
+            141,
+            660,
+            158
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A Patent or a Utility Certificate recognised as valid under the Federal IP Laws is recognised under this Law and is protected and enforceable in the DIFC. ",
+        "bbox": [
+            164,
+            171,
+            890,
+            199
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8. Rights conferred by a Patent or Utility Certificate ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            212,
+            526,
+            228
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) A Patent or a Utility Certificate, as the case may be, shall confer on its owner the following exclusive right to exclude others from exploiting the Invention in the DIFC, and where the subject matter of a Patent or Utility Certificate is: ",
+        "bbox": [
+            166,
+            242,
+            894,
+            285
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) a product, such exploitation shall include using, manufacturing, offering for sale, selling or importing the product; or   \n(b) a process or method, the exploitation is the same as set out in Article 8(1)(a) with respect to the process or method, in addition to the product obtained directly by that process or method. ",
+        "bbox": [
+            225,
+            299,
+            892,
+            385
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2) The rights referred to in Article 8(1) shall be restricted to acts that are undertaken for industrial or commercial purposes and shall not include acts relating to a product protected by a Patent or Utility Certificate after its sale. ",
+        "bbox": [
+            168,
+            399,
+            894,
+            442
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "9. Acts of infringement ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            456,
+            317,
+            470
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The following acts shall be an infringement of a Patent or Utility Certificate in or from the DIFC if committed without the authority of its owner: ",
+        "bbox": [
+            196,
+            485,
+            892,
+            513
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) exploiting in or from the DIFC, for industrial or commercial purposes, an Invention protected by a Patent or Utility Certificate;   \n(b) using, manufacturing, selling, offering for sale in or from the DIFC, or importing into the DIFC, or possessing in the DIFC, with the intention to trade, products or processes protected by a Patent or Utility Certificate, or products obtained using processes protected by a Patent or Utility Certificate;   \n(c) inducing another person to infringe a Patent or Utility Certificate in or from the DIFC, even if the inducer is located outside the DIFC; or   \n(d) cooperating with another party to an act of infringement of a Patent or Utility Certificate in or from the DIFC, even if the other party is located outside the DIFC. ",
+        "bbox": [
+            225,
+            526,
+            894,
+            714
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2) A Patent or Utility Certificate is infringed if at least one of the claims granted under the Patent or Utility Certificate is infringed. ",
+        "bbox": [
+            168,
+            727,
+            892,
+            756
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3) A claim granted under a Patent or Utility Certificate is considered to be infringed even though the alleged infringing product, process or method does not fall within the literal scope of the patent claim but nonetheless equivalent to the claimed invention. The construction of the claim is made in light of the entire specifications and drawings of the Patent or Utility Certificate involved. ",
+        "bbox": [
+            168,
+            770,
+            892,
+            827
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4) The marking on a product, or any promotion relating thereto, indicates in a manner that may mislead the public in believing that a person holds a Patent or Utility Certificate with respect thereto, when in effect it is not the case. ",
+        "bbox": [
+            161,
+            841,
+            894,
+            884
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            41,
+            892,
+            55
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10. Acts of exploitation that would not constitute infringement ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            85,
+            589,
+            99
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) A person has the right to exploit an Invention, product, process or method, which otherwise would constitute an infringement in the DIFC under Article 9, if in good faith, the person initiated an act of exploitation, or has made effective and serious preparations to initiate an act of exploitation before to the priority date of a Patent or Utility Certificate within the UAE. ",
+        "bbox": [
+            166,
+            114,
+            892,
+            171
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) A person’s right to continue with an act of exploitation in the DIFC under Article 10(1) shall remain until: ",
+        "bbox": [
+            156,
+            185,
+            894,
+            214
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) any products produced or acquired by that person inside the UAE prior to the grant of the relevant Patent or Utility Certificate, are sold, or otherwise exhausted; or   \n(b) until any machine used prior to the grant of the relevant Patent or Utility Certificate to execute any such patented process is expired, ",
+        "bbox": [
+            223,
+            228,
+            892,
+            300
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "provided that such right is a personal right and cannot be assigned or transferred to another person. ",
+        "bbox": [
+            225,
+            313,
+            889,
+            328
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3) A person may pursue an act of exploitation in the DIFC which, if not for this Article 10(3), would constitute an infringement under Article 9, if: ",
+        "bbox": [
+            161,
+            342,
+            892,
+            370
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) it is done privately and for purposes which are not commercial; (b) it is done for experimental purposes relating to the subject matter of the Invention; or (c) the person proves that the Patent or Utility Certificate is invalid. ",
+        "bbox": [
+            226,
+            385,
+            865,
+            457
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4) In the event of an invalidity defence being raised in infringement proceedings, the alleged infringer of a Patent or Utility Certificate shall bear the burden of proof in respect of such invalidity and the Court shall have the discretion to suspend the infringement proceedings until an order in respect thereof is pronounced by the competent court. ",
+        "bbox": [
+            166,
+            470,
+            894,
+            527
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "11. Reversal of burden of proof ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            542,
+            369,
+            556
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) Where the subject-matter of a Patent is a process for manufacturing a product and the owner of the Patent can show that a substantial likelihood exists that a product is manufactured by an infringer by such process but is unable through reasonable efforts to determine if such process was actually used in the manufacturing of the product, the burden of proving that the product is not manufactured by the process that is the subject of the Patent shall move to the alleged infringer of the Patent or Utility Certificate in any infringement proceedings in the DIFC. ",
+        "bbox": [
+            166,
+            570,
+            894,
+            656
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) In considering whether a person has discharged the burden imposed by Article 11(1), it shall not be required to disclose any Trade Secret if it would be unreasonable to do so in the circumstances. ",
+        "bbox": [
+            161,
+            670,
+            892,
+            699
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "12. Patent ownership in employment relationship ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            713,
+            497,
+            728
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) If an Invention is made within the scope of employment by an employee pursuant to an employment contract the employer will be the owner of the Invention, unless agreed otherwise between the employer and employee in writing. ",
+        "bbox": [
+            154,
+            741,
+            897,
+            785
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) An Invention is deemed to be made within the scope of employment under Article 12(1) if: ",
+        "bbox": [
+            166,
+            799,
+            842,
+            814
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) the Invention was made in the course of the normal duties of the employee, or in the course of duties falling outside the employee’s normal duties, but specifically assigned to the employee, and the circumstances in either case were such that an Invention might reasonably be expected to result from the carrying out such duties; or ",
+        "bbox": [
+            226,
+            827,
+            892,
+            884
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(b) the Invention was made in the course of the duties of the employee and, at the time of making the Invention, because of the nature of his duties and the particular responsibilities arising from the nature of his duties he had an obligation to further the interests of the employer. ",
+        "bbox": [
+            226,
+            85,
+            892,
+            142
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3) Unless otherwise agreed upon between the relevant parties in writing, if an Invention falls outside an employee’s scope of employment but relates to an employer’s business or professional domain and has been conceived by the employee using primarily the employer’s resources such as knowhow, documents, tools, premises and other facilities of the employer, the Invention shall belong to the employer, however the employee shall be entitled to a fair compensation in which his remuneration, the economic value of the Invention and the benefits that the employer shall gain through the Invention shall be taken into consideration. ",
+        "bbox": [
+            164,
+            156,
+            892,
+            256
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4) An employee must notify an employer of an Invention as soon as practicable by way of a written report including all the technical details of the Invention. If the employer is not interested in using the Invention that it is so notified of, it may in its sole discretion, assign all right, title and interest in the Invention to the employee instead of paying the employee compensation for the Invention if required under this Article. ",
+        "bbox": [
+            166,
+            271,
+            894,
+            342
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(5) If an employer does not make an election of its interest in an Invention that it was notified of pursuant to Article 12(4) through a written notice to the employee before the end of the employee’s employment contract, the employer is deemed to have made an election to keep the Invention and either party may apply to the Court to determine the compensation due to the employee for the Invention, unless otherwise agreed between the parties. ",
+        "bbox": [
+            166,
+            356,
+            892,
+            428
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(6) Any Invention made by an employee outside the scope of Articles 12(1) to 12(3) shall belong to the employee. ",
+        "bbox": [
+            169,
+            442,
+            892,
+            470
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(7) For purposes of this Article 12: ",
+        "bbox": [
+            166,
+            485,
+            440,
+            499
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) an employer and employee relationship must either involve work in the DIFC, or be subject to DIFC Law, to invoke any right, privilege, remedy or obligation under this Article; and   \n(b) reference to an employee shall include a worker employed by an employer by way of any type of work-for-hire arrangement. ",
+        "bbox": [
+            213,
+            513,
+            894,
+            600
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "13. Rights to an Invention ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            613,
+            329,
+            627
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to the provisions of Article 12, the rights to an Invention shall belong to the inventor thereof or his legal successor. ",
+        "bbox": [
+            157,
+            642,
+            894,
+            670
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2) Where an Invention is a combined effort of two or more persons, the rights in the Invention shall, unless otherwise agreed in writing, be shared equally between them or their legal successors, provided that a person shall not benefit from the provisions of this Article unless he has contributed to at least one inventive concept of the Invention under at least one of the claims of the Patent or the Utility Certificate. ",
+        "bbox": [
+            166,
+            684,
+            894,
+            756
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 2: GENERAL RULES ON INDUSTRIAL DRAWINGS AND DESIGNS ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            770,
+            712,
+            784
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "14. Recognition of Industrial Drawings and Industrial Designs registered in the UAE ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            799,
+            749,
+            814
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "An Industrial Drawing or an Industrial Design recognised under the Federal IP Laws is recognised as valid for the purposes of this Law and is protected and enforceable in the DIFC. ",
+        "bbox": [
+            166,
+            827,
+            894,
+            856
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            890,
+            55
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            494,
+            933,
+            504,
+            942
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "15. Rights conferred by an Industrial Drawing or Designs ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            85,
+            556,
+            99
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) An Industrial Drawing or an Industrial Design, as the case may be, shall confer on its grantee the exclusive right to exclude others from: ",
+        "bbox": [
+            156,
+            114,
+            894,
+            142
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) using the Industrial Drawing or Industrial Design in manufacturing any product;   \n(b) using, selling, or offering for sale any product relating to the Industrial Design or Industrial Drawing;   \n(c) importing any product using an Industrial Drawing or an Industrial Design; or   \n(d) possessing an Industrial Drawing or an Industrial Design with intention to use, or offer for sale, or sell the same. ",
+        "bbox": [
+            225,
+            155,
+            894,
+            286
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The rights referred to in Article 15(1) shall be restricted to acts that are undertaken for industrial or commercial purposes and shall not extend to acts relating to a protected product after its sale. ",
+        "bbox": [
+            184,
+            299,
+            889,
+            329
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "16. Application of Articles related to Patents and Utility Certificates on Industrial Drawing or Designs ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            342,
+            875,
+            357
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The provisions of Articles 9 to 13 of this Law shall apply to an Industrial Drawing and an Industrial Design and any references therein to a Patent or a Utility Certificate shall be deemed to refer to an Industrial Drawing or an Industrial Design, as the case may, for purposes of this Article 16. ",
+        "bbox": [
+            166,
+            370,
+            892,
+            413
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            621,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            494,
+            932,
+            504,
+            942
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PART 3: COPYRIGHT ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            84,
+            282,
+            99
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1: GENERAL RULES ON COPYRIGHT",
+        "text_level": 1,
+        "bbox": [
+            105,
+            112,
+            495,
+            129
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "17. Recognition of copyright under the Federal Copyright Law ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            142,
+            594,
+            158
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Notwithstanding Article 19, a Work recognised as subject to copyright protection under the Federal Copyright Law is recognised as valid for purposes of this Law and is protected and enforceable in the DIFC. ",
+        "bbox": [
+            168,
+            171,
+            894,
+            200
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "18. Works protected by copyright ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            214,
+            386,
+            228
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) Copyright protection in the DIFC under this Law shall be granted to an original Work of authorship fixed to a tangible medium.   \n(2) The protection granted by this Law shall extend to Authors and Related Rights Holders.   \n(3) The following Works are specifically protected:   \n(a) books, booklets, articles and other literature;   \n(b) computer software and applications whether in source code or machine language, Databases, graphic user interfaces and similar Works;   \n(c) lectures, speeches, sermons and similar Works;   \n(d) plays, musicals and pantomimes;   \n(e) musicals, whether or not accompanied by dialogue;   \n(f) audio work, video work and audio visual work;   \n(g) architectural work, architectural plans and drawings;   \n(h) Work involving drawing, painting, sculpting, etching, lithography, screen printing, relief and intaglio prints and other similar Works of fine art;   \n(i) photographic Works;   \n(j) Works of applied art and plastic art;   \n(k) charts, maps, plans, 3-D modelling for geographical and topographical applications and architectural designs; and   \n(l) Derivative Works, subject to the protection afforded to the Works upon which they are based. ",
+        "bbox": [
+            166,
+            242,
+            894,
+            329
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(4) The protection provided by this Article 18 shall extend to the title of a Work, if created, as well as the creative concept devised for broadcasting material. ",
+        "bbox": [
+            168,
+            741,
+            892,
+            771
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "19. Works that are not protected by copyright ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            784,
+            475,
+            800
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) Copyright does not protect ideas, procedures, methods of doing business, mathematical algorithms and basic principles and facts but only the expression thereof. (2) Copyright protection in the DIFC does not extend to any of the following: ",
+        "bbox": [
+            147,
+            813,
+            895,
+            872
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            621,
+            41,
+            892,
+            55
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            494,
+            932,
+            504,
+            942
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) official documents, whatever the source or language, such as provisions of law, regulations, decisions, international conventions, court judgments, arbitrators’ awards and decisions issued by administrative committees in relation to court matters; ",
+        "bbox": [
+            226,
+            85,
+            892,
+            128
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "news of current events and issues that are strictly media coverage; and ",
+        "bbox": [
+            268,
+            142,
+            766,
+            158
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Works that have fallen in the public domain due to the lapse of copyright protection, provided that any of the foregoing is eligible for protection if there is an innovative element in the way in which it is compiled or arranged, or in the effort involved in creating the Work, in which case copyright protection shall extend to the compilation, arrangement or creative effort involved. The aforementioned shall apply to Databases. ",
+        "bbox": [
+            287,
+            171,
+            858,
+            185
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "20. Authorship ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            271,
+            250,
+            285
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) Without prejudice to the rights of an Author of an original Work, the following persons shall be considered Authors and shall enjoy protection of their Works for purposes of this Law: ",
+        "bbox": [
+            163,
+            299,
+            894,
+            328
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) a person who translates Work into another language, converts it from one form of literature, art or science into another form, summarises it, alters it, amends it, illustrates it, comments on it, catalogues it or performs any other action which makes the Work appear in a new form, subject to Article 20(2); ",
+        "bbox": [
+            228,
+            342,
+            894,
+            399
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(b) a performer who conveys to the public a Work of others, whether or not this performance is by singing, playing a musical instrument, rhythm, recital, photography, drawing, movement, steps or any other method; and ",
+        "bbox": [
+            220,
+            413,
+            892,
+            456
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(c) Authors of encyclopaedias, collections, compiled data and compilations which are granted protections by virtue of this Law. ",
+        "bbox": [
+            220,
+            470,
+            892,
+            499
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Any modification of a Work by translation or conversion shall constitute grounds for a copyright infringement in the DIFC if the translator, or the person converting it from one form to another, fails to indicate the source of the underlying Work, or the Author of the original Work considers the translation or conversion as a distortion or mutilation of the original Work. ",
+        "bbox": [
+            215,
+            513,
+            892,
+            570
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3) If a Work is published anonymously, or published under a pseudonym, the publisher shall be presumed to be empowered by the Author to exercise the rights provided for in this Law, unless the Author has appointed another agent or revealed his identity and his capacity. ",
+        "bbox": [
+            168,
+            585,
+            892,
+            627
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "21. First ownership of copyright ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            642,
+            374,
+            656
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Subject to Article 22, the Author of a Work is the first owner of any copyright in it. ",
+        "bbox": [
+            169,
+            670,
+            727,
+            684
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "22. Copyright ownership in employment relationships ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            699,
+            531,
+            714
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) If an employee creates a Work within the scope of employment pursuant to an employment contract or the employee uses the experience, information, instruments or materials of an employer in creating such Work, the copyright in the Work shall be owned by the employer. ",
+        "bbox": [
+            161,
+            727,
+            894,
+            771
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2) If a Work is created by an employee that is not related to the business of an employer, and the employee is not using the experience, information, instruments or materials of the employer, copyright in such Work shall vest in the employee. ",
+        "bbox": [
+            168,
+            783,
+            894,
+            827
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3) A Work is deemed to be created within the scope of employment under Article 22(1) if: ",
+        "bbox": [
+            163,
+            841,
+            823,
+            857
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) the Work was created in the course of the normal duties of the employee, or in the course of duties falling outside the employee’s normal duties, but specifically assigned to the employee, and the circumstances in either case were such that the Work might reasonably be expected to result from the carrying out such duties; or ",
+        "bbox": [
+            218,
+            870,
+            890,
+            900
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            494,
+            932,
+            504,
+            942
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(b) the Work was created in the course of the duties of the employee and, at the time of creating the Work, because of the nature of his duties and the particular responsibilities arising from the nature of his duties he had an obligation to further the interests of the employer. ",
+        "bbox": [
+            226,
+            128,
+            892,
+            185
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(4) An employer and employee may agree to treat copyright in Work created during an employment relationship differently than stated in this Article 22, provided that they do so in writing. ",
+        "bbox": [
+            161,
+            199,
+            892,
+            228
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(5) For purposes of this Article 22: ",
+        "bbox": [
+            168,
+            242,
+            440,
+            256
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) an employer and employee relationship must either involve work in or from the DIFC, or be subject to DIFC Law, to invoke any right, privilege, remedy or obligation under this Law; and   \n(b) reference to an employee shall include a worker employed by an employer by way of any type of work-for-hire arrangement. ",
+        "bbox": [
+            206,
+            271,
+            892,
+            357
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "23. Work of Joint Authorship ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            370,
+            357,
+            385
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) In a Work of Joint Authorship, each contributor shall be considered an Author in equal parts with each other Authors of the Work, unless otherwise agreed between them in writing.   \n(2) An Author in a Work of Joint Authorship may not separately exercise his rights as Author of a Work, without the written consent of all other Authors of the Work. ",
+        "bbox": [
+            154,
+            399,
+            894,
+            472
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "24. Works of Co-Authorship ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            485,
+            349,
+            499
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) In a Work of Co-Authorship, each Co-Author shall have the right to independently exploit the economic rights in his part, without prejudice to the rights of other Co-Authors to do the same, unless otherwise agreed between them in writing.   \n(2) Any Co-Author has the right to initiate legal proceedings in case of infringement of copyright of a Co-Authored Work.   \n(3) Where a Co-Author dies without leaving a legal successor, such a Co-Author’s share in the rights to the Work shall devolve proportionally to the remaining Co-Authors, or their legal successors, unless otherwise agreed between them in writing prior to the death of such a Co-Author. ",
+        "bbox": [
+            152,
+            513,
+            894,
+            657
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "25. Collective Work ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            670,
+            287,
+            684
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) A person who supervises the creation of a Collective Work has exclusive moral rights and economic rights over the Work under this Law, unless agreed otherwise in writing with all other relevant persons involved.   \n(2) If a Work is directed by a person, contracted for by a person, or created for the benefit of a person, the economic rights in the Work shall under this Law vest in the person who directed, contracted for, or for whose benefit the Work was created, unless agreed otherwise in writing with the other relevant persons involved. ",
+        "bbox": [
+            157,
+            699,
+            894,
+            814
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "26. Co-Authors of Audio-Visual Work, audio Work and visual Work ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            827,
+            636,
+            841
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) The following persons shall be considered as Co-Authors of Audio-Visual Work, audio Work or visual Work in the DIFC: ",
+        "bbox": [
+            159,
+            856,
+            892,
+            884
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) an Author of a scenario or written idea for a program; ",
+        "bbox": [
+            226,
+            898,
+            652,
+            914
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            490,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(b) a person adapting an existing literary Work for an Audio-Visual production; (c) an Author of dialogue; (d) a composer of music composed specifically for the Work; and (e) a director who materially contributes to the making of the Work. ",
+        "bbox": [
+            221,
+            84,
+            803,
+            186
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2) Where a Work is derived from an original Work, the following persons shall be considered as Co-Author of a new Work in the DIFC: ",
+        "bbox": [
+            159,
+            199,
+            894,
+            228
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) an Author of a scenario in the new Work;   \n(b) a person who makes an adaptation of a literary Work in the new Work; (c) the Author of dialogue in the new Work; and   \n(d) the director of the new Work, ",
+        "bbox": [
+            225,
+            242,
+            769,
+            343
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "who shall jointly have the right to transmit or project the new Work, despite any objection by the Author of the original Work. ",
+        "bbox": [
+            221,
+            356,
+            890,
+            385
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(3) The provisions of Article 26(2) apply without prejudice to the rights of the objecting Author of the original Work derived from also being a Co-Author of the new Work. ",
+        "bbox": [
+            157,
+            399,
+            892,
+            428
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(4) The Author of a literary portion or a musical portion of a Work shall have the right to separately publish his Work in a manner other than the Work in which he is a Co-Author is published, unless otherwise agreed in writing between the relevant persons. ",
+        "bbox": [
+            163,
+            442,
+            890,
+            485
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(5) Where a Co-Author of an Audio-Visual Work, an audio Work, or a visual Work fails to complete his part of a Work, the other Co-Authors of the Work may not be prevented from using the completed portion of his part of the Work, without prejudice to his rights of him being a Co-Author of the completed part of the Work so used by the other Co-Authors. ",
+        "bbox": [
+            168,
+            499,
+            892,
+            556
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(6) Throughout the period of the agreed exploitation of an Audio-Visual Work, and audio Work or a visual Work, the Record Producer or the Producer of Audio Visual shall represent the Authors of the Work, and their legal successors, in any agreement for the exploitation of the Work, without prejudice to the rights of the Authors of the quoted or adapted literary or musical parts of the Work and, unless otherwise agreed in writing between the relevant persons, the Producer shall be considered as the publisher of the Work and shall enjoy a publisher's rights with respect to the Work and copies thereof within the limits of its permitted commercial exploitation. ",
+        "bbox": [
+            168,
+            570,
+            892,
+            670
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "27. Moral Rights ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            684,
+            265,
+            699
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) The Author and, where applicable, his heirs shall enjoy perpetual and inalienable moral rights to a Work, which include the right to: ",
+        "bbox": [
+            168,
+            713,
+            894,
+            741
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) publish the Work for the first time and determine the date of publication and manner in which it is published;   \n(b) be credited as the Author of the Work;   \n(c) make any amendments to the Work whether by change, revision, deletion or addition;   \n(d) object to derogatory treatment of a Work including modification of the copyright therein, distortion, misrepresentation, or any other amendments to the Work which may harm the reputation of the Author; and ",
+        "bbox": [
+            225,
+            756,
+            892,
+            900
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(e) withdraw a Work from circulation in the case of any development or circumstance that would justify the withdrawal, in which case, the Author shall be obliged to fairly compensate any person who suffered damages from exercising this right. ",
+        "bbox": [
+            226,
+            85,
+            892,
+            128
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) For the purpose of Article 27(1)(d), the “derogatory treatment” of a Work shall include any addition to, deletion from or alteration to, or adaptation of a Work, provided that if any such treatment takes place in the translation of a Work, the Author shall not have the right to prevent it, unless: ",
+        "bbox": [
+            168,
+            142,
+            894,
+            185
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) the translator neglected to refer to the location of any such change; or (b) the translation causes damage to the reputation of the Author or distorts the contents of the Work ",
+        "bbox": [
+            226,
+            198,
+            892,
+            256
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "28. Moral Rights of Performing Artists ",
+        "bbox": [
+            105,
+            271,
+            425,
+            286
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A Performing Artist and, where applicable, his heirs shall enjoy perpetual and inalienable moral rights to: ",
+        "bbox": [
+            166,
+            299,
+            880,
+            315
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) have his performances, whether live or recorded, attributed to him; and (b) prevent any modification, distortion, misrepresentation or amendment of his Work that would negatively affect the honour or reputation of the Performing Artist. ",
+        "bbox": [
+            164,
+            326,
+            892,
+            386
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "29. Economic Rights ",
+        "bbox": [
+            107,
+            399,
+            292,
+            413
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "An Author, his legal successors or the copyright holder shall have the exclusive economic rights to exploit a Work, through any means, including: ",
+        "bbox": [
+            161,
+            428,
+            894,
+            457
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) the licensing of the use of the Work;   \n(b) copying, reproduction, electronic loading and storage of the Work;   \n(c) any form of representation, broadcasting or re-broadcasting, public performance, translation, adaptation, modification, alteration, leasing, lending of the Work; or   \n(d) any form of publication of the Work, including providing access thereto through a computer or information networks, communication networks or any other means. ",
+        "bbox": [
+            163,
+            470,
+            892,
+            600
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "30. Economic Rights of Producers of Sound Recording ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            612,
+            536,
+            629
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A Record Producer shall be considered the Author thereof in the DIFC who shall enjoy the following exclusive economic rights in respect thereof: ",
+        "bbox": [
+            161,
+            642,
+            892,
+            670
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) to prevent any exploitation of the Sound Recording in any manner, without the Record Producer’s prior written authorisation, which exploitation shall include (without limitation) reproduction, renting, broadcasting or making them available through computers or any other means; and   \n(b) to make the Sound Recording available to the public by wire or wireless means or through computers, software or any other means. ",
+        "bbox": [
+            163,
+            684,
+            892,
+            771
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "31. Economic Rights of Broadcasting Organisations ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            784,
+            514,
+            800
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A Broadcasting Organisation shall enjoy the following exclusive economic rights in the DIFC: ",
+        "bbox": [
+            154,
+            813,
+            805,
+            828
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) to authorise the exploitation of its Works, programs and recordings; and   \n(b) to prevent any Public Broadcasting of its Works, programs and recordings without their prior written authorisation, of their television recordings, including, in particular, fixation by way of recording, reproduction, sale, rental, re-broadcasting or communicating such Works to the public through any ",
+        "bbox": [
+            164,
+            840,
+            892,
+            914
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "12 ",
+        "bbox": [
+            490,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "means, including the removal or destruction of any technical protection of such programs by coding or other means. ",
+        "bbox": [
+            223,
+            85,
+            892,
+            114
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "32. Economic Rights of Performing Artists ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            128,
+            448,
+            142
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) A Performing Artist shall enjoy the following exclusive economic rights in the DIFC: ",
+        "bbox": [
+            159,
+            156,
+            806,
+            172
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) the right to broadcast non-fixed performances and communicate it to the public; (b) the right to fix performances in any form of recording; and (c) the right to reproduce a performance fixed in any form of recording. ",
+        "bbox": [
+            220,
+            184,
+            830,
+            258
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) Any other person shall be prohibited from recording, by any means, the live performance of a Performing Artist, or renting out the same, with the intention of receiving commercial consideration for it, whether directly or indirectly, or broadcasting the performance of a Performing Artist or presenting it in any form, unless the consent of the Performing Artist or the copyright holder is obtained. ",
+        "bbox": [
+            164,
+            271,
+            894,
+            342
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "33. Lease of software ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            356,
+            294,
+            370
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Software may be leased in the DIFC only if the software itself is intrinsically intended to be leased. ",
+        "bbox": [
+            163,
+            385,
+            835,
+            400
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "34. Assignment of Copyright ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            413,
+            351,
+            429
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) An Author, copyright holder or a Related Right Holder may agree to assign to another person, in whole or in part, his economic rights in a Work under this Law, provided that any such assignment must be made in writing and include reference to the right which is to be assigned.   \n(2) An Author, copyright holder or Related Right Holder shall retain ownership of all residual rights which he has not expressly assigned under Article 34(1). ",
+        "bbox": [
+            157,
+            442,
+            895,
+            529
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "35. Licence of Copyright ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            542,
+            321,
+            557
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) An Author, copyright holder or Related Right Holder in the DIFC may grant a licence to another person to use, in whole or in part, the economic rights in a Work. ",
+        "bbox": [
+            157,
+            570,
+            894,
+            600
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) A licence granted under Article 35(1) may be exclusive, by which the Author, copyright holder or Related Right Holder grants the licensee in writing to the exclusion of others to exercise one or more of its economic rights. A licence whether exclusive or not must be made in writing and includes reference to the right which is to be licenced, the duration of the licence, the consideration and place of the licence. ",
+        "bbox": [
+            168,
+            613,
+            894,
+            684
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(3) Subject to Article 35(1), a licence of economic rights in connection with a computer software, an application or a Database can be in accordance with a licensing agreement that is either affixed to or appears on the software, application or Database; ",
+        "bbox": [
+            166,
+            699,
+            894,
+            743
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) on the material object in which the software, application or Database is embodied; or (b) in a pop-up screen when the software, application or Database is loaded or stored, and the purchaser or user of the software, application or Database shall be bound by the terms of such licence agreement. ",
+        "bbox": [
+            221,
+            756,
+            865,
+            800
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(4) The copyright holder or the Related Right Holder shall exercise all residual rights which he has not expressly licenced under this Article 35. ",
+        "bbox": [
+            166,
+            856,
+            894,
+            884
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "13 ",
+        "bbox": [
+            490,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "36. Disposal of original copy of a Work ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            85,
+            423,
+            99
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Article 36(2), no disposal by an Author, in any form whatsoever, of an original copy of his Work in the DIFC shall operate to transfer any of his economic rights in respect thereof, unless agreed otherwise between the relevant persons.   \n(2) A person to whom the ownership of a copy of Work has transferred shall not be bound to enable the Author to reproduce, communicate or display such copy, except on the basis of a prior agreement. ",
+        "bbox": [
+            154,
+            114,
+            895,
+            214
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "37. Attachment of Economic Rights ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            228,
+            400,
+            243
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) The economic rights of an Author whose Work is published may be attached by a Court order.   \n(2) The economic rights of an Author in a Work, where the Author has died before the publication of his Work, may not be attached by a Court order unless it is conclusively proven that the Author intended to publish the Work before his death. ",
+        "bbox": [
+            159,
+            255,
+            892,
+            329
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "38. Disposal of future Work ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            342,
+            344,
+            356
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Any disposal by an Author of the total body of his future Works shall be void under this Law. ",
+        "bbox": [
+            166,
+            370,
+            800,
+            385
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "39. Duration of Copyright ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            399,
+            332,
+            413
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) The economic rights of an Author under this Law shall be protected for the duration of his life plus fifty (50) years starting from the first day of the calendar year following his death. ",
+        "bbox": [
+            159,
+            428,
+            894,
+            457
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) The economic rights of Authors in a Work of Joint Authorship shall be protected for the duration of all their lives plus fifty (50) years starting from the first day of the calendar year following the death of the last surviving Author. ",
+        "bbox": [
+            154,
+            470,
+            894,
+            513
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3) The economic rights of Authors in a Collective Work, with the exception of Authors of Works of applied art, shall: ",
+        "bbox": [
+            163,
+            527,
+            894,
+            556
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) if the Collective Work is created under the direction of a juristic person, be protected for a period of fifty (50) years starting from the first day of the calendar year following the year in which the Work was published for the first time; or   \n(b) if the Work is created under the direction of a natural person, be protected for the duration of his life plus fifty (50) years starting from the first day of the calendar year following his death. ",
+        "bbox": [
+            218,
+            570,
+            892,
+            670
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(4) The economic rights in respect of Work that is published for the first time shall expire fifty (50) years after the death of the Author, starting from the first day of the calendar year following the year in which the Work was published for the first time. ",
+        "bbox": [
+            166,
+            684,
+            892,
+            728
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(5) The economic rights in respect of Work that is published anonymously, or under a pseudonym, shall be protected for a period of fifty (50) years starting from the first day of the calendar year following the year in which the work was published for the first time, provided that if the Author of the Work becomes known, the protection period shall be calculated in accordance Article 39(1). ",
+        "bbox": [
+            168,
+            741,
+            892,
+            799
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(6) The economic rights of an Author of a Work of applied art shall expire after twenty five (25) years starting from the first day of the calendar year following the year in which the Work was published for the first time. ",
+        "bbox": [
+            166,
+            813,
+            892,
+            856
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(7) Where a protection period is required to be calculated under this Article from the date on which Work was first published, the period shall be calculated from the date of first publication, regardless of any subsequent re-publication of such Work, unless the Author materially revised the work on re-publication to the extent that it can be considered a new Work. ",
+        "bbox": [
+            161,
+            870,
+            889,
+            900
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "14 ",
+        "bbox": [
+            490,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(8) Where Work consists of parts or volumes that were issued separately, each part or volume shall be treated as a separate Work for the purpose of calculating the protection period under this Article. ",
+        "bbox": [
+            159,
+            128,
+            892,
+            158
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(9) The economic rights of Performing Artists shall be protected for a period of fifty (50) years calculated from the first day of the calendar year following the year in which the performance took place and if such performance is fixed in any form of recording, the protection period shall be calculated from the end of the year in which such fixation took place. ",
+        "bbox": [
+            166,
+            171,
+            892,
+            228
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(10) The economic rights of a Record Producer of a phonogram shall be protected for fifty (50) years calculated from the first day of the year following the year in which the recording was published or made, if it was not published. ",
+        "bbox": [
+            163,
+            242,
+            892,
+            285
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(11) The rights of a Broadcasting Organisation shall be protected for a period of twenty (20) years calculated from the first day of the year following the year in which the material was first broadcast. ",
+        "bbox": [
+            164,
+            299,
+            890,
+            328
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "40. Acts permitted in relation to copyrighted Work ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            342,
+            510,
+            357
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) Without prejudice to the moral rights of an Author under this Law, an Author may not, after the publication of a Work, prevent any person from carrying out any of the following: ",
+        "bbox": [
+            164,
+            370,
+            892,
+            400
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) to perform the Work in family context or student gathering within an educational institution, to the extent that no direct or indirect financial remuneration is obtained; ",
+        "bbox": [
+            220,
+            413,
+            894,
+            442
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(b) to make a single copy of the Work for that person's exclusive personal use, provided that such a copy shall not hamper the normal exploitation of the Work nor cause undue prejudice to the legitimate interests of the Author or a copyright holder; ",
+        "bbox": [
+            208,
+            456,
+            892,
+            500
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(c) to make a single copy of a computer program for archiving purposes or to replace a lost, destroyed or invalid original copy of the computer program, provided that the single copy of the computer program shall be destroyed upon expiration of the right to use the computer program; ",
+        "bbox": [
+            226,
+            513,
+            892,
+            571
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(d) to adapt a computer program, even if such adaptation exceeds what is necessary for the use of the computer program, provided that: ",
+        "bbox": [
+            218,
+            585,
+            892,
+            614
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(i) the adaptation remains within the limits of the purpose for which consent for use of the computer program was initially granted; and   \n(ii) the adapted copy of the computer program shall be destroyed upon expiration of the right to use the computer program; ",
+        "bbox": [
+            277,
+            627,
+            894,
+            700
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(e) to analyse a Work, or make excerpts or quotations therefrom, for the purpose of criticism, discussion or information; ",
+        "bbox": [
+            235,
+            713,
+            894,
+            741
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "to reproduce parts of a Work for use in legal or administrative proceedings, to the extent required by such proceedings, provided that the source and the name of the Author are quoted when doing so; ",
+        "bbox": [
+            284,
+            756,
+            894,
+            800
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "to reproduce extracts from a Work, for teaching purposes in educational institutions, provided that such reproduction is: ",
+        "bbox": [
+            275,
+            813,
+            892,
+            841
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(i) within reasonable limits and does not go beyond its educational purpose; and (ii) the name of the Author and the title of the Work are mentioned on each copy whenever possible and practical; ",
+        "bbox": [
+            277,
+            856,
+            894,
+            914
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(h) to perform a Work, play a Sound Recording, or to show an Audio Visual Work before an audience consisting of teachers, students and others at an educational institution, provided that it is made: ",
+        "bbox": [
+            226,
+            85,
+            892,
+            128
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(i) by a teacher or students in the course of the educational activities of the institution; or (ii) at the educational institution by any person for teaching purposes; ",
+        "bbox": [
+            287,
+            142,
+            892,
+            200
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(i) to make a single copy of the Work, through an intermediary, with no intention of direct or indirect financial gain, and provided that: ",
+        "bbox": [
+            215,
+            214,
+            892,
+            242
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(i) where the reproduced Work is a published article, a short Work or an extract of a Work, or where the aim of reproduction is to satisfy the needs of a natural person, the copy will be used only for study or research purposes, and that a single copy is made at each occasion when doing so;   \n(ii) where the reproduction is made with the aim of preserving the original copy, or to replace a lost, destroyed or invalid copy and it was impossible to obtain a substitute copy under reasonable circumstances; and   \n(iii) where it is a reproduction of a Work during a digital transmission of the Work, or in the course of a process of reception of a digitally stored Work, within the normal operation of the device used by an authorised person. ",
+        "bbox": [
+            280,
+            256,
+            894,
+            428
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(2) Notwithstanding Article 40(1), an Author, or his legal successor may, after the publication of a Work, prevent third parties from carrying out any of the following acts without his authorisation: ",
+        "bbox": [
+            168,
+            442,
+            892,
+            472
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(a) reproduction or copying a Work of fine, applied or plastic art, unless it is displayed in a public place, or is an architectural Work; (b) reproduction or copying of all or a substantial part of the notes of a musical Work; and (c) reproduction or copying of all or a substantial part of a Database or computer program. ",
+        "bbox": [
+            226,
+            485,
+            889,
+            571
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Without prejudice to the moral rights of an Author under this Law, the Author or his legal successor may not prevent newspapers, periodicals or Broadcasting Organisations, in as much as justified by their aims, from doing the following: ",
+        "bbox": [
+            181,
+            585,
+            892,
+            629
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(a) publishing excerpts from a Work which were legally made available to the public, and his published articles on topical issues of concern to the public opinion, unless the Author has prohibited such publication when publishing the Work, and provided that the source, the name of the Author and the title of the Work were mentioned; ",
+        "bbox": [
+            226,
+            642,
+            892,
+            699
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(b) publishing speeches, lectures, opinions or statements delivered in public sessions of the parliament, legislative or administrative bodies or scientific, literary, artistic, political, social or religious meetings, including statements delivered during public court proceedings, provided that the Author, or his legal successors, shall have the right to make collections of such Works, for which he shall be entitled to claim authorship; or ",
+        "bbox": [
+            226,
+            713,
+            894,
+            784
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(c) publication of extracts of an audio, visual or an Audio Visual Work made available to the public in the course of covering current events, provided that Author, or his legal successors, shall retain the exclusive right to compile any of those Works into volumes attributed to him. ",
+        "bbox": [
+            225,
+            799,
+            892,
+            857
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(4) The restrictions on economic rights of the Author provided in this Article shall also apply to a Related Rights Holder. ",
+        "bbox": [
+            161,
+            870,
+            890,
+            900
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "16 ",
+        "bbox": [
+            490,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "41. Collection societies ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            85,
+            305,
+            99
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(1) A copyright holder or Related Right Holder may assign his copyright and related rights pursuant to this Article to a collection society to: ",
+        "bbox": [
+            154,
+            114,
+            894,
+            142
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) manage such rights; or (b) licence other persons to exercise those rights. ",
+        "bbox": [
+            225,
+            156,
+            596,
+            200
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(2) Contracts concluded with a collection society pursuant to Article 40(1) shall be considered as part of civil and commercial transactions in the DIFC. ",
+        "bbox": [
+            163,
+            214,
+            892,
+            243
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(3) A collection society is not permitted to discriminate as to whom a licence for the exploitation of a Work may be granted to. ",
+        "bbox": [
+            168,
+            256,
+            892,
+            286
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(4) A collection society shall not be considered as discriminatory when granting a licence to a person for a reduced fee where the Work is to be used: ",
+        "bbox": [
+            163,
+            299,
+            894,
+            329
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) at a public event featuring a live show by Performing Artists; or (b) in connection with an educational or cultural event that does not generate any direct or indirect income. ",
+        "bbox": [
+            226,
+            342,
+            892,
+            400
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(5) A collection society shall: ",
+        "bbox": [
+            168,
+            413,
+            405,
+            428
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) obtain a licence from the Ministry to carry out its activities in or from the DIFC and subject to DIFC licensing regulations;   \n(b) keep a register of its members containing details of: (i) their capacity; and (ii) any work for which they have contracted with the collection society, and the details of the type of work provided, the duration thereof and the agreed price; ",
+        "bbox": [
+            225,
+            441,
+            895,
+            573
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(c) notify the Ministry of any change in the details of its register; and (d) comply with all relevant decisions issued by the Ministry. ",
+        "bbox": [
+            221,
+            583,
+            732,
+            629
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 2: COPYRIGHT INFRINGEMENTS ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            642,
+            465,
+            656
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "42. Prohibited Acts ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            670,
+            282,
+            684
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(1) The following is prohibited in the DIFC and any person doing business or operating in or from the DIFC that fails to comply with this Article shall be subject to a fine: ",
+        "bbox": [
+            164,
+            699,
+            894,
+            728
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) selling, renting or putting in circulation under any form, a Work protected under this Law, without prior written authorisation from the Author, copyright holder or a Related Right Holder;   \n(b) knowingly copying, selling, offering for sale, circulating or renting out, a Work protected under this Law;   \n(c) knowingly imitating, selling, offering for sale or circulating, renting out or exporting Work published in a foreign country; ",
+        "bbox": [
+            225,
+            741,
+            894,
+            872
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            621,
+            41,
+            892,
+            55
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(d) disseminating, through computer networks, the Internet, information networks, communication networks and other means of technology, a Work protected under this Law, without prior written authorisation from the Author or a Related Right Holder; ",
+        "bbox": [
+            226,
+            85,
+            892,
+            128
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(e) manufacturing, assembling or importing for the purpose of sale or renting any device, tool or implement especially designed or made to circumvent a technical means of protection, such as encryption, used by an Author or a Related Right Holder; ",
+        "bbox": [
+            213,
+            142,
+            894,
+            185
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(f) removing, neutralising or disabling any technical protection device used by an Author or a Related Right Holder; or ",
+        "bbox": [
+            218,
+            199,
+            894,
+            228
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(g) infringing any moral right, economic right, copyright or related rights provided for in this Law. ",
+        "bbox": [
+            215,
+            242,
+            892,
+            271
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "18 ",
+        "bbox": [
+            490,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "PART 4: TRADEMARKS AND TRADE NAMES ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            84,
+            468,
+            99
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1: GENERAL RULES ON TRADEMARKS ",
+        "bbox": [
+            105,
+            112,
+            514,
+            128
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "43. Recognition of Trademarks Registered in the UAE ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            142,
+            534,
+            158
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "A Trademark registered under the Federal Trademark Law is recognised for purposes of this Law and is valid and enforceable in the DIFC. ",
+        "bbox": [
+            164,
+            171,
+            892,
+            199
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "44. Marks that cannot be protected ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            214,
+            394,
+            228
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Unless it was registered as a Trademark under the Federal Trademark Law, the following will not be recognised in the DIFC as a Trademark, or any part thereof: ",
+        "bbox": [
+            164,
+            242,
+            894,
+            271
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(a) a mark which is not distinctive;   \n(b) a mark consisting of a generic name used in relation to goods, products or services;   \n(c) a mark that contains one or more familiar drawings or common pictures of goods;   \n(d) a mark that is contrary to the public order or morality of the UAE;   \n(e) a mark containing the insignia of the UAE, any governmental body in the UAE, flags and other symbols pertaining to the UAE (or any emirate thereof), Arab or international organisations (or any agencies thereof), or any foreign country except with the authorisation of those parties, as well as any imitation of such insignia, flags or symbols;   \n(f) a symbol of the Red Crescent or the Red Cross, or any other similar symbol or mark which is an imitation thereof;   \n(g) a mark which is identical or similar to a symbol of a purely religious nature;   \n(h) a geographical name, where the use thereof may cause confusion as to the origin or source of the goods or services;   \n(i) a name, surname, photograph or emblem of a third party, unless his, or his legal successors’, prior consent has been obtained.   \n(j) a mark containing a title of honour, where the person applying for registration cannot prove that he is lawfully entitled to its use;   \n(k) a mark which may mislead the public or which is identical or confusingly similar to a mark or marks of another party, even though not registered, or which contains false information as to the origin or the source of products or services, or about their other characteristics, as well as a mark containing an imaginary, imitated or forged trade name;   \n(l) a mark owned by a person with whom it is illegal to deal with under Federal Law or Dubai Law.   \n(m) a mark which, if used for certain classes of products or services, would diminish the value of other products or services distinguished by such mark;   \n(n) a mark containing the word or expression: \"Patent\", \"Patented\", \"registered\", \"registered Design\", \"copyright\" or \"Imitation is forgery\" or similar words and expressions;   \n(o) a mark containing national and foreign decorations, coins and paper currency; or ",
+        "bbox": [
+            163,
+            280,
+            895,
+            877
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            621,
+            41,
+            892,
+            55
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "19 ",
+        "bbox": [
+            490,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(p) a mark that constitutes a translation or imitation of a well-known mark or the main part thereof or other previously registered mark, where the registration would confuse consumers as to the identity or origin of the goods or services that are distinguished by the mark or similar goods or services. ",
+        "bbox": [
+            163,
+            85,
+            892,
+            129
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "45. Well-known trademarks ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            142,
+            346,
+            156
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(1) Although not registered as a Trademark in the UAE, a well-known trademark of international reputation that surpasses the country of its origin and acquires fame in a relevant sector among consumers in the UAE shall enjoy protection under this Law in the DIFC. ",
+        "bbox": [
+            166,
+            171,
+            894,
+            214
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(2) In determining whether a trademark is well-known for purposes of Article 45(1), any of the following may be taken into account: ",
+        "bbox": [
+            166,
+            228,
+            892,
+            256
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(a) the degree of public knowledge or recognition in a relevant sector;   \n(b) the duration, extent and geographical area of use;   \n(c) the duration, extent and geographical area of any promotion of the goods or services to which the trademark applies;   \n(d) the duration and geographical area of any registrations, or any applications for registrations, to the extent that they reflect use or recognition of the trademark;   \n(e) the record of successful enforcement of rights in the trademark, in particular, the extent to which the trademark was recognised as well known by competent authorities; or   \n(f) the commercial value associated with the trademark. ",
+        "bbox": [
+            225,
+            269,
+            894,
+            472
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "No person may use a mark that is identical or confusingly similar to a well-known trademark in the DIFC. ",
+        "bbox": [
+            226,
+            485,
+            894,
+            513
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The owner of a well-known trademark shall have the right to prevent any party from using in the DIFC identical or confusingly similar marks, to distinguish goods or services that are not identical to those in respect of which, the well-known trademark is registered, if: ",
+        "bbox": [
+            211,
+            527,
+            890,
+            570
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(a) the use of the mark indicates a possible connection between goods or services and the owner of the well-known trademark; and   \n(b) the interests of the owner of the well-known trademark are likely to be damaged by such use. ",
+        "bbox": [
+            226,
+            585,
+            892,
+            656
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(5) The owner of a well-known trademark shall have the right, to prevent another person’s commercial use of a mark or trade name in the DIFC, if such use began after a well-known trademark has become well-known and the use of the mark or trade name causes dilution of the distinctive quality of the well-known trademark. ",
+        "bbox": [
+            166,
+            670,
+            892,
+            728
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "46. Rights of Trademark owner ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            741,
+            371,
+            756
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The exclusive rights conferred to the owner of a Trademark in the UAE is to exclude others from the import, export, use, sale, offer for sale, advertising, transit, distribution or use in any manner of goods or services distinguished by an identical or confusingly similar Trademark and shall be recognised and enforced as such under this Law. ",
+        "bbox": [
+            166,
+            770,
+            892,
+            827
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "47. Licence ",
+        "bbox": [
+            107,
+            841,
+            225,
+            856
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(1) The owner of a Trademark may, by a written instrument, grant a licence to any person to use the Trademark for all or part of the goods or services in respect of which the Trademark is registered. ",
+        "bbox": [
+            156,
+            870,
+            894,
+            900
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(2) The owner of a Trademark may also use it contemporaneously with the licensee, unless otherwise agreed in writing.   \n(3) A licensee of a Trademark shall not assign its rights to any other party, or grant a sub-licence in respect thereof, unless expressly allowed by the terms of the licence agreement.   \n(4) Any act of a licensee in contravention to the grants of a licence agreement shall constitute a Trademark infringement under this Law.   \n(5) Unless the licence agreement provides otherwise, a licensee of a Trademark is entitled to call on the owner of the Trademark to take infringement proceedings in respect of any matter which affects the licensee’s interests.   \n(6) If a Trademark owner refuses to act in accordance with a request by a licensee, under Article 47(5), or fails to do so within two (2) months of being called upon to do so, the licensee may bring such proceedings in his own name, as if he were the registered owner of the Trademark. ",
+        "bbox": [
+            157,
+            85,
+            895,
+            316
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 2: TRADEMARK INFRINGEMENTS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            326,
+            475,
+            342
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "48. Prohibited Acts that would constitute infringement ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            356,
+            536,
+            370
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The following acts shall be considered infringement in relation to Trademarks in the DIFC: ",
+        "bbox": [
+            194,
+            385,
+            843,
+            399
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(a) using a mark falling under the description of Article 44(1)(d) to (p);   \n(b) counterfeiting or imitating a registered Trademark, or a well-known Trademark, with the intent or effect of misleading the public;   \n(c) unlawfully using a registered Trademark, or well-known Trademark, of another person without such person’s consent;   \n(d) unlawfully using a Trademark that is confusingly similar to a registered Trademark with the intent to, or effect of, causing confusion and misleading the public;   \n(e) knowingly selling, offering for sale or possessing with purpose of selling goods or services bearing a Trademark, or well-known Trademark, that is counterfeited, imitated or unlawfully used; or   \n(f) falsely claiming that a mark is registered as a Trademark, or a well-known Trademark, or making any statement with the intent or the effect of leading others to such conclusion. ",
+        "bbox": [
+            225,
+            410,
+            894,
+            656
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(2) In the event of an invalidity or cancellation defence raised in an infringement proceeding, and subject to clear and solid grounds for such defence, the infringement proceedings maybe suspended, if the defendant submitted evidence that an action to cancel the subject Trademark registration was filed before the competent court. In such event, the infringement proceeding may be suspended until an order is issued by the competent court in the cancellation claim. If the defendant failed to initiate action before the competent court for cancellation of the subject Trademark, the infringement proceeding shall continue. ",
+        "bbox": [
+            168,
+            670,
+            894,
+            771
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "49. Acts that are not prohibited in relation to Trademarks ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            784,
+            559,
+            799
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "A registered Trademark, or a well-known Trademark, is not infringed in the DIFC if it is used: ",
+        "bbox": [
+            152,
+            813,
+            803,
+            827
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(a) to indicate the intended purpose of the goods or a service related thereto, provided that such use is necessary and in good faith;   \n(b) in news reporting, news commentary or parody; or ",
+        "bbox": [
+            164,
+            841,
+            892,
+            901
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(c) by another person in comparative commercial advertising or promotion to identify competing goods or services, provided that such use is in good faith and in accordance to honest practices in commerce. ",
+        "bbox": [
+            164,
+            85,
+            892,
+            128
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 3: TRADE NAMES ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            141,
+            337,
+            156
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "50. Trade Names ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            171,
+            267,
+            185
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "A Trade Name of a person registered, incorporated, licenced or permitted to operate in the DIFC must be in compliance with the provisions of the Operating Law, which shall be conspicuously displayed on the façade of its business premises in the DIFC. ",
+        "bbox": [
+            166,
+            199,
+            894,
+            242
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "51. Conflicts between Trademarks and Trade Names ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            256,
+            522,
+            271
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The Commissioner of Intellectual Property has the right to issue a directive to resolve any conflict between a Trade Name registered in the DIFC and a Trademark, or a well-known Trademark, which is likely to damage the interests of a person, cause confusion or mislead the public. ",
+        "bbox": [
+            166,
+            285,
+            892,
+            328
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "PART 5: TRADE SECRETS ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            85,
+            317,
+            99
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "52. General Conditions for Trade Secrets ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            114,
+            438,
+            129
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "A Trade Secret shall be protected under this Law when it meets each of the following criteria: ",
+        "bbox": [
+            163,
+            142,
+            801,
+            158
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(a) the information involved constitutes a Trade Secret, or part thereof;   \n(b) the information derives actual or potential economic value from not being generally known to other persons who may obtain economic value from its disclosure or use; and   \n(c) the person lawfully in control of the information has taken reasonable measures to keep the information a secret. ",
+        "bbox": [
+            163,
+            170,
+            894,
+            271
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "53. Rights of Trade Secrets Owner ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            285,
+            391,
+            300
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(1) The owner of a Trade Secret shall at all times: ",
+        "bbox": [
+            166,
+            313,
+            541,
+            328
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(a) be deemed to be the person lawfully in control of the Trade Secret, subject to Article 53(2); and   \n(b) have the right to licence, transfer, share, or assign lawful control of the Trade Secret to any person in return for a consideration or otherwise.   \n(2) A person lawfully in control of the Trade Secret is every person having the right of its disclosure, use and storage.   \n(3) A person lawfully in control of a Trade Secret shall have the right to prevent any person from misappropriation of the Trade Secret, and shall have the right to claim compensation for any damage caused due to misappropriation thereof by any person. ",
+        "bbox": [
+            225,
+            342,
+            892,
+            414
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "54. Misappropriation of Trade Secrets ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            527,
+            418,
+            543
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The following acts shall constitute misappropriation of a Trade Secret and prohibited under the Law: ",
+        "bbox": [
+            159,
+            556,
+            848,
+            571
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(a) the acquisition of a Trade Secret by Improper Means;   \n(b) the disclosure or use of a Trade Secret by a person who used Improper Means to acquire knowledge of the Trade Secret;   \n(c) the acquisition, disclosure or use of a Trade Secret by a person who at the relevant time knows, or ought to have known, that the knowledge of the Trade Secret was:   \n(i) derived from or through a person who had utilised Improper Means to acquire it;   \n(ii) acquired under circumstances giving rise to a duty to maintain its secrecy or limit its use; or   \n(iii) derived from or through a person who owed a duty, towards the person lawfully in control of the Trade Secret, to maintain its secrecy or limit its use. ",
+        "bbox": [
+            164,
+            583,
+            894,
+            686
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "the disclosure or use of a Trade Secret by a person who knows, or ought to have known, that it was a Trade Secret and that knowledge of it had been acquired by accident or by mistake. ",
+        "bbox": [
+            223,
+            813,
+            892,
+            843
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "55. Acts that are not considered misappropriation of Trade Secrets ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            856,
+            623,
+            871
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The following acts shall not constitute an act of misappropriation of a Trade Secret: ",
+        "bbox": [
+            166,
+            884,
+            731,
+            900
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            621,
+            41,
+            892,
+            55
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "23 ",
+        "bbox": [
+            489,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(a) the discovery, acquisition or use of information from public sources, or known and available information;   \n(b) the discovery, acquisition or use of information as a result of scientific research, innovation, invention, development, modification and improvement exerted by persons independent of the person lawfully in control of the Trade Secret;   \n(c) the discovery of information pursuant to a licence, transfer, sharing, or assignment of the information; or   \n(d) the discovery of information through reverse engineering. ",
+        "bbox": [
+            159,
+            85,
+            895,
+            246
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "24 ",
+        "bbox": [
+            489,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "PART 6: COMMISSIONER OF INTELLECTUAL PROPERTY",
+        "text_level": 1,
+        "bbox": [
+            105,
+            84,
+            576,
+            99
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1: CONSTITUTION, POWERS AND FUNCTIONS OF THE COMMISSIONER ",
+        "bbox": [
+            100,
+            112,
+            779,
+            129
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "56. Appointment of the Commissioner of Intellectual Property ",
+        "bbox": [
+            105,
+            141,
+            589,
+            158
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(1) The President shall appoint a person to be the Commissioner of Intellectual Property who is appropriately experienced and qualified.   \n(2) The President shall consult with the DIFCA Board of Directors prior to appointing, re-appointing or removal of the Commissioner of Intellectual Property.   \n(3) The Commissioner of Intellectual Property shall be appointed for a specified period of time not exceeding three (3) years, and may be re-appointed provided that such period may not extend beyond the day when the Commissioner of Intellectual Property turns seventy-five (75) years of age. ",
+        "bbox": [
+            166,
+            171,
+            894,
+            315
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "57. Removal of the Commissioner of Intellectual Property ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            328,
+            557,
+            343
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "The Commissioner of Intellectual Property may be removed from office by written notice issued by the President for reasons of inability, incapacity or misbehaviour. ",
+        "bbox": [
+            159,
+            356,
+            892,
+            385
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "58. Resignation of the Commissioner of Intellectual Property ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            399,
+            578,
+            413
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "The Commissioner of Intellectual Property may at any time resign as the Commissioner of Intellectual Property by giving three (3) months written notice addressed to the President. ",
+        "bbox": [
+            161,
+            428,
+            894,
+            456
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "59. Powers, Functions and Objectives of the Commissioner of Intellectual Property ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            470,
+            737,
+            485
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(1) The Commissioner of Intellectual Property has such powers, duties and functions as conferred on him under this Law and any Regulation made under this Law and shall exercise such powers and perform such functions in pursuit of the objectives of this Law and the Regulations. ",
+        "bbox": [
+            166,
+            499,
+            894,
+            542
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(2) In performing his functions and exercising his powers, the Commissioner of Intellectual Property shall pursue the following objectives: ",
+        "bbox": [
+            166,
+            556,
+            892,
+            585
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(a) to promote greater awareness and public understanding of intellectual property and the requirements of this Law and the Regulations in the DIFC; and   \n(b) to promote good practices and observance of the requirements of this Law and the Regulations by the registered entities in the DIFC. ",
+        "bbox": [
+            226,
+            599,
+            892,
+            671
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(3) Without limiting the generality of Article 59(1), such powers and functions of the Commissioner of Intellectual Property shall include: ",
+        "bbox": [
+            169,
+            684,
+            892,
+            713
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(a) receiving and deciding on all complaints or disputes filed in connection with the Law in the DIFC, and imposing fines for non-compliance with this Law and any related Regulations;   \n(b) coordinating with the UAE Federal and Local authorities on facilitating and promoting protection of intellectual property rights for DIFC persons;   \n(c) preparing or causing to be prepared in a timely and efficient manner; ",
+        "bbox": [
+            225,
+            727,
+            892,
+            843
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(i) draft Regulations; (ii) draft standards or codes of practice; and (iii) guidance; reasonably required to enable him to perform his statutory functions; ",
+        "bbox": [
+            285,
+            856,
+            621,
+            900
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            41,
+            892,
+            55
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "25 ",
+        "bbox": [
+            489,
+            932,
+            507,
+            942
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "submitting such draft Regulations, draft standards, and draft codes of practice to the DIFCA Board of Directors for approval and advising it of any guidance that is issued; ",
+        "bbox": [
+            287,
+            114,
+            892,
+            142
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(e) making recommendations to the DIFCA Board with respect to fees, procedures and executive regulations for the Commissioner of Intellectual Property, which the DIFCA Board may promulgate; ",
+        "bbox": [
+            216,
+            156,
+            894,
+            200
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(f) employing and appointing persons on such terms as he considers appropriate to assist him in the exercise of his powers and performance of his functions; ",
+        "bbox": [
+            218,
+            214,
+            892,
+            243
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(g) where he considers it appropriate to do so, delegating any of his functions and powers; as may more efficiently and effectively be performed by officers and employees of the Commissioner of Intellectual Property, and with the approval of the DIFCA Board of Directors, either generally or in relation to any particular matter, to any other person. ",
+        "bbox": [
+            226,
+            256,
+            892,
+            315
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(h) prescribing forms to be used for any of the purposes of this Law or any legislation administered by the Commissioner of Intellectual Property; ",
+        "bbox": [
+            215,
+            328,
+            892,
+            357
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(i) acquiring, holding and disposing of property of any description; ",
+        "bbox": [
+            221,
+            370,
+            721,
+            386
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(j) making contracts and other agreements; ",
+        "bbox": [
+            216,
+            399,
+            557,
+            414
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(k) with the prior consent of the President and Board of Directors of the DIFCA, borrowing monies and providing security for such borrowings; ",
+        "bbox": [
+            215,
+            428,
+            892,
+            457
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(l) exercising and performing such other powers and functions as may be delegated to the Commissioner of Intellectual Property by the Board of Directors of the DIFCA pursuant to the provisions of this Law; and ",
+        "bbox": [
+            213,
+            470,
+            892,
+            514
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(m) assisting in complying with the United Arab Emirates’ obligations under any international treaty or other agreement to which the United Arab Emirates is a party through the exercise of his powers and functions. ",
+        "bbox": [
+            223,
+            526,
+            890,
+            570
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(4) The Commissioner of Intellectual Property has power to do whatever he deems necessary, for or in connection with, or reasonably incidental to, the performance of his functions. ",
+        "bbox": [
+            163,
+            585,
+            890,
+            614
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(5) In exercising his powers and performing his functions, the Commissioner of Intellectual Property shall act in an independent matter. ",
+        "bbox": [
+            174,
+            627,
+            892,
+            657
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "60. Regulations ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            670,
+            255,
+            686
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(1) The DIFCA Board of Directors, after consultation with the Commissioner of Intellectual Property, may make Regulations under the Law in respect of: ",
+        "bbox": [
+            163,
+            699,
+            894,
+            728
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(a) any matters related to the application of this Law; and (b) as proposed by the Commissioner of Intellectual Property under Article 60(2). ",
+        "bbox": [
+            226,
+            740,
+            816,
+            785
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(2) The Commissioner of Intellectual Property may propose Regulations to the DIFCA Board of Directors in respect of any matter that facilitates the administration and application of the Law or furthers the purposes of the Law, including but not limited to: ",
+        "bbox": [
+            166,
+            799,
+            890,
+            841
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(a) the development and publication of information to DIFC entities and their employees concerning the application and interpretation of the Law and Regulations; (b) procedures for initiating and filing complaints; ",
+        "bbox": [
+            225,
+            856,
+            892,
+            914
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "26 ",
+        "bbox": [
+            489,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(c) procedures for issuance of decisions in complaints; (d) fines;   \n(e) fees; and   \n(f) forms, procedures and requirements under this Law. ",
+        "bbox": [
+            226,
+            84,
+            638,
+            186
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(3) Where the DIFCA Board of Directors issues a standard or code of practice, it may incorporate such a standard or code into the Regulations by reference and in such circumstances, except to the extent that the Regulations otherwise provide, a person who is subject to the provisions of any such standard or code shall comply with such provisions as if they were provisions of the Regulations. ",
+        "bbox": [
+            168,
+            199,
+            894,
+            256
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(4) Where any legislation made for the purpose of this Law purports to be made in exercise of a particular power or powers, it shall be taken also to be made in the exercise of all powers under which it may be made. ",
+        "bbox": [
+            166,
+            271,
+            892,
+            313
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(5) The Commissioner of Intellectual Property shall publish draft Regulations by means of a notice under Article 60(6). ",
+        "bbox": [
+            171,
+            326,
+            892,
+            356
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(6) The notice of draft Regulations shall include the following: ",
+        "bbox": [
+            164,
+            370,
+            628,
+            386
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(a) the draft text of the Regulations;   \n(b) a statement of the substance and purpose of the material provisions of the draft Regulations; and   \n(c) a summary of the draft Regulations. ",
+        "bbox": [
+            213,
+            398,
+            894,
+            487
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(7) Upon publication of a notice under Article 60(6), the DIFCA shall invite interested persons to make representations with respect to the draft Regulations within a period of at least thirty (30) days after the publication, or within such period as the DIFCA Board of Directors may otherwise determine. ",
+        "bbox": [
+            168,
+            499,
+            894,
+            542
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(8) Article 60(5), Article 60(6) and Article 60(7) shall not apply if the Commissioner of Intellectual Property concludes that any delay likely to arise under such Articles is prejudicial to the interests of the DIFC. ",
+        "bbox": [
+            168,
+            556,
+            892,
+            599
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 2: COMMISSIONER OF INTELLECTUAL PROPERTY FUNDING",
+        "text_level": 1,
+        "bbox": [
+            102,
+            612,
+            695,
+            629
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "61. Funding ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            642,
+            230,
+            656
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "In respect of each financial year of the Commissioner of Intellectual Property, the Government of Dubai shall ensure that there is a provision of sufficient financial resources to enable the Commissioner of Intellectual Property to adequately perform its functions and exercise its powers in accordance with the Laws and the Regulations. ",
+        "bbox": [
+            166,
+            670,
+            894,
+            728
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "62. Annual Funding of the Commissioner of Intellectual Property ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            740,
+            611,
+            757
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(1) The Commissioner of Intellectual Property shall submit to the President for approval estimates of the annual income and expenditure of the Commissioner of Intellectual Property for the next financial year as approved by the DIFCA Board of Directors no later than forty five (45) days before the end of the current financial year. ",
+        "bbox": [
+            166,
+            770,
+            892,
+            827
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(2) Such estimates shall include figures relating to levels of remuneration and entitlement to expenses of the Commissioner of Intellectual Property, practitioners, employees and agents of the Commissioner of Intellectual Property. ",
+        "bbox": [
+            156,
+            841,
+            894,
+            884
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            621,
+            41,
+            892,
+            55
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(3) The President in consultation with the DIFCA Board of Directors may accept or reject such estimates within forty-five (45) days of receiving them, in writing to the Commissioner of Intellectual Property and where relevant state the reasons for rejection.   \n(4) The DIFCA Board of Directors may make Regulations requiring the payment to the Commissioner of Intellectual Property of such fees as may be prescribed in respect of the performance by the Commissioner of Intellectual Property of such functions under this Law as may be specified in the Regulations; including fees for filing application to act on disputes in accordance with this Law.   \n(5) The Commissioner of Intellectual Property may charge a fee for any services provided by the Commissioner of Intellectual Property.   \n(6) Where a fee is provided for or charged under Article 62 for the performance of an act or duty by the Commissioner of Intellectual Property, no action need be taken by the Commissioner of Intellectual Property until the fee is paid. ",
+        "bbox": [
+            159,
+            84,
+            895,
+            300
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "63. Accounts ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            313,
+            236,
+            328
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(1) The Commissioner of Intellectual Property shall keep proper accounts of its financial activities.   \n(2) The Commissioner of Intellectual Property shall, before the end of the first quarter of the financial year, prepare financial statements for the previous financial year in accordance with accepted accounting standards.   \n(3) The accounts prepared under Article 63(1) shall be submitted for the approval of the DIFCA Board of Directors. ",
+        "bbox": [
+            151,
+            342,
+            894,
+            457
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "64. Audit ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            470,
+            211,
+            485
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(1) The DIFCA Board of Directors shall appoint auditors to conduct an audit in relation to each financial year of the Commissioner of Intellectual Property.   \n(2) The DIFCA Board of Directors shall, as soon as reasonably practicable after the preparation and approval of the financial statements of the Commissioner of Intellectual Property, provide such statements to the relevant auditors for an audit.   \n(3) The auditors shall prepare a report on the financial statements and send the report to the DIFCA Board of Directors.   \n(4) Such report shall, where appropriate, include a statement by the auditors as to whether or not, in their opinion, the financial statements to which the report relates give a true and fair view of the state of the financial activities of the Commissioner of Intellectual Property as at the end of the financial year to which the financial statements relate and of the results of his operations and cash flows in the financial year.   \n(5) The auditors shall have a right of access at all reasonable times to all information which is reasonably required by them for the purposes of preparing the report and which is held or controlled by the Commissioner of Intellectual Property, any practitioner, employee or agent of the Commissioner of Intellectual Property.   \n(6) The auditors shall be reasonably entitled to require from the Commissioner of Intellectual Property, practitioners, employees and agents of the Commissioner of Intellectual Property such information and explanations they consider necessary for the performance of their duties as auditors.   \n(7) A person shall not without reasonable excuse intentionally engage in conduct that results in the obstruction of a person appointed under Article 64(1) in the exercise of his powers under Article 64. ",
+        "bbox": [
+            157,
+            498,
+            894,
+            900
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "28 ",
+        "bbox": [
+            489,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "65. Annual Report ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            85,
+            277,
+            99
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "(1) As soon as practicable after 1 January in each year, the Commissioner of Intellectual Property shall deliver to the President, a report on the management of the administrative affairs of the Commissioner of Intellectual Property, for the previous year.   \n(2) Such report shall give a true and fair view of the state of its regulatory operations in the DIFC, and financial statements of the Commissioner of Intellectual Property, as at the end of the relevant financial year. ",
+        "bbox": [
+            152,
+            114,
+            894,
+            214
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "29 ",
+        "bbox": [
+            489,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "PART 7: REMEDIES AND SANCTIONS ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            85,
+            410,
+            98
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "66. Directions ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            114,
+            243,
+            128
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(1) If the Commissioner of Intellectual Property is satisfied, after duly conducting all reasonable and necessary inspections and investigations that a person has violated or is in violation of any of the provisions of this Law and without prejudice to any more severe punishment stipulated under any other law, he may issue a direction with any of the following measures: ",
+        "bbox": [
+            168,
+            142,
+            892,
+            199
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(a) order the violator to refrain from the violation and carry out all necessary acts to abide by the Law;   \n(b) request the DIFC Registrar of Companies to temporarily suspend the DIFC licence of the person in violation of this Law;   \n(c) order confiscation of all materials, goods, tools, machines, equipment, signs, advertisements related to the violation and order the transfer/storage and/or destruction of the same at the expense of the violator; or   \n(d) impose a fine of not less than USD 5,000 and not more than USD 50,000 in accordance with Schedule 3. ",
+        "bbox": [
+            225,
+            214,
+            892,
+            385
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(2) In the event of repetition of any infringement, the Commissioner of Intellectual Property may request the DIFC Registrar of Companies to revoke the DIFC licence of the violator, and/or impose up to double the fines stipulated in Schedule 3. ",
+        "bbox": [
+            168,
+            399,
+            894,
+            442
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "The Commissioner of Intellectual Property shall carry out, as a minimum, due process by means of undertaking all the reasonable and necessary inspections and investigations to be adequately satisfied to establish the contravention with the Law or Regulations made for the purposes of this Law. ",
+        "bbox": [
+            208,
+            456,
+            892,
+            513
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(4) A direction issued under Article 66(1) shall be in writing and shall contain: ",
+        "bbox": [
+            157,
+            526,
+            736,
+            543
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(a) a statement of the contravention of the Law or Regulations which the Commissioner of Intellectual Property is satisfied is being or has been committed detailing the legal provisions relied on by the Commissioner of Intellectual Property in reaching its decision.; and   \n(b) a statement to the effect that the aggrieved party may seek a review by the Court of the decision of the Commissioner of Intellectual Property to issue the direction. ",
+        "bbox": [
+            216,
+            556,
+            895,
+            657
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(5) If the violator failed to comply with the direction, the Commissioner of Intellectual Property may apply to the Court for one or more of the following orders; ",
+        "bbox": [
+            161,
+            670,
+            890,
+            700
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(a) an order directing the violator to comply with the direction or any provision of the Law or the Regulations or of any legislation administered by the Commissioner of Intellectual Property relevant to the issue of the direction;   \n(b) an order directing the violator to pay any costs incurred by the Commissioner of Intellectual property or other person relating to the issue of the direction by the Commissioner of Intellectual property or the contravention of such Law, Regulations or legislation relevant to the issue of the direction; or   \n(c) any other order that the Court considers appropriate. ",
+        "bbox": [
+            213,
+            713,
+            895,
+            858
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "67. Actions with the Court ",
+        "bbox": [
+            107,
+            870,
+            334,
+            884
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            41,
+            892,
+            55
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "30 ",
+        "bbox": [
+            490,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(1) Notwithstanding the provision of Article 66 of this Law, any injured party due to the violation of this Law shall have the right to resort to the Court to seek injunctions and damages. ",
+        "bbox": [
+            161,
+            85,
+            894,
+            114
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(2) In assessing the damages for infringement, the Court may take into consideration the loss, including future loss that is established with a reasonable degree of certainty; the value of the subject intellectual property right infringed and the loss of an opportunity in proportion to the probability of its occurrence. ",
+        "bbox": [
+            166,
+            128,
+            895,
+            185
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(3) Actions filed under Part 5 of this Law must be brought within three (3) years after the misappropriation is discovered or should reasonably have been discovered by the incurred party. ",
+        "bbox": [
+            157,
+            199,
+            894,
+            228
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "68. Non-Conflict with DIFC Courts ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            242,
+            398,
+            256
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(1) The Commissioner of Intellectual Property shall have jurisdiction over implementation and execution of this Law and any legislation issued for the purpose of this Law with respect to administrative penalties. Decisions issued by the Commissioner of Intellectual Property may be appealed to the DIFC Court within fifteen (15) days from date of notification to the concerned parties, failing which the decisions shall become final and enforceable. ",
+        "bbox": [
+            166,
+            271,
+            892,
+            342
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(2) The DIFC Court shall have jurisdiction to issue injunction orders and to award damages resulting from the violation of the DIFC intellectual property legislations. ",
+        "bbox": [
+            163,
+            356,
+            892,
+            385
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "31 ",
+        "bbox": [
+            489,
+            932,
+            507,
+            942
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 1 ",
+        "text_level": 1,
+        "bbox": [
+            443,
+            85,
+            552,
+            98
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "INTERPRETATION ",
+        "text_level": 1,
+        "bbox": [
+            421,
+            112,
+            576,
+            128
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "1. Rules of interpretation ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            142,
+            332,
+            156
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "(1) In this Law, unless otherwise provided, a reference to: ",
+        "bbox": [
+            166,
+            171,
+            594,
+            185
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "(a) a statutory provision includes a reference to the statutory provision as amended or reenacted from time to time;   \n(b) a person or an entity includes any natural person, body corporate or body unincorporated, including a company, partnership, unincorporated association, government or state;   \n(c) an obligation to publish or cause to be published a particular document shall, unless expressly provided otherwise in the Law, include publishing or causing to be published in printed or electronic form;   \n(d) a day shall refer to a business day, being a calendar day, excluding Saturdays, Sundays and official public holidays;   \n(e) a calendar year shall mean a year of the Gregorian calendar; and   \n(f) a reference to the masculine gender includes the feminine. ",
+        "bbox": [
+            225,
+            199,
+            894,
+            429
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "The headings in the Law shall not affect its interpretation. ",
+        "bbox": [
+            211,
+            442,
+            616,
+            456
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "3) References in this Law to a body corporate include a body corporate incorporated outside DIFC. ",
+        "bbox": [
+            179,
+            470,
+            877,
+            486
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "(4) A reference in this Law to a Part, Article or Schedule by number only, and without further identification, is a reference to the Part, Article or Schedule of that number in this Law.   \n(5) A reference in an Article or other division of this Law to a paragraph, sub-paragraph or Article by number or letter only, and without further identification, is a reference to the paragraph, subparagraph or Article of that number or letter contained in the Article or other division of this Law in which that reference occurs.   \n(6) Unless the context otherwise requires, where this Law refers to an enactment, the reference is to that enactment as amended from time to time, and includes a reference to that enactment as extended or applied by or under another enactment, including any other provision of that enactment.   \n(7) References to this Law to a writing, filing, instrument or certificate include any mode of communication that preserves a record of the information contained therein and is capable of being reproduced in tangible form, including electronic means. ",
+        "bbox": [
+            159,
+            488,
+            895,
+            714
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "2. Legislation in the DIFC ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            727,
+            337,
+            741
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "References to Legislation and Guidance in this Law shall be construed in accordance with the following provisions: ",
+        "bbox": [
+            164,
+            756,
+            892,
+            785
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "(a) Federal Law is law made by the federal government of the United Arab Emirates;   \n(b) Dubai Law is law made by the Ruler, as applicable in the Emirate of Dubai;   \n(c) DIFC Law is law made by the Ruler (including, by way of example, the Law), as applicable in the DIFC;   \n(d) The Law is the Intellectual Property Law, DIFC Law No. 4 of 2019 made by the Ruler;   \n(e) The Regulations are legislation made by the DIFC Authority Board for the purposes of this Law and are binding in nature; and   \n(f) Guidance is indicative and non-binding and may comprise (i) guidance made and issued by the Director for the purposes of this Law; and (ii) any standard or code of practice issued by the DIFC Authority Board, which has not been incorporated into the Regulations. ",
+        "bbox": [
+            164,
+            799,
+            894,
+            915
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            621,
+            41,
+            892,
+            55
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "32 ",
+        "bbox": [
+            490,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "3. Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            185,
+            272,
+            199
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "In the Law, unless the context indicates otherwise, the defined terms listed below shall have the corresponding meanings. ",
+        "bbox": [
+            161,
+            214,
+            890,
+            242
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "images/f22cb042323bd4dffe3f1fae7237d21d654cac75a6c01abdbea5bb574871e70b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Terms</td><td colspan=\"1\" rowspan=\"1\">Definitions</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Audio-visual Work</td><td colspan=\"1\" rowspan=\"1\">work that consists of a series of related images which are intrinsically intendedto be shown by the use of machines or devices such as projectors, viewers, orelectronic equipment, together with accompanying sounds, if any, regardless ofthe nature of the material objects, such as films or tapes, in which the works areembodied. Such works include, among others, TV programmes, films and videogames.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Author</td><td colspan=\"1\" rowspan=\"1\">the person who creates a Work or whose name appears on the Work or to whomthe Work is attributed at the time of publication, unless proven otherwise. Anauthor shall also be a person who publishes a Work anonymously or under apseudonym or by any other means provided there is no doubt as to the identityof the author. In the case of doubt, the publisher or producer of the Work, as anatural person or corporate entity, shall exercise the rights of the author on hisbehalf until such time as the identity of the author is established.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">BroadcastingOrganization</td><td colspan=\"1\" rowspan=\"1\">an entity that carries out radio or television Broadcasting or radio and televisionBroadcasting.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Broadcasting</td><td colspan=\"1\" rowspan=\"1\">wireless Broadcasting over radio, television, or both, of a Work, performance orsound recording or a live or recorded program, to the public. This includessecondary transmission and satellite Broadcasting.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Co-Author</td><td colspan=\"1\" rowspan=\"1\">an Author contributing to a Work of Co-Authorship.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Collective Work</td><td colspan=\"1\" rowspan=\"1\">a work created by more than one Author under the direction of a person orcorporate entity who/which would oversee the publication of the Work in his/itsname. The Authors would individually contribute to the common goalenvisioned by that person such that it would be impossible to separate or allocateany distinction to the Work of each Author.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Collection Society</td><td colspan=\"1\" rowspan=\"1\">a society licensed by the Ministry pursuant to the Federal Copyright Law andthe Ministerial Decision No. 133 of 2004, and which provides management ofcopyright and neighboring rights on behalf of its holders.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Commissioner ofIntellectual Property</td><td colspan=\"1\" rowspan=\"1\">the person appointed by the President pursuant to Article 56(1) of this Law toadminister the Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Court</td><td colspan=\"1\" rowspan=\"1\">DIFC Court.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Database</td><td colspan=\"1\" rowspan=\"1\">a collection of independent works, data or other materials, which are arrangedin a systematic or methodical way, and are individually accessible by electronicor other means.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Derivative Work</td><td colspan=\"1\" rowspan=\"1\">work which is built upon an underlying Work provided that its arrangement orpresentation makes an original contribution in the process of transforming theunderlying Work in order to be entitled to a new and separate copyright.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DFSA</td><td colspan=\"1\" rowspan=\"1\">the Dubai Financial Services Authority.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC</td><td colspan=\"1\" rowspan=\"1\">the Dubai International Financial Centre.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC Authority</td><td colspan=\"1\" rowspan=\"1\">the governing Centre Body of the DIFC, established under Article 6(1) of DubaiLaw No. 9 of 2004.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFCA Board</td><td colspan=\"1\" rowspan=\"1\">the governing body of the DIFC Authority established under Article 6(1) ofDubai Law No. 9 of 2004.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Drawing</td><td colspan=\"1\" rowspan=\"1\">a design made up of a combination of visual elements (artistic form).</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Executive Regulations</td><td colspan=\"1\" rowspan=\"1\">Implementing Regulations of UAE Law No. 37 of 1992 as amended by UAELaw No. 8 of 2002.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Federal TrademarksLaw</td><td colspan=\"1\" rowspan=\"1\">UAE Law No. 37 of 1992 as amended by UAE Law No. 8 of 2002 and itsimplementing regulations, any other future amendment or Federal Law withrespect to Trademarks.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Federal CopyrightLaw</td><td colspan=\"1\" rowspan=\"1\">Federal Law No. 7 of 2002 regarding Copyright and Related Rights, as amendedby Federal Law No. 32 of 2006 and its implementing regulation, any other futureamendment or Federal law with respect to Copyright.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Hallmarks</td><td colspan=\"1\" rowspan=\"1\">engraved marks.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Industrial Design</td><td colspan=\"1\" rowspan=\"1\">any innovative three-dimensional shape that can be used in industry or craft andin respect of which the Ministry has issued a deed of protection.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Industrial Drawing</td><td colspan=\"1\" rowspan=\"1\">Any innovative creation of lines and colors which generate a product that can beused in any industry or craft and in respect of which the Ministry has issued adeed of protection.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Invention</td><td colspan=\"1\" rowspan=\"1\">any innovative idea relating to a product, a method of manufacture, or anapplication of a known method of manufacture leading to a practical solution toa technological problem.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Improper Means</td><td colspan=\"1\" rowspan=\"1\">include fraud, forgery, theft, bribery, misrepresentation, breach or inducementof a breach of a legal or contractual duty to maintain secrecy, or espionagethrough electronic or other means.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Law</td><td colspan=\"1\" rowspan=\"1\">the Intellectual Property Rights Law No. 4 of 2019.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Ministry</td><td colspan=\"1\" rowspan=\"1\">the Ministry of Economy, United Arab Emirates.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Operating Law</td><td colspan=\"1\" rowspan=\"1\">the Operating Law DIFC Law No. 7 of 2018.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Patent</td><td colspan=\"1\" rowspan=\"1\">a right pursuant to issuance of the deed of protection granted for an inventionby the Ministry in the name of UAE.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">President</td><td colspan=\"1\" rowspan=\"1\">the president of DIFC appointed by a decree of the Ruler pursuant to DubaiLaw.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Performing Artists</td><td colspan=\"1\" rowspan=\"1\">actors, singers, musicians, dancers and other persons who deliver a speech, sing,play (music) or give any kind of performance in the context of a literary orartistic work or otherwise which is protected under this Law or is publicproperty.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Producer of AudioVisual Work</td><td colspan=\"1\" rowspan=\"1\">a person or corporate entity who/which provides the means necessary toaccomplish an audiovisual Work and assumes the responsibility ofaccomplishing the Work.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Publication</td><td colspan=\"1\" rowspan=\"1\">presenting to the public a Work, Sound Recording, Broadcast or anyperformance, however this is done.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Public Performance</td><td colspan=\"1\" rowspan=\"1\">a performance conducted before an audience such as a stage play a presentationor performance of an artistic work, a display of audio or visual work, a musicalperformance, or a recital. The performance could be either live or recorded.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Public Broadcasting</td><td colspan=\"1\" rowspan=\"1\">wireless or non-wireless transmission of a Work, sound recording or broadcastto public outside of a normal circle of family and its social acquaintances capableof receiving the transmission by broadcasting alone beyond the place fromwhich it is sent, whether they receive it in the same place or in separate placesand at the same time or at different times.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Regulations</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in Article 2 of Schedule 1 to the Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Reproduction</td><td colspan=\"1\" rowspan=\"1\">making one or more copies of a Work, sound recording, broadcast material orperformance of any description or means including Work loaded and storedelectronically both permanently and temporarily, whatever the method or deviceused to carry out the reproduction.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Ruler</td><td colspan=\"1\" rowspan=\"1\">the Ruler of the Emirate of Dubai.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Related RightsHolders</td><td colspan=\"1\" rowspan=\"1\">performing artists, producers of sound recordings, broadcasting organisations asdefined in the Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Record Producer</td><td colspan=\"1\" rowspan=\"1\">a natural person or corporate entity who/ which does a first time recording for aperforming artist or records other audio material.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Sound Recordings</td><td colspan=\"1\" rowspan=\"1\">works that result from the fixation of a series of sounds making up a specificperformance, regardless of the method of fixation and the nature of the materialobjects in which they are embodied. This includes fixing audio with video tocreate an audiovisual work absent contrary agreement.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Schedule</td><td colspan=\"1\" rowspan=\"1\">a schedule to the Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Symbol</td><td colspan=\"1\" rowspan=\"1\">a single visual entity.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Trademark</td><td colspan=\"1\" rowspan=\"1\">any signs or combination of signs or names, words, signatures, letters, numbers,Drawings, Symbols, addresses, Hallmarks, stamps, pictures, vignettes, notices,packages, colour or combination of colours, or any other mark or combinationof marks having a distinctive form and used or intended to be used to distinguishgoods, products or services. Sound and smell can be considered as trademarks.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Trade Name</td><td colspan=\"1\" rowspan=\"1\">every name used in trade to designate particular business and registered with thecompetent authority.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Trade Secret</td><td colspan=\"1\" rowspan=\"1\">all forms and types of financial, business, scientific, technical, economic, orengineering information, including patterns, plans, compilations, programs,devices, formulas, designs, prototypes, methods, techniques, processes,procedures, or codes, whether tangible or intangible, and whether or how stored,compiled, or memorialisedphysically, electronically, graphically,photographically, or in writing.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">UAE</td><td colspan=\"1\" rowspan=\"1\">the United Arab Emirates.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Utility Certificate</td><td colspan=\"1\" rowspan=\"1\">a right pursuant to the issuance of the deed of protection granted for an inventionby Ministry where such inventions do not involve an inventive step sufficientfor the grant of deed of patent.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Work</td><td colspan=\"1\" rowspan=\"1\">any original work in the areas of literature, arts or science, whatever itsdescription, form of conveyance and expression, significance or purpose.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Work of JointAuthorship</td><td colspan=\"1\" rowspan=\"1\">a Work where more than one (1) person contributes in the creation of a Work insuch a manner that it is impossible to distinguish the contribution of each personin the Work</td></tr><tr><td>Work of Co- Authorship</td><td>a Work where more than one (1) person contributes in the production of a Work, where the contribution of each person belongs to a different category of production or art.</td></tr></table>",
+        "bbox": [
+            164,
+            250,
+            895,
+            909
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "33 ",
+        "bbox": [
+            489,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "34 ",
+        "bbox": [
+            489,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "35 ",
+        "bbox": [
+            489,
+            932,
+            509,
+            944
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            623,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "36 ",
+        "bbox": [
+            490,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 2 ",
+        "text_level": 1,
+        "bbox": [
+            443,
+            85,
+            552,
+            99
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "(1) This Law has been drafted taking into consideration: ",
+        "bbox": [
+            105,
+            114,
+            524,
+            128
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "(a) The UAE Federal Law No. 17 of 2002 regulating and protecting Patents, Industrial Drawings and Designs, and its implementing regulations;   \n(b) Paris Convention for the Protection of Industrial Property;   \n(c) WTO Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS Agreement); and   \n(d) The ‘GCC Patent Regulation’ (as amended and up-to-date) as adopted by the Gulf Cooperation Council’s Supreme Council during its 13th session held at Abu Dhabi, UAE, in 1992.   \n(e) The UAE Federal Law No. 17 of 2002 regulating Copyright and Related Rights, as amended by Federal Law No. 32 of 2006 and its implementing regulations;   \n(f) Berne Convention for the Protection of Literary and Artistic Works;   \n(g) WIPO Copyright Treaty;   \n(h) WIPO Performance & Phonograms Treaty; and   \n(i) Arab Agreement on Protection of the Authors   \n(j) The UAE Federal Law No. 37 of 1992, as amended by Law No. 8 of 2002, and its executive regulations; ",
+        "bbox": [
+            163,
+            142,
+            894,
+            472
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            621,
+            41,
+            892,
+            55
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "37 ",
+        "bbox": [
+            489,
+            932,
+            507,
+            942
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 3 FINES ",
+        "text_level": 1,
+        "bbox": [
+            443,
+            85,
+            552,
+            114
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "table",
+        "img_path": "images/531cb637595efb9ec6ba44666949861765727a79cef4688c7c7bf0e47190e16b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Article</td><td colspan=\"1\" rowspan=\"1\">Contravention</td><td colspan=\"1\" rowspan=\"1\">MaximumFine (USD)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">9(1)(a)</td><td colspan=\"1\" rowspan=\"1\">Exploitation, for industrial or commercial purposes, an Invention protected by aPatent or Utility Certificate or a registered Industrial Drawing or Design.</td><td colspan=\"1\" rowspan=\"1\">$35,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">9(1)(b)</td><td colspan=\"1\" rowspan=\"1\">Using, manufacturing, selling, offering for sale within the UAE or importinginside the UAE or possessing with the intention to trade off products or processesprotected by a Patent or Utility Certificate or products obtained using protectedprocesses.</td><td colspan=\"1\" rowspan=\"1\">$35,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">9(1)(c)</td><td colspan=\"1\" rowspan=\"1\">Inducing another person to infringe a Patent, Utility Certificate or IndustrialDrawing or Design within the UAE, even if the inducer is located outside the UAE.</td><td colspan=\"1\" rowspan=\"1\">$20,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">9(1)(d)</td><td colspan=\"1\" rowspan=\"1\">Contributing with another party to an act of infringement by conducting anyinfringement acts in relation to a material part of the Invention, knowing the sameto be especially made or especially adapted for use in an infringement of suchPatent or Utility Certificate within the UAE, and not a staple article or commodityof commerce suitable for substantial non-infringing use, even if the contributor islocated outside the UAE.</td><td colspan=\"1\" rowspan=\"1\">$20,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">9(4)</td><td colspan=\"1\" rowspan=\"1\">Marking on products, or any promotions thereto, any indication that may misleadthe public in believing that a person holds a Patent, Utility Certificate or IndustrialDrawing or Design thereto, when in effect he does not.</td><td colspan=\"1\" rowspan=\"1\">$10,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">42(1)(a)</td><td colspan=\"1\" rowspan=\"1\">Selling, renting or putting in circulation in any form, a Work protected bycopyright under this Law, without a prior written authorisation from the Author,copyright holder or the Related Right Holder.</td><td colspan=\"1\" rowspan=\"1\">$25,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">42(1)(b)</td><td colspan=\"1\" rowspan=\"1\">Knowingly copying, selling, offering for sale, circulation or rental, a Workprotected by copyright under this Law.</td><td colspan=\"1\" rowspan=\"1\">$25,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">42(1)(c)</td><td colspan=\"1\" rowspan=\"1\">Knowingly imitating within the DIFC, selling, offering for sale or circulation,renting or exporting Work published in a foreign country.</td><td colspan=\"1\" rowspan=\"1\">$25,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">42(1)(d)</td><td colspan=\"1\" rowspan=\"1\">Disseminating through computer networks, Internet, information networks,communication networks and other means of technology of a Work protectedunder this Law, without a prior written authorisation from the Author or the ownerof the related right.</td><td colspan=\"1\" rowspan=\"1\">$40,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">42(1)(e)</td><td colspan=\"1\" rowspan=\"1\">Manufacturing, assembling or importing for the purpose of sale or rent any device,tool or implement especially designed or made to circumvent technical protectionmeans, such as encryption or the like, used by the Author or the owner of therelated right.</td><td colspan=\"1\" rowspan=\"1\">$40,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">42(1)(f)</td><td colspan=\"1\" rowspan=\"1\">Removing, neutralising or disabling, in bad faith, any technical protection deviceused by the Author or the owner of the related rights.</td><td colspan=\"1\" rowspan=\"1\">$40,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">42(1)(g)</td><td colspan=\"1\" rowspan=\"1\">Infringing any moral right, copyright or related rights provided for in this Law.</td><td colspan=\"1\" rowspan=\"1\">$20,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">42(1)(g)</td><td colspan=\"1\" rowspan=\"1\">Infringing any economic right, copyright or related rights provided for in this Law.</td><td colspan=\"1\" rowspan=\"1\">$40,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">45(3)</td><td colspan=\"1\" rowspan=\"1\">Using a well-known Trademark without authorisation of the owner of the well-known Trademark.</td><td colspan=\"1\" rowspan=\"1\">$15,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">45(4)</td><td colspan=\"1\" rowspan=\"1\">Using a Trademark that may cause dilution to a well-known Trademark.</td><td colspan=\"1\" rowspan=\"1\">$15,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">47(4)</td><td colspan=\"1\" rowspan=\"1\">Use of a Trademark by licencee in contravention to a licence agreement.</td><td colspan=\"1\" rowspan=\"1\">$30,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">48(1)(a)</td><td colspan=\"1\" rowspan=\"1\">Use of a Trademark in violation of Article 44(1)(d) to (p) of this Law.</td><td colspan=\"1\" rowspan=\"1\">$5,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">48(1)(b)</td><td colspan=\"1\" rowspan=\"1\">Counterfeiting or imitating a well-known Trademark or a registered Trademarkwith the intent or effect of misleading the public.</td><td colspan=\"1\" rowspan=\"1\">$30,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">48(1)(c)</td><td colspan=\"1\" rowspan=\"1\">Unlawfully using a registered Trademark of another party without such party'sconsent.</td><td colspan=\"1\" rowspan=\"1\">$25,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">48(1)(d)</td><td colspan=\"1\" rowspan=\"1\">Unlawfully using a Trademark that is confusingly similar to a registeredTrademark with the intent to or effect of causing confusion and misleading thepublic.</td><td colspan=\"1\" rowspan=\"1\">$25,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">48(1)(e)</td><td colspan=\"1\" rowspan=\"1\">Knowingly selling, offering for sale or possessing with purpose of selling goodsor services bearing a Trademark that is counterfeited, imitated or unlawfully used.</td><td colspan=\"1\" rowspan=\"1\">$25,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">48(1)(f)</td><td colspan=\"1\" rowspan=\"1\">Falsely claiming that a Trademark is registered or making any statement with theintent or the effect of leading others to such conclusion.</td><td colspan=\"1\" rowspan=\"1\">$5,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">50</td><td colspan=\"1\" rowspan=\"1\">Failure to display the Trade Name as per the Law requirement.</td><td colspan=\"1\" rowspan=\"1\">$5,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">51</td><td colspan=\"1\" rowspan=\"1\">Failing to comply with the Commissioner of Intellectual Property order to changea Trade Name due to a conflict with a Trademark</td><td colspan=\"1\" rowspan=\"1\">$10,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">54(1)(a)</td><td colspan=\"1\" rowspan=\"1\">Acquisition of a Trade Secret of another by a person who knows or has reason toknow that the Trade Secret was acquired by Improper Means.</td><td colspan=\"1\" rowspan=\"1\">$15,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">54(1)(b)</td><td colspan=\"1\" rowspan=\"1\">Disclosure or use of a Trade Secret of another by a person who used ImproperMeans to acquire knowledge of the Trade Secret.</td><td colspan=\"1\" rowspan=\"1\">$20,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">54(1)(c)</td><td colspan=\"1\" rowspan=\"1\">Disclosure or use of a Trade Secret of another by a person who at the time ofdisclosure or use knew or had reason to know that his knowledge of the TradeSecret was:(i)   derived from or through a person who had utilised Improper Means toacquire it;(ii)  acquired under circumstances giving rise to a duty to maintain its secrecyor limit its use, or;(iii)  derived from or through a person who owed a duty, towards the personlawfully in control of such Trade Secret, to maintain its secrecy or limitits use.</td><td colspan=\"1\" rowspan=\"1\">$30,000</td></tr><tr><td colspan=\"1\" rowspan=\"1\">54(1)(d)</td><td colspan=\"1\" rowspan=\"1\">Disclosure or use of a Trade Secret of another by a person who before a materialchange of his/her position, knew or had reason to know that it was a Trade Secretand that knowledge of it had been acquired by accident or mistake.</td><td colspan=\"1\" rowspan=\"1\">$25,000</td></tr></table>",
+        "bbox": [
+            105,
+            141,
+            890,
+            913
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            621,
+            41,
+            892,
+            55
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "38 ",
+        "bbox": [
+            489,
+            932,
+            509,
+            944
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            621,
+            42,
+            892,
+            55
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "39 ",
+        "bbox": [
+            490,
+            932,
+            509,
+            942
+        ],
+        "page_idx": 39
+    }
+]

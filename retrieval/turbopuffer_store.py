@@ -3,7 +3,6 @@ from __future__ import annotations
 import os
 from typing import Any, Iterable, List, Dict
 
-import turbopuffer
 from langchain_core.documents import Document
 
 
@@ -11,6 +10,15 @@ class TurbopufferStore:
     """Hybrid (vector + BM25) store backed by Turbopuffer."""
 
     def __init__(self, namespace: str, region: str = "gcp-europe-west3") -> None:
+        try:
+            import turbopuffer  # type: ignore
+        except ModuleNotFoundError as exc:
+            raise ModuleNotFoundError(
+                "Optional dependency `turbopuffer` is required to use TurbopufferStore. "
+                "Install it or disable Turbopuffer by setting `use_turbopuffer=False` / "
+                "leaving `TURBOPUFFER_API_KEY` unset."
+            ) from exc
+
         api_key = os.getenv("TURBOPUFFER_API_KEY")
         if not api_key:
             raise ValueError("TURBOPUFFER_API_KEY not set")

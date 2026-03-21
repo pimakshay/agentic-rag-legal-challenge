@@ -1,0 +1,479 @@
+[
+    {
+        "type": "text",
+        "text": "Annex B ",
+        "text_level": 1,
+        "bbox": [
+            468,
+            100,
+            538,
+            126
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Format for providing public comments to DIFCA on Consultation Paper No. 1 of 2023 Proposed Enactment of the Venture Studio Regulations (the “Proposed Regulations”) ",
+        "text_level": 1,
+        "bbox": [
+            55,
+            156,
+            733,
+            211
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Note 1: DIFCA reserves the right to publish, including on its website, any comments you provide. However, if you wish to remain anonymous, you must expressly request at the time of making comments that this should be the case. ",
+        "bbox": [
+            54,
+            235,
+            954,
+            275
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Note 2: The second column, ‘comments on proposed policy’ relates to the policy explained in the Consultation Paper paragraphs specified. The third column, ‘comments on legislation’ refers to the draft legislation reflecting the proposed policy. ",
+        "bbox": [
+            57,
+            294,
+            960,
+            334
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "s possible that you may not have any comments, either on the proposed policy or draft legislation, or may have comments on one and not the other. You may leave lumn if you either agree to the proposed position, or you have no concerns relating it. ",
+        "bbox": [
+            117,
+            351,
+            954,
+            393
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Note 4: If there are any ambiguities relating to the proposed policy or draft legislation, you may raise those in your comments. ",
+        "bbox": [
+            63,
+            410,
+            721,
+            431
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/c5ad169c270bde5a0e409dce804855c2e8034b52178c432d9c18eb44fbb3c1c0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Name of individual</td></tr></table>",
+        "bbox": [
+            55,
+            478,
+            959,
+            522
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/b20836e317b36d4a749b20f32498aafd72b6fe83d8410b6342c7f39eb2562342.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Comments on nronosed nolicv</td><td>Comments on leaislation</td></tr></table>",
+        "bbox": [
+            114,
+            544,
+            956,
+            579
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qualifying requirements for a Venture Studio ",
+        "bbox": [
+            58,
+            588,
+            340,
+            611
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/a5ab999e9e045deb4ff71ca3eef43b0a5ecb0a26f8a9a8660b274a6fba6cbfb5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Q1: What ar</td><td></td></tr></table>",
+        "bbox": [
+            59,
+            643,
+            954,
+            689
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Q2: Do you think any other criteria is necessary or desirable? ",
+        "bbox": [
+            55,
+            783,
+            444,
+            806
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            648,
+            984,
+            656,
+            998
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "bbox": [
+            801,
+            132,
+            902,
+            181
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Y NOTICE and DISCLAIMER – This document and any attachment are confidential and may be privileged or otherwise protected from disclosure and solely for the use of Dubai International Financial Centre Authority. No part of this copied, reproduced, or transmitted in any form or by any means without written permission. ",
+        "bbox": [
+            124,
+            907,
+            959,
+            937
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Q3: Do you agree with the limit on the number of Ventures and Venture Studio Companies that a Venture Studio can sponsor and incorporate at any one time? If not, please provide a detailed explanation for your views. ",
+        "bbox": [
+            58,
+            141,
+            961,
+            188
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Legal status of Ventures: ",
+        "bbox": [
+            58,
+            289,
+            216,
+            309
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/cd78c50ffc5bc3681a789d987df7984c2a33d0b98289159d471cc939e6523361.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Q4: Do v</td></tr></table>",
+        "bbox": [
+            52,
+            322,
+            959,
+            369
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Q5: Do you foresee any issues with the unincorporated nature of the Venture and the proposed legal and regulatory responsibility of the Venture Studio? If so, please provide detailed responses. ",
+        "bbox": [
+            53,
+            452,
+            961,
+            495
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sponsorship of Entrepreneurs and Ventures by a Venture Studio: ",
+        "bbox": [
+            55,
+            578,
+            466,
+            601
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Q7: Do you consider that any other arrangements for sponsoring Entrepreneurs are required? ",
+        "bbox": [
+            60,
+            769,
+            648,
+            793
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Any personal data provided by you will be used, recorded and processed by us in accordance with the relevant statutory basis including the Data protection law 2007, We do not disclose any information you provide to any third parties or other government authorities except where (i) such disclosures are necessary to fulfill our obligations to you in which case we will require such third parties to agree to treat it in accordance with thus policy; (ii) required by applicable laws, courts orders, or government regulations (for example to prevent or detect crime); (iii)you give us permission to do so, please see the Data Protection law 2007 for a full account of your rights relating to data protection. ",
+        "bbox": [
+            53,
+            894,
+            958,
+            937
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            648,
+            979,
+            656,
+            993
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "No. Comments on proposed policy Comments on legislation Permitted activities of a Venture Studio: ",
+        "bbox": [
+            49,
+            65,
+            920,
+            131
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "onversion of successful Ventures into Venture Studio Companies, or otherwise their termination: ",
+        "bbox": [
+            72,
+            110,
+            771,
+            137
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7130dd19e6fdb3ff14a908ee1b64c2f738cd8f9b6c2b519577f45180e04a5b0d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Q8: Do If not,</td></tr></table>",
+        "bbox": [
+            59,
+            166,
+            958,
+            213
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "you agree that a Venture Studio should have compliance and regulatory responsibility for Venture Studio Companies during the start-up iod? If not, please provide a detailed explanation. ",
+        "bbox": [
+            110,
+            352,
+            958,
+            400
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Requirements applicable for an entity to maintain its Venture Studio Company status: ",
+        "bbox": [
+            58,
+            495,
+            590,
+            519
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Q10: Do you agree with the length of the Start-up Period? If not, how long do you consider appropriate and why? ",
+        "bbox": [
+            65,
+            559,
+            769,
+            581
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "you have any other comments in relation to the restrictions described in paragraph 33 of the Consultation Paper and set out at Regulation 1 of the Proposed Regulations? If so, please provide a detailed explanation. ",
+        "bbox": [
+            115,
+            788,
+            956,
+            831
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            51,
+            917,
+            59,
+            932
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "No. Comments on proposed policy Comments on legislation ",
+        "bbox": [
+            57,
+            65,
+            969,
+            100
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/557cdf2a2efc6602b012dc43d932c03ac06bdf8ba3a867c752bcff1bcb5ab272.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>No</td><td rowspan=1 colspan=1>Comments on nronosed nolicy</td><td rowspan=1 colspan=1>Comments on leaiclation</td></tr><tr><td rowspan=1 colspan=1></td><td></td><td></td></tr><tr><td rowspan=1 colspan=1></td><td></td><td></td></tr></table>",
+        "bbox": [
+            52,
+            65,
+            964,
+            166
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Q13: Are there any other restrictions that you think should be included in the list? If so, please provide an explanation. ",
+        "bbox": [
+            55,
+            173,
+            794,
+            196
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "have any comments with regards to the provisions dealing with office sharing arrangements under the Proposed Regulations? ",
+        "bbox": [
+            141,
+            322,
+            921,
+            347
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c63b77b5a5b9724481e1fd7d41d86f81cc227c33fc3d98866cb64c86c195424.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>ortuna</td></tr></table>",
+        "bbox": [
+            82,
+            433,
+            659,
+            452
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Revocation or change of status ",
+        "bbox": [
+            58,
+            598,
+            254,
+            620
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "re there any other circumstances where it may be appropriate for the Registrar to revoke the status of a Venture Studio or Venture Studio ompany? If so, please specify. ",
+        "bbox": [
+            105,
+            636,
+            954,
+            682
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Miscellaneous ",
+        "bbox": [
+            57,
+            774,
+            149,
+            789
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            649,
+            979,
+            656,
+            993
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/17807c3f1d7cc5fe39a2d783981f3fc3e7e47c830e10578c43573c9ae39fe143.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=3>what are they, and why, and how should they be addressed?</td></tr><tr><td rowspan=1 colspan=1></td><td></td><td></td></tr><tr><td rowspan=1 colspan=1></td><td></td><td></td></tr><tr><td rowspan=1 colspan=2>Other or general comments</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td></td><td></td></tr><tr><td rowspan=1 colspan=1></td><td></td><td></td></tr></table>",
+        "bbox": [
+            51,
+            100,
+            964,
+            326
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            51,
+            919,
+            59,
+            932
+        ],
+        "page_idx": 4
+    }
+]

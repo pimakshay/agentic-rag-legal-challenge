@@ -1,0 +1,3963 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            389,
+            406,
+            605,
+            452
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW DIFC LAW NO. 4 OF 2006 ",
+        "text_level": 1,
+        "bbox": [
+            220,
+            551,
+            781,
+            631
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Consolidated Version No. 2 (March 2022) ",
+        "bbox": [
+            405,
+            673,
+            596,
+            704
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As Amended by ",
+        "bbox": [
+            443,
+            725,
+            556,
+            739
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC Law Amendment Law DIFC Law No. 2 of 2022 ",
+        "bbox": [
+            403,
+            762,
+            600,
+            794
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC Law Amendment Law DIFC Law No. 8 of 2018 ",
+        "bbox": [
+            401,
+            813,
+            600,
+            846
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            462,
+            67,
+            559,
+            83
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 1 : GENERAL.. ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            96,
+            892,
+            108
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Title ..... 1   \n2. Legislative Authority.... . 1   \n3. Application of the Law ....... .. 1   \n4. Date of enactment.. . 1   \n5. Commencement.. .. 1   \n6. Schedules... 1   \n7. Administration of the Law...   \n8. Application of the Collective Investments Law 2010.. ",
+        "bbox": [
+            124,
+            109,
+            892,
+            218
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 2 : ESTABLISHMENTS OF LIMITED PARTNERSHIPS ... ",
+        "text_level": 1,
+        "bbox": [
+            122,
+            230,
+            889,
+            243
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9. Definition and constitution of a Limited Partnership.. 2   \n10. Partnership Agreement . . 2   \n11. General Partners and Limited Partners . . 2   \n12. Registration . 2 ",
+        "bbox": [
+            126,
+            244,
+            892,
+            299
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 3 : ADMINISTRATION OF AFFAIRS OF A LIMITED PARTNERSHIP.... .... 3 ",
+        "text_level": 1,
+        "bbox": [
+            126,
+            309,
+            892,
+            324
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "13. Licence ...... . 3 ",
+        "text_level": 1,
+        "bbox": [
+            131,
+            326,
+            890,
+            337
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "14. Conduct of business in the DIFC. . 3   \n15. Records and Registers .... . 3   \n16. Management of the Limited Partnership . •••. .. 3   \n17. Maintenance of Accounting Records.. . 4   \n18. Accounts.. . 4 ",
+        "bbox": [
+            126,
+            332,
+            894,
+            407
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 4 : LIMITED PARTNERSHIP .. ",
+        "text_level": 1,
+        "bbox": [
+            124,
+            418,
+            890,
+            432
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "19. Legal person ..... ... 5   \n20. Limited Partnership property....... ....... .... 5   \n21. Power of General Partner to bind the Limited Partnership. .... 5   \n22. Partners bound by acts on behalf of Limited Partnership . .. 5   \n23. Authority to sign... .. 5   \n24. Indemnification... .. 5   \n25. Admission of additional Limited Partners .................................................................................. ....... .... 5   \n26. Assignment of interest by a Limited Partner ..................... ... 5 ",
+        "bbox": [
+            126,
+            434,
+            894,
+            542
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 5 : RIGHTS AND LIABILITIES ..... ",
+        "text_level": 1,
+        "bbox": [
+            122,
+            553,
+            892,
+            567
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "27. Rights and liabilities of a General Partner .... ....................................... ... 7   \n28. Rights and liabilities of a Limited Partner ..... ................................................................................... .... 7   \n29. Share of profits of a Limited Partner ......................................................................................................... 7   \n30. Dealings by a Limited Partner with a Limited Partnership ................................................................ .... 8   \n31. Limited Partners’ rights among themselves.... ......................................................... .... 8   \n32. Return of Limited Partner’s contribution .... ............................................................ .... 8   \n33. Limited Partner’s liability to creditors.. .................................................................................... .... 8   \n34. Liabilities of incoming and outgoing partners ................................................................................... ... 9 ",
+        "bbox": [
+            126,
+            568,
+            894,
+            678
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 6 : DISSOLUTION ... 10 ",
+        "text_level": 1,
+        "bbox": [
+            124,
+            688,
+            894,
+            701
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "35. Statement of dissolution ... \\* 10   \n36. Winding up of a Limited Partnership ................................................................................................ .. 10   \n37. Dissolution of Limited Partnership.. ...... 10   \n38. Power of Court to order dissolution. .. 10   \n39. Settling accounts on dissolution . ................... • . . .  . . . . . • . . . .  . . . • . • • • •• • • •• • • •• • • • • ..... 11 ",
+        "bbox": [
+            126,
+            705,
+            894,
+            771
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 7 : LEGAL PROCEEDINGS AND APPLICATIONS TO THECOURT.. .12 ",
+        "text_level": 1,
+        "bbox": [
+            124,
+            783,
+            890,
+            798
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "40. Legal proceedings and service of Documents . 12   \n41. Enforcement of judgments against property of a Limited Partnership 12   \n42. Order for compliance.. .12 ",
+        "bbox": [
+            126,
+            799,
+            892,
+            839
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 8 : RECOGNISED LIMITED PARTNERSHIPS... 13 ",
+        "text_level": 1,
+        "bbox": [
+            126,
+            850,
+            892,
+            864
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "43. Foreign Limited Partnerships .. . 13   \n44. Requirements of a Recognised Limited Partnership.. .13   \n45. Conduct of business in the DIFC. .13   \n46. Maintenance of Accounting Records. 13 ",
+        "bbox": [
+            124,
+            866,
+            894,
+            920
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            638,
+            21,
+            899,
+            35
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            505,
+            963,
+            515,
+            973
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 9 : GENERAL CONTRAVENTIONS .... 15 ",
+        "text_level": 1,
+        "bbox": [
+            126,
+            71,
+            894,
+            85
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "47. General Contravention Provision . .15 ",
+        "bbox": [
+            121,
+            86,
+            892,
+            98
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Part 10 : POWERS AND REMEDIES . 16 ",
+        "text_level": 1,
+        "bbox": [
+            124,
+            111,
+            892,
+            124
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "48. Application of Operating Law.. .. 16   \n49. Strike off and Restoration....... .... 16 ",
+        "bbox": [
+            124,
+            127,
+            889,
+            152
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Part 11 : TRANSFER OF LIMITED PARTNERSHIPS... .. 17 ",
+        "text_level": 1,
+        "bbox": [
+            122,
+            163,
+            894,
+            178
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "50. Transfer of Foreign Limited Partnership to DIFC . .17   \n51. Certificate of continuation . .17   \n52. Effect of certificate .. .. 17   \n53. Copy of certificate of continuation . .. 17   \n54. Rights and liabilities .. ................................. .... 17   \n55. Transfer of Limited Partnership from DIFC to another jurisdiction .. . 18   \n56. Refusal to grant authorisation to transfer a Limited Partnership . .. 18 ",
+        "bbox": [
+            126,
+            179,
+            894,
+            275
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Part 12 : MISCELLANEOUS... 19 ",
+        "text_level": 1,
+        "bbox": [
+            122,
+            286,
+            894,
+            299
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "57. Power to make Regulations ............... .......................................................... ...... 19 ",
+        "text_level": 1,
+        "bbox": [
+            126,
+            301,
+            892,
+            313
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "58. Waivers and Modification of the Regulations . . 19   \n59. Public Register . .. 19   \n60. Inspection . ............................................................................................ .. 20   \n61. Evidence in legal proceedings .......................................................................................................... ....... 20   \n62. Fees..... .................................................................................... .... 20   \n63. Advertisement in an Appointed Publication ...................................................................................... .. 20 ",
+        "bbox": [
+            126,
+            308,
+            894,
+            396
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Schedule 1 ..... .21 ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            407,
+            892,
+            421
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Schedule 2 ..... .24 ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            433,
+            892,
+            447
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            638,
+            21,
+            899,
+            35
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ii ",
+        "bbox": [
+            504,
+            963,
+            517,
+            973
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PART 1: GENERAL ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            45,
+            260,
+            60
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Title This Law may be cited as the “Limited Partnership Law $2 0 0 6 ^ { \\circ }$ . ",
+        "bbox": [
+            166,
+            74,
+            594,
+            118
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Legislative Authority ",
+        "text_level": 1,
+        "bbox": [
+            166,
+            131,
+            321,
+            146
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law is made by the Ruler of Dubai. ",
+        "bbox": [
+            168,
+            160,
+            443,
+            174
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Application of the Law ",
+        "text_level": 1,
+        "bbox": [
+            166,
+            188,
+            334,
+            203
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law applies in the jurisdiction of the Dubai International Financial Centre. ",
+        "bbox": [
+            164,
+            217,
+            705,
+            231
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Date of enactment ",
+        "text_level": 1,
+        "bbox": [
+            164,
+            245,
+            299,
+            260
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law is enacted on the date specified in the Enactment Notice in respect of this Law. ",
+        "bbox": [
+            164,
+            274,
+            766,
+            288
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Commencement ",
+        "text_level": 1,
+        "bbox": [
+            166,
+            302,
+            285,
+            317
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law comes into force on the date specified in the Enactment Notice in respect of this Law. ",
+        "bbox": [
+            168,
+            331,
+            811,
+            345
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. Schedules ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            359,
+            240,
+            374
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) Schedule 1 contains: ",
+        "bbox": [
+            168,
+            388,
+            366,
+            402
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) interpretative provisions which apply to this Law; and (b) a list of defined terms used in this Law. ",
+        "bbox": [
+            225,
+            415,
+            642,
+            460
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2) Schedule 2 contains prescribed fines for contraventions of this Law. ",
+        "bbox": [
+            156,
+            473,
+            685,
+            489
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7. Administration of the Law ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            502,
+            361,
+            516
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law and any legislation made under this Law is administered by the Registrar. ",
+        "bbox": [
+            169,
+            530,
+            729,
+            545
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8. Application of the Collective Investments Law 2010 ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            559,
+            539,
+            573
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Collective Investments Law 2010 including any rules made under that Law apply to a Limited Partnership or a Recognised Limited Partnership which is used for collective investments. In case of a conflict between this Law and the Collective Investments Law 2010 the latter shall prevail. ",
+        "bbox": [
+            168,
+            589,
+            894,
+            630
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            635,
+            16,
+            897,
+            32
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            494,
+            958,
+            504,
+            967
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PART 2: ESTABLISHMENTS OF LIMITED PARTNERSHIPS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            48,
+            573,
+            64
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "9. Definition and constitution of a Limited Partnership ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            77,
+            544,
+            93
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) A Limited Partnership may be established in the DIFC for any lawful purpose or effect by two or more persons upon the terms, with the rights and powers, and subject to the conditions, limitations, restrictions and liabilities herein mentioned. ",
+        "bbox": [
+            164,
+            106,
+            895,
+            149
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2) A Limited Partnership may consist of any number of persons but shall include: ",
+        "bbox": [
+            173,
+            163,
+            757,
+            179
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) one or more persons called General Partners, who shall be liable for all debts and obligations of the Limited Partnership; and   \n(b) one or more persons called Limited Partners, who shall at the time of entering into such partnership make a contribution either in money, money’s worth or any other property, and except as otherwise provided in this Law, who shall not be liable for the debts and obligations of the partnership beyond the amount each has contributed. ",
+        "bbox": [
+            205,
+            192,
+            894,
+            293
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10. Partnership Agreement ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            306,
+            337,
+            320
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) A Limited Partnership shall have a Partnership Agreement.   \n(2) The Partnership Agreement shall be an agreement in writing of the partners as to the affairs of the partnership and the conduct of its business.   \n(3) The Partnership Agreement shall be binding upon the partners and their assigns and upon subsequent partners in the same manner as if those persons had themselves executed it.   \n(4) A Partnership Agreement may be amended only by an instrument in writing and all amendments shall be binding on the partners in the manner mentioned in Article 10(3). ",
+        "bbox": [
+            164,
+            334,
+            895,
+            478
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "11. General Partners and Limited Partners ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            491,
+            455,
+            505
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) A person may not be a General Partner and a Limited Partner at the same time in the same Limited Partnership.   \n(2) A body corporate may be a General Partner or a Limited Partner. ",
+        "bbox": [
+            166,
+            520,
+            894,
+            579
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12. Registration ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            591,
+            258,
+            605
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) A Limited Partnership shall be registered in accordance with the provisions of this Law and the Regulations.   \n(2) To register a Limited Partnership, all General Partners shall sign and file with the Registrar an application for registration in the manner prescribed in the Regulations ",
+        "bbox": [
+            166,
+            619,
+            895,
+            700
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3) On registration of a Limited Partnership in accordance with Article 12(2), the Registrar shall: ",
+        "bbox": [
+            161,
+            705,
+            872,
+            720
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) issue a certificate of registration; and   \n(b) allocate to the Limited Partnership a number, which shall be the Limited Partnership’s registered number.   \n(4) A Limited Partnership is formed when the Registrar issues a certificate of registration under Article 12(3).   \n(5) The Registrar may refuse to register a Limited Partnership for such reason as he believes to be proper grounds for refusing such registration.   \n(6) Where the Registrar refuses to register a Limited Partnership he shall not be bound to provide any reason for his refusal and his decision shall not be subject to appeal or review by the Court. ",
+        "bbox": [
+            220,
+            733,
+            892,
+            792
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            635,
+            16,
+            897,
+            32
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            494,
+            963,
+            505,
+            973
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PART 3: ADMINISTRATION OF AFFAIRS OF A LIMITED PARTNERSHIP ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            53,
+            682,
+            70
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "13. Licence ",
+        "bbox": [
+            107,
+            83,
+            225,
+            97
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A Limited Partnership shall hold a Commercial Licence pursuant to Article 9 of the Operating Law. ",
+        "bbox": [
+            157,
+            111,
+            842,
+            125
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "14. Conduct of business in the DIFC ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            140,
+            403,
+            154
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A Limited Partnership shall comply with the requirements of this Law and Part 3 of the Operating Law, in respect to the conduct of its business in the DIFC. ",
+        "bbox": [
+            166,
+            168,
+            895,
+            197
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "15. Records and Registers ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            211,
+            329,
+            225
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) The General Partners shall keep at the registered office of the Limited Partnership: ",
+        "bbox": [
+            151,
+            238,
+            783,
+            255
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) a register showing in alphabetical order for each partner: ",
+        "bbox": [
+            223,
+            268,
+            668,
+            283
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(i) the full name and address of each partner who is an individual, or in the case of a body corporate its full name, the place where it is incorporated and its registered or principal office;   \n(ii) the date on which each person was registered as a partner;   \n(iii) the date on which each person ceased to be a partner; and   \n(iv) whether a partner is a General Partner or a Limited Partner; ",
+        "bbox": [
+            282,
+            295,
+            895,
+            427
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(b) a copy of the Limited Partnership’s certificate of registration; ",
+        "bbox": [
+            220,
+            439,
+            700,
+            454
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(c) a copy of the Partnership Agreement and each amendment made to it; ",
+        "bbox": [
+            210,
+            467,
+            757,
+            483
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(d) a statement of the amount of any contributions agreed to be made by partners and the time at which, or events on the happening of which, the contributions are to be made; ",
+        "bbox": [
+            206,
+            496,
+            897,
+            526
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(e) a statement of the amount of money and nature and value of any other property contributed by each partner and the dates thereof; and ",
+        "bbox": [
+            216,
+            539,
+            894,
+            568
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(f) such other particulars as may be prescribed in the Regulations. ",
+        "bbox": [
+            220,
+            581,
+            709,
+            597
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The General Partners shall ensure that the records kept under Article 15(1) shall be: ",
+        "bbox": [
+            228,
+            610,
+            791,
+            625
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) amended within 14 days of any change in the particulars contained therein; (b) available for inspection and copying without charge during ordinary business hours at the request of a partner. ",
+        "bbox": [
+            213,
+            638,
+            897,
+            697
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3) The information contained in the register and Documents referred to in Article 15(1) shall be deemed to be accurate, unless proven otherwise. ",
+        "bbox": [
+            171,
+            710,
+            894,
+            739
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4) All partners are entitled to access to any records or other information of the Limited Partnership. ",
+        "bbox": [
+            169,
+            752,
+            875,
+            768
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "16. Management of the Limited Partnership ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            781,
+            460,
+            796
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Article 33, a Limited Partner shall not take part in the conduct or management of the business of the Limited Partnership, and shall not transact the business of, sign or execute Documents for, or otherwise bind the Limited Partnership. ",
+        "bbox": [
+            166,
+            809,
+            895,
+            853
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) Notwithstanding the above, a Limited Partner may subject to the provisions of the Partnership Agreement: ",
+        "bbox": [
+            157,
+            866,
+            895,
+            896
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) inspect the books of the Limited Partnership; and ",
+        "bbox": [
+            223,
+            909,
+            620,
+            925
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            636,
+            21,
+            897,
+            35
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            495,
+            958,
+            505,
+            969
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(b) with such assistance as may reasonably be required of the General Partners, examine and inquire into the state and prospects of the partnership business. ",
+        "bbox": [
+            201,
+            54,
+            894,
+            84
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "17. Maintenance of Accounting Records ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            97,
+            431,
+            112
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) The Limited Partnership shall keep Accounting Records which are sufficient to show and explain its transactions so as to: ",
+        "bbox": [
+            161,
+            125,
+            895,
+            154
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) disclose with reasonable accuracy the financial position of the Limited Partnership at any time; and   \n(b) enable the partners to ensure that any accounts prepared by the Limited Partnership under this Part comply with the requirements of this Law. ",
+        "bbox": [
+            223,
+            167,
+            895,
+            241
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2) A Limited Partnership’s Accounting Records shall be: ",
+        "bbox": [
+            166,
+            254,
+            593,
+            269
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) kept at such place as the General Partners think fit unless specifically prescribed in the Regulations;   \n(b) preserved by the Limited Partnership for at least six (6) years from the date upon which they were created, or for some other period as may be prescribed in the Regulations;   \n(c) open to inspection by a partner or auditor of the Limited Partnership at all reasonable times; and   \n(d) otherwise kept and maintained in such manner as may be prescribed in the Regulations. ",
+        "bbox": [
+            221,
+            282,
+            895,
+            427
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "18. Accounts ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            440,
+            235,
+            453
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) The General Partners of a Limited Partnership shall cause accounts to be prepared in relation to each financial year of the Limited Partnership; ",
+        "bbox": [
+            161,
+            467,
+            895,
+            497
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2) The accounts shall: ",
+        "bbox": [
+            168,
+            510,
+            356,
+            526
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) be prepared in accordance with accounting principles or standards approved by the Registrar or prescribed in the Regulations;   \n(b) show a true and fair view of the profit or loss of the Limited Partnership for the period and of the state of the Limited Partnership’s affairs at the end of the period; and   \n(c) comply with any other requirements of this Law.   \n(3) A Limited Partnership’s accounts shall be approved by the General Partners and signed on their behalf by at least one of them.   \n(4) Within six (6) months after the end of the financial year, the accounts for that year shall be prepared and approved by the General Partners.   \n(5) A Limited Partnership shall file the accounts with the Registrar within 30 days of the accounts being approved by the General Partners.   \n(6) In this Part, references to “accounts” are to those prepared in accordance with this Article.   \n(7) Unless the Regulations or the Partnership Agreement otherwise provide, it shall not be necessary for a Limited Partnership to appoint an auditor or have its accounts audited. ",
+        "bbox": [
+            223,
+            538,
+            895,
+            641
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            636,
+            21,
+            897,
+            35
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            494,
+            958,
+            505,
+            967
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PART 4: LIMITED PARTNERSHIP ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            53,
+            376,
+            68
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "19. Legal person ",
+        "bbox": [
+            107,
+            83,
+            262,
+            98
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The Limited Partnership is a legal person and can sue and be sued in its own name. ",
+        "bbox": [
+            164,
+            111,
+            727,
+            127
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "20. Limited Partnership property ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            140,
+            383,
+            155
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Unless otherwise provided for in the Partnership Agreement and subject to this Law, the property of a Limited Partnership shall be held and applied by the partners exclusively for the purposes of the Limited Partnership and in accordance with the Partnership Agreement. ",
+        "bbox": [
+            166,
+            168,
+            894,
+            212
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "21. Power of General Partner to bind the Limited Partnership ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            225,
+            588,
+            241
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) A General Partner is an agent of a Limited Partnership for the purpose of conducting the business of the Limited Partnership.   \n(2) Subject to Article 23(2), the acts of a General Partner, performed in the usual course of business of the Limited Partnership, bind the Limited Partnership and his partners. ",
+        "bbox": [
+            166,
+            254,
+            895,
+            326
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "22. Partners bound by acts on behalf of Limited Partnership ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            339,
+            576,
+            353
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Subject to Article 23(2), an act or instrument relating to the business of the Limited Partnership and done or executed in the Limited Partnership’s name, or in any other manner showing an intention to bind the Limited Partnership, by a person authorised to do so, whether a partner or not, is binding on the Limited Partnership and its partners. ",
+        "bbox": [
+            166,
+            368,
+            895,
+            425
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "23. Authority to sign ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            439,
+            290,
+            454
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Article 23(2), where a General Partner executes a document on behalf of the Limited Partnership, it shall be conclusive evidence presumed in favour of any person who is not a partner that: ",
+        "bbox": [
+            168,
+            467,
+            895,
+            510
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) the General Partner had the authority under which the General Partner purports to act; and   \n(b) the executed document has been validly executed. ",
+        "bbox": [
+            225,
+            524,
+            895,
+            583
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2) A person shall not rely on Article 23(1) if: ",
+        "bbox": [
+            166,
+            596,
+            512,
+            611
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) the General Partner who executed the document had in fact no authority to act for the Limited Partnership in the particular manner; and   \n(b) the person either knew or could reasonably have known that the General Partner who acted under the purported authority had in fact no actual authority. ",
+        "bbox": [
+            223,
+            623,
+            895,
+            697
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "24. Indemnification ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            710,
+            284,
+            724
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Subject to such standards and restrictions, if any, as are set out in the Partnership Agreement, a Limited Partnership may, and shall have power to, indemnify any partner or other person from and against any and all claims and demands whatsoever. ",
+        "bbox": [
+            166,
+            738,
+            895,
+            782
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "25. Admission of additional Limited Partners ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            795,
+            468,
+            811
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Additional Limited Partners shall be admitted to a Limited Partnership in accordance with the Partnership Agreement. ",
+        "bbox": [
+            164,
+            824,
+            895,
+            853
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "26. Assignment of interest by a Limited Partner ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            866,
+            484,
+            882
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) A Limited Partner may, with the consent of the General Partners or in accordance with the terms of the Partnership Agreement, assign his share of the interest, in whole or in part, in the Limited Partnership. ",
+        "bbox": [
+            166,
+            895,
+            895,
+            939
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            636,
+            20,
+            897,
+            35
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            494,
+            958,
+            505,
+            969
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2) The assignee shall not become a Limited Partner in the Limited Partnership until the assignee’s ownership of the assigned interest is entered into the register referred to in Article 15(1)(a). ",
+        "bbox": [
+            166,
+            54,
+            895,
+            97
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            494,
+            958,
+            505,
+            967
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            635,
+            21,
+            897,
+            34
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PART 5: RIGHTS AND LIABILITIES ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            49,
+            391,
+            65
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "27. Rights and liabilities of a General Partner ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            78,
+            470,
+            93
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) A General Partner in a Limited Partnership has all the rights and powers including those incidental to the discharge of his functions subject only to the restrictions and liabilities in the Partnership Agreement and under this Law. ",
+        "bbox": [
+            166,
+            108,
+            894,
+            150
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2) A General Partner shall carry out all the functions necessary and connected with the conduct of business of the Limited Partnership, and shall discharge all obligations imposed on it, in its capacity as a General Partner of the Limited Partnership or on the Limited Partnership, unless otherwise provided for in the Partnership Agreement or under this Law. ",
+        "bbox": [
+            166,
+            163,
+            894,
+            222
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3) A General Partner shall not, without the prior written consent of all the Limited Partners: ",
+        "bbox": [
+            169,
+            235,
+            826,
+            250
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) do any act which in any way restricts the Limited Partnership’s ability to conduct its business in accordance with the Partnership Agreement; or ",
+        "bbox": [
+            206,
+            263,
+            892,
+            293
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(b) use or dispose of any Limited Partnership property, or any rights in Limited Partnership property, for a purpose other than that set out in the Partnership Agreement or under the Law, except where an immediate action is required in the best interest of all the partners. If any such action is taken without prior written consent of all the other partners, the General Partners shall take all reasonable steps to have all partners ratify that action as soon as possible. ",
+        "bbox": [
+            225,
+            307,
+            892,
+            393
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4) Any property of a Limited Partnership which is transferred to or vested in or held on behalf of any one or more of the General Partners or which is transferred into or vested in the name of the Limited Partnership shall be held or deemed to be held by the General Partner, or, if more than one, by the General Partners jointly, as an asset of the Limited Partnership in accordance with the terms of the Partnership Agreement. ",
+        "bbox": [
+            166,
+            407,
+            894,
+            478
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(5) Any debt or obligation incurred by a General Partner in the conduct of the activities of a Limited Partnership shall be a debt or obligation of the Limited Partnership. ",
+        "bbox": [
+            161,
+            492,
+            892,
+            521
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A General Partner shall be liable in the event of the insolvency of the Limited Partnership for all debts and obligations of the Limited Partnership. ",
+        "bbox": [
+            208,
+            535,
+            890,
+            564
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "28. Rights and liabilities of a Limited Partner ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            578,
+            468,
+            593
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) A Limited Partner has the same rights as a General Partner: ",
+        "bbox": [
+            164,
+            606,
+            628,
+            621
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) during business hours, to inspect and make copies of or take extracts from the Limited Partnership books and records;   \n(b) to be given, on demand, true and full information of all things affecting the Limited Partnership and to be given a formal account of partnership affairs whenever circumstances render it just and reasonable. ",
+        "bbox": [
+            223,
+            634,
+            894,
+            722
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2) A Limited Partner shall not be entitled to dissolve the Limited Partnership by notice. ",
+        "bbox": [
+            161,
+            735,
+            796,
+            749
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3) Subject to any provision, express or implied, of the Partnership Agreement to the contrary, a Limited Partnership shall not be dissolved by the death, legal incapacity, bankruptcy, retirement or withdrawal from the Limited Partnership of a Limited Partner who is an individual, or in the case of a body corporate, its dissolution, bankruptcy or withdrawal from the Limited Partnership. ",
+        "bbox": [
+            166,
+            763,
+            894,
+            820
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "29. Share of profits of a Limited Partner ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            834,
+            433,
+            850
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) A Limited Partner has, subject to this Law and the Partnership Agreement, the right to a share of the profits of the Limited Partnership.   \n(2) A Limited Partner may receive from the Limited Partnership the share of the profits, or any part of it, as set out in the Partnership Agreement only if the General Partners should reasonably ",
+        "bbox": [
+            154,
+            863,
+            894,
+            935
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            635,
+            16,
+            895,
+            32
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            494,
+            967,
+            504,
+            978
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "believe that the partnership is, and will be for the next 12 months after the share of the profits is paid, able to meet its debts as and when they fall due in the normal course of business. ",
+        "bbox": [
+            223,
+            51,
+            894,
+            79
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3) In the event that a payment is made contrary to Article 30(2), any sum so paid becomes a debt due by the Limited Partner to the Limited Partnership and is immediately repayable. ",
+        "bbox": [
+            161,
+            93,
+            892,
+            122
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "30. Dealings by a Limited Partner with a Limited Partnership ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            135,
+            586,
+            150
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) A Limited Partner may lend money to, borrow money from and enter into transactions with the Limited Partnership unless otherwise provided in the Partnership Agreement.   \n(2) In the event that a Limited Partner has borrowed any money from the Limited Partnership under Article 30(1), such moneys shall be repaid to the Limited Partnership immediately after the commencement of any proceedings to dissolve the Limited Partnership. ",
+        "bbox": [
+            154,
+            163,
+            894,
+            250
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "31. Limited Partners’ rights among themselves ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            264,
+            480,
+            279
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Limited partners in relation to one another, shall rank: ",
+        "bbox": [
+            168,
+            293,
+            531,
+            307
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) equally in respect of the return of their contributions; and (b) pro rata to those contributions in respect of profits. ",
+        "bbox": [
+            166,
+            320,
+            621,
+            365
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "32. Return of Limited Partner’s contribution ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            377,
+            465,
+            393
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to this Law, a Limited Partner has a right to claim the return of all or part of his contribution: ",
+        "bbox": [
+            163,
+            407,
+            894,
+            435
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) on the dissolution of the Limited Partnership subject to Article 32(2); or   \n(b) in accordance with any provision included in the Partnership Agreement relating to its return, provided that the General Partners should reasonably believe that the partnership is, and will be for the next 12 months after the contribution is returned, able to meet its debts as and when they fall due in the normal course of business. ",
+        "bbox": [
+            206,
+            448,
+            894,
+            535
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2) In the event of the dissolution of a Limited Partnership, no Limited Partner shall, be allowed to claim or otherwise withdraw any part of his contribution, until the claims of all the other creditors of the Limited Partnership, and all charges thereon, have been fully paid or satisfied. ",
+        "bbox": [
+            166,
+            549,
+            894,
+            606
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3) In this Article “payment” includes the release of any obligation forming part of the capital contribution. ",
+        "bbox": [
+            164,
+            621,
+            890,
+            649
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "33. Limited Partner’s liability to creditors ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            663,
+            443,
+            679
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Article 33(2) and except as provided in this Law, a Limited Partner is not liable for the debts or obligations of the Limited Partnership. ",
+        "bbox": [
+            161,
+            692,
+            894,
+            722
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2) Subject to Article 33(3) and (4), if a Limited Partner participates in the management of the Limited Partnership in its dealings with persons who are not partners, that Limited Partner shall be liable for all debts and obligations of the Limited Partnership incurred during the period that he participated in the management of the Limited Partnership as though he were for that period a General Partner. ",
+        "bbox": [
+            166,
+            733,
+            894,
+            806
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3) A Limited Partner shall be liable under Article 33(2) only to a person who transacts with the Limited Partnership with actual knowledge of the participation of the Limited Partner in the management of the Limited Partnership and who then reasonably believed the Limited Partner to be a General Partner. ",
+        "bbox": [
+            166,
+            820,
+            892,
+            877
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(4) A Limited Partner does not participate in the management of a Limited Partnership for the purposes of this Article merely by doing one or more of the following: ",
+        "bbox": [
+            163,
+            891,
+            892,
+            921
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            635,
+            16,
+            895,
+            32
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            494,
+            969,
+            504,
+            978
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) being a contractor for or an agent or employee of the Limited Partnership or of a General Partner or acting as a director, officer or shareholder of a corporate General Partner provided the capacity in which the Limited Partner is so acting is made clear to any third party dealing with the Limited Partnership; ",
+        "bbox": [
+            225,
+            51,
+            894,
+            108
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(b) consulting with and advising a General Partner with respect to the activities of the Limited Partnership including being an advisory member of an investment or other committee; ",
+        "bbox": [
+            223,
+            121,
+            894,
+            163
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(c) investigating, reviewing, approving or being advised as to the accounts or affairs of the Limited Partnership or exercising any right conferred by this Law; ",
+        "bbox": [
+            216,
+            178,
+            894,
+            207
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(d) acting as surety or guarantor for the Limited Partnership either generally or in respect of specific obligations; ",
+        "bbox": [
+            210,
+            220,
+            895,
+            250
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(e) approving or disapproving an amendment to the Partnership Agreement; or (f) voting on, or otherwise signifying approval or disapproval of, one or more of the following: ",
+        "bbox": [
+            216,
+            263,
+            794,
+            279
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(i) the dissolution and winding up of the Limited Partnership;   \n(ii) the purchase, sale, exchange, lease, pledge, hypothecation, creation of a security interest, or other dealing in any asset by or of the Limited Partnership;   \n(iii) the creation or renewal of an obligation by the Limited Partnership;   \n(iv) a change in the nature of the activities of the Limited Partnership;   \n(v) the admission, removal or withdrawal of a General Partner or a Limited Partner and the continuation of the Limited Partnership thereafter; or   \n(vi) transactions in which one or more of the General Partners have an actual or potential conflict of interest with one or more of the Limited Partners; or ",
+        "bbox": [
+            278,
+            332,
+            853,
+            577
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(g) bringing an action on behalf of the Limited Partnership pursuant to Article 41(3) and taking subsequent steps in relation thereto. ",
+        "bbox": [
+            215,
+            592,
+            894,
+            621
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(5) Article 33(4) shall not import any implication that the possession or exercise of any other power by a Limited Partner will necessarily constitute the participation by such Limited Partner in the management of the Limited Partnership. ",
+        "bbox": [
+            169,
+            635,
+            894,
+            678
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "34. Liabilities of incoming and outgoing partners ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            692,
+            492,
+            706
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) A person who is admitted as a partner, not by way of an assignment, into an existing Limited Partnership does not become liable to the creditors of the Limited Partnership for anything done before he became a partner.   \n(2) An outgoing partner is not liable for the Limited Partnership debts or obligations incurred after he ceases to be a partner.   \n(3) An outgoing partner or the estate of a deceased partner may be discharged by agreement with the Limited Partnership, from any liabilities existing at the date when he ceased to be a partner. ",
+        "bbox": [
+            156,
+            719,
+            895,
+            850
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            635,
+            17,
+            895,
+            30
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            494,
+            969,
+            504,
+            978
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "PART 6: DISSOLUTION ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            49,
+            294,
+            65
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "35. Statement of dissolution ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            78,
+            342,
+            93
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) Except as provided in Articles 37 and 38, a Limited Partnership shall not be dissolved by an act of the partners until a statement of dissolution signed by all the General Partners has been delivered by a General Partner to the Registrar.   \n(2) When a statement of dissolution is delivered to the Registrar, the Registrar shall cancel the registration of the Limited Partnership. ",
+        "bbox": [
+            156,
+            106,
+            894,
+            193
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "36. Winding up of a Limited Partnership ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            206,
+            436,
+            222
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) In the event of the dissolution of a Limited Partnership its affairs shall be wound up by the General Partners unless the activities of the Limited Partnership are taken over and continued in accordance with Article 37(2) or unless the Court otherwise directs under Article 38(2). ",
+        "bbox": [
+            166,
+            236,
+            894,
+            279
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) After the dissolution of a Limited Partnership the authority of the General Partner to bind the Limited Partnership, and the other rights and obligations of the partners, continue notwithstanding the dissolution so far as may be necessary to wind up the affairs of the Limited Partnership, and to complete transactions begun but unfinished at the time of the dissolution, but not otherwise. ",
+        "bbox": [
+            166,
+            292,
+            894,
+            350
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "37. Dissolution of Limited Partnership ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            363,
+            418,
+            378
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) Notwithstanding any provision, express or implied, of the Partnership Agreement to the contrary, but subject to Article 37(2): ",
+        "bbox": [
+            163,
+            393,
+            892,
+            421
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) where the sole or last remaining General Partner is an individual, the General Partner’s death, legal incapacity, bankruptcy, retirement or withdrawal from the Limited Partnership; or   \n(b) where the sole or last remaining General Partner is a body corporate, its dissolution, insolvency or withdrawal from the Limited Partnership, ",
+        "bbox": [
+            213,
+            434,
+            894,
+            521
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "shall cause the immediate dissolution of the Limited Partnership which shall forthwith be wound up in accordance with the Partnership Agreement or, on the application of a Limited Partner or a creditor of the Limited Partnership, in accordance with the directions of the Court. ",
+        "bbox": [
+            226,
+            535,
+            892,
+            578
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) A Limited Partnership shall not be required to be wound up under Article 37(1) if, within 90 days of the dissolution, the Limited Partners, either unanimously or as otherwise provided for in the Partnership Agreement, elect one or more General Partners, in which event the Limited Partnership shall be deemed not to have been dissolved and the activities of the Limited Partnership may be taken over and continued as provided for in the Partnership Agreement or a subsequent agreement. ",
+        "bbox": [
+            166,
+            592,
+            894,
+            678
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(3) If a Limited Partnership is dissolved under Article 37(1), and the activities of the Limited Partnership are not taken over and continued in accordance with Article 37(2), a statement of dissolution signed by a Limited Partner shall be delivered by him to the Registrar who shall thereupon cancel the registration of the Limited Partnership. ",
+        "bbox": [
+            166,
+            692,
+            894,
+            749
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "38. Power of Court to order dissolution ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            763,
+            423,
+            777
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) The Court may, on the application of a partner, the Registrar or the DFSA, order the dissolution of a Limited Partnership if it is satisfied that: ",
+        "bbox": [
+            163,
+            792,
+            892,
+            820
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) the Limited Partnership is being conducted in a manner calculated or likely to affect prejudicially the carrying out of the activities of the Limited Partnership;   \n(b) the Limited Partnership is being conducted in a manner oppressive to one or more of the Limited Partners; or ",
+        "bbox": [
+            223,
+            834,
+            894,
+            906
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            635,
+            16,
+            895,
+            32
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            490,
+            969,
+            509,
+            979
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(c) circumstances have arisen which render it just and equitable that the Limited Partnership be dissolved. ",
+        "bbox": [
+            211,
+            51,
+            894,
+            78
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) Where an order is made under Article 38(1) the Court may give such directions as it thinks fit as to the winding up of the Limited Partnership. ",
+        "bbox": [
+            161,
+            92,
+            894,
+            122
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(3) When a Limited Partnership has been dissolved under this Article the partner making the application shall cause the relevant order of the Court to be delivered to the Registrar within 30 days after the making of the order and the Registrar shall thereupon cancel the registration of the Limited Partnership. ",
+        "bbox": [
+            166,
+            135,
+            894,
+            193
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "39. Settling accounts on dissolution ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            207,
+            393,
+            222
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Where accounts are settled after the dissolution of a Limited Partnership, the liabilities of the Limited Partnership to creditors shall be paid first and then, subject to the Partnership Agreement or any other agreement between the Limited Partnership and the creditor, the liabilities of the Limited Partnership shall be paid in the following order: ",
+        "bbox": [
+            166,
+            236,
+            894,
+            293
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) to Limited Partners other than for capital and profits;   \n(b) to General Partners other than for capital and profits;   \n(c) to Limited Partners in respect of the capital of their contributions;   \n(d) to Limited Partners in respect of the profits on their contributions;   \n(e) to General Partners in respect of capital; and (f) to General Partners in respect of profits. ",
+        "bbox": [
+            154,
+            306,
+            680,
+            465
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            635,
+            17,
+            895,
+            30
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "PART 7: LEGAL PROCEEDINGS AND APPLICATIONS TO THECOURT ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            49,
+            667,
+            65
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "40. Legal proceedings and service of Documents ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            78,
+            487,
+            93
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) Except as provided in this Law, legal proceedings by or against a Limited Partnership shall be instituted by or against the Limited Partnership or any one or more of the General Partners in their capacity as General Partners only and no Limited Partner shall be a party to or named in such proceedings. ",
+        "bbox": [
+            164,
+            106,
+            894,
+            165
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) A General Partner or, with the leave of the Court, any other person shall have the right to join or otherwise institute proceedings against one or more of the Limited Partners who may be liable pursuant to Article 33(3). ",
+        "bbox": [
+            157,
+            178,
+            894,
+            222
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3) A Limited Partner may bring an action on behalf of a Limited Partnership if any one or more of the General Partners with authority to do so has, without good cause, refused to institute such proceedings. ",
+        "bbox": [
+            166,
+            235,
+            895,
+            279
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(4) For the purposes of this Law, service of a Document on a General Partner in respect of a Limited Partnership may be effected by: ",
+        "bbox": [
+            159,
+            292,
+            895,
+            321
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) delivering it to the General Partner; or (b) sending it by post or delivering it to the registered office of the Limited Partnership. ",
+        "bbox": [
+            223,
+            334,
+            848,
+            380
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "41. Enforcement of judgments against property of a Limited Partnership ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            393,
+            667,
+            407
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Article 41(3), no judgment shall be enforced against any property of a Limited Partnership unless such judgment has been granted against the Limited Partnership or a General Partner in his capacity as a General Partner of that Limited Partnership. ",
+        "bbox": [
+            166,
+            421,
+            894,
+            464
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) Creditors of a General Partner or a Limited Partner, in that partner’s capacity other than as a General Partner or a Limited Partner of the Limited Partnership, shall have no claim against the property of that Limited Partnership. ",
+        "bbox": [
+            157,
+            477,
+            894,
+            521
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3) Nothing in Article 41(1) shall preclude the enforcement of an order of the Court relating to property of a Limited Partnership in any case where, by reason of any of the events mentioned in Article 37(1)(a) or (b), a judgment could not be granted against a General Partner in his capacity as a General Partner of that Limited Partnership. ",
+        "bbox": [
+            166,
+            535,
+            894,
+            593
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "42. Order for compliance ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            606,
+            324,
+            621
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Where a person who is required by this Law to sign, deliver or permit inspection or copying of a document refuses to do so, a person who is aggrieved by the refusal may apply to the Court for an order directing the person to comply with the provisions of this Law and upon such application the Court may make such order or any other order it considers appropriate in the circumstances. ",
+        "bbox": [
+            166,
+            635,
+            894,
+            692
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            635,
+            16,
+            895,
+            32
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "12 ",
+        "bbox": [
+            490,
+            963,
+            509,
+            973
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "PART 8: RECOGNISED LIMITED PARTNERSHIPS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            49,
+            502,
+            65
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "43. Foreign Limited Partnerships ",
+        "bbox": [
+            107,
+            78,
+            383,
+            93
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) A Foreign Limited Partnership shall not carry on business in the DIFC unless it is registered as a Recognised Limited Partnership under this Part.   \n(2) A Foreign Limited Partnership may apply to the Registrar for registration as a Recognised Limited Partnership in such manner as shall be prescribed in the Regulations. ",
+        "bbox": [
+            159,
+            106,
+            895,
+            179
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "44. Requirements of a Recognised Limited Partnership ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            192,
+            537,
+            207
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) A Recognised Limited Partnership shall: ",
+        "bbox": [
+            163,
+            220,
+            502,
+            236
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) appoint and retain at all times at least one person who is authorised to accept service of any document or notice on behalf of the Recognised Limited Partnership and to undertake any other function as may be prescribed in the Regulations;   \n(b) have a principal place of business in the DIFC to which all communications and notices may be addressed;   \n(c) hold a Licence pursuant to Article 9 of the Operating Law, unless exempted by the Registrar; and ",
+        "bbox": [
+            211,
+            249,
+            895,
+            380
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(d) file with the Registrar notice of: ",
+        "bbox": [
+            223,
+            393,
+            504,
+            407
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(i) appointment of persons authorised to accept service;   \n(ii) address of the principal place of business in the DIFC;   \n(iii) any change in the details of persons authorised to accept service and the address of its principal place of business in the DIFC; and   \n(iv) any change in the constitution of a Recognised Limited Partnership, by the incoming or outgoing of any General Partner. ",
+        "bbox": [
+            285,
+            420,
+            852,
+            551
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "in the form and manner required in the Regulations. ",
+        "bbox": [
+            284,
+            564,
+            636,
+            578
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(2) The Board of Directors of the DIFCA may make Regulations: ",
+        "bbox": [
+            164,
+            591,
+            645,
+            606
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) prescribing procedures in relation to requirements under this Part; and (b) waiving or modifying any requirements under this Part in relation to different cases or classes of cases. ",
+        "bbox": [
+            223,
+            619,
+            894,
+            678
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "45. Conduct of business in the DIFC ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            692,
+            403,
+            706
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A Recognised Limited Partnership shall comply with the requirements of this Law and where applicable, Part 3 of the Operating Law, in respect to the conduct of its business in the DIFC. ",
+        "bbox": [
+            166,
+            720,
+            892,
+            749
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "46. Maintenance of Accounting Records ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            762,
+            430,
+            777
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) A Recognised Limited Partnership shall keep Accounting Records which are sufficient to show and explain its transactions so as to: ",
+        "bbox": [
+            161,
+            792,
+            894,
+            820
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) disclose with reasonable accuracy the financial position of the Recognised Limited Partnership at any time; and   \n(b) enable the partners to ensure that any accounts prepared by the Recognised Limited Partnership under this Part comply with the requirements of this Law. ",
+        "bbox": [
+            223,
+            834,
+            894,
+            906
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(2) A Recognised Limited Partnership’s Accounting Records shall be: ",
+        "bbox": [
+            159,
+            920,
+            677,
+            935
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            635,
+            16,
+            897,
+            32
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) kept at such place as the partners think fit unless specifically prescribed in the Regulations;   \n(b) preserved by the Recognised Limited Partnership for at least six (6) years from the date upon which they were created, or for some other period as may be prescribed in the Regulations;   \n(c) open to inspection by a partner or auditor of the Recognised Limited Partnership at all reasonable times; and   \n(d) otherwise kept and maintained in such manner as may be prescribed in the Regulations. ",
+        "bbox": [
+            221,
+            49,
+            895,
+            209
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            635,
+            17,
+            895,
+            30
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "PART 9: GENERAL CONTRAVENTIONS ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            49,
+            425,
+            65
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "47. General Contravention Provision ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            78,
+            408,
+            93
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(1) A person who: ",
+        "bbox": [
+            168,
+            108,
+            327,
+            122
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) does an act or thing that the person is prohibited from doing by or under an Article of this Law referred to in Schedule 2;   \n(b) does not do an act or thing that the person is required or directed to do under an Article of this Law referred to in Schedule 2; or   \n(c) otherwise contravenes an Article of this Law referred to in Schedule 2, ",
+        "bbox": [
+            223,
+            135,
+            894,
+            237
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "commits a contravention of this Law. ",
+        "bbox": [
+            226,
+            250,
+            478,
+            264
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(2) In Article 47(1), “person” does not include the DIFCA, Registrar or President. ",
+        "bbox": [
+            164,
+            277,
+            754,
+            293
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            635,
+            16,
+            895,
+            32
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "15 ",
+        "bbox": [
+            490,
+            972,
+            509,
+            983
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "PART 10: POWERS AND REMEDIES ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            49,
+            393,
+            65
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "48. Application of Operating Law ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            78,
+            386,
+            93
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Part 5 of the Operating Law applies to a Limited Partnership or Recognised Limited Partnership in respect of the powers and remedies of the Registrar. ",
+        "bbox": [
+            163,
+            108,
+            894,
+            135
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "49. Strike off and Restoration ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            150,
+            356,
+            163
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The provisions of Articles 32 and 33 of the Operating Law apply to a Limited Partnership and, so far as the law allows, a Recognised Limited Partnership. ",
+        "bbox": [
+            164,
+            179,
+            894,
+            207
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            635,
+            16,
+            895,
+            32
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "PART 11: TRANSFER OF LIMITED PARTNERSHIPS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            49,
+            515,
+            65
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "50. Transfer of Foreign Limited Partnership to DIFC ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            78,
+            526,
+            93
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to the Partnership Agreement, a Foreign Limited Partnership may if authorised by the laws of the jurisdiction in which it was formed apply to the Registrar for the continuation of the Foreign Limited Partnership as a Limited Partnership. ",
+        "bbox": [
+            166,
+            108,
+            897,
+            150
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(2) An application for continuation shall be made to the Registrar in the manner prescribed in the Regulations and shall be: ",
+        "bbox": [
+            154,
+            163,
+            895,
+            193
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(a) executed under seal and signed by a General Partner of the Foreign Limited Partnership and verified by an affidavit of the person signing the application; (b) accompanied by the Partnership Agreement that complies with Article 10; and (c) accompanied by any other Document prescribed by the Registrar. ",
+        "bbox": [
+            223,
+            206,
+            897,
+            294
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "On application, the Foreign Limited Partnership shall amend the Partnership Agreement to conform to this Law and any other relevant law applicable in the DIFC. ",
+        "bbox": [
+            200,
+            307,
+            897,
+            336
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "51. Certificate of continuation ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            349,
+            359,
+            364
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(1) Once the Registrar approves the application, the Registrar shall: ",
+        "bbox": [
+            164,
+            377,
+            658,
+            393
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(a) issue a certificate of continuation on the terms and conditions the Registrar considers appropriate;   \n(b) register the Limited Partnership as a Limited Partnership; and   \n(c) allocate to the Limited Partnership a number, which shall be the Limited Partnership’s registered number. ",
+        "bbox": [
+            223,
+            406,
+            897,
+            508
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(2) The Registrar may refuse to issue a certificate of continuation if he considers it appropriate to do so. This decision is final and not subject to appeal or review by the Court. ",
+        "bbox": [
+            161,
+            521,
+            895,
+            551
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The Registrar is not required to provide reasons for refusing to issue a certificate of continuation. ",
+        "bbox": [
+            200,
+            562,
+            878,
+            578
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "52. Effect of certificate ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            591,
+            305,
+            606
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "From the date of continuation stated in the certificate of continuation: ",
+        "bbox": [
+            164,
+            621,
+            635,
+            635
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(a) the Foreign Limited Partnership becomes a Limited Partnership to which this Law applies as if it has been formed or established under this Law; and   \n(b) the certificate of continuation is treated as the certificate of registration of the Limited Partnership. ",
+        "bbox": [
+            163,
+            648,
+            897,
+            722
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "53. Copy of certificate of continuation ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            733,
+            415,
+            749
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The Registrar shall send a copy of the certificate of continuation to the appropriate official or public body in the jurisdiction in which the application for continuation was authorised. ",
+        "bbox": [
+            163,
+            763,
+            895,
+            792
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "54. Rights and liabilities ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            806,
+            315,
+            820
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Where a Foreign Limited Partnership is continued as a Limited Partnership under this Law, the Limited Partnership: ",
+        "bbox": [
+            164,
+            834,
+            895,
+            863
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(a) continues to have all the property, rights and privileges and is subject to all the liabilities and restrictions that it had before the continuation; and   \n(b) remains a party in any legal proceedings commenced in any jurisdiction in which it was a party before the continuation. ",
+        "bbox": [
+            164,
+            876,
+            895,
+            948
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            638,
+            16,
+            899,
+            32
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "17 ",
+        "bbox": [
+            492,
+            971,
+            510,
+            983
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "55. Transfer of Limited Partnership from DIFC to another jurisdiction ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            49,
+            652,
+            65
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(1) A Limited Partnership may, if it is authorised: ",
+        "bbox": [
+            157,
+            78,
+            537,
+            93
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(a) under the laws of the jurisdiction in which it is to be continued; and (b) by the Partnership Agreement; or if the agreement is silent, (c) by approval of all the General Partners and Limited Partners; and (d) by the Registrar in the manner prescribed in the Regulations, ",
+        "bbox": [
+            223,
+            106,
+            741,
+            209
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "apply to the appropriate official or public body of a foreign jurisdiction to transfer the Limited Partnership to the foreign jurisdiction and request that the Limited Partnership be continued as a Foreign Limited Partnership. ",
+        "bbox": [
+            223,
+            222,
+            895,
+            264
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(2) A Limited Partnership shall not apply under Article 55(1) unless the laws of the foreign jurisdiction provide that the Foreign Limited Partnership: (a) will continue to have all the property, rights and privileges and is subject to all the liabilities, disabilities and debts that it had before the continuation; and (b) will remain a party in any legal proceedings commenced in any jurisdiction in which it was a party before the continuation. ",
+        "bbox": [
+            163,
+            279,
+            897,
+            394
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(3) A Limited Partnership ceases to be a Limited Partnership within the meaning of this Law when the Limited Partnership is continued as a Foreign Limited Partnership and when the Foreign Limited Partnership files with the Registrar a copy of the certificate or instrument of continuation certified by the appropriate official of the foreign jurisdiction.   \n(4) When the Registrar receives the foreign jurisdiction’s certificate or instrument of continuation, the Registrar shall strike the name of the Limited Partnership off the Register. ",
+        "bbox": [
+            161,
+            407,
+            897,
+            508
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "56. Refusal to grant authorisation to transfer a Limited Partnership ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            521,
+            628,
+            535
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(1) The Registrar may refuse to authorise a Limited Partnership to apply to be continued under Article   \n55(1). (2) The Limited Partnership may appeal to the Court from a decision of the Registrar under Article   \n55(1). ",
+        "bbox": [
+            154,
+            548,
+            900,
+            621
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            638,
+            16,
+            899,
+            32
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "18 ",
+        "bbox": [
+            492,
+            972,
+            510,
+            983
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "PART 12: MISCELLANEOUS ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            66,
+            334,
+            82
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "57. Power to make Regulations ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            96,
+            366,
+            110
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(1) The Board of Directors of the DIFCA may make Regulations to facilitate the administration of, or further the objects of, this Law. ",
+        "bbox": [
+            159,
+            123,
+            892,
+            153
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(2) Without limiting the generality of Article 57(1), such Regulations may be made in relation to: ",
+        "bbox": [
+            161,
+            166,
+            865,
+            183
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(a) the objectives, powers or functions of the Registrar under this Law;   \n(b) forms, procedures, notice and requirements under this Law;   \n(c) the filing of certain material;   \n(d) the manner in which such material shall be filed;   \n(e) which material, or parts of the material, shall be made available for viewing by the public;   \n(f) the use of an electronic or computer-based system for the filing, delivery or deposit of, Documents or information required under or governed by the Law and Regulations;   \n(g) the circumstances in which persons shall be deemed to have signed or certified Documents on an electronic or computer-based system for any purpose under the Law; and   \n(h) the payment of fees to the Registrar. ",
+        "bbox": [
+            221,
+            193,
+            890,
+            468
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(3) Articles 46 and 47 of the Operating Law apply to the making of Regulations under this Law. ",
+        "bbox": [
+            166,
+            481,
+            850,
+            497
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(4) Where any Regulation made under this Law purports to be made in the exercise of a particular power or powers, it shall be taken also to be made in the exercise of all the powers under which it may be made. ",
+        "bbox": [
+            166,
+            510,
+            889,
+            552
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(5) Without limiting the generality of Article 57(1), the Regulations under this Article may: ",
+        "bbox": [
+            171,
+            567,
+            821,
+            582
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(a) make different provision for different cases or circumstances;   \n(b) include supplementary, incidental and consequential provision;   \n(c) be made to facilitate the administration of, or further the purposes of this Law and another law, or other laws; and   \n(d) where made to facilitate the administration of, or further the purposes of another law, require the doing of an act or thing in default of which a fine is payable under that law. ",
+        "bbox": [
+            223,
+            594,
+            890,
+            725
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "58. Waivers and Modification of the Regulations ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            737,
+            490,
+            752
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The powers to waive and modify the Operating Law and Regulations contained in Article 60 of the Operating Law, shall apply to this Law or Regulations made thereunder. ",
+        "bbox": [
+            166,
+            766,
+            889,
+            795
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "59. Public Register ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            809,
+            277,
+            824
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(1) The Registrar shall publish and maintain a register of current and past registrations of Limited Partnerships in such a manner as may be prescribed in the Regulations.   \n(2) The Registrar shall publish and maintain a register of current and past registrations of Recognised Limited Partnerships in such a manner as may be prescribed in the Regulations. ",
+        "bbox": [
+            166,
+            838,
+            890,
+            910
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            630,
+            32,
+            890,
+            46
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "19 ",
+        "bbox": [
+            489,
+            959,
+            507,
+            970
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(3) The Registrar shall make a reasonably current version of any register, maintained under this Article freely available for viewing by the public on the website of the DIFC. ",
+        "bbox": [
+            159,
+            67,
+            889,
+            96
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "60. Inspection ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            110,
+            243,
+            124
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Any person may require a certified copy of the certificate of registration, a certificate of good standing or a copy of or extract from any registered statement filed in relation to a Limited Partnership or Recognised Limited Partnership to be certified as a true copy by the Registrar on payment of such fees as may be prescribed in the Regulations. ",
+        "bbox": [
+            166,
+            139,
+            889,
+            196
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "61. Evidence in legal proceedings ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            210,
+            381,
+            224
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "A certificate of registration, a certificate of good standing or a copy of or an extract from a registered statement filed with the Registrar issued under this Law, if certified by the Registrar to be a true copy, shall be received in evidence in all legal proceedings. ",
+        "bbox": [
+            166,
+            239,
+            889,
+            281
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "62. Fees ",
+        "bbox": [
+            105,
+            296,
+            201,
+            310
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(1) The Board of Directors of the DIFCA may make Regulations requiring the payment to the Registrar of such fees as may be prescribed in respect of: ",
+        "bbox": [
+            159,
+            324,
+            892,
+            353
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(a) the performance by the Registrar of such functions under this Law as may be specified in the Regulations, including the receipt by him of any document under this Law which is required to be delivered to him; and ",
+        "bbox": [
+            213,
+            367,
+            890,
+            410
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "the inspection of Documents or other material held by him under this Law. ",
+        "bbox": [
+            260,
+            424,
+            789,
+            439
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(2) The Registrar may charge a fee for any services provided by him otherwise than in pursuance of an obligation imposed on him by this Law. ",
+        "bbox": [
+            156,
+            453,
+            889,
+            482
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(3) Where a fee is provided for or charged under this Article for the performance of an act or duty by the Registrar, no action need be taken by him until the fee is paid, and where the fee is payable on the receipt by him of a document required to be delivered to him he shall be deemed not to have received it until the fee is paid. ",
+        "bbox": [
+            166,
+            495,
+            889,
+            552
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "63. Advertisement in an Appointed Publication ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            567,
+            478,
+            581
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Notice of any arrangement or transaction under which any person will cease to be a General Partner in a Limited Partnership and become a Limited Partner in that partnership, shall be forthwith advertised in an Appointed Publication in the manner prescribed in the Regulations and until notice of the arrangement or transaction is so advertised, the arrangement or transaction shall, for the purposes of the Law, be deemed to be of no effect. ",
+        "bbox": [
+            166,
+            595,
+            889,
+            667
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            630,
+            32,
+            889,
+            46
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 1 INTERPRETATION ",
+        "text_level": 1,
+        "bbox": [
+            418,
+            80,
+            576,
+            110
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "1. Rules of interpretation ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            124,
+            332,
+            139
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(1) In this Law, unless the context requires otherwise, a reference to: ",
+        "bbox": [
+            161,
+            152,
+            667,
+            167
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(a) a statutory provision includes a reference to the statutory provision as amended or reenacted from time to time; ",
+        "bbox": [
+            213,
+            181,
+            887,
+            210
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(b) a “ person” includes any natural person, body corporate or body unincorporate, including a company, partnership, unincorporated association, government, an agency of the government or state; ",
+        "bbox": [
+            211,
+            224,
+            889,
+            267
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(c) an obligation to publish or cause to be published a particular document shall, unless expressly provided otherwise in the Law, include publishing or causing to be published in printed or electronic form; ",
+        "bbox": [
+            216,
+            280,
+            887,
+            324
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(d) a “day” means a calendar day, unless expressly stated otherwise. If an obligation falls on a calendar day which is either a Saturday, Sunday or an official public holiday, the obligation shall take place on the next calendar day which is a business day; ",
+        "bbox": [
+            221,
+            338,
+            889,
+            381
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(e) a “business day” means a calendar day, excluding Saturdays, Sundays or official public holidays; ",
+        "bbox": [
+            223,
+            395,
+            887,
+            424
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(f) a “week” shall mean a calendar week or seven (7) days, whichever is applicable in the circumstances; ",
+        "bbox": [
+            208,
+            438,
+            887,
+            467
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(g) a “month” shall mean a period of thirty (30) days; ",
+        "bbox": [
+            225,
+            481,
+            626,
+            495
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(h) a “year” shall mean a period of three hundred and sixty five (365) days and a “calendar year\" shall mean a year of the Gregorian calendar ",
+        "bbox": [
+            211,
+            510,
+            889,
+            538
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(i) a reference to the masculine gender includes the feminine; ",
+        "bbox": [
+            223,
+            552,
+            684,
+            568
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(j) the singular shall include the plural and vice versa; and (k) “dollar” or $\\mathbf { \\hat { \\Delta } } ^ { \\ast } \\mathbf { \\Phi } _ { \\ast } ^ { \\ast }$ is a reference to United States Dollars unless the contrary intention appears. ",
+        "bbox": [
+            223,
+            581,
+            662,
+            595
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(2) The headings in the Law shall not affect its interpretation. ",
+        "bbox": [
+            166,
+            652,
+            618,
+            667
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(3) References in this Law to a body corporate include a company incorporated outside the DIFC. ",
+        "bbox": [
+            169,
+            681,
+            865,
+            696
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(4) A reference in this Law to a Part, Chapter, Article or Schedule by number only, and without further identification, is a reference to the Part, Chapter, Article or Schedule of that number in this Law. ",
+        "bbox": [
+            166,
+            709,
+            887,
+            752
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(5) A reference in an Article or other division of this Law to an Article by number or letter only, and without further identification, is a reference to the Article of that number or letter contained in the Article or other division of this Law in which that reference occurs. ",
+        "bbox": [
+            163,
+            766,
+            887,
+            809
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(6) Unless the context otherwise requires, where this Law refers to an enactment, the reference is to that enactment as amended from time to time, and includes a reference to that enactment as extended or applied by or under another enactment, including any other provision of that enactment. ",
+        "bbox": [
+            168,
+            824,
+            890,
+            879
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(7) References in this Law to writing, filing, instrument or certificate include any mode of communication that preserves a record of the information contained therein and is capable of being reproduced in tangible form, including electronic means. ",
+        "bbox": [
+            166,
+            895,
+            890,
+            938
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            630,
+            32,
+            890,
+            46
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "2. Legislation in the DIFC ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            67,
+            339,
+            82
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "References to legislation and guidance in the Law shall be construed in accordance with the following provisions: ",
+        "bbox": [
+            164,
+            96,
+            894,
+            124
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(a) Federal Law is law made by the federal government of the United Arab Emirates;   \n(b) Dubai Law is law made by the Ruler, as applicable in the Emirate of Dubai;   \n(c) DIFC Law is law made by the Ruler (including, by way of example, the Law), as applicable in the DIFC;   \n(d) the Law is the Limited Partnership Law, DIFC Law No. 1 of 2006 made by the Ruler;   \n(e) the Regulations are legislation made by the Board of Directors of the DIFCA for the purpose of the Law and are binding in nature;   \n(f) guidance is indicative and non-binding and may comprise (i) guidance made and issued by the Registrar under the Law; and (ii) any standard or code of practice issued by the Board of Directors of the DIFCA which has not been incorporated into the Regulations; and   \n(g) references to “Legislation administered by the Registrar” are references to DIFC Law and Regulations conferring functions and powers on the Registrar. ",
+        "bbox": [
+            163,
+            136,
+            892,
+            397
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "3. Defined Terms ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            409,
+            277,
+            424
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "In the Law, unless the context indicates otherwise, the defined terms listed below shall have the corresponding meanings: ",
+        "bbox": [
+            163,
+            438,
+            890,
+            467
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e1c4d2c563570eb9ce37d28865307f9dd00c21ecb3d081bec919cc383a4252e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Terms</td><td colspan=\"1\" rowspan=\"1\">Definitions</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Accounting Records</td><td colspan=\"1\" rowspan=\"1\">records and underlying Documents comprising initial and other acountingentries and associated supporting Documents such as:(a) cheques;(b) records of electronic funds transfers;(c)  invoices;(d)  contracts;(e)  the general and subsidiary ledgers, journal entries and other adjustmentsto the financial statements that are not reflected in journal entries; and(f)   work sheets and spread sheets supporting costs allocations,computations, reconciliations and disclosures.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Appointed Publication</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to the term in the Operating Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Board of Directors of the DIFCA</td><td colspan=\"1\" rowspan=\"1\">the governing body of the DIFCA.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Court</td><td colspan=\"1\" rowspan=\"1\">the DIFC Court as established under Dubai Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DFSA</td><td colspan=\"1\" rowspan=\"1\">the Dubai Financial Services Authority.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC</td><td colspan=\"1\" rowspan=\"1\">the Dubai International Financial Centre.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC Law</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in Article 2 of Schedule 1 to the Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFCA</td><td colspan=\"1\" rowspan=\"1\">the DIFC Authority.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Document</td><td colspan=\"1\" rowspan=\"1\">includes summons, notice, statement, return, account, order and other legalprocess, and registers.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Foreign Limited Partnership</td><td colspan=\"1\" rowspan=\"1\">a Limited Partnership formed in any jurisdiction other than the DIFC.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">General Partner</td><td colspan=\"1\" rowspan=\"1\">a person appointed and acting in the capacity of a General Partner in a LimitedPartnership.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Licence</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to the term in the Operating Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Limited Partner</td><td colspan=\"1\" rowspan=\"1\">a person appointed and acting in the capacity of a Limited Partner in a LimitedPartnership.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Limited Partnership</td><td colspan=\"1\" rowspan=\"1\">a Limited Partnership which is formed in the DIFC.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Law</td><td colspan=\"1\" rowspan=\"1\">the Limited Partnership Law 2006.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Operating Law</td><td colspan=\"1\" rowspan=\"1\">the Operating Law DIFC Law No. 7 of 2018.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Partner</td><td colspan=\"1\" rowspan=\"1\">includes both a General Partner and Limited Partner of a Limited Partnershipwho are registered as partners in accordance with the provisions of this Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Partnership Agreement</td><td colspan=\"1\" rowspan=\"1\">an Agreement containing the elements set out in Article 10.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">person</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in Article 1 of this Schedule.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">President</td><td colspan=\"1\" rowspan=\"1\">the president of the DIFC, appointed by a decree of the Ruler pursuant to theDubai Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Recognised Limited Partnership</td><td colspan=\"1\" rowspan=\"1\">a Limited Partnership which is formed outside of the DIFC and is registered inaccordance with Article 44(2).</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Registrar</td><td colspan=\"1\" rowspan=\"1\">the Registrar appointed under the Operating Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Regulations</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in Article 2 of this Schedule.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Ruler</td><td colspan=\"1\" rowspan=\"1\">the ruler of the Emirate of Dubai.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Schedule</td><td colspan=\"1\" rowspan=\"1\">a Schedule to the Law.</td></tr></table>",
+        "bbox": [
+            105,
+            478,
+            931,
+            928
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            630,
+            32,
+            890,
+            46
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "23 ",
+        "bbox": [
+            487,
+            959,
+            505,
+            970
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            630,
+            32,
+            890,
+            46
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 2 FINES ",
+        "text_level": 1,
+        "bbox": [
+            442,
+            80,
+            551,
+            110
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "table",
+        "img_path": "images/132ff9d4ede590aa99e24d4948d0c57039c3e301306b190c7fa8b6cb4c37600f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Article</td><td rowspan=1 colspan=1>Contravention</td><td rowspan=1 colspan=1>MaximumFine (USD-</td></tr><tr><td rowspan=1 colspan=1>17(1)</td><td rowspan=1 colspan=1>Failure of Limited Partnership to keep Accounting Records</td><td rowspan=1 colspan=1>$15,000</td></tr><tr><td rowspan=1 colspan=1>17(2)(a) or (b)</td><td rowspan=1 colspan=1>Non-compliant maintenance of Accounting Records by LimitedPartnership</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>17(2)(c)</td><td rowspan=1 colspan=1>Failure of Limited Partnership to keep Accounting Records open toinspection</td><td rowspan=1 colspan=1>$1,000</td></tr><tr><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>Failure of Limited Partnership to prepare, approve or file accounts asrequired</td><td rowspan=1 colspan=1>$15,000</td></tr><tr><td rowspan=1 colspan=1>37(3)</td><td rowspan=1 colspan=1>Failure to deliver a statement of dissolution to the Registrar</td><td rowspan=1 colspan=1>$15,000</td></tr><tr><td rowspan=1 colspan=1>46(1)</td><td rowspan=1 colspan=1>Failure of Recognised Limited Partnership to keep Accounting Records</td><td rowspan=1 colspan=1>$15,000</td></tr><tr><td rowspan=1 colspan=1>46(2)(a) or (b)</td><td rowspan=1 colspan=1>Non-compliant maintenance of accounting records by RecognisedLimited Partnership</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>46(2)(c)</td><td rowspan=1 colspan=1>Failure of Recognised Limited Partnership to keep Accounting Recordsopen to inspection</td><td rowspan=1 colspan=1>$1,000</td></tr></table>",
+        "bbox": [
+            110,
+            129,
+            912,
+            405
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "LIMITED PARTNERSHIP LAW ",
+        "bbox": [
+            630,
+            32,
+            890,
+            46
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "24 ",
+        "bbox": [
+            487,
+            959,
+            507,
+            970
+        ],
+        "page_idx": 26
+    }
+]

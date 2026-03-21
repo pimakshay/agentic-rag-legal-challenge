@@ -1,0 +1,1727 @@
+[
+    {
+        "type": "text",
+        "text": "CFI 071/2025 Agro Resource Tarim Gida IC Ve DIS Ti̇ caret A.S. v Promising International Trading Co. DMCC ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            171,
+            949,
+            224
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DECEMBER 30, 2025 COURT OF FIRST INSTANCE - ORDERS ",
+        "bbox": [
+            42,
+            229,
+            591,
+            247
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claim No: CFI 071/2025 ",
+        "bbox": [
+            736,
+            284,
+            959,
+            302
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IN THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS ",
+        "bbox": [
+            205,
+            318,
+            794,
+            338
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IN THE COURT OF FIRST INSTANCE ",
+        "bbox": [
+            38,
+            354,
+            388,
+            374
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BETWEEN ",
+        "bbox": [
+            40,
+            388,
+            146,
+            406
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AGRO RESOURCE TARIM GIDA İÇ VE DIŞ TİCARET A.Ş. ",
+        "bbox": [
+            233,
+            423,
+            763,
+            443
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claimant ",
+        "bbox": [
+            875,
+            457,
+            959,
+            475
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "bbox": [
+            480,
+            492,
+            517,
+            507
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PROMISING INTERNATIONAL TRADING CO. DMCC ",
+        "bbox": [
+            255,
+            525,
+            746,
+            544
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Defendant ",
+        "bbox": [
+            862,
+            560,
+            957,
+            577
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ORDER WITH REASONS OF H.E. JUSTICE ROGERT STEWART ",
+        "bbox": [
+            205,
+            615,
+            794,
+            636
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UPON the Claimant’s Part 7 Claim Form dated 10 July 2025 (the “Claim”) ",
+        "bbox": [
+            42,
+            680,
+            700,
+            699
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Order with Reasons of H.E. Justice Nassir Al Nasser dated 18 September 2025 dismissing the Defendant’ application for an extension of time until 30 November 2025 to contest jurisdiction and requiring the Defendant to fi le an application to contest jurisdiction no later than 7 days from the date of the Order ",
+        "bbox": [
+            40,
+            715,
+            961,
+            807
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Defendant’s Application No. CFI-071-2025/2 dated 25 September 2025 seeking to dismiss or stay the Claim (the “Defendant’s Application”) supported by the fi rst witness statement of Amal Niyas and the fi rst witness statement of Daleep Kumar Singh ",
+        "bbox": [
+            40,
+            824,
+            961,
+            890
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Claimant’s Objection to the Defendant’s Application dated 22 October 2025 supported by the witness statement of Aleksey Novoselkiky ",
+        "bbox": [
+            40,
+            907,
+            959,
+            951
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the second witness statement of Daleep Kumar Singh dated 5 November 2025 ",
+        "bbox": [
+            47,
+            20,
+            860,
+            39
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON considering the skeleton arguments for each party ",
+        "bbox": [
+            42,
+            57,
+            605,
+            74
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON considering the initial statements of costs for each party ",
+        "bbox": [
+            40,
+            92,
+            655,
+            110
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON hearing Counsel for the Claimant and Counsel for the Defendant at a hearing held on 4 December 2025 before H.E. Justice Roger Stewart ",
+        "bbox": [
+            40,
+            127,
+            964,
+            171
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON considering the Defendant’s note dated 9 December 2025 together with a breakdown of English solicitor’s fees ",
+        "bbox": [
+            42,
+            187,
+            961,
+            229
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON considering the Claimant’s supplemental written submissions dated 9 December 2025 ",
+        "bbox": [
+            40,
+            247,
+            939,
+            266
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON considering the Claimant’s submissions responding to the Defendant’s costs schedule dated 12 December 2024 ",
+        "bbox": [
+            40,
+            282,
+            961,
+            324
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON considering the Defendant’s response dated 12 December 2025 to the Claimant’s supplemental written submissions dated 9 December 2025 together with further costs claimed ",
+        "bbox": [
+            40,
+            342,
+            961,
+            385
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON considering the Rules of the DIFC Courts (“RDC”) ",
+        "bbox": [
+            40,
+            401,
+            601,
+            420
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IT IS HEREBY ORDERED THAT: ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            437,
+            337,
+            456
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The Claim is stayed. ",
+        "bbox": [
+            42,
+            472,
+            250,
+            489
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. The Claimant is to pay the Defendant the costs of the Defendant’s Application assessed at AED   \n300,000 within 14 days from today. ",
+        "bbox": [
+            42,
+            504,
+            949,
+            546
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Issued by:   \nDelvin Sumo   \nAssistant Registrar   \nDate of issue: 30 December 2025   \nAt: 10am ",
+        "bbox": [
+            652,
+            561,
+            959,
+            678
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE OF REASONS ",
+        "text_level": 1,
+        "bbox": [
+            376,
+            695,
+            623,
+            713
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            732,
+            157,
+            749
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The Defendant’s Application dated 25 September 2025 is made pursuant to Rule 12 of the Rules of the DIFC Courts (“RDC”) and Article 13(1) of the DIFC Arbitration Law, DIFC Law No 1 of 2008, to dismiss or stay the action on the grounds that it is the subject of an Arbitration Agreement. ",
+        "bbox": [
+            40,
+            764,
+            961,
+            831
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. The central issue is whether, as contended by the Defendant, the parties agreed to submit this dispute to GAFTA arbitration or, as contended by the Claimant, the parties agreed to submit the dispute for decision by the DIFC Courts. A subsidiary issue is whether, if I consider that the parties did agree to submit the dispute to GAFTA arbitration, the action should be dismissed or stayed. ",
+        "bbox": [
+            40,
+            845,
+            961,
+            938
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. The parties agreed at the hearing on 4 December that costs should follow the event. They have fi led various costs submissions which are, accordingly, considered. ",
+        "bbox": [
+            40,
+            17,
+            961,
+            60
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Facts ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            78,
+            137,
+            96
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. Both parties are grain traders. The Claimant is incorporated in Turkey whilst the Defendant is a DMCC licensed entity in Dubai. ",
+        "bbox": [
+            40,
+            110,
+            961,
+            153
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. By an export contract No. 2379-AR/VCH-240625 dated 3 June 2024 (the “contract”), the terms of which are more fully considered below, the Claimant agreed to sell 30,000 metric tonnes $( + / - 1 0 \\%$ at buyer’s option) of Russian Milling Wheat (2023 crop) to the Defendant for a price of USD 6,875,000. The Claimant alleges that the Defendant has failed to pay the full agreed price with a balance of USD 2,959,920 outstanding. ",
+        "bbox": [
+            40,
+            166,
+            961,
+            284
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. The Claimant submitted a mediation request to the DMCC Disputes Centre on 2 April 2025 but the same was not considered, apparently because the Claimant is located outside the DIFC. Thereafter, on the following day, the Claimant proposed an alternative mediation. ",
+        "bbox": [
+            40,
+            296,
+            961,
+            365
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. The Claimant issued its claim form on 10 July 2025. The Defendant fi led an acknowledgment of service and then, within 14 days sought an extension of time until 30 November 2025 for its jurisdictional challenge pending a mediation. ",
+        "bbox": [
+            40,
+            378,
+            961,
+            444
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8. The application was determined by the Order with reasons of H.E. Justice Nassir Al Nasser dated 18 September 2025 which dismissed the application and required the application to contest jurisdiction to be made within 7 days which was duly done. ",
+        "bbox": [
+            40,
+            458,
+            959,
+            526
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9. Thereafter, the parties fi led evidence and made submissions prior to a hearing before me on 4 December 2025. ",
+        "bbox": [
+            40,
+            541,
+            961,
+            583
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Contract ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            600,
+            168,
+            618
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. The following are relevant express terms of the contract: ",
+        "bbox": [
+            45,
+            633,
+            579,
+            651
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) Clauses 1 to 13 which identifi ed the parties, the commodity and quantity, the quality by GAFTA methods, the condition, the delivery period, the price FOB Novorossiysk, payment against identifi ed documents, shipping documents, loading terms, vessel, loading rate, notice of readiness, laytime, demurrage and special terms re licences; ",
+        "bbox": [
+            77,
+            665,
+            961,
+            757
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(b) Clause 14 ",
+        "bbox": [
+            78,
+            772,
+            203,
+            789
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "\"Governing Law and Jurisdiction ",
+        "bbox": [
+            122,
+            871,
+            410,
+            889
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Contract shall be governed by and construed in accordance with English law. All disputes or differences whatsoever arising between the parties out of or relating to the construction, meaning and operation or effect of this Contract or the breach thereof shall be settled by arbitration in accordance with the rules No 125 of the Grain and Feed Association (GAFTA) of which the parties admit to having knowledge and notice and hereby accept. ",
+        "bbox": [
+            117,
+            902,
+            961,
+            971
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Contract is subject to the terms and conditions of GAFTA contract form 49 of which the Parties admit to have knowledge and notice. If any provision of this Contract is inconsistent with the contract form, such provision of this Contract shall prevail;\" ",
+        "bbox": [
+            115,
+            74,
+            963,
+            142
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(c) Clause 15 \"Domicile ",
+        "bbox": [
+            80,
+            147,
+            205,
+            165
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Parties acknowledge and agree that Domicile clause of GAFTA Contract Form 49 is excluded from this Contract.\" ",
+        "bbox": [
+            117,
+            212,
+            961,
+            256
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(d) Clause 16 ",
+        "bbox": [
+            78,
+            271,
+            206,
+            288
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Arbitration ",
+        "bbox": [
+            121,
+            304,
+            221,
+            321
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "out or in connection with this Contract including any question regarding its existence, validity, interpretation or termination (Dispute) then the Parties will attempt to settle it by mediation in accordance with the DMCC Disputes Centre Mediation Rules (Mediation Rules), which rules are deemed to be incorporated by reference into this clause. If the Dispute is not resolved within thirty (30) days after a Party has made a written request for mediation (Request) in accordance with the Mediation Rules or either party fails to participate or ceases to participate I the mediation within thirty (30) days after a Party has made a Request, then the Parties agree that the courts of the Dubai International Financial Centre shall have exclusive jurisdiction to finally determine the Dispute.\" ",
+        "bbox": [
+            114,
+            335,
+            961,
+            548
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11. The GAFTA Rules No 125 materially provide: ",
+        "bbox": [
+            42,
+            552,
+            478,
+            570
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) By clause 1.1 that the provisions of the Arbitration Act 1996 and of any statutory amendment, modifi cation or re-enactment thereof for the timing being in force should apply to every arbitration and/or appeal under the Rules “save insofar as such provisions are expressly modifi ed by, or are inconsistent with these Rules: and ",
+        "bbox": [
+            77,
+            585,
+            959,
+            677
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(b) By clause 1.2 that the juridical seat of the arbitration is England. ",
+        "bbox": [
+            77,
+            692,
+            680,
+            709
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "12. The GAFTA Contract No 49 provides: ",
+        "bbox": [
+            43,
+            724,
+            413,
+            741
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) A draft standard form contract dealing with similar matters to those set out in clauses 1 to 13 of the contract; ",
+        "bbox": [
+            78,
+            757,
+            961,
+            800
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(b) Clause 22 entitled “Domicile” which provides: ",
+        "bbox": [
+            78,
+            814,
+            515,
+            833
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "i. That the contract shall be deemed to have been made and performed in England; ii. That the contract shall be construed and take effect in accordance with the laws of England; iii. That, except for the purposes of enforcing any award, the Courts of England shall have exclusive jurisdiction to determine any application for ancillary relief; ",
+        "bbox": [
+            114,
+            846,
+            963,
+            957
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "iv. That for the purposes of any legal proceedings, each party should be deemed to be ordinarily resident and carrying on business at the offi ces of GAFTA in England; and ",
+        "bbox": [
+            109,
+            17,
+            959,
+            61
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "v. That good service of proceedings could be effected by leaving the same at GAFTA’s offi ce and posting to an address outside England; ",
+        "bbox": [
+            109,
+            74,
+            959,
+            117
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(c) By clause 23(a) that any disputes should be determined by arbitration in accordance with the GAFTA Arbitration rules no 125; ",
+        "bbox": [
+            80,
+            123,
+            966,
+            166
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(d) By clause 23(b) that neither party should bring proceedings against the other until a dispute had been heard and determined in accordance with the GAFTA rules; and ",
+        "bbox": [
+            75,
+            179,
+            954,
+            224
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(e) By clause 23(c) that nothing should prevent a party from seeking to obtain security for their claim or counterclaim via legal proceedings. ",
+        "bbox": [
+            70,
+            237,
+            957,
+            280
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Applicable DIFC Law ",
+        "bbox": [
+            43,
+            288,
+            282,
+            306
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "13. There is no dispute as to the relevant provisions of the DIFC Arbitration Law: ",
+        "bbox": [
+            40,
+            321,
+            761,
+            340
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) Article 13 provides ",
+        "bbox": [
+            78,
+            355,
+            278,
+            372
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“(1) If an action is brought before the DIFC Court in a matter which is the subject of an Arbitration Agreement, the DIFC Court shall, if a party so requests not later than when submitting his fi rst statement on the substance of the dispute, dismiss or stay such action unless it fi nds that the Arbitration Agreement is null and void, inoperative or incapable of being performed.” ",
+        "bbox": [
+            40,
+            386,
+            961,
+            478
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(b) Article 7(2), which was introduced by amendment, applies Article 13 whether or not the seat of the arbitration is the DIFC; ",
+        "bbox": [
+            75,
+            492,
+            961,
+            536
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(c) Article 12 provides: ",
+        "bbox": [
+            80,
+            549,
+            282,
+            568
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "i. that an Arbitration Agreement is an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defi ned legal relationship whether contractual or not;   \nii. an Arbitration Agreement may be in the form of an arbitration clause in a contract or in the form of a separate agreement; and   \niii. an Arbitration Agreement shall be in writing as set out in the Article. ",
+        "bbox": [
+            104,
+            581,
+            963,
+            740
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "14. RDC Part 12 permits a Defendant to apply to the Court for an order declaring that the Court has no jurisdiction and further provides that such an application must be fi led within 14 day after the fi ling of an acknowledgement of service. ",
+        "bbox": [
+            38,
+            752,
+            961,
+            820
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Defendant’s Submissions ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            838,
+            322,
+            856
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "15. The Defendant submits: ",
+        "bbox": [
+            43,
+            870,
+            292,
+            889
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) That although apparently inconsistent, the contract can be reconciled so that clause 14 provides for arbitration with any Court jurisdiction clause providing only for ancillary supervisory or enforcement action; ",
+        "bbox": [
+            77,
+            903,
+            959,
+            971
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(b) That there is a special rule of construction under English law which prioritises arbitration clauses and confi nes exclusive court jurisdiction clauses to ancillary matters in accordance with commentary in Mustill & Boyd: Commercial and Investor State Arbitration, 3rd Edition at 3.56; ",
+        "bbox": [
+            78,
+            17,
+            961,
+            85
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(c) That the dispute is, accordingly, subject to a valid and binding arbitration clause which requires the claim to be either stayed or dismissed in accordance with Article 13 of the DIFC Arbitration Law; ",
+        "bbox": [
+            77,
+            98,
+            963,
+            165
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(d) That there is no basis for distinguishing between clauses 14 and 16 so far as their contractual effect is concerned – both were express terms of the contract; ",
+        "bbox": [
+            72,
+            179,
+            954,
+            224
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(e) That there is no basis for distinguishing between disputes as to quality or condition on the one hand and disputes as to payment on the other; and ",
+        "bbox": [
+            72,
+            237,
+            954,
+            280
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(f) The action should be dismissed rather than stayed because there is no factual dispute and no procedural impediment to immediate referral to arbitration. ",
+        "bbox": [
+            77,
+            294,
+            963,
+            337
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Claimant’s Submissions ",
+        "text_level": 1,
+        "bbox": [
+            45,
+            346,
+            307,
+            363
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "16. The Claimant submits: ",
+        "bbox": [
+            43,
+            379,
+            280,
+            397
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) That on its proper construction, the contract provides for tiered dispute resolution; ",
+        "bbox": [
+            68,
+            411,
+            843,
+            430
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(b) That in accordance with the express terms of clause 16, the DIFC Courts have exclusive jurisdiction to determine the dispute given that mediation has not occurred despite the request made to the DMCC; ",
+        "bbox": [
+            67,
+            443,
+            963,
+            511
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(c) That clause 16 was to be viewed as the lex specialis and a bespoke jurisdiction mechanism over-riding “standard form” provisions; ",
+        "bbox": [
+            77,
+            525,
+            969,
+            569
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(d) That once clause 16 was invoked, clause 14 became inoperative or incapable of being performed; ",
+        "bbox": [
+            77,
+            582,
+            963,
+            626
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(e) That the dispute is a simple matter of non-payment rather than one concerning quality of condition appropriate for determination under the GAFTA rules; ",
+        "bbox": [
+            78,
+            639,
+            963,
+            683
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(f) That the Defendant’s reliance on clause 14 represents an opportunistic attempt to delay the proceedings consistent with the Claimant’s failure to engage in mediation initially and its subsequent application to extend time for bringing the jurisdiction challenge; and ",
+        "bbox": [
+            77,
+            696,
+            961,
+            764
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(g) That the Defendant’s application was made more than 14 days after the Acknowledgement of Service and accordingly the Defendant is to be viewed as having submitted to the jurisdiction. ",
+        "bbox": [
+            78,
+            777,
+            963,
+            821
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            838,
+            146,
+            856
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "17. I do not consider that there is any merit in the Claimant’s procedural point that no challenge to jurisdiction was entered within 14 days of the acknowledgment of service as required by the RDC with the consequence that there was a deemed submission to the jurisdiction of the Courts of the DIFC. ",
+        "bbox": [
+            40,
+            870,
+            961,
+            938
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "18. RDC 4.2(1) permits time to be extended by the Court for any procedural step. The application for extension of time for submission of a jurisdictional challenge was issued within the 14 day period permitted by the Rules and the Order with reasons dated 18 September revised the period within which a challenge could be made. That revised period was complied with by the Defendant. ",
+        "bbox": [
+            42,
+            17,
+            959,
+            109
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "19. In such circumstances, I consider it plain that the Defendant cannot be said to have been deemed to submit to the jurisdiction of the DIFC Courts. Not only did it make it plain that it was not submitting, but the Court permitted it extra time to make its application. Any other conclusion would be to allow an infl exible deadline which would be likely to work injustice. Accordingly, I proceed to determine this application on its merits. ",
+        "bbox": [
+            40,
+            122,
+            961,
+            239
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "20. There is no doubt but that: ",
+        "bbox": [
+            42,
+            253,
+            314,
+            271
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) If clause 14 of the contract existed but there was no clause 16, there would unquestionably be an arbitration agreement which this court would be bound to uphold; and   \n(b) If clause 16 of the contract existed but there was no clause 14, the parties would be found to have submitted to the jurisdiction of the DIFC Courts (subject only to the possibility that there would be a requirement for prior submission to mediation). ",
+        "bbox": [
+            65,
+            285,
+            964,
+            410
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "21. That does not, however, mean that just because the clauses, if read by themselves, would point to opposite results, that they are in confl ict. The parties are, correctly, agreed that the contract is subject to English law. English law, like the law of the DIFC, seeks to fi nd the meaning of the parties’ bargain from all of the terms which they have agreed. A particular term, if read by itself, may have one effect but, when read with the other terms which were agreed, may be found to have a quite different effect. ",
+        "bbox": [
+            40,
+            423,
+            961,
+            539
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "22. The authorities make it clear that the task of a court or tribunal, when seeking to understand the terms of a bargain which parties have made in relation to dispute resolution, just as in relation to any other contentious issue, is to look at all the terms of the bargain. Thus, the ordinary and well known principles applicable to the construction of any contractual provisions apply to what the parties have agreed in relation to dispute resolution: see Melford Capital v Wingfield Digby. ",
+        "bbox": [
+            40,
+            552,
+            961,
+            668
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "23. These contractual principles of interpretation have been summarized in a passage which is frequently cited from the judgment of Popplewell J in The Ocean Neptune ",
+        "bbox": [
+            42,
+            682,
+            959,
+            726
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "\"The court's task is to ascertain the objective meaning of the language which the parties have chosen in which to express their agreement. The court must consider the language used and ascertain what a reasonable person, that is a person who has all the background knowledge which would reasonably have been available to the parties in the situation in which they were at the time of the contract, would have understood the parties to have meant. The court must consider the contract as a whole and, depending on the nature, formality and quality of drafting of the contract, give more or less weight to elements of the wider context in reaching its view as to the objective meaning of the language used. If there are two possible constructions, the court is entitled to prefer the construction which is consistent with business common sense and to reject the other. Interpretation is a unitary exercise; in striking a balance between the indications given by the language and the implications of the competing constructions, the court must consider the quality of drafting of the clause and it must also be alive to the possibility that one side may have agreed to something which with hindsight did not serve his interest; similarly, the court must not lose sight of the possibility that a provision may be a negotiated compromise or that the negotiators were not able to agree more precise terms. This unitary exercise involves an iterative process by which each suggested interpretation is checked against the provisions of the contract and its commercial consequences are investigated. It does not matter whether the more detailed analysis commences with the factual background and the implications of rival constructions or a close examination of the relevant language in the contract, so long as the court balances the indications given by each.\" ",
+        "bbox": [
+            78,
+            739,
+            961,
+            976
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "24. Where dispute resolution provisions contain an arbitration clause or provisions apparently requiring mediation as a pre-condition to either arbitration or mediation or provisions providing for both arbitration and the exclusive jurisdiction of an identifi ed Court, a Court applying English law construction principles will take into account a number of matters. ",
+        "bbox": [
+            40,
+            259,
+            961,
+            349
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "25. First, it is well established that an arbitration agreement will constitute an agreement which is separate and distinct from the contract in which it is embedded. As was pointed out by Moore-Bick L.J in SulaIamerica CIA Nacional de Seguors S.A v Enesa Engenhari S.A. this doctrine of separability 3 ”simply refl ects the parties’ presumed intention that their agreed procedure for resolving disputes should remain effective in circumstances that would render the substantive contract ineffective. Its purpose is to give legal effect to that intention, not to insulate the agreement from the substantive contract for all purposes”. ",
+        "bbox": [
+            40,
+            363,
+            961,
+            527
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "26. Secondly, the existence of a separate arbitration agreement means that there can be a number of possibly different relevant laws to consider including: ",
+        "bbox": [
+            40,
+            541,
+            957,
+            585
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) The law of the contract in which the contract is embedded; (b) The law of the arbitration agreement; and   \n(c) The law of the seat of the arbitration. ",
+        "bbox": [
+            77,
+            599,
+            635,
+            683
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "See eg Channel Tunnel Group v Balfour Beatty .4 ",
+        "bbox": [
+            77,
+            697,
+            527,
+            717
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "27. Thirdly, the existence of the above different laws allows the Court, in appropriate circumstances, to fi nd that contracts providing both for reference to arbitration and for the exclusive jurisdiction of a particular court are reconcilable on the basis that the clause specifying the jurisdiction of the particular court provided for the law of the seat of the arbitration or the proper law of the arbitration or both. This conclusion has been reached in a large number of cases starting with the decision of Steyn J in Paul Smith v H & S International Holding $I n c ^ { 5 }$ ",
+        "bbox": [
+            38,
+            730,
+            963,
+            870
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "28. Fourthly, although it is always possible that parties will agree that particular types of disputes will be dealt with in particular ways (so as to provide, for example, that a dispute as to quantum will be dealt with differently from one as to liability or that claims in respect of a loan agreement is dealt with in a different forum from wider disputes), the general expectation is that parties, as rational businessmen will intend their disputes are dealt with in a single forum .6 ",
+        "bbox": [
+            40,
+            883,
+            959,
+            952
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "29. Mustill & Boyd at paragraph 3.56, goes so far as to suggest that where there is a confl ict “between an arbitration and a jurisdiction clause, the English courts have come to adopt a special rule of contractual interpretation in such situations, which prioritises the arbitration agreement, and confi nes the scope of the jurisdiction agreement to ancillary issues”. ",
+        "bbox": [
+            40,
+            74,
+            961,
+            166
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "30. I consider, with respect to the learned authors, that this statement goes too far. The English courts have utilized conventional methods of contract construction to arrive at a conclusion as to what the parties intended. This does, indeed, arrive at the result which is indicated but it does not arise because of a “special rule”. Furthermore, were it to exist, such a “special rule” would have a fl awed jurisprudential base. It is true, however, that the application of ordinary rules of construction, in the circumstances which I have sought to describe, will often lead to the outcome where the jurisdiction clause is limited to dealing with ancillary matters whilst the main dispute is determined by arbitration. ",
+        "bbox": [
+            40,
+            179,
+            963,
+            343
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "31. It should not, of course, be forgotten that parties do not always operate arbitration agreements. Parties may expressly or impliedly agree not to operate them or one party may institute a court action and the other party fail to seek to dismiss or stay the action within the permitted period with the consequences that the party submits to the jurisdiction of the Court to determine the main dispute. As already set out, a party is required to issue an application challenging jurisdiction in the DIFC Courts within 14 days of the Acknowledgement of Service in the absence of an extension of time. In England a party is required to issue an application under section 9 of the Arbitration Act 1996. ",
+        "bbox": [
+            40,
+            357,
+            963,
+            521
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "32. Fifthly, if a contract provides for mediation (or another form of alternative dispute resolution) as a pre-condition to either arbitration or litigation, that provision will be enforced providing that matters essential to the process do not remain to be agreed – see Cable & Wireless v IBM and Holloway v Chancery Mead ",
+        "bbox": [
+            40,
+            535,
+            961,
+            625
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "33. Applying the principles which I have identifi ed above, I consider that there would be no real diffi culty in reconciling clauses 14 and 16 had clause 16 referred to the Courts of England rather than the DIFC. This is because, in those circumstances: ",
+        "bbox": [
+            42,
+            639,
+            961,
+            707
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) Clause 14: ",
+        "bbox": [
+            78,
+            721,
+            210,
+            739
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "i. Provides that English law is the proper law of the contract;   \nii. Contains a clear arbitration agreement providing for Arbitration in accordance with the GAFTA rules; and   \niii. Incorporates the GAFTA 49 contract to the extent not incompatible with the express provisions of the contract; ",
+        "bbox": [
+            84,
+            749,
+            961,
+            888
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(b) The GAFTA rules provide for the seat of the Arbitration to be England (and therefore subject to the supervisory jurisdiction of the English courts); ",
+        "bbox": [
+            77,
+            901,
+            963,
+            945
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(c) The GAFTA 49 contract also provides for arbitration in England; ",
+        "bbox": [
+            77,
+            958,
+            677,
+            977
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(d) Clause 16 would have provided both for mediation pursuant to particular rules and for English jurisdiction which would have been read as meaning the supervisory jurisdiction applicable for the arbitration agreement; and ",
+        "bbox": [
+            78,
+            17,
+            961,
+            85
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(e) It would probably have been found that the clause contained a suffi ciently certain mediation agreement which could have been enforced if not complied with. ",
+        "bbox": [
+            77,
+            98,
+            963,
+            141
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "34. The diffi culty in this case is that the reference to the exclusive jurisdiction of the Courts of Dubai apparently confl icts with the choice of England as the law of the seat of the arbitration. That leads to four possible interpretations: ",
+        "bbox": [
+            40,
+            147,
+            961,
+            214
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) The fi rst is that suggested by the Claimant, namely that the provisions of clause 14 effectively fall away in the event that a notice of mediation is issued in which event, if the mediation fails or is not operable, the Courts of the DIFC are to have exclusive jurisdiction; ",
+        "bbox": [
+            77,
+            228,
+            961,
+            296
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(b) The second is that the provisions, when read together, are such that the Courts of the DIFC were agreed to replace the Courts of England as the Courts supervising the arbitration agreement; ",
+        "bbox": [
+            77,
+            309,
+            959,
+            376
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(c) The third is to fi nd that no real effect is given to the provisions referring to the exclusive jurisdiction of the Courts of the DIFC; and ",
+        "bbox": [
+            78,
+            391,
+            961,
+            434
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(d) The fourth is that suggested by me in argument to counsel which is that the provisions are to be read as providing for mediation followed by arbitration (if operated by the parties) subject to the supervisory jurisdiction of the English Courts but with provision for the Courts of the DIFC to deal with the dispute in the event that the arbitration clause Is not operated and, in any event, to enforce any arbitral award directly. ",
+        "bbox": [
+            77,
+            447,
+            961,
+            563
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "35. I consider the fi rst option to be an unlikely construction. The fact that the parties decided to operate a mediation appears to have no bearing on whether a dispute should be arbitrated or litigated. ",
+        "bbox": [
+            40,
+            577,
+            963,
+            620
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "36. In support of its construction, the Claimant sought to rely on the decision of Saville J in Union of India v McDonnell Douglas, [1993] 2 Lloyds Law Rep. 48. In that case, the underlying contract had an Indian jurisdiction clause. The parties provided for arbitration to be conducted in accordance with the procedure set out in the Indian Arbitration Act 1940 but with the seat of the arbitration being London, UK. The Judge reconciled the provisions by fi nding that the parties intended the internal conduct of the arbitration to be that set out in the Indian Act but the regulation and supervision to be that of the English Court as that of the selected seat. ",
+        "bbox": [
+            40,
+            633,
+            963,
+            797
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "37. I do not consider this decision assists the Claimant. It is an example of construing the agreed provisions so as to reach a sensible commercial result. ",
+        "bbox": [
+            40,
+            810,
+            961,
+            854
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "38. The second construction would give primacy to the words actually contained in the directly agreed contract terms but would provide for a direct confl ict between the GAFTA rules and the terms of clause 16 in circumstances where the GAFTA rules were clearly incorporated. Furthermore, clause 14 provides that the parties admit to having knowledge of and accept the GAFTA rules. The justifi cation for affording priority to clause 16 is, accordingly, at the most, very slender. ",
+        "bbox": [
+            40,
+            868,
+            961,
+            936
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "39. The third construction would give no effect at all in relation to an express provision of the contract. ",
+        "bbox": [
+            40,
+            74,
+            947,
+            93
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "40. The fourth construction is, I consider, supported by clause 15 of the contract which deletes the provisions of the domicile clause of the GAFTA 49 contract. That provision provides for service provisions as well as deemed presence in England. That provision is most relevant to ensuring that parties could be served as well as establishing a close and real connection to England. Its deletion suggests that the parties contemplated enforcement, in particular, being necessary outside of England. Read with the deletion of the domicile clause, clause 16 reinforces the idea that the parties contemplated the necessity of enforcement in Dubai and the DIFC. ",
+        "bbox": [
+            38,
+            108,
+            961,
+            271
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "41. It is therefore apparent that the parties turned their mind to and considered the above matters. In the circumstance, I consider that if arbitration was inoperable for any reason or the parties chose not to operate it, it was valuable for the parties to choose a jurisdiction where their dispute could be determined. Neither party could object to the jurisdiction of the DIFC Courts except in favour of arbitration (or, in certain circumstances, mediation). Further I consider that the provision grants jurisdiction to the DIFC Courts to declare the dispute arbitrable and, if appropriate, to enforce the Award directly rather than pursuant to the New York convention. ",
+        "bbox": [
+            40,
+            285,
+            961,
+            449
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "42. In the circumstances, it is the fourth construction which I consider to be correct. It gives effect to the totality of the parties’ bargain and can be seen both to accommodate the parties’ language and to serve a sensible commercial purpose. ",
+        "bbox": [
+            40,
+            462,
+            957,
+            530
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "43. It follows that the Defendant is entitled to relief under Article 13 of the DIFC Arbitration law. ",
+        "bbox": [
+            40,
+            543,
+            880,
+            563
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "44. The remaining question is as to whether the action should be dismissed or stayed. I invited the parties to investigate as to whether there was any authority which considered when a dismissal would be appropriate and when a stay. There appears to be no relevant authority. ",
+        "bbox": [
+            40,
+            577,
+            961,
+            644
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "45. I therefore approach the matter as a matter of principle. In general, an action is dismissed when it is fi nally determined and there is no possibility of it being revived. By contrast, an action will be stayed when there is at least some prospect of the action being revived. ",
+        "bbox": [
+            40,
+            658,
+            961,
+            725
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "46. Had there been no prospect of the Courts of the DIFC having any jurisdiction in relation to this matter, I would consider it appropriate to dismiss it. However, in the present case there is the prospect of the action being revived, either because the parties do not operate the agreement or in order to enforce an award. ",
+        "bbox": [
+            40,
+            739,
+            961,
+            829
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "47. In the circumstances, I consider the correct relief is to grant a stay. ",
+        "bbox": [
+            38,
+            845,
+            670,
+            863
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Costs ",
+        "bbox": [
+            42,
+            882,
+            99,
+            897
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "48. Each party submitted a costs schedule and accepted that costs should follow the event. The Claimant’s total cost schedule amounted to AED 77,000. The Defendant’s initial schedule amounted to AED 550,531.01 of which AED 156,301 represented local counsel’s fees, AED 381,732.01 represented English solicitors’ fees and AED 12,320 was described as “Counsel’s fee for attending the Application Hearing. ",
+        "bbox": [
+            40,
+            17,
+            961,
+            134
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "49. The English solicitors’ fees were simply described in one line as a disbursement. At the Hearing, I accordingly asked the Defendants to provide: ",
+        "bbox": [
+            42,
+            146,
+            959,
+            190
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) A breakdown of the English solicitors’ fees; and (b) Support for the proposition that such fees were recoverable. ",
+        "bbox": [
+            77,
+            204,
+            648,
+            256
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "50. The Defendant duly provided a breakdown of the English solicitors’ fees which showed that the applicable charge out rates for the relevant partner was approximately USD 1,160 per hour and the senior associate approximately AED 895 per hour. ",
+        "bbox": [
+            40,
+            269,
+            964,
+            337
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "51. The Defendant also sought additional fees as a result of the post hearing matters and, in particular in responding to submissions which went beyond the scope of that permitted by me at the hearing. The total additional amounts sought were AED 22,847 in respect of local fees and AED 40,714.11 in respect of English solicitors fees. The overall total sought by the Defendant accordingly amounts to AED 614,092.12. ",
+        "bbox": [
+            40,
+            350,
+            961,
+            467
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "52. The Defendant provided a helpful note which: (a) Identifi ed that there was no direct DIFC authority dealing with the recoverability of overseas lawyers fees; (b) Referred to the decision of Master Gordon-Saker in Societa Finanziaria Industrie Turistche v Manfredi Lefebrve [2006] EWHC 90068 (Costs) in support of the proposition that where fees were incurred overseas they are assessed in accordance with the rules and practice of that jurisdiction; and (c) Submits that such costs should be assessed in accordance with the DIFC practice so as to consider whether the same were reasonably and proportionately incurred. ",
+        "bbox": [
+            40,
+            480,
+            964,
+            719
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "53. The Claimant: ",
+        "bbox": [
+            40,
+            733,
+            205,
+            751
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) Accepted that the DIFC Courts could allow the reasonable costs of overseas lawyers; (b) Emphasised that only costs which were reasonable, proportionate and necessary could be permitted;   \n(c) Stated that the costs, and in particular the English solicitors’ costs were out of proportion to a single half day application where “standard’ Article 13 and jurisdiction points were taken and local lawyers were on the record; ",
+        "bbox": [
+            65,
+            765,
+            964,
+            923
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(d) Pointed to 70 hours of senior associate time plus partner and paralegal time being excessive with the standard being the lowest amount reasonably required to present the case properly; ",
+        "bbox": [
+            75,
+            17,
+            963,
+            61
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(e) Asserted that the local lawyers had two partners, a senior associate, an associate and a junior which was excessive; ",
+        "bbox": [
+            77,
+            74,
+            968,
+            118
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(f) That the rates claimed were at the very top end of the local market; (g) That there was no justifi cation for a separate “Counsels’ fee”; and (h) That it was possible that time was included for earlier matters. ",
+        "bbox": [
+            78,
+            131,
+            704,
+            216
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "54. I accept that the DIFC Courts can award costs for overseas lawyers’ work provided that the requirements of need, proportionality and reasonableness are met. The DIFC Courts are operating in an international market and, as a matter of principle, such costs should be recoverable if properly incurred. I consider that a party seeking such costs should provide details similar to those provided for local lawyers so that they can be considered and assessed. ",
+        "bbox": [
+            40,
+            222,
+            961,
+            337
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "55. In relation to the quantum of fees sought: ",
+        "bbox": [
+            40,
+            351,
+            445,
+            369
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) I consider that the Defendant is, in principle, entitled to recover costs for the post hearing period. The work related to the Application and it is fair to say that the Claimant’s submissions did go beyond that permitted at the Hearing; ",
+        "bbox": [
+            77,
+            384,
+            961,
+            451
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(b) There is a very substantial disparity between the costs schedules of the Claimant and the Defendant. I consider that the Claimant’s costs appear modest, perhaps very modest, but the disparity is nonetheless striking; ",
+        "bbox": [
+            78,
+            466,
+            961,
+            533
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(c) There does appear to have been very substantial overlap between the work done by the overseas solicitors and the local lawyers; ",
+        "bbox": [
+            78,
+            546,
+            959,
+            589
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(d) Further: ",
+        "bbox": [
+            78,
+            605,
+            183,
+            621
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "i. The overall number of hours charged seems very high for a half-day application;   \nii. This is particularly the case in relation to work done on documents;   \niii. There does not appear to be a justifi cation for two partners working at the local lawyers;   \niv. There does not appear to be any justifi cation for a separate brief fee being charged; and v. The rates charged appear high, possibly very high. ",
+        "bbox": [
+            114,
+            636,
+            932,
+            788
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "56. In the circumstances, I assess the Defendant’s costs recoverable costs at AED 300,000. This represents a substantial discount from the amount sought refl ecting the matters set out above and leads to the recovery of the sum which I consider to be necessary, reasonable and proportionate for the work done ",
+        "bbox": [
+            40,
+            802,
+            961,
+            892
+        ],
+        "page_idx": 12
+    }
+]

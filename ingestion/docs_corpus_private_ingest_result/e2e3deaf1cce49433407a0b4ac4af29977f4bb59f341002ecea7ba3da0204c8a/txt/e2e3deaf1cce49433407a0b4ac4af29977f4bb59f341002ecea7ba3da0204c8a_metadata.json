@@ -1,0 +1,634 @@
+{
+    "doc_type": "law",
+    "official_title": "LAW RELATING TO THE APPLICATION OF DIFC LAWS (Amended and Restated)",
+    "official_title_normalized": "law relating to the application of difc laws amended and restated",
+    "short_title": "LAW RELATING TO THE APPLICATION OF DIFC LAWS (Amended and Restated) 2005",
+    "short_title_normalized": "law relating to the application of difc laws amended and restated 2005",
+    "law_number": "10",
+    "law_year": "2005",
+    "official_citation": "DIFC Law No. 10 of 2005",
+    "official_citation_normalized": "difc law no 10 of 2005",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "",
+    "amending_laws": [],
+    "administering_authority": "",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 12,
+    "page_count": 12,
+    "alias_keys": [
+        "DIFC Law No. 10 of 2005",
+        "LAW RELATING TO THE APPLICATION OF DIFC LAWS (Amended and Restated)",
+        "LAW RELATING TO THE APPLICATION OF DIFC LAWS (Amended and Restated) 2005"
+    ],
+    "article_index": {
+        "Article 1": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 92,
+            "block_end": 95
+        },
+        "Article 7": {
+            "heading": "Limitation on scope",
+            "article_number": "7",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 36,
+            "block_end": 45
+        },
+        "Article 8": {
+            "heading": "9. Governing law....... .................................................................... .... 3 Effectiveness of express choice of governing law........................................................................................ 3 10. Absence of express governing law.. ............................................................................. ... 3 11. Agency ..... ............................................................................................ ... 3 12. Governing law of right of subrogation ...... ........................................................................................ .. 3",
+            "article_number": "8",
+            "page_start": 2,
+            "page_end": 2,
+            "block_start": 10,
+            "block_end": 11
+        },
+        "Article 13": {
+            "heading": "Effectiveness of express submission to jurisdiction or arbitration",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 56,
+            "block_end": 59
+        },
+        "Article 14": {
+            "heading": "Law governing rights in property",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 60,
+            "block_end": 62
+        },
+        "Article 17": {
+            "heading": "Recognition of trusts",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 81,
+            "block_end": 91
+        },
+        "Article 5": {
+            "heading": "Commencement",
+            "article_number": "5",
+            "page_start": 3,
+            "page_end": 3,
+            "block_start": 28,
+            "block_end": 29
+        },
+        "Article 6": {
+            "heading": "Interpretation",
+            "article_number": "6",
+            "page_start": 3,
+            "page_end": 4,
+            "block_start": 30,
+            "block_end": 35
+        },
+        "Article 7(1)(a)": {
+            "heading": "Limitation on scope",
+            "article_number": "7",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 38,
+            "block_end": 38
+        },
+        "Article 7(1)": {
+            "heading": "Limitation on scope",
+            "article_number": "7",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 37,
+            "block_end": 38
+        },
+        "Article 7(2)": {
+            "heading": "Limitation on scope",
+            "article_number": "7",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 39,
+            "block_end": 45
+        },
+        "Article 9": {
+            "heading": "Effectiveness of express choice of governing law",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 46,
+            "block_end": 47
+        },
+        "Article 10": {
+            "heading": "Absence of express governing law",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 48,
+            "block_end": 49
+        },
+        "Article 11": {
+            "heading": "Agency",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 50,
+            "block_end": 51
+        },
+        "Article 11(1)": {
+            "heading": "Agency",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 51,
+            "block_end": 51
+        },
+        "Article 12": {
+            "heading": "Governing law of right of subrogation",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 52,
+            "block_end": 55
+        },
+        "Article 13(1)": {
+            "heading": "Effectiveness of express submission to jurisdiction or arbitration",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 57,
+            "block_end": 59
+        },
+        "Article 15": {
+            "heading": "Law governing validity of transfer of property",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 63,
+            "block_end": 66
+        },
+        "Article 15(1)(a)": {
+            "heading": "Law governing validity of transfer of property",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 65,
+            "block_end": 65
+        },
+        "Article 15(1)": {
+            "heading": "Law governing validity of transfer of property",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 64,
+            "block_end": 65
+        },
+        "Article 15(2)": {
+            "heading": "Law governing validity of transfer of property",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 66,
+            "block_end": 66
+        },
+        "Article 16": {
+            "heading": "Securities and investment entitlements",
+            "article_number": "16",
+            "page_start": 7,
+            "page_end": 9,
+            "block_start": 67,
+            "block_end": 80
+        },
+        "Article 16(1)(a)": {
+            "heading": "Securities and investment entitlements",
+            "article_number": "16",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 69,
+            "block_end": 69
+        },
+        "Article 16(1)": {
+            "heading": "Securities and investment entitlements",
+            "article_number": "16",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 68,
+            "block_end": 69
+        },
+        "Article 16(2)(a)": {
+            "heading": "Securities and investment entitlements",
+            "article_number": "16",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 71,
+            "block_end": 71
+        },
+        "Article 16(2)": {
+            "heading": "Securities and investment entitlements",
+            "article_number": "16",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 70,
+            "block_end": 71
+        },
+        "Article 16(3)": {
+            "heading": "Securities and investment entitlements",
+            "article_number": "16",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 72,
+            "block_end": 74
+        },
+        "Article 16(4)": {
+            "heading": "Securities and investment entitlements",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 75,
+            "block_end": 75
+        },
+        "Article 16(5)(a)": {
+            "heading": "Securities and investment entitlements",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 77,
+            "block_end": 80
+        },
+        "Article 16(5)": {
+            "heading": "Securities and investment entitlements",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 76,
+            "block_end": 80
+        },
+        "Article 17(1)(a)": {
+            "heading": "Recognition of trusts",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 83,
+            "block_end": 84
+        },
+        "Article 17(1)": {
+            "heading": "Recognition of trusts",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 82,
+            "block_end": 84
+        },
+        "Article 17(2)": {
+            "heading": "Recognition of trusts",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 85,
+            "block_end": 85
+        },
+        "Article 17(3)(a)": {
+            "heading": "Recognition of trusts",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 87,
+            "block_end": 91
+        },
+        "Article 17(3)": {
+            "heading": "Recognition of trusts",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 86,
+            "block_end": 91
+        },
+        "Article 1(1)(a)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 94,
+            "block_end": 94
+        },
+        "Article 1(1)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 93,
+            "block_end": 94
+        },
+        "Article 1(2)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 95,
+            "block_end": 95
+        },
+        "Article 2": {
+            "heading": "Legislation in the DIFC",
+            "article_number": "2",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 96,
+            "block_end": 98
+        },
+        "Article 3": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 99,
+            "block_end": 105
+        },
+        "Article 4": {
+            "heading": "Location",
+            "article_number": "4",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 106,
+            "block_end": 116
+        },
+        "Article 4(1)": {
+            "heading": "Location",
+            "article_number": "4",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 107,
+            "block_end": 107
+        },
+        "Article 4(2)(a)": {
+            "heading": "Location",
+            "article_number": "4",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 109,
+            "block_end": 109
+        },
+        "Article 4(2)": {
+            "heading": "Location",
+            "article_number": "4",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 108,
+            "block_end": 109
+        },
+        "Article 4(3)": {
+            "heading": "Location",
+            "article_number": "4",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 110,
+            "block_end": 110
+        },
+        "Article 4(4)(a)": {
+            "heading": "Location",
+            "article_number": "4",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 112,
+            "block_end": 112
+        },
+        "Article 4(4)": {
+            "heading": "Location",
+            "article_number": "4",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 111,
+            "block_end": 112
+        },
+        "Article 4(5)(a)": {
+            "heading": "Location",
+            "article_number": "4",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 114,
+            "block_end": 116
+        },
+        "Article 4(5)": {
+            "heading": "Location",
+            "article_number": "4",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 113,
+            "block_end": 116
+        }
+    },
+    "section_heading_index": {
+        "Title ......... ............................................................................................................ ...... 1 2. Legislative authority.... .............................................................................................................. .... 1 3. Application of the Law................................................................................................................................. 1 4. Date of Enactment..... .......................................................................................................................... ... 1 5. Commencement .. ............................................................................................................................. 6. Interpretation ................................................................................................................................................ 1": [
+            {
+                "heading": "Title ......... ............................................................................................................ ...... 1 2. Legislative authority.... .............................................................................................................. .... 1 3. Application of the Law................................................................................................................................. 1 4. Date of Enactment..... .......................................................................................................................... ... 1 5. Commencement .. ............................................................................................................................. 6. Interpretation ................................................................................................................................................ 1",
+                "article_number": "1",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 6,
+                "block_end": 7
+            }
+        ],
+        "Limitation on scope": [
+            {
+                "heading": "Limitation on scope",
+                "article_number": "7",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 8,
+                "block_end": 9
+            },
+            {
+                "heading": "Limitation on scope",
+                "article_number": "7",
+                "page_start": 4,
+                "page_end": 5,
+                "block_start": 36,
+                "block_end": 45
+            }
+        ],
+        "9. Governing law....... .................................................................... .... 3 Effectiveness of express choice of governing law........................................................................................ 3 10. Absence of express governing law.. ............................................................................. ... 3 11. Agency ..... ............................................................................................ ... 3 12. Governing law of right of subrogation ...... ........................................................................................ .. 3": [
+            {
+                "heading": "9. Governing law....... .................................................................... .... 3 Effectiveness of express choice of governing law........................................................................................ 3 10. Absence of express governing law.. ............................................................................. ... 3 11. Agency ..... ............................................................................................ ... 3 12. Governing law of right of subrogation ...... ........................................................................................ .. 3",
+                "article_number": "8",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 10,
+                "block_end": 11
+            }
+        ],
+        "Effectiveness of express submission to jurisdiction or arbitration": [
+            {
+                "heading": "Effectiveness of express submission to jurisdiction or arbitration",
+                "article_number": "13",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 12,
+                "block_end": 13
+            },
+            {
+                "heading": "Effectiveness of express submission to jurisdiction or arbitration",
+                "article_number": "13",
+                "page_start": 6,
+                "page_end": 7,
+                "block_start": 56,
+                "block_end": 59
+            }
+        ],
+        "Law governing rights in property.... . 15. Law governing validity of transfer of property . .5 16. Securities and investment entitlements ... .5": [
+            {
+                "heading": "Law governing rights in property.... . 15. Law governing validity of transfer of property . .5 16. Securities and investment entitlements ... .5",
+                "article_number": "14",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 14,
+                "block_end": 15
+            }
+        ],
+        "Recognition of trusts": [
+            {
+                "heading": "Recognition of trusts",
+                "article_number": "17",
+                "page_start": 2,
+                "page_end": 3,
+                "block_start": 16,
+                "block_end": 27
+            },
+            {
+                "heading": "Recognition of trusts",
+                "article_number": "17",
+                "page_start": 9,
+                "page_end": 10,
+                "block_start": 81,
+                "block_end": 91
+            }
+        ],
+        "Commencement": [
+            {
+                "heading": "Commencement",
+                "article_number": "5",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 28,
+                "block_end": 29
+            }
+        ],
+        "Interpretation": [
+            {
+                "heading": "Interpretation",
+                "article_number": "6",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 30,
+                "block_end": 35
+            }
+        ],
+        "Effectiveness of express choice of governing law": [
+            {
+                "heading": "Effectiveness of express choice of governing law",
+                "article_number": "9",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 46,
+                "block_end": 47
+            }
+        ],
+        "Absence of express governing law": [
+            {
+                "heading": "Absence of express governing law",
+                "article_number": "10",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 48,
+                "block_end": 49
+            }
+        ],
+        "Agency": [
+            {
+                "heading": "Agency",
+                "article_number": "11",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 50,
+                "block_end": 51
+            }
+        ],
+        "Governing law of right of subrogation": [
+            {
+                "heading": "Governing law of right of subrogation",
+                "article_number": "12",
+                "page_start": 5,
+                "page_end": 6,
+                "block_start": 52,
+                "block_end": 55
+            }
+        ],
+        "Law governing rights in property": [
+            {
+                "heading": "Law governing rights in property",
+                "article_number": "14",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 60,
+                "block_end": 62
+            }
+        ],
+        "Law governing validity of transfer of property": [
+            {
+                "heading": "Law governing validity of transfer of property",
+                "article_number": "15",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 63,
+                "block_end": 66
+            }
+        ],
+        "Securities and investment entitlements": [
+            {
+                "heading": "Securities and investment entitlements",
+                "article_number": "16",
+                "page_start": 7,
+                "page_end": 9,
+                "block_start": 67,
+                "block_end": 80
+            }
+        ],
+        "Rules of interpretation": [
+            {
+                "heading": "Rules of interpretation",
+                "article_number": "1",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 92,
+                "block_end": 95
+            }
+        ],
+        "Legislation in the DIFC": [
+            {
+                "heading": "Legislation in the DIFC",
+                "article_number": "2",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 96,
+                "block_end": 98
+            }
+        ],
+        "Defined terms": [
+            {
+                "heading": "Defined terms",
+                "article_number": "3",
+                "page_start": 10,
+                "page_end": 11,
+                "block_start": 99,
+                "block_end": 105
+            }
+        ],
+        "Location": [
+            {
+                "heading": "Location",
+                "article_number": "4",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 106,
+                "block_end": 116
+            }
+        ]
+    }
+}

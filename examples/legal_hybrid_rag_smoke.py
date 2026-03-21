@@ -61,7 +61,7 @@ def build_pipeline(use_smoke_loader: bool = True, mock_llm: bool = False):
             openai_api_base=CONFIG.llm_api_base,
         )
 
-    if CONFIG.cohere_api_key:
+    if CONFIG.cohere_api_key and CONFIG.use_cohere_embeddings:
         from retrieval.utils.cohere_rate_limit import RateLimitedCohereEmbeddings, get_cohere_rate_limiter
 
         base_embeddings = CohereEmbeddings(
@@ -69,11 +69,15 @@ def build_pipeline(use_smoke_loader: bool = True, mock_llm: bool = False):
             cohere_api_key=CONFIG.cohere_api_key,
         )
         embeddings = RateLimitedCohereEmbeddings(base_embeddings, limiter=get_cohere_rate_limiter())
-    else:
+    elif CONFIG.use_openai_embeddings:
         embeddings = OpenAIEmbeddings(
             model=CONFIG.embedding_model,
             openai_api_key=CONFIG.get_embedding_api_key(),
             openai_api_base=CONFIG.llm_api_base,
+        )
+    else:
+        raise ValueError(
+            "No embedding provider enabled. Set USE_COHERE_EMBEDDINGS=1 or USE_OPENAI_EMBEDDINGS=1."
         )
 
     if CONFIG.voyage_api_key:
@@ -95,6 +99,8 @@ def build_pipeline(use_smoke_loader: bool = True, mock_llm: bool = False):
         docs_root=str(docs_root),
         enable_reranking=True,
         reranker=reranker,
+        # Turbopuffer is optional; only enable it for Cohere embeddings.
+        use_turbopuffer=bool(CONFIG.cohere_api_key and CONFIG.use_cohere_embeddings and os.getenv("TURBOPUFFER_API_KEY")),
     )
 
     if use_smoke_loader:

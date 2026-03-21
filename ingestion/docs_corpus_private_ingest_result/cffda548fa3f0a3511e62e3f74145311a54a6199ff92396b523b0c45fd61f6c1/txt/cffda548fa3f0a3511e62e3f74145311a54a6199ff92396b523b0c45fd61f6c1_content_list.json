@@ -1,0 +1,105 @@
+[
+    {
+        "type": "text",
+        "text": "ENF 003/2011 - Order ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            172,
+            349,
+            195
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FEBRUARY 15, 2011 ENFORCEMENT,ORDERS ",
+        "bbox": [
+            40,
+            200,
+            462,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Enforcement No: 003/2011 THE JUDICIAL AUTHORITY OF THE DUBAI INTERNATIONAL FINANCIAL CENTRE IN THE COURT OF FIRST INSTANCE BETWEEN ",
+        "bbox": [
+            40,
+            254,
+            860,
+            299
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/8edf0e1dfd40a4f1c7a3ed23a3fb22d423aa4ad983f3ce68ae5ae7dad80fbb66.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>(1) HUSSAIN AI AWLAQI(2) ANDREW CLOUT</td><td>Judgment Creditor</td></tr><tr><td>And KHURAM HUSSAIN</td><td>Judgment Debtor</td></tr></table>",
+        "bbox": [
+            43,
+            303,
+            670,
+            382
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTERIM CHARGING ORDER UPON reading the application by the Judgment Creditor for an interim ",
+        "bbox": [
+            53,
+            409,
+            954,
+            428
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "charging order; and HAVING reviewed the Rules of the DIFC Courts; IT IS ORDERED THAT: ",
+        "bbox": [
+            53,
+            434,
+            917,
+            451
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. A charge is imposed over the Judgment Debtor's interest in Tabarak Partners LLP (in liquidation), a DIFC registered Limited Liability Partnership. ",
+        "bbox": [
+            72,
+            455,
+            862,
+            493
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. A hearing shall take place on 22 March 20011 at 10am to consider whether to make a fi nal charging order. ",
+        "bbox": [
+            65,
+            520,
+            910,
+            557
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Issued by Mark Beer Registrar Date of Issue: 15 February 2011 At: 12pm ",
+        "bbox": [
+            50,
+            564,
+            712,
+            583
+        ],
+        "page_idx": 0
+    }
+]

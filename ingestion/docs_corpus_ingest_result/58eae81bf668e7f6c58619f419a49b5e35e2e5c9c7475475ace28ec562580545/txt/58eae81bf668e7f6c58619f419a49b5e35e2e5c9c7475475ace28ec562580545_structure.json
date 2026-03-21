@@ -9,49 +9,49 @@
         "type": "text",
         "page_idx": 0,
         "text": "IN THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS ",
-        "level": 1
+        "level": 2
     },
     "2": {
         "type": "text",
         "page_idx": 0,
         "text": "IN THE COURT OF FIRST INSTANCE ",
-        "level": 1
+        "level": 3
     },
     "3": {
         "type": "text",
         "page_idx": 0,
         "text": "BETWEEN ",
-        "level": 1
+        "level": 3
     },
     "4": {
         "type": "text",
         "page_idx": 0,
         "text": "OHTLI ",
-        "level": 1
+        "level": 3
     },
     "5": {
         "type": "text",
         "page_idx": 0,
         "text": "Claimant ",
-        "level": 1
+        "level": 4
     },
     "6": {
         "type": "text",
         "page_idx": 0,
         "text": "and ",
-        "level": 1
+        "level": 3
     },
     "7": {
         "type": "text",
         "page_idx": 0,
         "text": "ONORA ",
-        "level": 1
+        "level": 3
     },
     "8": {
         "type": "text",
         "page_idx": 0,
         "text": "Defendant ",
-        "level": 1
+        "level": 4
     },
     "9": {
         "type": "text",
@@ -86,14 +86,14 @@
     "14": {
         "type": "text",
         "page_idx": 0,
-        "text": "AND UPON reviewing the parties’ submissions and hearing Counsel for the Claimant and Counsel for the Defendant on the Return Date Hearing held on 26 November 2025 before H.E. Justice Shamlan Al Sawale...",
+        "text": "AND UPON reviewing the parties’ submissions and hearing Counsel for the Claimant and Counsel for the Defendant on the Return Date Hearing held on 26 November 2025 before H.E. Justice Shamlan Al Sawalehi (the “Return Date hearing”) ",
         "level": 1
     },
     "15": {
         "type": "text",
         "page_idx": 0,
         "text": "Claim No. ARB 034/2025 ",
-        "level": 1
+        "level": 3
     },
     "16": {
         "type": "text",
@@ -104,7 +104,7 @@
     "17": {
         "type": "text",
         "page_idx": 1,
-        "text": "1. The ASI Order is discharged with immediate effect.   \n2. The Defendant’s Set Aside Application is granted.   \n3. The Claimant shall pay the Defendant its costs of the Set Aside Application on the s...",
+        "text": "1. The ASI Order is discharged with immediate effect.   \n2. The Defendant’s Set Aside Application is granted.   \n3. The Claimant shall pay the Defendant its costs of the Set Aside Application on the standard basis.   \nThe Defendant shall submit a Statement of Costs not exceeding three pages within 5 days of this Order.   \nIssued by:   \nHayley Norton   \nAssistant Registrar   \nDate of issue: 19 December 2025   \nAt: 9am ",
         "level": 2
     },
     "18": {
@@ -122,7 +122,7 @@
     "20": {
         "type": "text",
         "page_idx": 1,
-        "text": "1. This is an Order following the Return Date hearing in the proceedings concerning the continuation of the ASI Order dated 12 September 2025. The Defendant’s Set Aside Application shall also be consi...",
+        "text": "1. This is an Order following the Return Date hearing in the proceedings concerning the continuation of the ASI Order dated 12 September 2025. The Defendant’s Set Aside Application shall also be considered in light of its relevance to this Order. ",
         "level": 3
     },
     "21": {
@@ -146,7 +146,7 @@
     "24": {
         "type": "text",
         "page_idx": 1,
-        "text": "4. The background and the parties’ submissions are summarised only to the extent necessary for the determination of the Applications. Any omission of any fact, submission, or argument should not be ta...",
+        "text": "4. The background and the parties’ submissions are summarised only to the extent necessary for the determination of the Applications. Any omission of any fact, submission, or argument should not be taken as an indication that it was overlooked but merely refl ects my focus on the matters material to my determination of these Applications. ",
         "level": 3
     },
     "25": {
@@ -170,7 +170,7 @@
     "28": {
         "type": "text",
         "page_idx": 1,
-        "text": "8. By the time of the Return Date hearing, the onshore Dubai court proceedings that prompted the ASI Order were no longer being pursued, and steps had been taken to advance the dispute through arbitra...",
+        "text": "8. By the time of the Return Date hearing, the onshore Dubai court proceedings that prompted the ASI Order were no longer being pursued, and steps had been taken to advance the dispute through arbitration. ",
         "level": 3
     },
     "29": {
@@ -182,13 +182,13 @@
     "30": {
         "type": "text",
         "page_idx": 2,
-        "text": "9. The Claimant submitted that the ASI Order should be continued and made fi nal. It argued that there is a binding arbitration agreement, that the Defendant breached that agreement by commencing proc...",
+        "text": "9. The Claimant submitted that the ASI Order should be continued and made fi nal. It argued that there is a binding arbitration agreement, that the Defendant breached that agreement by commencing proceedings in the Dubai courts, and that discontinuance of those proceedings does not undo the breach. ",
         "level": 3
     },
     "31": {
         "type": "text",
         "page_idx": 2,
-        "text": "10. The Claimant further submitted that there remains a real risk of future proceedings being commenced outside the agreed arbitral forum in the absence of a continuing injunction, and that fi nal ant...",
+        "text": "10. The Claimant further submitted that there remains a real risk of future proceedings being commenced outside the agreed arbitral forum in the absence of a continuing injunction, and that fi nal anti-suit relief is required to protect the parties’ bargain and the integrity of the arbitration agreement. ",
         "level": 3
     },
     "32": {
@@ -200,7 +200,7 @@
     "33": {
         "type": "text",
         "page_idx": 2,
-        "text": "11. The Defendant submitted that there is no longer any basis for continuing injunctive relief. It emphasised that the Dubai Court proceedings had been withdrawn and that there are no foreign proceedi...",
+        "text": "11. The Defendant submitted that there is no longer any basis for continuing injunctive relief. It emphasised that the Dubai Court proceedings had been withdrawn and that there are no foreign proceedings presently which require restraint. ",
         "level": 3
     },
     "34": {
@@ -212,7 +212,7 @@
     "35": {
         "type": "text",
         "page_idx": 2,
-        "text": "13. The Defendant argued that any asserted risk of future proceedings was speculative and insuffi cient to justify the continuation of coercive relief, particularly where the relief would operate only...",
+        "text": "13. The Defendant argued that any asserted risk of future proceedings was speculative and insuffi cient to justify the continuation of coercive relief, particularly where the relief would operate only in a preventative or punitive manner. ",
         "level": 3
     },
     "36": {
@@ -224,19 +224,19 @@
     "37": {
         "type": "text",
         "page_idx": 2,
-        "text": "14. The Court approaches applications for anti-suit relief with caution. Such relief is discretionary and must be directed to a real and present need to restrain conduct that undermines the agreed dis...",
+        "text": "14. The Court approaches applications for anti-suit relief with caution. Such relief is discretionary and must be directed to a real and present need to restrain conduct that undermines the agreed dispute resolution mechanism. ",
         "level": 3
     },
     "38": {
         "type": "text",
         "page_idx": 2,
-        "text": "15. The interim anti-suit injunction in this case was granted to preserve the position pending inter partes consideration. The question at the Return Date is whether there remains suffi cient justifi ...",
+        "text": "15. The interim anti-suit injunction in this case was granted to preserve the position pending inter partes consideration. The question at the Return Date is whether there remains suffi cient justifi cation, in terms of necessity and proportionality, to maintain or extend that relief. ",
         "level": 3
     },
     "39": {
         "type": "text",
         "page_idx": 2,
-        "text": "16. The Court accepts that, at the time of the hearing, the onshore Dubai Court proceedings that gave rise to the interim order were no longer being pursued. There was no evidence before me of any exi...",
+        "text": "16. The Court accepts that, at the time of the hearing, the onshore Dubai Court proceedings that gave rise to the interim order were no longer being pursued. There was no evidence before me of any existing foreign proceedings requiring restraint. ",
         "level": 3
     },
     "40": {
@@ -248,13 +248,13 @@
     "41": {
         "type": "text",
         "page_idx": 2,
-        "text": "18. In those circumstances, I am not satisfi ed that continuing injunctive relief would serve a useful or proportionate purpose. The absence of any live proceedings means that the interim order has no...",
+        "text": "18. In those circumstances, I am not satisfi ed that continuing injunctive relief would serve a useful or proportionate purpose. The absence of any live proceedings means that the interim order has no further practical function. ",
         "level": 3
     },
     "42": {
         "type": "text",
         "page_idx": 3,
-        "text": "19. While the Claimant expressed concern about the possibility of future proceedings, I am not persuaded that such concern justifi es the continuation of an injunction where the conduct complained of ...",
+        "text": "19. While the Claimant expressed concern about the possibility of future proceedings, I am not persuaded that such concern justifi es the continuation of an injunction where the conduct complained of has ceased and the agreed arbitral mechanism is now engaged. ",
         "level": 3
     },
     "43": {

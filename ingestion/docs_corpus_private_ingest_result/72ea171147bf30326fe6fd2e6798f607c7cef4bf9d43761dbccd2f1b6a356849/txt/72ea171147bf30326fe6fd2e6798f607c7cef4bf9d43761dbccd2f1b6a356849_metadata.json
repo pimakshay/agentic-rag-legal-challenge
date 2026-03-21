@@ -1,0 +1,3970 @@
+{
+    "doc_type": "law",
+    "official_title": "Operating Law",
+    "official_title_normalized": "operating law",
+    "short_title": "Operating Law 2018",
+    "short_title_normalized": "operating law 2018",
+    "law_number": "7",
+    "law_year": "2018",
+    "official_citation": "DIFC Law No. 7 of 2018",
+    "official_citation_normalized": "difc law no 7 of 2018",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "March 2024",
+    "amending_laws": [
+        "As amended by DIFC Laws Amendment Law DIFC Law No. 1 of 2024"
+    ],
+    "administering_authority": "Registrar",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 43,
+    "page_count": 43,
+    "alias_keys": [
+        "Operating Law",
+        "Operating Law 2018",
+        "DIFC Law No. 7 of 2018"
+    ],
+    "article_index": {
+        "Article 6": {
+            "heading": "Appointment of the Registrar",
+            "article_number": "6",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 53,
+            "block_end": 54
+        },
+        "Article 8": {
+            "heading": "Prohibition against conduct of business",
+            "article_number": "8",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 91,
+            "block_end": 95
+        },
+        "Article 18": {
+            "heading": "Qualification and registration of auditors",
+            "article_number": "18",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 166,
+            "block_end": 176
+        },
+        "Article 29": {
+            "heading": "Direction to comply with this Law or other Legislation administered by the Registrar",
+            "article_number": "29",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 254,
+            "block_end": 264
+        },
+        "Article 34": {
+            "heading": "General contraventions provision",
+            "article_number": "34",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 328,
+            "block_end": 332
+        },
+        "Article 36": {
+            "heading": "Enforceable undertakings",
+            "article_number": "36",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 342,
+            "block_end": 343
+        },
+        "Article 39": {
+            "heading": "Application to Court in relation to decision of the Registrar",
+            "article_number": "39",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 355,
+            "block_end": 357
+        },
+        "Article 45": {
+            "heading": "The powers and functions of the Board of Directors of the DIFCA",
+            "article_number": "45",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 388,
+            "block_end": 392
+        },
+        "Article 48": {
+            "heading": "Reporting by the Registrar",
+            "article_number": "48",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 413,
+            "block_end": 416
+        },
+        "Article 60": {
+            "heading": "Waivers and modification of this Law or the Regulations",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 35,
+            "block_start": 471,
+            "block_end": 484
+        },
+        "Article 1": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 539,
+            "block_end": 545
+        },
+        "Article 1(1)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 540,
+            "block_end": 541
+        },
+        "Article 2": {
+            "heading": "Legislation in the DIFC",
+            "article_number": "2",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 546,
+            "block_end": 548
+        },
+        "Article 3": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 40,
+            "page_end": 42,
+            "block_start": 549,
+            "block_end": 556
+        },
+        "Article 3(1)": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 40,
+            "page_end": 41,
+            "block_start": 550,
+            "block_end": 555
+        },
+        "Article 4": {
+            "heading": "Provision of information",
+            "article_number": "4",
+            "page_start": 42,
+            "page_end": 43,
+            "block_start": 557,
+            "block_end": 565
+        },
+        "Article 4(1)": {
+            "heading": "Date of enactment and commencement",
+            "article_number": "4",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 45,
+            "block_end": 45
+        },
+        "Article 5": {
+            "heading": "Schedules",
+            "article_number": "5",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 46,
+            "block_end": 52
+        },
+        "Article 5(1)(a)": {
+            "heading": "Schedules",
+            "article_number": "5",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 48,
+            "block_end": 48
+        },
+        "Article 5(1)": {
+            "heading": "Schedules",
+            "article_number": "5",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 47,
+            "block_end": 48
+        },
+        "Article 5(2)": {
+            "heading": "Schedules",
+            "article_number": "5",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 49,
+            "block_end": 52
+        },
+        "Article 6(1)": {
+            "heading": "Appointment of the Registrar",
+            "article_number": "6",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 54,
+            "block_end": 54
+        },
+        "Article 7": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 8,
+            "block_start": 55,
+            "block_end": 90
+        },
+        "Article 7(1)(a)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 57,
+            "block_end": 57
+        },
+        "Article 7(1)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 56,
+            "block_end": 57
+        },
+        "Article 7(2)(a)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 59,
+            "block_end": 60
+        },
+        "Article 7(2)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 58,
+            "block_end": 60
+        },
+        "Article 7(3)(a)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 73,
+            "block_end": 74
+        },
+        "Article 7(3)(i)(iii)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 65,
+            "block_end": 65
+        },
+        "Article 7(3)(i)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 80,
+            "block_end": 81
+        },
+        "Article 7(3)(b)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 67,
+            "block_end": 67
+        },
+        "Article 7(3)(c)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 68,
+            "block_end": 68
+        },
+        "Article 7(3)(d)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 69,
+            "block_end": 69
+        },
+        "Article 7(3)(e)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 70,
+            "block_end": 70
+        },
+        "Article 7(3)(i)(ii)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 72,
+            "block_end": 72
+        },
+        "Article 7(3)(a)(iii)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 74,
+            "block_end": 74
+        },
+        "Article 7(3)(f)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 75,
+            "block_end": 75
+        },
+        "Article 7(3)(g)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 76,
+            "block_end": 76
+        },
+        "Article 7(3)(h)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 77,
+            "block_end": 77
+        },
+        "Article 7(3)(j)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 79,
+            "block_end": 79
+        },
+        "Article 7(3)(l)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 82,
+            "block_end": 83
+        },
+        "Article 7(3)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 61,
+            "block_end": 83
+        },
+        "Article 7(4)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 84,
+            "block_end": 84
+        },
+        "Article 7(5)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 85,
+            "block_end": 85
+        },
+        "Article 7(6)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 86,
+            "block_end": 86
+        },
+        "Article 7(7)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 87,
+            "block_end": 87
+        },
+        "Article 7(8)": {
+            "heading": "The objectives, functions and powers of the Registrar",
+            "article_number": "7",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 88,
+            "block_end": 90
+        },
+        "Article 8(1)": {
+            "heading": "Prohibition against conduct of business",
+            "article_number": "8",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 92,
+            "block_end": 92
+        },
+        "Article 8(2)(a)": {
+            "heading": "Prohibition against conduct of business",
+            "article_number": "8",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 94,
+            "block_end": 94
+        },
+        "Article 8(2)": {
+            "heading": "Prohibition against conduct of business",
+            "article_number": "8",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 93,
+            "block_end": 94
+        },
+        "Article 8(3)": {
+            "heading": "Prohibition against conduct of business",
+            "article_number": "8",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 95,
+            "block_end": 95
+        },
+        "Article 9": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 96,
+            "block_end": 118
+        },
+        "Article 9(1)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 97,
+            "block_end": 97
+        },
+        "Article 9(2)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 98,
+            "block_end": 98
+        },
+        "Article 9(3)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 99,
+            "block_end": 99
+        },
+        "Article 9(4)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 100,
+            "block_end": 100
+        },
+        "Article 9(5)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 101,
+            "block_end": 101
+        },
+        "Article 9(6)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 102,
+            "block_end": 102
+        },
+        "Article 9(7)(a)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 104,
+            "block_end": 104
+        },
+        "Article 9(7)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 103,
+            "block_end": 104
+        },
+        "Article 9(8)(a)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 106,
+            "block_end": 106
+        },
+        "Article 9(8)(i)(ii)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 110,
+            "block_end": 110
+        },
+        "Article 9(8)(i)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 107,
+            "block_end": 110
+        },
+        "Article 9(8)(b)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 111,
+            "block_end": 111
+        },
+        "Article 9(8)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 105,
+            "block_end": 111
+        },
+        "Article 9(9)(a)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 113,
+            "block_end": 113
+        },
+        "Article 9(9)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 112,
+            "block_end": 113
+        },
+        "Article 9(10)(a)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 115,
+            "block_end": 115
+        },
+        "Article 9(10)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 114,
+            "block_end": 115
+        },
+        "Article 9(11)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 116,
+            "block_end": 116
+        },
+        "Article 9(12)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 117,
+            "block_end": 117
+        },
+        "Article 9(13)": {
+            "heading": "Licences, Permissions and Exemptions",
+            "article_number": "9",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 118,
+            "block_end": 118
+        },
+        "Article 10": {
+            "heading": "Names",
+            "article_number": "10",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 119,
+            "block_end": 124
+        },
+        "Article 10(1)": {
+            "heading": "Names",
+            "article_number": "10",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 120,
+            "block_end": 120
+        },
+        "Article 10(2)": {
+            "heading": "Names",
+            "article_number": "10",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 121,
+            "block_end": 121
+        },
+        "Article 10(3)": {
+            "heading": "Names",
+            "article_number": "10",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 122,
+            "block_end": 122
+        },
+        "Article 10(4)": {
+            "heading": "Names",
+            "article_number": "10",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 123,
+            "block_end": 123
+        },
+        "Article 10(5)": {
+            "heading": "Names",
+            "article_number": "10",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 124,
+            "block_end": 124
+        },
+        "Article 11": {
+            "heading": "Change of name",
+            "article_number": "11",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 125,
+            "block_end": 134
+        },
+        "Article 11(1)": {
+            "heading": "Change of name",
+            "article_number": "11",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 126,
+            "block_end": 128
+        },
+        "Article 11(2)": {
+            "heading": "Change of name",
+            "article_number": "11",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 129,
+            "block_end": 129
+        },
+        "Article 11(3)(a)": {
+            "heading": "Change of name",
+            "article_number": "11",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 131,
+            "block_end": 131
+        },
+        "Article 11(3)": {
+            "heading": "Change of name",
+            "article_number": "11",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 130,
+            "block_end": 131
+        },
+        "Article 11(4)": {
+            "heading": "Change of name",
+            "article_number": "11",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 132,
+            "block_end": 132
+        },
+        "Article 11(5)(a)": {
+            "heading": "Change of name",
+            "article_number": "11",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 134,
+            "block_end": 134
+        },
+        "Article 11(5)": {
+            "heading": "Change of name",
+            "article_number": "11",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 133,
+            "block_end": 134
+        },
+        "Article 12": {
+            "heading": "Power to require change of name",
+            "article_number": "12",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 135,
+            "block_end": 138
+        },
+        "Article 12(1)": {
+            "heading": "Power to require change of name",
+            "article_number": "12",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 136,
+            "block_end": 136
+        },
+        "Article 12(2)": {
+            "heading": "Power to require change of name",
+            "article_number": "12",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 137,
+            "block_end": 137
+        },
+        "Article 12(3)": {
+            "heading": "Power to require change of name",
+            "article_number": "12",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 138,
+            "block_end": 138
+        },
+        "Article 13": {
+            "heading": "Registered office",
+            "article_number": "13",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 139,
+            "block_end": 140
+        },
+        "Article 13(1)": {
+            "heading": "Registered office",
+            "article_number": "13",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 140,
+            "block_end": 140
+        },
+        "Article 14": {
+            "heading": "Particulars in communications",
+            "article_number": "14",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 141,
+            "block_end": 144
+        },
+        "Article 14(1)": {
+            "heading": "Particulars in communications",
+            "article_number": "14",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 142,
+            "block_end": 143
+        },
+        "Article 14(2)": {
+            "heading": "Particulars in communications",
+            "article_number": "14",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 144,
+            "block_end": 144
+        },
+        "Article 15": {
+            "heading": "Change in Registered Details of a Registered Person",
+            "article_number": "15",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 145,
+            "block_end": 149
+        },
+        "Article 15(1)(a)": {
+            "heading": "Change in Registered Details of a Registered Person",
+            "article_number": "15",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 147,
+            "block_end": 148
+        },
+        "Article 15(1)": {
+            "heading": "Change in Registered Details of a Registered Person",
+            "article_number": "15",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 146,
+            "block_end": 148
+        },
+        "Article 15(2)": {
+            "heading": "Change in Registered Details of a Registered Person",
+            "article_number": "15",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 149,
+            "block_end": 149
+        },
+        "Article 16": {
+            "heading": "Confirmation Statement",
+            "article_number": "16",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 150,
+            "block_end": 151
+        },
+        "Article 16(1)": {
+            "heading": "Confirmation Statement",
+            "article_number": "16",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 151,
+            "block_end": 151
+        },
+        "Article 17": {
+            "heading": "Records and registers",
+            "article_number": "17",
+            "page_start": 11,
+            "page_end": 13,
+            "block_start": 152,
+            "block_end": 165
+        },
+        "Article 17(1)": {
+            "heading": "Records and registers",
+            "article_number": "17",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 153,
+            "block_end": 153
+        },
+        "Article 17(2)(a)": {
+            "heading": "Records and registers",
+            "article_number": "17",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 155,
+            "block_end": 156
+        },
+        "Article 17(2)(c)": {
+            "heading": "Records and registers",
+            "article_number": "17",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 157,
+            "block_end": 158
+        },
+        "Article 17(2)": {
+            "heading": "Records and registers",
+            "article_number": "17",
+            "page_start": 11,
+            "page_end": 12,
+            "block_start": 154,
+            "block_end": 158
+        },
+        "Article 17(4)": {
+            "heading": "Records and registers",
+            "article_number": "17",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 159,
+            "block_end": 159
+        },
+        "Article 17(5)(a)": {
+            "heading": "Records and registers",
+            "article_number": "17",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 161,
+            "block_end": 161
+        },
+        "Article 17(5)": {
+            "heading": "Records and registers",
+            "article_number": "17",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 160,
+            "block_end": 161
+        },
+        "Article 17(6)": {
+            "heading": "Records and registers",
+            "article_number": "17",
+            "page_start": 12,
+            "page_end": 13,
+            "block_start": 162,
+            "block_end": 165
+        },
+        "Article 18(1)": {
+            "heading": "Qualification and registration of auditors",
+            "article_number": "18",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 167,
+            "block_end": 167
+        },
+        "Article 18(2)": {
+            "heading": "Qualification and registration of auditors",
+            "article_number": "18",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 168,
+            "block_end": 168
+        },
+        "Article 18(3)": {
+            "heading": "Qualification and registration of auditors",
+            "article_number": "18",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 169,
+            "block_end": 169
+        },
+        "Article 18(4)(a)": {
+            "heading": "Qualification and registration of auditors",
+            "article_number": "18",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 171,
+            "block_end": 171
+        },
+        "Article 18(4)": {
+            "heading": "Qualification and registration of auditors",
+            "article_number": "18",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 170,
+            "block_end": 171
+        },
+        "Article 18(5)": {
+            "heading": "Qualification and registration of auditors",
+            "article_number": "18",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 172,
+            "block_end": 172
+        },
+        "Article 18(6)": {
+            "heading": "Qualification and registration of auditors",
+            "article_number": "18",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 173,
+            "block_end": 173
+        },
+        "Article 18(7)(a)": {
+            "heading": "Qualification and registration of auditors",
+            "article_number": "18",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 175,
+            "block_end": 175
+        },
+        "Article 18(7)": {
+            "heading": "Qualification and registration of auditors",
+            "article_number": "18",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 174,
+            "block_end": 175
+        },
+        "Article 18(8)": {
+            "heading": "Qualification and registration of auditors",
+            "article_number": "18",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 176,
+            "block_end": 176
+        },
+        "Article 19": {
+            "heading": "Register of auditors",
+            "article_number": "19",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 177,
+            "block_end": 178
+        },
+        "Article 19(1)": {
+            "heading": "Register of auditors",
+            "article_number": "19",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 178,
+            "block_end": 178
+        },
+        "Article 20": {
+            "heading": "Obligation of disclosure to the Registrar",
+            "article_number": "20",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 179,
+            "block_end": 185
+        },
+        "Article 20(1)": {
+            "heading": "Obligation of disclosure to the Registrar",
+            "article_number": "20",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 180,
+            "block_end": 180
+        },
+        "Article 20(2)(a)": {
+            "heading": "Obligation of disclosure to the Registrar",
+            "article_number": "20",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 184,
+            "block_end": 185
+        },
+        "Article 20(2)": {
+            "heading": "Obligation of disclosure to the Registrar",
+            "article_number": "20",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 181,
+            "block_end": 185
+        },
+        "Article 21": {
+            "heading": "Court orders",
+            "article_number": "21",
+            "page_start": 14,
+            "page_end": 15,
+            "block_start": 186,
+            "block_end": 194
+        },
+        "Article 21(1)(a)": {
+            "heading": "Court orders",
+            "article_number": "21",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 188,
+            "block_end": 189
+        },
+        "Article 21(1)(d)": {
+            "heading": "Court orders",
+            "article_number": "21",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 190,
+            "block_end": 190
+        },
+        "Article 21(1)": {
+            "heading": "Court orders",
+            "article_number": "21",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 187,
+            "block_end": 190
+        },
+        "Article 21(2)": {
+            "heading": "Court orders",
+            "article_number": "21",
+            "page_start": 14,
+            "page_end": 15,
+            "block_start": 191,
+            "block_end": 194
+        },
+        "Article 22": {
+            "heading": "Application and Interpretation of this Part",
+            "article_number": "22",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 195,
+            "block_end": 196
+        },
+        "Article 23": {
+            "heading": "Appointment of Inspectors",
+            "article_number": "23",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 197,
+            "block_end": 198
+        },
+        "Article 23(1)": {
+            "heading": "Appointment of Inspectors",
+            "article_number": "23",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 198,
+            "block_end": 198
+        },
+        "Article 24": {
+            "heading": "Powers of Inspectors to obtain information and Documents",
+            "article_number": "24",
+            "page_start": 15,
+            "page_end": 17,
+            "block_start": 199,
+            "block_end": 218
+        },
+        "Article 24(1)(a)": {
+            "heading": "Powers of Inspectors to obtain information and Documents",
+            "article_number": "24",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 201,
+            "block_end": 201
+        },
+        "Article 24(1)": {
+            "heading": "Powers of Inspectors to obtain information and Documents",
+            "article_number": "24",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 200,
+            "block_end": 201
+        },
+        "Article 24(2)(a)": {
+            "heading": "Powers of Inspectors to obtain information and Documents",
+            "article_number": "24",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 203,
+            "block_end": 205
+        },
+        "Article 24(2)(b)": {
+            "heading": "Powers of Inspectors to obtain information and Documents",
+            "article_number": "24",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 206,
+            "block_end": 206
+        },
+        "Article 24(2)": {
+            "heading": "Powers of Inspectors to obtain information and Documents",
+            "article_number": "24",
+            "page_start": 15,
+            "page_end": 16,
+            "block_start": 202,
+            "block_end": 206
+        },
+        "Article 24(3)(a)": {
+            "heading": "Powers of Inspectors to obtain information and Documents",
+            "article_number": "24",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 208,
+            "block_end": 208
+        },
+        "Article 24(3)": {
+            "heading": "Powers of Inspectors to obtain information and Documents",
+            "article_number": "24",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 207,
+            "block_end": 208
+        },
+        "Article 24(4)": {
+            "heading": "Powers of Inspectors to obtain information and Documents",
+            "article_number": "24",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 209,
+            "block_end": 209
+        },
+        "Article 24(5)": {
+            "heading": "Powers of Inspectors to obtain information and Documents",
+            "article_number": "24",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 210,
+            "block_end": 210
+        },
+        "Article 24(6)(a)": {
+            "heading": "Powers of Inspectors to obtain information and Documents",
+            "article_number": "24",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 212,
+            "block_end": 213
+        },
+        "Article 24(6)": {
+            "heading": "Powers of Inspectors to obtain information and Documents",
+            "article_number": "24",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 211,
+            "block_end": 213
+        },
+        "Article 24(7)(a)": {
+            "heading": "Powers of Inspectors to obtain information and Documents",
+            "article_number": "24",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 215,
+            "block_end": 217
+        },
+        "Article 24(7)(b)": {
+            "heading": "Powers of Inspectors to obtain information and Documents",
+            "article_number": "24",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 218,
+            "block_end": 218
+        },
+        "Article 24(7)": {
+            "heading": "Powers of Inspectors to obtain information and Documents",
+            "article_number": "24",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 214,
+            "block_end": 218
+        },
+        "Article 25": {
+            "heading": "Use and effect of Documents and information obtained for investigations",
+            "article_number": "25",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 219,
+            "block_end": 233
+        },
+        "Article 25(1)": {
+            "heading": "Use and effect of Documents and information obtained for investigations",
+            "article_number": "25",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 220,
+            "block_end": 220
+        },
+        "Article 25(2)": {
+            "heading": "Use and effect of Documents and information obtained for investigations",
+            "article_number": "25",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 221,
+            "block_end": 221
+        },
+        "Article 25(3)(a)": {
+            "heading": "Use and effect of Documents and information obtained for investigations",
+            "article_number": "25",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 223,
+            "block_end": 223
+        },
+        "Article 25(3)": {
+            "heading": "Use and effect of Documents and information obtained for investigations",
+            "article_number": "25",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 222,
+            "block_end": 223
+        },
+        "Article 25(4)(a)": {
+            "heading": "Use and effect of Documents and information obtained for investigations",
+            "article_number": "25",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 225,
+            "block_end": 226
+        },
+        "Article 25(4)": {
+            "heading": "Use and effect of Documents and information obtained for investigations",
+            "article_number": "25",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 224,
+            "block_end": 226
+        },
+        "Article 25(6)": {
+            "heading": "Use and effect of Documents and information obtained for investigations",
+            "article_number": "25",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 227,
+            "block_end": 227
+        },
+        "Article 25(7)(a)": {
+            "heading": "Use and effect of Documents and information obtained for investigations",
+            "article_number": "25",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 229,
+            "block_end": 230
+        },
+        "Article 25(7)": {
+            "heading": "Use and effect of Documents and information obtained for investigations",
+            "article_number": "25",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 228,
+            "block_end": 230
+        },
+        "Article 25(8)": {
+            "heading": "Use and effect of Documents and information obtained for investigations",
+            "article_number": "25",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 231,
+            "block_end": 233
+        },
+        "Article 26": {
+            "heading": "Obstruction of the Inspectors",
+            "article_number": "26",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 234,
+            "block_end": 239
+        },
+        "Article 26(1)(a)": {
+            "heading": "Obstruction of the Inspectors",
+            "article_number": "26",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 236,
+            "block_end": 237
+        },
+        "Article 26(1)": {
+            "heading": "Obstruction of the Inspectors",
+            "article_number": "26",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 235,
+            "block_end": 237
+        },
+        "Article 26(2)": {
+            "heading": "Obstruction of the Inspectors",
+            "article_number": "26",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 238,
+            "block_end": 238
+        },
+        "Article 26(3)": {
+            "heading": "Obstruction of the Inspectors",
+            "article_number": "26",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 239,
+            "block_end": 239
+        },
+        "Article 27": {
+            "heading": "Inspectors’ reports",
+            "article_number": "27",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 240,
+            "block_end": 244
+        },
+        "Article 27(1)": {
+            "heading": "Inspectors’ reports",
+            "article_number": "27",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 241,
+            "block_end": 241
+        },
+        "Article 27(2)": {
+            "heading": "Inspectors’ reports",
+            "article_number": "27",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 242,
+            "block_end": 242
+        },
+        "Article 27(3)(a)": {
+            "heading": "Inspectors’ reports",
+            "article_number": "27",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 244,
+            "block_end": 244
+        },
+        "Article 27(3)": {
+            "heading": "Inspectors’ reports",
+            "article_number": "27",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 243,
+            "block_end": 244
+        },
+        "Article 28": {
+            "heading": "Powers of Registrar to apply to Court",
+            "article_number": "28",
+            "page_start": 18,
+            "page_end": 19,
+            "block_start": 245,
+            "block_end": 253
+        },
+        "Article 28(1)(a)": {
+            "heading": "Powers of Registrar to apply to Court",
+            "article_number": "28",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 247,
+            "block_end": 249
+        },
+        "Article 28(1)(i)": {
+            "heading": "Powers of Registrar to apply to Court",
+            "article_number": "28",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 250,
+            "block_end": 250
+        },
+        "Article 28(1)(b)": {
+            "heading": "Powers of Registrar to apply to Court",
+            "article_number": "28",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 251,
+            "block_end": 251
+        },
+        "Article 28(1)": {
+            "heading": "Powers of Registrar to apply to Court",
+            "article_number": "28",
+            "page_start": 18,
+            "page_end": 19,
+            "block_start": 246,
+            "block_end": 251
+        },
+        "Article 28(2)": {
+            "heading": "Powers of Registrar to apply to Court",
+            "article_number": "28",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 252,
+            "block_end": 253
+        },
+        "Article 29(1)(a)": {
+            "heading": "Direction to comply with this Law or other Legislation administered by the Registrar",
+            "article_number": "29",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 256,
+            "block_end": 257
+        },
+        "Article 29(1)": {
+            "heading": "Direction to comply with this Law or other Legislation administered by the Registrar",
+            "article_number": "29",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 255,
+            "block_end": 257
+        },
+        "Article 29(2)": {
+            "heading": "Direction to comply with this Law or other Legislation administered by the Registrar",
+            "article_number": "29",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 258,
+            "block_end": 258
+        },
+        "Article 29(3)(a)": {
+            "heading": "Direction to comply with this Law or other Legislation administered by the Registrar",
+            "article_number": "29",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 260,
+            "block_end": 260
+        },
+        "Article 29(3)(b)": {
+            "heading": "Direction to comply with this Law or other Legislation administered by the Registrar",
+            "article_number": "29",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 261,
+            "block_end": 261
+        },
+        "Article 29(3)(i)": {
+            "heading": "Direction to comply with this Law or other Legislation administered by the Registrar",
+            "article_number": "29",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 262,
+            "block_end": 262
+        },
+        "Article 29(3)(c)": {
+            "heading": "Direction to comply with this Law or other Legislation administered by the Registrar",
+            "article_number": "29",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 263,
+            "block_end": 263
+        },
+        "Article 29(3)": {
+            "heading": "Direction to comply with this Law or other Legislation administered by the Registrar",
+            "article_number": "29",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 259,
+            "block_end": 263
+        },
+        "Article 29(4)": {
+            "heading": "Direction to comply with this Law or other Legislation administered by the Registrar",
+            "article_number": "29",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 264,
+            "block_end": 264
+        },
+        "Article 30": {
+            "heading": "General power to obtain information",
+            "article_number": "30",
+            "page_start": 19,
+            "page_end": 20,
+            "block_start": 265,
+            "block_end": 273
+        },
+        "Article 30(1)": {
+            "heading": "General power to obtain information",
+            "article_number": "30",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 268,
+            "block_end": 269
+        },
+        "Article 30(2)": {
+            "heading": "General power to obtain information",
+            "article_number": "30",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 270,
+            "block_end": 270
+        },
+        "Article 30(3)": {
+            "heading": "General power to obtain information",
+            "article_number": "30",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 271,
+            "block_end": 271
+        },
+        "Article 30(4)": {
+            "heading": "General power to obtain information",
+            "article_number": "30",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 272,
+            "block_end": 272
+        },
+        "Article 30(5)": {
+            "heading": "General power to obtain information",
+            "article_number": "30",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 273,
+            "block_end": 273
+        },
+        "Article 31": {
+            "heading": "Compliance with a direction or requirement of the Registrar",
+            "article_number": "31",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 274,
+            "block_end": 276
+        },
+        "Article 31(1)": {
+            "heading": "Compliance with a direction or requirement of the Registrar",
+            "article_number": "31",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 275,
+            "block_end": 275
+        },
+        "Article 31(2)": {
+            "heading": "Compliance with a direction or requirement of the Registrar",
+            "article_number": "31",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 276,
+            "block_end": 276
+        },
+        "Article 32": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 20,
+            "page_end": 23,
+            "block_start": 277,
+            "block_end": 315
+        },
+        "Article 32(1)(a)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 279,
+            "block_end": 281
+        },
+        "Article 32(1)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 278,
+            "block_end": 281
+        },
+        "Article 32(2)(a)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 283,
+            "block_end": 283
+        },
+        "Article 32(2)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 282,
+            "block_end": 283
+        },
+        "Article 32(3)(a)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 285,
+            "block_end": 285
+        },
+        "Article 32(3)(i)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 286,
+            "block_end": 287
+        },
+        "Article 32(3)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 284,
+            "block_end": 287
+        },
+        "Article 32(4)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 288,
+            "block_end": 288
+        },
+        "Article 32(5)(a)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 290,
+            "block_end": 290
+        },
+        "Article 32(5)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 289,
+            "block_end": 290
+        },
+        "Article 32(6)(a)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 292,
+            "block_end": 292
+        },
+        "Article 32(6)(i)(iii)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 296,
+            "block_end": 296
+        },
+        "Article 32(6)(i)(iv)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 297,
+            "block_end": 297
+        },
+        "Article 32(6)(i)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 21,
+            "page_end": 22,
+            "block_start": 293,
+            "block_end": 297
+        },
+        "Article 32(6)(b)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 298,
+            "block_end": 298
+        },
+        "Article 32(6)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 21,
+            "page_end": 22,
+            "block_start": 291,
+            "block_end": 298
+        },
+        "Article 32(7)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 299,
+            "block_end": 300
+        },
+        "Article 32(9)(a)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 302,
+            "block_end": 302
+        },
+        "Article 32(9)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 301,
+            "block_end": 302
+        },
+        "Article 32(10)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 303,
+            "block_end": 303
+        },
+        "Article 32(11)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 304,
+            "block_end": 305
+        },
+        "Article 32(13)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 306,
+            "block_end": 306
+        },
+        "Article 32(14)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 307,
+            "block_end": 307
+        },
+        "Article 32(15)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 308,
+            "block_end": 308
+        },
+        "Article 32(16)(a)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 310,
+            "block_end": 312
+        },
+        "Article 32(16)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 309,
+            "block_end": 312
+        },
+        "Article 32(17)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 313,
+            "block_end": 313
+        },
+        "Article 32(18)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 314,
+            "block_end": 314
+        },
+        "Article 32(19)": {
+            "heading": "Powers to strike off names of Registered Persons from the Public Register",
+            "article_number": "32",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 315,
+            "block_end": 315
+        },
+        "Article 33": {
+            "heading": "Restoration of a Registered Person",
+            "article_number": "33",
+            "page_start": 23,
+            "page_end": 24,
+            "block_start": 316,
+            "block_end": 327
+        },
+        "Article 33(1)(a)": {
+            "heading": "Restoration of a Registered Person",
+            "article_number": "33",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 318,
+            "block_end": 319
+        },
+        "Article 33(1)": {
+            "heading": "Restoration of a Registered Person",
+            "article_number": "33",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 317,
+            "block_end": 319
+        },
+        "Article 33(2)": {
+            "heading": "Restoration of a Registered Person",
+            "article_number": "33",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 320,
+            "block_end": 320
+        },
+        "Article 33(3)": {
+            "heading": "Restoration of a Registered Person",
+            "article_number": "33",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 321,
+            "block_end": 323
+        },
+        "Article 33(4)": {
+            "heading": "Restoration of a Registered Person",
+            "article_number": "33",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 324,
+            "block_end": 324
+        },
+        "Article 33(7)(a)": {
+            "heading": "Restoration of a Registered Person",
+            "article_number": "33",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 326,
+            "block_end": 327
+        },
+        "Article 33(7)": {
+            "heading": "Restoration of a Registered Person",
+            "article_number": "33",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 325,
+            "block_end": 327
+        },
+        "Article 34(1)(a)": {
+            "heading": "General contraventions provision",
+            "article_number": "34",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 330,
+            "block_end": 331
+        },
+        "Article 34(1)": {
+            "heading": "General contraventions provision",
+            "article_number": "34",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 329,
+            "block_end": 331
+        },
+        "Article 34(2)": {
+            "heading": "General contraventions provision",
+            "article_number": "34",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 332,
+            "block_end": 332
+        },
+        "Article 35": {
+            "heading": "Involvement in contraventions",
+            "article_number": "35",
+            "page_start": 24,
+            "page_end": 25,
+            "block_start": 333,
+            "block_end": 341
+        },
+        "Article 35(1)": {
+            "heading": "Involvement in contraventions",
+            "article_number": "35",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 334,
+            "block_end": 334
+        },
+        "Article 35(2)": {
+            "heading": "Involvement in contraventions",
+            "article_number": "35",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 335,
+            "block_end": 335
+        },
+        "Article 35(3)": {
+            "heading": "Involvement in contraventions",
+            "article_number": "35",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 336,
+            "block_end": 336
+        },
+        "Article 35(4)(a)": {
+            "heading": "Involvement in contraventions",
+            "article_number": "35",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 339,
+            "block_end": 339
+        },
+        "Article 35(4)": {
+            "heading": "Involvement in contraventions",
+            "article_number": "35",
+            "page_start": 24,
+            "page_end": 25,
+            "block_start": 337,
+            "block_end": 339
+        },
+        "Article 35(5)": {
+            "heading": "Involvement in contraventions",
+            "article_number": "35",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 340,
+            "block_end": 341
+        },
+        "Article 36(1)": {
+            "heading": "Enforceable undertakings",
+            "article_number": "36",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 343,
+            "block_end": 343
+        },
+        "Article 37": {
+            "heading": "Administrative Censures",
+            "article_number": "37",
+            "page_start": 25,
+            "page_end": 26,
+            "block_start": 344,
+            "block_end": 349
+        },
+        "Article 37(1)(a)": {
+            "heading": "Administrative Censures",
+            "article_number": "37",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 346,
+            "block_end": 346
+        },
+        "Article 37(1)": {
+            "heading": "Administrative Censures",
+            "article_number": "37",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 345,
+            "block_end": 346
+        },
+        "Article 37(2)": {
+            "heading": "Administrative Censures",
+            "article_number": "37",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 347,
+            "block_end": 348
+        },
+        "Article 37(3)": {
+            "heading": "Administrative Censures",
+            "article_number": "37",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 349,
+            "block_end": 349
+        },
+        "Article 38": {
+            "heading": "Imposition of fines",
+            "article_number": "38",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 350,
+            "block_end": 354
+        },
+        "Article 38(1)": {
+            "heading": "Imposition of fines",
+            "article_number": "38",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 351,
+            "block_end": 351
+        },
+        "Article 38(2)": {
+            "heading": "Imposition of fines",
+            "article_number": "38",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 352,
+            "block_end": 354
+        },
+        "Article 40": {
+            "heading": "Orders for compensation",
+            "article_number": "40",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 358,
+            "block_end": 361
+        },
+        "Article 40(1)": {
+            "heading": "Orders for compensation",
+            "article_number": "40",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 359,
+            "block_end": 359
+        },
+        "Article 40(2)": {
+            "heading": "Orders for compensation",
+            "article_number": "40",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 360,
+            "block_end": 360
+        },
+        "Article 40(3)": {
+            "heading": "Orders for compensation",
+            "article_number": "40",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 361,
+            "block_end": 361
+        },
+        "Article 41": {
+            "heading": "Compulsory winding up",
+            "article_number": "41",
+            "page_start": 26,
+            "page_end": 27,
+            "block_start": 362,
+            "block_end": 369
+        },
+        "Article 41(1)(a)": {
+            "heading": "Compulsory winding up",
+            "article_number": "41",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 365,
+            "block_end": 365
+        },
+        "Article 41(1)(i)": {
+            "heading": "Compulsory winding up",
+            "article_number": "41",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 366,
+            "block_end": 366
+        },
+        "Article 41(1)(b)": {
+            "heading": "Compulsory winding up",
+            "article_number": "41",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 367,
+            "block_end": 367
+        },
+        "Article 41(1)": {
+            "heading": "Compulsory winding up",
+            "article_number": "41",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 364,
+            "block_end": 367
+        },
+        "Article 41(2)": {
+            "heading": "Compulsory winding up",
+            "article_number": "41",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 368,
+            "block_end": 369
+        },
+        "Article 42": {
+            "heading": "Appointment of a receiver",
+            "article_number": "42",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 370,
+            "block_end": 376
+        },
+        "Article 42(1)": {
+            "heading": "Appointment of a receiver",
+            "article_number": "42",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 371,
+            "block_end": 371
+        },
+        "Article 42(2)(a)": {
+            "heading": "Appointment of a receiver",
+            "article_number": "42",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 373,
+            "block_end": 374
+        },
+        "Article 42(2)": {
+            "heading": "Appointment of a receiver",
+            "article_number": "42",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 372,
+            "block_end": 374
+        },
+        "Article 42(3)": {
+            "heading": "Appointment of a receiver",
+            "article_number": "42",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 375,
+            "block_end": 375
+        },
+        "Article 42(4)": {
+            "heading": "Appointment of a receiver",
+            "article_number": "42",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 376,
+            "block_end": 376
+        },
+        "Article 43": {
+            "heading": "Power of Court to grant relief in certain cases",
+            "article_number": "43",
+            "page_start": 27,
+            "page_end": 28,
+            "block_start": 377,
+            "block_end": 381
+        },
+        "Article 43(1)": {
+            "heading": "Power of Court to grant relief in certain cases",
+            "article_number": "43",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 378,
+            "block_end": 380
+        },
+        "Article 43(2)": {
+            "heading": "Power of Court to grant relief in certain cases",
+            "article_number": "43",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 381,
+            "block_end": 381
+        },
+        "Article 44": {
+            "heading": "Effect of provisions",
+            "article_number": "44",
+            "page_start": 28,
+            "page_end": 29,
+            "block_start": 382,
+            "block_end": 387
+        },
+        "Article 45(1)(a)": {
+            "heading": "The powers and functions of the Board of Directors of the DIFCA",
+            "article_number": "45",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 390,
+            "block_end": 391
+        },
+        "Article 45(1)": {
+            "heading": "The powers and functions of the Board of Directors of the DIFCA",
+            "article_number": "45",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 389,
+            "block_end": 391
+        },
+        "Article 45(2)": {
+            "heading": "The powers and functions of the Board of Directors of the DIFCA",
+            "article_number": "45",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 392,
+            "block_end": 392
+        },
+        "Article 46": {
+            "heading": "Power to make Regulations",
+            "article_number": "46",
+            "page_start": 29,
+            "page_end": 30,
+            "block_start": 393,
+            "block_end": 403
+        },
+        "Article 46(1)(a)": {
+            "heading": "Power to make Regulations",
+            "article_number": "46",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 395,
+            "block_end": 395
+        },
+        "Article 46(1)": {
+            "heading": "Power to make Regulations",
+            "article_number": "46",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 394,
+            "block_end": 395
+        },
+        "Article 46(2)(a)": {
+            "heading": "Power to make Regulations",
+            "article_number": "46",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 397,
+            "block_end": 397
+        },
+        "Article 46(2)": {
+            "heading": "Power to make Regulations",
+            "article_number": "46",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 396,
+            "block_end": 397
+        },
+        "Article 46(3)": {
+            "heading": "Power to make Regulations",
+            "article_number": "46",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 398,
+            "block_end": 398
+        },
+        "Article 46(4)(a)": {
+            "heading": "Power to make Regulations",
+            "article_number": "46",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 400,
+            "block_end": 402
+        },
+        "Article 46(4)": {
+            "heading": "Power to make Regulations",
+            "article_number": "46",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 399,
+            "block_end": 402
+        },
+        "Article 46(5)": {
+            "heading": "Power to make Regulations",
+            "article_number": "46",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 403,
+            "block_end": 403
+        },
+        "Article 47": {
+            "heading": "Publication of draft Regulations",
+            "article_number": "47",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 404,
+            "block_end": 412
+        },
+        "Article 47(1)": {
+            "heading": "Publication of draft Regulations",
+            "article_number": "47",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 405,
+            "block_end": 405
+        },
+        "Article 47(2)(a)": {
+            "heading": "Publication of draft Regulations",
+            "article_number": "47",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 407,
+            "block_end": 407
+        },
+        "Article 47(2)": {
+            "heading": "Publication of draft Regulations",
+            "article_number": "47",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 406,
+            "block_end": 407
+        },
+        "Article 47(3)": {
+            "heading": "Publication of draft Regulations",
+            "article_number": "47",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 408,
+            "block_end": 408
+        },
+        "Article 47(4)(a)": {
+            "heading": "Publication of draft Regulations",
+            "article_number": "47",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 410,
+            "block_end": 410
+        },
+        "Article 47(4)": {
+            "heading": "Publication of draft Regulations",
+            "article_number": "47",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 409,
+            "block_end": 410
+        },
+        "Article 47(5)": {
+            "heading": "Publication of draft Regulations",
+            "article_number": "47",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 411,
+            "block_end": 412
+        },
+        "Article 48(1)": {
+            "heading": "Reporting by the Registrar",
+            "article_number": "48",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 414,
+            "block_end": 416
+        },
+        "Article 49": {
+            "heading": "Record keeping",
+            "article_number": "49",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 417,
+            "block_end": 418
+        },
+        "Article 50": {
+            "heading": "Conflicts of interest",
+            "article_number": "50",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 419,
+            "block_end": 420
+        },
+        "Article 50(1)": {
+            "heading": "Conflicts of interest",
+            "article_number": "50",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 420,
+            "block_end": 420
+        },
+        "Article 51": {
+            "heading": "Confidential information",
+            "article_number": "51",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 421,
+            "block_end": 429
+        },
+        "Article 51(1)": {
+            "heading": "Confidential information",
+            "article_number": "51",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 422,
+            "block_end": 422
+        },
+        "Article 51(2)(a)": {
+            "heading": "Confidential information",
+            "article_number": "51",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 424,
+            "block_end": 425
+        },
+        "Article 51(2)": {
+            "heading": "Confidential information",
+            "article_number": "51",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 423,
+            "block_end": 425
+        },
+        "Article 51(3)(a)": {
+            "heading": "Confidential information",
+            "article_number": "51",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 427,
+            "block_end": 429
+        },
+        "Article 51(3)": {
+            "heading": "Confidential information",
+            "article_number": "51",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 426,
+            "block_end": 429
+        },
+        "Article 52": {
+            "heading": "Financial year",
+            "article_number": "52",
+            "page_start": 31,
+            "page_end": 32,
+            "block_start": 430,
+            "block_end": 431
+        },
+        "Article 53": {
+            "heading": "The annual budget of the Registrar",
+            "article_number": "53",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 432,
+            "block_end": 437
+        },
+        "Article 53(1)": {
+            "heading": "The annual budget of the Registrar",
+            "article_number": "53",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 433,
+            "block_end": 433
+        },
+        "Article 53(2)": {
+            "heading": "The annual budget of the Registrar",
+            "article_number": "53",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 434,
+            "block_end": 434
+        },
+        "Article 53(3)(a)": {
+            "heading": "The annual budget of the Registrar",
+            "article_number": "53",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 436,
+            "block_end": 436
+        },
+        "Article 53(3)": {
+            "heading": "The annual budget of the Registrar",
+            "article_number": "53",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 435,
+            "block_end": 436
+        },
+        "Article 53(4)": {
+            "heading": "The annual budget of the Registrar",
+            "article_number": "53",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 437,
+            "block_end": 437
+        },
+        "Article 54": {
+            "heading": "Funding and fees",
+            "article_number": "54",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 438,
+            "block_end": 445
+        },
+        "Article 54(1)": {
+            "heading": "Funding and fees",
+            "article_number": "54",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 439,
+            "block_end": 439
+        },
+        "Article 54(2)": {
+            "heading": "Funding and fees",
+            "article_number": "54",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 440,
+            "block_end": 440
+        },
+        "Article 54(3)(a)": {
+            "heading": "Funding and fees",
+            "article_number": "54",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 442,
+            "block_end": 442
+        },
+        "Article 54(3)(b)": {
+            "heading": "Funding and fees",
+            "article_number": "54",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 443,
+            "block_end": 443
+        },
+        "Article 54(3)": {
+            "heading": "Funding and fees",
+            "article_number": "54",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 441,
+            "block_end": 443
+        },
+        "Article 54(4)": {
+            "heading": "Funding and fees",
+            "article_number": "54",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 444,
+            "block_end": 444
+        },
+        "Article 54(5)": {
+            "heading": "Funding and fees",
+            "article_number": "54",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 445,
+            "block_end": 445
+        },
+        "Article 55": {
+            "heading": "Accounts",
+            "article_number": "55",
+            "page_start": 32,
+            "page_end": 33,
+            "block_start": 446,
+            "block_end": 451
+        },
+        "Article 55(1)": {
+            "heading": "Accounts",
+            "article_number": "55",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 447,
+            "block_end": 447
+        },
+        "Article 55(2)": {
+            "heading": "Accounts",
+            "article_number": "55",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 448,
+            "block_end": 450
+        },
+        "Article 55(3)": {
+            "heading": "Accounts",
+            "article_number": "55",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 451,
+            "block_end": 451
+        },
+        "Article 56": {
+            "heading": "Audit",
+            "article_number": "56",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 452,
+            "block_end": 461
+        },
+        "Article 56(1)": {
+            "heading": "Audit",
+            "article_number": "56",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 453,
+            "block_end": 453
+        },
+        "Article 56(2)": {
+            "heading": "Audit",
+            "article_number": "56",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 454,
+            "block_end": 454
+        },
+        "Article 56(3)": {
+            "heading": "Audit",
+            "article_number": "56",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 455,
+            "block_end": 455
+        },
+        "Article 56(4)": {
+            "heading": "Audit",
+            "article_number": "56",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 456,
+            "block_end": 456
+        },
+        "Article 56(5)": {
+            "heading": "Audit",
+            "article_number": "56",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 457,
+            "block_end": 457
+        },
+        "Article 56(6)": {
+            "heading": "Audit",
+            "article_number": "56",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 458,
+            "block_end": 458
+        },
+        "Article 56(7)": {
+            "heading": "Audit",
+            "article_number": "56",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 459,
+            "block_end": 459
+        },
+        "Article 56(8)(a)": {
+            "heading": "Audit",
+            "article_number": "56",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 461,
+            "block_end": 461
+        },
+        "Article 56(8)": {
+            "heading": "Audit",
+            "article_number": "56",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 460,
+            "block_end": 461
+        },
+        "Article 57": {
+            "heading": "Taxation",
+            "article_number": "57",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 462,
+            "block_end": 463
+        },
+        "Article 58": {
+            "heading": "Liability",
+            "article_number": "58",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 464,
+            "block_end": 467
+        },
+        "Article 58(1)": {
+            "heading": "Liability",
+            "article_number": "58",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 465,
+            "block_end": 467
+        },
+        "Article 59": {
+            "heading": "Independent review of the Registrar",
+            "article_number": "59",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 468,
+            "block_end": 470
+        },
+        "Article 59(1)": {
+            "heading": "Independent review of the Registrar",
+            "article_number": "59",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 469,
+            "block_end": 470
+        },
+        "Article 60(1)(a)": {
+            "heading": "Waivers and modification of this Law or the Regulations",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 473,
+            "block_end": 473
+        },
+        "Article 60(1)": {
+            "heading": "Waivers and modification of this Law or the Regulations",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 472,
+            "block_end": 473
+        },
+        "Article 60(2)(a)": {
+            "heading": "Waivers and modification of this Law or the Regulations",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 475,
+            "block_end": 476
+        },
+        "Article 60(2)(c)": {
+            "heading": "Waivers and modification of this Law or the Regulations",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 477,
+            "block_end": 477
+        },
+        "Article 60(2)": {
+            "heading": "Waivers and modification of this Law or the Regulations",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 474,
+            "block_end": 477
+        },
+        "Article 60(3)": {
+            "heading": "Waivers and modification of this Law or the Regulations",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 478,
+            "block_end": 478
+        },
+        "Article 60(4)": {
+            "heading": "Waivers and modification of this Law or the Regulations",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 479,
+            "block_end": 479
+        },
+        "Article 60(5)(a)": {
+            "heading": "Waivers and modification of this Law or the Regulations",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 481,
+            "block_end": 483
+        },
+        "Article 60(5)": {
+            "heading": "Waivers and modification of this Law or the Regulations",
+            "article_number": "60",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 480,
+            "block_end": 483
+        },
+        "Article 60(6)": {
+            "heading": "Waivers and modification of this Law or the Regulations",
+            "article_number": "60",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 484,
+            "block_end": 484
+        },
+        "Article 61": {
+            "heading": "Obligation to identify and disclose beneficial ownership information",
+            "article_number": "61",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 485,
+            "block_end": 491
+        },
+        "Article 61(1)(a)": {
+            "heading": "Obligation to identify and disclose beneficial ownership information",
+            "article_number": "61",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 487,
+            "block_end": 487
+        },
+        "Article 61(1)": {
+            "heading": "Obligation to identify and disclose beneficial ownership information",
+            "article_number": "61",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 486,
+            "block_end": 487
+        },
+        "Article 61(2)(a)": {
+            "heading": "Obligation to identify and disclose beneficial ownership information",
+            "article_number": "61",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 489,
+            "block_end": 489
+        },
+        "Article 61(2)": {
+            "heading": "Obligation to identify and disclose beneficial ownership information",
+            "article_number": "61",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 488,
+            "block_end": 489
+        },
+        "Article 61(3)": {
+            "heading": "Obligation to identify and disclose beneficial ownership information",
+            "article_number": "61",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 490,
+            "block_end": 491
+        },
+        "Article 62": {
+            "heading": "Obligation of disclosure to the Registrar",
+            "article_number": "62",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 492,
+            "block_end": 497
+        },
+        "Article 62(1)(a)": {
+            "heading": "Obligation of disclosure to the Registrar",
+            "article_number": "62",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 494,
+            "block_end": 495
+        },
+        "Article 62(1)": {
+            "heading": "Obligation of disclosure to the Registrar",
+            "article_number": "62",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 493,
+            "block_end": 495
+        },
+        "Article 62(2)": {
+            "heading": "Obligation of disclosure to the Registrar",
+            "article_number": "62",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 496,
+            "block_end": 497
+        },
+        "Article 63": {
+            "heading": "Disclosures to the Registrar",
+            "article_number": "63",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 498,
+            "block_end": 501
+        },
+        "Article 64": {
+            "heading": "Whistleblower Protection",
+            "article_number": "64",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 502,
+            "block_end": 508
+        },
+        "Article 64(1)": {
+            "heading": "Whistleblower Protection",
+            "article_number": "64",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 503,
+            "block_end": 503
+        },
+        "Article 64(2)(a)": {
+            "heading": "Whistleblower Protection",
+            "article_number": "64",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 505,
+            "block_end": 505
+        },
+        "Article 64(2)": {
+            "heading": "Whistleblower Protection",
+            "article_number": "64",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 504,
+            "block_end": 505
+        },
+        "Article 64(3)(a)": {
+            "heading": "Whistleblower Protection",
+            "article_number": "64",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 507,
+            "block_end": 507
+        },
+        "Article 64(3)": {
+            "heading": "Whistleblower Protection",
+            "article_number": "64",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 506,
+            "block_end": 507
+        },
+        "Article 64(4)": {
+            "heading": "Whistleblower Protection",
+            "article_number": "64",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 508,
+            "block_end": 508
+        },
+        "Article 65": {
+            "heading": "Irregularities",
+            "article_number": "65",
+            "page_start": 36,
+            "page_end": 37,
+            "block_start": 509,
+            "block_end": 519
+        },
+        "Article 65(1)(a)": {
+            "heading": "Irregularities",
+            "article_number": "65",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 513,
+            "block_end": 513
+        },
+        "Article 65(1)": {
+            "heading": "Irregularities",
+            "article_number": "65",
+            "page_start": 36,
+            "page_end": 37,
+            "block_start": 510,
+            "block_end": 513
+        },
+        "Article 65(2)": {
+            "heading": "Irregularities",
+            "article_number": "65",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 514,
+            "block_end": 514
+        },
+        "Article 65(3)(a)": {
+            "heading": "Irregularities",
+            "article_number": "65",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 516,
+            "block_end": 516
+        },
+        "Article 65(3)(i)": {
+            "heading": "Irregularities",
+            "article_number": "65",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 517,
+            "block_end": 517
+        },
+        "Article 65(3)(b)": {
+            "heading": "Irregularities",
+            "article_number": "65",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 518,
+            "block_end": 519
+        },
+        "Article 65(3)": {
+            "heading": "Irregularities",
+            "article_number": "65",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 515,
+            "block_end": 519
+        },
+        "Article 66": {
+            "heading": "False or misleading information",
+            "article_number": "66",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 520,
+            "block_end": 523
+        },
+        "Article 66(1)(a)": {
+            "heading": "False or misleading information",
+            "article_number": "66",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 522,
+            "block_end": 522
+        },
+        "Article 66(1)": {
+            "heading": "False or misleading information",
+            "article_number": "66",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 521,
+            "block_end": 522
+        },
+        "Article 66(2)": {
+            "heading": "False or misleading information",
+            "article_number": "66",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 523,
+            "block_end": 523
+        },
+        "Article 67": {
+            "heading": "Publication by the Registrar",
+            "article_number": "67",
+            "page_start": 37,
+            "page_end": 38,
+            "block_start": 524,
+            "block_end": 531
+        },
+        "Article 67(1)(a)": {
+            "heading": "Publication by the Registrar",
+            "article_number": "67",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 526,
+            "block_end": 526
+        },
+        "Article 67(1)(b)": {
+            "heading": "Publication by the Registrar",
+            "article_number": "67",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 527,
+            "block_end": 527
+        },
+        "Article 67(1)(i)": {
+            "heading": "Publication by the Registrar",
+            "article_number": "67",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 528,
+            "block_end": 528
+        },
+        "Article 67(1)": {
+            "heading": "Publication by the Registrar",
+            "article_number": "67",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 525,
+            "block_end": 528
+        },
+        "Article 67(2)": {
+            "heading": "Publication by the Registrar",
+            "article_number": "67",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 529,
+            "block_end": 530
+        },
+        "Article 67(3)": {
+            "heading": "Publication by the Registrar",
+            "article_number": "67",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 531,
+            "block_end": 531
+        },
+        "Article 68": {
+            "heading": "Public Registers",
+            "article_number": "68",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 532,
+            "block_end": 533
+        },
+        "Article 68(1)": {
+            "heading": "Public Registers",
+            "article_number": "68",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 533,
+            "block_end": 533
+        },
+        "Article 69": {
+            "heading": "Language",
+            "article_number": "69",
+            "page_start": 38,
+            "page_end": 39,
+            "block_start": 534,
+            "block_end": 538
+        },
+        "Article 1(1)(a)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 541,
+            "block_end": 541
+        },
+        "Article 1(2)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 542,
+            "block_end": 542
+        },
+        "Article 1(3)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 543,
+            "block_end": 545
+        },
+        "Article 3(2)": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 42,
+            "page_end": 42,
+            "block_start": 556,
+            "block_end": 556
+        }
+    },
+    "section_heading_index": {
+        "Appointment of the Registrar . 2 7. The objectives, functions and powers of the Registrar": [
+            {
+                "heading": "Appointment of the Registrar . 2 7. The objectives, functions and powers of the Registrar",
+                "article_number": "6",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 8,
+                "block_end": 9
+            }
+        ],
+        "Prohibition against conduct of business... .. 5 9. Licences, Permissions and Exemptions . .. 5 10. Names ..... ... 6 11. Change of name..... .... 6 12. Power to require change of name . ... 7 13. Registered office.. ... 7 14. Particulars in communications.. .. 7 15. Change in Registered Details of a Registered Person.... ..... 8 16. Confirmation Statement.. . 8 17. Records and registers.. . 8": [
+            {
+                "heading": "Prohibition against conduct of business... .. 5 9. Licences, Permissions and Exemptions . .. 5 10. Names ..... ... 6 11. Change of name..... .... 6 12. Power to require change of name . ... 7 13. Registered office.. ... 7 14. Particulars in communications.. .. 7 15. Change in Registered Details of a Registered Person.... ..... 8 16. Confirmation Statement.. . 8 17. Records and registers.. . 8",
+                "article_number": "8",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 10,
+                "block_end": 11
+            }
+        ],
+        "Qualification and registration of auditors .. 10 19. Register of auditors... . 10 20. Obligation of disclosure to the Registrar . . 10 21. Court orders ... . 11": [
+            {
+                "heading": "Qualification and registration of auditors .. 10 19. Register of auditors... . 10 20. Obligation of disclosure to the Registrar . . 10 21. Court orders ... . 11",
+                "article_number": "18",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 12,
+                "block_end": 16
+            }
+        ],
+        "Direction to comply with this Law or other Legislation administered by the Registrar ........ 16 30. General power to obtain information.. 16 31. Compliance with a direction or requirement of the Registrar... 17 32. Powers to strike off names of Registered Persons from the Public Register . . 17 33. Restoration of a Registered Person.. . 20": [
+            {
+                "heading": "Direction to comply with this Law or other Legislation administered by the Registrar ........ 16 30. General power to obtain information.. 16 31. Compliance with a direction or requirement of the Registrar... 17 32. Powers to strike off names of Registered Persons from the Public Register . . 17 33. Restoration of a Registered Person.. . 20",
+                "article_number": "29",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 17,
+                "block_end": 18
+            }
+        ],
+        "General contraventions provision .. . 21 35. Involvement in contraventions ........... ... 21": [
+            {
+                "heading": "General contraventions provision .. . 21 35. Involvement in contraventions ........... ... 21",
+                "article_number": "34",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 19,
+                "block_end": 20
+            }
+        ],
+        "Enforceable undertakings . . 22 37. Administrative Censures. . 22 38. Imposition of fines... . 23": [
+            {
+                "heading": "Enforceable undertakings . . 22 37. Administrative Censures. . 22 38. Imposition of fines... . 23",
+                "article_number": "36",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 21,
+                "block_end": 24
+            }
+        ],
+        "Application to Court in relation to decision of the Registrar ..... . 23 40. Orders for compensation . . 23 41. Compulsory winding up ..... .......................................................................... . 23 42. Appointment of a receiver .. .......... ........... . 24 43. Power of Court to grant relief in certain cases.. . 24 44. Effect of provisions ........ ............ ............ ........... .......... ..... 25": [
+            {
+                "heading": "Application to Court in relation to decision of the Registrar ..... . 23 40. Orders for compensation . . 23 41. Compulsory winding up ..... .......................................................................... . 23 42. Appointment of a receiver .. .......... ........... . 24 43. Power of Court to grant relief in certain cases.. . 24 44. Effect of provisions ........ ............ ............ ........... .......... ..... 25",
+                "article_number": "39",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 25,
+                "block_end": 27
+            }
+        ],
+        "The powers and functions of the Board of Directors of the DIFCA . . 26 46. Power to make Regulations .. . 26 47. Publication of draft Regulations .... . 27": [
+            {
+                "heading": "The powers and functions of the Board of Directors of the DIFCA . . 26 46. Power to make Regulations .. . 26 47. Publication of draft Regulations .... . 27",
+                "article_number": "45",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 28,
+                "block_end": 29
+            }
+        ],
+        "Reporting by the Registrar.. . 27 49. Record keeping.. ...................................................................................................... .. 28 50. Conflicts of interest ...... ....................................................................................................... .... 28 51. Confidential information .... .............................. .......... .......... ........ .... 28 52. Financial year ...... ..... 28 53. The annual budget of the Registrar.. .. 29 54. Funding and fees... . 29 55. Accounts... . 29 56. Audit ...... ............................................................................... . 30 57. Taxation.. ... 30 58. Liability .. .... 30 59. Independent review of the Registrar ....................... ...... 31": [
+            {
+                "heading": "Reporting by the Registrar.. . 27 49. Record keeping.. ...................................................................................................... .. 28 50. Conflicts of interest ...... ....................................................................................................... .... 28 51. Confidential information .... .............................. .......... .......... ........ .... 28 52. Financial year ...... ..... 28 53. The annual budget of the Registrar.. .. 29 54. Funding and fees... . 29 55. Accounts... . 29 56. Audit ...... ............................................................................... . 30 57. Taxation.. ... 30 58. Liability .. .... 30 59. Independent review of the Registrar ....................... ...... 31",
+                "article_number": "48",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 30,
+                "block_end": 31
+            }
+        ],
+        "Waivers and modification of this Law or the Regulations...... . 31 61. Obligation to identify and disclose beneficial ownership information . . 32 62. Obligation of disclosure to the Registrar . . 32 63. Disclosures to the Registrar .. . 33 64. Whistleblower Protection . . 33 65. Irregularities . . 33 66. False or misleading information . ………………… . 34 67. Publication by the Registrar . .. ...... ........ . 34 68. Public Registers . . 35 69. Language ... . 35": [
+            {
+                "heading": "Waivers and modification of this Law or the Regulations...... . 31 61. Obligation to identify and disclose beneficial ownership information . . 32 62. Obligation of disclosure to the Registrar . . 32 63. Disclosures to the Registrar .. . 33 64. Whistleblower Protection . . 33 65. Irregularities . . 33 66. False or misleading information . ………………… . 34 67. Publication by the Registrar . .. ...... ........ . 34 68. Public Registers . . 35 69. Language ... . 35",
+                "article_number": "60",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 32,
+                "block_end": 37
+            }
+        ],
+        "Title": [
+            {
+                "heading": "Title",
+                "article_number": "1",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 38,
+                "block_end": 39
+            }
+        ],
+        "Legislative authority": [
+            {
+                "heading": "Legislative authority",
+                "article_number": "2",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 40,
+                "block_end": 41
+            }
+        ],
+        "Application of this Law": [
+            {
+                "heading": "Application of this Law",
+                "article_number": "3",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 42,
+                "block_end": 43
+            }
+        ],
+        "Date of enactment and commencement": [
+            {
+                "heading": "Date of enactment and commencement",
+                "article_number": "4",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 44,
+                "block_end": 45
+            }
+        ],
+        "Schedules": [
+            {
+                "heading": "Schedules",
+                "article_number": "5",
+                "page_start": 4,
+                "page_end": 5,
+                "block_start": 46,
+                "block_end": 52
+            }
+        ],
+        "Appointment of the Registrar": [
+            {
+                "heading": "Appointment of the Registrar",
+                "article_number": "6",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 53,
+                "block_end": 54
+            }
+        ],
+        "The objectives, functions and powers of the Registrar": [
+            {
+                "heading": "The objectives, functions and powers of the Registrar",
+                "article_number": "7",
+                "page_start": 5,
+                "page_end": 8,
+                "block_start": 55,
+                "block_end": 90
+            }
+        ],
+        "Prohibition against conduct of business": [
+            {
+                "heading": "Prohibition against conduct of business",
+                "article_number": "8",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 91,
+                "block_end": 95
+            }
+        ],
+        "Licences, Permissions and Exemptions": [
+            {
+                "heading": "Licences, Permissions and Exemptions",
+                "article_number": "9",
+                "page_start": 8,
+                "page_end": 9,
+                "block_start": 96,
+                "block_end": 118
+            }
+        ],
+        "Names": [
+            {
+                "heading": "Names",
+                "article_number": "10",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 119,
+                "block_end": 124
+            }
+        ],
+        "Change of name": [
+            {
+                "heading": "Change of name",
+                "article_number": "11",
+                "page_start": 9,
+                "page_end": 10,
+                "block_start": 125,
+                "block_end": 134
+            }
+        ],
+        "Power to require change of name": [
+            {
+                "heading": "Power to require change of name",
+                "article_number": "12",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 135,
+                "block_end": 138
+            }
+        ],
+        "Registered office": [
+            {
+                "heading": "Registered office",
+                "article_number": "13",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 139,
+                "block_end": 140
+            }
+        ],
+        "Particulars in communications": [
+            {
+                "heading": "Particulars in communications",
+                "article_number": "14",
+                "page_start": 10,
+                "page_end": 11,
+                "block_start": 141,
+                "block_end": 144
+            }
+        ],
+        "Change in Registered Details of a Registered Person": [
+            {
+                "heading": "Change in Registered Details of a Registered Person",
+                "article_number": "15",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 145,
+                "block_end": 149
+            }
+        ],
+        "Confirmation Statement": [
+            {
+                "heading": "Confirmation Statement",
+                "article_number": "16",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 150,
+                "block_end": 151
+            }
+        ],
+        "Records and registers": [
+            {
+                "heading": "Records and registers",
+                "article_number": "17",
+                "page_start": 11,
+                "page_end": 13,
+                "block_start": 152,
+                "block_end": 165
+            }
+        ],
+        "Qualification and registration of auditors": [
+            {
+                "heading": "Qualification and registration of auditors",
+                "article_number": "18",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 166,
+                "block_end": 176
+            }
+        ],
+        "Register of auditors": [
+            {
+                "heading": "Register of auditors",
+                "article_number": "19",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 177,
+                "block_end": 178
+            }
+        ],
+        "Obligation of disclosure to the Registrar": [
+            {
+                "heading": "Obligation of disclosure to the Registrar",
+                "article_number": "20",
+                "page_start": 13,
+                "page_end": 14,
+                "block_start": 179,
+                "block_end": 185
+            },
+            {
+                "heading": "Obligation of disclosure to the Registrar",
+                "article_number": "62",
+                "page_start": 35,
+                "page_end": 35,
+                "block_start": 492,
+                "block_end": 497
+            }
+        ],
+        "Court orders": [
+            {
+                "heading": "Court orders",
+                "article_number": "21",
+                "page_start": 14,
+                "page_end": 15,
+                "block_start": 186,
+                "block_end": 194
+            }
+        ],
+        "Application and Interpretation of this Part": [
+            {
+                "heading": "Application and Interpretation of this Part",
+                "article_number": "22",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 195,
+                "block_end": 196
+            }
+        ],
+        "Appointment of Inspectors": [
+            {
+                "heading": "Appointment of Inspectors",
+                "article_number": "23",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 197,
+                "block_end": 198
+            }
+        ],
+        "Powers of Inspectors to obtain information and Documents": [
+            {
+                "heading": "Powers of Inspectors to obtain information and Documents",
+                "article_number": "24",
+                "page_start": 15,
+                "page_end": 17,
+                "block_start": 199,
+                "block_end": 218
+            }
+        ],
+        "Use and effect of Documents and information obtained for investigations": [
+            {
+                "heading": "Use and effect of Documents and information obtained for investigations",
+                "article_number": "25",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 219,
+                "block_end": 233
+            }
+        ],
+        "Obstruction of the Inspectors": [
+            {
+                "heading": "Obstruction of the Inspectors",
+                "article_number": "26",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 234,
+                "block_end": 239
+            }
+        ],
+        "Inspectors’ reports": [
+            {
+                "heading": "Inspectors’ reports",
+                "article_number": "27",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 240,
+                "block_end": 244
+            }
+        ],
+        "Powers of Registrar to apply to Court": [
+            {
+                "heading": "Powers of Registrar to apply to Court",
+                "article_number": "28",
+                "page_start": 18,
+                "page_end": 19,
+                "block_start": 245,
+                "block_end": 253
+            }
+        ],
+        "Direction to comply with this Law or other Legislation administered by the Registrar": [
+            {
+                "heading": "Direction to comply with this Law or other Legislation administered by the Registrar",
+                "article_number": "29",
+                "page_start": 19,
+                "page_end": 19,
+                "block_start": 254,
+                "block_end": 264
+            }
+        ],
+        "General power to obtain information": [
+            {
+                "heading": "General power to obtain information",
+                "article_number": "30",
+                "page_start": 19,
+                "page_end": 20,
+                "block_start": 265,
+                "block_end": 273
+            }
+        ],
+        "Compliance with a direction or requirement of the Registrar": [
+            {
+                "heading": "Compliance with a direction or requirement of the Registrar",
+                "article_number": "31",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 274,
+                "block_end": 276
+            }
+        ],
+        "Powers to strike off names of Registered Persons from the Public Register": [
+            {
+                "heading": "Powers to strike off names of Registered Persons from the Public Register",
+                "article_number": "32",
+                "page_start": 20,
+                "page_end": 23,
+                "block_start": 277,
+                "block_end": 315
+            }
+        ],
+        "Restoration of a Registered Person": [
+            {
+                "heading": "Restoration of a Registered Person",
+                "article_number": "33",
+                "page_start": 23,
+                "page_end": 24,
+                "block_start": 316,
+                "block_end": 327
+            }
+        ],
+        "General contraventions provision": [
+            {
+                "heading": "General contraventions provision",
+                "article_number": "34",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 328,
+                "block_end": 332
+            }
+        ],
+        "Involvement in contraventions": [
+            {
+                "heading": "Involvement in contraventions",
+                "article_number": "35",
+                "page_start": 24,
+                "page_end": 25,
+                "block_start": 333,
+                "block_end": 341
+            }
+        ],
+        "Enforceable undertakings": [
+            {
+                "heading": "Enforceable undertakings",
+                "article_number": "36",
+                "page_start": 25,
+                "page_end": 25,
+                "block_start": 342,
+                "block_end": 343
+            }
+        ],
+        "Administrative Censures": [
+            {
+                "heading": "Administrative Censures",
+                "article_number": "37",
+                "page_start": 25,
+                "page_end": 26,
+                "block_start": 344,
+                "block_end": 349
+            }
+        ],
+        "Imposition of fines": [
+            {
+                "heading": "Imposition of fines",
+                "article_number": "38",
+                "page_start": 26,
+                "page_end": 26,
+                "block_start": 350,
+                "block_end": 354
+            }
+        ],
+        "Application to Court in relation to decision of the Registrar": [
+            {
+                "heading": "Application to Court in relation to decision of the Registrar",
+                "article_number": "39",
+                "page_start": 26,
+                "page_end": 26,
+                "block_start": 355,
+                "block_end": 357
+            }
+        ],
+        "Orders for compensation": [
+            {
+                "heading": "Orders for compensation",
+                "article_number": "40",
+                "page_start": 26,
+                "page_end": 26,
+                "block_start": 358,
+                "block_end": 361
+            }
+        ],
+        "Compulsory winding up": [
+            {
+                "heading": "Compulsory winding up",
+                "article_number": "41",
+                "page_start": 26,
+                "page_end": 27,
+                "block_start": 362,
+                "block_end": 369
+            }
+        ],
+        "Appointment of a receiver": [
+            {
+                "heading": "Appointment of a receiver",
+                "article_number": "42",
+                "page_start": 27,
+                "page_end": 27,
+                "block_start": 370,
+                "block_end": 376
+            }
+        ],
+        "Power of Court to grant relief in certain cases": [
+            {
+                "heading": "Power of Court to grant relief in certain cases",
+                "article_number": "43",
+                "page_start": 27,
+                "page_end": 28,
+                "block_start": 377,
+                "block_end": 381
+            }
+        ],
+        "Effect of provisions": [
+            {
+                "heading": "Effect of provisions",
+                "article_number": "44",
+                "page_start": 28,
+                "page_end": 29,
+                "block_start": 382,
+                "block_end": 387
+            }
+        ],
+        "The powers and functions of the Board of Directors of the DIFCA": [
+            {
+                "heading": "The powers and functions of the Board of Directors of the DIFCA",
+                "article_number": "45",
+                "page_start": 29,
+                "page_end": 29,
+                "block_start": 388,
+                "block_end": 392
+            }
+        ],
+        "Power to make Regulations": [
+            {
+                "heading": "Power to make Regulations",
+                "article_number": "46",
+                "page_start": 29,
+                "page_end": 30,
+                "block_start": 393,
+                "block_end": 403
+            }
+        ],
+        "Publication of draft Regulations": [
+            {
+                "heading": "Publication of draft Regulations",
+                "article_number": "47",
+                "page_start": 30,
+                "page_end": 30,
+                "block_start": 404,
+                "block_end": 412
+            }
+        ],
+        "Reporting by the Registrar": [
+            {
+                "heading": "Reporting by the Registrar",
+                "article_number": "48",
+                "page_start": 30,
+                "page_end": 30,
+                "block_start": 413,
+                "block_end": 416
+            }
+        ],
+        "Record keeping": [
+            {
+                "heading": "Record keeping",
+                "article_number": "49",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 417,
+                "block_end": 418
+            }
+        ],
+        "Conflicts of interest": [
+            {
+                "heading": "Conflicts of interest",
+                "article_number": "50",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 419,
+                "block_end": 420
+            }
+        ],
+        "Confidential information": [
+            {
+                "heading": "Confidential information",
+                "article_number": "51",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 421,
+                "block_end": 429
+            }
+        ],
+        "Financial year": [
+            {
+                "heading": "Financial year",
+                "article_number": "52",
+                "page_start": 31,
+                "page_end": 32,
+                "block_start": 430,
+                "block_end": 431
+            }
+        ],
+        "The annual budget of the Registrar": [
+            {
+                "heading": "The annual budget of the Registrar",
+                "article_number": "53",
+                "page_start": 32,
+                "page_end": 32,
+                "block_start": 432,
+                "block_end": 437
+            }
+        ],
+        "Funding and fees": [
+            {
+                "heading": "Funding and fees",
+                "article_number": "54",
+                "page_start": 32,
+                "page_end": 32,
+                "block_start": 438,
+                "block_end": 445
+            }
+        ],
+        "Accounts": [
+            {
+                "heading": "Accounts",
+                "article_number": "55",
+                "page_start": 32,
+                "page_end": 33,
+                "block_start": 446,
+                "block_end": 451
+            }
+        ],
+        "Audit": [
+            {
+                "heading": "Audit",
+                "article_number": "56",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 452,
+                "block_end": 461
+            }
+        ],
+        "Taxation": [
+            {
+                "heading": "Taxation",
+                "article_number": "57",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 462,
+                "block_end": 463
+            }
+        ],
+        "Liability": [
+            {
+                "heading": "Liability",
+                "article_number": "58",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 464,
+                "block_end": 467
+            }
+        ],
+        "Independent review of the Registrar": [
+            {
+                "heading": "Independent review of the Registrar",
+                "article_number": "59",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 468,
+                "block_end": 470
+            }
+        ],
+        "Waivers and modification of this Law or the Regulations": [
+            {
+                "heading": "Waivers and modification of this Law or the Regulations",
+                "article_number": "60",
+                "page_start": 34,
+                "page_end": 35,
+                "block_start": 471,
+                "block_end": 484
+            }
+        ],
+        "Obligation to identify and disclose beneficial ownership information": [
+            {
+                "heading": "Obligation to identify and disclose beneficial ownership information",
+                "article_number": "61",
+                "page_start": 35,
+                "page_end": 35,
+                "block_start": 485,
+                "block_end": 491
+            }
+        ],
+        "Disclosures to the Registrar": [
+            {
+                "heading": "Disclosures to the Registrar",
+                "article_number": "63",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 498,
+                "block_end": 501
+            }
+        ],
+        "Whistleblower Protection": [
+            {
+                "heading": "Whistleblower Protection",
+                "article_number": "64",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 502,
+                "block_end": 508
+            }
+        ],
+        "Irregularities": [
+            {
+                "heading": "Irregularities",
+                "article_number": "65",
+                "page_start": 36,
+                "page_end": 37,
+                "block_start": 509,
+                "block_end": 519
+            }
+        ],
+        "False or misleading information": [
+            {
+                "heading": "False or misleading information",
+                "article_number": "66",
+                "page_start": 37,
+                "page_end": 37,
+                "block_start": 520,
+                "block_end": 523
+            }
+        ],
+        "Publication by the Registrar": [
+            {
+                "heading": "Publication by the Registrar",
+                "article_number": "67",
+                "page_start": 37,
+                "page_end": 38,
+                "block_start": 524,
+                "block_end": 531
+            }
+        ],
+        "Public Registers": [
+            {
+                "heading": "Public Registers",
+                "article_number": "68",
+                "page_start": 38,
+                "page_end": 38,
+                "block_start": 532,
+                "block_end": 533
+            }
+        ],
+        "Language": [
+            {
+                "heading": "Language",
+                "article_number": "69",
+                "page_start": 38,
+                "page_end": 39,
+                "block_start": 534,
+                "block_end": 538
+            }
+        ],
+        "Rules of interpretation": [
+            {
+                "heading": "Rules of interpretation",
+                "article_number": "1",
+                "page_start": 39,
+                "page_end": 39,
+                "block_start": 539,
+                "block_end": 545
+            }
+        ],
+        "Legislation in the DIFC": [
+            {
+                "heading": "Legislation in the DIFC",
+                "article_number": "2",
+                "page_start": 40,
+                "page_end": 40,
+                "block_start": 546,
+                "block_end": 548
+            }
+        ],
+        "Defined terms": [
+            {
+                "heading": "Defined terms",
+                "article_number": "3",
+                "page_start": 40,
+                "page_end": 42,
+                "block_start": 549,
+                "block_end": 556
+            }
+        ],
+        "Provision of information": [
+            {
+                "heading": "Provision of information",
+                "article_number": "4",
+                "page_start": 42,
+                "page_end": 43,
+                "block_start": 557,
+                "block_end": 565
+            }
+        ]
+    }
+}

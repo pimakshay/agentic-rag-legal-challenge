@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import logging
 import os
 from pathlib import Path
 import sys
@@ -27,6 +28,13 @@ from retrieval import (  # noqa: E402
 )
 
 CONFIG = get_config()
+
+_LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO").strip().upper()
+logging.basicConfig(
+    level=getattr(logging, _LOG_LEVEL, logging.INFO),
+    format="%(asctime)s %(levelname)s %(message)s",
+)
+logger = logging.getLogger(__name__)
 
 _EXCLUDE_DIRS = {
     "__pycache__",
@@ -88,7 +96,9 @@ def build_pipeline():
     )
 
     # Use Cohere for embeddings when COHERE_API_KEY is set (rate-limited to 90/60s)
-    if CONFIG.cohere_api_key:
+    embedding_provider: str
+    embedding_model_name: str
+    if CONFIG.cohere_api_key and CONFIG.use_cohere_embeddings:
         from retrieval.utils.cohere_rate_limit import RateLimitedCohereEmbeddings, get_cohere_rate_limiter
 
         base_embeddings = CohereEmbeddings(
@@ -96,11 +106,20 @@ def build_pipeline():
             cohere_api_key=CONFIG.cohere_api_key,
         )
         embeddings = RateLimitedCohereEmbeddings(base_embeddings, limiter=get_cohere_rate_limiter())
-    else:
+        embedding_provider = "cohere"
+        embedding_model_name = "embed-english-v3.0 (rate-limited wrapper)"
+    elif CONFIG.openai_api_key and CONFIG.use_openai_embeddings:
         embeddings = OpenAIEmbeddings(
             model=CONFIG.embedding_model,
             openai_api_key=CONFIG.get_embedding_api_key(),
             openai_api_base=CONFIG.llm_api_base,
+        )
+        embedding_provider = "openai"
+        embedding_model_name = CONFIG.embedding_model
+    else:
+        raise ValueError(
+            "No embedding provider enabled. Configure USE_COHERE_EMBEDDINGS=1 or USE_OPENAI_EMBEDDINGS=1, "
+            "and ensure the corresponding API key is set."
         )
 
     # Optional: skip re-indexing when Turbopuffer namespace is already populated (query-only).
@@ -112,26 +131,70 @@ def build_pipeline():
     enable_reranking = enable_reranking_env not in {"0", "false", "False"}
 
     reranker = None
+    reranker_provider = "none"
+    reranker_model = "-"
     if enable_reranking:
         # Prefer API reranker (no local compute, better TTFT); fall back to local MiniLM.
         if CONFIG.voyage_api_key:
             reranker = VoyageReranker(api_key=CONFIG.voyage_api_key)
+            reranker_provider = "voyage"
+            reranker_model = getattr(reranker, "model", getattr(reranker, "model_name", "-"))
         elif CONFIG.cohere_api_key:
             reranker = CohereReranker(api_key=CONFIG.cohere_api_key)
+            reranker_provider = "cohere"
+            reranker_model = getattr(reranker, "model", getattr(reranker, "model_name", "-"))
         else:
             from retrieval.utils.rerankers import MiniLMReranker
 
             reranker = MiniLMReranker()
+            reranker_provider = "minilm"
+            reranker_model = getattr(reranker, "model_name", "-")
 
-    return LegalHybridRAGPipeline(
+    # Turbopuffer is an optional acceleration layer. It must not be used with
+    # non-Cohere embedding models because vector dimensionality can mismatch.
+    use_turbopuffer = CONFIG.use_cohere_embeddings and bool(os.getenv("TURBOPUFFER_API_KEY"))
+
+    # If your environment keeps TURBOPUFFER_API_KEY set but you switch to OpenAI
+    # embeddings, we intentionally disable Turbopuffer to avoid vector dimension mismatch.
+    logger.info("=== Legal Hybrid RAG run configuration ===")
+    logger.info(f"LLM: ChatOpenAI model={CONFIG.llm_model} base={CONFIG.llm_api_base} (temp=0.0)")
+    logger.info(
+        "Embeddings: "
+        f"provider={embedding_provider} model={embedding_model_name} "
+        f"(USE_COHERE_EMBEDDINGS={int(CONFIG.use_cohere_embeddings)} USE_OPENAI_EMBEDDINGS={int(CONFIG.use_openai_embeddings)})"
+    )
+    logger.info(f"Reranking: enabled={int(enable_reranking)} provider={reranker_provider} model={reranker_model}")
+    logger.info(
+        "Turbopuffer: enabled="
+        f"{int(bool(use_turbopuffer))} "
+        f"(TURBOPUFFER_API_KEY={'set' if bool(os.getenv('TURBOPUFFER_API_KEY')) else 'unset'}) "
+        f"skip_indexing={int(skip_indexing)}"
+    )
+    logger.info(f"Routing/docs: docs_dir={CONFIG.docs_dir} ingest_root={ROOT_DIR/'ingestion'/'docs_corpus_ingest_result'}")
+
+    pipeline = LegalHybridRAGPipeline(
         llm=llm,
         embedding_model=embeddings,
         ingest_root=str(ROOT_DIR / "ingestion" / "docs_corpus_ingest_result"),
         docs_root=str(Path(CONFIG.docs_dir)),
         enable_reranking=enable_reranking,
         reranker=reranker,
+        use_turbopuffer=use_turbopuffer,
         skip_indexing=skip_indexing,
     )
+
+    # Retrieval defaults that affect runtime cost/recall.
+    logger.info(
+        "Retrieval params: top_k_docs=%s dense_candidate_k=%s sparse_candidate_k=%s "
+        "dense_weight=%.2f sparse_weight=%.2f rrf_k=%s",
+        pipeline.top_k_docs,
+        pipeline.dense_candidate_k,
+        pipeline.sparse_candidate_k,
+        pipeline.dense_weight,
+        pipeline.sparse_weight,
+        pipeline.rrf_k,
+    )
+    return pipeline
 
 
 def validate_ingest_coverage(docs_dir: str | Path, ingest_root: str | Path) -> None:
@@ -158,9 +221,9 @@ def main() -> None:
     client = EvaluationClient.from_env()
     print("Downloading questions...")
     questions = client.download_questions(target_path=CONFIG.questions_path)
-    print("Downloading documents...")
-    client.download_documents(CONFIG.docs_dir)
-    print("Documents extracted")
+    print("Skipping downloading documents...")
+    # client.download_documents(CONFIG.docs_dir)
+    # print("Documents extracted")
 
     ingest_root = ROOT_DIR / "ingestion" / "docs_corpus_ingest_result"
     validate_ingest_coverage(CONFIG.docs_dir, ingest_root)

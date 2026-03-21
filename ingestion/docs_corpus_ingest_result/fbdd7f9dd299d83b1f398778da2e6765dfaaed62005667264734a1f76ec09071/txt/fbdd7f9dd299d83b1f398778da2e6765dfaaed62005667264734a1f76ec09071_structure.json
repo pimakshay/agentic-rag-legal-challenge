@@ -21,25 +21,25 @@
         "type": "text",
         "page_idx": 0,
         "text": "Consolidated Version No.2 (March 2022) ",
-        "level": 1
+        "level": 2
     },
     "4": {
         "type": "text",
         "page_idx": 0,
         "text": "As amended by DIFC Laws Amendment Law DIFC Law No. 2 of 2022 ",
-        "level": 1
+        "level": 2
     },
     "5": {
         "type": "text",
         "page_idx": 0,
         "text": "Common Reporting Standard Law Amendment Law DIFC Law No. 6 of 2020 ",
-        "level": 1
+        "level": 2
     },
     "6": {
         "type": "text",
         "page_idx": 1,
         "text": "CONTENTS ",
-        "level": 2
+        "level": 1
     },
     "7": {
         "type": "text",
@@ -50,7 +50,7 @@
     "8": {
         "type": "text",
         "page_idx": 1,
-        "text": "1. Title .... .. 1   \n2. Legislative Authority. .. 1   \n3. Purpose of the Law ...... .............................................................................................................. .......",
+        "text": "1. Title .... .. 1   \n2. Legislative Authority. .. 1   \n3. Purpose of the Law ...... .............................................................................................................. .... 1   \n4. Application of the Law ................................................................................................................... .. 1   \n5. Date of enactment.. ..................................................... ..... 1   \n6. Commencement.... ............. ...................................... .... 1   \n7. Interpretation . .... 1   \n8. Administration of the Law.... ... 2   \n9. The power of DIFCA to make Regulations and impose fines and penalties . . 2 ",
         "level": 3
     },
     "9": {
@@ -74,7 +74,7 @@
     "12": {
         "type": "text",
         "page_idx": 1,
-        "text": "12. Collecting, reporting and keeping records of information .. ... 5   \n13. Investigations and inspections . . 5   \n14. Appointment of Inspectors . . 6   \n15. Powers of Inspectors to obtain informati...",
+        "text": "12. Collecting, reporting and keeping records of information .. ... 5   \n13. Investigations and inspections . . 5   \n14. Appointment of Inspectors . . 6   \n15. Powers of Inspectors to obtain information and documents . . 6   \n16. Use and effect of information and documents obtained for investigations.... ... 7   \n17. Obstruction of Inspectors.... . 8   \n18. Powers of the Relevant Authority to apply to Court.. . 8 ",
         "level": 3
     },
     "13": {
@@ -111,19 +111,19 @@
         "type": "text",
         "page_idx": 1,
         "text": "i ",
-        "level": 1
+        "level": 5
     },
     "19": {
         "type": "text",
         "page_idx": 2,
         "text": "PART 1: GENERAL ",
-        "level": 2
+        "level": 1
     },
     "20": {
         "type": "text",
         "page_idx": 2,
         "text": "Title This Law may be cited as the Common Reporting Standard Law 2018. ",
-        "level": 3
+        "level": 2
     },
     "21": {
         "type": "text",
@@ -152,7 +152,7 @@
     "25": {
         "type": "text",
         "page_idx": 2,
-        "text": "(a) implement the Common Reporting Standard in the DIFC;   \n(b) impose obligations on Reporting Financial Institutions to collect and report the information required under the Common Reporting Standar...",
+        "text": "(a) implement the Common Reporting Standard in the DIFC;   \n(b) impose obligations on Reporting Financial Institutions to collect and report the information required under the Common Reporting Standard; and   \n(c) authorise the Relevant Authority to administer and enforce the Common Reporting Standard in the DIFC. ",
         "level": 5
     },
     "26": {
@@ -170,7 +170,7 @@
     "28": {
         "type": "text",
         "page_idx": 2,
-        "text": "(a) any Reporting Financial Institution subject to the supervision of the Relevant Authority under this Law;   \n(b) any Account Holder and Controlling Person of a Reportable Account held with a Report...",
+        "text": "(a) any Reporting Financial Institution subject to the supervision of the Relevant Authority under this Law;   \n(b) any Account Holder and Controlling Person of a Reportable Account held with a Reporting Financial Institution subject to the supervision of the Relevant Authority under this Law; and   \n(c) any other person to whom a provision is specified to apply. ",
         "level": 5
     },
     "29": {
@@ -200,7 +200,7 @@
     "33": {
         "type": "text",
         "page_idx": 2,
-        "text": "(a) in respect of Pre-existing Accounts that are subject to due diligence requirements under this Law, the effective date is 31 December, 2016; and   \n(b) in respect of New Accounts that are subject t...",
+        "text": "(a) in respect of Pre-existing Accounts that are subject to due diligence requirements under this Law, the effective date is 31 December, 2016; and   \n(b) in respect of New Accounts that are subject to due diligence requirements under this Law, the effective date is 1 January, 2017. ",
         "level": 5
     },
     "34": {
@@ -231,7 +231,7 @@
         "type": "text",
         "page_idx": 2,
         "text": "1 ",
-        "level": 1
+        "level": 5
     },
     "39": {
         "type": "text",
@@ -242,8 +242,8 @@
     "40": {
         "type": "text",
         "page_idx": 3,
-        "text": "(3) Defined terms used in this Law that are defined in the Regulations, identified by the capitalisation of the initial letter of a word or a phrase, are (insofar as may be required) incorporated here...",
-        "level": 5
+        "text": "(3) Defined terms used in this Law that are defined in the Regulations, identified by the capitalisation of the initial letter of a word or a phrase, are (insofar as may be required) incorporated herein by reference, provided that in the event of any inconsistency, the provisions of this Law shall prevail. ",
+        "level": 4
     },
     "41": {
         "type": "text",
@@ -279,67 +279,67 @@
         "type": "text",
         "page_idx": 3,
         "text": "2 ",
-        "level": 1
+        "level": 5
     },
     "47": {
         "type": "text",
         "page_idx": 4,
         "text": "PART 2: APPOINTMENTAND ROLE OF THE RELEVANT AUTHORITY ",
-        "level": 2
+        "level": 1
     },
     "48": {
         "type": "text",
         "page_idx": 4,
         "text": "10. Appointment of the Relevant Authority ",
-        "level": 3
+        "level": 2
     },
     "49": {
         "type": "text",
         "page_idx": 4,
-        "text": "(1) The Relevant Authority is hereby appointed to administer the provisions of this Law in the DIFC. (2) In exercising its powers under this Law, the Relevant Authority shall act in an independent man...",
-        "level": 4
+        "text": "(1) The Relevant Authority is hereby appointed to administer the provisions of this Law in the DIFC. (2) In exercising its powers under this Law, the Relevant Authority shall act in an independent manner, notwithstanding it being an agency of the government of the Emirate of Dubai. ",
+        "level": 3
     },
     "50": {
         "type": "text",
         "page_idx": 4,
         "text": "11. Objectives, functions and powers of the Relevant Authority ",
-        "level": 3
+        "level": 2
     },
     "51": {
         "type": "text",
         "page_idx": 4,
         "text": "(1) In performing its functions and exercising its powers, the Relevant Authority shall pursue the following objectives: ",
-        "level": 4
+        "level": 3
     },
     "52": {
         "type": "text",
         "page_idx": 4,
-        "text": "(a) to promote good practices and observance of the requirements of this Law;   \n(b) to administer the Law in an effective and transparent manner;   \n(c) to prevent, detect and restrain conduct which ...",
-        "level": 5
+        "text": "(a) to promote good practices and observance of the requirements of this Law;   \n(b) to administer the Law in an effective and transparent manner;   \n(c) to prevent, detect and restrain conduct which is, or may be, in contravention of this Law;   \n(d) to maintain reliable and up-to-date information and provide access thereto to the UAE Competent Authority, in accordance with this Law; and   \n(e) to assist the Government in complying with its obligations under any international treaty or other agreement relating to the Common Reporting Standard to which the UAE is a party. ",
+        "level": 4
     },
     "53": {
         "type": "text",
         "page_idx": 4,
         "text": "(2) The Relevant Authority has such functions and powers as are conferred, or expressed to be conferred, on it: ",
-        "level": 4
+        "level": 3
     },
     "54": {
         "type": "text",
         "page_idx": 4,
         "text": "(a) by or under this Law;   \n(b) the Board of the DIFCA;   \n(c) by the UAE Competent Authority or the Government; or   \n(d) by or under any other law, decree or direction made by the Ruler. ",
-        "level": 5
+        "level": 4
     },
     "55": {
         "type": "text",
         "page_idx": 4,
         "text": "(3) Without limiting the generality of Article 11(2), such powers of the Relevant Authority shall include, so far as is reasonably practicable to: ",
-        "level": 4
+        "level": 3
     },
     "56": {
         "type": "text",
         "page_idx": 4,
         "text": "(a) prepare or cause to be prepared in a timely and efficient manner: ",
-        "level": 5
+        "level": 4
     },
     "57": {
         "type": "text",
@@ -351,13 +351,13 @@
         "type": "text",
         "page_idx": 4,
         "text": "reasonably required to enable the Relevant Authority to perform its statutory functions under this Law; ",
-        "level": 5
+        "level": 4
     },
     "59": {
         "type": "text",
         "page_idx": 4,
-        "text": "(b) submit such drafts of Regulations or Directives to the Board of Directors of the DIFCA for approval;   \n(c) advise the Board of Directors of the DIFCA of any Guidance so issued;   \n(d) issue or pr...",
-        "level": 5
+        "text": "(b) submit such drafts of Regulations or Directives to the Board of Directors of the DIFCA for approval;   \n(c) advise the Board of Directors of the DIFCA of any Guidance so issued;   \n(d) issue or prescribe forms to be used for any of the purposes of this Law;   \n(e) issue or prescribe procedures and requirements relating to this Law; ",
+        "level": 4
     },
     "60": {
         "type": "text",
@@ -369,13 +369,13 @@
         "type": "text",
         "page_idx": 4,
         "text": "3 ",
-        "level": 1
+        "level": 5
     },
     "62": {
         "type": "text",
         "page_idx": 5,
-        "text": "(f) where the Relevant Authority considers it appropriate to do so, delegate such functions and powers as may more efficiently and effectively be performed, either generally or in relation to any part...",
-        "level": 5
+        "text": "(f) where the Relevant Authority considers it appropriate to do so, delegate such functions and powers as may more efficiently and effectively be performed, either generally or in relation to any particular matter, by DIFCA employees, or by any other person: ",
+        "level": 4
     },
     "63": {
         "type": "text",
@@ -387,37 +387,37 @@
         "type": "text",
         "page_idx": 5,
         "text": "(g) specify the method of delivery of information pursuant to this Law, whether by electronic or any other means; ",
-        "level": 5
+        "level": 4
     },
     "65": {
         "type": "text",
         "page_idx": 5,
         "text": "exercise and perform such other powers and functions as may be delegated to the Relevant Authority by the Board of Directors of the DIFCA pursuant to the provisions of this Law. ",
-        "level": 5
+        "level": 4
     },
     "66": {
         "type": "text",
         "page_idx": 5,
-        "text": "(4) The Relevant Authority may prescribe the use of an electronic or computer based system for the filing or delivery of information or documents required under or governed by this Law, or as may be r...",
-        "level": 5
+        "text": "(4) The Relevant Authority may prescribe the use of an electronic or computer based system for the filing or delivery of information or documents required under or governed by this Law, or as may be required by the UAE Competent Authority pursuant to its duties under the Common Reporting Standard, and may specify the circumstances in which persons shall be deemed to have signed or certified documents on an electronic or computer-based system for any purpose under this Law. ",
+        "level": 3
     },
     "67": {
         "type": "text",
         "page_idx": 5,
-        "text": "(5) The Relevant Authority has the power to do whatever it deems necessary for, or in connection with, or reasonably incidental to, the exercise and performance of its powers and functions inclusive o...",
-        "level": 5
+        "text": "(5) The Relevant Authority has the power to do whatever it deems necessary for, or in connection with, or reasonably incidental to, the exercise and performance of its powers and functions inclusive of the power of delegation, subject to the Decision-Making Procedures. ",
+        "level": 3
     },
     "68": {
         "type": "text",
         "page_idx": 5,
-        "text": "(6) Subject to Article 11(7), neither the Relevant Authority nor any delegate or agent of the Relevant Authority can be held liable for anything done or omitted to be done in the performance of or pur...",
-        "level": 5
+        "text": "(6) Subject to Article 11(7), neither the Relevant Authority nor any delegate or agent of the Relevant Authority can be held liable for anything done or omitted to be done in the performance of or purported performance of the functions of the Relevant Authority or in the exercise or purported exercise of any power or discretion of the Relevant Authority. ",
+        "level": 3
     },
     "69": {
         "type": "text",
         "page_idx": 5,
         "text": "(7) Article 11(6) does not apply if the act or omission is shown to have been in bad faith. ",
-        "level": 5
+        "level": 3
     },
     "70": {
         "type": "text",
@@ -429,97 +429,97 @@
         "type": "text",
         "page_idx": 6,
         "text": "PART 3: REPORTING, RECORDS, INVESTIGATIONS AND INSPECTIONS ",
-        "level": 2
+        "level": 1
     },
     "72": {
         "type": "text",
         "page_idx": 6,
         "text": "12. Collecting, reporting and keeping records of information ",
-        "level": 3
+        "level": 2
     },
     "73": {
         "type": "text",
         "page_idx": 6,
-        "text": "(1) A Reporting Financial Institution must collect and report to the UAE Competent Authority the information required in the Regulations by way of the reporting system provided by the Relevant Authori...",
-        "level": 4
+        "text": "(1) A Reporting Financial Institution must collect and report to the UAE Competent Authority the information required in the Regulations by way of the reporting system provided by the Relevant Authority or the UAE Competent Authority for this purpose, in the manner and on the dates prescribed in the Regulations. ",
+        "level": 3
     },
     "74": {
         "type": "text",
         "page_idx": 6,
         "text": "(2) A Reporting Financial Institution shall establish and implement appropriate systems and internal procedures to enable its compliance with this Law. ",
-        "level": 4
+        "level": 3
     },
     "75": {
         "type": "text",
         "page_idx": 6,
-        "text": "(3) A Reporting Financial Institution shall keep records of the steps undertaken and any evidence relied upon for the performance of the due diligence procedures and measures to obtain those records t...",
-        "level": 4
+        "text": "(3) A Reporting Financial Institution shall keep records of the steps undertaken and any evidence relied upon for the performance of the due diligence procedures and measures to obtain those records that the Reporting Financial Institution obtains or creates for the purpose of complying with this Law. ",
+        "level": 3
     },
     "76": {
         "type": "text",
         "page_idx": 6,
-        "text": "(4) All records required to be kept by Reporting Financial Institutions pursuant to the provisions of this Law and the Regulations shall be retained in an electronically readable format for a retentio...",
-        "level": 4
+        "text": "(4) All records required to be kept by Reporting Financial Institutions pursuant to the provisions of this Law and the Regulations shall be retained in an electronically readable format for a retention period of six (6) years after the date of reporting the information. ",
+        "level": 3
     },
     "77": {
         "type": "text",
         "page_idx": 6,
-        "text": "(5) A Reporting Financial Institution that obtains or creates records for any purpose under this Law, in a language other than English shall, upon request, provide an English translation to the Releva...",
-        "level": 4
+        "text": "(5) A Reporting Financial Institution that obtains or creates records for any purpose under this Law, in a language other than English shall, upon request, provide an English translation to the Relevant Authority. ",
+        "level": 3
     },
     "78": {
         "type": "text",
         "page_idx": 6,
-        "text": "(6) A Reporting Financial Institution must, prior to 28 February each year following the first year in which a person becomes a Reportable Person, notify such person of the information relating to tha...",
-        "level": 4
+        "text": "(6) A Reporting Financial Institution must, prior to 28 February each year following the first year in which a person becomes a Reportable Person, notify such person of the information relating to that person which is required to be reported under this Law to the UAE Competent Authority. ",
+        "level": 3
     },
     "79": {
         "type": "text",
         "page_idx": 6,
         "text": "13. Investigations and inspections ",
-        "level": 3
+        "level": 2
     },
     "80": {
         "type": "text",
         "page_idx": 6,
-        "text": "(1) The Relevant Authority may request information from a Reporting Financial Institution and, at all reasonable times, be permitted to enter any premises or place of business of a Reporting Financial...",
-        "level": 4
+        "text": "(1) The Relevant Authority may request information from a Reporting Financial Institution and, at all reasonable times, be permitted to enter any premises or place of business of a Reporting Financial Institution for the purposes of: ",
+        "level": 3
     },
     "81": {
         "type": "text",
         "page_idx": 6,
         "text": "(a) determining whether information: ",
-        "level": 5
+        "level": 4
     },
     "82": {
         "type": "text",
         "page_idx": 6,
-        "text": "(i) included in an information return made pursuant to this Law by the Reporting Financial Institution is correct and complete; or   \n(ii) not included in an information return made by the Reporting F...",
+        "text": "(i) included in an information return made pursuant to this Law by the Reporting Financial Institution is correct and complete; or   \n(ii) not included in an information return made by the Reporting Financial Institution was correctly not included; or ",
         "level": 5
     },
     "83": {
         "type": "text",
         "page_idx": 6,
         "text": "examining the systems and internal procedures put in place by a Reporting Financial Institution for the purposes of ensuring compliance with its obligations under this Law. ",
-        "level": 5
+        "level": 3
     },
     "84": {
         "type": "text",
         "page_idx": 6,
-        "text": "(2) The Relevant Authority may require a Reporting Financial Institution to provide records, information, explanations and particulars, including information in respect of an Account Holder and, if ap...",
-        "level": 4
+        "text": "(2) The Relevant Authority may require a Reporting Financial Institution to provide records, information, explanations and particulars, including information in respect of an Account Holder and, if applicable, a Controlling Person and to give all the required assistance which it may reasonably require in connection with the administration or enforcement of this Law. Where the Relevant Authority makes such a request, the Reporting Financial Institution shall comply with the request. ",
+        "level": 3
     },
     "85": {
         "type": "text",
         "page_idx": 6,
-        "text": "(3) The Relevant Authority may request information from an Account Holder that has a Reportable Account held with a Reporting Financial Institution, inclusive of (but not limited to) Accounting Record...",
-        "level": 4
+        "text": "(3) The Relevant Authority may request information from an Account Holder that has a Reportable Account held with a Reporting Financial Institution, inclusive of (but not limited to) Accounting Records and all other records held in connection with the information or certifications provided to the Reporting Financial Institution pursuant to this Law, and the Relevant Authority may ask a Reporting Financial Institution to assist it to obtain such information or records from an Account Holder. ",
+        "level": 3
     },
     "86": {
         "type": "text",
         "page_idx": 6,
         "text": "5 ",
-        "level": 1
+        "level": 5
     },
     "87": {
         "type": "text",
@@ -530,74 +530,74 @@
     "88": {
         "type": "text",
         "page_idx": 7,
-        "text": "(4) Where an Account Holder does not comply in full with any request for information by the Relevant Authority under Article 13(3), the Relevant Authority may, after informing the UAE Competent Author...",
-        "level": 4
+        "text": "(4) Where an Account Holder does not comply in full with any request for information by the Relevant Authority under Article 13(3), the Relevant Authority may, after informing the UAE Competent Authority and the DFSA, order a Reporting Financial Institution to: ",
+        "level": 3
     },
     "89": {
         "type": "text",
         "page_idx": 7,
-        "text": "(a) block or suspend transfers or payments to or from any Reportable Accounts relevant to the Account Holder; or   \n(b) close any Reportable Accounts held by the Account Holder with the Reporting Fina...",
-        "level": 5
+        "text": "(a) block or suspend transfers or payments to or from any Reportable Accounts relevant to the Account Holder; or   \n(b) close any Reportable Accounts held by the Account Holder with the Reporting Financial Institution in the DIFC. ",
+        "level": 4
     },
     "90": {
         "type": "text",
         "page_idx": 7,
         "text": "14. Appointment of Inspectors ",
-        "level": 3
+        "level": 2
     },
     "91": {
         "type": "text",
         "page_idx": 7,
-        "text": "(1) The Relevant Authority may, if it considers it necessary or desirable in the pursuit of the objectives of this Law, appoint one or more Inspectors to investigate the affairs of a Reporting Financi...",
-        "level": 4
+        "text": "(1) The Relevant Authority may, if it considers it necessary or desirable in the pursuit of the objectives of this Law, appoint one or more Inspectors to investigate the affairs of a Reporting Financial Institution and to submit such written report as the Relevant Authority may direct. ",
+        "level": 3
     },
     "92": {
         "type": "text",
         "page_idx": 7,
         "text": "(2) The Relevant Authority shall inform the DFSA prior to appointing an Inspector to investigate the affairs of a Reporting Financial Institution. ",
-        "level": 5
+        "level": 3
     },
     "93": {
         "type": "text",
         "page_idx": 7,
         "text": "15. Powers of Inspectors to obtain information and documents ",
-        "level": 3
+        "level": 2
     },
     "94": {
         "type": "text",
         "page_idx": 7,
-        "text": "(1) If an Inspector has reason to believe that any Reporting Financial Institution may be able to give information or produce a document which is or may be relevant to an investigation relevant to the...",
-        "level": 4
+        "text": "(1) If an Inspector has reason to believe that any Reporting Financial Institution may be able to give information or produce a document which is or may be relevant to an investigation relevant to the provisions of this Law, he may: ",
+        "level": 3
     },
     "95": {
         "type": "text",
         "page_idx": 7,
-        "text": "(a) enter the business premises of such Reporting Financial Institution during normal business hours for the purpose of inspecting, obtaining and copying information or documents stored in any form on...",
-        "level": 5
+        "text": "(a) enter the business premises of such Reporting Financial Institution during normal business hours for the purpose of inspecting, obtaining and copying information or documents stored in any form on such premises;   \n(b) require such Reporting Financial Institution to produce, or procure the production of, any books, records or other documents in its or power relating to the investigation;   \n(c) require such Reporting Financial Institution to give, or procure the giving of, specified information relating to the investigation;   \n(d) require such Reporting Financial Institution to attend before them at specified times and on reasonable notice and answer all questions put to them relating to the investigation (a “compulsory interview”); and   \n(e) require such Reporting Financial Institution to give reasonable assistance to them in connection with the investigation. ",
+        "level": 4
     },
     "96": {
         "type": "text",
         "page_idx": 7,
         "text": "(2) Where an Inspector exercises his powers under Article 15(1), he may: ",
-        "level": 5
+        "level": 3
     },
     "97": {
         "type": "text",
         "page_idx": 7,
-        "text": "(a) require a Reporting Financial Institution to make available any relevant information stored at those premises for inspection or copying;   \n(b) require a Reporting Financial Institution to convert...",
-        "level": 5
+        "text": "(a) require a Reporting Financial Institution to make available any relevant information stored at those premises for inspection or copying;   \n(b) require a Reporting Financial Institution to convert any relevant information into a form capable of being copied;   \n(c) use the facilities of the Reporting Financial Institution, free of charge, to make copies. ",
+        "level": 4
     },
     "98": {
         "type": "text",
         "page_idx": 7,
         "text": "(3) Where an Inspector exercises his power under Article 15(1)(d) to conduct a compulsory interview, he may give a direction: ",
-        "level": 5
+        "level": 3
     },
     "99": {
         "type": "text",
         "page_idx": 7,
-        "text": "(a) concerning who may be present;   \n(b) preventing any person present during any part of the compulsory interview from disclosing to any other person any information provided to the interviewee or q...",
-        "level": 5
+        "text": "(a) concerning who may be present;   \n(b) preventing any person present during any part of the compulsory interview from disclosing to any other person any information provided to the interviewee or questions asked by the interviewer during the compulsory interview;   \n(c) concerning the conduct of any person present, including as to the manner in which they shall participate in the interview;   \n(d) requiring the interviewee to swear an oath or give an affirmation that the answers are true to the best of his knowledge;   \n(e) requiring the interviewee to answer any questions relevant to the investigation; and   \n(f) requiring the interview to be audio or video recorded. ",
+        "level": 4
     },
     "100": {
         "type": "text",
@@ -609,85 +609,85 @@
         "type": "text",
         "page_idx": 7,
         "text": "6 ",
-        "level": 1
+        "level": 5
     },
     "102": {
         "type": "text",
         "page_idx": 8,
         "text": "(4) A Reporting Financial Institution required under this Article 15 to answer any question which is put to such person by an Inspector shall not: ",
-        "level": 4
+        "level": 3
     },
     "103": {
         "type": "text",
         "page_idx": 8,
-        "text": "(a) knowingly or recklessly make a statement which is false, misleading or deceptive; or (b) knowingly or recklessly withhold any information the omission of which makes the information which is furni...",
-        "level": 5
+        "text": "(a) knowingly or recklessly make a statement which is false, misleading or deceptive; or (b) knowingly or recklessly withhold any information the omission of which makes the information which is furnished misleading or deceptive. ",
+        "level": 4
     },
     "104": {
         "type": "text",
         "page_idx": 8,
         "text": "16. Use and effect of information and documents obtained for investigations ",
-        "level": 3
+        "level": 2
     },
     "105": {
         "type": "text",
         "page_idx": 8,
-        "text": "(1) Information given or a document produced as a result of the exercise by the Inspectors of powers under Article 15 is admissible in evidence in any proceedings, provided that any such information o...",
-        "level": 4
+        "text": "(1) Information given or a document produced as a result of the exercise by the Inspectors of powers under Article 15 is admissible in evidence in any proceedings, provided that any such information or document also complies with any requirements relating to the admissibility of evidence in such proceedings. ",
+        "level": 3
     },
     "106": {
         "type": "text",
         "page_idx": 8,
         "text": "(2) The requirement to give, produce or procure the information or documents specified under Article 15 shall not apply if such information or documents are subject to legal professional privilege. ",
-        "level": 4
+        "level": 3
     },
     "107": {
         "type": "text",
         "page_idx": 8,
-        "text": "(3) Other than the purpose of this Law, the Inspectors shall not disclose a statement made by a Reporting Financial Institution in answer to any question asked pursuant to a requirement made of the Re...",
-        "level": 4
+        "text": "(3) Other than the purpose of this Law, the Inspectors shall not disclose a statement made by a Reporting Financial Institution in answer to any question asked pursuant to a requirement made of the Reporting Financial Institution under Article 15 to any individual or entity unless: ",
+        "level": 3
     },
     "108": {
         "type": "text",
         "page_idx": 8,
         "text": "(a) the Reporting Financial Institution consents to the disclosure; or (b) the Inspector is required by law or court order to disclose the statement. ",
-        "level": 5
+        "level": 4
     },
     "109": {
         "type": "text",
         "page_idx": 8,
         "text": "(4) The Inspectors may retain possession of any information and documents given to them pursuant to a requirement made under Article 15 for so long as is necessary: ",
-        "level": 4
+        "level": 3
     },
     "110": {
         "type": "text",
         "page_idx": 8,
-        "text": "(a) for the purposes of the investigation to which the notice relates;   \n(b) for a decision to be made about whether or not a proceeding to which the information or documents would be relevant should...",
-        "level": 5
+        "text": "(a) for the purposes of the investigation to which the notice relates;   \n(b) for a decision to be made about whether or not a proceeding to which the information or documents would be relevant should be commenced; or   \n(c) for such a proceeding to be completed. ",
+        "level": 4
     },
     "111": {
         "type": "text",
         "page_idx": 8,
-        "text": "(5) A Reporting Financial Institution is not entitled to claim a lien on any documents as a basis for failing to comply with a requirement made under Article 15, or any other provision under the Law, ...",
-        "level": 4
+        "text": "(5) A Reporting Financial Institution is not entitled to claim a lien on any documents as a basis for failing to comply with a requirement made under Article 15, or any other provision under the Law, but any such lien shall not otherwise be prejudiced as a consequence the Reporting Financial Institution complying with the provisions of this Law. ",
+        "level": 3
     },
     "112": {
         "type": "text",
         "page_idx": 8,
-        "text": "(6) Where a Reporting Financial Institution is unable to produce information or documents in compliance with a requirement made under Article 15, the Inspectors may require the Reporting Financial Ins...",
-        "level": 4
+        "text": "(6) Where a Reporting Financial Institution is unable to produce information or documents in compliance with a requirement made under Article 15, the Inspectors may require the Reporting Financial Institution to state, to the best of its knowledge or belief, where the information or documents may be found and who last had possession, custody or control of the information or documents. ",
+        "level": 3
     },
     "113": {
         "type": "text",
         "page_idx": 8,
         "text": "(7) Where the Inspectors consider that, if disclosed, the fact of the issuing of a notice requiring a Reporting Financial Institution to: ",
-        "level": 4
+        "level": 3
     },
     "114": {
         "type": "text",
         "page_idx": 8,
         "text": "(a) produce documents; ",
-        "level": 5
+        "level": 4
     },
     "115": {
         "type": "text",
@@ -699,55 +699,55 @@
         "type": "text",
         "page_idx": 9,
         "text": "(b) give information;   \n(c) attend a compulsory interview; or (d) give assistance, ",
-        "level": 5
+        "level": 4
     },
     "117": {
         "type": "text",
         "page_idx": 9,
-        "text": "may hinder the investigation to which it relates, the Inspectors may direct any person who receives such notice not to disclose the receipt of a notice or any information relating to compliance therew...",
-        "level": 5
+        "text": "may hinder the investigation to which it relates, the Inspectors may direct any person who receives such notice not to disclose the receipt of a notice or any information relating to compliance therewith to any other person, other than his legal representative under a duty of confidentiality. ",
+        "level": 3
     },
     "118": {
         "type": "text",
         "page_idx": 9,
         "text": "(8) A Reporting Financial Institution is entitled to legal representation during the course of an investigation conducted pursuant to the provisions of this Law. ",
-        "level": 4
+        "level": 3
     },
     "119": {
         "type": "text",
         "page_idx": 9,
         "text": "17. Obstruction of Inspectors ",
-        "level": 3
+        "level": 2
     },
     "120": {
         "type": "text",
         "page_idx": 9,
         "text": "A Reporting Financial Institution shall not, without reasonable excuse, engage in conduct, including without limitation the: ",
-        "level": 4
+        "level": 3
     },
     "121": {
         "type": "text",
         "page_idx": 9,
-        "text": "(a) destruction of documents;   \n(b) failure to give or produce information or documents specified by an Inspector;   \n(c) failure to attend before an Inspector at a specified time and place to answer...",
-        "level": 5
+        "text": "(a) destruction of documents;   \n(b) failure to give or produce information or documents specified by an Inspector;   \n(c) failure to attend before an Inspector at a specified time and place to answer questions; (d) giving of information that is false or misleading; or   \n(e) failure to give any assistance in relation to an investigation which the Reporting Financ Institution is able to give, ",
+        "level": 4
     },
     "122": {
         "type": "text",
         "page_idx": 9,
         "text": "that is intended to obstruct an Inspector in the exercise of any of his powers under Article 15. ",
-        "level": 4
+        "level": 3
     },
     "123": {
         "type": "text",
         "page_idx": 9,
         "text": "18. Powers of the Relevant Authority to apply to Court ",
-        "level": 3
+        "level": 2
     },
     "124": {
         "type": "text",
         "page_idx": 9,
-        "text": "(1) The Relevant Authority may apply to the Court for an order to compel a Reporting Financial Institution to adhere to the provisions of this Law.   \n(2) If the Court is satisfied that an application...",
-        "level": 4
+        "text": "(1) The Relevant Authority may apply to the Court for an order to compel a Reporting Financial Institution to adhere to the provisions of this Law.   \n(2) If the Court is satisfied that an application by the Relevant Authority under Article 18(1) is well founded, it may make such order as it thinks fit to ensure compliance with the provisions of this Law. ",
+        "level": 3
     },
     "125": {
         "type": "text",
@@ -759,73 +759,73 @@
         "type": "text",
         "page_idx": 9,
         "text": "8 ",
-        "level": 1
+        "level": 5
     },
     "127": {
         "type": "text",
         "page_idx": 10,
         "text": "PART 4: PENALTIES, ENFORCEMENT AND APPEALS ",
-        "level": 2
+        "level": 1
     },
     "128": {
         "type": "text",
         "page_idx": 10,
         "text": "19. Penalties ",
-        "level": 3
+        "level": 2
     },
     "129": {
         "type": "text",
         "page_idx": 10,
         "text": "(1) A Reporting Financial Institution who: ",
-        "level": 4
+        "level": 3
     },
     "130": {
         "type": "text",
         "page_idx": 10,
-        "text": "(a) does an act or thing that is prohibited under this Law;   \n(b) does not do an act or thing that is required or directed to do under this Law; (c) does not perform any action directed by the Releva...",
-        "level": 5
+        "text": "(a) does an act or thing that is prohibited under this Law;   \n(b) does not do an act or thing that is required or directed to do under this Law; (c) does not perform any action directed by the Relevant Authority under this Law; or (d) otherwise contravenes this Law, ",
+        "level": 4
     },
     "131": {
         "type": "text",
         "page_idx": 10,
         "text": "commits a contravention of this Law and is liable to a fine under Schedule 2. ",
-        "level": 4
+        "level": 3
     },
     "132": {
         "type": "text",
         "page_idx": 10,
         "text": "(2) Where a Reporting Financial Institution opens a New Account without obtaining a valid selfcertification or fails to validate such a self-certification: ",
-        "level": 4
+        "level": 3
     },
     "133": {
         "type": "text",
         "page_idx": 10,
-        "text": "(a) the Reporting Financial Institution commits a contravention of this Law and is liable to a fine under Schedule 2;   \n(b) the Relevant Authority shall, within thirty (30) days of becoming aware of ...",
-        "level": 5
+        "text": "(a) the Reporting Financial Institution commits a contravention of this Law and is liable to a fine under Schedule 2;   \n(b) the Relevant Authority shall, within thirty (30) days of becoming aware of the contravention of Article 19(2)(a), notify the Reporting Financial Institution of the contravention and the amount of the fine; and   \n(c) the Reporting Financial Institution shall pay this fine within thirty (30) days from the date of receipt of such notification. ",
+        "level": 4
     },
     "134": {
         "type": "text",
         "page_idx": 10,
-        "text": "(3) Where an Account Holder or Controlling Person provides a self-certification to a Reporting Financial Institution that contains inaccurate or incorrect information, which the Account Holder or Cont...",
-        "level": 4
+        "text": "(3) Where an Account Holder or Controlling Person provides a self-certification to a Reporting Financial Institution that contains inaccurate or incorrect information, which the Account Holder or Controlling Person knew or ought to have known, was inaccurate or incorrect: ",
+        "level": 3
     },
     "135": {
         "type": "text",
         "page_idx": 10,
-        "text": "(a) the Account Holder or Controlling Person commits a contravention of this Law and is liable to a fine under Schedule 2;   \n(b) the Reporting Financial Institution shall, within thirty (30) days of ...",
-        "level": 5
+        "text": "(a) the Account Holder or Controlling Person commits a contravention of this Law and is liable to a fine under Schedule 2;   \n(b) the Reporting Financial Institution shall, within thirty (30) days of discovering that an Account Holder or Controlling Person has contravened Article 19(3)(a), notify the Relevant Authority of such contravention and provide information relating to the identity, address and place of residence of the Account Holder or Controlling Person; and   \n(c) the Relevant Authority shall, within thirty (30) days of the date of the notification provided by the Reporting Financial Institution under Article 19(3)(b): (i) notify the Account Holder or Controlling Person of the contravention of Article 19(3)(a) and the amount of the fine; and (ii) require the Account Holder or Controlling Person to pay the penalty within thirty (30) days of the receipt of such notification. ",
+        "level": 4
     },
     "136": {
         "type": "text",
         "page_idx": 10,
-        "text": "(4) If a Reporting Financial Institution, person or intermediary enters into any arrangement, the main purpose or one of the main purposes, of which is to avoid an obligation imposed under this Law, s...",
-        "level": 4
+        "text": "(4) If a Reporting Financial Institution, person or intermediary enters into any arrangement, the main purpose or one of the main purposes, of which is to avoid an obligation imposed under this Law, such Reporting Financial Institution, person or intermediary is subject to the obligation as if the Reporting Financial Institution, person or intermediary had not entered into the arrangement. ",
+        "level": 3
     },
     "137": {
         "type": "text",
         "page_idx": 10,
-        "text": "(5) If any Reporting Financial Institution, Account Holder or Controlling Person contravenes this Law, or refuses to answer any question put to such person by an Inspector for the purpose of an invest...",
-        "level": 4
+        "text": "(5) If any Reporting Financial Institution, Account Holder or Controlling Person contravenes this Law, or refuses to answer any question put to such person by an Inspector for the purpose of an investigation, the Relevant Authority may certify such contravention or refusal in writing to the DFSA. The DFSA may thereupon inquire into the case and take such action or make such orders in respect of such Reporting Financial Institution, Account Holder or Controlling Person as it sees fit under applicable law, which shall be in addition to any fines imposed or action directed by the Relevant Authority under this Law. ",
+        "level": 3
     },
     "138": {
         "type": "text",
@@ -837,79 +837,79 @@
         "type": "text",
         "page_idx": 10,
         "text": "9 ",
-        "level": 1
+        "level": 5
     },
     "140": {
         "type": "text",
         "page_idx": 11,
         "text": "20. Enforcement ",
-        "level": 3
+        "level": 2
     },
     "141": {
         "type": "text",
         "page_idx": 11,
-        "text": "(1) Where the Relevant Authority, or its delegate, considers that a Reporting Financial Institution, Account Holder or Controlling Person has contravened a provision of this Law, it may by written not...",
-        "level": 4
+        "text": "(1) Where the Relevant Authority, or its delegate, considers that a Reporting Financial Institution, Account Holder or Controlling Person has contravened a provision of this Law, it may by written notice to such Reporting Financial Institution, Account Holder or Controlling Person: ",
+        "level": 3
     },
     "142": {
         "type": "text",
         "page_idx": 11,
-        "text": "(a) allege that the Reporting Financial Institution, Account Holder or Controlling Person has committed the contravention;   \n(b) provide a description of each alleged contravention, including the dat...",
-        "level": 5
+        "text": "(a) allege that the Reporting Financial Institution, Account Holder or Controlling Person has committed the contravention;   \n(b) provide a description of each alleged contravention, including the date of the contravention;   \n(c) set out the details of the applicable fine in respect of each contravention, including the reasons for imposing the fine and the amount of the fine; and   \n(d) order that certain action(s) be taken in order to comply with this Law. ",
+        "level": 4
     },
     "143": {
         "type": "text",
         "page_idx": 11,
         "text": "(2) Subject to Articles 19(2)(b) and 19(3)(c), the imposition of any fine under this Law shall be made within the period of twelve (12) months on the later of: ",
-        "level": 4
+        "level": 3
     },
     "144": {
         "type": "text",
         "page_idx": 11,
-        "text": "(a) the date the Reporting Financial Institution, Account Holder or Controlling Person became liable to the fine; or (b) the date the contravention first came to the attention of the Relevant Authorit...",
-        "level": 5
+        "text": "(a) the date the Reporting Financial Institution, Account Holder or Controlling Person became liable to the fine; or (b) the date the contravention first came to the attention of the Relevant Authority. ",
+        "level": 4
     },
     "145": {
         "type": "text",
         "page_idx": 11,
         "text": "21. Appeals ",
-        "level": 3
+        "level": 2
     },
     "146": {
         "type": "text",
         "page_idx": 11,
-        "text": "(1) A Reporting Financial Institution, Account Holder or Controlling Person may appeal against any fine imposed or action ordered under Articles 19 or 20, on any one (1) or more of the following groun...",
-        "level": 4
+        "text": "(1) A Reporting Financial Institution, Account Holder or Controlling Person may appeal against any fine imposed or action ordered under Articles 19 or 20, on any one (1) or more of the following grounds: ",
+        "level": 3
     },
     "147": {
         "type": "text",
         "page_idx": 11,
         "text": "(a) it did not commit the contravention; (b) the fine imposed is not proportionate to the contravention; or (c) the fine imposed exceeds the limit set out in this Law for the contravention. ",
-        "level": 5
+        "level": 4
     },
     "148": {
         "type": "text",
         "page_idx": 11,
-        "text": "Any appeal by a Reporting Financial Institution, Account Holder or Controlling Person under Article 21(1) shall be instituted by a written notice of appeal signed by the Reporting Financial Institutio...",
-        "level": 4
+        "text": "Any appeal by a Reporting Financial Institution, Account Holder or Controlling Person under Article 21(1) shall be instituted by a written notice of appeal signed by the Reporting Financial Institution, Account Holder or Controlling Person or their authorised representative, setting out the grounds of appeal and delivered to the Relevant Authority, within a period of twenty (20) business days from the date of the relevant notice provided to it under Articles 19 or 20. If the appeal is submitted after this period, the Relevant Authority has the right to decide not to accept the appeal, unless it decides that there are compelling reasons that prevented the Reporting Financial Institution, Account Holder or Controlling Person from submitting the appeal within the requisite timeframe. ",
+        "level": 3
     },
     "149": {
         "type": "text",
         "page_idx": 11,
-        "text": "(3) The Relevant Authority shall examine the written notice of appeal and notify the Reporting Financial Institution, Account Holder or Controlling Person in writing that it has received the appeal an...",
-        "level": 5
+        "text": "(3) The Relevant Authority shall examine the written notice of appeal and notify the Reporting Financial Institution, Account Holder or Controlling Person in writing that it has received the appeal and that it shall issue its decision within the period specified in the Relevant Authority’s notification, which shall not exceed sixty (60) business days from the date of the Relevant Authority’s notification. The Relevant Authority may request the Reporting Financial Institution, Account Holder or Controlling Person to submit any additional documents or information that it deems necessary to make a decision or request the Reporting Financial Institution, Account Holder or Controlling Person to make representations before the Relevant Authority. ",
+        "level": 3
     },
     "150": {
         "type": "text",
         "page_idx": 11,
         "text": "(4) When considering an appeal delivered pursuant to Article 21(2), the Relevant Authority may, after due consideration of the grounds of appeal, decide to: ",
-        "level": 4
+        "level": 3
     },
     "151": {
         "type": "text",
         "page_idx": 11,
         "text": "10 ",
-        "level": 1
+        "level": 5
     },
     "152": {
         "type": "text",
@@ -921,55 +921,55 @@
         "type": "text",
         "page_idx": 12,
         "text": "(a) accept or reject the appeal, in whole or in part; and (b) confirm, cancel or vary: ",
-        "level": 5
+        "level": 4
     },
     "154": {
         "type": "text",
         "page_idx": 12,
         "text": "(i) the amount of any fine originally imposed; or (ii) any action originally ordered. ",
-        "level": 5
+        "level": 4
     },
     "155": {
         "type": "text",
         "page_idx": 12,
-        "text": "(5) The Relevant Authority shall confirm its finding under Article 21(4) in writing to the Reporting Financial Institution, Account Holder or Controlling Person; provided that such a person shall have...",
-        "level": 5
+        "text": "(5) The Relevant Authority shall confirm its finding under Article 21(4) in writing to the Reporting Financial Institution, Account Holder or Controlling Person; provided that such a person shall have the right to challenge any finding made by the Relevant Authority, by way of a judicial review application to the Court, which shall stay any pending or further enforcement action under this Law until the final determination thereof by the Court. ",
+        "level": 3
     },
     "156": {
         "type": "text",
         "page_idx": 12,
-        "text": "(6) Subject to Article 19(3)(c)(ii), a fine imposed or action ordered by the Relevant Authority under Articles 19 or 20 shall be paid or performed by the Reporting Financial Institution, Account Holde...",
-        "level": 5
+        "text": "(6) Subject to Article 19(3)(c)(ii), a fine imposed or action ordered by the Relevant Authority under Articles 19 or 20 shall be paid or performed by the Reporting Financial Institution, Account Holder or Controlling Person (as applicable) within thirty (30) business days after the date of the relevant written notice provided by the Relevant Authority. Where the Reporting Financial Institution, Account Holder or Controlling Person (as applicable) fails to pay the fine or perform the action ordered under Articles 19 or 20, and has not made an appeal pursuant to Article 21, the Relevant Authority may apply to the Court for the enforcement thereof. ",
+        "level": 3
     },
     "157": {
         "type": "text",
         "page_idx": 12,
-        "text": "(7) Where the fine imposed or the action ordered by the Relevant Authority is confirmed pursuant to Article 21(5), the Reporting Financial Institution, Account Holder or Controlling Person (as applica...",
-        "level": 5
+        "text": "(7) Where the fine imposed or the action ordered by the Relevant Authority is confirmed pursuant to Article 21(5), the Reporting Financial Institution, Account Holder or Controlling Person (as applicable) shall pay the fine or perform the action within fifteen (15) business days after the date of the written notice provided by the Relevant Authority. Where the Reporting Financial Institution, Account Holder or Controlling Person (as applicable) fails to pay the fine or perform the action ordered under Article 21(5), the Relevant Authority may apply to the Court for the enforcement thereof. ",
+        "level": 3
     },
     "158": {
         "type": "text",
         "page_idx": 12,
         "text": "(8) Where the Relevant Authority has applied to the Court for enforcement action pursuant to Articles 21(6) or 21(7), the Court may: ",
-        "level": 4
+        "level": 3
     },
     "159": {
         "type": "text",
         "page_idx": 12,
         "text": "(a) order the payment of the fine; (b) order for the required action to be taken; or (c) make any further order it deems fit. ",
-        "level": 5
+        "level": 4
     },
     "160": {
         "type": "text",
         "page_idx": 12,
         "text": "(9) The Relevant Authority may prescribe forms and procedures in relation to: ",
-        "level": 4
+        "level": 3
     },
     "161": {
         "type": "text",
         "page_idx": 12,
-        "text": "(a) the imposition and recovery of any fines and penalties imposed pursuant to Articles 19 and 20;   \n(b) the enforcement of actions required by the Relevant Authority pursuant to Article 20; and   \n(...",
-        "level": 5
+        "text": "(a) the imposition and recovery of any fines and penalties imposed pursuant to Articles 19 and 20;   \n(b) the enforcement of actions required by the Relevant Authority pursuant to Article 20; and   \n(c) any objection or right of appeal in respect of any such fine, action required or the enforcement thereof pursuant to this Article 21. ",
+        "level": 4
     },
     "162": {
         "type": "text",
@@ -981,121 +981,121 @@
         "type": "text",
         "page_idx": 13,
         "text": "SCHEDULE 1 INTERPRETATION ",
-        "level": 2
+        "level": 1
     },
     "164": {
         "type": "text",
         "page_idx": 13,
         "text": "1. Rules of Interpretation ",
-        "level": 3
+        "level": 2
     },
     "165": {
         "type": "text",
         "page_idx": 13,
         "text": "(1) In this Law, a reference to: ",
-        "level": 4
+        "level": 3
     },
     "166": {
         "type": "text",
         "page_idx": 13,
-        "text": "(c) an obligation to publish or cause to be published a particular document shall, unless expressly provided otherwise in this Law, include publishing or causing it to be published in printed or elect...",
-        "level": 5
+        "text": "(c) an obligation to publish or cause to be published a particular document shall, unless expressly provided otherwise in this Law, include publishing or causing it to be published in printed or electronic form; ",
+        "level": 4
     },
     "167": {
         "type": "text",
         "page_idx": 13,
-        "text": "(d) a “day” means a calendar day, unless expressly stated otherwise. If an obligation falls on a calendar day which is either a Saturday, Sunday or an official public holiday, the obligation shall tak...",
-        "level": 5
+        "text": "(d) a “day” means a calendar day, unless expressly stated otherwise. If an obligation falls on a calendar day which is either a Saturday, Sunday or an official public holiday, the obligation shall take place on the next calendar day which is a business day; ",
+        "level": 4
     },
     "168": {
         "type": "text",
         "page_idx": 13,
         "text": "e) a “business day” means a calendar day, excluding Saturdays, Sundays or official public holidays; ",
-        "level": 5
+        "level": 4
     },
     "169": {
         "type": "text",
         "page_idx": 13,
         "text": "(f) a “week” shall mean a calendar week or seven (7) days, whichever is applicable in the circumstances; ",
-        "level": 5
+        "level": 4
     },
     "170": {
         "type": "text",
         "page_idx": 13,
         "text": "(g) a “month” shall mean (unless specifically referring to a calendar month) shall be a period of thirty (30) days; ",
-        "level": 5
+        "level": 4
     },
     "171": {
         "type": "text",
         "page_idx": 13,
         "text": "(h) a “year” shall mean a period of three hundred and sixty five (365) days and a “calendar year” shall mean a year of the Gregorian calendar; ",
-        "level": 5
+        "level": 4
     },
     "172": {
         "type": "text",
         "page_idx": 13,
         "text": "(i) a reference to the masculine gender includes the feminine; ",
-        "level": 5
+        "level": 4
     },
     "173": {
         "type": "text",
         "page_idx": 13,
         "text": "(j) the singular shall include the plural and vice versa; ",
-        "level": 5
+        "level": 4
     },
     "174": {
         "type": "text",
         "page_idx": 13,
         "text": "(k) “dollar” or $\\mathbf { \\hat { \\Sigma } } ^ { 6 6 } \\mathbf { \\hat { S } } ^ { 7 }$ is a reference to United States Dollars unless the contrary intention appears; ",
-        "level": 5
+        "level": 4
     },
     "175": {
         "type": "text",
         "page_idx": 13,
         "text": "(l) “this Law” includes, where relevant, a reference to any Regulations made under the Law; and ",
-        "level": 5
+        "level": 4
     },
     "176": {
         "type": "text",
         "page_idx": 13,
-        "text": "(m) any capitalised term not otherwise defined in this Law or the Regulations will have the meaning set forth in the Common Reporting Standard or, failing that, the meaning that it has under the appli...",
-        "level": 5
+        "text": "(m) any capitalised term not otherwise defined in this Law or the Regulations will have the meaning set forth in the Common Reporting Standard or, failing that, the meaning that it has under the applicable laws of the DIFC. ",
+        "level": 4
     },
     "177": {
         "type": "text",
         "page_idx": 13,
         "text": "(2) The headings in the Law shall not affect its interpretation. ",
-        "level": 4
+        "level": 3
     },
     "178": {
         "type": "text",
         "page_idx": 13,
         "text": "(3) References in this Law to a body corporate include a company incorporated outside the DIFC. ",
-        "level": 4
+        "level": 3
     },
     "179": {
         "type": "text",
         "page_idx": 13,
-        "text": "(4) A reference in this Law to a Part, Chapter, Article or Schedule by number only, and without further identification, is a reference to the Part, Chapter, Article or Schedule of that number in this ...",
-        "level": 4
+        "text": "(4) A reference in this Law to a Part, Chapter, Article or Schedule by number only, and without further identification, is a reference to the Part, Chapter, Article or Schedule of that number in this Law. ",
+        "level": 3
     },
     "180": {
         "type": "text",
         "page_idx": 13,
-        "text": "(5) A reference in an Article or other division of this Law to an Article by number or letter only, and without further identification, is a reference to the Article of that number or letter contained...",
-        "level": 4
+        "text": "(5) A reference in an Article or other division of this Law to an Article by number or letter only, and without further identification, is a reference to the Article of that number or letter contained in the Article or other division of this Law in which that reference occurs. ",
+        "level": 3
     },
     "181": {
         "type": "text",
         "page_idx": 13,
-        "text": "(6) Unless the context otherwise requires, where this Law refers to an enactment, the reference is to that enactment as amended from time to time, and includes a reference to that enactment as extende...",
-        "level": 4
+        "text": "(6) Unless the context otherwise requires, where this Law refers to an enactment, the reference is to that enactment as amended from time to time, and includes a reference to that enactment as extended or applied by or under another enactment, including any other provision of that enactment. ",
+        "level": 3
     },
     "182": {
         "type": "text",
         "page_idx": 13,
         "text": "12 ",
-        "level": 1
+        "level": 5
     },
     "183": {
         "type": "text",
@@ -1106,44 +1106,44 @@
     "184": {
         "type": "text",
         "page_idx": 14,
-        "text": "(7) References in this Law to writing, filing, instrument or certificate include any mode of communication that preserves a record of the information contained therein and is capable of being reproduc...",
-        "level": 4
+        "text": "(7) References in this Law to writing, filing, instrument or certificate include any mode of communication that preserves a record of the information contained therein and is capable of being reproduced in tangible form, including electronic means. ",
+        "level": 3
     },
     "185": {
         "type": "text",
         "page_idx": 14,
         "text": "2. Legislation in the DIFC ",
-        "level": 3
+        "level": 2
     },
     "186": {
         "type": "text",
         "page_idx": 14,
         "text": "References to legislation in the Law shall be construed in accordance with the following provisions: ",
-        "level": 4
+        "level": 3
     },
     "187": {
         "type": "text",
         "page_idx": 14,
-        "text": "(a) Federal Law is law made by the federal Government of the United Arab Emirates;   \n(b) Dubai Law is law made by the Ruler, as applicable in the Emirate of Dubai;   \n(c) DIFC Law is law made by the ...",
-        "level": 5
+        "text": "(a) Federal Law is law made by the federal Government of the United Arab Emirates;   \n(b) Dubai Law is law made by the Ruler, as applicable in the Emirate of Dubai;   \n(c) DIFC Law is law made by the Ruler, (including by way of example this Law), as applicable in the DIFC;   \n(d) this Law is the DIFC Common Reporting Standard Law, DIFC Law No. 2 of 2018 as amended and restated, made by the Ruler of Dubai, and shall include (unless otherwise required in the context) reference to the Regulations;   \n(e) the Regulations are legislation made by the Board of Directors of the DIFCA under this Law and are binding in nature;   \n(f) the Enactment Notice is the enactment notice pursuant to which this Law is brought into force;   \n(g) a Directive is any directive or statement issued by the Relevant Authority directing any party subject to this Law to do, or not to do, something which, once approved by the Board of the DIFCA, shall be binding in nature; and   \n(h) Guidance is any guidance, commentaries or explanatory material published by the OECD, the UAE Competent Authority or the Relevant Authority for the purpose of assisting with the interpretation of the Common Reporting Standard, which shall be indicative and non-binding. ",
+        "level": 4
     },
     "188": {
         "type": "text",
         "page_idx": 14,
         "text": "3. Defined terms ",
-        "level": 3
+        "level": 2
     },
     "189": {
         "type": "text",
         "page_idx": 14,
         "text": "In this Law, unless the context indicates otherwise, the defined terms listed below shall have the corresponding meanings: ",
-        "level": 4
+        "level": 3
     },
     "190": {
         "type": "table",
         "page_idx": 14,
-        "text": "<table><tr><td>Term</td><td>Definition</td></tr><tr><td>Account Holder</td><td>any person defined as such in Section VIII of the Regulations.</td></tr><tr><td rowspan=\"6\">Accounting Records</td><td>re...",
-        "level": 5
+        "text": "<table><tr><td>Term</td><td>Definition</td></tr><tr><td>Account Holder</td><td>any person defined as such in Section VIII of the Regulations.</td></tr><tr><td rowspan=\"6\">Accounting Records</td><td>records and underlying documents comprising initial and other accounting entries and associated supporting documents, such as:</td></tr><tr><td>(a) cheques; (b) records of electronic funds transfers;</td></tr><tr><td></td></tr><tr><td>(c) invoices; (d) contracts;</td></tr><tr><td>(e) the general and subsidiary ledgers, journal entries and other</td></tr><tr><td>adjustments to the financial statements that are not reflected in journal entries; and (f) work sheets and spread sheets supporting cost allocations,</td></tr><tr><td>Board of Directors of the DIFCA</td><td>computations, reconciliations and disclosures. the Board of Directors of the DIFCA appointed by the President from time to time.</td></tr><tr><td>Common Reporting Standard</td><td>the standard for automatic exchange of financial account information developed by the OECD as amended from time to time by the OECD, the current format of which is set out in the Regulations or incorporated by reference in the Regulations.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Controlling Person</td><td colspan=\"1\" rowspan=\"1\">any person defined as such in Section VIII of the Regulations.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Court</td><td colspan=\"1\" rowspan=\"1\">any relevant court or tribunal established in the DIFC.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Decision-Making Procedures</td><td colspan=\"1\" rowspan=\"1\">the decision-making procedures prescribed in the Operating Regulationsfor the exercise of powers by the Relevant Person which shall, with allnecessary adaptations apply to the Relevant Authority under this Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DFSA</td><td colspan=\"1\" rowspan=\"1\">the entity established as the Dubai Financial Services Authority underDubai Law No. 9 of 2004 (as repealed and substituted by Dubai LawNo. (5) of 2021) or, where permitted, its delegate.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC</td><td colspan=\"1\" rowspan=\"1\">the Dubai International Financial Centre.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFCA</td><td colspan=\"1\" rowspan=\"1\">the entity established as the Dubai Financial Services Authority underDubai Law No. 9 of 2004 (as repealed and substituted by Dubai LawNo. (5) of 2021) or, where permitted, its delegate.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Directive</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in paragraph 2(g) of this Schedule 1.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Government</td><td colspan=\"1\" rowspan=\"1\">the federal government of the UAE.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Guidance</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in paragraph 2(h) of this Schedule 1.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Inspector</td><td colspan=\"1\" rowspan=\"1\">any inspector appointed by the Relevant Authority under Article 14.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Law</td><td colspan=\"1\" rowspan=\"1\">the Common Reporting Standard Law No. 2 of 2018.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">New Account</td><td colspan=\"1\" rowspan=\"1\">any account defined as such in Section VIII of the Regulations.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">OECD</td><td colspan=\"1\" rowspan=\"1\">the Organisation for Economic Co-Operation and Development whichwas established by the Convention on the Organisation for EconomicCo-operation and Development signed in Paris on 14 December, 1960.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Pre-existing Account</td><td colspan=\"1\" rowspan=\"1\">any account defined as such in Section VIIIof the Regulations.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">President</td><td colspan=\"1\" rowspan=\"1\">the president of the DIFC appointed by the Ruler pursuant to Dubai LawNo. 9 of 2004 (as repealed and substituted by Dubai Law No. (5) of2021).</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Regulations</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in paragraph 2(e) of this Schedule 1.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Relevant Authority</td><td colspan=\"1\" rowspan=\"1\">the DIFC Registrar of Companies, or any other competent authoritydesignated by the Board of the DIFCA to administer the provisions ofthis Law, or any part thereof.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Reportable Account</td><td colspan=\"1\" rowspan=\"1\">any account defined as such in Section VIII of the Regulations.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Reporting Financial Institution</td><td colspan=\"1\" rowspan=\"1\">any person defined as such in Section VIIIof the Regulations.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Ruler</td><td colspan=\"1\" rowspan=\"1\">the Ruler of the Emirate of Dubai.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">UAE</td><td colspan=\"1\" rowspan=\"1\">the United Arab Emirates.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">UAE Competent Authority</td><td colspan=\"1\" rowspan=\"1\">the UAE Ministry of Finance, or any other competent authoritydesignated by the Government to facilitate the exchange of informationunder the Common Reporting Standard pursuant or any agreement ortreaty entered into by the Government, or its permitted delegate ornominee, in connection therewith.</td></tr></table>",
+        "level": 4
     },
     "191": {
         "type": "text",
@@ -1155,7 +1155,7 @@
         "type": "text",
         "page_idx": 14,
         "text": "13 ",
-        "level": 1
+        "level": 5
     },
     "193": {
         "type": "text",
@@ -1167,13 +1167,13 @@
         "type": "text",
         "page_idx": 15,
         "text": "14 ",
-        "level": 1
+        "level": 5
     },
     "195": {
         "type": "text",
         "page_idx": 16,
         "text": "SCHEDULE 2 CONTRAVENTIONS AND FINES\\* ",
-        "level": 2
+        "level": 1
     },
     "196": {
         "type": "text",
@@ -1184,7 +1184,7 @@
     "197": {
         "type": "table",
         "page_idx": 16,
-        "text": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Contravention</td><td rowspan=1 colspan=1>Fine</td></tr><tr><td rowspan=1 colspan=1>1.</td><td rowspan=1 colspan=1>A Reporting Financial...",
+        "text": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Contravention</td><td rowspan=1 colspan=1>Fine</td></tr><tr><td rowspan=1 colspan=1>1.</td><td rowspan=1 colspan=1>A Reporting Financial Institution that opens a New Account withoutobtaining a valid self-certification or fails to validate such self-certification.</td><td rowspan=1 colspan=1>US$280</td></tr><tr><td rowspan=1 colspan=1>2.</td><td rowspan=1 colspan=1>A Reporting Financial Institution that fails to keep records of the duediligence procedures performed under the Regulations, or fails to keepthem for a period of six (6) years pursuant to the requirements of theRegulations.</td><td rowspan=1 colspan=1>US$2,800</td></tr><tr><td rowspan=1 colspan=1>3.</td><td rowspan=1 colspan=1>A Reporting Financial Institution that fails to apply the due diligenceprocedures specified in Section II through to Section VII in theRegulations.</td><td rowspan=1 colspan=1>US$11,000</td></tr><tr><td rowspan=1 colspan=1>4.</td><td rowspan=1 colspan=1>A Reporting Financial Institution that fails to submit the informationreturn in the form, manner and by the date specified in the Regulations(or as otherwise advised by the UAE Competent Authority or theRelevant Authority).</td><td rowspan=1 colspan=1>US$14,000US$280 for every day the failurecontinues up to a maximum fineof US$28,000</td></tr><tr><td rowspan=1 colspan=1>5.</td><td rowspan=1 colspan=1>A Reporting Financial Institution that fails to submit the informationreturn confirming that the institution maintains no Reportable Accounts(Nil Return) in respect of that year within the timeframe stipulated inthe Regulations (or as otherwise advised by the UAE CompetentAuthority or the Relevant Authority).</td><td rowspan=1 colspan=1>US$2,800plusUS$280 for every day the failurecontinues up to a maximum fineof US$8,400</td></tr><tr><td rowspan=1 colspan=1>6.</td><td rowspan=1 colspan=1>(a) A Reporting Financial Institution that files a report which fails tostate, in a complete and accurate manner, the information that isrequired to be reported under this Law or the Regulations.(b) A Reporting Financial Institution that commits the contraventiondescribed in 6(a) above in the immediately following reportingyear.(c) A Reporting Financial Institution that commits the contraventiondescribed in 6(a) above in any further successive reporting year(s)following the reporting year specified in 6(b).</td><td rowspan=1 colspan=1>Minimum Fine:US$1,400Maximum Fine: US$7,000For each instance such a report isfiled in a reporting yearMinimum Fine: US$2,800Maximum Fine: US$14,000Minimum Fine: US$16,800Maximum Fine: US$28,000</td></tr><tr><td rowspan=1 colspan=1>7.</td><td rowspan=1 colspan=1>A Reporting Financial Institution that otherwise fails to comply withany other provision(s) of this Law or the Regulations.</td><td rowspan=1 colspan=1>Minimum Fine: US$2,800Maximum Fine: US$8,400</td></tr><tr><td rowspan=1 colspan=1>8.</td><td rowspan=1 colspan=1>A Reporting Financial Institution that adopts any practices with theintent to circumvent this Law or the Regulations.</td><td rowspan=1 colspan=1>US$70,000</td></tr><tr><td rowspan=1 colspan=1>9.</td><td rowspan=1 colspan=1>An Account Holder or Controlling Person that provides an inaccurateor incorrect self-certification to a Reporting Financial Institution thatthe Account Holder or Controlling Person knew or ought to haveknown, was inaccurate or incorrect.</td><td rowspan=1 colspan=1>US$5,500</td></tr></table>",
         "level": 4
     },
     "198": {

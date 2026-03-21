@@ -1,0 +1,5371 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            389,
+            237,
+            605,
+            284
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            305,
+            357,
+            694,
+            388
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC LAW NO. 2 of 2019 ",
+        "text_level": 1,
+        "bbox": [
+            268,
+            430,
+            729,
+            462
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Consolidated Version No. 5 ",
+        "bbox": [
+            405,
+            478,
+            594,
+            492
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(July 2025) ",
+        "bbox": [
+            458,
+            506,
+            539,
+            520
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As amended by ",
+        "bbox": [
+            447,
+            535,
+            552,
+            549
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC Laws Amendment Law DIFC Law No. 1 of 2025 ",
+        "bbox": [
+            398,
+            564,
+            600,
+            595
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC Laws Amendment Law DIFC Law No. 1 of 2024 ",
+        "bbox": [
+            396,
+            613,
+            600,
+            644
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC Laws Amendment Law DIFC Law No. 2 of 2022 ",
+        "bbox": [
+            398,
+            663,
+            600,
+            693
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Employment Law Amendment Law DIFC Law No. 4 of 2021 ",
+        "bbox": [
+            374,
+            713,
+            621,
+            743
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Employment Law Amendment Law DIFC Law No. 4 of 2020 ",
+        "bbox": [
+            374,
+            762,
+            621,
+            793
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            446,
+            80,
+            552,
+            96
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 1: GENERAL ...... ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            110,
+            883,
+            123
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Title and repeal.. 1   \n2. Legislative Authority.. 1   \n3. Purpose of this Law . 1   \n4. Application of the Law.... .. 1   \n5. Date of enactment. . 2   \n6. Commencement.. 2   \n7. Schedules..... . 2   \n8. Administration of the Law... . 2   \n9. The power of the DIFCA to make Regulations and impose fines and penalties . . 3   \n10. Limitation Period.. . 3 ",
+        "bbox": [
+            104,
+            125,
+            885,
+            261
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 2: HIRING EMPLOYEES.... ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            273,
+            887,
+            286
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "11. No waiver ..... .... 4   \n12. No false representations . ............................................................................. .... 4   \n13. Hiring children .........   \n14. Right to a written contract .. ........................................................................................................... .... 4   \n15. Itemised pay statements..... .......................................................................................... ...... 5   \n16. Payroll records... .............................................................................. ..... 5   \n17. Part-Time Employees and Short-Term Employees .. .... 6 ",
+        "bbox": [
+            106,
+            289,
+            887,
+            384
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 3: PROTECTION OF REMUNERATION.... . 8 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            395,
+            885,
+            409
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "18. Paydays.......... ... 8   \n19. Payments following termination.. .. 8   \n20. Deductions.... . 8   \n21. Recruitment costs . . 9 ",
+        "bbox": [
+            106,
+            412,
+            885,
+            464
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 4: WORKING TIME AND LEAVE .. ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            476,
+            885,
+            491
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "22. Maximum weekly working time... ................................................................................................. ... 11   \n23. Ramadan... .......................................................................................................... . 11   \n24. Daily rest ....... ..................................................................................................................... .... 11   \n25. Weekly rest period... ....................................................................................................................... . 11   \n26. Breaks....   \n27. Vacation Leave..... ............................................................................................. ..... 11   \n28. Compensation in lieu of Vacation Leave.... ..................................................................................... . 12   \n29. Dates of Vacation Leave .... ............................................................................................ 12   \n30. Vacation Leave during first year of employment .................................................................................. ..... 12   \n31. Entitlements under other provisions ... ...................................................................................... . 12   \n32. Public Holidays and pay. ................................................................................................................ 12   \n33. Special Leave ..... ............................................................................................................... .... 13   \n34. Sick Leave .... ............................................................................................................. . 13   \n35. Sick Pay ............... .............................................................................................................................. . 13   \n36. Excessive Sick Leave ................................................. ...................................................... ..... 13 ",
+        "bbox": [
+            104,
+            492,
+            887,
+            697
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 5: PARENTAL LEAVE AND RELATED RIGHTS. .14 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            707,
+            885,
+            723
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "37. Maternity Leave ...... . 14   \n38. Maternity Pay ... . 14   \n39. Paternity Leave and pay . 14   \n40. Right to return to work .. . 15 ",
+        "bbox": [
+            104,
+            725,
+            885,
+            777
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 6: TIME OFF WORK . .16 ",
+        "text_level": 1,
+        "bbox": [
+            97,
+            789,
+            887,
+            804
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "41. Time off for ante-natal care and adoption proceedings . . 16   \n42. Remuneration for time off under Article 41 .. .. 16 ",
+        "bbox": [
+            99,
+            805,
+            883,
+            833
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 7: EMPLOYER’S OBLIGATIONS.. 17 ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            844,
+            885,
+            858
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "43. General duties of Employers . . 17   \n44. Health and safety .. .. 17   \n45. Ventilation .... . 17   \n46. Temperature in indoor workplaces . . 17   \n47. Lighting ... 17   \n48. Cleanliness . . 17   \n49. Room dimensions and space ....... ...... 18   \n50. Workstations and seating.. . 18   \n51. Sanitary conveniences . .. 18   \n52. Drinking water.. .. 18   \n53. No penalties for preventing health and safety risks. ..................... .. 18   \n54. Liability of Employers for an Employee’s conduct.. . 18   \n55. Employment accidents and illnesses . .. 18   \n56. Health insurance .. . 19   \n57. Visas and permits . . 19 ",
+        "bbox": [
+            104,
+            861,
+            887,
+            914
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            493,
+            944,
+            505,
+            956
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 8: EMPLOYEE’S OBLIGATIONS.. .20 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            228,
+            887,
+            242
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "58. General duties of Employees.. .. 20 ",
+        "bbox": [
+            97,
+            245,
+            882,
+            257
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PART 9: NON-DISCRIMINATION.. .21 ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            269,
+            883,
+            283
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "59. Discrimination .. .. 21   \n60. Victimisation .. . 22   \n61. Proceedings under Part 9 .. . 23 ",
+        "bbox": [
+            106,
+            286,
+            885,
+            326
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PART 10: TERMINATION OF EMPLOYMENT . 25 ",
+        "text_level": 1,
+        "bbox": [
+            97,
+            337,
+            887,
+            351
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "62. Minimum notice periods... ............................................................................................ . 25   \n63. Termination for cause.. ...................................................................................................... .. 25   \n64. Right to written statement of reasons .... ......................................................................................... . 26   \n65. Pension for UAE and GCC nationals .. ................................................................................ .. 26   \n66. Gratuity Payment and Qualifying Scheme Benefits .. ....................................................................... .. 26 ",
+        "bbox": [
+            106,
+            353,
+            885,
+            420
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PART 11: GENERAL CONTRAVENTIONS... .31 ",
+        "text_level": 1,
+        "bbox": [
+            101,
+            432,
+            883,
+            446
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "67. General contraventions...... . 31   \n68. Administration of fines and penalties . . 31   \n69. Inspections and access to records . . 32   \n70. Liability of the DIFCA .. .. 32 ",
+        "bbox": [
+            104,
+            448,
+            885,
+            502
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 1 - INTERPRETATION . .33 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            514,
+            887,
+            527
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 2 - CONTRAVENTIONS AND FINES ....... ... 41 ",
+        "bbox": [
+            99,
+            529,
+            883,
+            545
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ii ",
+        "bbox": [
+            493,
+            945,
+            505,
+            956
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PART 1: GENERAL ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            66,
+            259,
+            80
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Title and repeal ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            95,
+            282,
+            110
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) This Employment Law 2019, repeals and replaces the Employment Law 2005 (DIFC Law No. 4 of 2005), as it was in force immediately prior to the commencement of this Law (the “Previous Law”), and may be cited as the “Employment Law 2019” or “this Law”. ",
+        "bbox": [
+            164,
+            123,
+            895,
+            167
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2) Except where otherwise provided in this Law, anything done or omitted to be done pursuant to or for the purposes of the Previous Law is deemed to be done or omitted to be done pursuant to or for the purposes of this Law. ",
+        "bbox": [
+            171,
+            180,
+            893,
+            224
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3) Without limiting the generality of Article 1(2), and subject only to Articles 1(4), 10 and 61(2), the repeal and replacement under Article 1(1) shall not affect: ",
+        "bbox": [
+            153,
+            237,
+            895,
+            267
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) any right, remedy, debt or obligation accrued to or incurred by any person; or (b) any legal proceeding commenced, or to be commenced, in respect of any such right, remedy, debt or obligation, ",
+        "bbox": [
+            218,
+            280,
+            893,
+            338
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "under the Previous Law, and any such legal proceeding must be instituted, continued or enforced, including any penalty, fine or forfeiture, under this Law without prejudice to any right, remedy, debt or obligation which has accrued or incurred prior to the commencement of this Law. ",
+        "bbox": [
+            225,
+            351,
+            892,
+            395
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4) Where there is no equivalent provision in this Law to a provision in the Previous Law, the relevant provision in the Previous Law is deemed to survive the repeal and replacement under Article 1(1), until such time as necessary for the purposes of any legal proceeding specified in Article 1(3)(b). The fact that a provision in this Law reduces or extinguishes rights in the Previous Law does not prevent it from being an equivalent provision. ",
+        "bbox": [
+            164,
+            409,
+            892,
+            480
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. Legislative Authority ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            495,
+            321,
+            509
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law is made by the Ruler. ",
+        "bbox": [
+            168,
+            523,
+            380,
+            538
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Purpose of this Law ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            552,
+            313,
+            566
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The purpose of this Law is to: ",
+        "bbox": [
+            168,
+            580,
+            370,
+            595
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) provide minimum employment standards for Employees; (b) promote the fair treatment of Employees by Employers; and (c) foster employment practices that will contribute to the prosperity of the DIFC. ",
+        "bbox": [
+            223,
+            608,
+            819,
+            681
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. Application of the Law ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            694,
+            333,
+            709
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Article 4(3), this Law applies to: ",
+        "bbox": [
+            166,
+            722,
+            521,
+            737
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) any person having a place of business in the DIFC (including a body, authority, registry or entity established by or pursuant to the DIFC Founding Law) who employs one (1) or more individuals; and ",
+        "bbox": [
+            213,
+            750,
+            895,
+            794
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(b) any individual employed by way of an Employment Contract by a person referred to in Article 4(1)(a), who either: ",
+        "bbox": [
+            207,
+            807,
+            893,
+            837
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(i) is based within, or ordinarily works in or from, the DIFC; or (ii) agreed in an Employment Contract to be subject to this Law; o (c) any individual working or employed in the DIFC pursuant to Article 4(2). ",
+        "bbox": [
+            281,
+            850,
+            774,
+            894
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            32,
+            893,
+            46
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            493,
+            957,
+            503,
+            967
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2) Subject to Article 4(3) an Employee may be employed in the DIFC pursuant to an employment contract subject to an applicable law other than this Law, in instances where: ",
+        "bbox": [
+            156,
+            95,
+            893,
+            124
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) the Employee is working in or from the DIFC on the basis of a Secondment;   \n(b) the Employee is employed in the DIFC by a local or federal government entity established by decree (or similar instrument) in the UAE, except for those established pursuant to the DIFC Founding Law; or   \n(c) the President has exempted the Employee's Employer from being subject to this Law. ",
+        "bbox": [
+            223,
+            136,
+            893,
+            239
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Notwithstanding the provisions of Article 4(2), the following provisions of this Law shall remain to be applicable to an Employer or an Employee during a Secondment pursuant to Article 4(2)(a) or to an Employee employed in the DIFC pursuant to Articles 4(2)(b) or 4(2)(c): ",
+        "bbox": [
+            222,
+            251,
+            892,
+            295
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) Part 2 – Articles 11(2), 12, 13, 14, 15 and 16;   \n(b) Part 3 – Articles 18, 20 and 21;   \n(c) Part 4 – Articles 22, 23, 24, 25, 26 and 32;   \n(d) Part 7 – all Articles;   \n(e) Part 8 – all Articles;   \n(f) Part 9 – all Articles;   \n(g) Part 11 – all Articles, insofar as they relate to any of the Articles referred to in sub-sections (a) to (d) above; and   \n(h) Schedules 1 and 2 – all Schedules insofar as they relate to any of the Articles referred to in sub-sections (a) to (g) above. ",
+        "bbox": [
+            223,
+            307,
+            893,
+            552
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4) For the avoidance of doubt, with the exception of this Part 1 and those provisions listed in Article 4(3), no other provisions of this Law shall apply to an Employee and Employer for whom Article 4(2) applies. ",
+        "bbox": [
+            166,
+            566,
+            893,
+            609
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. Date of enactment ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            623,
+            299,
+            637
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This Law is enacted on the date specified in the Enactment Notice. ",
+        "bbox": [
+            166,
+            652,
+            619,
+            666
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6. ",
+        "bbox": [
+            106,
+            681,
+            121,
+            693
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Commencement ",
+        "text_level": 1,
+        "bbox": [
+            164,
+            680,
+            287,
+            694
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This Law comes into force on the date ninety (90) days following the date specified in the Enactment Notice. ",
+        "bbox": [
+            166,
+            707,
+            892,
+            723
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7. Schedules ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            737,
+            240,
+            751
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) Schedule 1 contains: ",
+        "bbox": [
+            166,
+            764,
+            368,
+            780
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) interpretative provisions that apply to this Law; and (b) a list of defined terms used in this Law. ",
+        "bbox": [
+            222,
+            793,
+            641,
+            838
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2) Schedule 2 contains prescribed fines for contraventions of this Law. ",
+        "bbox": [
+            159,
+            850,
+            688,
+            865
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            493,
+            957,
+            505,
+            967
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            32,
+            893,
+            46
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8. Administration of the Law ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            67,
+            360,
+            81
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This Law and any Regulations made under it shall be administered by the DIFCA. ",
+        "bbox": [
+            168,
+            95,
+            722,
+            110
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "9. The power of the DIFCA to make Regulations and impose fines and penalties (1) The Board of Directors of the DIFCA may: ",
+        "bbox": [
+            99,
+            123,
+            722,
+            138
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) make Regulations and publish Guidance in respect of any matter that facilitates the administration of this Law or furthers the purposes of this Law; (b) impose fines or penalties or both for any contraventions of this Law; and (c) impose limits on compensation provided for under this Law. ",
+        "bbox": [
+            223,
+            180,
+            893,
+            268
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) Any fines or penalties imposed under this Law shall not limit the right of an Employer or an Employee to enforce any rights, remedies, claims or action under this Law or any other relevant law. ",
+        "bbox": [
+            166,
+            281,
+            893,
+            323
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "10. Limitation Period ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            337,
+            297,
+            352
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Subject to Article 20(2) and Article 61(2), a Court shall not consider a claim under this Law unless it is presented to the Court either during an Employee’s employment with an Employer or not later than six (6) months after the relevant Employee's Termination Date. ",
+        "bbox": [
+            166,
+            365,
+            893,
+            409
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            32,
+            893,
+            46
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            493,
+            958,
+            505,
+            967
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PART 2: HIRING EMPLOYEES ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            66,
+            363,
+            81
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "11. No waiver ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            96,
+            254,
+            109
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) The requirements of this Law are minimum requirements and a provision in an agreement to waive any of those requirements, except where expressly permitted under this Law, is void in all circumstances. ",
+        "bbox": [
+            178,
+            123,
+            880,
+            167
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2) Nothing in this Law precludes: ",
+        "bbox": [
+            178,
+            180,
+            451,
+            195
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) an Employer from providing in any Employment Contract terms and conditions that are more favourable to an Employee than those required by this Law; or   \n(b) subject to Article 66(13), an Employee from waiving any right, remedy, obligation, claim or action under this Law by entering into a written agreement with their Employer to terminate their employment or to resolve a dispute with their Employer, provided:   \n(i) the Employee warrants in the written agreement that they were given an opportunity to receive independent legal advice from a Legal Practitioner as to the terms and effect of the written agreement; or   \n(ii) the Employer and Employee took part in mediation proceedings provided by the Court prior to entering into the written agreement. ",
+        "bbox": [
+            217,
+            209,
+            883,
+            308
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "12. No false representations ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            423,
+            353,
+            438
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "An Employer shall not induce, influence or persuade a person to become an Employee, or to work or to be available for work, by misrepresenting any of the following: ",
+        "bbox": [
+            176,
+            451,
+            880,
+            480
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) the availability of a position;   \n(b) the job description and title;   \n(c) the type of work;   \n(d) the Remuneration or any benefits; or (e) the conditions of work or employment. ",
+        "bbox": [
+            235,
+            494,
+            562,
+            624
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "13. Hiring children ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            636,
+            292,
+            652
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "An Employer shall not employ a child who is under sixteen (16) years of age. An Employer who contravenes this provision is liable to a fine as set out in Schedule 2. ",
+        "bbox": [
+            178,
+            665,
+            880,
+            694
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "14. Right to a written contract ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            709,
+            373,
+            723
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employer shall provide an Employee with a written Employment Contract in the English language within seven (7) days of the commencement of the Employee's employment with the Employer. ",
+        "bbox": [
+            178,
+            737,
+            882,
+            780
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2) An Employment Contract shall include: ",
+        "bbox": [
+            176,
+            793,
+            510,
+            808
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) the names of the Employer and Employee;   \n(b) the Employee's date of commencement of employment;   \n(c) the Employee’s Wage;   \n(d) the Employee's Pay Period;   \n(e) the Employee's hours and days of work;   \n(f) the Employee's entitlement to Vacation Leave;   \n(g) the notice that each of the Employee and the Employer is obliged to give to terminate the Employee's employment;   \n(h) the Employee’s job title;   \n(i) whether the Employment Contract is for an indefinite duration or a fixed-term period and, if for a fixed-term period, the Termination Date;   \n(j) the Employee’s place of work;   \n(k) a reference to any applicable disciplinary rules or grievance procedures;   \n(l) any applicable probation period up to a maximum of six (6) months, except in circumstances where the Employee is employed by way of a fixed term contract for six (6) months or less, in which case the applicable probation period may not exceed more than half the period of the fixed term contract;   \n(m) a reference to any applicable policies and procedures, including any code of conduct, and where these can be accessed; and   \n(n) any other matter that may be prescribed under the Regulations. ",
+        "bbox": [
+            235,
+            821,
+            678,
+            895
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            700,
+            32,
+            882,
+            46
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            493,
+            958,
+            505,
+            967
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3) Any amendment to an Employment Contract must be in writing and signed by both the Employer and Employee, unless such amendment is of an administrative nature only, in which case the Employer shall be required to record such amendment in writing and to give written notice thereof to the Employee prior to the amendment taking effect. ",
+        "bbox": [
+            181,
+            466,
+            880,
+            523
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "15. Itemised pay statements ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            538,
+            353,
+            552
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employee is entitled to receive as soon as reasonably practicable a written itemised pay statement in respect of each Pay Period that includes: ",
+        "bbox": [
+            163,
+            566,
+            878,
+            595
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) the amount of the Remuneration payable; and (b) the amount of any deduction from that amount and the purpose for which it is made. ",
+        "bbox": [
+            235,
+            608,
+            873,
+            653
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2) An Employer satisfies the requirements in Article 15(1) if it provides electronic access to itemised pay statements to an Employee containing the requisite details and such statements are capable of being printed. ",
+        "bbox": [
+            168,
+            665,
+            882,
+            709
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "16. Payroll records ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            723,
+            292,
+            737
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employer shall keep records of the following information: ",
+        "bbox": [
+            175,
+            750,
+            659,
+            766
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) the Employee's name, date of birth, job title, telephone number and contact address;   \n(b) the Employee's date of commencement of employment;   \n(c) the Employee's Remuneration (gross and net, where applicable), and the applicable Pay Period;   \n(d) the hours worked by the Employee on each day if the Employee is paid on an Hourly Rate;   \n(e) each deduction made from the Employee's Remuneration and the reason for it;   \n(f) the dates of the Public Holidays taken by the Employee and the Daily Wages paid by the Employer in respect thereof;   \n(g) the dates of Vacation Leave taken by the Employee and the Daily Wages paid by the Employer in respect thereof and the Vacation Leave balance owing;   \n(h) any Parental Leave taken by the Employee (and any pay received by the Employee during such leave, if applicable); and   \n(i) any Sick Leave taken by the Employee and Sick Pay paid to the Employee. ",
+        "bbox": [
+            235,
+            779,
+            880,
+            909
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            700,
+            32,
+            882,
+            46
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            493,
+            957,
+            505,
+            969
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2) The records referred to in Article 16(1): ",
+        "bbox": [
+            180,
+            252,
+            511,
+            267
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) shall be in English and the English language shall have precedence over any other language used in the records;   \n(b) shall be kept, or be electronically accessible at or from, the Employer's principal place of business in the DIFC;   \n(c) shall be retained by the Employer during the Employee's employment and until six (6) years after an Employee's Termination Date; and   \n(d) may be retained in electronic format. ",
+        "bbox": [
+            237,
+            280,
+            882,
+            425
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "17. Part-Time Employees and Short-Term Employees ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            437,
+            542,
+            452
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) This Law applies to a Part-Time Employee, provided that: ",
+        "bbox": [
+            175,
+            465,
+            634,
+            480
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) the entitlements of a Part-Time Employee under this Law to Vacation Leave, Maternity Leave, Paternity Leave, Special Leave, and Sick Leave; and   \n(b) the amount of Sick Leave permitted to be taken by a Part-Time Employee before allowing an Employer the right to terminate a Part-Time Employee’s employment for taking excessive Sick Leave pursuant to Article 36, ",
+        "bbox": [
+            235,
+            494,
+            882,
+            580
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "shall be calculated on a pro rata basis in accordance with the provisions of Articles 17(2), 17(3) or 17(4), whichever is applicable. ",
+        "bbox": [
+            234,
+            593,
+            880,
+            623
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2) If a Part-Time Employee’s Employment Contract provides for five (5) Work Days per Work Week and working hours that are less than eight (8) hours per Work Day, inclusive of breaks, the Work Day for the Part-Time Employee shall be that reduced work day and entitlements referred to in Articles 27, 33, 34, 37 and 39(1) and the sixty (60) Work Days limit referred to in Article 36 shall not be pro-rated. ",
+        "bbox": [
+            178,
+            636,
+            882,
+            709
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3) If a Part-Time Employee’s Employment Contract provides for less than five (5) Work Days per Work Week, the calculation for purposes of Article 17(1) shall be determined as follows: ",
+        "bbox": [
+            170,
+            722,
+            885,
+            751
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) the number of Work Days stated in a Part-Time Employee’s Employment Contract to be worked during a Work Week shall be calculated as a percentage of a five (5) day Work Week; and   \n(b) the percentage derived from the calculation in Article 17(3)(a) shall be applied, where applicable, to the entitlements referred to in Articles 27, 33, 34, 37 and 39(1) and the sixty (60) Work Days limit referred to in Article 36, to determine the applicable pro rata portion thereof. ",
+        "bbox": [
+            223,
+            764,
+            882,
+            880
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            700,
+            32,
+            880,
+            46
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            493,
+            958,
+            505,
+            967
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(4) If a Part-Time Employee is employed on any other basis than the manner set out in Articles 17(2) or 17(3), the number of Work Days during a Work Week of the Part-Time Employee for purposes of this Article 17 shall be determined by: ",
+        "bbox": [
+            178,
+            66,
+            882,
+            110
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) calculating the average number of days on which an Employee worked during a Work Week, over the course of the shorter of: ",
+        "bbox": [
+            223,
+            123,
+            882,
+            153
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(i) the period of the Employee's employment with the Employer; and (ii) a Relevant Calculation Period, ",
+        "bbox": [
+            289,
+            166,
+            808,
+            182
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "and using that number to calculate what percentage of it comprises of a Work Week; and (b) applying, where applicable, such percentage to the entitlements referred to in Articles 27, 33, 34, 37 and 39(1) and the sixty (60) Work Days limit referred to in Article 36, to determine the applicable pro rata portion thereof. ",
+        "bbox": [
+            234,
+            223,
+            838,
+            238
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(5) This Law applies to a Short-Term Employee, except for: ",
+        "bbox": [
+            178,
+            308,
+            622,
+            324
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) Articles 14(2), 15, 16(1)(f), (g), (h) and (i), 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, Part 5, Part 6 and Part 10 of this Law which shall not apply to a Short-Term Employee;   \n(b) Article 56 shall only apply to the extent that health insurance is required for a Short-Term Employee pursuant to Federal Law or Dubai Law. ",
+        "bbox": [
+            237,
+            337,
+            882,
+            409
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            700,
+            32,
+            880,
+            46
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            494,
+            957,
+            505,
+            967
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PART 3: PROTECTION OF REMUNERATION ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            80,
+            464,
+            96
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "18. Paydays ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            110,
+            230,
+            124
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Articles 18(2), 20 and 28(2), an Employer shall pay to an Employee all Remuneration earned by the Employee in a Pay Period within seven (7) days after the end of the Pay Period.   \n(2) Payment of any Additional Payments may be deferred and subject to other conditions by written agreement between the Employer and Employee. ",
+        "bbox": [
+            164,
+            137,
+            893,
+            211
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "19. Payments following termination ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            224,
+            400,
+            238
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employer shall pay to an Employee, within fourteen (14) days after the Termination Date: ",
+        "bbox": [
+            163,
+            251,
+            865,
+            267
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) all Remuneration, excluding, where applicable, any Additional Payments deferred in accordance with Article 18(2);   \n(b) where applicable, any Gratuity Payment that accrued prior to the Qualifying Scheme Commencement Date under Article 66(1) not transferred to a Qualifying Scheme under Article 66(6);   \n(c) a Daily Wage for each day of accrued Vacation Leave not taken; and   \n(d) all outstanding amounts due in respect of the Employee under Article 66(7) not yet paid to a Qualifying Scheme. ",
+        "bbox": [
+            223,
+            280,
+            895,
+            438
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Subject to the provisions of Article 19(3) and 19(4), an Employee shall be entitled to and the Employer shall pay a penalty equal to an Employee’s Daily Wage for each day the Employer is in arrears of its payment obligations under Article 19(1). ",
+        "bbox": [
+            208,
+            451,
+            890,
+            495
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3) A penalty pursuant to Article 19(2) may only be awarded to an Employee if the amount due and not paid to the Employee in accordance with Article 19(1) is held by a Court to be in excess of the Employee's Weekly Wage. ",
+        "bbox": [
+            166,
+            508,
+            893,
+            552
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": ") A penalty pursuant to Article 19(2) will be waived by a Court in respect of any period during which: ",
+        "bbox": [
+            183,
+            565,
+            890,
+            580
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) a dispute is pending in the Court regarding any amount due to the Employee under Article 19(1); or   \n(b) the Employee's unreasonable conduct is the material cause of the Employee failing to receive the amount due from the Employer. ",
+        "bbox": [
+            223,
+            593,
+            893,
+            666
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "20. Deductions ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            680,
+            249,
+            694
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "An Employer shall not deduct from an Employee’s Remuneration or accept payment from an Employee, unless: ",
+        "bbox": [
+            195,
+            709,
+            892,
+            737
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) the deduction or payment is permitted under this Law, or agreed to in an Employment Contract not in contravention of this Law;   \n(b) the prior written agreement of the Employee has been obtained in respect of the deduction or payment, provided that such deduction or payment is not prohibited under this Law;   \n(c) the deduction or payment is a reimbursement for an overpayment of any Remuneration or expenses, or to recoup benefits utilised by an Employee in excess of their accrued entitlement under their Employment Contract; or   \n(d) the deduction or payment has been ordered by the Court. ",
+        "bbox": [
+            223,
+            750,
+            893,
+            909
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            493,
+            945,
+            505,
+            956
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2) In relation to claims brought by an Employee that an Employer has made an unlawful deduction from that Employee's Remuneration, or otherwise failed to pay that Employee Remuneration to which that Employee is entitled under their Employment Contract or this Law, or received a payment from that Employee in breach of Article 20(1): ",
+        "bbox": [
+            164,
+            67,
+            893,
+            124
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) a Court shall not consider a claim under Article 20(1) unless it is presented to the Court before the end of the period of six (6) months beginning with: ",
+        "bbox": [
+            215,
+            137,
+            893,
+            167
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(i) in the case of a claim relating to a deduction from or non-payment of Remuneration by the Employer, the date of payment of the Remuneration from which the deduction was made or the date on which that Remuneration should have been paid, as appropriate;   \n(ii) in the case of a claim relating to a payment received by the Employer, the date when the payment was received; or   \n(iii) the case of a claim relating to a series of deductions from or non-payment of Remuneration or payments received by the Employer, or a combination of the same, the date of the last in the series of deductions from or non-payments of Remuneration or the date when the payments were received by the Employer; and ",
+        "bbox": [
+            276,
+            180,
+            895,
+            365
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(b) a Court shall not consider that part of a claim under Article 20(1) where the relevant date for the purposes of Article 20(1)(a) is before the period of two (2) years ending with the date on which the claim is presented to the Court, save that this Article 20(2)(b) shall not apply to claims under 20(1) which relate to: ",
+        "bbox": [
+            227,
+            380,
+            893,
+            438
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(i) Maternity Pay under Article 38;   \n(ii) paternity pay under Article 39;   \n(iii) pay due under Article 42;   \n(iv) Sick Pay under Article 35; or (v) a Gratuity Payment or Core Benefits under Article 66. ",
+        "bbox": [
+            282,
+            451,
+            718,
+            583
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "21. Recruitment costs ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            595,
+            297,
+            609
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employer shall not request, charge or receive, directly or indirectly, from a person seeking employment, a payment for: ",
+        "bbox": [
+            161,
+            623,
+            893,
+            652
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) employing or obtaining employment for the person seeking employment; or (b) providing information about Employers seeking Employees. ",
+        "bbox": [
+            217,
+            665,
+            803,
+            710
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2) Subject to Article 21(3), an Employer is not permitted to recoup from an Employee any costs or expenses incurred by the Employer in the course of recruiting the Employee. ",
+        "bbox": [
+            164,
+            723,
+            893,
+            751
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(3) If an Employee terminates their Employment Contract for any reason other than termination for cause under Article 63, and their Termination Date falls within a period of six (6) months from the Employee's date of commencement of employment, the Employer may, subject to Article 57(2), recoup from the Employee such reasonable costs or expenses which: ",
+        "bbox": [
+            166,
+            764,
+            893,
+            823
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) were directly incurred by the Employer in the course of recruiting the Employee; (b) are supported by proof of expenditure provided by the Employer to the Employee; and (c) are specified in the Employment Contract as being payable by the Employee to the Employer in such circumstances. ",
+        "bbox": [
+            213,
+            836,
+            877,
+            881
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            493,
+            945,
+            505,
+            956
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A payment received by an Employer in contravention of this Article at the expense of an Employee is deemed to be a debt due to that Employee equal to the amount charged to the Employee. ",
+        "bbox": [
+            210,
+            110,
+            892,
+            138
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "PART 4: WORKING TIME AND LEAVE ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            80,
+            414,
+            96
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "22. Maximum weekly working time ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            110,
+            398,
+            124
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "An Employee's working time shall not exceed an average of forty-eight (48) hours for each seven (7) day period during the Relevant Calculation Period unless the Employer has first obtained the Employee's consent in writing. ",
+        "bbox": [
+            166,
+            138,
+            893,
+            181
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "23. Ramadan ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            195,
+            239,
+            210
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "During the holy month of Ramadan, a Muslim Employee shall not be required to work in excess of six (6) hours each day. There shall be no reduction in an Employee’s Wage as a result of the Employee's reduced working hours. ",
+        "bbox": [
+            166,
+            223,
+            893,
+            266
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "24. Daily rest ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            281,
+            239,
+            295
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "An Employee is entitled to a rest period of not less than eleven (11) consecutive hours in each twenty-four (24) hour period. ",
+        "bbox": [
+            163,
+            309,
+            895,
+            338
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "25. Weekly rest period ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            352,
+            306,
+            366
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "An Employee is entitled to an uninterrupted rest period of not less than twenty-four (24) hours in each seven (7) day period. ",
+        "bbox": [
+            161,
+            381,
+            893,
+            409
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "26. Breaks ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            423,
+            220,
+            438
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) Where the working time for an Employee during a Work Day exceeds six (6) hours, the Employee is entitled to rest and prayer breaks of at least one (1) hour in aggregate during the Work Day.   \n(2) In addition to the break referred to in Article 26(1), where the working time for a female Employee returning to work from Maternity Leave exceeds six (6) hours, the Employee is entitled to nursing breaks of at least one (1) hour in aggregate during the Work Day for a period of six (6) months following the actual date of childbirth. ",
+        "bbox": [
+            154,
+            451,
+            897,
+            552
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "27. Vacation Leave ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            566,
+            281,
+            580
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Article 30, an Employee who has been employed for at least ninety (90) days is entitled to paid Vacation Leave of twenty (20) Work Days in each Vacation Leave Year. ",
+        "bbox": [
+            156,
+            593,
+            893,
+            623
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) An Employee is entitled to be paid their Daily Wage during Vacation Leave. ",
+        "bbox": [
+            159,
+            636,
+            747,
+            652
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(3) An Employee is entitled to carry forward accrued but untaken Vacation Leave into the next Vacation Leave Year for a maximum period of twelve (12) months after which any unused Vacation Leave shall expire. The amount of accrued but untaken Vacation Leave to be carried forward may be agreed between the Employer and Employee, provided that nothing shall preclude an Employee from rolling over at least five (5) Work Days per Vacation Leave Year. ",
+        "bbox": [
+            164,
+            665,
+            895,
+            737
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(4) Vacation Leave is exclusive of Public Holidays to which an Employee is entitled. ",
+        "bbox": [
+            161,
+            750,
+            781,
+            766
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(5) Unless otherwise agreed in writing by an Employee, and subject to Article 28(1), an Employee cannot receive payment in lieu of Vacation Leave. ",
+        "bbox": [
+            159,
+            780,
+            892,
+            808
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(6) Unless otherwise agreed by an Employer, Vacation Leave cannot be converted to Sick Leave if an Employee is sick during any period of Vacation Leave. ",
+        "bbox": [
+            156,
+            823,
+            893,
+            851
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "28. Compensation in lieu of Vacation Leave ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            67,
+            456,
+            81
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) Where an Employee's employment is terminated, the Employer shall pay the Employee an amount in lieu of Vacation Leave accrued but not taken up to and including the Termination Date calculated in accordance with Article 28(3).   \n(2) In the event that the Employee has taken more Vacation Leave than has accrued at the Termination Date, the Employer shall be entitled to deduct an amount calculated in accordance with Article 28(3) from any payments due to the Employee on the Termination Date.   \n(3) Compensation in lieu of Vacation Leave, or any amount owed by the Employee in respect of excess Vacation Leave taken, shall be calculated using the Employee's Daily Wage at the Termination Date. ",
+        "bbox": [
+            151,
+            96,
+            897,
+            252
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "29. Dates of Vacation Leave ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            267,
+            345,
+            281
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) Unless otherwise agreed by the Employer and the Employee, and subject to any requirement imposed by the Employer under Article 29(2), an Employee electing to take Vacation Leave shall do so by giving at least seven (7) days prior written notice to the Employer, specifying the days on which Vacation Leave is to be taken.   \n(2) The Employer may require an Employee to take Vacation Leave on specified days in the current Vacation Leave Year by giving at least seven (7) days prior written notice to the Employee. ",
+        "bbox": [
+            156,
+            294,
+            893,
+            396
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "30. Vacation Leave during first year of employment ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            409,
+            515,
+            423
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) During the first year of employment, the amount of Vacation Leave an Employee may take is limited to the remaining amount of Vacation Leave accrued by the Employee at the time of taking such Vacation Leave in accordance with Article 30(2).   \n(2) Vacation Leave accrues during an Employee's first year of employment on a monthly basis at the rate of one-twelfth (1/12) of the Employee's annual entitlement to Vacation Leave. ",
+        "bbox": [
+            153,
+            437,
+            893,
+            523
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "31. Entitlements under other provisions ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            538,
+            429,
+            552
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Where an Employee is entitled to a rest period, break, Special Leave, Vacation Leave, Sick Leave or Parental Leave under both this Law and an Employment Contract, the Employee may elect to take the more favourable provisions of either this Law or the Employment Contract but is not entitled to both. ",
+        "bbox": [
+            166,
+            566,
+            893,
+            609
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "32. Public Holidays and pay ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            623,
+            345,
+            637
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employee is entitled to leave on each Public Holiday that is announced in the UAE by the relevant Competent Authority for the public sector or the private sector, whichever is applicable to the Employee's Employer, which falls on a Work Day. ",
+        "bbox": [
+            159,
+            652,
+            893,
+            694
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "An Employer shall pay an Employee their Daily Wage for each Public Holiday. ",
+        "bbox": [
+            222,
+            707,
+            767,
+            723
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3) If an Employee agrees to work on a Public Holiday, in addition to their Daily Wage under Article 32(2), the Employer must provide the Employee with either: ",
+        "bbox": [
+            154,
+            737,
+            893,
+            766
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) a day of leave in lieu of each Public Holiday worked;   \n(b) payment of an amount equal to the Employee’s Daily Wage for the Public Holiday worked; or   \n(c) payment of a pro-rated amount of the Employee’s Daily Wage based on the time period worked during the Public Holiday. ",
+        "bbox": [
+            223,
+            779,
+            893,
+            880
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "33. Special Leave ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            67,
+            267,
+            81
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A Muslim Employee, who has completed at least one (1) year of continuous employment with an Employer, shall be entitled to special unpaid leave not exceeding twenty-one (21) days to perform the Hajj pilgrimage once during the period of their employment with the Employer. ",
+        "bbox": [
+            166,
+            96,
+            893,
+            138
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "34. Sick Leave ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            153,
+            247,
+            167
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employee is entitled to Sick Leave of sixty (60) consecutive or intermittent Work Days in aggregate in a twelve (12) month period. Any references in Articles 35 and 36 to a twelve (12) month period shall be deemed to be the same period as referred to in this Article 34(1). ",
+        "bbox": [
+            164,
+            180,
+            895,
+            224
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "An Employee who needs to take Sick Leave shall personally, or have someone on their behalf: ",
+        "bbox": [
+            193,
+            237,
+            867,
+            252
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) notify the Employer of their absence as soon as reasonably practicable on the first day of absence and at least once every three (3) days thereafter during the same period of absence; and   \n(b) if required by the Employer, provide a sick leave certificate from a medical practitioner registered with a Competent Authority covering the entire period of absence. ",
+        "bbox": [
+            217,
+            266,
+            895,
+            353
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "35. Sick Pay ",
+        "bbox": [
+            106,
+            366,
+            230,
+            381
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to the Employee's compliance with Article 34(2), an Employer shall pay Sick Pay to an Employee at: ",
+        "bbox": [
+            156,
+            394,
+            895,
+            423
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) one hundred percent $( 1 0 0 \\% )$ of the Employee's Daily Wage for the first ten (10) Work Days of Sick Leave taken in a twelve (12) month period; and   \n(b) fifty percent $( 5 0 \\% )$ of the Employee's Daily Wage for the next twenty (20) Work Days of Sick Leave taken in the same twelve (12) month period. ",
+        "bbox": [
+            223,
+            437,
+            893,
+            510
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(2) The Employee shall not be entitled to receive any Wage for any additional Sick Leave taken in the same 12 (twelve) month period. ",
+        "bbox": [
+            154,
+            523,
+            893,
+            552
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(3) Articles 35(1) and 35(2) shall not prevent an Employer and Employee from agreeing to a more favourable entitlement to Sick Pay. ",
+        "bbox": [
+            170,
+            565,
+            893,
+            595
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "36. Excessive Sick Leave ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            609,
+            319,
+            623
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) Where an Employee takes more than an aggregate of sixty (60) Work Days of Sick Leave in a twelve (12) month period, the Employer may terminate the Employment Contract with immediate effect on written notice to the Employee.   \n(2) Article 36(1) does not apply where an Employee takes Sick Leave on account of a disability as defined in Article 59(8)(a). ",
+        "bbox": [
+            154,
+            636,
+            895,
+            723
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "PART 5: PARENTAL LEAVE AND RELATED RIGHTS ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            80,
+            528,
+            96
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "37. Maternity Leave ",
+        "bbox": [
+            106,
+            110,
+            289,
+            124
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(1) A female Employee may take Maternity Leave of up to sixty-five (65) Work Days.   \n(2) A female Employee shall be entitled to Maternity Pay in accordance with Article 38 during Maternity Leave if she: (a) will have been continuously employed by her Employer for at least twelve (12) months, including any period of Secondment, immediately preceding the expected or actual week of childbirth; (b) notifies her Employer in writing that she is pregnant at least eight (8) weeks before the expected week of childbirth; (c) provides a certificate from a medical practitioner registered with a Competent Authority confirming the expected or actual birth date; and (d) notifies her Employer in writing at least twenty-one (21) days before the day on which the Employee proposes to begin her Maternity Leave. ",
+        "bbox": [
+            148,
+            136,
+            895,
+            380
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(3) The maternity rights granted under this Law also apply to a female Employee who is adopting a child of less than five (5) years old and, in such a case, references to childbirth in Article 37(2) are treated as references to the date of adoption. ",
+        "bbox": [
+            159,
+            395,
+            893,
+            438
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(4) Vacation Leave shall continue to accrue during Maternity Leave and, subject to the reasonable needs of the Employer's business, may be taken consecutive to Maternity Leave. ",
+        "bbox": [
+            168,
+            451,
+            893,
+            480
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(5) Any Public Holiday falling on a Work Day during the Maternity Leave period shall be treated as additional leave having the effect of extending the Maternity Leave by the period of the Public Holiday. ",
+        "bbox": [
+            156,
+            494,
+            895,
+            538
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "38. Maternity Pay ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            552,
+            274,
+            566
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employer shall pay Maternity Pay to an Employee pursuant to Article 37(2) at: ",
+        "bbox": [
+            163,
+            579,
+            789,
+            596
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(a) one hundred percent $( 1 0 0 \\% )$ of the Employee’s Daily Wage for the first thirty-three (33) Work Days of Maternity Leave; and   \n(b) fifty percent $( 5 0 \\% )$ of the Employee’s Daily Wage for the next thirty-two (32) Work Days of Maternity Leave. ",
+        "bbox": [
+            223,
+            608,
+            893,
+            680
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(2) An Employee is not entitled to receive compensation in lieu of accrued untaken Maternity Leave. ",
+        "bbox": [
+            168,
+            694,
+            885,
+            709
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "39. Paternity Leave and pay ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            723,
+            346,
+            737
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(1) A male Employee may take Paternity Leave of up to five (5) Work Days if he: ",
+        "bbox": [
+            161,
+            750,
+            759,
+            766
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(a) will have been continuously employed by his Employer for at least twelve (12) months, including any period of Secondment, immediately preceding the expected or actual week of his wife giving birth; and   \n(b) notifies his Employer in writing that his wife is pregnant at least eight (8) weeks before the expected week of childbirth. ",
+        "bbox": [
+            213,
+            779,
+            893,
+            866
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(2) Paternity Leave shall also be available to a male Employee who is adopting a child of less than five (5) years old and, in such case, references to childbirth in Article 39(1) are treated as references to the date of adoption. ",
+        "bbox": [
+            163,
+            66,
+            895,
+            110
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(3) Paternity Leave must be taken within a month from the date of: ",
+        "bbox": [
+            159,
+            123,
+            656,
+            138
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) the child being born; or (b) in cases where the child is adopted, the adoption date of the child. ",
+        "bbox": [
+            220,
+            152,
+            734,
+            195
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(4) An Employee on Paternity Leave shall be entitled to payment of their Daily Wage for the duration of Paternity Leave taken but shall not be entitled to receive compensation in lieu of accrued untaken Paternity Leave. ",
+        "bbox": [
+            163,
+            209,
+            897,
+            252
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(5) Vacation Leave shall continue to accrue during Paternity Leave. ",
+        "bbox": [
+            161,
+            266,
+            661,
+            281
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(6) Any Public Holiday falling on a Work Day during Paternity Leave shall be treated as additional leave having the effect of extending the Paternity Leave by the period of the Public Holiday. ",
+        "bbox": [
+            158,
+            294,
+            895,
+            324
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "40. Right to return to work ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            338,
+            338,
+            352
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employer shall not, because of an Employee's pregnancy or Parental Leave: ",
+        "bbox": [
+            153,
+            365,
+            767,
+            382
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) terminate the Employee’s employment; or   \n(b) change the Employee’s position or terms and conditions of employment without the Employee's prior written consent. ",
+        "bbox": [
+            213,
+            393,
+            893,
+            452
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(2) An Employee has the right to return to work at the end of Parental Leave to the same or a substantially similar role on the same terms and conditions of employment and with the same level of seniority the Employee had immediately prior to taking Parental Leave. ",
+        "bbox": [
+            164,
+            466,
+            893,
+            509
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "PART 6: TIME OFF WORK ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            66,
+            318,
+            81
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "41. Time off for ante-natal care and adoption proceedings ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            95,
+            558,
+            110
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to the Employee's compliance with Article 41(2), an Employee who: ",
+        "bbox": [
+            158,
+            123,
+            747,
+            140
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(a) is pregnant, or whose wife is pregnant; and   \n(b) has, or whose wife has, on the advice of a medical practitioner registered with a Competent Authority, made an appointment to receive ante-natal care, ",
+        "bbox": [
+            223,
+            152,
+            895,
+            211
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "is entitled to take a reasonable period of time off during the Employee's working hours in order to attend such appointment. ",
+        "bbox": [
+            222,
+            223,
+            892,
+            252
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(2) An Employee must provide their Employer with: ",
+        "bbox": [
+            166,
+            266,
+            560,
+            281
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(a) reasonable notice of an ante-natal appointment;   \n(b) a certificate from a medical practitioner registered with a Competent Authority confirming the pregnancy, if requested to do so by their Employer; and   \n(c) written confirmation from a medical practitioner registered with a Competent Authority of the appointment for ante-natal care, if requested to do so by their Employer. ",
+        "bbox": [
+            223,
+            294,
+            895,
+            396
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(3) An Employee who plans to adopt a child is entitled to take up to an aggregate of eight (8) hours off during the Employee's working hours in order to attend adoption proceedings if they: ",
+        "bbox": [
+            154,
+            409,
+            892,
+            438
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(a) give the Employer reasonable notice of the adoption proceedings; and (b) provide their Employer with such evidence of the adoption proceedings as the Employer may reasonably require. ",
+        "bbox": [
+            223,
+            451,
+            893,
+            510
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "42. Remuneration for time off under Article 41 ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            523,
+            479,
+            538
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "An Employee is entitled to be paid their normal Hourly Rate for any time off taken under Article 41. ",
+        "bbox": [
+            163,
+            551,
+            848,
+            566
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "PART 7: EMPLOYER’S OBLIGATIONS ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            66,
+            412,
+            81
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "43. General duties of Employers ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            96,
+            375,
+            110
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employer has a duty to ensure, as far as is reasonably practicable, the health, safety and welfare at work of all its Employees.   \n(2) An Employer shall provide and maintain a workplace that is free of discrimination and victimisation and without risks to an Employee’s health and safety.   \n(3) Subject to Article 43(4), an Employer who contravenes Articles 43(1) or (2) is liable to a fine as set out in Schedule 2.   \n(4) Where an Employee is required or permitted to work from home, the requirements of Articles 44(1)(a), 44(1)(d), 45, 46, 47, 48, 49, 50, 51 and 52 do not apply to an Employer. ",
+        "bbox": [
+            163,
+            123,
+            895,
+            282
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "44. Health and safety ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            295,
+            294,
+            309
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(1) Without limiting the generality of an Employer's duty under Article 43, every Employer has a duty, as far as is reasonably practicable, to: ",
+        "bbox": [
+            173,
+            323,
+            893,
+            352
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(a) ensure adequate systems are in place in the workplace that minimize risks to health concerning fire hazards and the use, handling, storage and transport of dangerous articles and substances;   \n(b) provide information, instruction, training and supervision to Employees, in English or, if necessary, another language understood by the Employees, to ensure their health and safety at work;   \n(c) inform each Employee in writing at the time of recruitment of the dangers, if any, connected with the employment and of the protective measures the Employee shall take;   \n(d) provide and maintain adequate and safe access to, and from, the workplace; and   \n(e) provide any other facilities or meet any other requirements as prescribed in the Regulations. ",
+        "bbox": [
+            222,
+            365,
+            895,
+            581
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(2) An Employer who contravenes Articles 44(1) is liable to a fine as set out in Schedule 2. ",
+        "bbox": [
+            161,
+            595,
+            821,
+            610
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "45. Ventilation ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            622,
+            249,
+            637
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "An Employer shall ensure that every enclosed workplace is ventilated by a sufficient quantity of fresh or purified air. An Employer who contravenes this provision is liable to a fine as set out in Schedule 2. ",
+        "bbox": [
+            163,
+            652,
+            893,
+            680
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "46. Temperature in indoor workplaces ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            694,
+            420,
+            709
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "An Employer shall ensure that during working hours, the temperature in all workplaces inside buildings shall be reasonable. An Employer who contravenes this provision is liable to a fine as set out in Schedule 2. ",
+        "bbox": [
+            163,
+            723,
+            895,
+            751
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "47. Lighting ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            766,
+            232,
+            781
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "An Employer shall ensure that its workplace has suitable and sufficient lighting. An Employer who contravenes this provision is liable to a fine as set out in Schedule 2. ",
+        "bbox": [
+            164,
+            794,
+            893,
+            823
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "48. Cleanliness ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            837,
+            250,
+            851
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "An Employer shall keep its workplace and its furniture, furnishings and fittings clean. An Employer who contravenes this provision is liable to a fine as set out in Schedule 2. ",
+        "bbox": [
+            163,
+            865,
+            892,
+            894
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "49. Room dimensions and space ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            67,
+            372,
+            81
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "An Employer shall ensure that every room where an Employee works has sufficient floor area, height and unoccupied space for the purposes of health, safety and welfare of Employees. An Employer who contravenes this provision is liable to a fine as set out in Schedule 2. ",
+        "bbox": [
+            166,
+            96,
+            893,
+            138
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "50. Workstations and seating ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            153,
+            353,
+            167
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "An Employer shall ensure that workstations are suitable for Employees and the nature of the work required to be done at the workstation. An Employer who contravenes this provision is liable to a fine as set out in Schedule 2. ",
+        "bbox": [
+            166,
+            181,
+            893,
+            223
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "51. Sanitary conveniences ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            238,
+            328,
+            252
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "An Employer shall provide suitable and adequate sanitary conveniences at readily accessible places in the workplace. An Employer who contravenes this provision is liable to a fine as set out in Schedule 2. ",
+        "bbox": [
+            163,
+            267,
+            893,
+            295
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "52. Drinking water ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            309,
+            279,
+            324
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "An Employer shall provide an adequate supply of clean drinking water for all Employees in the workplace.   \nAn Employer who contravenes this provision is liable to a fine as set out in Schedule 2. ",
+        "bbox": [
+            166,
+            337,
+            892,
+            366
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "53. No penalties for preventing health and safety risks ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            381,
+            531,
+            395
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employer shall not dismiss or otherwise penalise, directly or indirectly, any Employee for: ",
+        "bbox": [
+            173,
+            408,
+            867,
+            423
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(a) carrying out activities that may reasonably be considered to prevent or reduce risks to health and safety in the workplace where the Employee has been specifically designated to do so; or   \n(b) taking reasonable steps to avert serious and imminent danger or for refusing to return to the place of danger until the danger no longer exists. ",
+        "bbox": [
+            223,
+            437,
+            893,
+            524
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(2) An Employer who contravenes Article 53(1) is liable to a fine as set out in Schedule 2. ",
+        "bbox": [
+            161,
+            536,
+            813,
+            552
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "54. Liability of Employers for an Employee’s conduct ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            566,
+            528,
+            580
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Article 54(2), an Employer is liable for any act, attempted act, or omission of an Employee done in the course of their employment with the Employer. ",
+        "bbox": [
+            161,
+            595,
+            895,
+            623
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(2) An Employer will only be liable pursuant to the provisions of Article 54(1): ",
+        "bbox": [
+            158,
+            636,
+            740,
+            653
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(a) in the case of a claim for loss, damages or compensation, if the act, attempted act, or omission to which such claim relates is sufficiently connected with the Employee's employment that it would be fair and just to hold the Employer vicariously liable; and   \n(b) in the case of discrimination or victimisation, if the Employer is unable to show it took such steps as were reasonably practicable to prevent the Employee from: ",
+        "bbox": [
+            208,
+            665,
+            895,
+            752
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "carrying out that act, attempted act or omission; or (ii) doing anything of that description. ",
+        "bbox": [
+            353,
+            766,
+            691,
+            781
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "55. Employment accidents and illnesses ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            823,
+            425,
+            837
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Where an Employee sustains an injury or dies as a result of an accident or illness arising out of or in the course of the Employee's employment with their Employer, and such accident or illness arose as a result of the Employer's negligence, the Employee may be entitled damages of up to two (2) years' Annual Wage as determined by a Court, in accordance with the Law of Obligations and the Law of Damages and Remedies. ",
+        "bbox": [
+            166,
+            851,
+            895,
+            908
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "56. Health insurance ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            67,
+            291,
+            81
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "An Employer is required to obtain and maintain health insurance cover for each of its Employees as may be required pursuant to the Regulations, Federal Law or Dubai Law. An Employer who contravenes this provision is liable to a fine as set out in Schedule 2. ",
+        "bbox": [
+            166,
+            96,
+            893,
+            138
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "57. Visas and permits ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            153,
+            297,
+            167
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(1) If an Employee is required to work in the DIFC, their Employer is required to obtain and maintain, at the Employer's own cost, the requisite sponsorship documentation (including UAE and DIFC identity documentation), visas, authorisations, licenses, permits and approvals as may be required from time to time by Federal Law, Dubai Law, a Competent Authority or a Personnel Sponsorship Agreement, to enable the Employee to work lawfully for the Employer in the DIFC and comply with any such requirements. ",
+        "bbox": [
+            166,
+            181,
+            893,
+            267
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(2) An Employer is not permitted to: ",
+        "bbox": [
+            166,
+            281,
+            452,
+            295
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(a) recoup any costs and expenses incurred pursuant to Article 57(1) from an Employee; or (b) retain the passport or other original personal documents of an Employee. ",
+        "bbox": [
+            223,
+            308,
+            882,
+            352
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "If an Employee is sponsored for UAE residence visa purposes by their Employer, the Employer and the Employee must cooperate to ensure the cancellation of the Employee’s UAE residency visa as soon as reasonably practicable following the Termination Date and by no later than thirty (30) days following the Termination Date. ",
+        "bbox": [
+            228,
+            366,
+            892,
+            423
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "An Employer who contravenes Articles 57(1), (2) or (3) is liable to a fine as set out in Schedule 2. ",
+        "bbox": [
+            190,
+            437,
+            887,
+            452
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "PART 8: EMPLOYEE’S OBLIGATIONS ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            66,
+            412,
+            81
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "58. General duties of Employees ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            96,
+            375,
+            110
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employee shall: ",
+        "bbox": [
+            168,
+            123,
+            363,
+            138
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(a) serve their Employer faithfully;   \n(b) comply with their Employer’s reasonable and lawful instructions;   \n(c) exercise reasonable skill and care in performing their duties for their Employer; (d) not, without the consent of their Employer, disclose an Employer’s confidential information or trade secrets or personal data of other Employees of the Employer; and (e) not disrupt an Employer’s business. ",
+        "bbox": [
+            222,
+            149,
+            895,
+            296
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(2) An Employee has a duty, while at work, to take reasonable care of the Employee’s health and safety and that of other persons who may be affected by the Employee’s conduct. ",
+        "bbox": [
+            161,
+            309,
+            895,
+            338
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "PART 9: NON-DISCRIMINATION ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            66,
+            368,
+            80
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "59. Discrimination ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            96,
+            276,
+            109
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employer must not discriminate against an Employee regarding employment or any term or condition of employment on the grounds of the Employee’s: ",
+        "bbox": [
+            161,
+            124,
+            893,
+            153
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(a) sex;   \n(b) marital status;   \n(c) race;   \n(d) nationality;   \n(e) age;   \n(f) pregnancy and maternity;   \n(g) religion; or (h) mental or physical disability. ",
+        "bbox": [
+            222,
+            167,
+            484,
+            382
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(2) Discrimination for the purposes of Article 59(1) means where: ",
+        "bbox": [
+            163,
+            395,
+            651,
+            409
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(a) an Employee is treated less favourably than another is or would be treated in the same circumstances, or put at a disadvantage not faced by others, because of a prohibited ground in Article 59(1);   \n(b) a provision, criterion or practice is applied to an Employee which is discriminatory in relation to one (1) of the grounds in Article 59(1);   \n(c) an Employer engages in unwanted treatment or conduct related to one (1) of the prohibited grounds which has the purpose or effect of creating an intimidating, hostile, degrading, humiliating or offensive workplace for an Employee or violates an Employee’s dignity; or   \n(d) Article 59(8)(b) or (d) applies. ",
+        "bbox": [
+            223,
+            422,
+            895,
+            596
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "An Employer's actions in dismissing an Employee or subjecting them to a detriment are discriminatory under Article 59(1) if they contravene Article 59(2). ",
+        "bbox": [
+            225,
+            609,
+            887,
+            637
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(4) For the purposes of Article 59(2), a provision, criterion or practice is discriminatory in relation to any of the prohibited grounds specified in Article 59(1) if: ",
+        "bbox": [
+            170,
+            652,
+            893,
+            680
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(a) an Employer applies it, or would apply it, to persons who do not share the characteristics of such Employee;   \n(b) it puts, or would put, persons with whom the Employee shares the characteristic at a particular disadvantage when compared with persons with whom the Employee does not share it;   \n(c) it puts, or would put, the Employee at that disadvantage; and   \n(d) the Employer cannot show that it is a proportionate means of achieving a legitimate aim. ",
+        "bbox": [
+            222,
+            693,
+            893,
+            838
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(5) For the purposes of Article 59(2)(a), an Employer does not discriminate against an Employee on grounds of age if the Employer can show his treatment of the Employee to be a proportionate means of achieving a legitimate aim. ",
+        "bbox": [
+            166,
+            851,
+            893,
+            894
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "21 ",
+        "bbox": [
+            489,
+            945,
+            508,
+            956
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(6) In deciding whether conduct has the effect referred to in Article 59(2)(c), each of the following must be taken into account: ",
+        "bbox": [
+            158,
+            66,
+            893,
+            96
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(a) the perception of the Employee; (b) the other circumstances of the case; and (c) whether it is reasonable for the conduct to have that effect. ",
+        "bbox": [
+            223,
+            109,
+            685,
+            182
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(7) An Employer may apply a genuine occupational requirement to Article 59(2)(a), (b) or (d). ",
+        "bbox": [
+            171,
+            194,
+            841,
+            211
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(8) Further, for the purposes of this Article 59: ",
+        "bbox": [
+            166,
+            223,
+            520,
+            238
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(a) an Employee has a disability for the purposes of Article 59(1)(h) if the Employee has a mental or physical impairment or illness which has a substantial and long term adverse effect on the Employee’s ability to carry out duties for an Employer, which has lasted at least twelve (12) months or it is likely to last at least twelve (12) months; ",
+        "bbox": [
+            225,
+            251,
+            893,
+            309
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(b) an Employer discriminates against an Employee with a disability within the meaning of Article 59(2) if the Employer fails to make reasonable adjustments to any physical feature of the workplace or applicable provision, criteria or practices that would, if made, enable the Employee to otherwise meet the genuine occupational requirement; ",
+        "bbox": [
+            223,
+            323,
+            893,
+            381
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(c) a genuine occupational requirement is a requirement reasonably necessary for the normal performance of a particular role or occupation; ",
+        "bbox": [
+            235,
+            394,
+            893,
+            423
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(d) an Employer discriminates against an Employee with a disability within the meaning of Article 59(2) if: ",
+        "bbox": [
+            218,
+            437,
+            895,
+            466
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(i) the Employer treats the Employee unfavourably because of something arising in consequence of the Employee's disability; and   \n(ii) the Employer cannot show that the treatment is a proportionate means of achieving a legitimate aim. ",
+        "bbox": [
+            276,
+            479,
+            893,
+            552
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Articles 59(8)(b) and (d) do not apply if the Employer shows that it did not know, and could not reasonably be expected to know, that the Employee had the disability. ",
+        "bbox": [
+            250,
+            566,
+            893,
+            595
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(9) No provision in this Part 9 precludes any law, program or activity that has as its object the employment of UAE nationals or the amelioration of conditions of disadvantaged individuals or groups, including those that are disadvantaged because of mental or physical disability. ",
+        "bbox": [
+            171,
+            609,
+            893,
+            652
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "60. Victimisation ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            666,
+            265,
+            680
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employer must not victimise an Employee. ",
+        "bbox": [
+            164,
+            694,
+            547,
+            709
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(2) For the purposes of this Part 9, an Employer victimises an Employee if it subjects the Employee to a detriment or dismisses him because the Employee does a protected act, or the Employer believes that the Employee has done, or may do, a protected act. Each of the following is a protected act: ",
+        "bbox": [
+            164,
+            722,
+            895,
+            766
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(a) bringing proceedings under this Part 9;   \n(b) giving evidence or information in connection with proceedings under this Part 9;   \n(c) doing any other thing for the purposes of or in connection with this Part 9; and   \n(d) making an allegation (whether or not express) that the Employer or another person has contravened this Part 9. ",
+        "bbox": [
+            212,
+            779,
+            887,
+            895
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(3) Giving false evidence or information, or making a false allegation, is not a protected act under Article 60(2) if the evidence or information is given, or the allegation is made, in bad faith. ",
+        "bbox": [
+            159,
+            66,
+            893,
+            96
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "61. Proceedings under Part 9 ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            110,
+            353,
+            124
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(1) In any proceedings before the Court under this Part 9: ",
+        "bbox": [
+            163,
+            137,
+            592,
+            153
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(a) the burden of proof shall be on the complainant; and (b) the respondent shall be treated as a party and is accordingly entitled to appear and be heard. ",
+        "bbox": [
+            217,
+            166,
+            893,
+            211
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(2) A Court shall not consider a claim under this Part 9 unless it is brought to the Court before the end of: ",
+        "bbox": [
+            158,
+            223,
+            893,
+            251
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(a) the period of six (6) months beginning with the later of the date on which this Law comes into force and the date of the act, or failure to do something, to which the complaint relates; or   \n(b) where a complainant satisfies the Court that there are circumstances which justify disapplying Article 61(2)(a), such other period as the Court considers reasonable. ",
+        "bbox": [
+            217,
+            264,
+            893,
+            353
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(3) For the purposes of Article 61(2)(a): ",
+        "bbox": [
+            163,
+            366,
+            476,
+            381
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(a) conduct extending over a period is to be treated as done at the end of the period; and (b) failure to do something is to be treated as occurring when the person in question decided on it. ",
+        "bbox": [
+            223,
+            394,
+            892,
+            451
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(4) In the absence of evidence to the contrary, for the purposes of Article 61(3)(b), a person is to be taken to decide on failure to do something when that person: ",
+        "bbox": [
+            159,
+            465,
+            893,
+            495
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(a) does an act inconsistent with doing it; or   \n(b) does no inconsistent act, on the expiry of the period in which that person might reasonably have been expected to do it. ",
+        "bbox": [
+            223,
+            508,
+            893,
+            566
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(5) If the Court finds that there has been a contravention of a provision referred to in this Part 9 it may: ",
+        "bbox": [
+            173,
+            579,
+            892,
+            595
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(a) make a declaration as to the rights of the complainant and the respondent in relation to the matters to which the proceedings relate;   \n(b) subject to Article 61(7), order the respondent to pay compensation to the complainant which the Court considers reasonable in the circumstances which may include compensation for injured feelings whether or not it includes compensation on any other basis;   \n(c) make an appropriate recommendation; or   \n(d) do any combination of the above. ",
+        "bbox": [
+            213,
+            608,
+            893,
+            767
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(6) An appropriate recommendation for the purposes of Article 61(5)(c) is a recommendation that within a specified period the respondent takes specified steps for the purpose of obviating or reducing the adverse effect on the complainant of any matter to which the proceedings relate. ",
+        "bbox": [
+            166,
+            780,
+            893,
+            823
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(7) The amount of compensation that may be awarded by the Court under Article 61(5)(b) shall not exceed an amount equivalent to the Employee’s Annual Wage, calculated on the basis of the last Wage paid to an Employee prior to such compensation order. ",
+        "bbox": [
+            166,
+            836,
+            893,
+            880
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "23 ",
+        "bbox": [
+            489,
+            945,
+            508,
+            956
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(8) If a respondent fails, without reasonable excuse, to comply with an appropriate recommendation, the Court may: ",
+        "bbox": [
+            159,
+            67,
+            893,
+            96
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(a) if a compensation order was made under Article 61(5)(b), increase the amount of compensation to be paid to an amount up to two (2) times the Annual Wage of the Employee; or   \n(b) if no compensation order was made, make one (1) for an amount not exceeding the Annual Wage of the Employee. ",
+        "bbox": [
+            212,
+            109,
+            895,
+            195
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "PART 10: TERMINATION OF EMPLOYMENT ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            80,
+            466,
+            96
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "62. Minimum notice periods ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            110,
+            346,
+            124
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employer or an Employee may terminate an Employee’s employment without cause in accordance with this Article. ",
+        "bbox": [
+            154,
+            138,
+            893,
+            167
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Subject to Articles 62(3), 62(4), 62(6) and 63, the written notice required to be given by an Employer or Employee to terminate the Employee’s employment shall not be less than: ",
+        "bbox": [
+            185,
+            180,
+            890,
+            210
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(a) seven (7) days, if the period of continuous employment of the Employee is less than three (3) months, including any period of Secondment;   \n(b) thirty (30) days, if the period of continuous employment of the Employee is in excess of three (3) months but less than five (5) years, including any period of Secondment; or   \n(c) ninety (90) days, if the period of continuous employment of the Employee is in excess of five (5) years, including any period of Secondment. ",
+        "bbox": [
+            222,
+            223,
+            895,
+            339
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(3) Article 62(2) shall not prevent an Employer and Employee from agreeing to a longer notice period in an Employment Contract. ",
+        "bbox": [
+            163,
+            352,
+            893,
+            381
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(4) An Employer may only make a payment of Wages to an Employee in lieu of all or part of the Employee's notice period pursuant to Article 63(2) or if the Employee agrees to such a payment in an agreement entered into pursuant to Article 11(2)(b). ",
+        "bbox": [
+            164,
+            395,
+            895,
+            438
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(5) An Employer may require an Employee not to attend work or undertake their duties during all or part of the Employee's notice period. ",
+        "bbox": [
+            168,
+            451,
+            893,
+            482
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(6) Article 62(2) does not apply: ",
+        "bbox": [
+            166,
+            495,
+            424,
+            509
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(a) during any probation period agreed in an Employment Contract; (b) where it has been agreed in the Employment Contract that the Employee's employment will terminate on the expiry of a fixed term; or (c) in respect of termination for excessive Sick Leave in accordance with Article 36(1). ",
+        "bbox": [
+            223,
+            522,
+            893,
+            610
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "63. Termination for cause ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            623,
+            329,
+            637
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employer or an Employee may terminate an Employee’s employment with immediate effect for cause in circumstances where the conduct of one (1) party warrants termination and where a reasonable Employer or Employee would have terminated the employment as a consequence thereof. ",
+        "bbox": [
+            164,
+            652,
+            895,
+            707
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(2) If an Employee terminates their employment for cause pursuant to Article 63(1), the Employee shall be entitled to: ",
+        "bbox": [
+            161,
+            723,
+            893,
+            751
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(a) a payment of Wages in lieu of their notice period;   \n(b) a Gratuity Payment calculated to include the notice period the Employee would have been required to give to terminate their employment in accordance with Article 62(2); and   \n(c) a payment in lieu of the Employee's accrued untaken Vacation Leave calculated to include the notice period the Employee would have been required to give to terminate their employment in accordance with Article 62(2). ( ",
+        "bbox": [
+            222,
+            764,
+            893,
+            881
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(3) If an Employer terminates the employment of an Employee for cause pursuant to Article 63(1): ",
+        "bbox": [
+            163,
+            894,
+            872,
+            909
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "25 ",
+        "bbox": [
+            489,
+            945,
+            508,
+            956
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(a) the Employee shall not be entitled to receive any payment of Wages in lieu of their notice period; and   \n(b) the Employee’s Gratuity Payment and outstanding Vacation Leave shall be calculated up to the Termination Date. ",
+        "bbox": [
+            202,
+            67,
+            893,
+            138
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "64. Right to written statement of reasons ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            153,
+            436,
+            167
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(1) If so requested by an Employee within a period not later than thirty (30) days after the Termination Date, an Employer shall provide the Employee with a written statement of the reasons for the Employee's termination for cause under Article 63(1) within a period of fourteen (14) days after receipt of such a request. ",
+        "bbox": [
+            164,
+            181,
+            893,
+            238
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(2) Any written statement of reasons provided under Article 64(1) shall have sufficient detail included in order for a reasonable person to understand the reasons for the termination of the Employee's employment for cause under Article 63(1). ",
+        "bbox": [
+            166,
+            251,
+            893,
+            295
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "65. Pension for UAE and GCC nationals ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            309,
+            434,
+            324
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(1) Where an Employee is a UAE or a GCC national, the Employer shall ensure that the Employee is registered with the GPSSA and shall make the necessary pension contributions in accordance with Federal Law. ",
+        "bbox": [
+            166,
+            337,
+            893,
+            381
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(2) An Employee registered with the GPSSA pursuant to Article 65(1) shall not be eligible to receive a Gratuity Payment on the termination of their employment with their Employer. ",
+        "bbox": [
+            154,
+            395,
+            893,
+            423
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(3) Where an Employee under Article 65(1) is a UAE or a GCC national and an Employer’s pension contribution on behalf of that Employee registered with the GPSSA is less than the amount of Core Benefits that would have been due to that Employee had that Employee not been a UAE or a GCC national, such an Employee shall be entitled to a top-up contribution of the difference to be paid to a Qualifying Scheme pursuant to the provisions of Article 66(7)(c), provided that the monthly topup contribution obligation for such an Employee is equal to or greater than AED 1,000. ",
+        "bbox": [
+            164,
+            437,
+            893,
+            523
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "66. Gratuity Payment and Qualifying Scheme Benefits ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            536,
+            533,
+            552
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employee who is not registered with the GPSSA under Article 65(1), and who completes continuous employment of at least one (1) year or more with their Employer, before or after the Qualifying Scheme Commencement Date, is entitled to a Gratuity Payment for any period of service prior to the Qualifying Scheme Commencement Date on the termination of their employment. ",
+        "bbox": [
+            166,
+            566,
+            895,
+            623
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(2) An Employee’s Gratuity Payment shall be calculated as follows: ",
+        "bbox": [
+            161,
+            637,
+            663,
+            652
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(a) an amount equal to twenty one (21) days of the Employee’s Basic Wage for each year of the first five (5) years of service prior to the Qualifying Scheme Commencement Date; and ",
+        "bbox": [
+            217,
+            665,
+            895,
+            707
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(b) an amount equal to thirty (30) days of the Employee’s Basic Wage for each additional year of service prior to the Qualifying Scheme Commencement Date, ",
+        "bbox": [
+            220,
+            723,
+            893,
+            751
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "provided that the total Gratuity Payment shall not exceed an amount equal to two (2) times the Annual Wage of the Employee. ",
+        "bbox": [
+            222,
+            766,
+            892,
+            794
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(3) For the purposes of Article 66(2): ",
+        "bbox": [
+            166,
+            808,
+            457,
+            823
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(a) an Employee’s Basic Wage shall not be less than fifty percent $( 5 0 \\% )$ of the Employee’s Annual Wage;   \n(b) the daily rate of an Employee’s Basic Wage shall be calculated by dividing the Employee’s Basic Wage by three hundred and sixty five (365);   \n(c) all references to an Employee’s Basic Wage and Annual Wage shall be to those applicable to the Employee on the Employee’s Termination Date; and   \n(d) where an Employee is employed by an Employer by way of multiple fixed term contracts, the aggregate of all fixed terms of employment served by the Employee shall determine the years of service of the Employee, provided that the fixed term contracts are in succession of each other, or an offer in respect of a new fixed term contract has already been made to the Employee at the expiry of the existing one. ",
+        "bbox": [
+            207,
+            836,
+            893,
+            909
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(4) Where the Qualifying Scheme Commencement Date or Termination Date occurs part-way through a year of service of an Employee, the Gratuity Payment in respect of the Employee for the part year of service shall be calculated on a pro rata basis. ",
+        "bbox": [
+            166,
+            195,
+            895,
+            238
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": ") An Employer may deduct from a Gratuity Payment any amounts due and owing to the Employer by an Employee pursuant to the provisions of Articles 20 or 28(2). ",
+        "bbox": [
+            183,
+            251,
+            892,
+            281
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "(6) An Employer may transfer to a Qualifying Scheme the Gratuity Transfer Amount in respect of an Employee at any point subsequent to the Qualifying Scheme Commencement Date and, where such transfer takes place with the prior written consent of an Employee, the Employer shall be relieved of any obligation to: ",
+        "bbox": [
+            166,
+            294,
+            892,
+            352
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "(a) make a Gratuity Payment to the Employee under Article 66(1); or (b) make up any negative difference between: ",
+        "bbox": [
+            223,
+            365,
+            749,
+            409
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "(i) the value of the Money Purchase Benefits acquired in the Qualifying Scheme with the Gratuity Transfer Amount; and   \n(ii) the value of the Gratuity Payment that the Employee would have been entitled to under Article 66(1) at the Employee’s actual Termination Date had the Gratuity Transfer Amount not been transferred to a Qualifying Scheme. ",
+        "bbox": [
+            276,
+            422,
+            893,
+            510
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "(7) From the Qualifying Scheme Commencement Date an Employer shall, on a monthly basis, pay to a Qualifying Scheme, for the benefit of each Employee who is not an Exempted Employee, an amount equal to at least the Core Benefits, which shall be calculated as follows: ",
+        "bbox": [
+            166,
+            523,
+            897,
+            566
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "(a) five point eight three percent $( 5 . 8 3 \\% )$ of an Employee’s Monthly Basic Wage for the first five (5) years of an Employee’s service, inclusive of any period of employment served prior to the Qualifying Scheme Commencement Date; and   \n(b) eight point three three percent $( 8 . 3 3 \\% )$ of an Employee’s Monthly Basic Wage for each additional year of service; or   \n(c) in respect of a UAE or a GCC national Employee that is entitled to a top-up contribution under Article 65(3), the positive difference between:   \n(i) the Core Benefits that would have been payable to the Employee under Article 66(7)(a) or Article 66(7)(b), whichever is applicable, had the Employee not been registered with the GPSSA under Article 65(1); and   \n(ii) the Employer’s GPSSA pension contribution for that Employee for the month in question pursuant to Article 65(1), ",
+        "bbox": [
+            210,
+            579,
+            895,
+            709
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "provided that where an Employee’s Termination Date occurs part-way through a month, the Core Benefits payable by an Employer in respect of an Employee shall be calculated on a pro rata basis in respect of the part of the month served in employment, and which may be paid directly to the Employee pursuant to Article 19(1)(d). ",
+        "bbox": [
+            225,
+            823,
+            893,
+            880
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "(8) For the purposes of Article 66(7): ",
+        "bbox": [
+            164,
+            894,
+            456,
+            908
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "(a) the Employee’s Monthly Basic Wage shall be for the month, or any part thereof at commencement of employment, in respect of which the Core Benefits are paid, irrespective of: ",
+        "bbox": [
+            212,
+            66,
+            897,
+            110
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(i) any deductions from the Employee’s Monthly Basic Wage permitted under the Law for the month in question;   \n(ii) any reduced amount payable to an Employee whilst on Sick Leave or Maternity Leave for the month in question; or   \n(iii) the Employee being on unpaid Vacation Leave; ",
+        "bbox": [
+            282,
+            123,
+            893,
+            225
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "any calculation to establish an Employee’s Monthly Basic Wage shall not be less than fifty percent $( 5 0 \\% )$ of the Employee’s Monthly Wage; ",
+        "bbox": [
+            282,
+            237,
+            892,
+            267
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "where any pro rating is required, the daily rate of an Employee’s Monthly Basic Wage shall be calculated by dividing the Employee’s Basic Wage by three hundred and sixty five (365), provided that where an Employee’s transition from less than five (5) years’ service to more than five (5) years’ service takes place during a month, the pro rating calculation for that month shall be achieved by: ",
+        "bbox": [
+            287,
+            280,
+            893,
+            352
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(i) dividing the Employee’s Monthly Wage by the number of days in that month; and   \n(ii) applying the relevant percentage in Article 66(7)(a) up to and including the day of the five (5) year anniversary of the Employee’s period of service, and applying the relevant percentage in Article 66(7)(b) for the remainder of that month; and ",
+        "bbox": [
+            282,
+            365,
+            893,
+            452
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(d) where an Employee is employed by an Employer by way of multiple fixed term contracts, the aggregate of all fixed terms of employment served by the Employee shall determine the years of service of the Employee, provided that the fixed term contracts are in succession of each other, or an offer in respect of a new fixed term contract has already been made to the Employee at the expiry of the existing one. ",
+        "bbox": [
+            225,
+            465,
+            893,
+            538
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(9) A Qualifying Scheme is one (1) which: ",
+        "bbox": [
+            163,
+            552,
+            494,
+            567
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(a) holds a valid Certificate of Compliance; or (b) is deemed to be a Qualifying Scheme under the Regulations. ",
+        "bbox": [
+            222,
+            579,
+            698,
+            624
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(10) An Employer shall be required to obtain a Certificate of Compliance and provide any additional confirmations or filings in respect of each Qualifying Scheme it pays Core Benefits to as required under the Regulations. ",
+        "bbox": [
+            166,
+            637,
+            890,
+            680
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(11) Subject to Article 66(12), an Employer shall register each Employee entitled to Core Benefits as a member of a Qualifying Scheme within two (2) months from the date of their Qualifying Scheme Commencement Date, provided that: ",
+        "bbox": [
+            166,
+            694,
+            893,
+            737
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(a) the Employee will be entitled to Core Benefits on a retrospective basis to their Qualifying Scheme Commencement Date;   \n(b) any Core Benefits due for a period prior to the month during which the Employee is registered as a member of a Qualifying Scheme shall be paid in aggregate with the Core Benefits due in respect of the Employee for the month during which such registration took place; and   \n(c) the Employer shall not be responsible for any profit or loss that may have accrued in a Qualifying Scheme in respect of Core Benefits paid on a retrospective basis. ",
+        "bbox": [
+            207,
+            750,
+            897,
+            895
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "28 ",
+        "bbox": [
+            489,
+            945,
+            508,
+            956
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(12) An Employer may defer the payment of an Employee’s Core Benefits to a Qualifying Scheme during the Employee’s probation period agreed to in an Employment Contract, in which case: ",
+        "bbox": [
+            161,
+            67,
+            893,
+            96
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(a) if the Employee’s employment is confirmed: ",
+        "bbox": [
+            225,
+            109,
+            592,
+            124
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(i) the Qualifying Scheme Commencement Date for the Employee will be the date of such confirmation;   \n(ii) the Core Benefits due to the Employee will be calculated retrospectively from the date of commencement of the Employee’s employment; and   \n(iii) the provisions of Articles 66(11)(b) and (c) shall apply in respect of any Core Benefits due on a retrospective basis; or ",
+        "bbox": [
+            282,
+            136,
+            893,
+            254
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "in the case of non-confirmation of the Employee’s employment, no Core Benefits will be payable in favour of the Employee to a Qualifying Scheme, ",
+        "bbox": [
+            282,
+            267,
+            892,
+            295
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "provided that where an Employer has not deferred the payment of an Employee’s Core Benefits during a probation period, the Employee shall remain entitled to any Core Benefits paid to a Qualifying Scheme on their behalf in case their employment is not confirmed. ",
+        "bbox": [
+            225,
+            309,
+            893,
+            352
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(13) Any agreement or arrangement between an Employer and an Employee to the extent that: ",
+        "bbox": [
+            164,
+            365,
+            835,
+            381
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(a) the Employee’s Core Benefits shall not be paid into a Qualifying Scheme;   \n(b) the Employee shall be entitled to benefits less than the Core Benefits; or   \n(c) it has the effect of reducing an Employee’s Basic Wage by making regular Wage related payments to an Employee appear to be discretionary or non-regular in nature, or made with reference to the profits of the Employer or an Affiliate, ",
+        "bbox": [
+            223,
+            394,
+            895,
+            496
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "shall be null and void and unenforceable, and an Employee’s rights, remedies, claims or actions in respect thereof shall not be capable of waiver under Article 11(2)(b). ",
+        "bbox": [
+            223,
+            509,
+            890,
+            538
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(14) An Employee who wishes to contribute any part of their Remuneration to a Qualifying Scheme shall inform their Employer in writing, and the Employer shall be permitted to deduct the agreed amount from the Employee’s Remuneration to pay to the Qualifying Scheme on behalf of the Employee. ",
+        "bbox": [
+            166,
+            552,
+            893,
+            609
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(15) Subject to Article 66(6), the risk in respect of any amounts paid by an Employer on behalf of an Employee to a Qualifying Scheme shall be that of the Employee. ",
+        "bbox": [
+            163,
+            622,
+            892,
+            652
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(16) An Employee shall not have any recourse, claim or action against an Employer in respect of its choice of Qualifying Scheme to pay Core Benefits to, provided that the Qualifying Scheme continues to hold a Certificate of Compliance. ",
+        "bbox": [
+            163,
+            665,
+            892,
+            709
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(17) An Employer who contravenes Articles 66(7), (8), (10), (11), (13) or (18) is liable to a fine as set out in Schedule 2. Subject to Article 66(11), (12) and (18), an Employer shall be in contravention of Article 66(7) if Core Benefits in respect of any monthly period are not paid by the Employer by the twenty first (21st) day of the next calendar month to a Qualifying Scheme on behalf of an Employee. ",
+        "bbox": [
+            166,
+            722,
+            893,
+            794
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(18) If, as a result of an Employer or an Employee being a Sanctioned Person, a Qualifying Scheme or its trustee or administrator, is unable to receive or administer Core Benefits payable by an Employer to the Qualifying Scheme on behalf of an Employee, the provisions of Article 66(1) to (5) shall apply (both inclusive) to the Employer for the relevant period, as if a Qualifying Scheme Commencement Date has not yet occurred, until the earlier of: ",
+        "bbox": [
+            166,
+            808,
+            893,
+            880
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(a) the Employer or Employee, whichever is applicable, is not a Sanctioned Person; or ",
+        "bbox": [
+            220,
+            894,
+            850,
+            909
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "29 ",
+        "bbox": [
+            489,
+            945,
+            508,
+            956
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(b) the Employee’s Termination Date, ",
+        "bbox": [
+            223,
+            67,
+            523,
+            81
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "whereupon the Employer shall transfer any accrued Gratuity Payment to a Qualifying Scheme, or to the Employee, as the case may be, within the applicable time periods required under Article 66(17) or Article 19(1)(b). ",
+        "bbox": [
+            227,
+            96,
+            893,
+            138
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "(19) An Employer shall not be responsible to an Employee for any profit or loss that may have accrued in a Qualifying Scheme in respect of Core Benefits had it not been for the provisions of Article 66(18). ",
+        "bbox": [
+            159,
+            152,
+            893,
+            194
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "(20) The provisions of this Article 66 shall not derogate from an Employee’s right to approach the Court in respect of enforcing any right, remedy, claim or action it may have against an Employer for nonpayment of any Gratuity Payment or Core Benefits. ",
+        "bbox": [
+            166,
+            209,
+            893,
+            252
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "30 ",
+        "bbox": [
+            489,
+            945,
+            508,
+            956
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "PART 11: GENERAL CONTRAVENTIONS ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            66,
+            434,
+            81
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "67. General contraventions ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            96,
+            338,
+            110
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "(1) An Employer who: ",
+        "bbox": [
+            168,
+            124,
+            358,
+            138
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "(a) does an act or thing that the Employer is prohibited from doing under this Law;   \n(b) does not do an act or thing that the Employer is required or directed to do under this Law or by the Competent Authority; or   \n(c) otherwise contravenes this Law, ",
+        "bbox": [
+            223,
+            150,
+            893,
+            239
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "commits a contravention of this Law and may be liable to a fine as set out in Schedule 2 or such penalty or order that the Court determines. ",
+        "bbox": [
+            223,
+            252,
+            893,
+            280
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "(2) Any penalty or order of compensation that the Court determines to be paid pursuant to Article 67(1), that is not a fine or a penalty payable to DIFCA pursuant to Article 68, may be ordered to be payable to an affected Employee or any number of them. ",
+        "bbox": [
+            166,
+            295,
+            895,
+            338
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "68. Administration of fines and penalties ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            352,
+            434,
+            366
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "(1) The Board of Directors of the DIFCA may: ",
+        "bbox": [
+            166,
+            380,
+            523,
+            395
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "(a) prescribe in the Regulations specific fines and penalties, in addition to the fines stipulated in Schedule 2;   \n(b) provide for procedures in relation to the imposition and recovery of such fines and the enforcement of actions required under such penalties;   \n(c) prescribe for procedures in relation to objecting to such fines or penalties; and   \n(d) delegate, where it considers it appropriate to do so, such of the functions and powers as may more efficiently and effectively be performed by officers, agents or employees of the DIFCA, including the powers to impose and collect any fines or enforce any penalties imposed pursuant to this Law or the Regulations, inclusive of the discretion to reduce or waive them. ",
+        "bbox": [
+            203,
+            409,
+            893,
+            593
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "(2) Where the Board of Directors of the DIFCA, or its delegate, considers that an Employer has contravened a provision of this Law to which a fine is stipulated in Schedule 2, it may impose by written notice given to the Employer a fine or a penalty, or both in respect of each contravention as set out in Schedule 2 or the Regulations. ",
+        "bbox": [
+            166,
+            609,
+            893,
+            666
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "(3) If, within the period specified in the notice: ",
+        "bbox": [
+            158,
+            679,
+            520,
+            694
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "(a) the Employer pays the prescribed fine to the DIFCA or performs the required action under the penalty then no further proceedings will be commenced by the DIFCA against the Employer in respect of the relevant contravention; or   \n(b) the Employer fails to pay the prescribed fine or perform the required action under the penalty, or takes no action prescribed in the Regulations to object to the imposition of the fine or the penalty, the DIFCA may apply to the Court for, and the Court may so order, the payment of the fine or the imposition of the penalty and the Court may make any further order as the Court sees fit for recovery of the fine or the performance of the penalty. ",
+        "bbox": [
+            215,
+            707,
+            893,
+            837
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "(4) A certificate by the DIFCA, which states that a written notice was given to an Employer pursuant to Article 68(2) imposing a fine or a penalty or both on the basis of specific facts is: ",
+        "bbox": [
+            159,
+            851,
+            892,
+            880
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "(a) conclusive evidence of the giving of the notice to the Employer; and (b) prima facie evidence of the facts contained in the notice. ",
+        "bbox": [
+            220,
+            893,
+            752,
+            908
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "69. Inspections and access to records ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            96,
+            405,
+            110
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "(1) The Board of Directors of the DIFCA may appoint one (1) or more Inspectors to investigate the affairs of Employers to confirm compliance with the provisions of this Law and to submit written reports in respect thereof. ",
+        "bbox": [
+            163,
+            123,
+            895,
+            167
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "(2) An Employer shall allow Inspectors access to the Employer’s work premises in the DIFC and the records of each Employee required to be kept under this Law during working hours as may reasonably be required by such Inspectors in the circumstances. An Employer who contravenes this provision is liable to a fine as set out in Schedule 2. ",
+        "bbox": [
+            164,
+            180,
+            895,
+            238
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "70. Liability of the DIFCA ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            251,
+            333,
+            267
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Unless it can be shown that it was done in bad faith, neither the DIFCA nor any officer, Employee, delegate, agent or Inspector of the DIFCA can be held liable for any act, attempted act or omission in the performance or purported performance or non-performance of its functions in connection with this Law. ",
+        "bbox": [
+            166,
+            280,
+            893,
+            323
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 1 INTERPRETATION ",
+        "text_level": 1,
+        "bbox": [
+            420,
+            80,
+            577,
+            110
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "1. Rules of Interpretation ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            124,
+            335,
+            138
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "(1) In this Law, a reference to: ",
+        "bbox": [
+            168,
+            153,
+            412,
+            167
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "(c) an obligation to publish or cause to be published a particular document shall, unless expressly provided otherwise in this Law, include publishing or causing it to be published in printed or electronic form; ",
+        "bbox": [
+            215,
+            267,
+            895,
+            309
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "(d) a “day” means a calendar day, unless expressly stated otherwise. If an obligation falls on a calendar day which is either a Saturday, Sunday or a Public Holiday, the obligation shall take place on the next calendar day which is a business day; ",
+        "bbox": [
+            215,
+            323,
+            893,
+            366
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "(e) a “business day” means a calendar day, excluding Saturdays, Sundays and Public Holidays; ",
+        "bbox": [
+            220,
+            380,
+            893,
+            409
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "(f) a “week” shall mean a calendar week or seven (7) days, whichever is applicable in the circumstances; ",
+        "bbox": [
+            218,
+            422,
+            893,
+            452
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "(g) a “month” shall mean (unless specifically referring to the holy month of Ramadan) a calendar month; ",
+        "bbox": [
+            215,
+            465,
+            892,
+            495
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "(h) a year shall mean a calendar year of the Gregorian calendar or three hundred and sixty five (365) days, whichever is applicable in the circumstances; ",
+        "bbox": [
+            213,
+            509,
+            893,
+            538
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "(i) where applicable, a reference to the masculine gender includes the feminine and vice versa; ",
+        "bbox": [
+            217,
+            552,
+            893,
+            580
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "(j) “dollar” or $\\mathbf { \\hat { \\Sigma } } ^ { 6 6 } \\mathbf { \\hat { S } } ^ { 7 }$ is a reference to United States Dollars unless the contrary intention appears; and ",
+        "bbox": [
+            217,
+            595,
+            892,
+            623
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "(2) The headings in this Law shall not affect its interpretation. ",
+        "bbox": [
+            164,
+            665,
+            624,
+            680
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "(3) A reference in this Law to a Part, Chapter, Article or Schedule by number only, and without further identification, is a reference to the Part, Chapter, Article or Schedule of that number in this Law.   \n(4) A reference in an Article or other division of this Law to an Article by number or letter only, and without further identification, is a reference to the Article of that number or letter contained in the Article or other division of this Law in which that reference occurs.   \n(5) Unless the context otherwise requires, where this Law refers to an enactment, the reference is to that enactment as amended from time to time, and includes a reference to that enactment as extended or applied by or under another enactment, including any other provision of that enactment.   \n(6) References in this Law to a writing, filing, instrument or certificate include any mode of communication that preserves a record of the information contained therein and is capable of being reproduced in tangible form, including electronic means. ",
+        "bbox": [
+            161,
+            693,
+            895,
+            894
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "33 ",
+        "bbox": [
+            489,
+            945,
+            508,
+            956
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "2. Legislation in the DIFC ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            67,
+            338,
+            81
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "References to legislation in this Law shall be construed in accordance with the following provisions: ",
+        "bbox": [
+            161,
+            96,
+            845,
+            110
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "(a) Federal Law is law made by the federal government of the UAE;   \n(b) Dubai Law is law made by the Ruler, as applicable in the Emirate of Dubai;   \n(c) DIFC Law is law made by the Ruler, (including by way of example this Law), as applicable in the DIFC;   \n(d) this Law is the DIFC Employment Law, Law No. 2 of 2019;   \n(e) the Regulations are legislation made by the Board of Directors of the DIFCA under this Law and are binding in nature;   \n(f) the Enactment Notice is the enactment notice pursuant to which this Law is brought into force; and   \n(g) Guidance is indicative and non-binding and may comprise (i) guidance made and issued by the Board of Directors of the DIFCA under this Law or the Regulations; and (ii) any standard or code of practice issued by the Board of Directors of the DIFCA which has not been incorporated into the Regulations. ",
+        "bbox": [
+            163,
+            122,
+            895,
+            381
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "3. Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            395,
+            272,
+            409
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "In this Law, unless the context indicates otherwise, the defined terms listed below shall have the corresponding meanings: ",
+        "bbox": [
+            163,
+            423,
+            890,
+            452
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "table",
+        "img_path": "images/fa419714168d6cab1a801c41683cf926f87fab0f24d8a0e0a28d9fb227f3a776.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Terms</td><td colspan=\"2\">Definitions</td></tr><tr><td rowspan=\"3\">Affiliate</td><td>any of the following: a holding company of the Employer;</td><td></td></tr><tr><td>(a) (b)</td><td></td></tr><tr><td>(c)</td><td>a subsidiary of the Employer; a subsidiary of the holding company of the Employer; or</td></tr><tr><td colspan=\"2\">(d)</td><td>a partnership relating to the Employer that provides for partnership drawings and profit share distributions for Equity Partners or Employees.</td></tr><tr><td colspan=\"2\">Additional Payment</td><td>subject to the provisions of Article 66(13)(c), any bonus, incentive, grant, commission, drawing, distribution or any other payment made by an Employer to an Employee that is: (a) discretionary; (b) non-recurring; or</td></tr><tr><td colspan=\"2\">Allowance</td><td>Affiliate. any allowance payable to an Employee pursuant to an Employment Contract, which includes (but is not limited to) any housing, travel, education, social and entertainment allowance and, where such allowance (or any part thereof) is not paid to an Employee in equal parts for each Pay Period over a twelve (12) month period, the aggregate annual allowances payable to an Employee shall be divided by the number of Pay Periods for that Employee over a twelve (12) month period for the</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Terms</td><td colspan=\"1\" rowspan=\"1\">Definitions</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Annual Wage</td><td colspan=\"1\" rowspan=\"1\">the Wage payable to an Employee under an Employment Contract for aPay Period at the time when its calculation is required under this Law,multiplied to be expressed as an annualised number.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Basic Wage</td><td colspan=\"1\" rowspan=\"1\">subject to the provisions of Article 66(3)(a) and Article 66(8)(b), anEmployee's Annual Wage, excluding any Allowance or AdditionalPayment.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Board of Directors of the DIFCA</td><td colspan=\"1\" rowspan=\"1\">the Board of Directors of the DIFCA appointed by the President fromtime to time.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Certificate of Compliance</td><td colspan=\"1\" rowspan=\"1\">a certificate issued by the Board of the DIFCA, or its delegate, to anEmployer certifying that a particular scheme is a Qualifying Scheme asprovided for under the Regulations.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Competent Authority</td><td colspan=\"1\" rowspan=\"1\">the DIFCA, the Dubai General Directorate of Residency and ForeignersAffairs or any other relevant government authority in the UAE.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Core Benefits</td><td colspan=\"1\" rowspan=\"1\">the benefits referred to in Article 66(7), as applicable to an Employee.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Court</td><td colspan=\"1\" rowspan=\"1\">any relevant court or tribunal established in the DIFC or, in relation toany proceedings under Part 9 of this Law, the DIFC Court of FirstInstance.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Daily Wage</td><td colspan=\"1\" rowspan=\"1\">(a)   an Employee's Annual Wage divided by two hundred and sixty(260) for an Employee that works five (5) days per Work Week;(b)   in all other cases, an Employee's Annual Wage divided by theproduct of:(i)   the average number of Work Days worked per Work Weekby the Employee over a Relevant Calculation Period;(ii) multiplied by fifty two (52).</td></tr><tr><td colspan=\"2\" rowspan=\"1\">DIFCA</td><td colspan=\"1\" rowspan=\"1\">the entity established as the DIFC Authority under the DIFC FoundingLaw or, where permitted, its delegate.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">DIFC</td><td colspan=\"1\" rowspan=\"1\">the Dubai International Financial Centre established by Federal Law No.35 of 2004.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">DIFC Founding Law</td><td colspan=\"1\" rowspan=\"1\">Dubai Law No. 5 of 2021 or any amendment or replacement thereof.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Employee</td><td colspan=\"1\" rowspan=\"1\">an individual referred to in Article 4(1)(b) or (c)</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Employee Money PurchaseScheme</td><td colspan=\"1\" rowspan=\"1\">an arrangement where:(a)  the main purpose of the arrangement is to provide MoneyPurchase Benefits to members in respect of their employment;and(b)   such Money Purchase Benefits are payable on termination ofemployment or on the occurrence of another specified event.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Employer</td><td colspan=\"1\" rowspan=\"1\">an establishment or entity referred to in Article 4(1)(a).</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Employment Contract</td><td colspan=\"1\" rowspan=\"1\">a contract of service or apprenticeship, whether express or implied, and(if it is express) whether oral or in writing and any permitted amendmentor replacement thereof as agreed between the Employer and Employee.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Enactment Notice</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in paragraph 2(f) of this Schedule 1.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Equity Partner</td><td colspan=\"1\" rowspan=\"1\">an Employee who owns a partnership interest, membership interest orshares in an Employer or an Affiliate.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Exempted Emplovee</td><td colspan=\"1\" rowspan=\"1\">an Employee who is:</td></tr><tr><td colspan=\"2\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">(a)   required to be registered with the GPSSA under Article 65(1) andthat does not otherwise qualify for Core Benefits contributions toa Qualifying Scheme under Article 65(3);(b)    referred to in Article 4(2)(a), (b) and (c);(c)   serving a notice period under Article 62 on 1 February 2020;(d)   employed under a fixed term Employment Contract that will endwithin three (3) months of 1 February 2020; or(e)   an Equity Partner, provided that an Equity Partner is only anExempted Employee to the extent that they make drawings froma partnership, equity, capital or profit account of the Employer oran Affiliate, or receive profit distributions or dividends from theirEmployer or an Affiliate.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">GCC</td><td colspan=\"1\" rowspan=\"1\">Gulf Cooperation Council.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">GPSSA</td><td colspan=\"1\" rowspan=\"1\">the General Pension and Social Security Authority.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Gratuity Payment</td><td colspan=\"1\" rowspan=\"1\">the end of service gratuity payment entitlement for any period of serviceby an Employee prior to the Qualifying Scheme Commencement Dateunder Article 66(1).</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Gratuity Transfer Amount</td><td colspan=\"1\" rowspan=\"1\">an amount equal to the Gratuity Payment that would have been due to anEmployee if their Termination Date was the day before the QualifyingScheme Commencement Date, for purposes of establishing the period ofemployment served under Article 66(2), provided that the Basic Wageused in the calculation shall be that of the Employee on the date of theactual transfer of such amount.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Guidance</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in paragraph 2(g) of this Schedule 1.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Hourly Rate</td><td colspan=\"1\" rowspan=\"1\">(a)   the Daily Wage divided by eight (8); or(b)   where it concerns a Part-Time Employee, the Daily Wage dividedby either (i) the working hours stated in a Part-Time Employee'sEmployment Contract; or (ii) in cases where the daily workinghours are not stated in a Part-Time Employee's EmploymentContract or may vary from time to time due to the nature ofemployment, the average number of hours worked every WorkDay during a Relevant Calculation Period.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Inspector</td><td colspan=\"1\" rowspan=\"1\">any inspector appointed by the Board of Directors of the DIFCA underArticle 69(1).</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Law of Damages and Remedies</td><td colspan=\"1\" rowspan=\"1\">the Law of Damages and Remedies, DIFC Law No.7 of 2005.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Law of Obligations</td><td colspan=\"1\" rowspan=\"1\">the Law of Obligations, DIFC Law No.5 of 2005.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Legal Practitioner</td><td colspan=\"1\" rowspan=\"1\">a legal practitioner listed as authorised to conduct proceedings on behalfof a firm registered on Part 1 of the Court's Register of Practitioners or alegal practitioner registered on Part II of the Court's Register ofPractitioners or such other list of legal practitioners as the Board ofDirectors of the DIFCA may recognise.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Maternity Leave</td><td colspan=\"1\" rowspan=\"1\">the maternity leave entitlement under Article 37, or such greater periodas may be provided by an Employer to an Employee under anEmployment Contract.</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Maternity Pay</td><td colspan=\"1\" rowspan=\"1\">the payments to an Employee in accordance with Article 38 duringMaternity Leave.</td></tr><tr><td colspan=\"2\">Money Purchase Benefits</td><td>means benefits the rate or amount of which is calculated solely by reference to assets which (because of the nature of the calculation) must necessarily suffice for the purposes of their provision to a member of an Employee Money Purchase Scheme (it being immaterial for the purposes of this definition if the calculation of the rate or amount of the benefit includes deductions in relation to administrative expenses or</td></tr><tr><td colspan=\"2\">Monthly Basic Wage</td><td>commission). an Employee's Basic Wage divided by twelve (12) at the time a Core Benefit is due under any one of Article 66(7), (11) or (12).</td></tr><tr><td colspan=\"2\">Monthly Wage Parental Leave</td><td>an Employee's Annual Wage divided by twelve (12).</td></tr><tr><td colspan=\"2\">Part-Time Employee</td><td>Maternity Leave or Paternity Leave, whichever applies.</td></tr><tr><td colspan=\"2\"></td><td>an Employee whose Employment Contract either stipulates:</td></tr><tr><td colspan=\"2\"></td><td>(a) less than eight (8) working hours per Work Day, inclusive of any rest, nursing or prayer breaks; or</td></tr><tr><td colspan=\"2\">(b)</td><td>less than five (5) Work Days per Work Week; or</td></tr><tr><td colspan=\"2\">(c)</td><td>terms of employment which do not constitute full time employment.</td></tr><tr><td colspan=\"2\">Paternity Leave</td><td>the paternity leave entitlement under Article 39, or such greater period as may be provided by an Employer to an Employee under an Employment</td></tr><tr><td colspan=\"2\">Pay Period</td><td>Contract. (a) the hourly, daily, weekly or monthly period, where Employees are paid by the hour, day, week or month or as agreed in the Employment Contract; or</td></tr><tr><td colspan=\"2\"></td><td>(b) if an Employee is paid on a flat rate, piece rate, commission or other incentive basis, the Employee's applicable pay period stated in the Employment Contract.</td></tr><tr><td colspan=\"2\">Personnel Sponsorship Agreement</td><td>an agreement entered into between the DIFCA and an Employer under which its Employees' work and residency visas in the DIFC, inclusive of those on Secondment, are sponsored by the DIFCA on behalf of the Employer.</td></tr><tr><td colspan=\"2\">President</td><td>the President of the DIFC appointed by the Ruler pursuant to the DIFC Founding Law.</td></tr><tr><td colspan=\"2\">Public Holidays Qualifying Scheme</td><td>the public holidays referred to in Article 32(1).</td></tr><tr><td colspan=\"2\"></td><td>an Employee Money Purchase Scheme complying with the requirements set out in the Regulations, and for which a Certificate of Compliance has been issued to an Employer.</td></tr><tr><td colspan=\"2\">Qualifying Scheme Commencement Date</td><td>any one (1) of the following, whichever is applicable:</td></tr><tr><td colspan=\"2\"></td><td>(a) 1 February 2020 for an Employee, who is not an Exempted</td></tr><tr><td colspan=\"2\"></td><td>Employee, already employed by an Employer on that date;</td></tr><tr><td colspan=\"2\"></td><td>(b) the date of employment for an Employee, who is not an Exempted Employee, employed on or after 1 February 2020;</td></tr></table>",
+        "bbox": [
+            114,
+            465,
+            882,
+            869
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "35 ",
+        "bbox": [
+            489,
+            945,
+            508,
+            956
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            895,
+            55
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a0c07f5e1c277f544acc45f11efe61bd29bf6649ebe762bd65070983745e0df.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"4\">EMPLOYMENT LAI</td></tr><tr><td colspan=\"4\"></td></tr><tr><td>Terms</td><td>(c)</td><td>Definitions the first day of the month following the date of enactment of the amendment law that added Article 65(3) to this Law for an</td></tr><tr><td></td><td>Article 66(7)(c); (d) (e) calculating the Gratuity Payment due to the Employee at their Termination Date.</td><td>Employee that is a UAE national or a GCC national that qualifies for a top-up contribution of Core Benefits contribution under the day after the Termination Date for an Exempted Employee who is serving a notice period under Article 62 on 1 February 2020, or who is employed under a fixed term Employment Contract that will end within three (3) months of 1 February 2020, but only for purposes of calculating the Gratuity Payment due to the Employee at their Termination Date; and 1 February 2020 for any other Exempted Employee entitled to a Gratuity Payment under Article 66(1) but only for purposes of</td></tr><tr><td>Regulations Relevant Calculation Period</td><td></td><td>has the meaning given in paragraph 2(e) of this Schedule 1.</td></tr><tr><td></td><td></td><td>a period of seventeen (17) weeks immediately prior to the date of the relevant calculation, or as otherwise prescribed by the Regulations.</td></tr><tr><td>Remuneration</td><td></td><td>the aggregate of an Employee&#x27;s Wages and Additional Payments.</td></tr><tr><td>Ruler</td><td>the Ruler of the Emirate of Dubai.</td><td></td></tr><tr><td>Sanctioned Person</td><td></td><td>means an individual, entity, body or organisation listed on a sanctions list issued and passed by the United Nations Security Council, any consolidated list of financial sanctions issued by the Federal Cabinet of</td></tr><tr><td>Secondment</td><td>or its trustee or administrator. (a)</td><td>the UAE or any other sanctions that may apply to a Qualifying Scheme the period during which an Employee works for an Employer in the DIFC under a Secondment Card whilst employed by a person outside the DIFC. Any reference to &quot;including any period of Secondment&quot; in Articles 37, 39 and 62 refers to situations where a person who previously worked in the DIFC for an Employer on the basis of a Secondment either:</td></tr><tr><td></td><td>subject to any Secondment; or (b)</td><td>immediately subsequent to the Secondment becomes an Employee of that Employer under an Employment Contract, not is made an offer of employment under an Employment Contract,</td></tr><tr><td></td><td>coming to an end,</td><td>not subject to any Secondment, prior to the period of Secondment</td></tr><tr><td></td><td>on the basis of a Secondment.</td><td>in which cases the periods referred to in the aforementioned Articles shall include any period during which an Employee worked for an Employer</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td>a valid secondment card issued by the DIFCA permitting the Employee</td></tr><tr><td>Secondment Card Short-Term Employee</td><td>approved by the DIFCA in exceptional circumstances.</td><td>to work for an Employer in the DIFC on a temporary basis for no longer than one twelve (12) month period or such longer period as may be</td></tr></table>",
+        "bbox": [
+            114,
+            45,
+            880,
+            908
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "38 ",
+        "bbox": [
+            489,
+            945,
+            508,
+            957
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "table",
+        "img_path": "images/0776fb5f1a5d346270151e8888f4061bb428fb848d35d9440df11c466981e655.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Terms</td><td colspan=\"1\" rowspan=\"1\">Definitions</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Work Days over a twelve (12) month period, provided that Employersare permitted to count fractions of a Work Day in respect of Employeesthat only work for a specific number of hours in a Work Day.Any such fraction shall be derived from dividing the actual number ofworking hours worked by the Employee divided by eight (8).</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Sick Leave</td><td colspan=\"1\" rowspan=\"1\">the sick leave entitlement under Article 34, or such greater period as maybe provided by an Employer to an Employee under an EmploymentContract.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Sick Pay</td><td colspan=\"1\" rowspan=\"1\">the payments to an Employee in accordance with Article 35 during SickLeave.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Special Leave</td><td colspan=\"1\" rowspan=\"1\">the special leave entitlement under Article 33, or such greater period asmay be provided by an Employer to an Employee under an EmploymentContract.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Termination Date</td><td colspan=\"1\" rowspan=\"1\">(a)    in relation to an Employment Contract terminated by notice underArticle 62(2), the date on which the notice period expires;(b)   in relation to an Employment Contract terminated without noticeduring probation or pursuant to Articles 36 or 63 the date onwhich the termination of employment takes effect;(c)    in relation to an Employment Contract concluded for a fixed term,the date on which the term expires; and(d)   in relation to a Secondment, the earlier of the cancellation of theSecondment Card by the DIFCA or the date of expiry of theSecondment Card.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">UAE</td><td colspan=\"1\" rowspan=\"1\">the United Arab Emirates.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Vacation Leave</td><td colspan=\"1\" rowspan=\"1\">the vacation leave entitlement provided by the Employer in accordancewith Article 27, or such greater period as may be provided by anEmployer to an Employee under an Employment Contract.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Vacation Leave Year</td><td colspan=\"1\" rowspan=\"1\">the Employee's vacation leave year, as provided for in the Employee'sEmployment Contract or, where not provided for in the Employee'sEmployment Contract, the calendar year commencing 1 January.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Wage</td><td colspan=\"1\" rowspan=\"1\">any payment made to an Employee in return for work done or servicesprovided under an Employment Contract, including any Allowance butexcluding any Additional Payment.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Weekend</td><td colspan=\"1\" rowspan=\"1\">a consecutive two (2) day period falling on either a Friday and Saturdayor a Saturday and Sunday, as determined by the Employer and, if notdetermined by the Employer shall be a Saturday and Sunday.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Weekly Wage</td><td colspan=\"1\" rowspan=\"1\">an Employee's Annual Wage divided by fifty-two (52).</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Work Day</td><td colspan=\"1\" rowspan=\"1\">(a)   an Employee's working day as provided for in the Employee'sEmployment Contract and, if not provided for in the Employee'sEmployment Contract, every calendar day which is not aWeekend or a Public Holiday; or(b)   the reduced work day for Part-Time Employees referred to inArticle 17(2).</td></tr><tr><td></td><td>a perd of fve (5) consecutive calendar days in a week, which arenot a Weekend, without taking into consideration any Public Holidays that may interrupt or shorten this period.</td></tr></table>",
+        "bbox": [
+            114,
+            74,
+            880,
+            890
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "39 ",
+        "bbox": [
+            489,
+            945,
+            508,
+            956
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "40 ",
+        "bbox": [
+            489,
+            945,
+            508,
+            956
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            712,
+            41,
+            893,
+            55
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "table",
+        "img_path": "images/d0fc14664dec3e415bb5b58b661f3d568d34a59039958e536a56b3e3c2acd619.jpg",
+        "table_caption": [
+            "SCHEDULE 2 CONTRAVENTIONS AND FINES "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Article</td><td rowspan=1 colspan=1>Contravention</td><td rowspan=1 colspan=1>MaximumFine* (USD)</td></tr><tr><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>Employing a child under sixteen (16) years of age.</td><td rowspan=1 colspan=1>$10,000</td></tr><tr><td rowspan=1 colspan=1>43</td><td rowspan=1 colspan=1>Failing to meet the general duties of an Employer.</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>44(2)</td><td rowspan=1 colspan=1>Failing to meet any of the health and safety requirements of this Article.</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>Failing to ensure that every enclosed workplace is ventilated by sufficientquantity of fresh or purified air.</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>Failing to ensure a reasonable temperature in the workplace.</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>47</td><td rowspan=1 colspan=1>Failing to ensure the workplace has suitable and sufficient lighting.</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1>Failing to keep the workplace and its furniture, furnishings and fittings clean.</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=1>Failing to meet room dimensions and space requirements for the purposes ofhealth, safety and welfare of Employees.</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>Failing to ensure that workstations are suitable.</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1>Failing to provide suitable and adequate sanitary conveniences at readilyaccessible places in the workplace.</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1>Failing to provide an adequate supply of clean drinking water.</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>53(2)</td><td rowspan=1 colspan=1>Penalising or dismissing an Employee for preventing or refusing to takehealth and safety risks.</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>Failing to provide an Employee with health insurance cover as required byapplicable law.</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>57(4)</td><td rowspan=1 colspan=1>Failing to comply with Employee visa and sponsorship requirements in thePersonnel Sponsorship Agreement, Federal Law or Dubai Law or therequirements of any Competent Authority.</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>66(17)</td><td rowspan=1 colspan=1>Failing to comply with Articles 66(6), (7), (9), (11), (13) and (18), for eachcontravention in respect of each Employee.</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>69</td><td rowspan=1 colspan=1>Failing to cooperate with an Inspector or to provide them with reasonableaccess to an Employer&#x27;s work premises in the DIFC or its Employee recordsas may be reasonably required in the circumstances.</td><td rowspan=1 colspan=1>$2,000</td></tr></table>",
+        "bbox": [
+            117,
+            92,
+            880,
+            620
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "\\*The fines imposed in this Schedule 2 may be levied for each instance of breach and shall be payable to the DIFCA in a manner prescribed by the Board of Directors of the DIFCA, or as determined by the Regulations. ",
+        "bbox": [
+            119,
+            633,
+            878,
+            663
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "EMPLOYMENT LAW ",
+        "bbox": [
+            699,
+            41,
+            880,
+            55
+        ],
+        "page_idx": 43
+    }
+]

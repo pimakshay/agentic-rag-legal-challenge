@@ -1,0 +1,1408 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            400,
+            350,
+            616,
+            397
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 2 ",
+        "text_level": 1,
+        "bbox": [
+            210,
+            548,
+            809,
+            583
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "June 2025 ",
+        "bbox": [
+            437,
+            597,
+            585,
+            621
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "VARIABLE CAPITAL COMPANY REGULATIONS ",
+        "bbox": [
+            208,
+            674,
+            811,
+            743
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 2 PROPOSED ENACTMENT OF DIFC VARIABLE CAPITAL COMPANY REGULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            158,
+            85,
+            865,
+            149
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Why are we issuing this paper? ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            165,
+            367,
+            181
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The Dubai International Financial Centre Authority (“DIFCA”) proposes to enact Variable Capital Company Regulations (the “VCC Regulations” or “Proposed Regulations”). This Consultation Paper No. 2 of 2025 (“Consultation Paper”) seeks public comments on the proposed VCC Regulations. ",
+        "bbox": [
+            106,
+            194,
+            922,
+            281
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Who should read this paper? ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            304,
+            345,
+            320
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. This Consultation Paper would be of interest to persons conducting or proposing to conduct business in the DIFC. In particular: ",
+        "bbox": [
+            102,
+            334,
+            920,
+            375
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a. Family Offices, Family Members and investment officers of Family Offices;   \nb. Private Equity Funds and Investment Managers;   \nc. Registered Persons;   \nd. legal advisors and corporate service providers; and e. any other relevant stakeholders. ",
+        "bbox": [
+            161,
+            393,
+            829,
+            530
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How to provide comments ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            547,
+            323,
+            564
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. All comments should be provided to the person specified below: ",
+        "bbox": [
+            99,
+            578,
+            696,
+            596
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates   \nor e-mailed to: consultation@difc.ae ",
+        "bbox": [
+            163,
+            615,
+            493,
+            747
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. You may choose to identify the organisation you represent in your comments. ",
+        "bbox": [
+            99,
+            764,
+            809,
+            783
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "bbox": [
+            107,
+            801,
+            917,
+            842
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "What happens next? ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            864,
+            277,
+            882
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6. The deadline for providing comments on the proposals in this Consultation Paper is 24 July ",
+        "bbox": [
+            101,
+            895,
+            917,
+            914
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "VCC REGULATIONS ",
+        "bbox": [
+            735,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            888,
+            947,
+            900,
+            957
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2025. ",
+        "bbox": [
+            163,
+            67,
+            213,
+            83
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. Once we receive your comments, we will consider if any further refinements are required to the Proposed Regulations. Once DIFCA considers the changes to be in a suitable form, the Proposed Regulations will be enacted, to come in to force on a date specified and published. ",
+        "bbox": [
+            102,
+            103,
+            920,
+            167
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8. The Proposed Regulations are in draft form only. You should not act on them until they are formally enacted. We will issue a notice on our website when this happens. ",
+        "bbox": [
+            102,
+            184,
+            920,
+            226
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            248,
+            223,
+            264
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase and are defined in the Proposed Regulations. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "bbox": [
+            102,
+            279,
+            920,
+            365
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            388,
+            208,
+            404
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. A Variable Capital Company (or VCC) is a limited liability company that can be established as a standalone company, or as an umbrella structure under which different cells may be established and remain ring-fenced from one another. A VCC differs from the traditional company model in that it provides greater flexibility in the issuance and redemption of its shares, and its underlying cell shares. A VCC is not restricted to paying dividends out of only its profits but can also make distributions from capital by reference to the VCC’s, or relevant Cell’s, net asset value, giving the company greater flexibility to meet dividend payment obligations. ",
+        "bbox": [
+            107,
+            425,
+            922,
+            602
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11. VCCs were first provided for by the Singapore Variable Capital Companies Act 2018, which came into effect in January 2020. This legislation was followed in Mauritius by the Variable Capital Companies Act 2022. ",
+        "bbox": [
+            104,
+            621,
+            919,
+            684
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "12. Although hailed as “a new corporate structure” for fund management by reason of the facility it afforded for creation of segregated cells, the Singapore model does not differ significantly from the existing provisions in the DIFC for Protected Cell Companies under the DIFC Protected Cell Companies (“PCC”) Regulations and Incorporated Cells under the DIFC Incorporated Cell Companies (“ICC”) regulations1. Under the PCC Regulations, a ",
+        "bbox": [
+            106,
+            703,
+            914,
+            812
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 In addition to the DIFC Regulations referred to above, both Protected Cell Companies and Incorporated Cell Companies are to be found in other financial centres, including Guernsey (Part XXVII of the Companies (Guernsey) Law), Jersey (Part 18D of the Companies (Jersey) Law), Bermuda (Segregated Accounts Companies Act), Cayman Islands (Part XIV of the Companies Act (2023 Revision)) and Malta (Companies Act (Cell Companies Carrying on Business of Insurance) Regulations 2004 and Securitisation Cell Companies Regulations 2014)). ",
+        "bbox": [
+            104,
+            863,
+            897,
+            927
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "VCC REGULATIONS ",
+        "bbox": [
+            735,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            888,
+            947,
+            900,
+            957
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PCC may be formed as an open-ended PCC, with variable share capital, to conduct the business of a Fund, whereas a PCC conducting Insurance Business must be established as a closed-ended company. Similarly, the ICC Regulations permit ICCs to be used to conduct Fund business or Insurance Business. Like the Singaporean VCC model which is overseen by the Monetary Authority of Singapore, both PCCs and ICCs are subject to DFSA oversight and are currently available only in the context of the provision of regulated financial services. ",
+        "bbox": [
+            163,
+            66,
+            910,
+            219
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "13. The suitability of VCC structures, in the context of providing a collective investment structure on a non-regulated basis, for example, the investment of family assets has been the subject of considerable comment. This is unsurprising as segregated structures enable different members of a family to engage in proprietary investment activity which reflects individual investment objectives and preferences without losing the benefits of the economies of scale which flow from collective investment activity, whilst also leveraging the flexibility and reduced procedural requirements for issuing and redeeming shares that a variable capital structure offers. ",
+        "bbox": [
+            104,
+            247,
+            868,
+            422
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14. Following on from a review of variable capital frameworks in other jurisdictions, the DIFC now proposes the enactment of a Variable Capital Company regime, providing comprehensive access to Variable Capital Companies for proprietary investment activities on a non-regulated basis (see qualifying requirements for further detail from paragraph 16 below). ",
+        "bbox": [
+            106,
+            441,
+            867,
+            551
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15. The Proposed Regulations set out the following key features in respect of VCCs. ",
+        "bbox": [
+            97,
+            627,
+            811,
+            644
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a. The Variable Capital Company is a private limited company in which shareholders may hold shares.   \nb. The VCC may establish either segregated or incorporated cells to ring fence assets and issue cell shares in respect of an individual cell and the cellular assets attributable to that cell.   \nc. The restrictions conventionally applicable to fixed capital companies in respect of dividend payments, issuing shares, and redeeming and buying back shares will be replaced by a requirement that the issue, reduction or distribution be proportional to the net asset value of the company or relevant cell. ",
+        "bbox": [
+            222,
+            663,
+            887,
+            884
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "VCC REGULATIONS ",
+        "bbox": [
+            735,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            888,
+            947,
+            900,
+            957
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key features of DIFC VCC regime ",
+        "bbox": [
+            92,
+            570,
+            932,
+            598
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d. Comprehensive access to the regime for a range of applicants (see qualifying requirements for further detail from paragraph 16 below), provided that the VCC is used for proprietary investment activity, or otherwise seeks DFSA (or a Regulator in a Recognised Jurisdiction’s) authorisation if the VCC is to be used for the provision of financial services. ",
+        "bbox": [
+            223,
+            66,
+            887,
+            175
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q1. Do you have any concerns as to possible adverse consequences for the DIFC if it were to legislate to provide for establishment of variable capital companies either generally or specifically as contemplated in the Proposed Regulations? If so, what are they and how should they be addressed? ",
+        "bbox": [
+            101,
+            195,
+            920,
+            283
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Qualifying requirements ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            307,
+            304,
+            325
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "16. The Proposed Regulations seek to provide access to VCC structures to a broader base of applicants then existing VCC regimes internationally, and the current DIFC ICC and PCC regimes, which as noted above are currently available only in the context of the provision of regulated financial services. ",
+        "bbox": [
+            104,
+            345,
+            920,
+            432
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "17. In terms of qualifying requirements, the Proposed Regulations align with the current Prescribed Company Regulations, which enable vehicles to be established in five distinct scenarios, either by certain applicants or for certain purposes. Accordingly, the VCC (and any of its Cells) must satisfy the Registrar that it is: ",
+        "bbox": [
+            104,
+            450,
+            919,
+            536
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a. Controlled by one or more GCC Persons;   \nb. Controlled by one or more Authorised Firms;   \nc. Controlled by one or more DIFC Registered Persons (this definition encompasses DIFC entities other than NPIOs and Prescribed Companies);   \nd. established or continued for the purpose of holding legal title to, or Controlling, one or more GCC Registrable Assets (see paragraph 19 below for further explanation in this regard); or   \ne. established or continued in the DIFC for a Qualifying Purpose (see paragraph 20 below for further explanation in this regard). ",
+        "bbox": [
+            220,
+            555,
+            878,
+            754
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "18. Note that Article 3.1.2 of the Regulations provides a restriction in respect of the VCC providing financial services, whereby an applicant may only incorporate or continue a VCC, provided that it satisfies the Registrar that it (and any of it Cells) shall not at any time be involved in the provision of Financial Services, unless expressly permitted to do so by the DFSA or a regulator in a Recognised jurisdiction. ",
+        "bbox": [
+            106,
+            771,
+            919,
+            881
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "19. A GCC Registrable Asset has the same meaning as the term in the Prescribed Company ",
+        "bbox": [
+            101,
+            899,
+            915,
+            918
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "VCC REGULATIONS ",
+        "bbox": [
+            735,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            888,
+            947,
+            900,
+            957
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Regulations and encompasses any asset or property interest that is registered with a GCC Authority (i.e. any GCC government authority or body that maintains a registry for recording legal ownership of assets or interests within a GCC Member State). ",
+        "bbox": [
+            163,
+            67,
+            917,
+            129
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "20. The definition of Qualifying Purpose largely reflects the current list of Qualifying Purposes in the Prescribed Companies regime, and includes: i) an Aviation Structure; ii) a Crowdfunding Structure; iii) an Intellectual Property Structure; iv) a Maritime Structure; and v) a Structured Financing. An additional Qualifying Purpose of a “Secondaries Structure” has also been included. ",
+        "bbox": [
+            102,
+            147,
+            919,
+            256
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. A Secondaries Structure means: ",
+        "bbox": [
+            102,
+            275,
+            436,
+            292
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "“a corporate structure established for the purpose of facilitating the transfer of investment assets, partnership interests or Securities from primary investors to secondary investors or for any subsequent transfer”. ",
+        "bbox": [
+            131,
+            311,
+            920,
+            375
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "22. The Secondaries Structure definition is intended to facilitate, for instance, secondary private equity funds, which acquire and pool ownership stakes in existing private equity investments from original investors, providing off-market liquidity in what is otherwise a far less liquid asset class. An example of this is a GP led secondary fund, where a fund’s lifespan is coming to an end, and the GP needs to liquidate the fund but its remaining assets are illiquid. The GP carves these assets out by placing them in a separate structure (a VCC, or a Cell of a VCC) and provides existing investors with shares in the new vehicle based on the net asset value of the VCC or the relevant Cell. ",
+        "bbox": [
+            102,
+            394,
+            920,
+            570
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Q2. Do you have any concerns about the scope of the qualifying requirements and use of Variable Capital Companies in the context of doing business in the DIFC? If so, please provide details.   \nQ3. Are there any restrictions in respect of the types of applicant that may establish a VCC that you think it would be appropriate to include? If so, please explain which restrictions should be included and why.   \nQ4. Do you agree that the definition of Secondaries Structure sufficiently captures the proposed uses outlined in this consultation paper. If not, what changes would you make to the definition and why? ",
+        "bbox": [
+            94,
+            591,
+            924,
+            820
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "VCC REGULATIONS ",
+        "bbox": [
+            735,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            888,
+            947,
+            900,
+            957
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Segregated and Incorporated Cells ",
+        "bbox": [
+            94,
+            842,
+            417,
+            869
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "23. The Proposed Regulations enable a VCC to establish with either Segregated or Incorporated Cells, but a VCC may not be established with both Incorporated Cells and Segregated Cells. ",
+        "bbox": [
+            102,
+            66,
+            883,
+            129
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "24. A Variable Capital Company with Segregated Cells is a single legal person, whereas Incorporated Cells are stand-alone companies distinct from each other and from the VCC itself. Although an Incorporated Cell is legally distinct and must have its own Articles of Association, it may still benefit from centralised functions provided by the VCC. For instance, the carrying out of administrative functions such as the issue and redemption of Cell Shares, valuing Cellular Assets, account keeping, financial reporting and the carrying out of management, compliance and oversight functions. ",
+        "bbox": [
+            101,
+            156,
+            883,
+            311
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "25. Not all jurisdictions offering VCC structures make available both categories of cell. In drafting the Proposed Regulations, the DIFC has sought to make available in a comprehensive way all the categories that have been found useful in other comparable jurisdictions, and to delineate the appropriate consequences which flow from the choice. ",
+        "bbox": [
+            102,
+            327,
+            920,
+            414
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "26. One key differential between the two types of cells, beyond their corporate characteristics, is the way in which an Incorporated Cell, as an incorporated entity, can be separated from the VCC umbrella structure. Regulations 10.2 and 10.3 of the Proposed Regulations set out the procedures for an Incorporated Cell to be re-registered as an independent company or to transfer to another VCC. In choosing between Incorporated Cell and Segregated Cell options, applicants may wish to consider the likelihood of later restructuring needs, whereby it is desirable to detach cellular assets from the main structure into standalone vehicles or through a transfer to another VCC. ",
+        "bbox": [
+            102,
+            432,
+            922,
+            609
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Q5. Do you think that the categories of Cell provided for in the Proposed Regulations are suitable in the DIFC context? If not, what changes should be made? ",
+        "bbox": [
+            101,
+            630,
+            920,
+            672
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cellular and Non-Cellular Assets ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            697,
+            397,
+            713
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "27. The Proposed Regulations provide for two categories of assets in a VCC: i) Cellular Assets (which may be in either a Segregated Cell or an Incorporated Cell) and comprise the assets attributable to a particular Cell; and ii) Non-Cellular Assets, which comprise the assets of a VCC which are not Cellular Assets. ",
+        "bbox": [
+            102,
+            735,
+            920,
+            821
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "28. Regulation 5.2 of the Proposed Regulations defines Cellular Assets as “…the assets of the Variable Capital Company attributable to each of its Cells, which shall comprise: ",
+        "bbox": [
+            102,
+            839,
+            920,
+            881
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "VCC REGULATIONS ",
+        "bbox": [
+            734,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            888,
+            946,
+            900,
+            957
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) the assets represented by the proceeds of Cell Share Capital and reserves, including (without limitation) retained earnings, capital reserves and Share premium, attributable to a Cell; and   \n(b) all other assets attributable to a Cell.” ",
+        "bbox": [
+            173,
+            67,
+            919,
+            146
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "29. Whereas, Non-Cellular Assets “consist of all assets of a Variable Capital Company that do not fall under Regulation 5.2”. ",
+        "bbox": [
+            102,
+            156,
+            920,
+            198
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Q6. Are the specific characteristics attributed to Cellular Assets of each of the categories of Cells appropriate? If not, how could they be improved? ",
+        "bbox": [
+            101,
+            219,
+            919,
+            260
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Variable capital structure ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            285,
+            331,
+            301
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "30. As noted above, VCCs provide greater capital structuring flexibility than a fixed capital company. Consequently, and pursuant to Regulation 2.1.4 of the Proposed Regulations, Chapters 6 (Redemption and Purchase of Shares), 7 (Reduction of Capital) and 8 (Distributions) of Part 7 of the DIFC Companies Law have been disapplied to VCCs and their Cells, unless specified otherwise in the Proposed Regulations. ",
+        "bbox": [
+            102,
+            323,
+            920,
+            432
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "31. Further to the disapplication of the relevant provisions of the DIFC Companies Law, Regulation 6 of the Proposed Regulation sets out the requirements for share capital related corporate actions, whereby a VCC may create, issue, redeem or buy back shares at a price equal to the proportion of Net Asset Value of either the Cellular Assets or Non-Cellular Assets of the relevant VCC or Cell. ",
+        "bbox": [
+            102,
+            450,
+            920,
+            559
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "32. Similarly, distributions may be made by a Variable Capital Company (or its Cells) by reference to the Net Asset Value of the Variable Capital Company (or the relevant Cell), thereby disapplying the restriction of paying dividends out of profits. ",
+        "bbox": [
+            102,
+            577,
+            919,
+            642
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "33. Capital reductions by a VCC or a Cell, are permissible provided the reduction is authorised by way of Special Resolution and the VCC’s (or relevant Cell’s) Articles of Association. The requirements for solvency statements and public notice to creditors of the proposed reduction are removed. However, where a share capital reduction would result in the Net Asset Value of the VCC or Cell (as applicable) falling below zero, then the reduction must be carried out pursuant to the procedures applicable to fixed capital companies under the Relevant Laws. ",
+        "bbox": [
+            102,
+            659,
+            920,
+            813
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Q7. Do you have any concerns about the procedures for the restructuring share capital provided in the Proposed Regulations? If so, please provide details. ",
+        "bbox": [
+            102,
+            871,
+            919,
+            913
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "VCC REGULATIONS ",
+        "bbox": [
+            734,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            888,
+            947,
+            900,
+            957
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Duties and Liabilities of Officers ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            109,
+            390,
+            128
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "34. Regulation 7 of the Proposed Regulations sets out certain responsibilities and liabilities in respect of Officers of a VCC. Regulation 7.1 defines an “Officer” as “an Officer as defined in the Companies Law, as if references to a “Company” in such definition was to a Variable Capital Company and a Cell thereof (as the context requires).” ",
+        "bbox": [
+            102,
+            153,
+            920,
+            238
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "35. Officers are required to keep Cellular Assets separate and separately identifiable from Non-Cellular Assets, and the Cellular Assets attributable to other Cells. Additionally, a VCC must: i) inform those it transacts with of its status as a Variable Capital Company; ii) identify or specify the Cell that is entering into a transaction (unless the transaction is not in respect of a particular Cell); and iii) where the transaction is in respect of a particular Cell inform the other transacting party that only that Cell’s assets are available to pay the obligations and liabilities of that Cell. Failure by an Officer to comply with these requirements may give rise to potential personal liability, if such Officers acted “knowingly, recklessly or negligently”, and in such circumstance no right of indemnity in favour of the Officer shall be provided by the Variable Capital Company, including if the Officer has acted in bad faith (see Regulation 7.4). ",
+        "bbox": [
+            107,
+            257,
+            920,
+            478
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Q8. Do you agree that Officers should not have a right of indemnity against the Variable Capital Company where they have acted knowingly, recklessly, negligently, or in bad faith in contravening the principles set out in Regulation 7 regarding the separation of assets between the Variable Capital Company and the individual Cells? If not, what standard do you consider more appropriate and why? ",
+        "bbox": [
+            102,
+            500,
+            920,
+            610
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Rights of Creditors and Implied Terms ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            630,
+            444,
+            649
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "36. Regulation 8 of the Proposed Regulations embeds the principle that creditors of a particular Cell only have recourse against the Cell for which a liability arises to that creditor. Likewise, creditors of the Variable Capital Company’s Non-Cellular Assets do not have recourse to Cellular Assets. These provisions ringfence the assets of a particular Cell or the VCC to only its relevant creditors. ",
+        "bbox": [
+            104,
+            667,
+            920,
+            775
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "37. Regulation 8.2 provides for implied creditor rights in every transaction entered into by, or on behalf of, a VCC or its individual Cells, including that no party may seek to use or apply any Cellular Assets attributable to any Cell in respect of a liability not attributable to that Cell. To the extent any party succeeds in doing so it becomes liable to the Variable Capital Company to pay a sum equal to the value of the benefit obtained and, is also deemed to hold the assets or proceeds derived from the Cell in a fiduciary capacity for the Variable Capital Company. ",
+        "bbox": [
+            102,
+            794,
+            920,
+            925
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "VCC REGULATIONS ",
+        "bbox": [
+            735,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            888,
+            947,
+            900,
+            957
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Other key features ",
+        "bbox": [
+            101,
+            67,
+            927,
+            96
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "38. Regulation 8.5 provides that in the event that any Cellular Assets attributable to a Cell are seized, attached, levied or otherwise taken in execution of a liability not attributable to that Cell, and where such assets cannot be restored to the affected Cell, then the VCC must obtain an auditor’s expert valuation for the lost assets and transfer or pay to the Cell, from the Cellular or Non-Cellular Assets to which the liability was attributable, assets or sums sufficient to restore to the affected Cell the value of the assets lost. ",
+        "bbox": [
+            104,
+            66,
+            920,
+            197
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Merger or consolidation of a Segregated Cell and transfer of Cellular Assets ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            216,
+            777,
+            235
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "39. Regulations 9.1-9.8 relate to Segregated Cells and the procedures for transferring Cellular Assets between Segregated Cells, or merging or consolidating different Segregated Cells. The procedures provide for a creditor no-objection process for creditors who believe their interests would be unfairly prejudiced by a proposed transfer. ",
+        "bbox": [
+            104,
+            252,
+            919,
+            338
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "40. If a Creditor does object to such transaction, then the VCC may not proceed with the proposed transfer, merger or consolidation until the creditor withdraws its objection or if the creditor fails to initiate court proceedings within fifteen days from the date of its written objection to the Variable Capital Company. If the Creditor does initiate Court proceedings, then the proposed transfer, merger or consolidation must remain stayed until the Court renders its final judgement. ",
+        "bbox": [
+            102,
+            357,
+            919,
+            488
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "41. In terms of shareholder approvals, it is noted that the procedures for transferring Cellular Assets between Cells, or merging or consolidating different Cells includes a requirement for a Special Resolution of the transferee and transferor Segregated Cells or each of the merging Segregated Cells (as applicable). Owing to the Special Resolution threshold, no minority shareholder right of objection is included in respect of a proposed transfer, merger or consolidation under Regulation 9. ",
+        "bbox": [
+            104,
+            505,
+            920,
+            637
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "42. With regards to transfers of Cellular Assets of an Incorporated Cell to another Incorporated Cell or in respect of a merger or consolidation of Incorporated Cells of a Variable Capital Company, pursuant to proposed Regulations 9.9-9.10, such corporate actions must be carried out in accordance with the usual requirements for companies as set out in the Relevant Laws (i.e. the Companies Law, the Insolvency Law, the Operating Law and the regulations issued pursuant to those laws), as well as the Articles of Association of the relevant Incorporated Cells. ",
+        "bbox": [
+            104,
+            655,
+            920,
+            808
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Q9. Do you agree that there should be no right for minority shareholders to object to a proposed transfer, merger or consolidation of Segregated Cells? If not, please provide reasons why the right should be included. ",
+        "bbox": [
+            101,
+            831,
+            919,
+            895
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            887,
+            947,
+            905,
+            957
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "VCC REGULATIONS ",
+        "bbox": [
+            735,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Conversion, continuation or transfer of a Variable Capital Company ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            67,
+            700,
+            84
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "43. Regulation 10 of the Proposed Regulations include conversion, continuation and transfer provisions enabling: ",
+        "bbox": [
+            102,
+            96,
+            919,
+            136
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "a. a VCC with Segregated Cells to convert into a VCC with Incorporated Cells and vice versa;   \nb. a VCC to convert into a DIFC Company and vice versa;   \nc. a Foreign Company to convert into a VCC; or   \nd. a VCC to redomicile as a Foreign Company (subject to the laws of the foreign jurisdiction concerned). ",
+        "bbox": [
+            222,
+            154,
+            875,
+            286
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "These corporate actions are subject to certain application procedures set out at Regulation 10. ",
+        "bbox": [
+            158,
+            305,
+            919,
+            345
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "44. Regulation 10.1.3 provides creditor protections where a DIFC Company wishes to convert into a VCC or vice versa. This is via both notice to the relevant creditor/contracting party and through publication of a notice in an Appointed Publication. A creditor, contracting party or cell of a relevant VCC may apply to the Court and object to the conversion on the basis that it would unfairly prejudice his, her or its interests. Such objection must be filed no later than fifteen days after the relevant entity has applied to the Registrar for the conversion. ",
+        "bbox": [
+            104,
+            363,
+            920,
+            495
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Q10. Do you agree with the level of creditor protection on a conversion from a VCC to a Company (or vice versa) proposed under Regulation 10? If not, what changes should be made? ",
+        "bbox": [
+            101,
+            516,
+            920,
+            579
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Conversion or continuation of an Incorporated Cell ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            602,
+            557,
+            619
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5. Regulation 10.2 sets out procedures for the conversion of Incorporated Cells into DIFC Companies independent from the Variable Capital Company, with an objection process through the Courts for any shareholder of the Incorporated Cell that objects to the proposed re-registration on the basis of unfair prejudice. It is noted that no creditor objection process is provided for in respect of conversions of Incorporated Cells into Companies, on the basis that the rights and liabilities of the Incorporated Cell before re-registration continue once the Cell is established as an independent Company (see Regulation 10.2.4), and therefore creditors will have recourse to the independent Company post conversion. ",
+        "bbox": [
+            116,
+            637,
+            920,
+            814
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Q11. Do you have any comments on the procedures set out for converting an Incorporated Cell into a standalone company under Regulation 10.2? If so, please provide details. ",
+        "bbox": [
+            101,
+            836,
+            919,
+            877
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "VCC REGULATIONS ",
+        "bbox": [
+            734,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "11 ",
+        "bbox": [
+            887,
+            946,
+            904,
+            957
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Transfer of an Incorporated Cell to another Variable Capital Company ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            67,
+            717,
+            84
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "46. Regulation 10.3 sets out the procedures for transferring an Incorporated Cell from one VCC to another VCC, which includes: ",
+        "bbox": [
+            99,
+            103,
+            915,
+            143
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "a. the transferor and transferee Variable Capital Companies entering into a written agreement (a Transfer Agreement) agreeing the terms of the transaction (see Regulation 10.3.1(a));   \nb. Special Resolutions of the transferor and transferee Variable Capital Companies approving the transaction (see Regulation 10.3.1(b));   \nc. a directors’ declaration (see Regulation 10.3.2) of the transferor Variable Capital Company providing certain confirmations including in respect of the solvency of the Incorporated Cell and that no prohibitions exist under the transaction parties’ constitutional documents preventing the transfer; and   \nd. making an application to the Registrar to approve the transfer (see Regulation 10.3.3.). ",
+        "bbox": [
+            222,
+            161,
+            875,
+            406
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "47. Similar to the conversion and continuation processes outlined at paragraph 45 above, Regulation 10.3.6 provides that all rights and liabilities of an Incorporated Cell transfer with it when it becomes incorporated under the new VCC, and any actions or proceedings by or against the Incorporated Cell under its previous VCC also remain the responsibility of the Incorporated Cell. ",
+        "bbox": [
+            102,
+            423,
+            920,
+            533
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Q12. Do you have any comments on the procedures set out for transferring an Incorporated Cell from one VCC to another VCC under Regulation 10.3? If so, please provide details. ",
+        "bbox": [
+            102,
+            555,
+            920,
+            617
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Miscellaneous ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            643,
+            225,
+            659
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "48. The Proposed Regulations include similar features to other regulations issued pursuant to the DIFC Companies Law with regards to conduct of business within the DIFC (see Regulation 11). For instance: ",
+        "bbox": [
+            102,
+            674,
+            920,
+            737
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "a. the requirement for VCCs to prepare accounts and maintain accounting records as required under the Companies Law, in respect of the VCC and any Incorporated Cells.   \nb. the requirement for VCCs to file confirmation statement in respect of itself and any Incorporated cells;   \nc. the ability for the Registrar to enter into arrangements with CSPs so that CSPs may carry out certain filings and compliance functions on behalf of VCCs;   \nd. the ability for the Registrar to fine, suspend or revoke the status of a VCC pursuant to the Decision-Making Procedures under the DIFC Operating Law. ",
+        "bbox": [
+            222,
+            756,
+            867,
+            865
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "VCC REGULATIONS ",
+        "bbox": [
+            734,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "12 ",
+        "bbox": [
+            887,
+            946,
+            905,
+            958
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "49. Regulation 12.1 provides that a VCC may not be wound-up until its Incorporated Cells are either transferred to another VCC, converted to another type of Company or wound up. Regulation 12.2 confirms that the DIFC Insolvency Law and Regulations apply with any necessary adaptions for VCCs. ",
+        "bbox": [
+            102,
+            193,
+            919,
+            279
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Q13. Do you have any other comments or concerns related to the Proposed Regulations? If so, what are they and how should they be addressed? ",
+        "bbox": [
+            101,
+            301,
+            920,
+            342
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Legislative proposal ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            366,
+            274,
+            383
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "50. This legislative proposal contains the following: ",
+        "bbox": [
+            102,
+            399,
+            557,
+            416
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) the Proposed Regulations (at Annex A);   \n(b) a table of comments to provide your views and comments on the consultation paper (at Annex B). ",
+        "bbox": [
+            149,
+            434,
+            920,
+            497
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "VCC REGULATIONS ",
+        "bbox": [
+            734,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "13 ",
+        "bbox": [
+            887,
+            947,
+            905,
+            957
+        ],
+        "page_idx": 12
+    }
+]

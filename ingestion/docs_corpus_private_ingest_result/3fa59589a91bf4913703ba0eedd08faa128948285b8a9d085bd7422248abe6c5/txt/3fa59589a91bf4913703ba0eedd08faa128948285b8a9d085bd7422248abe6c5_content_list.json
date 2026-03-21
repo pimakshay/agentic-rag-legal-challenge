@@ -1,0 +1,3145 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            389,
+            361,
+            605,
+            409
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SECURITIES REGULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            223,
+            494,
+            774,
+            529
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Consolidated Version No. 2   \nIn force on 08 March 2024 ",
+        "bbox": [
+            332,
+            589,
+            665,
+            649
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            452,
+            78,
+            547,
+            92
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. INTRODUCTION.. ",
+        "bbox": [
+            92,
+            103,
+            890,
+            118
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 Application and Interpretation....   \n1.2 References to writing....... ",
+        "bbox": [
+            92,
+            119,
+            890,
+            147
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. REGISTRAR RULES.. ",
+        "text_level": 1,
+        "bbox": [
+            87,
+            161,
+            890,
+            174
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Application ..... ................................................................................................. ....1   \n2.2 Effectiveness of Filing Application .............................................................................................................. ....1   \n2.3 Approved Forms...........   \n2.4 Refusal to permit Filings . ....................................................................................... ...2   \n2.5 Delivery and file date and time stamp . ................................................................................................. .....2   \n2.6 Errors of the Filing Office Registrar... ....................................................................................................3   \n2.7 Refusal errors ..... ..................................................................................................3   \n2.8 Nature of Registrar's duties and responsibilities................................................................................................4   \n2.9 Search requests.. ...5   \n2.10 Electronic Filing ...... ................................................................................ ....5   \n2.11 Notices and notifications ... ................................................. .....5 ",
+        "bbox": [
+            90,
+            175,
+            892,
+            327
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 1 APPROVED FORMS.. ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            339,
+            889,
+            353
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 2 FEES ...... .. 21 ",
+        "bbox": [
+            89,
+            357,
+            889,
+            370
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            907,
+            57
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            494,
+            944,
+            504,
+            954
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Board of directors of the DIFC, in the exercise of the powers conferred on them by Part 12 of the Law of Security, hereby make these Regulations. ",
+        "bbox": [
+            92,
+            71,
+            907,
+            103
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. INTRODUCTION ",
+        "bbox": [
+            94,
+            112,
+            290,
+            128
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 Application and Interpretation ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            142,
+            379,
+            156
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 These Regulations (SR) apply to any person to whom the Law applies. ",
+        "bbox": [
+            90,
+            170,
+            630,
+            185
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 Defined terms are identified throughout these Regulations by the capitalisation of the initial letter of a word or phrase. Where capitalisation of the initial letter is not used, an expression has its natural meaning, subject to Regulation 1.1.4. ",
+        "bbox": [
+            92,
+            196,
+            905,
+            239
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/be0798bb34723736675d7dbaa51bf7b8a0959fd7df86fae5238d7c4401c92d72.jpg",
+        "table_caption": [
+            "1.1.3 The following defined terms have the meaning given below: "
+        ],
+        "table_footnote": [
+            "1.1.4 All other defined terms have the same meaning they have under the Security Law except where the context otherwise requires. "
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Defined Term</td><td rowspan=1 colspan=1>Definition</td></tr><tr><td rowspan=1 colspan=1>Approved Form</td><td rowspan=1 colspan=1>has the meaning set out in Regulation 2.3.2</td></tr><tr><td rowspan=1 colspan=1>Filing</td><td rowspan=1 colspan=1>a filing made or to be made with the Registrar</td></tr><tr><td rowspan=1 colspan=1>Law</td><td rowspan=1 colspan=1>Law of Security DIFC Law No. 4 of 2024</td></tr></table>",
+        "bbox": [
+            100,
+            274,
+            895,
+            378
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.5 The Rules of interpretation in the Law apply to these Regulations. ",
+        "bbox": [
+            92,
+            418,
+            600,
+            434
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 References to Writing ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            443,
+            314,
+            458
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 If a provision in these Regulations refers to a communication, notice, agreement of other document “in writing” then, unless the contrary intention appears, it means in legible form and capable of being reproduced on paper, irrespective of the medium used. Expressions related to writing must be interpreted accordingly. ",
+        "bbox": [
+            92,
+            472,
+            907,
+            514
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": ".2.2 Regulation 1.2.1 does not affect any other legal requirements which may apply in relation to the form or manner of executing a document or agreement. ",
+        "bbox": [
+            100,
+            526,
+            904,
+            554
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. REGISTRAR RULES ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            565,
+            317,
+            580
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Application ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            594,
+            242,
+            608
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 This Regulation 2 applies in respect of any matter in relation to which the Law or these Regulations prescribe a requirement to file a communication, including: ",
+        "bbox": [
+            90,
+            621,
+            905,
+            650
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) a registration statement; (b) an amendment to a registration statement; (c) a continuation statement; and (d) a termination statement. ",
+        "bbox": [
+            151,
+            662,
+            499,
+            760
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Effectiveness of Filing Application ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            774,
+            403,
+            789
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 A Filing is to be effected by submitting the relevant Approved Form prescribed pursuant to Regulation 2.3 with the Registrar. ",
+        "bbox": [
+            105,
+            802,
+            905,
+            831
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": ".2.2 Filings may be made in paper format. The Registrar may in his discretion allow Filings to be made by means of electronic communications, subject to Regulation 2.10. ",
+        "bbox": [
+            107,
+            841,
+            905,
+            870
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 A filer is responsible for ensuring a form or other communication is fully and accurately completed and submitted in accordance with the Law and these Regulations. ",
+        "bbox": [
+            99,
+            881,
+            905,
+            910
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            907,
+            57
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            494,
+            945,
+            504,
+            956
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Approved Forms ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            66,
+            278,
+            82
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Pursuant to Article 141 of the Law of Security, the DIFCA hereby promulgates the following forms: ",
+        "bbox": [
+            90,
+            93,
+            830,
+            109
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) Financing Statement (Form 1);   \n(b) Financing Statement Amendment – Encumbered Asset Change (Form 2); (c) Financing Statement Amendment – Encumbered Asset Restatement (Form 3); (d) Financing Statement Amendment (Form 4);   \n(e) Financing Statement Amendment – Party Details (Form 5);   \n(f) Correction Statement (Form 6); and   \n(g) Information Request (Form 7), ",
+        "bbox": [
+            151,
+            121,
+            744,
+            306
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "each as set out in Appendix 1, as amended from time to time. ",
+        "bbox": [
+            151,
+            318,
+            568,
+            332
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Each form promulgated under Regulation 2.3.1 and each form deemed by the Registrar, in his sole discretion, to be substantially similar to a form promulgated under Regulation 2.3.1, shall be an Approved Form. ",
+        "bbox": [
+            97,
+            344,
+            905,
+            373
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": ".3 In the event of any conflict between any instruction on any Approved Form and any provision in these Regulations or any provision in the Law, the provision in the Law or these Regulations shall prevail. ",
+        "bbox": [
+            115,
+            386,
+            905,
+            414
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.4 A filer must ensure that any Approved Form it submits to the Registrar is duly completed in full and in accordance with any instructions or notes to such Approved Form, and accompanied by such other supporting documents and fee payment as may be prescribed. ",
+        "bbox": [
+            92,
+            428,
+            907,
+            469
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Refusal to permit Filings ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            482,
+            334,
+            498
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 The Registrar may refuse to permit a Filing where, in his opinion, the communication submitted: ",
+        "bbox": [
+            90,
+            511,
+            805,
+            525
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) is not on an Approved Form;   \n(b) has not been correctly completed;   \n(c) is ambiguous, illegible or incomplete;   \n(d) is not suitable for the purposes of registration or Filing; or (e) is not accompanied by the fee prescribed by the Registrar for processing such communication. ",
+        "bbox": [
+            149,
+            537,
+            850,
+            665
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 The Registrar may treat any name, address, file number, or other matter as not having been provided in a communication if such name, address, file number, or other matter is not set out in the appropriate space provided on an Approved Form. ",
+        "bbox": [
+            89,
+            677,
+            907,
+            720
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.3 Nothing in this Regulation 2.4 shall be construed as prohibiting a filer from including an exhibit, schedule or other attachment that is not on an Approved Form as part of a communication, provided that the appropriate Approved Form is used as the first page of such written communication. ",
+        "bbox": [
+            92,
+            733,
+            907,
+            776
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Where practicable the Registrar must notify a filer of his refusal in writing within five business days of the day on which the Filing would otherwise have occurred under Regulation 2.5.4. ",
+        "bbox": [
+            137,
+            788,
+            904,
+            818
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A notification under Regulation 2.4.4 must include grounds for the refusal. ",
+        "bbox": [
+            147,
+            829,
+            658,
+            845
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Delivery and file date and time stamp ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            858,
+            425,
+            873
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Registrar will accept written communications for Filing, subject to the provisions in this Regulation 2.5. ",
+        "bbox": [
+            152,
+            885,
+            887,
+            901
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Registrar will accept written communications only during the regular business hours of the Security Registry. ",
+        "bbox": [
+            144,
+            914,
+            904,
+            929
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            907,
+            57
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            494,
+            945,
+            505,
+            956
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5.3 The Registrar will accept written communications only if communicated by one of the methods specified in Regulation 2.5.4. ",
+        "bbox": [
+            92,
+            66,
+            907,
+            96
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5.4 The file time for a communication: ",
+        "bbox": [
+            92,
+            108,
+            391,
+            123
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) delivered by personal delivery is when delivery of the communication is time stamped by the Registrar;   \n(b) delivered by courier delivery is when delivery of the communication is time stamped by the Registrar;   \n(c) delivered by postal service delivery is when delivery of the communication is presented to the Registrar; and   \n(d) delivered by an electronic means acceptable to the Registrar is the time the communication is first examined by the Registrar for processing. The Registrar shall time stamp a communication delivered by this method with the time of such first examination. ",
+        "bbox": [
+            149,
+            135,
+            905,
+            275
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5.5 Except as otherwise provided in these Regulations, the time and date of a financing statement, amendment, continuation statement or termination statement is the file time of the relevant communication submitting the relevant Approved Form. ",
+        "bbox": [
+            92,
+            288,
+            905,
+            331
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6 Errors of the Filing Office Registrar ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            343,
+            416,
+            359
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6.1 The Registrar may correct the errors of Security Registry personnel at any time. ",
+        "bbox": [
+            104,
+            372,
+            692,
+            387
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6.2 If a correction is made after the Registrar has issued a certification date, the Registrar shall file a statement which identifies: ",
+        "bbox": [
+            90,
+            400,
+            905,
+            428
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) the record to which it relates; (b) the date of the corrective action taken; and (c) the nature of, and grounds for, the corrective action taken. ",
+        "bbox": [
+            151,
+            441,
+            606,
+            513
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6.3 Corrective action under Regulation 2.6.2 may include: ",
+        "bbox": [
+            92,
+            525,
+            522,
+            541
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) rejection of a Filing with effect from the time of the Filing; (b) acceptance and time and date stamping of a Filing as at the time of the corrective action; and (c) notification to a Secured Creditor or Debtor (or agent of either such person) of his actions, ",
+        "bbox": [
+            151,
+            552,
+            842,
+            626
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "but may not include amending the effective time of a Filing. ",
+        "bbox": [
+            151,
+            637,
+            561,
+            652
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6.4 The Registrar shall notify each of the following of corrective action under this Regulation 2.6: ",
+        "bbox": [
+            85,
+            663,
+            789,
+            678
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) the filer of the relevant communication; (b) the filer of any communication relating to the same Debtor; and (c) any other person referred to in a communication under paragraph (a) or (b) above, ",
+        "bbox": [
+            152,
+            690,
+            769,
+            763
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "in writing within five business days of the day of the corrective action. ",
+        "bbox": [
+            151,
+            775,
+            630,
+            790
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6.5 A notification under Regulation 2.6.4 must include a copy of the statement filed pursuant to Regulation 2.6.2. ",
+        "bbox": [
+            89,
+            801,
+            894,
+            816
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": ".6.6 A statement filed pursuant to Regulation 2.6.2 shall be preserved as long as the record of the Filing to which it relates. ",
+        "bbox": [
+            110,
+            828,
+            904,
+            858
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.7 Refusal errors ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            870,
+            258,
+            885
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.7.1 If a Secured Creditor or a filer demonstrates to the satisfaction of the Registrar that a communication that was refused for Filing should have been filed, the Registrar will: ",
+        "bbox": [
+            89,
+            898,
+            907,
+            927
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            905,
+            57
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            494,
+            945,
+            505,
+            956
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) file the communication; and (b) file a statement which shall state the effective date and time of Filing of the communication. ",
+        "bbox": [
+            151,
+            65,
+            836,
+            110
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.7.2 The Filing date of a communication to which Regulation 2.7.1 applies which shall be the date and time the communication is accepted by the Registrar. Retroactive or back-dated Filings shall not be granted by the Registrar. ",
+        "bbox": [
+            94,
+            122,
+            904,
+            164
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.7.3 Requests for review under Regulation 2.7.1 must be presented to the Registrar, in writing, within 45 days of the date on the Registrar’s rejection notice. The communications submitted with the request for review must include: ",
+        "bbox": [
+            92,
+            177,
+            904,
+            205
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) the original rejected communication;   \n(b) the Registrar's rejection notice; and   \n(c) a written statement by the person requesting the review explaining why that person believes that the communication was wrongfully rejected. ",
+        "bbox": [
+            151,
+            218,
+            905,
+            304
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.7.4 The Registrar shall notify of corrective action under this Regulation 2.7: ",
+        "bbox": [
+            90,
+            317,
+            642,
+            332
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) the filer of the relevant communication; and (b) any other person referred to in the communication, in writing within five business days of the day of the corrective action. ",
+        "bbox": [
+            151,
+            344,
+            557,
+            388
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.7.5 A notification under Regulation 2.7.4 must include grounds for the original refusal by the Registrar. ",
+        "bbox": [
+            94,
+            426,
+            826,
+            442
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.8 Nature of Registrar's duties and responsibilities ",
+        "text_level": 1,
+        "bbox": [
+            85,
+            454,
+            497,
+            469
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": ".8.1 In accepting a communication for Filing (or in refusing to file a communication) the Registrar makes no determination, and creates no presumption, with respect to any of the following: ",
+        "bbox": [
+            107,
+            482,
+            904,
+            511
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) whether such communication is (or is not) legally sufficient;   \n(b) whether the information in such communication is (or is not) correct;   \n(c) whether the name of any person is (or is not) sufficiently provided in such communication;   \n(d) whether the Encumbered Asset is (or is not) properly or sufficiently described in such communication;   \n(e) whether any person, Encumbered Asset, obligation, Security Right or other transaction or interest of any kind does (or does not) exist;   \n(f) whether any person does (or does not) have title to, possession of, or any other rights in, any Encumbered Asset or other property of any kind;   \n(g) whether the Registrar is (or is not) a proper office for the Filing of such communication; or   \n(h) whether some other or additional Filing or act is (or is not) necessary to perfect, continue, terminate, assign, amend, give notice of, or otherwise affect any Security Right, lease, consignment, bailment, sale, or other lien or interest of any kind. ",
+        "bbox": [
+            149,
+            523,
+            907,
+            789
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.8.2 The name of a Debtor or Secured Creditor or other party will be recorded as such name appears on the record to be filed. The Registrar assumes no responsibility for the correct spelling of a name, and will enter the data in accordance with the filer's spelling. ",
+        "bbox": [
+            92,
+            802,
+            907,
+            845
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.8.3 Nothing in this Regulation 2.8 prevents the Registrar from communicating to a filer that the Registrar noticed an apparent or potential defect or error in a communication submitted for Filing. However, the Registrar is not required to search for any such defect or error, and the Registrar is not required to notify any filer or other person of any such defect or error, or otherwise to call any such defect or error to the attention of any filer or other person. ",
+        "bbox": [
+            92,
+            858,
+            905,
+            927
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            905,
+            57
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            494,
+            945,
+            504,
+            956
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.8.4 The responsibility for the legal effectiveness of a Filing rests with the filer. The Registrar bears no responsibility for such effectiveness. ",
+        "bbox": [
+            92,
+            66,
+            905,
+            93
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.8.5 The Registrar shall not be liable for any loss suffered by any person as a result of any act or omission by him or his officers, employees or agents in the performance or non-performance of his functions under the Law or these Regulations, provided that this Regulation shall not apply if the act or omission is shown to have been in bad faith. ",
+        "bbox": [
+            92,
+            108,
+            907,
+            164
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.9 Search requests ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            177,
+            270,
+            192
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.9.1 The Registrar will accept a search request only if such request is in an accepted form and is communicated to the Registrar by personal delivery, courier delivery, or postal service delivery. ",
+        "bbox": [
+            99,
+            205,
+            904,
+            233
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.9.2 A search request may include instructions on the mode of delivery desired, if other than by ordinary mail. Such delivery instruction will be honoured, provided that: ",
+        "bbox": [
+            90,
+            247,
+            904,
+            274
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) the requested mode of delivery is then made available by the Registrar; and (b) any additional cost associated with such delivery is paid for by the requestor in advance. ",
+        "bbox": [
+            152,
+            287,
+            811,
+            331
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.10 Electronic Filing ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            344,
+            277,
+            359
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.10.1 The Registrar may from time to time establish and make available for public use such electronic delivery method or methods as he may deem appropriate. ",
+        "bbox": [
+            94,
+            372,
+            905,
+            400
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.10.2 The Registrar may make and update Filing rules relating to the electronic Filing of communications made under the Law and these Regulations. Such rules may without limitation provide for: ",
+        "bbox": [
+            92,
+            413,
+            904,
+            442
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) requirements to be satisfied by applicants to participate in the electronic Filing of communications; (b) ongoing obligations associated with electronic Filing, including technical measures to ensure the security of electronic communications;   \n(c) powers to suspend or terminate electronic Filing rights;   \n(d) responsibilities and liabilities of a person undertaking electronic Filing; and   \n(e) responsibilities and liabilities of the Registrar in relation to electronic Filing. ",
+        "bbox": [
+            149,
+            455,
+            904,
+            596
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.10.3 Where a Filing is to be made by the use of an electronic communication, the form and method of transmission is to comply with the requirements of the Registrar. ",
+        "bbox": [
+            85,
+            608,
+            904,
+            637
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.10.4 The requirements pursuant to these Regulations that are applicable to the completion of forms to be submitted to the Registrar for Filing apply, with any necessary modification, to an electronic communication. ",
+        "bbox": [
+            90,
+            650,
+            904,
+            680
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.11 Notices and notifications ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            692,
+            332,
+            706
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.11.1 The Registrar shall publish and make available details of his address and facsimile number for the provision of written communications under these Regulations. ",
+        "bbox": [
+            92,
+            720,
+            905,
+            749
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.11.2 Where these Regulations prescribe a requirement or discretion on the Registrar to provide written notice or notification to a person, the Registrar may determine the means of transmission of such notice at its discretion. ",
+        "bbox": [
+            94,
+            762,
+            905,
+            791
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            905,
+            57
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            494,
+            945,
+            504,
+            956
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 1 APPROVED FORMS ",
+        "text_level": 1,
+        "bbox": [
+            418,
+            66,
+            579,
+            95
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "FINANCING STATEMENT (Form 1) ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            108,
+            369,
+            123
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "FOLLOW INSTRUCTIONS (front and back) CAREFULLY ",
+        "bbox": [
+            92,
+            135,
+            507,
+            151
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c57b7c47b9765a1caf391dd57dcb78a740405bc86dc923aa29df9f52272521c9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\" rowspan=\"1\">A. NAME &amp; PHONE OF CONTACT AT FILER [optional]</td><td colspan=\"2\" rowspan=\"2\">THE ABOVE SPACE IS FOR SECURITYREGISTRY USE ONLY</td></tr><tr><td colspan=\"3\" rowspan=\"1\">B. SEND ACKNOWLEDGEMENT TO: (Name and Address)</td></tr><tr><td colspan=\"5\" rowspan=\"1\">1. DEBTOR'S EXACT FULL LEGAL NAME  insert only one Debtor name (1a or 1b)  do not abbreviate or combinenames</td></tr><tr><td colspan=\"5\" rowspan=\"1\">1a. ORGANISATION'S NAME</td></tr><tr><td colspan=\"2\" rowspan=\"1\">1b. INDIVIDUAL'S LAST NAME</td><td colspan=\"1\" rowspan=\"1\">FIRST NAME</td><td colspan=\"1\" rowspan=\"1\">MIDDLE NAME</td><td colspan=\"1\" rowspan=\"1\">SUFFIX</td></tr><tr><td colspan=\"1\" rowspan=\"1\">1c. MAILINGADDRESS</td><td colspan=\"1\" rowspan=\"1\">CITY</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">COUNTRY</td></tr><tr><td colspan=\"1\" rowspan=\"1\">1d. ADDITIONALINFO REORGANISATIONDEBTOR</td><td colspan=\"1\" rowspan=\"1\">1e. TYPE OFORGANISATION</td><td colspan=\"1\" rowspan=\"1\">1f. JURISDICTIONOFORGANISATION</td><td colspan=\"2\" rowspan=\"1\">1g. ORGANISATIONAL ID#, if anyNONE</td></tr><tr><td colspan=\"5\" rowspan=\"1\">2. ADDITIONAL DEBTOR'S EXACT FULL LEGAL NAME  insert only one Debtor name (2a or 2b)  do notabbreviate or combine names</td></tr><tr><td colspan=\"5\" rowspan=\"1\">2a. ORGANISATION NAME</td></tr><tr><td colspan=\"2\" rowspan=\"1\">2b. INDIVIDUAL'S LAST NAME</td><td colspan=\"1\" rowspan=\"1\">FIRST NAME</td><td colspan=\"1\" rowspan=\"1\">MIDDLE NAME</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">2c. MAILINGADDRESS</td><td colspan=\"1\" rowspan=\"1\">CITY</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">COUNTRY</td></tr><tr><td colspan=\"1\" rowspan=\"1\">2d. SEEINSTRUCTIONS</td><td colspan=\"1\" rowspan=\"1\">ADD'L INFO REORGANISATIONDEBTOR</td><td colspan=\"1\" rowspan=\"1\">2e. TYPE OFORGANISATION</td><td colspan=\"1\" rowspan=\"1\">2f.JURISDICTIONOFORGANISATION</td><td colspan=\"1\" rowspan=\"1\">2g.ORGANISATIONALID, IF ANYNONE</td></tr><tr><td colspan=\"5\" rowspan=\"1\">3. SECURED CREDITOR'S NAME  insert only one Secured Creditor name (3a or 3b)</td></tr><tr><td colspan=\"5\" rowspan=\"1\">3a. ORGANISATION NAME</td></tr><tr><td colspan=\"1\" rowspan=\"1\">3b. INDIVIDUAL'SLAST NAME</td><td colspan=\"1\" rowspan=\"1\">FIRST NAME</td><td colspan=\"1\" rowspan=\"1\">MIDDLE NAME</td><td colspan=\"2\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">3c. MAILINGADDRESS</td><td colspan=\"1\" rowspan=\"1\">CITY</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">COUNTRY</td></tr><tr><td colspan=\"5\" rowspan=\"1\">4. ENCUMBERED ASSET COVERED BY THE FINANCING STATEMENT</td></tr><tr><td colspan=\"5\" rowspan=\"1\">4a. VALUE OF ENCUMBERED ASSET  insert the value of the Encumbered Asset in USD$</td></tr><tr><td colspan=\"5\" rowspan=\"1\">4 This FINANCING STATEMENT covers the following Encumbered Asset: - enter describtion of the EncumberedAsset</td></tr><tr><td colspan=\"5\" rowspan=\"1\">5. ADDITIONAL DOCUMENTS</td></tr><tr><td colspan=\"3\" rowspan=\"1\">5a. DESCRIPTION</td><td colspan=\"2\" rowspan=\"1\">5b. NUMBER OF PAGES</td></tr></table>",
+        "bbox": [
+            94,
+            155,
+            905,
+            919
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            905,
+            57
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            492,
+            946,
+            505,
+            957
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            668,
+            42,
+            907,
+            57
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            494,
+            945,
+            504,
+            956
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Instructions for Financing Statement (Form 1) ",
+        "text_level": 1,
+        "bbox": [
+            332,
+            66,
+            667,
+            80
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Please type or laser-print this form. Be sure it is completely legible. Read all instructions, especially instruction 1; correct Debtor name is crucial. Follow these instructions completely. ",
+        "bbox": [
+            97,
+            95,
+            904,
+            123
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fill in this form very carefully; mistakes may have important legal consequences. If you have questions, consult your legal advisor. The Security Registry cannot give legal advice. ",
+        "bbox": [
+            92,
+            136,
+            907,
+            164
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Do not insert anything in the open space in the upper portion of this form; it is reserved for Security Registry use. ",
+        "bbox": [
+            94,
+            177,
+            858,
+            192
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "When properly completed, send the Security Registry Copy, with required fee, to the Filing Office. Always detach the Debtor and Secured Creditor Copies. ",
+        "bbox": [
+            87,
+            205,
+            909,
+            234
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(A) To assist the Security Registry to communicate with filer, filer may provide information in Item A. This item is optional.   \n(B) Complete item B if you want an acknowledgement sent to you. ",
+        "bbox": [
+            87,
+            244,
+            905,
+            302
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1. Debtor name: Enter only one Debtor name in Item 1, an organisation's name (1a) or an individual's name (1b). enter Debtor's exact full legal name. Do not abbreviate. ",
+        "bbox": [
+            102,
+            331,
+            490,
+            391
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1a. Organisation Debtor: ‘Organisation’ means an entity having a legal identity separate from its owner. A partnership is an organisation; a sole proprietorship is not an organisation, even if it does business under a trade name. If the Debtor is a partnership, enter the exact full legal name of the partnership; you need not enter names of partners as additional Debtors. If the Debtor is a registered organisation (e.g. corporation, limited partnership, or limited liability company), it is advisable to examine the Debtor's correct name, organisation type, and jurisdiction of organisation. ",
+        "bbox": [
+            102,
+            407,
+            489,
+            575
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1b. Individual Debtor: ‘Individual’ means a natural person; this includes a sole proprietorship, whether or not operating under a trade name. Do not use prefixes (Mr., Mrs., Ms.). Enter the Individual Debtor's family name (surname) in the Last Name box, first given name in the First Name box, and all additional given names in the Middle Name box. ",
+        "bbox": [
+            104,
+            592,
+            489,
+            697
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For both organisations and individual Debtors: Do not use the Debtor's trade name, DBA, AKA, FKA, Division name, etc. In place of or combined with the Debtor's legal name; you may add such other names as additional Debtors if you wish (but this is neither required nor recommended). ",
+        "bbox": [
+            136,
+            712,
+            489,
+            793
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2. If an additional Debtor is included, complete Item 2, determined and formatted per Instruction 1. If further additional Debtors are included, add additional fields under Item 2, determiend and formatted per Instruction 1. ",
+        "bbox": [
+            505,
+            331,
+            914,
+            405
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3. Enter information for the Secured Creditor, determined and formatted per Instruction 1. If additional Secured Creditors are included, add additional fields under Item 2, determined and formatted per Instruction 1. ",
+        "bbox": [
+            504,
+            422,
+            914,
+            483
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4. Use Item 4 to specify the value of the Encumbered Asset covered by this Financing Statement and a description of the Encumbered Asset. ",
+        "bbox": [
+            504,
+            499,
+            914,
+            543
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5. Provide a description of each additional document submitted with Form 1. The Security Agreement related to the filing must be submitted and each document submitted must be be described individually ",
+        "bbox": [
+            504,
+            560,
+            915,
+            619
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            905,
+            57
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            494,
+            945,
+            504,
+            956
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "FINANCING STATEMENT AMENDMENT – ENCUMBERED ASSET CHANGE (Form 2) ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            66,
+            764,
+            80
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FOLLOW INSTRUCTIONS (front and back) CAREFULLY ",
+        "bbox": [
+            92,
+            95,
+            507,
+            109
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/a331af3a685c2b0c00e27a59692c9b69db66ad5a9586838adbca8efa172b7565.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=2>A. NAME &amp; PHONE OF CONTACT AT FILER [optional]</td><td rowspan=4 colspan=2>THE ABOVE SPACE IS FORSECURITY REGISTRY USE ONLY</td></tr><tr><td rowspan=1 colspan=2>B. SEND ACKNOWLEDGEMENT TO: (Name and Address)</td></tr><tr><td rowspan=1 colspan=2>1. CURRENT RECORD INFORMATION</td></tr><tr><td rowspan=1 colspan=2>1a. INITIAL FINANCING STATEMENT FILE#</td></tr><tr><td rowspan=1 colspan=4>1b. ORGANISATION&#x27;S NAME</td></tr><tr><td rowspan=1 colspan=1>1c. INDIVIDUAL&#x27;S LAST NAME</td><td rowspan=1 colspan=2>FIRST NAME</td><td rowspan=1 colspan=1>MIDDLE NAME</td></tr><tr><td rowspan=1 colspan=4>2. MISCELLANEOUS:</td></tr><tr><td rowspan=1 colspan=4>3a. VALUE OF ADDITIONAL ENCUMBERED ASSET  insert the value of the Encumbered Asset in USD</td></tr><tr><td rowspan=1 colspan=4>3b. ADDITIONAL ENCUMBERED ASSET DESCRIPTION</td></tr></table>",
+        "bbox": [
+            94,
+            117,
+            899,
+            751
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            907,
+            57
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            492,
+            945,
+            504,
+            956
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Instructions for Financing Statement Amendment - Encumbered Asset Change (Form 2) ",
+        "text_level": 1,
+        "bbox": [
+            178,
+            66,
+            820,
+            80
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Please type or laser-print this form. Be sure it is completely legible. Read all instructions, especially instruction 1; correct Debtor name is crucial. Follow instructions completely. ",
+        "bbox": [
+            102,
+            95,
+            904,
+            122
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fill in form very carefully; mistakes may have important legal consequences. If you have questions, consult your legal advisor. The Security Registry cannot give legal advice. ",
+        "bbox": [
+            94,
+            136,
+            905,
+            164
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Do not insert anything in the open space in the upper portion of this form; it is reserved for Security Registry use. ",
+        "bbox": [
+            94,
+            177,
+            858,
+            192
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "When properly completed, send the Security Registry copy, with the required fee, to the Filing Office. Always detach the Debtor and Secured Creditor copies. ",
+        "bbox": [
+            90,
+            205,
+            909,
+            234
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "If you need to add additional Debtors or Secured Creditors then you are advised to use the Financing Statement Amendment – Party Details (Form 5). ",
+        "bbox": [
+            92,
+            247,
+            904,
+            275
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1. File Number: Enter the file number of initial financing statement to which this amendment relates. Enter only one file number. ",
+        "bbox": [
+            102,
+            303,
+            504,
+            348
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3. Use Item 3 to specify the value of the additional Encumbered Asset covered by this Financing Statement and a description of the additional Encumbered Asset. ",
+        "bbox": [
+            507,
+            303,
+            890,
+            362
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Enter the Debtor information recorded in the initial financing statement in Item 1b if it is an organisation or 1c if the Debtor is an individual. ",
+        "bbox": [
+            137,
+            363,
+            489,
+            409
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2. Miscellaneous: Under certain circumstances, additional information not provided on the Financing Statement may be required. Use this space to provide such additional information; otherwise, leave blank. ",
+        "bbox": [
+            102,
+            424,
+            489,
+            499
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            905,
+            57
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            490,
+            945,
+            509,
+            956
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "FINANCING STATEMENT AMENDMENT $^ -$ ENCUMBERED ASSET RESTATEMENT (Form 3) ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            65,
+            818,
+            80
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "FOLLOW INSTRUCTIONS (front and back) CAREFULLY ",
+        "bbox": [
+            92,
+            93,
+            507,
+            109
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/1fe22c839043ea071a2a764affc3cfe21f665249d82fd21e234c54f16ae632c3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=3>A. NAME &amp; PHONE OF CONTACT AT FILER [optional]</td><td rowspan=4 colspan=2>THE  ABOVE  SPACE IS FORSECURITY REGISTRY USE ONLY</td></tr><tr><td rowspan=1 colspan=3>B. SEND ACKNOWLEDGEMENT TO: (Name and Address)</td></tr><tr><td rowspan=1 colspan=3>1. CURRENT RECORD INFORMATION</td></tr><tr><td rowspan=1 colspan=3>1a. INITIAL FINANCING STATEMENT FILE#</td></tr><tr><td rowspan=1 colspan=5>1b. ORGANISATION&#x27;S NAME</td></tr><tr><td rowspan=1 colspan=1>1c. INDIVIDUAL&#x27;S LAST NAME</td><td rowspan=1 colspan=3>FIRST NAME</td><td rowspan=1 colspan=1>MIDDLE NAME</td></tr><tr><td rowspan=1 colspan=5>2. NAME OF PARTY AUTHORISING THIS AMENDMENT.If this form is authorised by a Debtor, check here  Lor Secured Creditor check herel     and enter details below:</td></tr><tr><td rowspan=1 colspan=5>2a. ORGANISATION&#x27;S NAME</td></tr><tr><td rowspan=1 colspan=2>2b. INDIVIDUAL&#x27;S LAST NAME</td><td rowspan=1 colspan=2>FIRST NAME</td><td rowspan=1 colspan=1>MIDDLE        NAME,SUFFIX</td></tr><tr><td rowspan=1 colspan=5>3. RESTATED ENCUMBERED ASSET DESCRIPTION (provided there is no change in value)</td></tr></table>",
+        "bbox": [
+            92,
+            117,
+            899,
+            843
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            907,
+            57
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Instructions for Financing Statement Amendment – Encumbered Asset Restatement (Form 3) ",
+        "text_level": 1,
+        "bbox": [
+            157,
+            68,
+            835,
+            83
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Please type of laser-print this form. Be sure it is completely legible. Read all instructions, especially instruction 1; correct file number of initial financing statement is crucial. Follow these instructions completely. ",
+        "bbox": [
+            94,
+            96,
+            900,
+            124
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Fill in this form very carefully; mistakes may have important legal consequences. If you have questions, consult your legal advisor. The Security Registry cannot give legal advice. ",
+        "bbox": [
+            92,
+            137,
+            905,
+            166
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Do not insert anything in the open space in the upper portion of this form; it is reserved for Security Registry use. ",
+        "bbox": [
+            92,
+            179,
+            865,
+            193
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "When properly completed send the Security Registry Copy, with the required fee, to the Filing Office. Always detach the Debtor and Secured Creditor copies. ",
+        "bbox": [
+            92,
+            206,
+            902,
+            235
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1. File Number: Enter the file number of initial financing statement to which this amendment relates. Enter only one file number. ",
+        "bbox": [
+            102,
+            262,
+            489,
+            307
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Enter the Debtor information recorded in the initial financing statement in Item 1b if it is an organisation or 1c if the Debtor is an individual. ",
+        "bbox": [
+            161,
+            324,
+            489,
+            368
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3. ",
+        "bbox": [
+            504,
+            403,
+            517,
+            413
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2. Name of Authorising Party: Always enter name of party of record authorising this Amendment; in most cases, this will be a Secured Creditor of record. If more than one authorising party, give additional names, properly formatted. Complete either 2a or 2b. ",
+        "bbox": [
+            100,
+            385,
+            489,
+            475
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2a. Organisation Authorising Party ‘Organisation’ means an entity having a legal identity separate from its owner. A partnership is an organisation; a sole proprietorship is not an organisation, even if it does business under a trade name. If the Authorising Party is a partnership, enter exact full legal name of partnership; you need not enter names of partners. If the Authorising Party is a registered organisation (e.g. company, limited liability partnership, foundation), enter exact full legal name of the organisation. ",
+        "bbox": [
+            100,
+            491,
+            489,
+            659
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Individual Authorising Party ‘Individual’ means a natural person; this includes a sole proprietorship, whether or not operating under a trade name. Do not use prefixes (Mr., Mrs., Ms.). Enter individual Authorising Party's family name (surname) in Last Name box, first given name in First Name box, and all additional given names in Middle Name box. ",
+        "bbox": [
+            563,
+            263,
+            889,
+            385
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Use Item 3 to set out the Encumbered Asset description in full as it is to be effective after the filing of this amendment. There should be no change in value of the Encumbered Asset and check the box in Item 3 to confirm this. If there is a change in value of the Encumbered Asset, please complete Form 2. ",
+        "bbox": [
+            559,
+            401,
+            889,
+            508
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            905,
+            57
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "12 ",
+        "bbox": [
+            490,
+            945,
+            509,
+            956
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "FINANCING STATEMENT AMENDMENT (Form 4) ",
+        "text_level": 1,
+        "bbox": [
+            299,
+            66,
+            699,
+            80
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "FOLLOW INSTRUCTIONS (front and back) CAREFULLY ",
+        "bbox": [
+            90,
+            95,
+            507,
+            109
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/d896f921fbe6afe232427148546a8cb64c576bd42cf09450f0b4fffc938debf4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=2>A. NAME &amp; PHONE OF CONTACT AT FILER [optional]</td><td rowspan=4 colspan=2>THE ABOVE SPACE IS FORSECURITY REGISTRY USE ONLY</td></tr><tr><td rowspan=1 colspan=2>B. SEND ACKNOWLEDGEMENT TO: (Name and Address)</td></tr><tr><td rowspan=1 colspan=2>1. CURRENT RECORD INFORMATION</td></tr><tr><td rowspan=1 colspan=2>1a. INITIAL FINANCING STATEMENT FILE#</td></tr><tr><td rowspan=1 colspan=4>1b. ORGANISATION&#x27;S NAME</td></tr><tr><td rowspan=1 colspan=1>1c. INDIVIDUAL&#x27;S LAST NAME</td><td rowspan=1 colspan=2>FIRST NAME</td><td rowspan=1 colspan=1>MIDDLE NAME</td></tr><tr><td rowspan=1 colspan=4>2.  PARTIAL DELETION: Effectiveness of the Financing Statement identified above is partially deleted withrespect to Security Right(s) of the Secured Creditor authorising this Termination Statement.</td></tr><tr><td rowspan=1 colspan=4>3.  TERMINATION: Effectiveness of the Financing Statement identified above is completely terminated withrespect to Security Right(s) of the Secured Creditor authorising this Termination Statement.</td></tr><tr><td rowspan=1 colspan=4>4.  CONTINUATION: Effectiveness of the Financing Statement identified above with respect to SecurityRight(s) of the Secured Creditor authorising this Continuation Statement is continued for the additionalperiod provided by applicable law.</td></tr><tr><td rowspan=1 colspan=4>5. PARTIAL DELETION (ENCUMBERED ASSET CHANGE)</td></tr><tr><td rowspan=1 colspan=4>5a. VALUE OF ENCUMBERED ASSET PARTIALLLY DELETED  insert the value of the Encumbered Assetdeleted in USD$</td></tr><tr><td rowspan=1 colspan=4>5b. Restated Encumbered Asset description</td></tr><tr><td rowspan=1 colspan=4>6. NAME of PARTY of RECORD AUTHORISING THIS AMENDMENT. If this form is authorised by aDebtor, check here      or Secured Creditor check here    and enter details below</td></tr><tr><td rowspan=1 colspan=4>6a. ORGANISATION&#x27;S NAME</td></tr><tr><td rowspan=1 colspan=1>6b. INDIVIDUAL&#x27;S LAST NAME</td><td rowspan=1 colspan=2>FIRST NAME</td><td rowspan=1 colspan=1>MIDDLE NAME</td></tr><tr><td rowspan=1 colspan=4>8. OPTIONAL FILER REFERENCE DATA</td></tr><tr><td rowspan=1 colspan=4>9. ADDITIONAL DOCUMENTS</td></tr><tr><td rowspan=1 colspan=2>9a. DESCRIPTION</td><td rowspan=1 colspan=2>9b. NUMBER OF PAGES</td></tr></table>",
+        "bbox": [
+            94,
+            118,
+            899,
+            926
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            907,
+            57
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "13 ",
+        "bbox": [
+            490,
+            945,
+            509,
+            957
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            905,
+            57
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "14 ",
+        "bbox": [
+            490,
+            945,
+            509,
+            956
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Instructions for Financing Statement Amendment (Form 4) ",
+        "text_level": 1,
+        "bbox": [
+            287,
+            66,
+            710,
+            80
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Please type or laser-print this form. Be sure it is completely legible. Read all instructions, especially instruction 1a;   \ncorrect file number of initial financing statement is crucial. Follow these instructions completely. ",
+        "bbox": [
+            100,
+            95,
+            902,
+            123
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Fill in this form very carefully; mistakes may have important legal consequences. If you have questions, consult your legal advisor. The Security Registry cannot give legal advice. ",
+        "bbox": [
+            92,
+            136,
+            907,
+            164
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Do not insert anything in the open space in the upper portion of this form; it is reserved for Security Registry use. ",
+        "bbox": [
+            92,
+            177,
+            858,
+            192
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "An Amendment may relate to only one financing statement. Do not enter more than one file number in Item 1a. ",
+        "bbox": [
+            95,
+            205,
+            852,
+            219
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "When properly completed, send the Security Registry Copy, with the required fee, to the Filing Office. ",
+        "bbox": [
+            94,
+            234,
+            784,
+            248
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Always complete Items 1 and 6. ",
+        "bbox": [
+            94,
+            262,
+            312,
+            275
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(A) To assist the Security Registry to communicate with the filer, the filer may provide information in Item A. This item is optional.   \n(B) Complete Item B if you want an acknowledgement sent to you. ",
+        "bbox": [
+            94,
+            288,
+            872,
+            346
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "1. File Number: Enter file number in Item 1a of initial financing statement to which this form relates. Enter only one file number. ",
+        "bbox": [
+            102,
+            375,
+            489,
+            420
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Enter the Debtor information recorded in the initial financing statement in Item 1b if it is an organisation or 1c if the Debtor is an individual. ",
+        "bbox": [
+            136,
+            436,
+            489,
+            482
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Note: Show purpose of this Amendment by checking box 2, 3, or 4. Only 1 box may be ticked. ",
+        "bbox": [
+            100,
+            498,
+            489,
+            526
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "2. To partially delete the Encumbered Asset identified in the initial financing statement with respect to Security Right(s) of the Secured Creditor, check box 2. See instruction 5 and 6 below. ",
+        "bbox": [
+            100,
+            542,
+            489,
+            602
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "3. To completely terminate the effectiveness of the identified financing statement with respect to Security Right(s) of the Secured Creditor, check box 3. See instruction 6 below. ",
+        "bbox": [
+            100,
+            619,
+            489,
+            680
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4. To continue the effectiveness of the identified financing statement with respect to Security Right(s) of the Secured Creditor, check box 4. See instruction 6 below. ",
+        "bbox": [
+            100,
+            695,
+            490,
+            755
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "5. Partial deletion of Encumbered Asset specify the value of the Encumbered Asset to be deleted in 5a. and set out the Encumbered Asset description in full as it is to be effective after the filing of this amendment in 5b. ",
+        "bbox": [
+            504,
+            375,
+            890,
+            451
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6. Always enter name of party of record authorising this Amendment; in most cases, this will be a Secured Creditor of record. If more than one authorising party, give additional names, properly formatted. ",
+        "bbox": [
+            504,
+            468,
+            890,
+            543
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "7. Item 7 is optional and is for filer's use only. For filer's convenience of reference, filer may enter in Item 7 any identifying information (e.g., Secured Creditor's loan number, law firm file number, Debtor's name or other identification, etc.) that filer may find useful. ",
+        "bbox": [
+            505,
+            558,
+            890,
+            650
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "8. Provide a description of each additional document filed with Form 4 to evidence the partial deletion, termination or continuation. ",
+        "bbox": [
+            504,
+            667,
+            890,
+            711
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            905,
+            57
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "15 ",
+        "bbox": [
+            490,
+            945,
+            509,
+            956
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "FINANCE STATEMENT AMENDMENT – PARTY DETAILS (Form 5) ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            66,
+            621,
+            80
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "FOLLOW INSTRUCTIONS (front and back) CAREFULLY ",
+        "bbox": [
+            92,
+            93,
+            507,
+            109
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa2209ac198dd04e48f1ec1df319d49f59f043917496859f7f40efa7437b5cba.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=2>A. NAME &amp; PHONE OF CONTACT AT FILER [optional]</td><td rowspan=4 colspan=2>THE ABOVE SPACE IS FOR SECURITYREGISTRY USE ONLY</td></tr><tr><td rowspan=1 colspan=2>B. SEND ACKNOWLEDGEMENT TO: (Name and Address)</td></tr><tr><td rowspan=1 colspan=2>1. CURRENT RECORD INFORMATION</td></tr><tr><td rowspan=1 colspan=2>1a. INITIAL FINANCING STATEMENT FILE#</td></tr><tr><td rowspan=1 colspan=4>1b. ORGANISATION&#x27;S NAME</td></tr><tr><td rowspan=1 colspan=1>1c. INDIVIDUAL&#x27;S LAST NAME</td><td rowspan=1 colspan=2>FIRST NAME</td><td rowspan=1 colspan=1>MIDDLE NAME</td></tr></table>",
+        "bbox": [
+            92,
+            122,
+            927,
+            450
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "3. AMENDMENT: ",
+        "bbox": [
+            100,
+            444,
+            235,
+            456
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "This Amendment affects Debtor or Secured Creditor of record. (Select only one) ",
+        "bbox": [
+            102,
+            462,
+            729,
+            481
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Also check one of the following three boxes and provide appropriate information in Item 5 and/or 6. ",
+        "bbox": [
+            105,
+            519,
+            778,
+            535
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "CHANGE name and/or address. Please refer to the detailed instructions relating to changing the name/address of a party.M ",
+        "bbox": [
+            126,
+            548,
+            324,
+            617
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "DELETE name: Give record name to be deleted in Item 4a or 4b. ",
+        "bbox": [
+            373,
+            548,
+            601,
+            588
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "ADD name: Complete Item 4a or 4b, and also Item $_ { 4 \\mathrm { c } }$ ; also complete Items 4e-4g (if applicable). ",
+        "bbox": [
+            648,
+            548,
+            919,
+            589
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/8182ab146d2346dcb2ed889e297bc2f13c61758aee52b18b903b0b6ce2f8f245.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=6>3. CHANGED, DELETED OR ADDED (NEW) INFORMATION:</td></tr><tr><td rowspan=1 colspan=6>3a. ORGANISATION&#x27;S NAME</td></tr><tr><td rowspan=1 colspan=2>3b. INDIVIDUAL&#x27;S LAST NAME</td><td rowspan=1 colspan=2>FIRST NAME</td><td rowspan=1 colspan=1>MIDDLENAME</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3c. MAILINGADDRESS</td><td rowspan=1 colspan=1>CITY</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>COUNTRY</td></tr><tr><td rowspan=1 colspan=1>3d. ADD&#x27;L INOREORGANISATIONDEBTOR</td><td rowspan=1 colspan=1>3e. TYPE OFORGANISATION</td><td rowspan=1 colspan=1>3f. JURISDICTION OFORGANISATION</td><td rowspan=1 colspan=3>3g. ORGANISATIONAL id#, if anyNONE</td></tr></table>",
+        "bbox": [
+            94,
+            629,
+            927,
+            832
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            905,
+            57
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "16 ",
+        "bbox": [
+            490,
+            945,
+            509,
+            956
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Instructions for Financing Statement Amendment – Party Details (Form 5) ",
+        "text_level": 1,
+        "bbox": [
+            226,
+            66,
+            771,
+            82
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Please type or laser-print this form. Be sure it is completely legible. Read all instructions, especially instruction 1, correct file number of initial financing statement is crucial. Follow instructions completely. ",
+        "bbox": [
+            100,
+            95,
+            902,
+            123
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Fill in form very carefully; mistakes may have important legal consequences. If you have questions, consult your legal advisor. The Security Registry cannot give legal advice. ",
+        "bbox": [
+            92,
+            136,
+            905,
+            164
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Do not insert anything in the open space in the upper portion of this form; it is reserved for Security Registry use. ",
+        "bbox": [
+            92,
+            177,
+            860,
+            192
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "When properly completed, send the Security Registry copy, with the required fee, to the Filing Office. Always detach the Debtor and Secured Creditor copies. ",
+        "bbox": [
+            87,
+            205,
+            907,
+            234
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "A. To assist the Security Registry to communicate with filer, filer may provide information in Item A. This item is optional.   \nB. Complete Item B if you want an acknowledgment sent to you. ",
+        "bbox": [
+            92,
+            247,
+            904,
+            304
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1. File Number: Enter file number in Item 1a of initial financing statement to which this form relates. Enter only one file number. ",
+        "bbox": [
+            100,
+            334,
+            492,
+            378
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Enter the Debtor information recorded in the initial financing statement in Item 1b if it is an organisation or 1c if the Debtor is an individual. ",
+        "bbox": [
+            134,
+            394,
+            492,
+            438
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2. In Item 2, you must check the box to indicate whether this Amendment relates to the Debtor or a Secured Creditor. You must then check the relevant box to indicate the nature of the change as set out below: ",
+        "bbox": [
+            100,
+            455,
+            492,
+            516
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(a) To change name and/or address of a party: ",
+        "bbox": [
+            129,
+            531,
+            450,
+            545
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(i) Change the name of a party: Check the relevant box in Item 2 to indicate that this is a name change; and enter new name in Item 3a, or 3b. If the new name refers to a Debtor, complete 3c; also complete $3 \\mathrm { e } \\mathrm { ~ - ~ } 3 \\mathrm { g }$ , if the Debtor is an organisation (and 3a was completed). ",
+        "bbox": [
+            157,
+            560,
+            492,
+            667
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(ii) Change only the address of a party: Check the relevant box in Item 2 to indicate that this is an address change as appropriate; and enter new address (3c.) in Item 3. ",
+        "bbox": [
+            154,
+            683,
+            492,
+            744
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(iii) Change the name and address of a party: Check the relevant box in Item 2 to indicate that this is a name and address change, and enter the new name (3a. or 3b). If the new name refers to a Debtor complete Item 3; as well as Items 3e - 3g. ",
+        "bbox": [
+            552,
+            334,
+            897,
+            424
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(b) To delete a party: Check the relevant box in Item 2 to indicate that this is a deletion of a party; and also enter the name (in 3a or 3b) of the deleted party in Item 3. ",
+        "bbox": [
+            509,
+            441,
+            895,
+            500
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(c) To add a party: Check the relevant box in Item 3 to indicate that this is an addition of a party and enter the new name (3a or 3b). If the new name refers to a Debtor, complete Item 3c; also complete 3e-3g, if the Debtor is an organisation (and 3a was completed). ",
+        "bbox": [
+            510,
+            517,
+            897,
+            607
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "3. For each additional change to a single party, file a new Form 5 along with the applicable fee. ",
+        "bbox": [
+            510,
+            624,
+            895,
+            653
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            905,
+            57
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "CORRECTION STATEMENT (FORM 6) ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            66,
+            401,
+            80
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "FOLLOW INSTRUCTIONS (front and back) CAREFULLY ",
+        "bbox": [
+            92,
+            93,
+            507,
+            109
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/bd15139f1ec06ff8ea9c0531a9e262ea38ab686f990210838429735340a152df.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>A. NAME &amp; PHONE OF PERSON FILING THIS STATEMENT [optional]</td><td></td></tr><tr><td>B. SEND ACKNOWLEDGEMENT TO: (Name and Address)</td><td></td></tr><tr><td></td><td>THE ABOVE SPACE IS FOR SECURITY REGISTRAR USE ONLY</td></tr></table>",
+        "bbox": [
+            94,
+            121,
+            946,
+            348
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "1. Identification of the RECORD to which this CORRECTION STATEMENT relates. ",
+        "bbox": [
+            92,
+            374,
+            677,
+            388
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/d98309f4fc515d423b9cb1380c95114ad06a5325dad3d033d6839751e8e5a997.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">1a. TYPE OF RECORD</td><td>1b. FILE # OF INITIAL FINANCING STATEMENT</td></tr><tr><td rowspan=\"2\">2a. </td><td colspan=\"2\">RECORD is inaccurate. Provide the basis for the basis for the belief of the person identified in Item 3 that the RECORD identified in Item 1 is inaccurate and indicate the manner in which the person believes the RECORD should be amended to cure the inaccuracy.</td></tr><tr><td colspan=\"2\">RECORD was wrongfully filed or rejected.</td></tr><tr><td colspan=\"2\">2b. 0 in Item 1 was wrongfully filed or rejected.</td><td>Provide the basis for the basis for the belief of the person identified in Item 3 that the RECORD identified</td></tr></table>",
+        "bbox": [
+            94,
+            400,
+            907,
+            714
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "3. NAME OF PERSON AUTHORISING THE FILING OF THIS CORRECTION STATEMENT – The RECORD identified in Item 1 must be indexed under this name. ",
+        "bbox": [
+            90,
+            741,
+            872,
+            771
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/c4c458c4655e1f32b5186b3d7ef28ea6235471af7ac728eab3aefd65af457fcc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">3a. ORGANISATION&#x27;S NAME</td></tr><tr><td>3b. INDIVIDUAL&#x27;S LAST NAME</td><td>FIRST NAME</td><td>MIDDLE NAME</td></tr></table>",
+        "bbox": [
+            92,
+            782,
+            905,
+            862
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            905,
+            57
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "18 ",
+        "bbox": [
+            490,
+            945,
+            509,
+            956
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Instructions for Correction Statement (Form 6) ",
+        "text_level": 1,
+        "bbox": [
+            329,
+            66,
+            670,
+            80
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Please type or laser-print this form. Be sure it is completely legible. Read all instructions, especially instructions 1a and 1b; correct identification of the initial Record to which this Correction Statement relates is crucial. Follow these instructions completely. ",
+        "bbox": [
+            94,
+            95,
+            905,
+            136
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Fill in this form very carefully. If you have questions, consult your legal advisor. The Security Registry cannot give legal advice. ",
+        "bbox": [
+            92,
+            149,
+            904,
+            177
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Do not insert anything in the open space in the upper portion of this form; it is reserved for Security Registry use. ",
+        "bbox": [
+            90,
+            191,
+            860,
+            205
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "When properly completed, send the Security Registry Copy to the Filing Office. If you want an acknowledgement, complete Item B. ",
+        "bbox": [
+            87,
+            218,
+            870,
+            247
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "General – You must always complete Items 1 and 3 and either Item 2a or 2b ",
+        "bbox": [
+            102,
+            277,
+            482,
+            305
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "1a. Indicate type of Record to which this Correction Statement relates (e.g., Financing Statement or Amendment). You may also insert additional information that you believe will assist in identifying the Record (e.g., the filing date and/or record number of the Record). ",
+        "bbox": [
+            102,
+            322,
+            490,
+            413
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "1b. File number: Enter file number of initial financing statement to which the Record that is the object of this Correction Statement relates. Enter only one file number. ",
+        "bbox": [
+            102,
+            430,
+            492,
+            489
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "2a. If this Correction Statement is filed based on the filer's belief that the Record identified in Item 1 is inaccurate, check box 2a, provide the basis for that belief, and indicate the manner in which the Record should be amended to cure the inaccuracy. ",
+        "bbox": [
+            509,
+            278,
+            897,
+            353
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "2b. If this Correction Statement is filed based on the filer's belief that the Record identified in Item 1 was wrongfully filed or rejected, check box 2b and provide the basis for that belief. ",
+        "bbox": [
+            510,
+            369,
+            897,
+            429
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3. Always enter name of the person who authorised the filing of this Correction Statement. This name must be the same as the name under which the Record is indexed. ",
+        "bbox": [
+            510,
+            445,
+            897,
+            505
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            905,
+            57
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "19 ",
+        "bbox": [
+            490,
+            945,
+            509,
+            956
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "INFORMATION REQUEST (FORM 7) ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            66,
+            383,
+            80
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "FOLLOW INSTRUCTIONS (front and back) CAREFULLY ",
+        "bbox": [
+            92,
+            95,
+            507,
+            109
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/8e58f9aeec282f8335910af2cc2d7c12413732f5496767adc4ed1390b30fa075.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>A. NAME &amp; PHONE OF CONTACT [optional]</td><td>SECURITY REGISTRY ACCT #</td><td rowspan=\"2\">THE ABOVE SPACE IS FOR</td></tr><tr><td>B. RETURN TO: (Name and Address)</td><td>SECURITY REGISTRY USE</td></tr></table>",
+        "bbox": [
+            92,
+            121,
+            905,
+            275
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "1. DEBTOR NAME to be searched – insert only one Debtor name (1a or 1b) – do not abbreviate or combine names. ",
+        "bbox": [
+            94,
+            304,
+            880,
+            318
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "1a. ORGANISATION NAME ",
+        "bbox": [
+            102,
+            321,
+            314,
+            332
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/b9f3620d8dfbfe31833e2fbc0f570978292e9edbb63a2c91ed4e84ced0f88308.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>1b. INDIVIDUAL&#x27;S LAST NAME</td><td>FIRST NAME</td><td>MIDDLE NAME</td></tr></table>",
+        "bbox": [
+            99,
+            343,
+            902,
+            380
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "2. Information options RELATING TO filings and other notices on file in the Security Registry that include as a Debtor name the name identified in Item 1: ",
+        "bbox": [
+            97,
+            381,
+            885,
+            406
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "2a. SEARCH RESPONSE ",
+        "bbox": [
+            102,
+            414,
+            284,
+            428
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Select one of the following two options: ",
+        "bbox": [
+            104,
+            430,
+            369,
+            444
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "ALL (Check this box to request a response that is complete, including filings that have lapsed.) ",
+        "bbox": [
+            445,
+            413,
+            852,
+            441
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "UNLAPSED ",
+        "text_level": 1,
+        "bbox": [
+            447,
+            447,
+            534,
+            460
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "2b. SPECIFIED COPIES ONLY ",
+        "bbox": [
+            102,
+            467,
+            361,
+            481
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Copies of specific records by record number identified below ",
+        "bbox": [
+            448,
+            468,
+            863,
+            481
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/b1ddf89c0b15bad9d76033711ab99cebdbd95052438af4c17b454bbecf0e067b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Record Number</td><td rowspan=1 colspan=1>Date Record Filed (if required)</td><td rowspan=1 colspan=1>Type of Record and Additionalidentifying Information (ifrequired)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            94,
+            495,
+            904,
+            633
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3 DELIVERY INSTRUCTIONS (request will be completed and mailed to the address shown in Item B unless otherwise instructed here): ",
+        "bbox": [
+            99,
+            636,
+            858,
+            664
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e25164839c3174ef71a082175fd2fef38c2c29995f9be5f46c4cd06e4d2ef4f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Specify desired method here; provide delivery information (e.g. delivery service&#x27;s name, addressee&#x27;s account # with delivery service, addressee&#x27;s phone #, etc.)</td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            99,
+            711,
+            904,
+            789
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            905,
+            57
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "20 ",
+        "bbox": [
+            489,
+            945,
+            509,
+            956
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Instructions Information Request (Form 7) ",
+        "text_level": 1,
+        "bbox": [
+            344,
+            66,
+            655,
+            80
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Please type or laser-print this form. Be sure it is completely legible. Follow these instructions completely. ",
+        "bbox": [
+            94,
+            93,
+            813,
+            109
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Fill in form very carefully; mistakes may have important legal consequences. If you have questions, consult your legal advisor. The Security Registry cannot give legal advice. ",
+        "bbox": [
+            92,
+            122,
+            904,
+            151
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Do not insert anything in the open space in the upper portion of this form; it is reserved for Security Registry use. ",
+        "bbox": [
+            94,
+            164,
+            858,
+            178
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "When properly completed, send, with the required fee, to the Filing Office. ",
+        "bbox": [
+            94,
+            192,
+            600,
+            206
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(A) To assist the filing officers that might wish to communicate with the requestor, the requestor may provide information in Item A. This Item is optional.   \n(B) Enter name and address of requestor in Item B. This item is NOT optional. ",
+        "bbox": [
+            94,
+            219,
+            867,
+            277
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "1. Debtor Name: Enter only one Debtor name in Item 1, an organisation's name (1a) or an individual's name (1b). Enter the Debtor's exact full legal name. Do not abbreviate. ",
+        "bbox": [
+            100,
+            306,
+            487,
+            366
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "1a. Organisation Debtor: \"Organisation\" means an entity having a legal identity separate from its owner. A partnership is an organisation; a sole proprietorship is not an organisation, even if it does business under a trade name. If the Debtor is a partnership, enter the exact full legal name of the partnership; you need not enter names of partners as additional Debtors. If Debtor is a registered organisation (e.g. corporation, limited partnership, limited liability company), it is advisable to examine the Debtor's current filed charter documents to determine the Debtor's correct name, organisation type, and jurisdiction of organisation. ",
+        "bbox": [
+            102,
+            382,
+            492,
+            581
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "1b. Individual Debtor. ‘Individual’ means a natural person, this includes a sole proprietorship, whether or not operating under a trade name. Do not use prefixes (Mr., Mrs., Ms.). Enter the Individual Debtor's family name (surname) in the Last Name box, first given name in the First Name box, and all additional given names in the Middle Name box. ",
+        "bbox": [
+            102,
+            598,
+            490,
+            703
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "1c. For both organization and individual Debtors: Do not use the Debtor's trade name, division name, etc. in place of or combined with the Debtor's legal name. You may add such other names as additional Debtors if you wish (but this is neither required nor recommended). ",
+        "bbox": [
+            102,
+            720,
+            492,
+            810
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "2. Information options relating to filings and other notices on file in the Security Registry that include as a Debtor name the name identified in Item 1: Please note that it is permissible to select an option in 2a and also check an option in 2b. ",
+        "bbox": [
+            510,
+            306,
+            895,
+            381
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "2a. Check the appropriate box in Item 2a. Check the box ‘ALL’ if you are requesting a search of all records, including lapsed filings, or the box ‘UNLAPSED’ if you are requesting a search of only active records that have not lapsed. ",
+        "bbox": [
+            510,
+            398,
+            895,
+            473
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "2b. Complete Item 2b if you are ordering copies of specific records by record number. Please complete the information in the table regarding each specific record requested. ",
+        "bbox": [
+            509,
+            489,
+            895,
+            549
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "3. Delivery instructions: Unless otherwise instructed, the Security Registry will mail information to the name and address in Item B. If information will be picked up from the Filing Office, check the \"Pick Up\" box. Contact the Security Registry concerning availability of other delivery options. For other than mail or pick up, check the ‘Other’ box and specify the other delivery method you are requesting. If requesting delivery service, provide delivery service's name and requestor's account number to bill for delivery charge. The Security Registry will not deliver by delivery service unless payment is provided. ",
+        "bbox": [
+            512,
+            565,
+            895,
+            764
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            905,
+            57
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "21 ",
+        "bbox": [
+            489,
+            945,
+            507,
+            956
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 2 FEES ",
+        "text_level": 1,
+        "bbox": [
+            447,
+            66,
+            549,
+            93
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Pursuant to Article 141 of the Law and Section 2.3.4. of the Regulations, the DIFCA hereby promulgates the following fees, as amended from time to time: ",
+        "bbox": [
+            90,
+            108,
+            895,
+            136
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/ec877bffbffafab23b805f729a7a3030f5991c0c1a54c420cc26c3c600739d6b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Upon receipt by the Registrar of:</td><td rowspan=1 colspan=1>Fee (USD):</td></tr><tr><td rowspan=1 colspan=1>Financing Statement (Form 1)</td><td rowspan=1 colspan=1>$5,000</td></tr><tr><td rowspan=1 colspan=1>Financing Statement  Encumbered Asset change (Form To amend Encumbered Asset where there is a change in2</td><td rowspan=1 colspan=1>Financing Statement  Encumbered Asset change (Form To amend Encumbered Asset where there is a change invalueUS$ 2,500</td></tr><tr><td rowspan=1 colspan=1>Financing Statement Amendment  Encumbered AssetRestatement (Form 3)</td><td rowspan=1 colspan=1>To amend Encumbered Asset, provided there is nochange in value: US$ 200</td></tr><tr><td rowspan=1 colspan=1>Financing Statement Amendment (Form 4 )</td><td rowspan=1 colspan=1>To partially delete Encumbered Asset: $250;To fully terminate Encumbered Asset: $250;To continue Encumbered Asset: $1,000</td></tr><tr><td rowspan=1 colspan=1>Finance Statement AmendmentParty Details (Form 5)</td><td rowspan=1 colspan=1>To add or delete a single Party: $200To change the details of a single Party: $200</td></tr><tr><td rowspan=1 colspan=1>Correction Statement (Form 6)</td><td rowspan=1 colspan=1>To file a correction: $200</td></tr><tr><td rowspan=1 colspan=1>Information Request (Form 7)</td><td rowspan=1 colspan=1>For the provision of an extract of information from theSecurity Register: $50.</td></tr></table>",
+        "bbox": [
+            87,
+            148,
+            894,
+            561
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "SECURITY REGULATIONS ",
+        "bbox": [
+            670,
+            42,
+            907,
+            57
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "22 ",
+        "bbox": [
+            489,
+            945,
+            509,
+            956
+        ],
+        "page_idx": 23
+    }
+]

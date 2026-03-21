@@ -1,0 +1,812 @@
+{
+    "0": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "Dematerialised Investments Regulations ",
+        "level": 1
+    },
+    "1": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "(DIR) ",
+        "level": 1
+    },
+    "2": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "COR/CP/265/08-04 ",
+        "level": 3
+    },
+    "3": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "1 ",
+        "level": 5
+    },
+    "4": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Contents ",
+        "level": 2
+    },
+    "5": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "The contents of this module are divided into the following Chapters and Sections: ",
+        "level": 4
+    },
+    "6": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "INTRODUCTION. 3 ",
+        "level": 3
+    },
+    "7": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "1.1 Application and interpretation . . 3   \n1.2 References to writing.. . 4   \n1.3 General Interpretative Provisions.. . 4   \n2 Issue of Uncertificated Investments and Dematerialisation . 6   \n2.1 Issue of Uncertificated Investments. 6   \n2.2 Dematerialisation of Investments. . 6   \n2.3 Conditions to issue of Uncertificated Investments and Dematerialisation 6   \n2.4 Procedure for Dematerialisation of Investments . . 7   \n3 Registration of Uncertificated Investments. 8   \n3.1 Keeping of registers and records.. . 8   \n3.2 Availability of registers and records . 8   \n4 Effect of Dematerialisation . 10   \n4.1 Effect of entries on registers. . 10   \n4.2 Substitution of Tangible Documentary Requirements . . 10   \n4.3 Instructions to transfer Uncertificated Investments.. .. 11   \n4.4 No Certificates of Title in respect of Uncertificated Investments. . 11   \n4.5 Liability and sanctions in respect of registers and records . .. 11 ",
+        "level": 4
+    },
+    "8": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "5 Rematerialisation . 12 ",
+        "level": 3
+    },
+    "9": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "5.1 Rematerialisation of Investments.. . 12   \n5.2 Conditions to Rematerialisation . . 12   \n5.3 Procedure for Rematerialisation of Investments . 12 ",
+        "level": 4
+    },
+    "10": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "DIFC ",
+        "level": 5
+    },
+    "11": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2 ",
+        "level": 5
+    },
+    "12": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "DEMATERIALISED INVESTMENTS REGULATIONS (DIR) ",
+        "level": 1
+    },
+    "13": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "The Board of Directors of the DIFCA, in the exercise of the powers conferred on them by Article 116 of the Companies Law and Article 43 of the Personal Property Law, hereby make these Regulations. ",
+        "level": 4
+    },
+    "14": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1 INTRODUCTION ",
+        "level": 2
+    },
+    "15": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1 Application and interpretation ",
+        "level": 3
+    },
+    "16": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1.1 These Regulations (DIR) apply to: ",
+        "level": 4
+    },
+    "17": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "(a) a Company incorporated under the Companies Law, a Foreign Company and any other Issuer of Investments which are or are to be held in Uncertificated form;   \n(b) the Registrar of Companies; and   \n(c) any other person to whom the Companies Law applies. ",
+        "level": 5
+    },
+    "18": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1.2 Defined terms are identified throughout these Regulations by the capitalisation of the initial letter of a word or phrase. Where capitalisation of the initial letter is not used, an expression has its natural meaning, subject to Regulation 1.1.4. ",
+        "level": 5
+    },
+    "19": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1.3 The following defined terms have the meaning given below: ",
+        "level": 4
+    },
+    "20": {
+        "type": "table",
+        "page_idx": 2,
+        "text": "<table><tr><td colspan=\"1\" rowspan=\"1\">Term</td><td colspan=\"1\" rowspan=\"1\">Definition</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Authorised Firm</td><td colspan=\"1\" rowspan=\"1\">has the meaning set out in the RegulatoryLaw</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Authorised Market Institution</td><td colspan=\"1\" rowspan=\"1\">has the meaning set out in the RegulatoryLaw</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Certificate of Title</td><td colspan=\"1\" rowspan=\"1\">a certificate in tangible form evidencing titleto an Investment</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Companies Law</td><td colspan=\"1\" rowspan=\"1\">the Companies Law 2004 of the DIFC</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Companies Regulations</td><td colspan=\"1\" rowspan=\"1\">the Companies Regulations 2005 of theDIFC</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Investment</td><td colspan=\"1\" rowspan=\"1\">has the meaning set out in the Markets Law</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Issuer</td><td colspan=\"1\" rowspan=\"1\">a person issuing or intending to issueInvestments</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Markets Law</td><td colspan=\"1\" rowspan=\"1\">the Markets Law 2004 of the DIFC</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Regulations</td><td colspan=\"1\" rowspan=\"1\">these Dematerialised InvestmentsRegulations</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Regulatory Law</td><td colspan=\"1\" rowspan=\"1\">the Regulatory Law 2004 of the DIFC</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Tangible DocumentaryRequirement</td><td colspan=\"1\" rowspan=\"1\">has the meaning set out in Regulation 4.2.1</td></tr><tr><td>Terms of Issue</td><td>the terms of issue of an Investment, including the terms prescribed by the Issuer on which the Investment is held and title to it is transferred</td></tr><tr><td>Uncertificated</td><td>in relation to an Investment, means that title to the Investment is recorded on the relevant register without issue of a Certificate of Title; and \"Certificated\", in relation to an Investment, means that the Investment is not Uncertificated</td></tr></table>",
+        "level": 5
+    },
+    "21": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "DIFC ",
+        "level": 5
+    },
+    "22": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "3 ",
+        "level": 5
+    },
+    "23": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "DEMATERIALISED INVESTMENTS REGULATIONS (DIR) ",
+        "level": 1
+    },
+    "24": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "1.1.4 All other defined terms have the same meaning they have under the Companies Law except where the context otherwise requires. ",
+        "level": 4
+    },
+    "25": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "1.2 References to writing ",
+        "level": 3
+    },
+    "26": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "1.2.1 If a provision in these Regulations refers to a communication, notice, agreement or other document ‘in writing’ then, unless the contrary intention appears, it means in legible form and capable of being reproduced on paper, irrespective of the medium used. Expressions related to writing must be interpreted accordingly. ",
+        "level": 4
+    },
+    "27": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "1.2.2 Regulation 1.2.1 does not affect any other legal requirements which may apply in relation to the form or manner of executing a document or agreement. ",
+        "level": 4
+    },
+    "28": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "1.3 General Interpretative Provisions ",
+        "level": 3
+    },
+    "29": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "1.3.1 Where reference is made in the Regulations to a statutory provision, it is a reference to the provision as amended, and includes a reference to that provision as extended or applied by or under any other provision, unless the contrary intention appears. ",
+        "level": 4
+    },
+    "30": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "1.3.2 Unless the contrary intention appears: ",
+        "level": 4
+    },
+    "31": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(a) words in the Regulations importing the masculine gender include the feminine and vice versa;   \n(b) words in the Regulations in the singular include the plural and words in the plural include the singular; and   \n(c) references to Chapters, Sections or Regulations are to Chapters, Sections or Regulations of these Regulations. ",
+        "level": 5
+    },
+    "32": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "DIFC ",
+        "level": 5
+    },
+    "33": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "DEMATERIALISED INVESTMENTS REGULATIONS (DIR) ",
+        "level": 1
+    },
+    "34": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "4 ",
+        "level": 5
+    },
+    "35": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "1.3.3 A reference in the Regulations to the masculine gender includes the feminine and vice versa. ",
+        "level": 4
+    },
+    "36": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "5 ",
+        "level": 5
+    },
+    "37": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "DEMATERIALISED INVESTMENTS REGULATIONS (DIR) ",
+        "level": 1
+    },
+    "38": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "DIFC ",
+        "level": 5
+    },
+    "39": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "2 Issue of Uncertificated Investments and Dematerialisation ",
+        "level": 2
+    },
+    "40": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "2.1 Issue of Uncertificated Investments ",
+        "level": 3
+    },
+    "41": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "Subject to Section 2.3, where an Issuer permits the issue, registration and transfer of an Investment issued by it in Uncertificated form such Investments may be issued in Uncertificated form in accordance with these Regulations. ",
+        "level": 4
+    },
+    "42": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "2.2 Dematerialisation of Investments ",
+        "level": 3
+    },
+    "43": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "Subject to Section 2.3, where an Issuer permits the registration and transfer of a class of its existing Certificated Investments in Uncertificated form, such Investments may be converted from Certificated form into Uncertificated form in accordance with these Regulations. ",
+        "level": 4
+    },
+    "44": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "2.3 Conditions to issue of Uncertificated Investments and Dematerialisation ",
+        "level": 3
+    },
+    "45": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "2.3.1 In relation to any Investment, if the law under which it or its Issuer is constituted or the Terms of Issue are in any respect inconsistent with: ",
+        "level": 4
+    },
+    "46": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(a) in the case of the issue of Investments in Uncertificated form, the issue of that Investment in Uncertificated form; or   \n(b) the registration or transfer of title to that Investment in Uncertificated form; or   \n(c) these Regulations ",
+        "level": 5
+    },
+    "47": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "the Issuer of that Investment must not permit the holding of, or transfer of title to, that Investment in Uncertificated form. ",
+        "level": 5
+    },
+    "48": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "2.3.2 For the purposes of Regulation 2.3.1, the Terms of Issue of an Investment include the terms prescribed by the Issuer on which the Investment is held and title to it is transferred. ",
+        "level": 4
+    },
+    "49": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "2.3.3 Where Investments are issued in or converted into Uncertificated form, all Investments of the relevant class must be held in Uncertificated form. This Regulation is without prejudice to the right of the Issuer subsequently to convert Uncertificated Investments to Certificated form under Chapter 5. ",
+        "level": 4
+    },
+    "50": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "DIFC ",
+        "level": 5
+    },
+    "51": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "6 ",
+        "level": 5
+    },
+    "52": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "DEMATERIALISED INVESTMENTS REGULATIONS (DIR) ",
+        "level": 1
+    },
+    "53": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "2.3.4 Bearer Investments may not be converted into Uncertificated form. ",
+        "level": 4
+    },
+    "54": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "2.4 Procedure for Dematerialisation of Investments ",
+        "level": 3
+    },
+    "55": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "2.4.1 Prior to the conversion of Investments into Uncertificated form, an Issuer must: ",
+        "level": 4
+    },
+    "56": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) if it is a Company, obtain consent of the majority of the holders of the existing Investments which the Issuer proposes to convert into Uncertificated form; and   \n(b) comply with any other requirements of applicable law and regulation and the Terms of Issue applicable to the Issuer or the Investments relating to the conversion of Investments into Uncertificated form. ",
+        "level": 5
+    },
+    "57": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "2.4.2 Conversion of Investments into Uncertificated form is effective on the later of the fulfilment of the requirements of Regulation 2.4.1 and such time as may be specified by the Issuer. ",
+        "level": 4
+    },
+    "58": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "2.4.3 On the date of conversion of Investments into Uncertificated form, an Issuer which is a Company or a Recognised Company must notify: ",
+        "level": 4
+    },
+    "59": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) each holder of the Investments in writing of the conversion of the Investments into Uncertificated form, and the date of such conversion; and (b) the Registrar, in the applicable form specified by the Registrar. ",
+        "level": 5
+    },
+    "60": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "2.4.4 On receipt of a notification under Regulation 2.4.3, the Registrar must make a note on the register of the relevant Company or Recognised Company (as the case may be) of the conversion of the relevant class of Investments into Uncertificated form, and the date of such conversion. ",
+        "level": 4
+    },
+    "61": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "2.4.5 Nothing in these Regulations prevents the conversion of Investments, which have previously been converted from Uncertificated form into Certificated form, back into Uncertificated form. ",
+        "level": 4
+    },
+    "62": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "DIFC ",
+        "level": 5
+    },
+    "63": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "DEMATERIALISED INVESTMENTS REGULATIONS (DIR) ",
+        "level": 1
+    },
+    "64": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "7 ",
+        "level": 5
+    },
+    "65": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "3 Registration of Uncertificated Investments ",
+        "level": 2
+    },
+    "66": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "3.1 Keeping of registers and records ",
+        "level": 3
+    },
+    "67": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "3.1.1 In respect of a class of Uncertificated Investments, the Issuer must maintain (or cause to be maintained) a register of all the Uncertificated Investments in that class. ",
+        "level": 4
+    },
+    "68": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "3.1.2 An Issuer must ensure that the register is maintained in accordance with applicable law and regulation, provided that in the event of a conflict between the requirements of applicable law and regulation and these Regulations, these Regulations will prevail ",
+        "level": 4
+    },
+    "69": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "3.1.3 In these Regulations, any reference to an obligation of the Issuer in relation to the maintenance of a register or records must be read as an obligation of the Issuer or its agent. Nothing in these Regulations of itself prohibits an Issuer from appointing a third party to maintain any such records. ",
+        "level": 4
+    },
+    "70": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "3.1.4 An Issuer which is: ",
+        "level": 4
+    },
+    "71": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(a) a Company incorporated in the DIFC; or   \n(b) a Limited Liability Partnership or a General Partnership registered in the DIFC ",
+        "level": 5
+    },
+    "72": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "may not appoint a person other than an Authorised Market Institution or Authorised Firm to maintain a register of Uncertificated Investments on its behalf. ",
+        "level": 5
+    },
+    "73": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "3.2 Availability of registers and records ",
+        "level": 3
+    },
+    "74": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "3.2.1 An Issuer of Uncertificated Investments must ensure that a register of Uncertificated Investments and the Terms of Issue of the Investment are made available in accordance with applicable law and regulation and the Terms of Issue of the Investments. ",
+        "level": 4
+    },
+    "75": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "3.2.2 An Issuer which is a Company must ensure that a register of Uncertificated shares issued by it is available for inspection in accordance with Article 32 of the Companies Law: ",
+        "level": 4
+    },
+    "76": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(a) at its registered office; or ",
+        "level": 5
+    },
+    "77": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "DIFC ",
+        "level": 5
+    },
+    "78": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "8 ",
+        "level": 5
+    },
+    "79": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "DEMATERIALISED INVESTMENTS REGULATIONS (DIR) ",
+        "level": 1
+    },
+    "80": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(b) at a specified office of an agent within the DIFC responsible for maintenance of the register. ",
+        "level": 5
+    },
+    "81": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "9 ",
+        "level": 5
+    },
+    "82": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "DEMATERIALISED INVESTMENTS REGULATIONS (DIR) ",
+        "level": 1
+    },
+    "83": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "DIFC ",
+        "level": 5
+    },
+    "84": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "4 Effect of Dematerialisation ",
+        "level": 2
+    },
+    "85": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "4.1 Effect of entries on registers ",
+        "level": 3
+    },
+    "86": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "Subject to applicable law and regulation, a register of Uncertificated Investments is sufficient evidence of any matters in respect of which an entry has been made therein. ",
+        "level": 4
+    },
+    "87": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "4.2 Substitution of Tangible Documentary Requirements ",
+        "level": 3
+    },
+    "88": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "4.2.1 This Section 4.2 applies in respect of any legal or regulatory requirement or restriction relating to: ",
+        "level": 4
+    },
+    "89": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(a) the creation, issue or provision; and (b) the endorsement or signature ",
+        "level": 5
+    },
+    "90": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "of a declaration, certificate, instrument, notice, instruction or other document in tangible form which applies in respect of the creation, issue or transfer of title to Investments or rights in an Uncertificated Investment (a ‘Tangible Documentary Requirement’). ",
+        "level": 5
+    },
+    "91": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "4.2.2 A Tangible Documentary Requirement does not prevent: ",
+        "level": 4
+    },
+    "92": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(a) the creation, issue, or registration of a transfer of title to an Uncertificated Investment or rights in an Uncertificated Investment;   \n(b) the conversion of an Investment into Uncertificated form; or   \n(c) any such action being legally valid and binding as if it were made fully in accordance with such Tangible Documentary Requirement ",
+        "level": 5
+    },
+    "93": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "in accordance with Regulation 4.2.3. ",
+        "level": 5
+    },
+    "94": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "4.2.3 In relation to an Uncertificated Investment, any Tangible Documentary Requirement is to be taken to be as a requirement or restriction: ",
+        "level": 4
+    },
+    "95": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(a) in the case of a Tangible Documentary Requirement falling within Regulation 4.2.1(a), relating to the creation, issue or provision (as the case may be) of a record containing such information or data as such document is required to contain; ",
+        "level": 5
+    },
+    "96": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "DIFC ",
+        "level": 5
+    },
+    "97": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "10 ",
+        "level": 5
+    },
+    "98": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "DEMATERIALISED INVESTMENTS REGULATIONS (DIR) ",
+        "level": 1
+    },
+    "99": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "(b) in the case of a Tangible Documentary Requirement falling within Regulation 4.2.1(b), relating to the provision of a statement, consent or information required by such Tangible Documentary Requirement in any form (including by electronic means) by the person to whom the Tangible Documentary Requirement applies. ",
+        "level": 5
+    },
+    "100": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "4.3 Instructions to transfer Uncertificated Investments ",
+        "level": 3
+    },
+    "101": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "Without prejudice to Section 4.2, an instruction relating to an Uncertificated Investment given by a person entitled to give such an instruction may be made in any form (including by electronic means). ",
+        "level": 4
+    },
+    "102": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "4.4 No Certificates of Title in respect of Uncertificated Investments ",
+        "level": 3
+    },
+    "103": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "4.4.1 Notwithstanding any law or regulation, an Issuer must not issue a Certificate of Title in relation to an Uncertificated Investment. ",
+        "level": 4
+    },
+    "104": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "4.4.2 Subject to Chapter 5 of these Regulations, a document issued by or on behalf of an Issuer purportedly evidencing title to an Uncertificated Investment is not evidence of title to the Investment and may not be relied upon as such by any person. ",
+        "level": 4
+    },
+    "105": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "4.5 Liability and sanctions in respect of registers and records ",
+        "level": 3
+    },
+    "106": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "If an Issuer defaults in complying with its recordkeeping obligations under these Regulations the same liability or sanctions will apply as would apply under applicable law if the Investments to which the obligations related were not Uncertificated Investments. ",
+        "level": 4
+    },
+    "107": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "DIFC ",
+        "level": 5
+    },
+    "108": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "11 ",
+        "level": 5
+    },
+    "109": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "DEMATERIALISED INVESTMENTS REGULATIONS (DIR) ",
+        "level": 1
+    },
+    "110": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "5 Rematerialisation ",
+        "level": 2
+    },
+    "111": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "5.1 Rematerialisation of Investments ",
+        "level": 3
+    },
+    "112": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "Subject to Section 5.2, where an Issuer permits the registration and transfer of a class of its existing Uncertificated Investments in Certificated form, such Investments may be converted from Uncertificated form into Certificated form in accordance with these Regulations. ",
+        "level": 4
+    },
+    "113": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "5.2 Conditions to Rematerialisation ",
+        "level": 3
+    },
+    "114": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "5.2.1 In relation to any Uncertificated Investment, if the law under which it or its Issuer is constituted or the Terms of Issue are in any respect inconsistent with: ",
+        "level": 4
+    },
+    "115": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "(a) the registration or transfer of title to that Investment in Certificated form; or (b) these Regulations ",
+        "level": 5
+    },
+    "116": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "the Issuer of that Investment must not permit the holding of, or transfer of title to, that Investment in Certificated form. ",
+        "level": 5
+    },
+    "117": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "5.2.2 Where Investments are converted into Certificated form, all Investments of the relevant class after conversion must be held in Certificated form. This Regulation is without prejudice to the right of the Issuer subsequently to convert Certificated Investments to Uncertificated form under Chapter 2. ",
+        "level": 4
+    },
+    "118": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "5.3 Procedure for Rematerialisation of Investments ",
+        "level": 3
+    },
+    "119": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "5.3.1 Prior to the conversion of Investments into Certificated form, an Issuer must: ",
+        "level": 4
+    },
+    "120": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "(a) if it is a Company, obtain consent of the majority of the holders of the existing Investments which the Issuer proposes to convert into Certificated form; and   \n(b) comply with any other requirements of the Terms of Issue applicable to the Issuer or the Investments for any consents of the holders of Investments or any right therein. ",
+        "level": 5
+    },
+    "121": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "5.3.2 Uncertificated Securities are converted into Certificated form by the issue of Certificates of Title in respect of them. ",
+        "level": 4
+    },
+    "122": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "DIFC ",
+        "level": 5
+    },
+    "123": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "12 ",
+        "level": 5
+    },
+    "124": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "DEMATERIALISED INVESTMENTS REGULATIONS (DIR) ",
+        "level": 1
+    },
+    "125": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "5.3.3 Any issue of Certificates of Title pursuant to this Chapter 5 must be in accordance with applicable law and the Terms of Issue. ",
+        "level": 4
+    },
+    "126": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "5.3.4 On conversion of Investments into Certificated form, an Issuer which is a Company or a Recognised Company must notify: ",
+        "level": 4
+    },
+    "127": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "(a) each holder of the Investments of the conversion of the Investments into Uncertificated form and the date of such conversion; and (b) the Registrar, in the applicable form specified by the Registrar. ",
+        "level": 5
+    },
+    "128": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "5.3.5 On receipt of a notification under Regulation 5.3.4, the Registrar must make a note on the register of the relevant Company or Recognised Company (as the case may be) of the conversion of the relevant class of Investments into Certificated form, and the date of such conversion. ",
+        "level": 4
+    },
+    "129": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "5.3.6 From the time of issue of Certificates of Title in respect of such Investments: ",
+        "level": 4
+    },
+    "130": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "(a) the Investments are Certificated Investments; and (b) these Regulations cease to apply in respect of such Investments unless and until they are or are to be subsequently converted into Uncertificated Form. ",
+        "level": 5
+    },
+    "131": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "5.3.7 Nothing in these Regulations prevents the conversion of Uncertificated Investments, which have previously been converted from Certificated form into Uncertificated form, into Certificated form. ",
+        "level": 4
+    },
+    "132": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "DIFC ",
+        "level": 5
+    },
+    "133": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "13 ",
+        "level": 5
+    },
+    "134": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "DEMATERIALISED INVESTMENTS REGULATIONS (DIR) ",
+        "level": 1
+    }
+}

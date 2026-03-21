@@ -1,0 +1,378 @@
+{
+    "doc_type": "law",
+    "official_title": "Netting Law",
+    "official_title_normalized": "netting law",
+    "short_title": "Netting Law 2014",
+    "short_title_normalized": "netting law 2014",
+    "law_number": "2",
+    "law_year": "2014",
+    "official_citation": "DIFC Law No. 2 of 2014",
+    "official_citation_normalized": "difc law no 2 of 2014",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "",
+    "amending_laws": [],
+    "administering_authority": "",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 15,
+    "page_count": 15,
+    "alias_keys": [
+        "Netting Law",
+        "Netting Law 2014",
+        "DIFC Law No. 2 of 2014"
+    ],
+    "article_index": {
+        "Article 6": {
+            "heading": "Application.... 2",
+            "article_number": "6",
+            "page_start": 2,
+            "page_end": 2,
+            "block_start": 7,
+            "block_end": 8
+        },
+        "Article 7": {
+            "heading": "Enforceability of a qualified financial instrument",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 35,
+            "block_end": 36
+        },
+        "Article 2": {
+            "heading": "References to Legislation",
+            "article_number": "2",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 81,
+            "block_end": 83
+        },
+        "Article 5": {
+            "heading": "Interpretation",
+            "article_number": "5",
+            "page_start": 3,
+            "page_end": 5,
+            "block_start": 22,
+            "block_end": 34
+        },
+        "Article 5(1)": {
+            "heading": "Interpretation",
+            "article_number": "5",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 29,
+            "block_end": 29
+        },
+        "Article 5(2)": {
+            "heading": "Interpretation",
+            "article_number": "5",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 30,
+            "block_end": 30
+        },
+        "Article 5(3)": {
+            "heading": "Interpretation",
+            "article_number": "5",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 31,
+            "block_end": 34
+        },
+        "Article 8": {
+            "heading": "General Rule as to enforceability of a netting agreement",
+            "article_number": "8",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 37,
+            "block_end": 40
+        },
+        "Article 9": {
+            "heading": "Effectiveness of netting of obligations to make payments or deliveries",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 41,
+            "block_end": 42
+        },
+        "Article 10": {
+            "heading": "Limitation on powers of a liquidator",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 43,
+            "block_end": 47
+        },
+        "Article 11": {
+            "heading": "Limitation of insolvency laws prohibiting set-off",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 48,
+            "block_end": 49
+        },
+        "Article 12": {
+            "heading": "Preferences and fraudulent transfers",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 50,
+            "block_end": 61
+        },
+        "Article 12(1)(a)": {
+            "heading": "Preferences and fraudulent transfers",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 59,
+            "block_end": 59
+        },
+        "Article 12(1)(b)": {
+            "heading": "Preferences and fraudulent transfers",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 60,
+            "block_end": 61
+        },
+        "Article 12(1)": {
+            "heading": "Preferences and fraudulent transfers",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 51,
+            "block_end": 61
+        },
+        "Article 13": {
+            "heading": "Preemption",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 62,
+            "block_end": 63
+        },
+        "Article 14": {
+            "heading": "Realisation and liquidation of collateral",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 64,
+            "block_end": 65
+        },
+        "Article 15": {
+            "heading": "Scope of this Law",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 9,
+            "block_start": 66,
+            "block_end": 80
+        },
+        "Article 15(1)": {
+            "heading": "Scope of this Law",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 67,
+            "block_end": 68
+        },
+        "Article 15(2)": {
+            "heading": "Scope of this Law",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 69,
+            "block_end": 71
+        },
+        "Article 15(3)(a)": {
+            "heading": "Scope of this Law",
+            "article_number": "15",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 78,
+            "block_end": 78
+        },
+        "Article 15(3)(i)": {
+            "heading": "Scope of this Law",
+            "article_number": "15",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 79,
+            "block_end": 79
+        },
+        "Article 15(3)(b)": {
+            "heading": "Scope of this Law",
+            "article_number": "15",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 80,
+            "block_end": 80
+        },
+        "Article 15(3)": {
+            "heading": "Scope of this Law",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 72,
+            "block_end": 80
+        },
+        "Article 3": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 9,
+            "page_end": 15,
+            "block_start": 84,
+            "block_end": 98
+        }
+    },
+    "section_heading_index": {
+        "Application.... 2": [
+            {
+                "heading": "Application.... 2",
+                "article_number": "6",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 7,
+                "block_end": 8
+            }
+        ],
+        "Enforceability of a qualified financial instrument.. .. 3 8. General Rule as to enforceability of a netting agreement . .. 3 9. Effectiveness of netting of obligations to make payments or deliveries. . .. 3 10. Limitation on powers of a liquidator.. .. 3 11. Limitation of insolvency laws prohibiting set-off . ... 4 12. Preferences and fraudulent transfers . ... 4 13. Preemption .... ... 5 14. Realisation and liquidation of collateral.. .. 5 15. Scope of this Law.... .. 5": [
+            {
+                "heading": "Enforceability of a qualified financial instrument.. .. 3 8. General Rule as to enforceability of a netting agreement . .. 3 9. Effectiveness of netting of obligations to make payments or deliveries. . .. 3 10. Limitation on powers of a liquidator.. .. 3 11. Limitation of insolvency laws prohibiting set-off . ... 4 12. Preferences and fraudulent transfers . ... 4 13. Preemption .... ... 5 14. Realisation and liquidation of collateral.. .. 5 15. Scope of this Law.... .. 5",
+                "article_number": "7",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 9,
+                "block_end": 10
+            }
+        ],
+        "References to Legislation.. 3. Defined terms": [
+            {
+                "heading": "References to Legislation.. 3. Defined terms",
+                "article_number": "2",
+                "page_start": 2,
+                "page_end": 3,
+                "block_start": 11,
+                "block_end": 21
+            }
+        ],
+        "Interpretation": [
+            {
+                "heading": "Interpretation",
+                "article_number": "5",
+                "page_start": 3,
+                "page_end": 5,
+                "block_start": 22,
+                "block_end": 34
+            }
+        ],
+        "Enforceability of a qualified financial instrument": [
+            {
+                "heading": "Enforceability of a qualified financial instrument",
+                "article_number": "7",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 35,
+                "block_end": 36
+            }
+        ],
+        "General Rule as to enforceability of a netting agreement": [
+            {
+                "heading": "General Rule as to enforceability of a netting agreement",
+                "article_number": "8",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 37,
+                "block_end": 40
+            }
+        ],
+        "Effectiveness of netting of obligations to make payments or deliveries": [
+            {
+                "heading": "Effectiveness of netting of obligations to make payments or deliveries",
+                "article_number": "9",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 41,
+                "block_end": 42
+            }
+        ],
+        "Limitation on powers of a liquidator": [
+            {
+                "heading": "Limitation on powers of a liquidator",
+                "article_number": "10",
+                "page_start": 5,
+                "page_end": 6,
+                "block_start": 43,
+                "block_end": 47
+            }
+        ],
+        "Limitation of insolvency laws prohibiting set-off": [
+            {
+                "heading": "Limitation of insolvency laws prohibiting set-off",
+                "article_number": "11",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 48,
+                "block_end": 49
+            }
+        ],
+        "Preferences and fraudulent transfers": [
+            {
+                "heading": "Preferences and fraudulent transfers",
+                "article_number": "12",
+                "page_start": 6,
+                "page_end": 7,
+                "block_start": 50,
+                "block_end": 61
+            }
+        ],
+        "Preemption": [
+            {
+                "heading": "Preemption",
+                "article_number": "13",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 62,
+                "block_end": 63
+            }
+        ],
+        "Realisation and liquidation of collateral": [
+            {
+                "heading": "Realisation and liquidation of collateral",
+                "article_number": "14",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 64,
+                "block_end": 65
+            }
+        ],
+        "Scope of this Law": [
+            {
+                "heading": "Scope of this Law",
+                "article_number": "15",
+                "page_start": 7,
+                "page_end": 9,
+                "block_start": 66,
+                "block_end": 80
+            }
+        ],
+        "References to Legislation": [
+            {
+                "heading": "References to Legislation",
+                "article_number": "2",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 81,
+                "block_end": 83
+            }
+        ],
+        "Defined terms": [
+            {
+                "heading": "Defined terms",
+                "article_number": "3",
+                "page_start": 9,
+                "page_end": 15,
+                "block_start": 84,
+                "block_end": 98
+            }
+        ]
+    }
+}

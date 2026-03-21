@@ -1,0 +1,1318 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            395,
+            334,
+            612,
+            383
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 3 ",
+        "text_level": 1,
+        "bbox": [
+            205,
+            534,
+            803,
+            567
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DECEMBER 2022 ",
+        "bbox": [
+            378,
+            581,
+            634,
+            606
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Family Arrangement Regulations ",
+        "bbox": [
+            205,
+            660,
+            806,
+            697
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 3 OF 2022 ",
+        "text_level": 1,
+        "bbox": [
+            296,
+            67,
+            715,
+            86
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PROPOSALS RELATING TO NEW FAMILY ARRANGEMENTS REGULATIONS ",
+        "bbox": [
+            104,
+            91,
+            907,
+            111
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Why are we issuing this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            127,
+            358,
+            144
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Dubai International Financial Centre Authority (“DIFCA”) proposes to enact new Family Arrangements Regulations (the “Proposed Regulations”) to make comprehensive provision for the engagement of family businesses with the DIFC, taking into account the announced initiatives of the UAE Federal Union and the Emirate of Dubai, including the recent enactment of UAE Decree Law No (37) of 2022 (“the UAE Family Business Law”), the recommendations of the DIFC Wealth Management Review, the establishment of the DIFC Family Business Centre (“the Centre”) and the enhanced regulatory environment in the DIFC. In that context the existing Single Family Office Regulations which were enacted in 2008 and amended in December 2011 (the “SFO Regulations”) will be repealed. This Consultation Paper No. 3 of 2022 (“Consultation Paper”) seeks public comments on the Proposed Regulations. ",
+        "bbox": [
+            111,
+            157,
+            920,
+            381
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Who should read this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            401,
+            338,
+            419
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. This Consultation Paper will be of interest to persons currently conducting family business activities in the DIFC and families or entities operating inside or outside the DIFC who are looking for an attractive base to establish family offices or other family arrangements and may consider the DIFC alongside other leading financial centres as a platform for conducting business. In particular: ",
+        "bbox": [
+            94,
+            433,
+            922,
+            541
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) family businesses;   \n(b) legal advisors;   \n(c) advisers to families;   \n(d) wealth managers; and (e) trust and corporate service providers. ",
+        "bbox": [
+            154,
+            560,
+            513,
+            726
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How to provide comments ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            749,
+            314,
+            764
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. All comments should be provided to the person specified below: ",
+        "bbox": [
+            89,
+            780,
+            688,
+            798
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates ",
+        "bbox": [
+            154,
+            817,
+            474,
+            925
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FAMILY ARRANGEMENTS REGULATIONS ",
+        "bbox": [
+            540,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            890,
+            934,
+            904,
+            946
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "or e-mailed to: consultation@difc.ae ",
+        "text_level": 1,
+        "bbox": [
+            156,
+            67,
+            483,
+            84
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. You may choose to identify the organisation you represent in your comments. ",
+        "bbox": [
+            90,
+            103,
+            801,
+            122
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "bbox": [
+            89,
+            140,
+            917,
+            181
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "What happens next? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            203,
+            269,
+            220
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. The deadline for providing comments on the proposals in this Consultation Paper is 7 January 2023. ",
+        "bbox": [
+            92,
+            235,
+            920,
+            274
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. Once we receive your comments, we will consider if any further refinements are required to the Proposed Regulations. Once DIFCA considers the Proposed Regulations to be in a suitable form, they will be enacted as a new DIFC Regulations to come in to force on a date specified and published. ",
+        "bbox": [
+            92,
+            293,
+            920,
+            380
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8. The Proposed Regulations are in draft form only. You should not act on them until the Proposed Regulations are formally enacted. We will issue a notice on our website when this happens. ",
+        "bbox": [
+            92,
+            397,
+            920,
+            460
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            484,
+            215,
+            500
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase and are defined in the Proposed Regulations. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "bbox": [
+            92,
+            515,
+            920,
+            602
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            623,
+            198,
+            641
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. The DIFCA has proposed to enact new comprehensive Family Arrangements Regulations which will, amongst other things, repeal the existing SFO Regulations. ",
+        "bbox": [
+            94,
+            662,
+            920,
+            703
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11. Since enactment of the SFO Regulations, there have been significant changes in the DIFC’s regulatory structure, the national and international wealth management environment, the applicable national laws (in particular the enactment of the UAE Family Business Law by the Federal Government) and the DIFC’s understanding of the requirements of the families who may wish to utilise the platform offered by the Centre. ",
+        "bbox": [
+            94,
+            720,
+            920,
+            831
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "12. The Proposed Regulations have the following objectives: ",
+        "bbox": [
+            92,
+            849,
+            626,
+            866
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) to support the objectives of the UAE Family Business Law in the DIFC to the extent that it is consistent with Applicable Law in the DIFC, and all matters relating thereto; ",
+        "bbox": [
+            153,
+            885,
+            919,
+            927
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FAMILY ARRANGEMENTS REGULATIONS ",
+        "bbox": [
+            540,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            890,
+            934,
+            904,
+            945
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(b) to prescribe the arrangements which families can make within the DIFC for the better operation of their businesses, the preservation of their wealth and the succession and legacy planning in respect thereof; and   \n(c) to prescribe the manner in which accredited advisers, corporate service providers and registered persons in the DIFC can provide services to families in or from the DIFC. ",
+        "bbox": [
+            139,
+            66,
+            920,
+            192
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "13. Ultimately, the Proposed Regulations, coupled with the establishment of the Centre, aim to enhance the DIFC’s offering for local, regional and international private wealth. ",
+        "bbox": [
+            94,
+            210,
+            922,
+            251
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key Changes proposed ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            273,
+            294,
+            290
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14. The Proposed Regulations: ",
+        "bbox": [
+            95,
+            312,
+            382,
+            330
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) repeal the SFO Regulations and the DIFC’s Single Family Office regime and replace it with a new Family Office regime that can provide services to a Family or more than one Family in certain circumstances (also revoking the need for a Family Office to register as a DNFBP with the DFSA); ",
+        "bbox": [
+            141,
+            347,
+            920,
+            434
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(b) provide a more detailed description of what constitutes a Family, a Family Business, a Family Entity, a Family Structure and the control arrangements relating thereto; ",
+        "bbox": [
+            136,
+            452,
+            919,
+            495
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(c) introduce a Private Register for the shareholders, interest holders, directors and officers of Family Entities and Family Offices; ",
+        "bbox": [
+            139,
+            520,
+            920,
+            561
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(d) appoint the DIFC Registrar of Companies as the competent and concerned authority in the DIFC in dealing with the administration of the UAE Family Business Law in the DIFC; ",
+        "bbox": [
+            136,
+            580,
+            920,
+            622
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(e) provide the details for registration of Family Businesses in a specially designated Family Business Register in the DIFC pursuant to the provisions of the UAE Family Business Law; ",
+        "bbox": [
+            141,
+            647,
+            919,
+            711
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(f) introduce new certification and accreditation regimes for Family Businesses and their advisers in the DIFC in a manner that will also support the expected benefits or incentives that will be made available to Family Businesses pursuant to the UAE Family Business Law; ",
+        "bbox": [
+            139,
+            730,
+            920,
+            815
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(g) remove the requirement under Article 13(3) of the Operating Law, for Family Offices and Family Entities (that are Registered Persons in the DIFC) to operate from premises in the DIFC, provided that they: i) have a substantial presence within the UAE; and ii) have appointed a Corporate Service Provider in the DIFC; and ",
+        "bbox": [
+            139,
+            834,
+            920,
+            921
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FAMILY ARRANGEMENTS REGULATIONS ",
+        "bbox": [
+            540,
+            43,
+            917,
+            60
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            890,
+            935,
+            902,
+            945
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(h) provide for private arbitration of disputes or questions in relation to Family Entities and Family Businesses. ",
+        "bbox": [
+            129,
+            66,
+            919,
+            106
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Transitional Provisions ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            129,
+            286,
+            146
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "15. The Proposed Regulations have the usual transitional provisions where new regulations replace previous ones. However, the transitional provisions also make provision for the change of status of Single Family Offices in the DIFC under the SFO Regulations into a Family Office (Regulation 1.1.4). ",
+        "bbox": [
+            94,
+            160,
+            920,
+            247
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "16. This change of status for existing Single Family Offices in the DIFC has requirements in: ",
+        "bbox": [
+            90,
+            264,
+            880,
+            283
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) providing existing Single Family Offices with a grace period of one year to come into line with the requirements of the Proposed Regulations, including (without limitation) satisfying the USD 50,000,000 net asset requirement for a Family wanting to operate a Family Office in the DIFC; and   \n(b) de-registering as a DNFBP with the DFSA. ",
+        "bbox": [
+            153,
+            301,
+            920,
+            425
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "17. Both paragraphs 16 (a) and (b) above were recommended as part of the 2016 findings of the DIFC Wealth Management Working Group. ",
+        "bbox": [
+            106,
+            444,
+            920,
+            484
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "18. The net asset requirement moves away from the investable/liquid asset requirement in the SFO Regulations primarily because it was an impractical requirement. Also, given that DIFC wants to attract substantial private wealth into its Family Office offering, it was decided to increase the entry barrier in line with the wealth bracket targeted. ",
+        "bbox": [
+            104,
+            502,
+            919,
+            589
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "19. The deregistration requirement of a Family Office as a DNFBP (and this not being a requirement for any new Family Offices to be established in the DIFC) stems from one of the key inhibitors to growth of any family office offering in the DIFC in the past (i.e. Families suggesting that to have AML requirements in respect of their own money in the DIFC was too onerous a requirement and an unnecessary level of regulation for privately owned and controlled funds). ",
+        "bbox": [
+            104,
+            606,
+            919,
+            738
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "20. The primary reason why DIFCA felt comfortable to agree to this recommendation of the DIFC Wealth Management Working Group, is that is has since built a very strong internal framework and systems to properly assess and monitor the AML related requirements of non-regulated business in accordance with Federal and DIFC Law and the risk methodology pertaining thereto. Hence, the need for a Family Office to have an AML Reporting Officer, register with and file reports to the DFSA in relation to AML related matters essentially falls away. ",
+        "bbox": [
+            102,
+            756,
+            919,
+            888
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "FAMILY ARRANGEMENTS REGULATIONS ",
+        "bbox": [
+            540,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            946
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q1. Do you agree with the change from investable/ liquid asset test to that of net assets in respect of a qualifying requirement for measuring private wealth? If not, please provide detailed reasons.   \nQ2. Do you agree with the USD 50,000,000 minimum net asset requirement? If not, please explain why.   \nQ3. Do you agree that a Family Office should not be subject to the DFSA’s DNFBP registration requirements? If not, please provide detailed reasons. ",
+        "bbox": [
+            92,
+            70,
+            920,
+            252
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Family Requirements ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            296,
+            276,
+            313
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. The Proposed Regulations clarify the definition of a Family (Regulation 2.2.1) and a Family Member (Regulation 2.2.2). Although predicated upon the previous definition in the SFO Regulations, additions have been made to the old definition to clarify previous areas of uncertainty (Regulation 2.2). These clarifications include: ",
+        "bbox": [
+            94,
+            326,
+            920,
+            414
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) that all the descendants of a common living ancestor qualify as a Family Member without having reference to three preceding generations (i.e. the starting point is not looking back up a family tree to a common ancestor but rather looking down a family tree starting with a common ancestor who is currently alive); and   \n(b) expressly stating that the descendants of descendants are determined in a comparable manner as the descendants of the common ancestor of a Family. ",
+        "bbox": [
+            151,
+            432,
+            920,
+            578
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "22. The Proposed Regulations also cover in some detail the legal arrangements which families can make use of (Regulations 2.3-2.5). Critical to assessing whether these arrangements are indeed Family arrangements is the notion of control by a Family (Regulation 2.4). ",
+        "bbox": [
+            92,
+            595,
+            919,
+            659
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "23. Given that Family Offices are now expressly permitted to provide services to Family Members, Family Businesses, Family Entities and Family Structures that are akin to financial services (had they been provided “by way of business” to a broader clientele) it was very important that: ",
+        "bbox": [
+            94,
+            676,
+            919,
+            762
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) the scope of what defines a Family Entity and a Family Structure was very much limited to the sole purpose of holding, investing or utilising assets of a Family or a Family Structure or the succession and legacy planning in respect thereof (Regulation 2.3.1); and ",
+        "bbox": [
+            154,
+            781,
+            919,
+            866
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FAMILY ARRANGEMENTS REGULATIONS ",
+        "bbox": [
+            540,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            946
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(b) that the beneficiaries, qualified recipients or persons otherwise capable of benefiting from Family Structures are restricted to Family Members, Family Entities of a particular Family and charities identified in line with the requirements of a Family (Regulation 2.5.1). ",
+        "bbox": [
+            153,
+            66,
+            919,
+            152
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Q4. Are the proposed definitions of a Family, Family Member, Family Entity, Family Structure adequate? If not, how could it be improved?   \nQ5. Should there be additional requirements in relation to the identification of Family Members?   \nQ6. Do you agree with proposed control provisions in Regulation 2.4?   \nQ7. Should a Family Entity be restricted to the sole purpose of holding, investing or utilising assets of a Family or a Family Structure or the succession and legacy planning in respect thereof? If not, please provide detailed reasons.   \nQ8. Should the beneficiaries, qualified recipients or persons otherwise capable of benefiting from Family Structures be restricted in the manner suggested in Regulation 2.5.2? If not, please provide detailed reasons. ",
+        "bbox": [
+            87,
+            173,
+            925,
+            477
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Family Business ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            500,
+            234,
+            517
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "24. The UAE Federal Government is planning to set up a family register for family businesses in the UAE pursuant to the provisions of the UAE Family Business Law. DIFCA’s understanding is that part of the reason for the register is to incentivise family-owned businesses in the UAE to put in place proper succession and legacy planning and implement, inter alia, good governance measures. In return, the family business that qualify to be on such a register may be eligible for certain benefits and concessions offered by the Federal and Local Governments in the UAE, if indeed they meet the requirements or adhere to the standards required to qualify for such benefits or concessions. ",
+        "bbox": [
+            92,
+            532,
+            920,
+            707
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "25. The UAE Family Business Law (in Article 4) also makes provision for a concerned or competent authority in local Emirates, inclusive of those in free zones, to administer the UAE Family Business Law locally in an Emirate or in a free zone, and to keep a special register of a Family Business locally in that Emirate or in free zone in accordance with the requirements of the UAE Family Business Law. The Proposed Regulations appoints the Registrar as the concerned or competent authority in the DIFC in the above regard (Regulation 1.2.3). ",
+        "bbox": [
+            94,
+            726,
+            920,
+            857
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FAMILY ARRANGEMENTS REGULATIONS ",
+        "bbox": [
+            540,
+            43,
+            917,
+            60
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "26. DIFCA’s intention with this part of the Proposed Regulations, coupled with the certification (Regulation 5) and accreditation (Regulation 6) components, is to administer a Family Business Register in line with the requirements of the UAE Family Business Law and to use its certification and accreditation regime to establish who will qualify for any such benefits or concessions. ",
+        "bbox": [
+            94,
+            66,
+            919,
+            174
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "27. It is also in this context that the role of the Centre will be key in administering all the constituent parts of such a regime. In order to achieve this, the Registrar will (by way of the Delegation) delegate to the Centre to, inter alia: ",
+        "bbox": [
+            94,
+            193,
+            919,
+            257
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) establish the requirements of which Family Businesses will qualify to be registered on the Family Business Register in the DIFC;   \n(b) coordinate with the UAE Ministry of Economy in respect of Family Business matters at a Federal level;   \n(c) identify which rights, obligations, concessions or incentives will be applicable to which Family Businesses;   \n(d) inform the Registrar in circumstances where there are grounds for the removal of a Family Business from the Family Business Register or the suspension thereof;   \n(e) advise the Registrar on certification/rating criteria for Family Businesses and their constituent parts, such as Family Entities and Family Structures;   \n(f) advise the Registrar on the accreditation requirements of Accredited Advisers; and   \n(g) administer the certification and accreditation processes on behalf of the Registrar. ",
+        "bbox": [
+            151,
+            274,
+            919,
+            630
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "28. In the above context, Regulation 3.1 of the Proposed Regulations deals with the definition of what will constitute a Family Business in the DIFC. At present this is still an open-ended definition (see Regulation 3.2.1(a) allowing for additional requirements to be added) as more details are awaited from the Federal Government in this regard but, at present, the Proposed Regulations are intended to accommodate a single Family Entity, a Family Structure, a Family Office, or any number or combination of these controlled by a Family. ",
+        "bbox": [
+            92,
+            644,
+            922,
+            776
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "29. Note that a UAE Family Business may also apply for registration in the DIFC’s Family Business Register (e.g. in circumstances where it also has a component in the DIFC) and where it may be entitled to benefits or concessions in the DIFC as a consequence thereof. ",
+        "bbox": [
+            94,
+            794,
+            919,
+            858
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "FAMILY ARRANGEMENTS REGULATIONS ",
+        "bbox": [
+            540,
+            43,
+            917,
+            60
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "30. It is important to note that the manner in which the UAE Family Business Law is drafted is that DIFC Law (where it contradicts the requirements of the UAE Family Business Law) will prevail, and the Proposed Regulations have been drafted accordingly (e.g. Regulation 3.2.2). The only notable exception in this regard is where the Registrar will register a UAE Family Business in its Family Business Register, in which case the UAE Family Business Law definition of “Family” will prevail (Regulation 3.1.2). ",
+        "bbox": [
+            94,
+            66,
+            920,
+            198
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Q9. Is the role of the Registrar as the competent authority to register a Family Business in the Family Business Register clear? What else needs to be addressed if not?   \nQ10. Is the proposed role of the Centre clear and how it will assist the Registrar in administering the Proposed Regulations? ",
+        "bbox": [
+            90,
+            218,
+            920,
+            320
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Family Offices ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            342,
+            217,
+            358
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "31. Regulation 4 deals with Family Offices in replacement of the previous Single Family Office regime in the DIFC. ",
+        "bbox": [
+            92,
+            374,
+            920,
+            413
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "32. A number of the requirements for setting up a Family Office emanate from the previous SFO Regulations but these have been: ",
+        "bbox": [
+            94,
+            432,
+            920,
+            473
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) reduced in part, due to legislative developments in the DIFC that have superseded some of the requirements set out in the SFO Regulations, especially in relation to those in the Operating Law and the regulations issued pursuant thereto, including the Ultimate Beneficial Ownership Regulations of 2018; and   \n(b) increased in part, such as the USD 50,000,000 minimum net asset criteria for the reasons referred to in paragraph 18 above. ",
+        "bbox": [
+            153,
+            491,
+            920,
+            637
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "33. Reliance in respect of certain confirmations sought by the Registrar pursuant to the Proposed Regulations can now be placed on a Corporate Service Provider (Regulation 4.2(b)), as this is now a regulated position in the DIFC (at least at the level of being a DNFBP). ",
+        "bbox": [
+            92,
+            655,
+            919,
+            719
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "34. The key differences between the previous SFO regime and the newly proposed Family Office regime are: ",
+        "bbox": [
+            94,
+            737,
+            919,
+            779
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "FAMILY ARRANGEMENTS REGULATIONS ",
+        "bbox": [
+            540,
+            43,
+            917,
+            60
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) The expanded set of Family Office Services that may be provided by a Family Office to Family Members, Family Entities, Family Structures and Family Businesses (see Appendix 1 of the Proposed Regulations). These include reference to financial services stated in Rule 2.2.2 of the DFSA’s GEN Module, which Family Offices are now expressly permitted to do for a Family, provided that it is for a single Family which means it is not performed “by way of business” as per the requirements of the DFSA’s GEN Rule 2.3.1 (also see Part 1 of Appendix 1 of the Proposed Regulations). ",
+        "bbox": [
+            153,
+            66,
+            919,
+            220
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(b) Regulation 4.3.2 allows for the possibility of a Family Office providing Family Office Services to more than one Family, subject to: ",
+        "bbox": [
+            153,
+            237,
+            917,
+            279
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(i) the Registrar being satisfied of certain conditions (e.g. ensuring proper separation between the affairs of Families and the manner in which they are reported); and   \n(ii) where the Family Office Services of such a multi-Family Office include any form of financial service (defined as “Restricted Services” in Part 2 of Appendix 1), then it must be regulated by the DFSA to do so, as a consequence of the Family Office rendering those Restricted Services “by way of business”.   \nQ11. Do you agree with the new requirements for establishing a Family Office in the DIFC?   \nQ12. Do you agree with the Family Office Services specified in Appendix 1? Are there any other services that should be added or removed?   \nQ13. What is your view on the treatment of Restricted Services?   \nQ14. What is your view on the requirements imposed by the Registrar in respect of Family Offices that will render services to more than one Family (e.g. separation of duties, confidentiality and privacy constraints and reporting requirements)? Are there any additional duties that should be added in this regard? ",
+        "bbox": [
+            200,
+            296,
+            920,
+            465
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Certification and Accreditation ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            743,
+            346,
+            760
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "35. Regulation 5 deals with certification, providing the Registrar with powers to designate certain categories of certification, or rating, of Family Businesses and to determine the criteria that must be satisfied in order to obtain such certification. The Registrar also has powers under Regulation 5.2 to revoke or suspend such certification or rating where the relevant Family Business fails to meet an maintain the required standards. ",
+        "bbox": [
+            94,
+            774,
+            920,
+            883
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            888,
+            934,
+            907,
+            945
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "FAMILY ARRANGEMENTS REGULATIONS ",
+        "bbox": [
+            540,
+            42,
+            917,
+            60
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "36. Further to the reasons indicated at paragraph 26 above, the underlying purpose of such certification is to provide Family Businesses with an independent means of demonstrating that they implement robust standards within the family business or structure. Areas for certification may include, for instance: i) corporate governance; ii) succession planning; iii) legal and financial matters; iv) Shari’a compliance; v) sustainability planning; or vi) ESG. ",
+        "bbox": [
+            94,
+            66,
+            919,
+            175
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "37. In order to assist with the certification process, Regulation 6 sets out powers for the Registrar to accredit and publish a list of professional advisors to Family Businesses. The Registrar will designate different categories of accreditation and the requirements that must be met by professional advisors in order to achieve Accredited Advisor status. Accredited Advisors may represent and liaise directly with the Registrar on behalf of Family Businesses applying for certification. ",
+        "bbox": [
+            92,
+            193,
+            920,
+            324
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "38. Regulation 6.2 also provides the Registrar with the power to revoke or suspend the accreditation (or a category of certification) of an Accredited Advisor in circumstances where the Accredited Advisor fails to satisfy or maintain the relevant accreditation requirements. ",
+        "bbox": [
+            94,
+            343,
+            920,
+            407
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Q15. Are there any areas or standards that you consider suitable for certification for family businesses? If so, please provide details.   \nQ16. Are there any categories of accreditation or requirements that you consider suitable for professional advisors to Family Businesses? If so, please provide details. ",
+        "bbox": [
+            87,
+            428,
+            922,
+            529
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Special Provisions Applicable to Family Arrangements ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            565,
+            547,
+            583
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "39. In recognition of the unique characteristics of Family Businesses (in terms of their purpose, stakeholders and private nature), the Proposed Regulations make certain special provisions. These include: ",
+        "bbox": [
+            94,
+            596,
+            920,
+            659
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) Under Regulation 7.1, the requirement for a Family Office or Family Entity that is a Registered Person to maintain accounts in accordance with the applicable Prescribed Law, but with an exemption from the requirement to audit and file such accounts with the Registrar; ",
+        "bbox": [
+            153,
+            678,
+            920,
+            764
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(b) Pursuant to regulation 7.2. information supplied to the Registrar in respect of the shareholders, interest holders, directors and officers of a Family Entity or Family Office may, upon application by a Family Entity or Family Office (and payment of a prescribed fee), be kept on a Private Register which shall not be disclosed on the Public Register. ",
+        "bbox": [
+            153,
+            782,
+            920,
+            890
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "11 ",
+        "bbox": [
+            888,
+            934,
+            905,
+            945
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FAMILY ARRANGEMENTS REGULATIONS ",
+        "bbox": [
+            540,
+            43,
+            917,
+            60
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(c) An exemption under Regulation 7.3 for a Family Entity or Family Office that is incorporated as a DIFC Private Company from the requirement to have no more than 50 shareholders under Article 27(1)(b) of the DIFC Companies Law, with a corresponding exemption from Article 27(3) of the Companies Law where a fine is payable by a Private Company that registers a transfer of shares in excess of the 50 shareholder limit. ",
+        "bbox": [
+            151,
+            66,
+            920,
+            195
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(d) Pursuant to Regulation 7.5, specific confirmation filing requirements relevant to Family Businesses, Family Entities and Family Offices, are specified in addition to any other confirmation statements that must be filed by such entities under applicable DIFC Laws. ",
+        "bbox": [
+            153,
+            214,
+            920,
+            300
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(e) Regulation 7.6 creates a statutory recognition for use of arbitration in disputes involving Family Businesses under Regulation 7.6, including conferring on the arbitral tribunal the same powers as the Court to appoint a person to represent the interests of any person (including minors, unborn or unascertained persons) or classes of person in an arbitration concerning a Family Entity. ",
+        "bbox": [
+            153,
+            320,
+            920,
+            428
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(f) Regulation 7.7 seeks to expand the role that Corporate Service Providers may play on behalf of Family Businesses, Family Entities, Family Offices and Family Structures, by: ",
+        "bbox": [
+            153,
+            446,
+            919,
+            510
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "i. providing administrative access to the DIFC Registry portal, in a manner determined by the Registrar, to validate certain compliance requirements on behalf of such entities or structures;   \nii. filing documents or paying fees on behalf of such entities or structures;   \niii. performing assessments or checks under Relevant Laws to ensure that such entities adhere to to AML, UBO and other requirements under DIFC laws and provide certifications in this regard to the Registrar; and   \niv. file reports, disclosures or confirmations on behalf of such entities with the Registrar.   \nQ17. Do you agree with the special provisions made for Family Businesses, Family Entities, Family Offices and Family Structures. If not, why not?   \nQ18. Are there any other special provisions or exemptions that you think should be included in the Regulations? If yes, please include details. ",
+        "bbox": [
+            227,
+            532,
+            920,
+            730
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Legislative proposal ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            850,
+            265,
+            866
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "40. This legislative proposal contains the following: ",
+        "bbox": [
+            82,
+            881,
+            548,
+            899
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "12 ",
+        "bbox": [
+            888,
+            934,
+            907,
+            945
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "FAMILY ARRANGEMENTS REGULATIONS ",
+        "bbox": [
+            540,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) the Proposed Regulations (at Annex A);   \n(b) a table of comments to provide your views and comments on the consultation paper (at Annex B). ",
+        "bbox": [
+            149,
+            66,
+            919,
+            128
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "FAMILY ARRANGEMENTS REGULATIONS ",
+        "bbox": [
+            540,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "13 ",
+        "bbox": [
+            888,
+            935,
+            905,
+            945
+        ],
+        "page_idx": 12
+    }
+]

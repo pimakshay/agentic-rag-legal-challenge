@@ -1,0 +1,976 @@
+[
+    {
+        "type": "text",
+        "text": "Dubai International Financial Centre ",
+        "text_level": 1,
+        "bbox": [
+            299,
+            340,
+            782,
+            472
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 5 ",
+        "bbox": [
+            207,
+            549,
+            804,
+            584
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "May 2018 ",
+        "bbox": [
+            437,
+            598,
+            577,
+            622
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            228,
+            675,
+            782,
+            710
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 5 PROPOSALS RELATING TO NEW COMPANIES REGULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            175,
+            110,
+            836,
+            155
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Why are we issuing this paper? ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            171,
+            358,
+            188
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The Dubai International Financial Centre Authority (“DIFCA”) proposes to replace its current Companies Regulations (the “Current Regulations”) with new Companies Regulations to supplement the new DIFC Companies Law which is expected to be enacted shortly and was the subject of Consultation Paper No 1 of 2017. This Consultation Paper No. 5 of 2018 (“Consultation Paper”) seeks public comments on the proposed new Companies Regulations (the “Proposed Regulations”). It is anticipated that both the new Companies Law and the Proposed Regulations will commence on the same date. ",
+        "bbox": [
+            99,
+            201,
+            922,
+            356
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Who should read this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            378,
+            336,
+            395
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. This Consultation Paper would be of interest to persons conducting or proposing to conduct business in the DIFC. In particular: ",
+        "bbox": [
+            94,
+            409,
+            920,
+            450
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a. companies;   \nb. limited liability partnerships;   \nc. officers and employees of Companies such as directors, company secretaries, compliance officers, partners and senior executive officers;   \nd. shareholders and creditors of companies and limited liability partnerships; e. liquidators registered in the DIFC;   \nf. legal advisors; and   \ng. auditors undertaking company audits; and ",
+        "bbox": [
+            151,
+            469,
+            850,
+            732
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How to provide comments ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            754,
+            314,
+            769
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. All comments should be provided to the person specified below: ",
+        "bbox": [
+            89,
+            785,
+            688,
+            802
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777 ",
+        "bbox": [
+            154,
+            821,
+            474,
+            907
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            663,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            501,
+            935,
+            513,
+            945
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dubai, United Arab Emirates or e-mailed to: consultation@difc.ae ",
+        "text_level": 1,
+        "bbox": [
+            153,
+            66,
+            483,
+            108
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. You may choose to identify the organisation you represent in your comments. ",
+        "bbox": [
+            90,
+            125,
+            799,
+            144
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "bbox": [
+            94,
+            162,
+            920,
+            204
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "What happens next? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            225,
+            269,
+            243
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. The deadline for providing comments on the proposals in this Consultation Paper is 24 June 2018.   \n7. Once we receive your comments, we will consider if any further refinements are required to the Proposed Regulations. Once DIFCA considers the Proposed Regulations to be in a suitable form, it will be enacted as new DIFC Regulations to come in to force on a date specified and published.   \n8. The Proposed Regulations is in draft form only. You should not act on it until the Proposed Regulations are formally enacted. We will issue a notice on our website when this happens. ",
+        "bbox": [
+            85,
+            257,
+            929,
+            461
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            484,
+            215,
+            500
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase and are defined in the Proposed Regulations. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "bbox": [
+            92,
+            515,
+            922,
+            602
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            623,
+            198,
+            641
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. The DIFCA in 2017 proposed to enact a new Companies Law (“the 2017 Proposed Companies Law”) which will substantially alter the law applicable to Companies in the DIFC. Following an extensive consultation process, the terms of the new Companies Law have been finalised and it is now ready for enactment. For the reasons set out below, it is proposed to transfer those provisions of the 2017 Proposed Companies Law of general application to a new DIFC Operating Law (the subject of Consultation Paper No 6 of 2018, to be released simultaneously with this Consultation Paper). The remaining provisions of the 2017 Proposed Companies Law are to be enacted as the Companies Law DIFC Law No. 5 of 2018 (“the 2018 Proposed Companies Law”, in the form annexed at Annex D). ",
+        "bbox": [
+            101,
+            661,
+            920,
+            861
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11. The 2018 Proposed Companies Law will of itself require a significant recasting of the Companies Regulations presently in force. It is also proposed to take the opportunity to revise the general scheme of regulations under the Companies Law and other DIFC Laws to address new international requirements, the overall DIFC wealth management offer, and the separate roles and responsibilities of the DIFCA and the Dubai Financial Services Authority (“DFSA”) in respect of particular types of companies. ",
+        "bbox": [
+            89,
+            880,
+            920,
+            920
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            663,
+            42,
+            917,
+            58
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            501,
+            934,
+            513,
+            945
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Corporate Regulation – overview of the proposed regulatory scheme ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            174,
+            659,
+            193
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Changes in the DIFC’s wealth management offer following upon the Report of the Wealth Management Review Working Group, and other regulatory changes to give effect to the UAE’s commitment at a national level to internationally agreed standards of financial and taxation regulation (resulting in the enactment of the Common Reporting Standard Law No.2 of 2018 and the proposed Ultimate Beneficial Ownership (“UBO”) Regulations, the subject of Consultation Paper No 7 of 2018 released simultaneously with this Consultation Paper), have required the extension of certain aspects of Company regulation to other types of entities operating within the DIFC. It is proposed that this will be achieved through enactment of a proposed new DIFC Operating Law and proposed new DIFC Laws Amendment Law, amendments to the DIFC Operating Regulations and the Regulations applicable to other registered entities in the DIFC (also the subject of Consultation Paper No 6 of 2018). ",
+        "bbox": [
+            121,
+            211,
+            920,
+            480
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "13. In addition, provisions in the Current Regulations which relate to particular types of companies regulated by the DFSA (specifically Investment Companies (“ICs”) and Protected Cell Companies (“PCCs”)) will also be revised, updated and transferred to new Regulations covering ICs and PCCs, which are the subject of Consultation Papers No 119, released jointly by the DIFCA and the DFSA, simultaneously with this Consultation Paper. ",
+        "bbox": [
+            95,
+            498,
+            920,
+            606
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14. The remaining elements of the reorganisation of the regulation of Companies will be the revision of the existing Special Purpose Companies (“SPC”) Regulations and the enactment of Regulations in relation to Intermediate Special Purpose Vehicles (“ISPV”), to formalise in regulations, existing arrangements approved by the Board of DIFCA. In addition, completion of the regulatory changes approved by the DIFCA following its consideration of the Report of the Wealth Management Review Working Group will be effected by amendment of the Single Family Office (“SFO”) Regulations. These changes will be the subject of future Consultation Papers which will be released in the coming months. ",
+        "bbox": [
+            95,
+            624,
+            920,
+            801
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15. The result will be that the 2018 Proposed Companies Law and the Proposed Regulations deal with matters which affect companies only. Matters which affect all entities under the supervision of the Registrar of Companies (“the Registrar”) and the administration of the general business regulatory scheme in the DIFC will be provided for in the DIFC Operating Law and DIFC Operating Regulations, unless there are particular reasons to have them as stand-alone Regulations, as is the case with the proposed Ultimate Beneficial Ownership Regulations. Particular types of Companies will be the subject of further Regulations issued either by the DIFCA (such as Regulations covering SPCs and ISPVs or the DIFCA together with the DFSA (such as the Regulations covering ICs and PCCs). ",
+        "bbox": [
+            95,
+            819,
+            920,
+            927
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            661,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            501,
+            935,
+            513,
+            945
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "16. The key aspects of the legislative proposal include: ",
+        "bbox": [
+            94,
+            171,
+            577,
+            188
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a. substitution of existing provisions relating to ICs and PCCs with stand-alone Regulations (which are expected to be enacted simultaneously with this proposal);   \nb. substitution of existing provisions relating to the issue and renewal of Commercial Licences (including adoption of trading names) with new provisions in the DIFC Operating Law and Regulations;   \nc. alignment of Company annual reporting with annual reporting by other DIFC registered or incorporated entities in the form of a Confirmation Statement, also to be effected in the DIFC Operating Law and Regulations;   \nd. consequential changes to reflect changes in the Law (e.g. abolition of minimum capital requirements in the current Regulation 2.7.1);   \ne. adoption of a general requirement for companies to file accounts with the Registrar (unless exempted by the 2018 Proposed Companies Law or other stand-alone companies regulations) by repealing the existing Regulation 6.7.1;   \nf. substitution of new Standard Articles for the existing Standard Articles (Appendix 2); and   \ng. miscellaneous enhancements. ",
+        "bbox": [
+            151,
+            205,
+            920,
+            653
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "17. This Consultation Paper seeks comment only on those aspects of the proposed changes which are contained in the Companies Regulations. Comments on those aspects of the proposed changes which have been effected in the Operating Regulations should be provided in response to Consultation Paper No. 6 of 2018, relating to the proposed Operating Law and related matters, released simultaneously with this consultation paper. ",
+        "bbox": [
+            95,
+            668,
+            920,
+            776
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q1. Can you identify any possible adverse consequences which might flow from the transfer of IC and PCC provisions to stand alone regulations? ",
+        "bbox": [
+            90,
+            796,
+            920,
+            839
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            661,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            501,
+            934,
+            513,
+            945
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Transfer of certain provisions to the DIFC Operating Law and Regulations ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            70,
+            718,
+            87
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "18. The proposal envisages an enhanced role for the DIFC Operating Regulations as the intention is that the Companies Regulations will be the legislative framework for matters affecting companies alone, while matters relating to the role of the Registrar and the exercise of his powers and functions as well as matters of a more general business regulatory nature affecting all DIFC entities, will be located within the framework of the Operating Regulations. ",
+        "bbox": [
+            95,
+            100,
+            920,
+            232
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "19. As all entities which carry on business in the DIFC are required to have a Licence (unless exempted) and Licences are currently dealt with under the existing DIFC Operating Regulations, it is considered more logical to provide for all matters relating to Licences in the new DIFC Operating Law and Regulations ",
+        "bbox": [
+            94,
+            250,
+            920,
+            337
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "20. Similarly requirements relating to the conduct of business in the DIFC that apply to all DIFC entities such as names, trading names and registered office requirements are proposed to be located in the DIFC Operating Law and Regulations. Full details relating to these requirements may be found in Consultation Paper No 6 of 2018 in relation to the DIFC Operating Law and related matters. ",
+        "bbox": [
+            92,
+            355,
+            919,
+            463
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Q2. Is the transfer of the Registrar’s powers in relation to licences, names and related matters from the Companies Regulations to the DIFC Operating Regulations appropriate? ",
+        "bbox": [
+            92,
+            484,
+            919,
+            548
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Consequential changes related to the 2018 Proposed Companies Law ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            596,
+            681,
+            614
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. Many of the changes which have been made in the Proposed Regulations reflect the changes that will be effected by the 2018 Proposed Companies Law (such as the abolition of the minimum capital requirement for Private Companies in the current Regulation 2.7.1). These do not raise additional policy considerations and accordingly are not addressed in this Consultation Paper ",
+        "bbox": [
+            94,
+            627,
+            920,
+            736
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "22. The new merger provisions in Part 8 of the 2018 Proposed Companies Law require the lodgement of documents with the Registrar to enable the Registrar’s records to correctly record what has occurred. Proposed Regulation 5 sets out these requirements. ",
+        "bbox": [
+            92,
+            754,
+            920,
+            818
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Q3. Does proposed Regulation 5 satisfactorily address all issues required to be dealt with by the Regulations in relation to mergers? If not, what else is required? ",
+        "bbox": [
+            92,
+            839,
+            919,
+            881
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            661,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            501,
+            934,
+            513,
+            945
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Q4. Are there any other matters which should be addressed in Regulations under the 2018 Proposed Companies Law or the proposed DIFC Operating Law?   \nQ5. Are there any matters which have not been addressed satisfactorily (or at all) in the Proposed Regulations or proposed DIFC Operating Regulations? ",
+        "bbox": [
+            89,
+            68,
+            920,
+            172
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Filing of Accounts ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            207,
+            247,
+            224
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "23. Article 128(5) of the 2018 Proposed Companies Law will require most Companies to file their financial statements with the Registrar. Article 128(6) contains an exemption for Small Private Companies. In addition, Part 11 of the 2018 Proposed Companies Law will continue present arrangements that enable special regulatory schemes to be established for particular types of companies which may contain an exemption from the requirement to file accounts. ",
+        "bbox": [
+            92,
+            238,
+            856,
+            370
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "24. The intention of the legislative change was to make provision of company accounts to the Registrar the general practice unless the Law or Regulations provide otherwise.Accordingly the general exemption under the current Regulation 6.7.1 to the requirement for the filing of accounts will be repealed. ",
+        "bbox": [
+            92,
+            388,
+            920,
+            475
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "25. While the basic policy change referred to in paragraph 23 has been the subject of consultation in the context of the 2017 Proposed Companies Law, there still will be scope for exemptions under specific Regulations. ",
+        "bbox": [
+            92,
+            494,
+            919,
+            557
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Q6. Other than the exemptions for small private companies, should any other exemptions from the requirement to file accounts with the Registrar be considered in the Proposed Regulations? ",
+        "bbox": [
+            92,
+            578,
+            919,
+            642
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Transitional Provisions ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            665,
+            286,
+            681
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "26. Article 155(6)(c) of the 2018 Proposed Companies Law empowers the Board of DIFCA to make regulations which: ",
+        "bbox": [
+            92,
+            695,
+            920,
+            737
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“make transitional and savings provisions for the purposes of giving effect to, or to facilitate, the transition from the Previous Law to this Law, including in relation to the conversion of: ",
+        "bbox": [
+            178,
+            756,
+            919,
+            787
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a. each Company Limited by Shares registered under the Previous Law, into a Private Company or a Public Company; or b. each Limited Liability Company registered under the Previous Law, into a Private Company.” ",
+        "bbox": [
+            181,
+            799,
+            919,
+            858
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "27. The specific requirements mentioned in the Article reflect the change in the types of company which may be incorporated under the 2018 Proposed Companies Law. ",
+        "bbox": [
+            95,
+            870,
+            920,
+            910
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            663,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            501,
+            934,
+            513,
+            945
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "28. Regulation 10.1 contains the proposed transitional provisions. These give effect to the specific requirements mentioned above by: ",
+        "bbox": [
+            90,
+            66,
+            919,
+            106
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "a. converting each Limited Liability Company or a Company Limited by Shares which does not meet the requirements of Regulation 10.5 registered under the Previous Law into a Private Company with an amended name (Proposed Regulation 10.4);   \nb. converting each Company Limited by Shares registered under the Previous Law that meets the requirements of Regulation 10.5 into a Public Company with an amended name;   \nc. requiring the Registrar to enter the new company names in the Register (Proposed Regulations 10.4 and 10.5);   \nd. requiring all Companies to amend their articles so as to be consistent with the 2018 Proposed Companies Law (Proposed Regulation 10.6);   \ne. In the case of Limited Liability Companies, converting membership interests to subscribed capital and requiring them to update their registers accordingly, reclassifying managers as directors, and amendment of their articles in accordance with Proposed Regulation 10.6, making provision for deeming articles to be inserted to cover issues which would have otherwise been given effect by the previous Law (Proposed Regulation 10.7); and   \nf. requiring Public Companies to amend their articles to comply with the 2018 Proposed Companies Law and, if necessary, increase their share capital (Proposed Regulation 10.8.).   \nQ7. Do the proposed transitional provisions satisfactorily address all the matters required to be addressed to effect the conversion of existing Companies into Companies of their assigned category under the 2018 Proposed Companies Law?   \nQ8. Are there any other issues which should be addressed by the transitional provisions, that are not currently addressed? ",
+        "bbox": [
+            151,
+            123,
+            922,
+            644
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Standard Articles ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            808,
+            242,
+            824
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "29. Upon the enactment of the 2018 Proposed Companies Law, the underlying corporate law for which the previous Standard Articles were designed has changed, particularly in respect of the requirement for all companies to have a share capital and the abolition of the requirement in the Law itself that Limited Liability Companies should have a tightly controlled shareholding and management structure. ",
+        "bbox": [
+            92,
+            838,
+            920,
+            925
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            661,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            501,
+            934,
+            513,
+            945
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "30. The previous Standard Articles applied only to companies limited by shares. While it is not expected that Public Companies will generally have their arrangements based upon the Standard Articles, they are free to do so provided they comply with the additional requirements applicable to Public Companies. The new Standard Articles (contained in Appendix 2) have however, been prepared very much with the requirements of Private Companies in mind. ",
+        "bbox": [
+            94,
+            103,
+            919,
+            233
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "31. In addition, changes such as the proposed Standard Articles have updated provisions relating to electronic communication and provisions for the consequences of death of a sole director. ",
+        "bbox": [
+            92,
+            251,
+            919,
+            314
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "32. Topics dealt with for the first time or in greater detail include: ",
+        "bbox": [
+            89,
+            333,
+            659,
+            352
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "a. classes of shares (article 8);   \nb. share certificates (article 9);   \nc. liens over partly paid shares (article 10);   \nd. calls on shares (article 11);   \ne. transmission of shares (article 13);   \nf. delegation of directors powers (article 23); and g. reserve powers of shareholders (article 24). ",
+        "bbox": [
+            153,
+            370,
+            611,
+            610
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "33. These have largely been modelled on corresponding provisions in the United Kingdom Companies Act 2006 and their corresponding private company model articles as well as the model articles of other common law jurisdictions such as Jersey, Singapore, Hong Kong and Australia. ",
+        "bbox": [
+            92,
+            628,
+            920,
+            713
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Q9. Do the proposed Standard Articles satisfactorily address the issues in respect of which they make provision? If not, how could they be improved?   \nQ10. Are there any other matters which should be the addressed in the Standard Articles which have not been dealt with? If so, what additional matters should be addressed? ",
+        "bbox": [
+            85,
+            735,
+            920,
+            837
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Miscellaneous enhancements ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            868,
+            343,
+            883
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "34. In addition to the changes outlined above, the changes to the Regulations involve ",
+        "bbox": [
+            97,
+            899,
+            917,
+            916
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            663,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            501,
+            934,
+            513,
+            945
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "modernising the language used in the Proposed Regulations and simplifying the way in which various concepts are addressed. ",
+        "bbox": [
+            146,
+            66,
+            917,
+            106
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Q11. Do you have any other comments on the contents or application of the Proposed Regulations? ",
+        "bbox": [
+            87,
+            129,
+            914,
+            169
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Legislative Proposal ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            194,
+            267,
+            210
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "35. This legislative proposal contains the following: ",
+        "bbox": [
+            92,
+            224,
+            548,
+            242
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "a. the Proposed Regulations (at Annex A);   \nb. the Current Regulations (at Annex B);   \nc. a comparison of the Current Regulations and the Proposed Regulations (at Annex C);   \nd. the 2018 Proposed Companies Law as now proposed to be enacted (at Annex D);   \ne. a comparison of the current Model Articles and proposed Model Articles (Annex E)   \nf. a table of comments to provide your views and comments on the consultation paper (at Annex F). ",
+        "bbox": [
+            151,
+            258,
+            919,
+            508
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            661,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            500,
+            935,
+            516,
+            945
+        ],
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "type": "text",
+        "text": "ENF 012/2009 - Order ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            172,
+            349,
+            195
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SEPTEMBER 03, 2009 ENFORCEMENT,ORDERS ",
+        "bbox": [
+            40,
+            200,
+            477,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Case No: ENF 012/2009 THE JUDICIAL AUTHORITY OF THE DUBAI INTERNATIONAL FINANCIAL CENTRE IN THE COURT OF FIRST INSTANCE Between ",
+        "bbox": [
+            38,
+            254,
+            946,
+            299
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f6ec36288524b71a3843a5644ae61f23fd72d334f5845da0e88f241ea425b3a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>SHEREEN ALDISI</td><td>Judgment Creditor</td></tr><tr><td>And ORION HOLDING OVERSEAS LIMITED</td><td>Judgment Debtor</td></tr></table>",
+        "bbox": [
+            43,
+            302,
+            667,
+            382
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ORDER This application been called for hearing (as a return date for third party debt order) on this day before Honorable Judge Ali Al Madhani AND UPON the hearing IT IS ORDERED THAT: ",
+        "bbox": [
+            42,
+            409,
+            934,
+            451
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. The Judgment Debtor to make a payment into the DIFC Courts' account the sum of AED   \n71,187 pending Court further order. ",
+        "bbox": [
+            72,
+            455,
+            895,
+            493
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. The third party debt order issued on 5 August 2009 to be discharged after the transfer of the sum is made into the Courts' account. ",
+        "bbox": [
+            70,
+            514,
+            926,
+            555
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. The parties are at liberty to submit such further applications and documents to the Court as they consider appropriate. ",
+        "bbox": [
+            77,
+            576,
+            924,
+            615
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ali Al Madhani Enforcement Judge Date of Issue: 3 September 2009 At: 2pm ",
+        "bbox": [
+            52,
+            621,
+            747,
+            640
+        ],
+        "page_idx": 0
+    }
+]

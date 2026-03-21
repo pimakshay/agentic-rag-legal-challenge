@@ -1,0 +1,404 @@
+[
+    {
+        "type": "text",
+        "text": "ARB 024/2025 Olympio v Olwin AUGUST 28, 2025 ARBITRATION - ORDERS ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            171,
+            482,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IN THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS ",
+        "text_level": 1,
+        "bbox": [
+            205,
+            291,
+            794,
+            310
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IN THE COURT OF FIRST INSTANCE ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            326,
+            388,
+            346
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BETWEEN ",
+        "bbox": [
+            40,
+            361,
+            144,
+            378
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OLYMPIO ",
+        "bbox": [
+            453,
+            395,
+            546,
+            413
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claimant ",
+        "bbox": [
+            875,
+            430,
+            959,
+            447
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "bbox": [
+            480,
+            463,
+            519,
+            479
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OLWIN ",
+        "bbox": [
+            465,
+            498,
+            534,
+            516
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Defendant ",
+        "bbox": [
+            862,
+            531,
+            959,
+            548
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ORDER WITH REASONS OF ASSISTANT REGISTRAR HAYLEY NORTON ",
+        "text_level": 1,
+        "bbox": [
+            161,
+            587,
+            838,
+            607
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UPON the Order of H.E. Justice Shamlan Al Sawalehi dated 9 July 2025 recognising and enforcing the Final Award dated 11 June 2025 issued in SIAC Arbitration (the “SIAC Order”) ",
+        "bbox": [
+            40,
+            651,
+            959,
+            695
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Worldwide Freezing Order of H.E. Justice Shamlan Al Sawalehi dated 21 July 2025 (“WFO”) ",
+        "bbox": [
+            40,
+            708,
+            959,
+            751
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Claimant’s Application No. ARB-024-2025/2 dated 25 July 2025 for continuation of the WFO (the “Continuation Application”) ",
+        "bbox": [
+            40,
+            765,
+            961,
+            809
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Defendant’s Application No. ARB-024-2025/3 dated 28 July 2025 seeking an order for an adjournment of the SIAC Order (the “Adjournment Application”) ",
+        "bbox": [
+            40,
+            822,
+            961,
+            866
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Defendant’s Application No. ARB-024-2025/5 dated 31 July 2025 to discharge the WFO (the “Discharge Application”) ",
+        "bbox": [
+            42,
+            879,
+            959,
+            923
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claim No. ARB 024/2025 ",
+        "bbox": [
+            726,
+            256,
+            959,
+            273
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Defendant’s Application No. ARB-024-2025/6 dated 1 August 2025 seeking a stay of all proceedings in this claim and related enforcement proceedings, pending the determination Application No. 2 of 2025 before the Confl icts of Jurisdiction Tribunal (the “CJT”) (the “Stay Application”) ",
+        "bbox": [
+            40,
+            17,
+            959,
+            109
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Order of H.E. Justice Shamlan Al Sawalehi dated 7 August 2025 dismissing the Stay Application (the “Order dated 7 August 2025”) ",
+        "bbox": [
+            40,
+            123,
+            961,
+            166
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON a hearing having been listed before H.E. Justice Shamlan Al Sawalehi on 28 August 2025 to hear the Continuation Application, Adjournment Application, and the Discharge Application (the “Consolidated Application Hearing”) ",
+        "bbox": [
+            40,
+            179,
+            961,
+            248
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Defendant's Application No. ARB-024-2025/8 dated 27 August 2025 seeking an urgent order staying all proceedings in this claim (including the Consolidated Application Hearing and all related enforcement cases and applications) pending fi nal determination of Application No. 2 of 2025 before the CJT (the “Urgent Application”) ",
+        "bbox": [
+            40,
+            260,
+            961,
+            353
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON reviewing Part 25 of the Rules of the DIFC Courts (“RDC”) ",
+        "bbox": [
+            40,
+            366,
+            677,
+            386
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IT IS HEREBY ORDERED THAT: ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            401,
+            337,
+            420
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The Urgent Application is dismissed for its failure to comply with the procedural requirements of RDC Part 25. ",
+        "bbox": [
+            40,
+            435,
+            961,
+            478
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. The Defendant shall bear its own costs of the Urgent Application. ",
+        "bbox": [
+            40,
+            493,
+            643,
+            511
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Issued by:   \nHayley Norton   \nAssistant Registrar   \nDate of Issue: 28 August 2025   \nAt: 12pm ",
+        "bbox": [
+            682,
+            525,
+            959,
+            643
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE OF REASONS ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            659,
+            289,
+            677
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The full procedural history of this claim is relevantly set out in the Order of H.E. Justice Shamlan Al Sawalehi and in the interests of brevity need not be repeated here. ",
+        "bbox": [
+            42,
+            693,
+            961,
+            736
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. For present purposes, I shall only address the Defendant’s urgent application fi led on 27 August 2025 under Part 25 of the Rules of the DIFC Courts (“RDC”) seeking a stay of proceedings pending fi nal determination of Application No. 2 of 2025 before the Confl icts of Jurisdiction Tribunal (the “CJT”) (the “Urgent Application”). ",
+        "bbox": [
+            40,
+            750,
+            961,
+            841
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. RDC Part 25 requires that where a party intends to make an urgent application, the Registrar must fi rst be placed on notice, for an assessment of urgency to be made, before the application is fi led. ",
+        "bbox": [
+            40,
+            856,
+            961,
+            900
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. On 27 August 2025, the Defendant’s legal representative, Mr. Othmane Saadani was informed by way of telephone that the Registry was awaiting directions from the Judge as to whether the Consolidated Application Hearing would remain listed for 28 August 2025 or be adjourned to a later date, and that the parties would be notifi ed of the Judge’s directions as soon as possible. ",
+        "bbox": [
+            40,
+            17,
+            961,
+            109
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. Regardless of the Registry’s telephone confi rmation, the Defendant proceeded to fi le the Urgent Application without having fi rst received confi rmation from the Registrar that such an application may be brought under RDC Part 25. ",
+        "bbox": [
+            40,
+            122,
+            961,
+            190
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. At 2.29pm (the same time the Urgent Application was fi led), the Registry emailed the parties with the Judge’s directions that the Consolidated Application Hearing had been adjourned and would be relisted on a date not before 2 September 2025, being the date of the next CJT’s meeting. ",
+        "bbox": [
+            40,
+            204,
+            961,
+            271
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. Furthermore, it is imperative to note that RDC Part 25 governs interim remedies and security over costs. There is no mention within RDC Part 25 of its applicability to applications seeking a stay of proceedings, nor has the Application put forward any submissions that would allow for the Application to be considered under Part 25. ",
+        "bbox": [
+            40,
+            284,
+            961,
+            376
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8. Bringing an application under a provision that does not support the relief sought constitutes a misconceived and procedurally irregular application. Such applications waste the resources of the Court and the parties, contrary to the Overriding Objective (RDC 1.6) to deal with cases justly and proportionately. ",
+        "bbox": [
+            40,
+            391,
+            961,
+            482
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9. The Defendant’s actions in fi ling the Urgent Application were procedurally defective and regrettably has led to unnecessary fi ling fee costs being incurred. Accordingly, the Urgent Application is dismissed. ",
+        "bbox": [
+            40,
+            495,
+            959,
+            562
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. The Defendant shall bear its own costs of the Urgent Application. ",
+        "bbox": [
+            42,
+            576,
+            655,
+            596
+        ],
+        "page_idx": 2
+    }
+]

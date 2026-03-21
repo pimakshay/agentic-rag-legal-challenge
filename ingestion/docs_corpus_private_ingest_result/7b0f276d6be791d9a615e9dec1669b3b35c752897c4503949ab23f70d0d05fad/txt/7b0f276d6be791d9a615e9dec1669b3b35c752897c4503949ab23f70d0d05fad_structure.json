@@ -1,0 +1,686 @@
+{
+    "0": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "DIFC ",
+        "level": 1
+    },
+    "1": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "LIMITED LIABILITY PARTNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "2": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "Consolidated Version No. 2   \nIn force on 12 November 2018 ",
+        "level": 2
+    },
+    "3": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "CONTENTS ",
+        "level": 1
+    },
+    "4": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "1. INTRODUCTION... ",
+        "level": 2
+    },
+    "5": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "1.1 Application and interpretation .   \n1.2 References to writing . ",
+        "level": 3
+    },
+    "6": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2. INCORPORATION .. ",
+        "level": 2
+    },
+    "7": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2.1 Application for incorporation . . 2   \n2.2 Limited Liability Partnership Agreement . . 2   \n2.3 Certificate of incorporation..... .. 2 ",
+        "level": 3
+    },
+    "8": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "3. MEMBERS AND DESIGNATEDMEMBERS ..... .... 3 ",
+        "level": 2
+    },
+    "9": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "3.1 Register of Members and Designated Members . 3   \n3.2 Change of Members and Designated Members .... 3 ",
+        "level": 3
+    },
+    "10": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "4. ACCOUNTS AND AUDIT .... ",
+        "level": 2
+    },
+    "11": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "4.1 Application .......... .... 3   \n4.2 Accounting standards.. .. 3   \n4.3 Appointment of auditor.. . 4   \n4.4 Exemption . . 4 ",
+        "level": 3
+    },
+    "12": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "5. RECOGNISED LIMITED LIABILITYPARTNERSHIPS... ",
+        "level": 2
+    },
+    "13": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "5.2 Certificate of registration..... 5   \n5.3 Requirements of a Recognised Limited LiabilityPartnership . 5 ",
+        "level": 3
+    },
+    "14": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "6. MISCELLANEOUS.... ",
+        "level": 2
+    },
+    "15": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "6.2 Public Register.... 6 ",
+        "level": 3
+    },
+    "16": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Appendix 1 - Fees ....... .. 8 ",
+        "level": 2
+    },
+    "17": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "LIMITED LIABILITY PARTNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "18": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "i ",
+        "level": 5
+    },
+    "19": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "The Board of Directors of the DIFCA, in the exercise of the powers conferred on them by Article 42 of the Law, hereby make these Regulations. ",
+        "level": 2
+    },
+    "20": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1. INTRODUCTION ",
+        "level": 2
+    },
+    "21": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1 Application and interpretation ",
+        "level": 3
+    },
+    "22": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1.1 These Regulations may be cited as the “Limited Liability Partnership Regulations”. ",
+        "level": 4
+    },
+    "23": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1.2 These Regulations apply to: ",
+        "level": 4
+    },
+    "24": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "(a) Limited Liability Partnerships incorporated under the Law and persons applying for the incorporation of a Limited Liability Partnership under the Law;   \n(b) Members, Designated Members, officers and employees of Limited Liability Partnerships incorporated under the Law;   \n(c) auditors of Limited Liability Partnerships;   \n(d) Foreign Limited Liability Partnerships and Recognised Limited Liability Partnerships;   \n(e) the Registrar; and   \n(f) any other Person to whom the Law applies. ",
+        "level": 4
+    },
+    "25": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1.3 In these Regulations a reference to the Law is a reference to the Limited Liability Partnership Law 2004. ",
+        "level": 4
+    },
+    "26": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1.4 Defined terms are identified throughout these Regulations by the capitalisation of the initial letter of a word or phrase. Where capitalisation of the initial letter is not used, an expression has its natural meaning. ",
+        "level": 4
+    },
+    "27": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1.5 The following defined terms have the meaning given below: ",
+        "level": 4
+    },
+    "28": {
+        "type": "table",
+        "page_idx": 2,
+        "text": "<table><tr><td rowspan=1 colspan=1>Defined Term</td><td rowspan=1 colspan=1>Definition</td></tr><tr><td rowspan=1 colspan=1>Approved Person</td><td rowspan=1 colspan=1>a person appointed under Article 36(1)(a) of the Law, who is authorised to acceptservice of any Document or notice on behalf of the Recognised Limited LiabilityPartnership.</td></tr><tr><td rowspan=1 colspan=1>Authorised Person</td><td rowspan=1 colspan=1>a person defined as such in Schedule 1  item 3 of the Regulatory Law No. 1 of2004.</td></tr><tr><td rowspan=1 colspan=1>DNFBP</td><td rowspan=1 colspan=1>has the meaning given to that term in the Regulatory Law 2004.</td></tr><tr><td rowspan=1 colspan=1>Recognised Person</td><td rowspan=1 colspan=1>a recognised person as defined under Article 37(3) of the Markets Law No. 1 of2012.</td></tr></table>",
+        "level": 4
+    },
+    "29": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1.6 All other defined terms have the same meaning they have under the Law. ",
+        "level": 4
+    },
+    "30": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.2 References to writing ",
+        "level": 3
+    },
+    "31": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.2.1 If a provision in these Regulations refers to a communication, notice, agreement of other document ‘in writing’ then, unless the contrary intention appears, it means in legible form and capable of being reproduced on paper, irrespective of the medium used. Expressions related to writing must be interpreted accordingly. ",
+        "level": 4
+    },
+    "32": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.2.2 This does not affect any other legal requirements which may apply in relation to the form or manner of executing a document or agreement. ",
+        "level": 4
+    },
+    "33": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "LIMITED LIABILITY PARTNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "34": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1 ",
+        "level": 5
+    },
+    "35": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2. INCORPORATION ",
+        "level": 2
+    },
+    "36": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2.1 Application for incorporation ",
+        "level": 3
+    },
+    "37": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2.1.1 Any two or more persons applying for the incorporation of a Limited Liability Partnership shall use the form prescribed by the Registrar and shall include the following particulars: ",
+        "level": 4
+    },
+    "38": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(a) the full name and address, the date and place of birth and all former given or family names of the proposed Members;   \n(b) the names of the Designated Members;   \n(c) the full address of the registered office of the Limited Liability Partnership, which must be within the DIFC;   \n(d) every other matter that the Registrar considers appropriate; and   \n(e) a copy of the Limited Liability Partnership Agreement. ",
+        "level": 4
+    },
+    "39": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2.1.2 Where a person applying for the incorporation of a Limited Liability Partnership is a body corporate, the application shall be accompanied by a copy of the incorporator’s current certificate of incorporation or registration in its place of origin, or a document of similar effect, certified by the relevant authority in the jurisdiction in which it is incorporated or otherwise to the satisfaction of the Registrar. ",
+        "level": 4
+    },
+    "40": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2.2 Limited Liability Partnership Agreement ",
+        "level": 3
+    },
+    "41": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2.2.1 Subject to the requirements of the Law, a Limited Liability Partnership Agreement shall, at least, provide for the: ",
+        "level": 4
+    },
+    "42": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(a) process by which Members may be appointed to or cease to be Members of the Limited Liability Partnership;   \n(b) proceedings at meetings of the Members;   \n(c) accounts and other information to be provided to Members;   \n(d) appointment, retirement, disqualification and removal of Designated Members;   \n(e) powers of Designated Members;   \n(f) liability of the members to contribute to the assets of the Limited Liability Partnership in the event of it being wound up; and   \n(g) keeping of minutes. ",
+        "level": 4
+    },
+    "43": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2.3 Certificate of incorporation ",
+        "level": 3
+    },
+    "44": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2.3.1 The certificate of incorporation issued by the Registrar upon registration of a Limited Liability Partnership or upon registration of a change of name of the Limited Liability Partnership shall set out: ",
+        "level": 4
+    },
+    "45": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(a) the name of the Limited Liability Partnership; (b) the Limited Liability Partnership’s registered number; (c) a statement that the Limited Liability Partnership is incorporated; and ",
+        "level": 4
+    },
+    "46": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "LIMITED LIABILITY PARTNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "47": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2 ",
+        "level": 5
+    },
+    "48": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(d) the date of incorporation and if applicable the date on which the new name of the Limited Liability Partnership was registered. ",
+        "level": 4
+    },
+    "49": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "3. MEMBERS AND DESIGNATED MEMBERS ",
+        "level": 2
+    },
+    "50": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "3.1 Register of Members and DesignatedMembers ",
+        "level": 3
+    },
+    "51": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "3.1.1 The register of Members and Designated Members of every Limited Liability Partnership shall set out, in respect of each Member and Designated Member, the Member or Designated Member’s: ",
+        "level": 4
+    },
+    "52": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) full name;   \n(b) any former names;   \n(c) date and place of birth;   \n(d) address;   \n(e) any former addresses within the last five (5) years;   \n(f) date of appointment; and (g) date of cessation (if relevant). ",
+        "level": 4
+    },
+    "53": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "3.2 Change of Members and DesignatedMembers ",
+        "level": 3
+    },
+    "54": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "3.2.1 Whenever: ",
+        "level": 4
+    },
+    "55": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) a Member or Designated Member is appointed to a Limited Liability Partnership after initial registration of the Limited Liability Partnership; or (b) a Member or Designated Member retires, is removed or for any other reason ceases to act, ",
+        "level": 4
+    },
+    "56": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "the Limited Liability Partnership shall file with the Registrar a notice of change of Member or Designated Member, within thirty (30) days of the change of member, using the form prescribed by the Registrar. ",
+        "level": 4
+    },
+    "57": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "3.2.2 Whenever there is any change in the name or address of a Member of a Limited Liability Partnership, the Limited Liability Partnership shall file with the Registrar a notice of change of name or address using the form prescribed by the Registrar. ",
+        "level": 4
+    },
+    "58": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "ACCOUNTS AND AUDIT ",
+        "level": 2
+    },
+    "59": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "4.1 ",
+        "level": 3
+    },
+    "60": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Application ",
+        "level": 3
+    },
+    "61": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Regulations 4.2.1 and 4.2.2 do not apply to Authorised Persons or Recognised Persons. ",
+        "level": 4
+    },
+    "62": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "4.2 Accounting standards ",
+        "level": 3
+    },
+    "63": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "4.2.1 Subject to Regulation 4.2.2, accounts and financial statements prepared by a Limited Liability Partnership shall be prepared in accordance with and comply with the International Financial Reporting Standards. ",
+        "level": 4
+    },
+    "64": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "4.2.2 Should a Limited Liability Partnership consider that it is necessary to deviate from the standard it has adopted so as to be able to present a true and fair set of financial statements, the Registrar may, on application of the Limited Liability Partnership, consent to the deviation, subject to any conditions that he may impose. ",
+        "level": 4
+    },
+    "65": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "LIMITED LIABILITY PARTNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "66": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "3 ",
+        "level": 5
+    },
+    "67": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "4.3 Appointment of auditor ",
+        "level": 3
+    },
+    "68": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "A Limited Liability Partnership shall appoint an auditor who is registered pursuant to the DIFC Operating Law. ",
+        "level": 4
+    },
+    "69": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "A Limited Liability Partnership shall file a Notice of Appointment of Auditor with the Registrar immediately upon appointment of an auditor. ",
+        "level": 4
+    },
+    "70": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "A Limited Liability Partnership shall file a Notice of Cessation of Auditor with the Registrar immediately upon the resignation or removal of an auditor. ",
+        "level": 4
+    },
+    "71": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "A Limited Liability Partnership filing a Notice of Appointment of an Auditor or Notice of Cessation of an Auditor shall use the applicable form prescribed by the Registrar. ",
+        "level": 4
+    },
+    "72": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "4.4 Exemption ",
+        "level": 3
+    },
+    "73": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "Unless the Registrar otherwise directs, a Limited Liability Partnership which is not: ",
+        "level": 4
+    },
+    "74": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(a) an Authorised Person; (b) a DNFBP; or (c) a Recognised Person; ",
+        "level": 4
+    },
+    "75": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "is exempt from the requirements contained in Part 6 of the Law to have its accounts audited and to file accounts with the Registrar. ",
+        "level": 4
+    },
+    "76": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "5. RECOGNISED LIMITED LIABILITYPARTNERSHIPS ",
+        "level": 2
+    },
+    "77": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "5.1 Application for registration ",
+        "level": 3
+    },
+    "78": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "5.1.1 A Foreign Limited Liability Partnership applying for registration as a Recognised Limited Liability Partnership shall apply using the form prescribed by the Registrar and shall therein set out: ",
+        "level": 4
+    },
+    "79": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(a) the name and address of its place of business in the DIFC;   \n(b) the name and address of the Approved Person authorised to accept service of any document on behalf of the Recognised Limited Liability Partnership;   \n(c) a list of its Members and Designated Members including the following personal details: ",
+        "level": 4
+    },
+    "80": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(i) their given and family names; (ii) any former given or family name; (iii) their date and place of birth; and (iv) their address; and ",
+        "level": 4
+    },
+    "81": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "its registered office in its place of origin or, in the event there is no registered office required under the laws of the place of origin, its place of business in its place of origin. ",
+        "level": 4
+    },
+    "82": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "5.1.2 An application pursuant to Regulation 5.1.1 shall be accompanied by: ",
+        "level": 4
+    },
+    "83": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(a) a copy of the current certificate of its incorporation or registration in its place of origin, or a document of similar effect, certified by the relevant authority in the jurisdiction in which it is incorporated or otherwise to the satisfaction of the Registrar;   \n(b) a copy of the Limited Liability Partnership’s most recent audited accounts filed with the relevant authority in the jurisdiction in which it is incorporated or otherwise to the satisfaction of the Registrar. ",
+        "level": 4
+    },
+    "84": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "LIMITED LIABILITY PARTNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "85": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "4 ",
+        "level": 5
+    },
+    "86": {
+        "type": "text",
+        "page_idx": 6,
+        "text": ".1.3 If any of the documents are not in the English language, the documents shall be accompanied by a translation certified to the satisfaction of the Registrar. ",
+        "level": 4
+    },
+    "87": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "5.2 Certificate of registration ",
+        "level": 3
+    },
+    "88": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "5.2.1 On registration of the Foreign Limited Liability Partnership, the Registrar shall issue a certificate of registration as a Recognised Limited Liability Partnership which shall set out: ",
+        "level": 4
+    },
+    "89": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) the name of the Recognised Limited Liability Partnership;   \n(b) the Recognised Limited Liability Partnership’s registered number;   \n(c) a statement that the Recognised Limited Liability Partnership is registered as a Recognised Limited Liability Partnership; and   \n(d) the date of registration. ",
+        "level": 4
+    },
+    "90": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "5.3 Requirements of a Recognised Limited LiabilityPartnership ",
+        "level": 3
+    },
+    "91": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "5.3.1 For the purposes of Part 7 of the Law, ‘carrying on business’ includes: ",
+        "level": 4
+    },
+    "92": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) establishing or maintaining a place of business;   \n(b) administering, leasing to others, or managing property situated in the DIFC as principal or agent; (c) operating as a reporting entity under the Markets Law 2004; or   \n(d) employing persons; but shall not include merely:   \n(e) being a party to a proceeding, claim or dispute;   \n(f) holding meetings of its Members;   \n(g) creating a charge on property;   \n(h) collecting its debts or enforcing its rights in regard to any security;   \n(i) conducting an isolated transaction; or   \n(j) being a customer of an Authorised Person or a DNFBP. ",
+        "level": 4
+    },
+    "93": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "5.3.2 A Recognised Limited Liability Partnership shall, using the form prescribed by the Registrar: ",
+        "level": 4
+    },
+    "94": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) file with the Registrar a notice of appointment of an Approved Person and any changes in the details of such person whenever a new Approved Person is appointed or the details of the existing person change; and   \n(b) file with the Registrar a notice of change of its place of business in the DIFC, whenever the Recognised Limited Liability Partnership changes its place of business in DIFC. ",
+        "level": 4
+    },
+    "95": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "LIMITED LIABILITY PARTNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "96": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "5 ",
+        "level": 5
+    },
+    "97": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "6. MISCELLANEOUS ",
+        "level": 2
+    },
+    "98": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "6.1 ",
+        "level": 3
+    },
+    "99": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Fees ",
+        "level": 3
+    },
+    "100": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "For the purposes of Article 44(1) of the Law, the fees in respect of matters set out in Appendix 1 shall be paid to the Registrar by the relevant person. ",
+        "level": 4
+    },
+    "101": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "6.2 Public Register ",
+        "level": 3
+    },
+    "102": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "The Registrar shall maintain the register of Limited Liability Partnerships and Recognised Limited Liability Partnerships by recording the following details, insofar as they may be relevant, in respect of each Limited Liability Partnership or Recognised Limited Liability Partnership that is, or has been, incorporated or registered in the DIFC: ",
+        "level": 4
+    },
+    "103": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(a) current name;   \n(b) registered number;   \n(c) date of registration;   \n(d) former names;   \n(e) date of registration of every change of name;   \n(f) current registered office;   \n(g) former registered offices;   \n(h) date of cessation of former registered offices;   \n(i) current Members;   \n(j) date of registration of current Members;   \n(k) former Members;   \n(l) dates of registration and cessation of former Members;   \n(m) current Designated Members;   \n(n) date of registration of current Designated Members;   \n(o) former Designated Members;   \n(p) date of registration and cessation of former Designated Members;   \n(q) in the case of a Recognised Limited Liability Partnership, country in which Recognised Limited Liability Partnership is incorporated;   \n(r) the limited liability partnership’s financial year end.   \n(s) date of commencement and cessation of voluntary arrangement, rehabilitations, administrations, receiverships, or liquidations;   \n(t) name and address and date of appointment and date of cessation or vacation of office of: (i) each nominee or supervisor of a voluntary arrangement, within the meaning of the Insolven Law; ",
+        "level": 4
+    },
+    "104": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "LIMITED LIABILITY PARTNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "105": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "6 ",
+        "level": 5
+    },
+    "106": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(ii) each rehabilitation nominee of a rehabilitation, within the meaning of the Insolvency Law; (iii) each administrator of an administration, within the meaning of the Insolvency Law; (iv) each office-holder within the meaning of the Insolvency Law; and ",
+        "level": 4
+    },
+    "107": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "date of dissolution of the Limited Liability Partnership or date of de-registration of the Recognised Limited Liability Partnership, if applicable. ",
+        "level": 4
+    },
+    "108": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "LIMITED LIABILITY PARTNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "109": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "7 ",
+        "level": 5
+    },
+    "110": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "APPENDIX 1 - FEES ",
+        "level": 2
+    },
+    "111": {
+        "type": "table",
+        "page_idx": 9,
+        "text": "<table><tr><td rowspan=1 colspan=1>Upon receipt by the Registrar of:</td><td rowspan=1 colspan=1>Fee (USD)</td></tr><tr><td rowspan=1 colspan=1>Application for incorporation of a Limited Liability Partnership</td><td rowspan=1 colspan=1>$8,000</td></tr><tr><td rowspan=1 colspan=1>Application for incorporation of a Limited Liability Partnership conducting retail activities</td><td rowspan=1 colspan=1>$3,400</td></tr><tr><td rowspan=1 colspan=1>Application for registration of a Recognised Limited Liability Partnership</td><td rowspan=1 colspan=1>$8,000</td></tr><tr><td rowspan=1 colspan=1>Application for registration of a Recognised Limited Liability Partnership conducting retail activities</td><td rowspan=1 colspan=1>$3,400</td></tr><tr><td rowspan=1 colspan=1>Notice of appointment or cessation of a Member or Designated Member</td><td rowspan=1 colspan=1>Nil</td></tr><tr><td rowspan=1 colspan=1>Notice of change of name or address of a Member or Designated Member</td><td rowspan=1 colspan=1>Nil</td></tr><tr><td rowspan=1 colspan=1>Notice of appointment of Approved Person</td><td rowspan=1 colspan=1>Nil</td></tr><tr><td rowspan=1 colspan=1>Notice of change in details of Approved Person</td><td rowspan=1 colspan=1>Nil</td></tr><tr><td rowspan=1 colspan=1>Notice of appointment of auditor</td><td rowspan=1 colspan=1>Nil</td></tr><tr><td rowspan=1 colspan=1>Notice of cessation of auditor</td><td rowspan=1 colspan=1>Nil</td></tr></table>",
+        "level": 3
+    },
+    "112": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "LIMITED LIABILITY PARTNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "113": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "8 ",
+        "level": 5
+    }
+}

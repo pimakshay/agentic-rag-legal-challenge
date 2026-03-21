@@ -1,0 +1,2642 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            409,
+            338,
+            624,
+            387
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES DIFC LAW NO. 7 OF 2005 ",
+        "text_level": 1,
+        "bbox": [
+            153,
+            452,
+            845,
+            529
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Consolidated Version (March 2024) ",
+        "bbox": [
+            424,
+            584,
+            575,
+            615
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As amended by DIFC Laws Amendment Law DIFC Law No. 3 of 2024 ",
+        "bbox": [
+            395,
+            633,
+            602,
+            680
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC Laws Amendment Law DIFC Law No. 2 of 2022 ",
+        "bbox": [
+            395,
+            698,
+            601,
+            729
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            446,
+            98,
+            550,
+            112
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 1: GENERAL . ",
+        "text_level": 1,
+        "bbox": [
+            101,
+            125,
+            890,
+            140
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Title .... 1   \n2. Legislative Authority . .1   \n3. Application of the Law...... ................................................................................................................. ... 1   \n4. Date of enactment .... .......................................................................................................... .1   \n5. Commencement . 1   \n6. Interpretation....... .... 1 ",
+        "bbox": [
+            106,
+            142,
+            890,
+            223
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 2: DAMAGES UNDER THE LAW OF CONTRACT .... .... 1 ",
+        "text_level": 1,
+        "bbox": [
+            101,
+            235,
+            888,
+            249
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7. Application.. .......................................................................................................................... ... 1 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            251,
+            888,
+            262
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8. Right to damages........ ..................................................................................................................... ..... 1   \n9. Full compensation ... ................................................................................................................. .1   \n10. Measure of damages.................................................................................................................................. ..... 2   \n11. Certainty of harm ..... ........................................................................................................................ .... 2   \n12. Foreseeability of harm.......................... ............................................................................................... .... 2   \n13. Proof of harm in case of replacement transaction . ................................................................................ .2   \n14. Proof of loss by current price .. ......................................................................... .. 2   \n15. Loss due in part to aggrieved party . ...................................................................................................... .... 3   \n16. Mitigation of loss ...... .....   \n17. Interest for failure to pay Money.. .................................................................................................. ... 3   \n18. Interest on damages..... .................................................................................................... .. 3   \n19. Manner of monetary redress.... ........................................................................................... .... 3   \n20. Currency in which to assess damages . ................................................................................................ .... 3   \n21. Agreed payment for non-performance ................................................................................................... ... 3   \n22. Limitation... .5 ",
+        "bbox": [
+            104,
+            255,
+            895,
+            469
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 3: DAMAGES IN LAW OF OBLIGATIONS.. 5 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            480,
+            890,
+            495
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "23. Right to damages....... ..................................................................................................................... ..... 5   \n24. Full Compensation .... ....................................................................................................................... .... 5   \n25. Measure of damages.. .............................................................................................................. .. 5   \n26. Special cases .. .................................................................................................................... ... 5   \n27. Certainty of loss ......   \n28. Forseeability of harm ....   \n29. Loss due in part to injured party..................................................................................................................... 6   \n30. Mitigation of loss ....... .................................................................................................................... 6   \n31. Prohibition of double recovery.. ...................................................................................................... .... 6   \n32. Interest on damages.... ............................................................................................................. ..... 6   \n33. Manner of monetary redress........................................................................................................................... 6 ",
+        "bbox": [
+            104,
+            497,
+            895,
+            646
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 4: REMEDIES.. ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            657,
+            890,
+            672
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1: GENERAL. ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            674,
+            888,
+            686
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Orders for interim remedies........ ",
+        "bbox": [
+            144,
+            731,
+            855,
+            742
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 3: OTHER REMEDIES... . 9 ",
+        "text_level": 1,
+        "bbox": [
+            97,
+            745,
+            895,
+            758
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Injunctions....... ",
+        "bbox": [
+            144,
+            773,
+            855,
+            785
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 4: ENFORCEMENT OF ORDERS AND JUDGMENTS .. 11 ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            869,
+            888,
+            883
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "42. Powers of the Court.... ..11   \n43. Charging Orders... ..11   \n44. Attachment of Future Assets . ..12   \n45. Execution against Assets... .12   \n46. Appointment of a Receiver .. .12   \n47. Examination of Judgment Debtor.. .12 ",
+        "bbox": [
+            92,
+            883,
+            893,
+            925
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            493,
+            942,
+            505,
+            954
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 5: REMEDIES IN THE LAW OF RESTITUTION..... . 13 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            136,
+            893,
+            150
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "48. Right to restitution . ..13   \n49. Damages in lieu of restitution . .13 ",
+        "bbox": [
+            101,
+            153,
+            890,
+            179
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 1 ....... .... 14 ",
+        "bbox": [
+            97,
+            190,
+            893,
+            205
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ii ",
+        "bbox": [
+            491,
+            942,
+            505,
+            954
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            569,
+            55,
+            892,
+            71
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PART 1: GENERAL ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            98,
+            259,
+            112
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Title This Law may be cited as \"The Law of Damages and Remedies $2 0 0 5 ^ { \\circ }$ . ",
+        "bbox": [
+            166,
+            127,
+            648,
+            171
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Legislative Authority ",
+        "text_level": 1,
+        "bbox": [
+            166,
+            184,
+            321,
+            198
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law is made by the Ruler of Dubai. ",
+        "bbox": [
+            166,
+            212,
+            444,
+            226
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Application of the Law ",
+        "text_level": 1,
+        "bbox": [
+            168,
+            241,
+            335,
+            255
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law applies in the jurisdiction of the Dubai International Financial Centre. ",
+        "bbox": [
+            163,
+            269,
+            707,
+            285
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. Date of enactment ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            298,
+            301,
+            312
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law is enacted on the date specified in the Enactment Notice in respect of this Law. ",
+        "bbox": [
+            164,
+            326,
+            769,
+            340
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Commencement ",
+        "text_level": 1,
+        "bbox": [
+            164,
+            355,
+            287,
+            369
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law comes into force on the date specified in the Enactment Notice in respect of this Law. ",
+        "bbox": [
+            164,
+            383,
+            813,
+            397
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. Interpretation ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            412,
+            274,
+            426
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Schedule 1 contains: ",
+        "bbox": [
+            166,
+            440,
+            308,
+            454
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) interpretative provisions which apply to this Law; and (b) a list of defined terms used in this Law. ",
+        "bbox": [
+            164,
+            469,
+            594,
+            513
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            569,
+            55,
+            890,
+            71
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            493,
+            942,
+            503,
+            953
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PART 2: DAMAGES UNDER THE LAW OF CONTRACT ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            83,
+            540,
+            98
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Application ",
+        "text_level": 1,
+        "bbox": [
+            164,
+            112,
+            254,
+            127
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This Part applies to any contract to which the Law of Contract applies. ",
+        "bbox": [
+            166,
+            141,
+            644,
+            155
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8. Right to damages ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            169,
+            296,
+            184
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Any non-performance gives the aggrieved party a right to damages either exclusively or in conjunction with any other remedies except where the non-performance is excused under the Law of Contract. ",
+        "bbox": [
+            163,
+            198,
+            893,
+            226
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "9. Full compensation ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            241,
+            303,
+            255
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The aggrieved party is entitled to full compensation for loss sustained as a result of the non- performance. Such loss includes both any loss which it suffered and any gain of which it was deprived, taking into account any gain to the aggrieved party resulting from its avoidance of cost or loss. ",
+        "bbox": [
+            166,
+            269,
+            892,
+            312
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10. Measure of damages ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            326,
+            318,
+            340
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Subject to the limitations stated in this Part 2 of the Law, the injured party has a right to damages as measured by: ",
+        "bbox": [
+            159,
+            355,
+            893,
+            383
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) the loss in the value to him of the other party’s performance caused by its failure or deficiency, plus (b) any other loss, including incidental or consequential loss, caused by the breach, less (c) any cost or other loss that the injured party has avoided by not having to perform. ",
+        "bbox": [
+            164,
+            396,
+            893,
+            470
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "11. Certainty of harm ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            483,
+            299,
+            497
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) Compensation is due only for loss, including future loss, that is established with a reasonable degree of certainty.   \n(2) Compensation may be due for the loss of an opportunity in proportion to the probability of its occurrence.   \n(3) Where the amount of damages cannot be established with a sufficient degree of certainty, the assessment is at the discretion of the Court. ",
+        "bbox": [
+            164,
+            511,
+            892,
+            627
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12. Foreseeability of harm ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            640,
+            331,
+            654
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The non-performing party is liable only for loss which it foresaw or could reasonably have foreseen at the time of its non-performance as being likely to result therefrom. ",
+        "bbox": [
+            166,
+            668,
+            892,
+            697
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "13. Proof of harm in case of replacement transaction ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            711,
+            520,
+            725
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Where the aggrieved party has terminated the contract and has made a replacement transaction within a reasonable time and in a reasonable manner it may recover the difference between the contract price and the price of the replacement transaction as well as damages for any further loss. The aggrieved party shall never be liable to the non-performing party where such a difference between the two prices negates part of the loss. ",
+        "bbox": [
+            166,
+            739,
+            892,
+            809
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "14. Proof of loss by current price ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            825,
+            378,
+            839
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) Where the aggrieved party has terminated the contract and has not made a replacement transaction but there is a current price for the performance contracted for, it may recover the difference between the contract price and the price current at the time the contract is terminated as well as damages for any further loss. ",
+        "bbox": [
+            166,
+            853,
+            892,
+            910
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            569,
+            55,
+            890,
+            71
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2) Current price is the price generally charged for goods delivered or services rendered in comparable circumstances at the place where the contract should have been performed or, if there is no current price at that place, the current price at such other place that appears reasonable to take as a reference. ",
+        "bbox": [
+            166,
+            84,
+            892,
+            128
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "15. Loss due in part to aggrieved party ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            141,
+            420,
+            156
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Where the loss is due in part to an act or omission of the aggrieved party or to another event as to which that party bears the risk, the amount of damages shall be reduced to the extent that these factors have contributed to the loss, having regard to the conduct of each of the parties. ",
+        "bbox": [
+            166,
+            169,
+            892,
+            212
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "16. Mitigation of loss ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            226,
+            294,
+            241
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) The non-performing party is not liable for loss suffered by the aggrieved party to the extent that the loss could have been reduced by the latter party’s taking reasonable steps.   \n(2) The aggrieved party is entitled to recover any expenses reasonably incurred in attempting to reduce the loss. ",
+        "bbox": [
+            153,
+            254,
+            892,
+            326
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "17. Interest for failure to pay Money ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            340,
+            404,
+            355
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) If a party does not pay a sum of Money when it falls due the aggrieved party is entitled to interest upon that sum from the time when payment is due to the time of payment whether or not the nonpayment is excused.   \n(2) The rate of interest shall be the average bank short-term lending rate to prime borrowers prevailing for the currency of payment at the place for payment.   \n(3) Subject to the foreseability standard of Article 12 of this Law, the aggrieved party is entitled to additional damages if the non-payment caused it a greater loss. The aggrieved party is entitled to additional damages if the non-payment caused it a greater loss. ",
+        "bbox": [
+            151,
+            369,
+            893,
+            513
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "18. Interest on damages ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            526,
+            314,
+            540
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Unless otherwise agreed, interest on damages for non-performance of obligations accrues as from the time of non-performance. ",
+        "bbox": [
+            163,
+            554,
+            892,
+            583
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "19. Manner of monetary redress ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            597,
+            377,
+            611
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Damages, including the interest thereon, are to be paid in a lump sum. ",
+        "bbox": [
+            164,
+            625,
+            641,
+            640
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "20. Currency in which to assess damages ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            654,
+            436,
+            668
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Damages are to be assessed either in the currency in which the Monetary Obligation was expressed or in the currency in which the loss was suffered, whichever is more appropriate. ",
+        "bbox": [
+            163,
+            682,
+            890,
+            711
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. Agreed payment for non-performance ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            725,
+            444,
+            741
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) Where the contract provides that a party who does not perform is to pay a specified sum to the aggrieved party for such non-performance, the aggrieved party is entitled to that sum irrespective of its actual loss. ",
+        "bbox": [
+            159,
+            754,
+            892,
+            796
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) However, notwithstanding any agreement to the contrary the specified sum may be reduced to a reasonable amount where it is manifestly disproportionate to the loss envisaged as capable of resulting in relation to the loss resulting from the non-performance and to the other circumstances. ",
+        "bbox": [
+            154,
+            811,
+            893,
+            855
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            570,
+            55,
+            890,
+            71
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            493,
+            942,
+            505,
+            953
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "22. Limitation ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            84,
+            245,
+            98
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) An action for breach of any contract shall be commenced within six (6) years after the cause of action has accrued. By the original agreement the parties may reduce the period of limitation to not less than one year but may not extend it.   \n(2) A cause of action arises when the breach occurs, regardless of the aggrieved party’s lack of knowledge of the breach except where the breach constitutes or is combined with fraud, in which event a cause of action arises when the aggrieved party discovers the breach. ",
+        "bbox": [
+            154,
+            112,
+            893,
+            213
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            569,
+            57,
+            890,
+            71
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            493,
+            942,
+            505,
+            953
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PART 3: DAMAGES IN LAW OF OBLIGATIONS ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            83,
+            483,
+            98
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "23. Right to damages ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            112,
+            296,
+            127
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The breach of an obligation under the Law of Obligations gives the injured party a right to damages to compensate the injured party for the losses, pecuniary and non pecuniary, sustained as a result of the breach. The right to damages can either be exclusive or in conjunction with other remedies. ",
+        "bbox": [
+            166,
+            141,
+            892,
+            184
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "24. Full Compensation ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            198,
+            306,
+            212
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The injured party is entitled to full compensation for loss sustained as a result of the breach of the Law of Obligations. ",
+        "bbox": [
+            163,
+            226,
+            893,
+            255
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "25. Measure of damages ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            269,
+            318,
+            283
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The injured party has a right to damages as measured by that sum of Money which would put him in the same position as he would have been in if he had not sustained the wrong for which he is to be compensated, plus, in each case, any other loss caused by the breach of the Law of Obligations. ",
+        "bbox": [
+            166,
+            298,
+            893,
+            340
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "26. Special cases ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            355,
+            262,
+            369
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) In the case of personal injury, the injured party has the right to damages for non pecuniary loss as measured by that sum of Money as is fair and reasonable to compensate the injured party for the loss sustained.   \n(2) In the case of trespass to land, the injured party has a right to damages, in addition to an amount determined under Article 25, measured by an amount equal to what a person would reasonably have had to pay for his use of the land, if the possession of the land had allowed it, and the value of anything he removes from the land. ",
+        "bbox": [
+            156,
+            383,
+            895,
+            498
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "27. Certainty of loss ",
+        "bbox": [
+            107,
+            511,
+            287,
+            526
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) Compensation is due only for loss, including future loss, that is established with a reasonable degree of certainty.   \n(2) Compensation may be due for the loss of an opportunity in proportion to the probability of its occurrence.   \n(3) Where the amount of damages cannot be established with a sufficient degree of certainty, the assessment is at the discretion of the Court. ",
+        "bbox": [
+            149,
+            540,
+            893,
+            655
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "28. Forseeability of harm ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            668,
+            324,
+            682
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Article 28(2), the party which committed the breach of an obligation under the Law of Obligations is liable for loss which is of a kind that a reasonable man could reasonably have foreseen as a consequence of, and at the time of the commission of, the acts or omissions of the party which committed the breach. ",
+        "bbox": [
+            166,
+            697,
+            893,
+            754
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2) In relation to that kind of damage, the liability is: ",
+        "bbox": [
+            166,
+            768,
+            562,
+            783
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) in the case of pecuniary damage, for the damage so far as it could reasonably have been foreseen; and   \n(b) in the case of physical damage, for the full extent of the damage, whether foreseeable or unforeseeable in its extent. ",
+        "bbox": [
+            213,
+            796,
+            892,
+            869
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            569,
+            55,
+            890,
+            71
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            493,
+            942,
+            505,
+            953
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "29. Loss due in part to injured party ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            84,
+            405,
+            98
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) Where the loss is due in part to an act or omission of the injured party or to another event as to which that party bears the risk, the amount of damages shall be reduced to the extent that these factors have contributed to the loss, having regard to the conduct of each of the parties. ",
+        "bbox": [
+            164,
+            112,
+            892,
+            156
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2) This Article does not apply to:- (a) liability for deceit; or (b) wrongful interference with property. ",
+        "bbox": [
+            166,
+            169,
+            441,
+            184
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "30. Mitigation of loss ",
+        "bbox": [
+            106,
+            255,
+            294,
+            269
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) The party which committed the breach of obligation under the Law of Obligations is not liable for loss suffered by the injured party to the extent that the loss could have been reduced by the injured party taking reasonable steps.   \n(2) The injured party is entitled to recover any expenses reasonably incurred in attempting to reduce the loss.   \n(3) The injured party may not increase the damages claimed by his own unnecessary act subsequent to the breach of obligation. ",
+        "bbox": [
+            164,
+            283,
+            893,
+            413
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "31. Prohibition of double recovery ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            425,
+            388,
+            440
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Where a breach of the Law of Obligations gives rise to liability on the part of two or more parties, and the claimant has recovered a sum from a liable party or parties, then, in proceedings brought by the claimant against other liable parties, the Court shall reduce any award to the claimant to such extent as it thinks appropriate to take account of the sum recovered by the claimant without prejudice to the injured party’s rights to recovery based on the other parties joint and several liability, if any. ",
+        "bbox": [
+            166,
+            454,
+            892,
+            527
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "32. Interest on damages ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            540,
+            314,
+            554
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Unless otherwise agreed, interest on damages for non-performance of obligations accrues as from the time of non-performance. ",
+        "bbox": [
+            164,
+            568,
+            892,
+            597
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "33. Manner of monetary redress ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            611,
+            375,
+            625
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Damages, including interest thereon, are to be paid in a lump sum. ",
+        "bbox": [
+            166,
+            640,
+            616,
+            655
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            569,
+            55,
+            890,
+            71
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PART 4: REMEDIES ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            83,
+            267,
+            98
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1 – GENERAL ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            111,
+            303,
+            127
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "34. Remedies stipulated under this Law ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            141,
+            427,
+            155
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Where this Law provides that a person may claim or otherwise has a right to or is entitled to compensation, damages, restitution, specific performance, or any other relief or remedy, the Court may, on application made by such a person, make orders accordingly, together with any other order as the Court sees fit, except where the making of any particular order may be excluded under this Law. ",
+        "bbox": [
+            166,
+            169,
+            893,
+            226
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "35. Other orders ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            241,
+            262,
+            255
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) Where a person commits a breach of any requirement, duty or obligation which is imposed under any DIFC Law the Court may, on application of any person who is aggrieved by such conduct or has suffered loss or damage arising from such conduct, make one or more of the following: ",
+        "bbox": [
+            166,
+            269,
+            893,
+            312
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) an order for damages;   \n(b) an order for compensation;   \n(c) an order for restitution;   \n(d) an order for specific performance of a contract or part of a contract;   \n(e) a declaration as to the rights, liabilities and obligations of a person;   \n(f) an injunction;   \n(g) recission;   \n(h) rectification; or (i) any other order that the Court thinks fit. ",
+        "bbox": [
+            223,
+            326,
+            747,
+            568
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2) Where a person is engaging in or is proposing to engage in conduct that is likely to constitute a breach of any DIFC Law the Court may, on application of any person who is or will be aggrieved by such conduct, make one or more of the following orders: ",
+        "bbox": [
+            168,
+            583,
+            892,
+            627
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) an order restraining the first-mentioned person from engaging in the conduct;   \n(b) an order requiring that person to do any act or thing including, but not limited to, acts or things to minimise likely or possible loss or damage; or   \n(c) any other order as the Court may deem reasonably necessary in order to (i) prevent the breach, (ii) prevent the person whose past or anticipated conduct is likely to constitute a breach from profiting from the breach (or from contravening the law with impunity), or (iii) otherwise to avoid an unjust result. ",
+        "bbox": [
+            223,
+            638,
+            893,
+            769
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3) The Court may make an order under this Article in addition to or as an alternative to any order it is empowered to make elsewhere under the Law or under any other law, except as such Law or other law may otherwise provide. ",
+        "bbox": [
+            166,
+            782,
+            892,
+            825
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 2: INTERIM REMEDIES ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            838,
+            383,
+            853
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "36. Orders for interim remedies ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            868,
+            373,
+            882
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) The Court may grant the following interim remedies: ",
+        "bbox": [
+            166,
+            896,
+            587,
+            912
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            569,
+            55,
+            890,
+            71
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            493,
+            942,
+            505,
+            953
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) an interim injunction; ",
+        "bbox": [
+            227,
+            84,
+            437,
+            98
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(b) an interim declaration; ",
+        "bbox": [
+            227,
+            112,
+            442,
+            128
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(c) an order: ",
+        "bbox": [
+            227,
+            142,
+            350,
+            155
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(i) for the detention, custody or preservation of Relevant Property;   \n(ii) for the inspection of Relevant Property;   \n(iii) for the sale of Relevant Property which is of a perishable nature or which for any other good reason is desirable to sell quickly; and   \n(iv) for the payment of income from Relevant Property until a claim is decided. ",
+        "bbox": [
+            281,
+            168,
+            893,
+            285
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(d) an order authorising a person to enter any land or building in the possession of a party to the proceedings for the purposes of carrying out an order under Article 36(1)(c); ",
+        "bbox": [
+            222,
+            296,
+            893,
+            327
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(e) an order: ",
+        "bbox": [
+            225,
+            342,
+            350,
+            355
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(i) restraining a party from removing from the jurisdiction assets located there; or (ii) restraining a party from dealing with any assets whether located within the jurisdiction or not; ",
+        "bbox": [
+            286,
+            368,
+            890,
+            427
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(f) an order directing a party to provide information about the location of Relevant Property or assets or to provide information about Relevant Property or assets which are or may be the subject of an application for a freezing injunction; ",
+        "bbox": [
+            227,
+            440,
+            893,
+            484
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(g) an order requiring a party to admit another party to premises for the purpose of preserving evidence; ",
+        "bbox": [
+            227,
+            497,
+            893,
+            527
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(h) an order for disclosure of documents or inspection of property before a claim has been made; ",
+        "bbox": [
+            228,
+            540,
+            892,
+            570
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "an order for disclosure of documents or inspection of property against a non-party; ",
+        "bbox": [
+            244,
+            583,
+            850,
+            598
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(j) an order for payment by a defendant on account of any damages, debt or other sum (except costs) which the Court may hold the defendant liable to pay; ",
+        "bbox": [
+            217,
+            611,
+            893,
+            641
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(k) an order for a specified fund to be paid into Court or otherwise secured, where there is a dispute over a party's right to the fund; ",
+        "bbox": [
+            215,
+            653,
+            892,
+            684
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(l) an order permitting a party seeking to recover personal property to pay Money into court pending the outcome of the proceedings and directing that, if he does so, the property shall be given up to him; ",
+        "bbox": [
+            218,
+            697,
+            895,
+            741
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(m) an order directing a party to prepare and file accounts relating to the dispute; ",
+        "bbox": [
+            225,
+            752,
+            808,
+            769
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2) In Article 36(1)(c) and (f), Relevant Property means property (including land) which is the subject of a claim or as to which any question may arise on a claim. ",
+        "bbox": [
+            166,
+            839,
+            892,
+            869
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3) The Court may grant an interim remedy whether or not there has been a claim for a final remedy of that kind. ",
+        "bbox": [
+            164,
+            882,
+            890,
+            910
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            569,
+            55,
+            890,
+            71
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            493,
+            942,
+            505,
+            954
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 3: OTHER REMEDIES ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            83,
+            368,
+            98
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "37. Declarations ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            112,
+            260,
+            127
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The Court may make binding declarations on points of law or fact whether or not any other remedy is claimed. ",
+        "bbox": [
+            168,
+            141,
+            892,
+            169
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "38. Injunctions ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            184,
+            252,
+            199
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) The Court may by order grant an injunction in all cases in which it appears to the Court to be just and convenient to do so, including such order as shall: ",
+        "bbox": [
+            156,
+            211,
+            893,
+            242
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) restrain a party from doing a particular act (either within a period of time or in perpetuity); or   \n(b) compel a party to do an act within a specific period of time. ",
+        "bbox": [
+            225,
+            254,
+            892,
+            313
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2) Any such order may be made either unconditionally or on such terms and conditions as the Court thinks just. ",
+        "bbox": [
+            161,
+            326,
+            893,
+            355
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "39. Specific Performance ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            369,
+            323,
+            384
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) The Court may order one party to a contract to perform its contracted obligations so long as: ",
+        "bbox": [
+            156,
+            397,
+            850,
+            413
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) the obligation is specific and/or the subject matter of the obligation is specific; and (b) the Court decides that damages are unquantifiable or are not a sufficient remedy. ",
+        "bbox": [
+            227,
+            425,
+            850,
+            470
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2) Contracts for personal services may not be specifically enforced. ",
+        "bbox": [
+            154,
+            483,
+            666,
+            498
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "An order for specific performance may be made together or in combination with any other order as the Court sees fit to decide. ",
+        "bbox": [
+            207,
+            511,
+            890,
+            540
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "40. Damages as additional or substitute remedy ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            554,
+            481,
+            568
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) Where the Court has jurisdiction to entertain an application for an injunction or specific performance it may award damages in addition to, or in substitution for, an injunction or specific performance. ",
+        "bbox": [
+            154,
+            583,
+            893,
+            625
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2) The Court may in its discretion on application of a claimant, and where warranted in the circumstances, award damages to an aggrieved party in an amount no greater than three (3) times the actual damages where it appears to the Court that the defendant’s conduct producing actual damages was deliberate and particularly egregious or offensive. ",
+        "bbox": [
+            166,
+            638,
+            892,
+            697
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "41. Accounts ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            711,
+            235,
+            725
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) The Court may, at any time, order that an account be taken on any party and that any amount certified on taking the account be paid to the other party within a time period specified by the Court.   \n(2) The Court may make such directions at it thinks fit in relation to the taking of accounts.   \n(3) The Court may order immediate payment of a party's share in a fund even though the identity of some of the persons entitled to share the fund have not been ascertained. ",
+        "bbox": [
+            164,
+            739,
+            893,
+            840
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "41A. Recission ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            853,
+            237,
+            868
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Article 41A(2) and 41A(3), the Court may order that a gift or transaction be rescinded on the basis of: ",
+        "bbox": [
+            161,
+            882,
+            892,
+            910
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            569,
+            55,
+            890,
+            71
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            493,
+            942,
+            505,
+            953
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) mistake within the meaning of Article 37 of the Contract Law;   \n(b) fraud within the meaning of Article 40 of the Contract Law;   \n(c) threat within the meaning of Article 41 of the Contract Law;   \n(d) misrepresentation within the meaning of Articles 29 and 30 of the Law of Obligations; or (e) breach by a fiduciary of the no-conflict and no-profit rules (as provided in paragraphs 2 and 3 respectively of Schedule 3 of the Law of Obligations). ",
+        "bbox": [
+            223,
+            81,
+            893,
+            228
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) The power of the court to make any of the above orders is without prejudice to the rights contained in the Trust Law, the Contract Law, and the Law of Obligations in respect of setting aside or avoiding a gift or transaction. ",
+        "bbox": [
+            166,
+            241,
+            893,
+            283
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(3) Recission may be refused on the basis of: ",
+        "bbox": [
+            161,
+            298,
+            510,
+            312
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) affirmation of the gift or the transaction by the counterparty;   \n(b) undue delay;   \n(c) prejudice to third party rights; or   \n(d) impracticality of restoring the parties as closely as reasonably possible to their pretransaction or pre-gift position. ",
+        "bbox": [
+            225,
+            325,
+            890,
+            441
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(4) A rescission order refers to an order that restores the parties as closely as reasonably possible to the position as if the gift or transaction had not been made. ",
+        "bbox": [
+            168,
+            454,
+            892,
+            484
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "41B. Rectification ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            497,
+            262,
+            511
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) A court may order rectification of a contract to reflect the intended agreement of the parties if there has been a relevant common mistake or relevant unilateral mistake at the time the contract was formed. ",
+        "bbox": [
+            166,
+            526,
+            893,
+            568
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) A relevant common mistake exists where: ",
+        "bbox": [
+            166,
+            583,
+            515,
+            597
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) the parties had a common intention, whether or not amounting to an agreement, in respect of a particular matter in the contract;   \n(b) there was an outward expression of accord;   \n(c) the intention continued at the time of the execution of the contract; and   \n(d) by mistake, the contract did not reflect that common intention and all parties made a mistake about the contract not reflecting such common intention. ",
+        "bbox": [
+            225,
+            610,
+            892,
+            741
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(3) A relevant unilateral mistake exists where: ",
+        "bbox": [
+            159,
+            754,
+            518,
+            768
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) one party (A) erroneously believed that the document sought to be rectified: ",
+        "bbox": [
+            212,
+            782,
+            803,
+            798
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(i) contained a particular term or provision; or (ii) did not contain a particular term or provision which, mistakenly, it did contain. ",
+        "bbox": [
+            286,
+            809,
+            883,
+            855
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(b) The other party (B), was aware (in that B had actual knowledge, wilfully shut his eyes to the obvious or wilfully and recklessly failed to make such inquiries as an honest and reasonable person would make) of the omission or the inclusion and that it was due to a mistake on the part of A; ",
+        "bbox": [
+            228,
+            868,
+            890,
+            925
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            569,
+            55,
+            890,
+            71
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            489,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(c) B has not drawn the mistake to the attention of A; and (d) B takes advantage of the mistake for his own benefit. ",
+        "bbox": [
+            225,
+            83,
+            656,
+            128
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(4) Rectification may be refused if: ",
+        "bbox": [
+            166,
+            141,
+            444,
+            156
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) it would or might substantially prejudice a non-party to the contract; (b) there has been unreasonable delay in pursuing the remedy; or (c) it is otherwise inequitable to award rectification. ",
+        "bbox": [
+            225,
+            168,
+            752,
+            242
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(5) Rectification of a contract has retrospective effect, such that the rectification is effective from the time the contract was formed. ",
+        "bbox": [
+            159,
+            255,
+            893,
+            283
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "41C. Action for the agreed sum ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            298,
+            356,
+            312
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) A party (A) may bring an action for the agreed sum under a contract, unless: ",
+        "bbox": [
+            158,
+            326,
+            745,
+            342
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) there is anticipatory non-performance within the meaning of Article 88 of the Contract Law by the contractual counterparty (B); and   \n(b) a has no legitimate interest in performing the contract following B’s anticipatory nonperformance. ",
+        "bbox": [
+            227,
+            353,
+            892,
+            427
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) A party bringing an action for an agreed sum is not required to prove loss and has no duty to mitigate his loss. ",
+        "bbox": [
+            161,
+            440,
+            892,
+            469
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 4 – ENFORCEMENT OF ORDERS AND JUDGMENTS ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            482,
+            607,
+            498
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "42. Powers of the Court ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            511,
+            314,
+            526
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) Without prejudice to any other remedy available to the Court under any other law, a judgment or order may be enforced by the following means:- ",
+        "bbox": [
+            154,
+            540,
+            893,
+            570
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) a charge over property (Charging Order);   \n(b) attachment of assets (whether present or future);   \n(c) execution against assets;   \n(d) appointment of a receiver. ",
+        "bbox": [
+            225,
+            583,
+            616,
+            684
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) The Court shall not make an order to enforce a judgment after six (6) years have elapsed from the date when the judgment was made. ",
+        "bbox": [
+            153,
+            697,
+            890,
+            726
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3) The Court may use the powers in Article 42(1)(a) to (d) above in such combination as it sees fit in the interests of justice. ",
+        "bbox": [
+            181,
+            738,
+            892,
+            769
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "43. Charging Orders ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            782,
+            292,
+            798
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) The Court shall may make a Charging Order over any real and personal property or assets owned or co-owned by the judgment debtor and located within the jurisdiction if it is satisfied that: ",
+        "bbox": [
+            175,
+            811,
+            890,
+            840
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) there is a final judgment or order which is unpaid; and (b) the judgment is for a liquidated sum. ",
+        "bbox": [
+            223,
+            852,
+            656,
+            897
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            570,
+            55,
+            892,
+            71
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "11 ",
+        "bbox": [
+            489,
+            942,
+            508,
+            954
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) A Charging Order may be enforced by the court on application by the judgment creditor by order for sale of the charged property.   \n(3) A Charging Order shall not be enforced against a judgment debtor for a period of 28 days after it has been served upon him, during which time the judgment debtor shall be at liberty to challenge the terms of the order.   \n(4) A Charging Order shall be discharged upon satisfaction of the judgment or upon further order of the Court. ",
+        "bbox": [
+            164,
+            83,
+            893,
+            213
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "44. Attachment of Future Assets ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            226,
+            375,
+            241
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) The Court may order the judgment debtor to pay to the judgment creditor the amount of any debt due to the judgment debtor by a third party including (but not limited to) Credit Balances with a bank or other deposit-taking institution within the jurisdiction.   \n(2) The Court may attach debts expected to fall due at some time in the future. ",
+        "bbox": [
+            166,
+            255,
+            893,
+            327
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "45. Execution against Assets ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            340,
+            346,
+            355
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) The Court may order the seizure and sale of the judgment debtor's assets located within the jurisdiction sufficient to satisfy the judgment debt, interest thereon, and the costs of enforcement. ",
+        "bbox": [
+            154,
+            369,
+            895,
+            397
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) No such order shall be made in respect of: ",
+        "bbox": [
+            166,
+            412,
+            515,
+            426
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) real property;   \n(b) Money and banknotes;   \n(c) personal belongings;   \n(d) tools of the judgment debtor's trade;   \n(e) goods which are co-owned, or are in the hands of an administrator, receiver or executor. ",
+        "bbox": [
+            223,
+            440,
+            888,
+            570
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3) The sale of the goods shall be by public auction or such other means of sale as the Court decides is appropriate. ",
+        "bbox": [
+            161,
+            583,
+            888,
+            611
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "46. Appointment of a Receiver ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            625,
+            363,
+            640
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The Court may appoint a receiver in order to execute any judgment or order of the Court, having regard (at all times) to the cost of appointing the receiver, the sum owed, and the likelihood of making a substantial recovery. ",
+        "bbox": [
+            166,
+            654,
+            892,
+            697
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "47. Examination of Judgment Debtor ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            711,
+            410,
+            725
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The Court may order the judgment debtor to attend Court and be orally examined on its assets and liabilities and the Court may also order the production of any documents in the judgment debtor's possession relevant by those questions. ",
+        "bbox": [
+            166,
+            739,
+            892,
+            782
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            569,
+            57,
+            890,
+            71
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "12 ",
+        "bbox": [
+            489,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "PART 5: REMEDIES IN THE LAW OF RESTITUTION ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            83,
+            523,
+            98
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "48. Right to restitution ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            112,
+            306,
+            127
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Restitution is available where the remedy is expressly provided in the DIFC Contract Law or where there has been unjust enrichment of one party at the expense of another party and there has been no subsequent change in the position of the enriched party which would render it unjust to order the enriched party to restore the benefits received. ",
+        "bbox": [
+            166,
+            141,
+            892,
+            198
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "49. Damages in lieu of restitution ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            212,
+            380,
+            226
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "If the Court determines that restitution is not available, the Court may award the injured party damages sufficient to put him in the same position he would have been in if the act giving rise to the loss had not occurred. ",
+        "bbox": [
+            163,
+            241,
+            892,
+            283
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            569,
+            57,
+            890,
+            71
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 1 ",
+        "text_level": 1,
+        "bbox": [
+            444,
+            83,
+            552,
+            98
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "1. Rules of interpretation ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            112,
+            333,
+            127
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In the Law, a reference to: ",
+        "bbox": [
+            166,
+            141,
+            348,
+            155
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(a) a statutory provision includes a reference to the statutory provision as amended or re-enacted from time to time;   \n(b) a person includes any natural person, body corporate or body unincorporate, including a company, partnership, unincorporated association, government or state;   \n(c) an obligation to publish or cause to be published a particular document shall, unless expressly provided otherwise in the Law, include publishing or causing to be published in printed or electronic form;   \n(d) a day shall refer to a business day, being a calendar day, excluding Saturdays, Sundays and official public holidays;   \n(e) a calendar year shall mean a year of the Gregorian calendar; and   \n(f) a reference to the masculine gender includes the feminine.   \n(g) The headings in the Law shall not affect its interpretation. ",
+        "bbox": [
+            163,
+            167,
+            893,
+            428
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "2. Legislation in the DIFC ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            440,
+            340,
+            454
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "References to legislation in the Law shall be construed in accordance with the following provisions: ",
+        "bbox": [
+            161,
+            469,
+            843,
+            484
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(a) Federal Law is law made by the federal government of the United Arab Emirates;   \n(b) Dubai Law is law made by the Ruler, as applicable in the Emirate of Dubai;   \n(c) DIFC Law is law made by the Ruler (including, by way of example, the Law), as applicable in the DIFC;   \n(d) the Law is the Law of Damages and Remedies, DIFC Law No. 7 of 2005, made by the Ruler;   \n(e) the Law of Contract is the Law of Contract, DIFC Law No. 6 of 2004, made by the Ruler;   \n(f) the Law of Obligations is the Law of Obligations, DIFC Law No. 5 of 2005, made by the Ruler. ",
+        "bbox": [
+            164,
+            496,
+            893,
+            669
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "3. Defined Terms ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            682,
+            277,
+            697
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In the Law, unless the context indicates otherwise, the defined terms listed below shall have the corresponding meanings: ",
+        "bbox": [
+            156,
+            711,
+            895,
+            738
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d59faaf21f1d5af6ac11b13fa317a3400bc0d57ba434094701b35bacf4a5cd4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Term</td><td colspan=\"1\" rowspan=\"1\">Definition</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Court</td><td colspan=\"1\" rowspan=\"1\">the DIFC Court, as established by Dubai Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Charging Order</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in Article 42(1)(a).</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Credit Balance</td><td colspan=\"1\" rowspan=\"1\">includes a contractual claim for a Digital Asset that is Money.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">currency</td><td colspan=\"1\" rowspan=\"1\">includes a Digital Asset that is Money.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC</td><td colspan=\"1\" rowspan=\"1\">the Dubai International Financial Centre.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Digital Asset</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in Article 8 of the Digital Assets Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Digital Assets Law</td><td colspan=\"1\" rowspan=\"1\">the Digital Assets Law No. 2 of 2024.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Monetary Obligation</td><td colspan=\"1\" rowspan=\"1\">includes an obligation to pay in a Digital Asset that is Money.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Money</td><td colspan=\"1\" rowspan=\"1\">something that functions as a medium of exchange, store of value, andunit of account, and includes a Digital Asset that satisfies these threerequirements.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">person</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in paragraph 1 of Schedule 1 to this Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Relevant Property</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in Article 36(2).</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Ruler</td><td colspan=\"1\" rowspan=\"1\">the ruler of the Emirate of Dubai.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">sum</td><td colspan=\"1\" rowspan=\"1\">includes an amount in a Digital Asset that is Money or analogous thereto.</td></tr></table>",
+        "bbox": [
+            164,
+            739,
+            898,
+            932
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            569,
+            55,
+            890,
+            71
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "14 ",
+        "bbox": [
+            489,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "LAW OF DAMAGES AND REMEDIES ",
+        "bbox": [
+            569,
+            57,
+            890,
+            71
+        ],
+        "page_idx": 17
+    }
+]

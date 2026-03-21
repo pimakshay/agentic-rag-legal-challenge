@@ -1,0 +1,2925 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            389,
+            283,
+            605,
+            331
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARBITRATION LAW DIFC LAW No. 1 of 2008 ",
+        "text_level": 1,
+        "bbox": [
+            275,
+            429,
+            727,
+            507
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Consolidated Version (December 2013) ",
+        "bbox": [
+            327,
+            587,
+            653,
+            604
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As Amended by ",
+        "bbox": [
+            423,
+            621,
+            557,
+            637
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC Law Amendment Law DIFC Law No. 1 of 2013 ",
+        "bbox": [
+            373,
+            654,
+            610,
+            686
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            396,
+            60,
+            494,
+            76
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 1: GENERAL... ",
+        "text_level": 1,
+        "bbox": [
+            97,
+            100,
+            885,
+            116
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Title…… .... 1   \nLegislative authority.... .............................................................. .. 1   \nApplication of the Law.... ....................................................................................................................... ... 1   \n4. Dates of enactment and commencement .. ............................................................................................. . 1   \n5. Repeal of legislation... 1   \n6. Interpretation ....... .................................................................................................................................... 1 ",
+        "bbox": [
+            105,
+            129,
+            885,
+            211
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 2: SCOPE OF APPLICATION ... ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            224,
+            885,
+            237
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7. Scope of application of Law .... 2 ",
+        "bbox": [
+            97,
+            239,
+            885,
+            251
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 3: ARBITRATION ..... ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            264,
+            884,
+            279
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1 – GENERAL PROVISIONS. ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            290,
+            884,
+            305
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8. Receipt of written communications..... ... 3   \n9. Waiver of right to object . .. 3   \n10. Extent of court intervention . 3   \n11. Authority of the DIFC Court to perform functions of arbitration assistance and supervision.............. ... 3 ",
+        "bbox": [
+            107,
+            306,
+            887,
+            361
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 2 – ARBITRATION AGREEMENT.. ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            374,
+            884,
+            385
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "12. Definition and form of Arbitration Agreement .... .. 3   \n13. Arbitration agreement and substantive claim before a Court . .. 4   \n14. Confidentiality .... . 4   \n15. Arbitration Agreement and interim measures by Court . . 4 ",
+        "bbox": [
+            109,
+            388,
+            885,
+            442
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 3 – COMPOSITION OF ARBITRAL TRIBUNAL. 4 ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            454,
+            887,
+            469
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "16. Number of arbitrators... ..... 4   \n17. Appointment of arbitrators ....... .... 4   \n18. Grounds for challenge .... ... 5   \n19. Challenge procedure . ... 5   \n20. Failure or impossibility to act.. ... 6   \n21. Appointment of substitute arbitrator ..... ... 6   \n22. Liability of Arbitral Tribunal and others .............................................. ........... ...... ...... ................................. 6 ",
+        "bbox": [
+            107,
+            475,
+            887,
+            565
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 4 – JURISDICTION OF ARBITRAL TRIBUNAL 6 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            578,
+            884,
+            591
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "23. Competence of Arbitral Tribunal to rule on its jurisdiction . 6   \n24. Power of Arbitral Tribunal to order interim measures ..... . 7 ",
+        "bbox": [
+            102,
+            592,
+            882,
+            619
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 5 – CONDUCT OF ARBITRAL PROCEEDINGS. 8 ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            631,
+            885,
+            644
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "25. Equal treatment of parties . .. 8   \n26. Determination of rules of procedure .. 8   \n27. Seat of the Arbitration .. ... 8   \n28. Commencement of arbitral proceedings.. ..... 8   \n29. Language… .... 8   \n30. Statements of claim and defence .. ... 9   \n31. Hearings and written proceedings .. ... 9   \n32. Default of a party ... .... 9   \n33. Expert appointed by Arbitral Tribunal . ... 9   \n34. Court assistance in taking evidence.. 10 ",
+        "bbox": [
+            105,
+            647,
+            887,
+            782
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 6 – MAKING OF AWARD AND TERMINATION OFPROCEEDINGS 10 ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            795,
+            885,
+            808
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "35. Rules applicable to substance of dispute. . 10   \n36. Decision making by panel of arbitrators . 10   \n37. Settlement… .... ..................................................................................... .... 10   \n38. Form and contents of award . .............................................................. . 10   \n39. Termination of proceedings ... ........................................................................ . 11   \n40. Correction and interpretation of award; additional award. ................................................. .. 11 ",
+        "bbox": [
+            105,
+            809,
+            885,
+            891
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 7 – RECOURSE AGAINST AWARD. 12 ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            903,
+            887,
+            918
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "41. Application for setting aside as exclusive recourse against arbitral award .. 12 ",
+        "bbox": [
+            105,
+            919,
+            887,
+            933
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            647,
+            22,
+            892,
+            38
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PUBLIC ",
+        "bbox": [
+            31,
+            19,
+            82,
+            29
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            494,
+            951,
+            505,
+            963
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 4: THE RECOGNITION AND ENFORCEMENT OF AWARDS .. .... 13 ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            57,
+            887,
+            71
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "42. Recognition and enforcement of awards.. . 13   \n43. Recognition.. ... 13   \n44. Grounds for refusing recognition or enforcement .. 13 ",
+        "bbox": [
+            107,
+            72,
+            887,
+            112
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Schedule 1 - Interpretation.... 15 ",
+        "bbox": [
+            97,
+            124,
+            889,
+            138
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            647,
+            22,
+            892,
+            38
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PUBLIC ",
+        "bbox": [
+            31,
+            19,
+            82,
+            29
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ii ",
+        "bbox": [
+            492,
+            951,
+            505,
+            961
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PART 1: GENERAL ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            54,
+            271,
+            68
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Title This Law may be cited as the “Arbitration Law of $2 0 0 8 ^ { \\circ }$ . ",
+        "bbox": [
+            177,
+            83,
+            565,
+            122
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Legislative authority This Law is made by the Ruler of Dubai. ",
+        "bbox": [
+            176,
+            135,
+            456,
+            173
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Application of the Law ",
+        "text_level": 1,
+        "bbox": [
+            179,
+            186,
+            347,
+            200
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law applies in the jurisdiction of the Dubai International Financial Centre. ",
+        "bbox": [
+            181,
+            209,
+            714,
+            224
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. Dates of enactment and commencement ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            238,
+            466,
+            251
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law is: ",
+        "bbox": [
+            179,
+            262,
+            265,
+            275
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) enacted on; and (b) comes into force on, ",
+        "bbox": [
+            177,
+            289,
+            367,
+            332
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "the respective dates specified in the enactment notice in respect of the Law. ",
+        "bbox": [
+            177,
+            345,
+            686,
+            359
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5. Repeal of legislation ",
+        "text_level": 1,
+        "bbox": [
+            120,
+            373,
+            327,
+            387
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As on the date specified in the enactment notice in respect of the Law, the DIFC law No. 8 of 2004 shall be repealed and replaced in its entirety by the Law. ",
+        "bbox": [
+            177,
+            397,
+            843,
+            424
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. Interpretation ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            438,
+            283,
+            451
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Schedule contains: ",
+        "bbox": [
+            179,
+            462,
+            337,
+            476
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) interpretative provisions which apply to this Law; and (b) a list of defined terms used in this Law. ",
+        "bbox": [
+            176,
+            488,
+            597,
+            533
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            645,
+            21,
+            889,
+            36
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PUBLIC ",
+        "bbox": [
+            31,
+            18,
+            82,
+            29
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            493,
+            930,
+            503,
+            940
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PART 2: SCOPE OF APPLICATION ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            48,
+            394,
+            64
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7. Scope of application of Law ",
+        "text_level": 1,
+        "bbox": [
+            120,
+            77,
+            380,
+            92
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to paragraphs (2) and (3) of this Article, this Law shall apply where the Seat of the Arbitration is the DIFC.   \n(2) Articles 13 14, 15, Part 4 and the Schedule of this Law shall apply where the Seat of Arbitration is one other than the DIFC.   \n(3) Article 13 shall also apply where no Seat has been designated or determined. ",
+        "bbox": [
+            167,
+            100,
+            870,
+            192
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            645,
+            21,
+            890,
+            36
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PUBLIC ",
+        "bbox": [
+            31,
+            18,
+            82,
+            29
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            493,
+            941,
+            505,
+            952
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PART 3: ARBITRATION ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            58,
+            310,
+            72
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1 – GENERAL PROVISIONS ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            85,
+            425,
+            99
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "8. Receipt of written communications ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            112,
+            431,
+            128
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Unless otherwise agreed by the parties to a dispute: ",
+        "bbox": [
+            178,
+            140,
+            524,
+            155
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) any written communication is deemed to have been received if it is delivered to theaddressee personally or if it is delivered at his place of business, habitual residence ormailing address; if none of these can be found after making a reasonable inquiry, a writtencommunication is deemed to have been received if it is sent to the addressee’s last-knownplace of business, habitual residence or mailing address by registered letter or any othermeans which provides a record of the attempt to deliver it; and ",
+        "bbox": [
+            178,
+            168,
+            885,
+            250
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(b) the communication is deemed to have been received on the day it is so delivered. ",
+        "bbox": [
+            176,
+            263,
+            774,
+            277
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "9. Waiver of right to object ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            292,
+            359,
+            306
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A party who knows that any provision of this Law, including one from which the parties may derogate, or any requirement under the Arbitration Agreement has not been complied with and yet proceeds with the Arbitration without stating his objection to such non-compliance without undue delay or, if a time limit is provided therefor, within such period of time, shall be deemed to have waived his right to object. ",
+        "bbox": [
+            179,
+            320,
+            885,
+            375
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "10. Extent of court intervention ",
+        "text_level": 1,
+        "bbox": [
+            122,
+            388,
+            381,
+            402
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In matters governed by this Law, no DIFC Court shall intervene except to the extent so provided in this Law. ",
+        "bbox": [
+            178,
+            416,
+            885,
+            444
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "11. Authority of the DIFC Court to perform functions of arbitration assistance and supervision ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            457,
+            835,
+            471
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The functions referred to in Articles 19(3), 24(2), 34, 41, 42, 43 and 44 of this Law shall be performed by the DIFC Court, while the functions referred to in Articles 14, 17(3), 17(4), 17(5), 20(1), 21(2), 23(3) and 39(5) shall be performed by the DIFC Court, subject to any process agreed between the parties in the Arbitration Agreement. ",
+        "bbox": [
+            178,
+            484,
+            863,
+            540
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 2 – ARBITRATION AGREEMENT ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            552,
+            467,
+            567
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "12. Definition and form of Arbitration Agreement ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            580,
+            514,
+            595
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) An “Arbitration Agreement” is an agreement by the parties to submit to Arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not. An Arbitration Agreement may be in the form of an arbitration clause in a contract or in the form of a separate agreement. ",
+        "bbox": [
+            179,
+            609,
+            884,
+            662
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) An Arbitration Agreement referring future disputes between the parties arising out of or in connection with: ",
+        "bbox": [
+            169,
+            676,
+            884,
+            704
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) a contract of employment within the meaning of the Employment Law 2005; or (b) a contract for the supply of goods or services, other than residential property, to a consumer made by a supplier who is a natural or legal person acting for purposes relating to his trade, business or profession, whether publicly owned or privately owned, cannot be enforced against the employee or consumer in respect of any such dispute except: ",
+        "bbox": [
+            231,
+            714,
+            796,
+            730
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(i) with his written consent given after the dispute in question has arisen; or   \n(ii) where he has submitted to arbitration proceedings commended under the Arbitration Agreement, whether in respect of that dispute or any other dispute; or   \n(iii) where the DIFC Court has made an order disapplying this Article on the grounds that the DIFC Court is satisfied that it is not detrimental to the interests of the employee or consumer for the dispute in question to be ",
+        "bbox": [
+            277,
+            808,
+            870,
+            932
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            653,
+            21,
+            899,
+            36
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            494,
+            941,
+            505,
+            952
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "referred to arbitration in pursuance of the Arbitration Agreement instead of being determined by proceedings before a Court. For the purposes of this Article, “consumer” means “any natural or legal person who is acting for purposes which are outside his trade, business or profession”. ",
+        "bbox": [
+            344,
+            72,
+            863,
+            127
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3) An Arbitration Agreement shall be in writing, in accordance with the provisions of this Article 12.   \n(4) An Arbitration Agreement is in writing if its content is recorded in any form, whether or not the Arbitration Agreement or contract has been concluded by conduct or by other means.   \n(5) The requirement that an Arbitration Agreement be in writing is met by an electronic communication if the information contained therein is accessible so as to be useable for subsequent reference; “electronic communication” means any communication that the parties make by means of data messages; “data message” means information generated, sent, received or stored by electronic, magnetic, optical or similar means, including, but not limited to, electronic data interchange (EDI), electronic mail, telegram, telex or telecopy.   \n(6) Furthermore, an Arbitration Agreement is in writing if it is contained in an exchange of statements of claim and defence in which the existence of an agreement is alleged by one party and not denied by the other.   \n(7) The reference in a contract to any document containing an arbitration clause constitutes an Arbitration Agreement in writing, provided that the reference is such as to make that clause part of the contract. ",
+        "bbox": [
+            169,
+            138,
+            887,
+            418
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "13. Arbitration agreement and substantive claim before a Court ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            434,
+            615,
+            448
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) If an action is brought before the DIFC Court in a matter which is the subject of an Arbitration Agreement, the DIFC Court shall, if a party so requests not later than when submitting his first statement on the substance of the dispute, dismiss or stay such action unless it finds that the Arbitration Agreement is null and void, inoperative or incapable of being performed.   \n(2) Where an action referred to in paragraph (1) of this Article has been brought, arbitral proceedings may nevertheless be commenced or continued, and an award may be made, while the issue is pending before the DIFC Court. ",
+        "bbox": [
+            166,
+            461,
+            887,
+            573
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "14. Confidentiality ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            589,
+            289,
+            604
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Unless otherwise agreed by the parties, all information relating to the arbitral proceedings shall be kept confidential, except where disclosure is required by an order of the DIFC Court. ",
+        "bbox": [
+            176,
+            616,
+            858,
+            644
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "15. Arbitration Agreement and interim measures by Court ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            657,
+            576,
+            673
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It is not incompatible with an Arbitration Agreement for a party to request, before or during arbitral proceedings, from a Court an interim measure of protection and for a Court to grant such measure. ",
+        "bbox": [
+            178,
+            686,
+            857,
+            713
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 3 – COMPOSITION OF ARBITRAL TRIBUNAL ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            729,
+            569,
+            744
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "16. Number of arbitrators ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            757,
+            344,
+            771
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) The parties are free to determine the number of arbitrators provided that it is an odd number.   \n(2) If there is no such determination, the number of arbitrators shall be one. ",
+        "bbox": [
+            178,
+            785,
+            862,
+            828
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "17. Appointment of arbitrators ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            842,
+            379,
+            856
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) No person shall be precluded by reason of his nationality from acting as an arbitrator, unless otherwise agreed by the parties.   \n(2) The parties are free to agree on a procedure for appointing the arbitrator or arbitrators, subject to the provisions of paragraphs (4) and (5) of this Article. ",
+        "bbox": [
+            176,
+            869,
+            885,
+            938
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            653,
+            21,
+            899,
+            36
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            494,
+            941,
+            505,
+            951
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3) If and to the extent that there is no agreement, (a) in an Arbitration with three arbitrators, each party shall appoint one arbitrator, and the two arbitrators thus appointed shall appoint the third arbitrator; if a party fails to appoint an arbitrator within thirty days of receipt of a request to do so from the other party, or if the two arbitrators fail to agree on the third arbitrator within thirty days of their appointment, the appointment shall be made, upon request of a party, by the DIFC Court of First Instance; or ",
+        "bbox": [
+            178,
+            72,
+            549,
+            86
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(b) in an Arbitration with a sole arbitrator, if the parties do not agree on the arbitrator within thirty days of one party requesting the other to do so, he shall be appointed by the DIFC Court of First Instance on the request of either party; ",
+        "bbox": [
+            236,
+            195,
+            877,
+            237
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(c) where the Arbitration Agreement entitles each party to nominate an arbitrator, the parties to the dispute number more than two and such parties have not all agreed in writing that the parties in dispute represent two separate sides for the formation of the Arbitral Tribunal as claimant and respondent respectively, the DIFC Court of First Instance shall appoint the Arbitral Tribunal without regard to any party's nomination; ",
+        "bbox": [
+            238,
+            249,
+            877,
+            319
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(d) in such circumstances as set out at paragraph (c) of this Article, the Arbitration Agreement shall be treated for all purposes as a written agreement by the parties for the appointment of the Arbitral Tribunal by the DIFC Court of First Instance. ",
+        "bbox": [
+            230,
+            332,
+            870,
+            374
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4) Where, under an appointment procedure agreed upon by the parties, ",
+        "bbox": [
+            176,
+            387,
+            697,
+            401
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) a party fails to act as required under such procedure; or   \n(b) the parties, or two arbitrators, fail to reach an agreement expected of them under such procedure; or   \n(c) a third party, including an arbitral institution, fails to perform any function entrusted to it under such procedure; ",
+        "bbox": [
+            220,
+            414,
+            877,
+            513
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "any party may request the DIFC Court of First Instance to take the necessary measure, unless the agreement on the appointment procedure provides any other means for securing the appointment. ",
+        "bbox": [
+            236,
+            524,
+            885,
+            566
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(5) A decision on a matter entrusted by paragraph (3) or (4) of this Article to the DIFC Court of First Instance shall not be subject to appeal. The DIFC Court of First Instance, in appointing an arbitrator, shall have due regard to any qualifications required of the arbitrator by the agreement of the parties and to such considerations as are likely to secure the appointment of an independent and impartial arbitrator and, in the case of a sole or third arbitrator, shall also take into account as well the advisability of appointing an arbitrator of a nationality other than that of any party. ",
+        "bbox": [
+            179,
+            579,
+            885,
+            662
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "18. Grounds for challenge ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            674,
+            341,
+            688
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) When a person is approached in connection with his possible appointment as an arbitrator, he shall disclose any circumstances likely to give rise to justifiable doubts as to his impartiality or independence. An arbitrator, from the time of his appointment and throughout the arbitral proceedings, shall without delay disclose any such circumstances to the parties and any arbitral institution administering the Arbitration unless they have already been so informed by him. ",
+        "bbox": [
+            178,
+            701,
+            885,
+            770
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2) An arbitrator may be challenged only if circumstances exist that give rise to justifiable doubts as to his impartiality or independence, or if he does not possess qualifications agreed to by the parties. A party may challenge an arbitrator appointed by him, or in whose appointment he has participated, only for reasons of which he becomes aware after the appointment has been made. ",
+        "bbox": [
+            178,
+            783,
+            885,
+            839
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "19. Challenge procedure ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            852,
+            331,
+            866
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) The parties are free to agree on a procedure for challenging an arbitrator, subject to the provisions of paragraph (3) of this Article. (2) In the absence of such agreement, a party who intends to challenge an arbitrator shall, within fifteen days after becoming aware of the constitution of the Arbitral Tribunal or after becoming aware of any circumstance referred to in Article 18(2), send a written statement of the reasons for the challenge to the Arbitral Tribunal. Unless the challenged arbitrator withdraws from his office or the other party agrees to the challenge, the Arbitral Tribunal shall decide on the challenge. ",
+        "bbox": [
+            169,
+            880,
+            885,
+            935
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            653,
+            21,
+            899,
+            35
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            494,
+            941,
+            505,
+            952
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3) If a challenge under any procedure agreed upon by the parties or under the procedure of paragraph (2) of this Article is not successful, the challenging party may request, within thirty days after having received notice of the decision rejecting the challenge, the DIFC Court of First Instance to decide on the challenge, which decision shall be subject to no appeal; while such a request is pending, the Arbitral Tribunal, including the challenged arbitrator, may continue the arbitral proceedings and make an award. ",
+        "bbox": [
+            178,
+            140,
+            885,
+            222
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "20. Failure or impossibility to act ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            236,
+            393,
+            249
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) If an arbitrator becomes as a matter of fact or law unable to perform his functions or for other reasons fails to act without undue delay, his mandate shall terminate if he withdraws from his office or if the parties agree on the termination. In the absence of such agreement or if a controversy remains concerning any of these grounds, any party may request the DIFC Court of First Instance to decide on the termination of the mandate, which decision shall be subject to no appeal. ",
+        "bbox": [
+            178,
+            263,
+            885,
+            345
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2) If, under this Article or Article 19(2), an arbitrator withdraws from his office or a party agrees to the termination of the mandate of an arbitrator, this does not imply acceptance of the validity of any ground referred to in this Article or Article 18(2). ",
+        "bbox": [
+            179,
+            359,
+            885,
+            401
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "21. Appointment of substitute arbitrator ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            414,
+            447,
+            428
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) Where the mandate of an arbitrator terminates under Article 19 or 20 or because of his withdrawal from office for any other reason or because of the revocation of his mandate by agreement of the parties or in any other case of termination of his mandate: ",
+        "bbox": [
+            168,
+            441,
+            885,
+            483
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) subject to any process agreed between the parties in the Arbitration Agreement, or thereafter, the parties may agree with the arbitrator as to his liabilities and entitlement (if any) to fees and expenses; and   \n(b) a substitute arbitrator shall be appointed according to the rules that were applicable to the appointment of the arbitrator being replaced, unless otherwise agreed by the parties. ",
+        "bbox": [
+            226,
+            494,
+            885,
+            573
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2) If or to the extent that there is no agreement in accordance with Article 21(1)(a) as to the consequences of resignation, an arbitrator who resigns in the circumstances set out in Article 21(1) may, upon written notice to the parties, request the DIFC Court of First Instance to make an order relieving him of any liability incurred by reason of his resignation together with such order as the DIFC Court of First Instance thinks appropriate with respect to his entitlement (if any) to fees and expenses, which orders shall be subject to no appeal. ",
+        "bbox": [
+            179,
+            586,
+            884,
+            668
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "22. Liability of Arbitral Tribunal and others ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            681,
+            475,
+            697
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "No arbitrator, employee or agent of an arbitrator, arbitral institution, officer of an arbitral institution or appointing authority shall be liable to any person for any act or omission in connection with an Arbitration unless they are shown to have caused damage by conscious and deliberate wrongdoing. This Article does not affect any liability incurred by an arbitrator by reason of his resigning. ",
+        "bbox": [
+            178,
+            706,
+            885,
+            761
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 4 – JURISDICTION OF ARBITRALTRIBUNAL ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            774,
+            568,
+            788
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "23. Competence of Arbitral Tribunal to rule on its jurisdiction ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            801,
+            601,
+            817
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) The Arbitral Tribunal may rule on its own jurisdiction, including any objections with respect to the existence or validity of the Arbitration Agreement. For that purpose, an arbitration clause which forms part of a contract shall be treated as an agreement independent of the other terms of the contract. A decision by the Arbitral Tribunal that the contract is null and void shall not by itself determine the invalidity of the arbitration clause. ",
+        "bbox": [
+            178,
+            830,
+            885,
+            899
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            653,
+            21,
+            897,
+            35
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            494,
+            941,
+            505,
+            952
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2) A plea by a respondent or other party that the Arbitral Tribunal does not have jurisdiction shall be raised not later than the submission of his defence or, for another party, his first written statement in the Arbitration. A party is not precluded from raising such a plea by the fact that he has appointed, or participated in the appointment of, an arbitrator. A plea that the Arbitral Tribunal is exceeding the scope of its authority shall be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitral proceedings. The Arbitral Tribunal may, in either case, admit a later plea if it considers the delay justified. ",
+        "bbox": [
+            178,
+            59,
+            885,
+            154
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3) The Arbitral Tribunal may rule on a plea referred to in paragraph (2) of this Article either as a preliminary question or in an award on the merits. If the Arbitral Tribunal rules as a preliminary question that it has jurisdiction, any party may request, subject to any process agreed between the parties, within thirty days after having received notice of that ruling, the DIFC Court of First Instance to decide the matter, which decision shall not be subject to appeal; while such a request is pending, the Arbitral Tribunal may continue the arbitral proceedings and make an award. ",
+        "bbox": [
+            178,
+            167,
+            885,
+            249
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "24. Power of Arbitral Tribunal to order interim measures ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            262,
+            569,
+            277
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) The following provisions shall apply unless the parties have expressly agreed in writing that the Arbitral Tribunal shall not have power to order interim measures: ",
+        "bbox": [
+            171,
+            290,
+            882,
+            318
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) The Arbitral Tribunal may, at the request of a party, order any party to take such interim measures of protection as the Arbitral Tribunal may consider necessary in relation to an arbitration. The Arbitral Tribunal may order any claiming or counterclaiming party to provide appropriate security in connection with such measure, including security for the legal or other costs of any other party by way of deposit or bank guarantee or in any other manner and upon such terms as the Arbitral Tribunal considers appropriate. Any request made to the Arbitral Tribunal shall be simultaneously copied to all other parties to the Arbitration. ",
+        "bbox": [
+            238,
+            328,
+            884,
+            438
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(b) An interim measure is any temporary measure, whether in the form of an award or in another form, made by the Arbitral Tribunal at any time prior to the issuance of the award by which the dispute is to be finally decided. For the purposes of this Article reference to an interim measure includes orders that a party: ",
+        "bbox": [
+            238,
+            448,
+            885,
+            503
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(i) maintain or restore the status quo pending determination of the dispute;   \n(ii) provide a means of preserving assets out of which a subsequent award may be satisfied or other means for securing or facilitating the enforcement of such an award;   \n(iii) take action that would prevent, or refrain from taking action that is likely to cause, current or imminent harm or prejudice to any party or to the arbitral process itself; or   \n(iv) preserve evidence that may be relevant and material to the resolution of the dispute. ",
+        "bbox": [
+            295,
+            514,
+            877,
+            669
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(c) The party requesting an interim measure under any of paragraphs (b)(i), (ii) and (iii) of this Article shall satisfy the Arbitral Tribunal that: ",
+        "bbox": [
+            242,
+            681,
+            884,
+            709
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(i) harm which will not be adequately reparable by an award of damages is likely to result if the interim measure is not ordered and that harm will substantially outweigh the harm, if any, that is likely to result to the party opposing the interim measure if the measure is ordered; and   \n(ii) there is a reasonable possibility that the requesting party will succeed on the merits of the claim. The determination on this possibility shall not affect the discretion of the Arbitral Tribunal in making any subsequent determination. ",
+        "bbox": [
+            292,
+            718,
+            885,
+            825
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(d) With regard to a request for an interim measure under paragraph (b)(iv) of this Article, the requirements in paragraph (c) of this Article shall apply only to the extent the Arbitral Tribunal considers appropriate. ",
+        "bbox": [
+            240,
+            836,
+            884,
+            877
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(e) The party requesting an interim measure may be liable for any costs and damages caused by the measure to any other party if the Arbitral Tribunal later determines that, in the circumstances, the measure should not have been granted. The Arbitral Tribunal may award such costs and damages at any point during the proceedings. ",
+        "bbox": [
+            238,
+            888,
+            884,
+            929
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            653,
+            21,
+            897,
+            35
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The Arbitral Tribunal may modify, suspend or terminate an interim measure it has granted, upon application of any party or, in exceptional circumstances and upon prior notice to the parties, on the Arbitral Tribunal’s own initiative. ",
+        "bbox": [
+            265,
+            83,
+            887,
+            124
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2) With the written permission of the Arbitral Tribunal a party in whose favour an interim measure has been granted may request from the DIFC Court of First Instance an order enforcing the Arbitral Tribunal’s order or any part of it. Any request for permission or enforcement made under this Article shall be simultaneously copied to all other parties. Unless the Arbitral Tribunal at any time directs otherwise, the party making a request to the DIFC Court of First Instance under this Article shall be entitled to recover in the Arbitration any legal costs and DIFC Court of First Instance fees reasonably incurred thereby. ",
+        "bbox": [
+            181,
+            141,
+            885,
+            237
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3) The DIFC Court shall have the same power of issuing an interim measure in relation to arbitration proceedings, irrespective of whether their place is in the DIFC, as it has in relation to proceedings in courts. The DIFC Court shall exercise such power in accordance with its own procedures. ",
+        "bbox": [
+            178,
+            254,
+            885,
+            309
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 5 – CONDUCT OF ARBITRALPROCEEDINGS ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            330,
+            564,
+            344
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "25 Equal treatment of parties ",
+        "text_level": 1,
+        "bbox": [
+            122,
+            358,
+            373,
+            372
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The parties shall be treated with equality and each party shall be given a full opportunity of presenting his case. ",
+        "bbox": [
+            179,
+            385,
+            885,
+            413
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "26 Determination of rules of procedure ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            429,
+            440,
+            445
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to the provisions of this Law, the parties are free to agree on the procedure to be followed by the Arbitral Tribunal in conducting the proceedings.   \n(2) In the absence of such agreement, the Arbitral Tribunal may, subject to the provisions of this Law, conduct the Arbitration in such manner as it considers appropriate. The power conferred upon the Arbitral Tribunal includes the power to determine the admissibility, relevance, materiality and weight of any evidence. ",
+        "bbox": [
+            166,
+            454,
+            885,
+            547
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "27 Seat of the Arbitration ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            564,
+            344,
+            578
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) The parties are free to agree on the Seat of the Arbitration. In the absence of such agreement, where any dispute is governed by DIFC law, the Seat of the Arbitration shall be the DIFC. ",
+        "bbox": [
+            168,
+            591,
+            884,
+            619
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2) Notwithstanding the provisions of paragraph (1) of this Article, the Arbitral Tribunal may, unless otherwise agreed by the parties, meet at any place it considers appropriate for consultation among its members, for hearing witnesses, experts or the parties, or for inspection of goods, other property or documents. ",
+        "bbox": [
+            178,
+            633,
+            884,
+            687
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "28 Commencement of arbitral proceedings ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            700,
+            465,
+            714
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Unless otherwise agreed by the parties, the arbitral proceedings in respect of a particular dispute commence on the date on which a request for that dispute to be referred to Arbitration is received by the respondent. ",
+        "bbox": [
+            179,
+            725,
+            882,
+            766
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "29 Language ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            780,
+            252,
+            794
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) The parties are free to agree on the language or languages to be used in the arbitral proceedings. In the absence of such agreement, the Arbitral Tribunal shall determine the language or languages to be used in the proceedings. This agreement or determination, unless otherwise specified therein, shall thereafter apply to any written statement by a party, any hearing and any award, decision or other communication by the Arbitral Tribunal. ",
+        "bbox": [
+            178,
+            807,
+            884,
+            876
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2) The Arbitral Tribunal may order that any documentary evidence shall be accompanied by a translation into the language or languages agreed upon by the parties or determined by the Arbitral Tribunal. ",
+        "bbox": [
+            173,
+            893,
+            887,
+            933
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            653,
+            21,
+            897,
+            35
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            494,
+            941,
+            504,
+            952
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "30 Statements of claim and defence ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            58,
+            411,
+            72
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) Within the period of time agreed by the parties or determined by the Arbitral Tribunal, the claimant shall state the facts supporting his claim, the points at issue and the relief or remedy sought, and the respondent shall state his defence in respect of these particulars, unless the parties have otherwise agreed as to the required elements of such statements. The parties may submit with their statements all documents they consider to be relevant or may add a reference to the documents or other evidence they will submit. ",
+        "bbox": [
+            178,
+            81,
+            885,
+            165
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2) Unless otherwise agreed by the parties, either party may amend or supplement his claim or defence during the course of the arbitral proceedings, unless the Arbitral Tribunal considers it inappropriate to allow such amendment having regard to the delay in making it. ",
+        "bbox": [
+            178,
+            174,
+            885,
+            216
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "31 Hearings and written proceedings ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            232,
+            423,
+            247
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to any contrary agreement by the parties, the Arbitral Tribunal shall decide whether to hold oral hearings for the presentation of evidence or for oral argument, or whether the proceedings shall be conducted on the basis of documents and other materials. However, unless the parties have agreed that no hearing shall be held, the Arbitral Tribunal shall hold such hearings at an appropriate stage of the proceedings, if so requested by a party. ",
+        "bbox": [
+            178,
+            257,
+            885,
+            326
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2) The parties shall be given sufficient advance notice as the Arbitral Tribunal shall decide of any hearing and of any meeting of the Arbitral Tribunal for the purposes of inspection of goods, other property or documents. ",
+        "bbox": [
+            178,
+            334,
+            885,
+            376
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(3) All statements, documents or other information supplied to the Arbitral Tribunal by one party shall be communicated to the other party. Also any expert report or evidentiary document on which the Arbitral Tribunal may rely in making its decision shall be communicated to the parties. ",
+        "bbox": [
+            178,
+            387,
+            884,
+            441
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "32 Default of a party ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            458,
+            307,
+            472
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Unless otherwise agreed by the parties, if, without showing sufficient cause, ",
+        "bbox": [
+            179,
+            483,
+            690,
+            497
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) the claimant fails to communicate his statement of claim in accordance with Article 30(1), the Arbitral Tribunal shall terminate the proceedings;   \n(b) the respondent fails to communicate his statement of defence in accordance with Article 30(1), the Arbitral Tribunal shall continue the proceedings without treating such failure in itself as an admission of the claimant’s allegations; or   \n(c) any party fails to appear at a hearing or to produce documentary evidence, the Arbitral Tribunal may continue the proceedings and make the award on the evidence before it. ",
+        "bbox": [
+            176,
+            509,
+            875,
+            635
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "33 Expert appointed by Arbitral Tribunal ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            647,
+            462,
+            662
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) Unless otherwise agreed by the parties, the Arbitral Tribunal: ",
+        "bbox": [
+            174,
+            671,
+            652,
+            686
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) may appoint one or more experts to report to it on specific issues to be determined by the Arbitral Tribunal; and   \n(b) may require a party to give the expert(s) any relevant information or to produce, or to provide access to, any relevant documents, goods or other property for his inspection. ",
+        "bbox": [
+            236,
+            698,
+            873,
+            768
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2) Unless otherwise agreed by the parties, if a party so requests or if the Arbitral Tribunal considers it necessary, the expert(s) shall, after delivery of his written or oral report, participate in a hearing where the parties have the opportunity to put questions to him and to present expert witnesses in order to testify on the points at issue. ",
+        "bbox": [
+            191,
+            777,
+            873,
+            833
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The expenses and costs of the expert(s) appointed by the arbitration tribunal pursuant to this Article shall be borne by the parties in accordance with any determination made by the Arbitral Tribunal in that respect, which determination shall be final and binding. ",
+        "bbox": [
+            196,
+            843,
+            868,
+            884
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            653,
+            21,
+            899,
+            35
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            494,
+            941,
+            505,
+            951
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "34 Court assistance in taking evidence ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            58,
+            435,
+            72
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The Arbitral Tribunal or a party with the approval of the Arbitral Tribunal may request from the DIFC Court assistance in taking evidence. The DIFC Court may execute the request within its competence and according to its rules on taking evidence. ",
+        "bbox": [
+            178,
+            81,
+            885,
+            124
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 6 – MAKING OF AWARD AND TERMINATION OF PROCEEDINGS ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            136,
+            726,
+            152
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "35 Rules applicable to substance of dispute ",
+        "text_level": 1,
+        "bbox": [
+            122,
+            163,
+            467,
+            179
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) The Arbitral Tribunal shall decide the dispute in accordance with such rules of law as are chosen by the parties as applicable to the substance of the dispute. Any designation of the law or legal system of a given State or jurisdiction shall be construed, unless otherwise expressed, as directly referring to the substantive law of that State or jurisdiction and not to its conflict of laws rules. ",
+        "bbox": [
+            178,
+            192,
+            885,
+            247
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) In the absence of any designation by the parties, the Arbitral Tribunal shall apply the law determined by the conflict of laws rules which it considers applicable, provided that the parties shall be free to agree in writing that the Arbitral Tribunal may apply the law or rules of law which it considers to be most appropriate in the facts and circumstances of the dispute. ",
+        "bbox": [
+            178,
+            263,
+            885,
+            318
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(3) In all cases, the Arbitral Tribunal shall make determinations in accordance with principles of equity and good conscience only if the parties have expressly authorised it to do so. ",
+        "bbox": [
+            171,
+            332,
+            885,
+            359
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(4) In all cases, the Arbitral Tribunal shall make determinations in accordance with the terms of the contract and applicable law, and shall take into account the usages of the trade applicable to the transaction. ",
+        "bbox": [
+            225,
+            372,
+            885,
+            414
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "36 Decision making by panel of arbitrators ",
+        "text_level": 1,
+        "bbox": [
+            115,
+            428,
+            468,
+            442
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In arbitral proceedings with more than one arbitrator, any decision of the Arbitral Tribunal shall be made, unless otherwise agreed by the parties, by a majority of all its members. However, questions of procedure may be decided by a presiding arbitrator, if so authorised by the parties or all members of the Arbitral Tribunal. ",
+        "bbox": [
+            178,
+            452,
+            880,
+            508
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "37 Settlement ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            524,
+            258,
+            539
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) If, during arbitral proceedings, the parties settle the dispute, the Arbitral Tribunal shall terminate the proceedings and, if requested by the parties and not objected to by the Arbitral Tribunal, record the settlement in the form of an arbitral award on agreed terms.   \n(2) An award on agreed terms shall be made in accordance with the provisions of Article 38 and shall state that it is an agreed award. Such an award has the same status and effect as any award made on the merits of the case. ",
+        "bbox": [
+            171,
+            548,
+            885,
+            642
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "38 Form and contents of award ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            659,
+            384,
+            673
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) The award shall be made in writing and shall be signed by the arbitrator or arbitrators. In arbitral proceedings with more than one arbitrator, the signatures of the majority of all members of the Arbitral Tribunal shall suffice, provided that the reason for any omitted signature is stated. ",
+        "bbox": [
+            176,
+            682,
+            884,
+            724
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) The award shall state the reasons upon which it is based, unless the parties have agreed that no reasons are to be given or the award is an award on agreed terms under Article 37. ",
+        "bbox": [
+            171,
+            732,
+            885,
+            762
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(3) The award shall state its date and the Seat of the Arbitration as determined in accordance\\` with Article 27(1). The award shall be deemed to have been made at the Seat of the Arbitration. ",
+        "bbox": [
+            171,
+            770,
+            885,
+            799
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(4) After the award is made, a copy signed by the arbitrators in accordance with paragraph (1) of this Article shall be delivered to each party. ",
+        "bbox": [
+            171,
+            808,
+            885,
+            837
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(5) The Arbitral Tribunal shall fix the costs of the Arbitration in its award. The term \"costs\" includes only: ",
+        "bbox": [
+            171,
+            846,
+            885,
+            874
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) The fees of the Arbitral Tribunal to be stated separately as to each arbitrator;   \n(b) The properly incurred travel and other expenses incurred by the arbitrators;   \n(c) The costs of expert advice and of other assistance required by the Arbitral Tribunal;   \n(d) The travel and other expenses of witnesses to the extent such expenses are approved by the Arbitral Tribunal;   \n(e) Such other costs as are necessary for the conduct of the Arbitration, including those for meeting rooms, interpreters and transcription services;   \n(f) The costs for legal representation and assistance of the successful party if such costs were claimed during the Arbitration, and only to the extent that the Arbitral Tribunal determines that the amount of such costs is reasonable;   \n(g) Any fees and expenses of any arbitral institution or appointing authority. ",
+        "bbox": [
+            228,
+            884,
+            813,
+            925
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            653,
+            21,
+            899,
+            36
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "39 Termination of proceedings ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            238,
+            369,
+            254
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) The arbitral proceedings are terminated by the final award or by an order of the Arbitral Tribunal in accordance with paragraph (2) of this Article. ",
+        "bbox": [
+            154,
+            263,
+            865,
+            292
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) The Arbitral Tribunal shall issue an order for the termination of the arbitral proceedings when: ",
+        "bbox": [
+            159,
+            300,
+            857,
+            315
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) the claimant withdraws his claim, unless the respondent objects thereto and the Arbitral Tribunal recognises a legitimate interest on his part in obtaining a final settlement of the dispute;   \n(b) the parties agree on the termination of the proceedings; or   \n(c) the Arbitral Tribunal finds that the continuation of the proceedings has for any other reason become unnecessary or impossible. ",
+        "bbox": [
+            225,
+            327,
+            885,
+            439
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3) The mandate of the Arbitral Tribunal terminates with the termination of the arbitral proceedings, subject to the provisions of paragraph (5) of this Article and of Articles 40 and ",
+        "bbox": [
+            179,
+            448,
+            875,
+            477
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The Arbitral Tribunal may refuse to deliver a final award or an order for termination of the arbitral proceedings in accordance with paragraph (2) of this Article to the parties until its fees and expenses are paid in full. ",
+        "bbox": [
+            235,
+            504,
+            872,
+            546
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Subject to any process agreed between the parties in the Arbitration Agreement, if the Arbitral Tribunal refuses to deliver an award or order to the parties until its fees and expenses are paid, any party to the arbitral proceedings may request the DIFC Court of First Instance to determine, by such means as the DIFC Court of First Instance considers appropriate, the amount of the fees and expenses properly payable to the Arbitral Tribunal. ",
+        "bbox": [
+            238,
+            555,
+            873,
+            624
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "40 Correction and interpretation of award; additional award ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            641,
+            598,
+            655
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) Within thirty days of receipt of the award, unless another period of time has been agreed upon by the parties: ",
+        "bbox": [
+            166,
+            665,
+            884,
+            693
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) a party, with notice to the other party, may request the Arbitral Tribunal to correct in the award any errors in computation, any clerical or typographical errors or any errors of a similar nature;   \n(b) if so agreed by the parties, a party, with notice to the other party, may request the Arbitral Tribunal to give an interpretation of a specific point or part of the award. ",
+        "bbox": [
+            236,
+            703,
+            877,
+            783
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "If the Arbitral Tribunal considers the request to be justified, it shall make the correction or give the interpretation within thirty days of receipt of the request. The interpretation shall form part of the award. ",
+        "bbox": [
+            236,
+            793,
+            885,
+            834
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) The Arbitral Tribunal may correct any error of the type referred to in paragraph (1)(a) of this Article on its own initiative within thirty days of the date of the award. ",
+        "bbox": [
+            174,
+            845,
+            884,
+            872
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(3) Unless otherwise agreed by the parties or in respect of an agreed award made under Article 37, a party, with notice to the other party, may request, within thirty days of receipt of the award, the Arbitral Tribunal to make an additional award as to claims presented in the arbitral proceedings but omitted from the award. If the Arbitral Tribunal considers the request to be justified, it ",
+        "bbox": [
+            178,
+            882,
+            885,
+            938
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            653,
+            21,
+            899,
+            36
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "shall make the additional award within sixty days. ",
+        "bbox": [
+            238,
+            58,
+            578,
+            72
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(4) The Arbitral Tribunal may extend, if necessary, the period of time within which it shall make a correction, interpretation or an additional award under paragraph (1) or (3) of this Article.   \n(5) The provisions of Article 38 shall apply to a correction or interpretation of the award or to an additional award. ",
+        "bbox": [
+            168,
+            81,
+            889,
+            148
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 7 – RECOURSE AGAINST AWARD ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            160,
+            477,
+            174
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "41 Application for setting aside as exclusive recourse against arbitral award ",
+        "text_level": 1,
+        "bbox": [
+            115,
+            187,
+            704,
+            203
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) Recourse to a Court against an arbitral award made in the Seat of the DIFC may be made only by an application for setting aside in accordance with paragraphs (2) and (3) of this Article. ",
+        "bbox": [
+            168,
+            216,
+            870,
+            244
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) Such application may only be made to the DIFC Court. An arbitral award may be set aside by the DIFC Court only if: ",
+        "bbox": [
+            179,
+            256,
+            870,
+            285
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) the party making the application furnishes proof that: ",
+        "bbox": [
+            236,
+            294,
+            658,
+            309
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(i) a party to the Arbitration Agreement was under some incapacity; or the said agreement is not valid under the law to which the parties have subjected it or, in the absence of any indication thereon, under the law of the DIFC; ",
+        "bbox": [
+            294,
+            326,
+            885,
+            366
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(ii) the party making the application was not given proper notice of the appointment of an arbitrator or of the arbitral proceedings or was otherwise unable to present his case; ",
+        "bbox": [
+            290,
+            381,
+            885,
+            422
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(iii) the award deals with a dispute not contemplated by or not falling within the terms of the submission to Arbitration, or contains decisions on matters beyond the scope of the submission to Arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the award which contains decisions on matters not submitted to Arbitration may be set aside; or ",
+        "bbox": [
+            297,
+            435,
+            885,
+            517
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(iv) the composition of the Arbitral Tribunal or the arbitral procedure was not in accordance with the agreement of the parties, unless such agreement was in conflict with a provision of this Law from which the parties cannot derogate, or, in the absence of such agreement, was not in accordance with this Law; or ",
+        "bbox": [
+            297,
+            530,
+            885,
+            599
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(b) the DIFC Court finds that: ",
+        "bbox": [
+            238,
+            610,
+            477,
+            624
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(i) the subject-matter of the dispute is not capable of settlement by arbitration under DIFC Law;   \n(ii) the dispute is expressly referred to a different body or tribunal for resolution under this Law or any mandatory provision of DIFC Law; or   \n(iii) the award is in conflict with the public policy of the UAE. ",
+        "bbox": [
+            292,
+            637,
+            885,
+            743
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3) An application for setting aside may not be made after three months have elapsed from the date on which the party making that application had received the award, or such longer period as the parties to the Arbitration have agreed in writing, or, if a request had been made under Article 40, from the date on which that request had been disposed of by the Arbitral Tribunal. ",
+        "bbox": [
+            181,
+            762,
+            875,
+            817
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(4) The DIFC Court, when asked to set aside an award, may, where appropriate and so requested by a party, suspend the setting aside proceedings for a period of time determined by it in order to give the Arbitral Tribunal an opportunity to resume the arbitral proceedings or to take such other action as in the Arbitral Tribunal’s opinion will eliminate the grounds for setting aside. ",
+        "bbox": [
+            179,
+            830,
+            885,
+            897
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            653,
+            21,
+            899,
+            36
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "PART 4: THE RECOGNITION AND ENFORCEMENT OF AWARDS ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            58,
+            636,
+            72
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "42 Recognition and enforcement of awards ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            85,
+            468,
+            99
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) An arbitral award, irrespective of the State or jurisdiction in which it was made, shall be recognised as binding within the DIFC and, upon application in writing to the DIFC Court, shall be enforced subject to the provisions of this Article and of Articles 43 and 44. For the avoidance of doubt, where the UAE has entered into an applicable treaty for the mutual enforcement of judgments, orders or awards the DIFC Court shall comply with the terms of such treaty. ",
+        "bbox": [
+            178,
+            112,
+            885,
+            194
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(2) The party relying on an award or applying for its enforcement shall supply the original award or a duly certified copy thereof and the original Arbitration Agreement referred to in Article 12 or a duly certified copy thereof. If the award or the agreement is not made in English, the DIFC Court may request the party to supply a duly certified translation thereof. ",
+        "bbox": [
+            178,
+            209,
+            885,
+            263
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(3) For the purposes of the recognition or enforcement of any award within the DIFC, an original award or an original Arbitration Agreement shall be duly certified if it is a copy that is certified in the manner required by the laws of the jurisdiction in the place of arbitration or elsewhere. A translation shall be duly certified if it has been certified as correct by an official or sworn translator in the place of arbitration or elsewhere. ",
+        "bbox": [
+            178,
+            276,
+            884,
+            345
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(4) Awards issued by the DIFC Court may be enforced within the DIFC in the manner prescribed in this Law and any rules of Court made for this purpose. Awards recognised by the DIFC Court may be enforced outside the DIFC in accordance with the Judicial Authority Law and recognition under this Law includes ratification for the purposes of Article 7 of the Judicial Authority Law. ",
+        "bbox": [
+            178,
+            358,
+            884,
+            427
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "43 Recognition ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            444,
+            267,
+            459
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) Where, upon the application of a party for recognition of an arbitral award, the DIFC Court decides that the award shall be recognised, it shall issue an order to that effect. ",
+        "bbox": [
+            168,
+            469,
+            885,
+            497
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(2) An order recognising an arbitral award shall be issued in English and Arabic unless the DIFC Court shall determine otherwise. Either language version, in its original or certified copy form, shall constitute sufficient proof of recognition. ",
+        "bbox": [
+            191,
+            510,
+            882,
+            552
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "44 Grounds for refusing recognition or enforcement ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            565,
+            532,
+            579
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) Recognition or enforcement of an arbitral award, irrespective of the State or jurisdiction in which it was made, may be refused by the DIFC Court only: ",
+        "bbox": [
+            181,
+            589,
+            884,
+            617
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) at the request of the party against whom it is invoked, if that party furnishes to the DIFC Court proof that: ",
+        "bbox": [
+            228,
+            630,
+            852,
+            659
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(i) a party to the Arbitration Agreement as defined at Article 12 of this Law was under some incapacity; or the said Arbitration Agreement is not valid under the law to which the parties have subjected it or, in the absence of any indication thereon, under the law of the State or jurisdiction where the award was made; ",
+        "bbox": [
+            290,
+            682,
+            885,
+            749
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(ii) the party against whom the award is invoked was not given proper notice of the appointment of an arbitrator or of the arbitral proceedings or was otherwise unable to present his case; ",
+        "bbox": [
+            289,
+            751,
+            885,
+            801
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(iii) the award deals with a dispute not contemplated by or not falling within the terms of the submission to Arbitration, or it contains decisions on matters beyond the scope of the submission to Arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, that part of the award which contains decisions on matters submitted to Arbitration may be recognised and enforced; ",
+        "bbox": [
+            295,
+            804,
+            885,
+            902
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(iv) the composition of the Arbitral Tribunal or the arbitral procedure was not in accordance with the agreement of the parties or, in the absence of such agreement, ",
+        "bbox": [
+            290,
+            908,
+            885,
+            939
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            653,
+            21,
+            899,
+            35
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "13 ",
+        "bbox": [
+            490,
+            941,
+            509,
+            952
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "was not in accordance with the law of the State or jurisdiction where the arbitration took place; or (v) the award has not yet become binding on the parties or has been set aside or suspended by a Court of the State or jurisdiction in which, or under the law of which, that award was made. ",
+        "bbox": [
+            277,
+            58,
+            887,
+            142
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(b) if the DIFC Court finds that: ",
+        "bbox": [
+            238,
+            155,
+            494,
+            171
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(i) the subject-matter of the dispute would not have been capable of settlement by Arbitration under the laws of the DIFC; or (ii) the enforcement of the award would be contrary to the public policy of the UAE. ",
+        "bbox": [
+            297,
+            182,
+            880,
+            239
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(2) If an application for the setting aside or suspension of an award has been made to a Court referred to in paragraph (1)(a)(v) of this Article, the DIFC Court may, if it considers it proper, adjourn its decision and may also, on the application of the party seeking recognition or enforcement of the award, order the other party to provide appropriate security. ",
+        "bbox": [
+            178,
+            249,
+            885,
+            305
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(3) Any party seeking recourse against an arbitral award made in the Seat of the DIFC shall not be permitted to make an application under paragraph (1)(a) of this Article if it has made or could have made an application under Article 41 of this Law. ",
+        "bbox": [
+            171,
+            314,
+            885,
+            356
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            653,
+            21,
+            899,
+            35
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 1 - INTERPRETATION ",
+        "text_level": 1,
+        "bbox": [
+            381,
+            62,
+            655,
+            77
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A. Rules of interpretation ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            91,
+            332,
+            104
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(1) In this Law, a reference to: ",
+        "bbox": [
+            168,
+            118,
+            410,
+            133
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) a statutory provision includes a reference to the statutory provision as amended or re-enacted from time to time;   \n(b) a person includes any natural person, body corporate or body unincorporate, including a company, partnership, unincorporated association, government or state;   \n(c) a calendar year shall mean a year of the Gregorian calendar; and   \n(d) a reference to the masculine gender includes the feminine. ",
+        "bbox": [
+            225,
+            144,
+            882,
+            271
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(2) The headings in this Law shall not affect its interpretation. ",
+        "bbox": [
+            163,
+            283,
+            621,
+            298
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(3) Where a provision of this Law, except Article 31, leaves the parties free to determine a certain issue, such freedom includes the right of the parties to authorise a third party, including an institution, to make that determination. ",
+        "bbox": [
+            166,
+            311,
+            887,
+            352
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(4) Where a provision of this Law refers to the fact that the parties have agreed or that they may agree or in any other way refers to an agreement of the parties, such agreement includes any arbitration rules, including those of any institution, referred to in that agreement. ",
+        "bbox": [
+            159,
+            365,
+            887,
+            407
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(5) Where a provision of this Law, other than in Articles 32(a) and 39(2)(a), refers to a claim, it also applies to a counter-claim, and where it refers to a defence, it also applies to a defence to such counter-claim. ",
+        "bbox": [
+            166,
+            419,
+            885,
+            461
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "B. Calculation of periods of time ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            475,
+            383,
+            489
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Time periods specified in this Law shall start to run on the day following the day when a notice or communication is received, unless the Arbitral Tribunal shall specifically provide otherwise. If the last day of any such period is an official holiday or a non-business day at the place where the notice or communication is received, the period shall be extended until the first business day which follows. Official holidays and non-business days occurring during the running of the period of time shall otherwise be included for the purposes of calculating the period. ",
+        "bbox": [
+            166,
+            498,
+            885,
+            580
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            653,
+            21,
+            899,
+            36
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "C. Defined Terms ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            60,
+            288,
+            74
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In this Law, unless the context indicates otherwise, the defined terms listed below shall have the corresponding meanings: ",
+        "bbox": [
+            176,
+            84,
+            825,
+            112
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/82772d764695ca62f6c6afda3fcb9d3daa53e7a5d175e1c4ea39f1ef4d292cdc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Term</td><td rowspan=1 colspan=1>Definition</td></tr><tr><td rowspan=1 colspan=1>Arbitration</td><td rowspan=1 colspan=1>an arbitration for the resolution of disputes conducted pursuantto an Arbitration Agreement, as defined at Article 12 of thisLaw.</td></tr><tr><td rowspan=1 colspan=1>Arbitral Tribunal</td><td rowspan=1 colspan=1>a sole arbitrator or a panel of arbitrators</td></tr><tr><td rowspan=1 colspan=1>Court</td><td rowspan=1 colspan=1>shall mean any competent court of any State or jurisdiction,including the DIFC Court where applicable.</td></tr><tr><td rowspan=1 colspan=1>DIFC</td><td rowspan=1 colspan=1>the Dubai International Financial Centre.</td></tr><tr><td rowspan=1 colspan=1>DIFC Court</td><td rowspan=1 colspan=1>the court of the Dubai International Finance Centre, asestablished by Dubai law.</td></tr><tr><td rowspan=1 colspan=1>DIFC Law</td><td rowspan=1 colspan=1>is law made by the Ruler (including, by way of example, theLaw), as applicable in the DIFC.</td></tr><tr><td rowspan=1 colspan=1>Judicial Authority Law</td><td rowspan=1 colspan=1>Shall mean The Law of the Judicial Authority at DubaiInternational Financial Centre, Dubai Law No. 12 of 2004.</td></tr><tr><td rowspan=1 colspan=1>Law</td><td rowspan=1 colspan=1>the Arbitration Law 2008.</td></tr><tr><td rowspan=1 colspan=1>Ruler</td><td rowspan=1 colspan=1>the ruler of the Emirate of Dubai.</td></tr><tr><td rowspan=1 colspan=1>Seat</td><td rowspan=1 colspan=1>the juridical seat which indicates the procedural law chosen bythe parties to govern their arbitration as designated in Article 27of this Law.</td></tr></table>",
+        "bbox": [
+            117,
+            123,
+            895,
+            449
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "DIFC ARBITRATION LAW ",
+        "bbox": [
+            651,
+            21,
+            895,
+            35
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "PUBLIC ",
+        "bbox": [
+            31,
+            18,
+            82,
+            29
+        ],
+        "page_idx": 18
+    }
+]

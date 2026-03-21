@@ -1,0 +1,4885 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            389,
+            310,
+            605,
+            359
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            223,
+            443,
+            774,
+            478
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In force on 12 November 2018 ",
+        "bbox": [
+            314,
+            546,
+            687,
+            569
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            452,
+            98,
+            547,
+            112
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. GENERAL..... ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            149,
+            868,
+            162
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 Application and interpretation..   \n1.2 References to writing....... 2 ",
+        "bbox": [
+            99,
+            165,
+            868,
+            192
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "COMPANY FORMATION AND INCORPORATION.. .. 2 ",
+        "text_level": 1,
+        "bbox": [
+            137,
+            206,
+            865,
+            221
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Application for incorporation . . 2   \n2.2 DFSA regulated entities .. . 3   \n2.3 Articles of Association ... . 3   \n2.4 Certificate of incorporation 4 ",
+        "bbox": [
+            104,
+            223,
+            870,
+            279
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. PRIVATE COMPANIES AND PUBLIC COMPANIES.... .... 4 ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            293,
+            868,
+            307
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 Allotment of shares ... 4   \n3.2 Transfer of shares ............. ",
+        "bbox": [
+            105,
+            310,
+            865,
+            336
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. DIRECTORS AND SECRETARIES .... ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            351,
+            867,
+            365
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1 Register of Directors and Secretaries .. 5   \n4.2 Change of officeholders .... .... 5 ",
+        "bbox": [
+            100,
+            367,
+            865,
+            394
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. MERGERS... ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            409,
+            867,
+            423
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5.1 Application.. ... 6   \n5.2 Pre-registration steps: where all merging bodies are Companies . ................ ... 6   \n5.3 Pre-registration steps: where merged body is not a Company... .. 7   \n5.4 Pre-registration steps - other cases .. .. 7   \n5.5 Registration of notices as to merger .. .. 8 ",
+        "bbox": [
+            104,
+            425,
+            870,
+            495
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6. ACCOUNTS, REPORTS AND AUDIT ... .... 9 ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            510,
+            870,
+            524
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6.1 Application ......... .. 9   \n6.2 Accounting standards .. .. 9   \n6.3 Auditor conduct. . 9   \n6.4 Appointment of auditor . .. 9 ",
+        "bbox": [
+            104,
+            525,
+            870,
+            581
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7. RECOGNISED COMPANIES.. .... 10 ",
+        "text_level": 1,
+        "bbox": [
+            110,
+            595,
+            868,
+            611
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7.1 Application for registration ... 1 0   \n7.2 Recognised Company names... . 11   \n7.3 Certificate of Registration .... .. 11   \n7.4 Meaning of ‘carrying on business’ . . 11   \n7.5 Notices to the Registrar . . 12 ",
+        "bbox": [
+            105,
+            612,
+            870,
+            682
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TRANSFER OF INCORPORATION .... 12 ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            696,
+            865,
+            711
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8.1 Transfer of incorporation to DIFC 1 2   \n8.2 Certificate of continuation. 1 3   \n8.3 Transfer of incorporation from the DIFC . 1 4 ",
+        "bbox": [
+            105,
+            713,
+            870,
+            755
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9. GENERAL PROVISIONS .... .. 14 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            769,
+            868,
+            783
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9.1 Fees .. . 14   \n9.2 Public Register ...... .. 15 ",
+        "bbox": [
+            100,
+            785,
+            865,
+            813
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "10. TRANSITIONAL PROVISIONS .. ... 16 ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            826,
+            870,
+            840
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "10.1 General .... . 16   \n10.2 Definitions.. . 16   \n10.3 Transition from the Previous Law ... .... 16   \n10.4 Automatic conversion to Private Company.. . 16   \n10.5 Automatic conversion to Public Company.. 18   \n10.6 Amendments to Articles of Association . 1 8   \n10.7 Fines .... 1 8   \n10.8 Use of Former Name .... 1 8 ",
+        "bbox": [
+            105,
+            843,
+            870,
+            914
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            494,
+            928,
+            505,
+            941
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Appendix 1 ... 19 ",
+        "bbox": [
+            99,
+            142,
+            870,
+            156
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Appendix 2 .... .. 20 ",
+        "bbox": [
+            99,
+            171,
+            868,
+            185
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Board of Directors of the DIFCA, in the exercise of the powers conferred on them by Article 151 of the Companies Law, hereby make these Regulations. ",
+        "bbox": [
+            102,
+            93,
+            894,
+            123
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. GENERAL ",
+        "bbox": [
+            107,
+            135,
+            252,
+            149
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1 Application and interpretation ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            164,
+            389,
+            179
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 These Regulations apply to: ",
+        "bbox": [
+            109,
+            192,
+            357,
+            206
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) Companies incorporated under the Law;   \n(b) Recognised Companies;   \n(c) Incorporators applying for a certificate of incorporation of a company under the Law;   \n(d) Foreign Companies applying to become Recognised Companies or to transfer their incorporation to DIFC;   \n(e) officers and employees of companies incorporated, registered or continued under the Law;   \n(f) auditors under the Law;   \n(g) the Registrar;   \n(h) persons applying for, or holding, a Commercial Licence; and (i) any other person to whom the Law applies. ",
+        "bbox": [
+            164,
+            217,
+            894,
+            474
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 Defined terms are identified throughout these Regulations by the capitalisation of the initial letter of a word or phrase. Where capitalisation of the initial letter is not used, an expression has its natural meaning. ",
+        "bbox": [
+            104,
+            485,
+            894,
+            514
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 The following defined terms have the meaning given below: ",
+        "bbox": [
+            105,
+            526,
+            576,
+            542
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/867a24671dc7995a14e5b8bca7270b3104036677e1a830a182dcceb57e3e1915.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Defined Term</td><td colspan=\"1\" rowspan=\"1\">Definition</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DNFBP</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to that term in the Regulatory Law .</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Financial Service</td><td colspan=\"1\" rowspan=\"1\">has the meaning it has under Article 41 of the Regulatory Law .</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Fund</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in Article 3 of Schedule 1 of the CollectiveInvestment Law 2010.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">General Partner</td><td colspan=\"1\" rowspan=\"1\">a Company acting as the general partner of a Fund under the LimitedPartnership Law DIFC Law No. 4. of 2006.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Law</td><td colspan=\"1\" rowspan=\"1\">the Companies Law 2018 DIFC Law No. 5 of 2018.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Markets Law</td><td colspan=\"1\" rowspan=\"1\">the Markets Law DIFC Law No. 1 of 2012.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Operating Law</td><td colspan=\"1\" rowspan=\"1\">the Operating Law DIFC Law No. 7 of 2018.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Operating Regulations</td><td colspan=\"1\" rowspan=\"1\">the Operating Regulations issued by the Board of Directors of theDIFCA.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Regulatory Law</td><td colspan=\"1\" rowspan=\"1\">the Regulatory Law DIFC Law No. 1 of 2004.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Relevant Jurisdiction</td><td colspan=\"1\" rowspan=\"1\">the UAE or any other jurisdiction that the Registrar may determine fromtime to time for the purposes of any one (1) or more of the provisions ofthese Regulations.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Reporting Entity</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to that term in Article 38 of the Markets Law .</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Ultimate Beneficial OwnershipRegulations</td><td colspan=\"1\" rowspan=\"1\">the Ultimate Beneficial Ownership Regulations issued by the Board ofDirectors of the DIFCA.</td></tr></table>",
+        "bbox": [
+            105,
+            567,
+            892,
+            903
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            57,
+            890,
+            72
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1.4 All other defined terms have the same meaning they have under the Law. ",
+        "bbox": [
+            107,
+            180,
+            660,
+            195
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.1.5 The Rules of interpretation in the Law apply to these Regulations. ",
+        "bbox": [
+            102,
+            208,
+            613,
+            223
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2 References to writing ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            236,
+            322,
+            250
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 If a provision in these Regulations refers to a communication, notice, agreement or other document ‘in writing’ then, unless the contrary intention appears, it means in legible form and capable of being reproduced on paper, irrespective of the medium used. Expressions related to writing must be interpreted accordingly. ",
+        "bbox": [
+            107,
+            265,
+            894,
+            306
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 This does not affect any other legal requirements which may apply in relation to the form or manner of executing a document or agreement. ",
+        "bbox": [
+            107,
+            319,
+            890,
+            348
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2. COMPANY FORMATION AND INCORPORATION ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            360,
+            559,
+            375
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 Application for incorporation ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            388,
+            383,
+            404
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 An application for incorporation of a company shall state: ",
+        "bbox": [
+            107,
+            417,
+            559,
+            431
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) the proposed name of the Company;   \n(b) whether the proposed Company is to be a Private Company or a Public Company;   \n(c) the nature of the business to be conducted by the proposed Company;   \n(d) the amount of the initial share capital and shareholdings of the Incorporators;   \n(e) the nominal value of each Share;   \n(f) the address of the proposed Company’s registered office;   \n(g) the following information relating to each Incorporator: ",
+        "bbox": [
+            163,
+            443,
+            781,
+            629
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(i) where the Incorporator is a natural person: ",
+        "bbox": [
+            225,
+            640,
+            576,
+            655
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(A) the full name, nationality and address of the Incorporator; and (B) if the Incorporator were to hold Shares in trust for another person, the full name, nationality and address of the beneficial owner of the Shares; or ",
+        "bbox": [
+            287,
+            668,
+            892,
+            725
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(ii) where the Incorporator is a body corporate: ",
+        "bbox": [
+            226,
+            738,
+            583,
+            752
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(A) the full name, place of incorporation and the registered office of the Incorporator; and   \n(C) the ultimate beneficial ownership information of the Incorporator as prescribed in the Ultimate Beneficial Ownership Regulations. ",
+        "bbox": [
+            285,
+            766,
+            892,
+            837
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(h) the full name (including any previous names), nationality, address, business occupation (if any) and date of birth of the individuals who are to serve as the Directors; ",
+        "bbox": [
+            164,
+            848,
+            892,
+            878
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "i) if applicable, the following information relating to each proposed Secretary: ",
+        "bbox": [
+            178,
+            890,
+            744,
+            906
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(A) where the Secretary is a natural person, the full name (including any previous names), nationality, address, business occupation (if any) and date of birth of the individual; or   \n(B) where the Secretary is a body corporate, the full name, place of incorporation (which must be in the DIFC or a Relevant Jurisdiction), the registered office and officers (including the particulars in paragraph (A) above for each such officer); and ",
+        "bbox": [
+            287,
+            98,
+            892,
+            209
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "such other particulars as the Registrar may require. ",
+        "bbox": [
+            231,
+            223,
+            571,
+            239
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 The application for Incorporation under Regulation 2.1.1 shall be accompanied by the proposed Articles of Association which shall comply with the requirements set out in Regulation 2.3. ",
+        "bbox": [
+            99,
+            252,
+            895,
+            279
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 Where an Incorporator is a body corporate, the application for a certificate of incorporation shall be accompanied by a copy of the incorporator’s current certificate of incorporation or registration in its place of origin, or a document of similar effect, certified by the relevant authority in the jurisdiction in which it is incorporated or otherwise to the satisfaction of the Registrar. ",
+        "bbox": [
+            107,
+            292,
+            892,
+            348
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.4 Once a proposed Company’s application has been approved by the Registrar, within sixty (60) days of such approval, the Company must take substantive steps to establish its operations in the DIFC, subject to any applicable legal exemptions as to physical presence in the DIFC. Following the aforementioned sixty (60) day period, if the Company has still not taken substantive steps to establish its operations in the DIFC, the application shall be cancelled. ",
+        "bbox": [
+            107,
+            361,
+            892,
+            430
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 DFSA regulated entities ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            444,
+            342,
+            458
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "An applicant applying for a DFSA license, must on or about the same time as submitting its DFSA application, supply to the Registrar the details of its Incorporators, Directors and Secretary (if any) as required in Regulation 2.1.1, failing which the Registrar may obtain such information directly from the DFSA. ",
+        "bbox": [
+            166,
+            473,
+            892,
+            527
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 Articles of Association ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            542,
+            329,
+            556
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 The Incorporators of a proposed Company shall upon incorporation, adopt Articles of Association which comply with Article 11 of the Law. The Articles of Association so adopted shall: ",
+        "bbox": [
+            99,
+            569,
+            890,
+            598
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) be the Standard Articles as set out in Appendix 2; (b) be the Standard Articles with modifications; or (c) not be based on the Standard Articles. ",
+        "bbox": [
+            166,
+            611,
+            564,
+            682
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 If Regulations 2.3.1(b) or 2.3.1(c) applies: ",
+        "bbox": [
+            107,
+            695,
+            453,
+            709
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) the Articles of Association proposed to be adopted upon incorporation of the Company shall, at least provide for: ",
+        "bbox": [
+            152,
+            722,
+            894,
+            751
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(i) the names of the Incorporators;   \n(ii) the purpose for which the Company is being formed;   \n(iii) the authorised share capital of the Company, the number of Shares and the nominal value of each Share;   \n(iv) the number of Shares issued and allotted to the Incorporators;   \n(v) the creation of classes of Shares where the Company considers that it may seek to create classes of Shares; ",
+        "bbox": [
+            225,
+            764,
+            894,
+            917
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            57,
+            890,
+            71
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            494,
+            945,
+            505,
+            956
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(vi) alteration of share capital; (vii) the rights attaching to Shares or classes of Shares; (viii) the transfer of Shares; (ix) the holding of Annual General Meetings; (x) the requisition by shareholders of General Meetings; (xi) the proceedings including voting at General Meetings; (xii) accounts and other information to be provided to shareholders before every annual general meeting; (xiii) the maximum number of Directors; (xiv) the appointment, retirement, disqualification and removal of Directors and other Officers; (xv) the remuneration of Directors; (xvi) the powers of Directors; (xvii) proceedings of Directors; (xviii) appointment of the Secretary, where the Company is a Public Company or where a Private Company elects to appoint a Secretary; and (xix) the keeping of minutes of meetings of Shareholders or Directors; and (b) the Incorporators shall submit a statement to the Registrar that the proposed Articles of Association comply with the requirements of the Law and any other applicable DIFC Laws. ",
+        "bbox": [
+            152,
+            79,
+            895,
+            532
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 The Articles of Association proposed to be adopted upon incorporation shall be signed by or on behalf of each Incorporator and shall come into effect upon incorporation of the Company and may be amended by a Special Resolution. ",
+        "bbox": [
+            100,
+            541,
+            897,
+            582
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4 Certificate of incorporation ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            596,
+            368,
+            611
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 The certificate of incorporation issued by the Registrar upon incorporation of a Company shall set out: ",
+        "bbox": [
+            105,
+            624,
+            860,
+            639
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) the name of the Company (if any);   \n(b) the Company’s registered number;   \n(c) a statement that the Company is incorporated;   \n(d) the type of Company; and (e) the date of incorporation. ",
+        "bbox": [
+            166,
+            651,
+            541,
+            780
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. PRIVATE COMPANIES AND PUBLIC COMPANIES ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            791,
+            568,
+            807
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 Allotment of shares ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            820,
+            310,
+            834
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A Company shall file with the Registrar a notice of allotment of Shares using the applicable form prescribed by the Registrar, for any subsequent allotment of shares after the initial allotment, within thirty (30) days of such allotment. ",
+        "bbox": [
+            166,
+            847,
+            892,
+            890
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            636,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Transfer of shares ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            98,
+            302,
+            114
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A transfer of shares: ",
+        "bbox": [
+            168,
+            127,
+            305,
+            141
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) in the case of a Public Company whose Shares are admitted to an Official List of Securities in the DIFC or a similar list in a jurisdiction outside the DIFC, must take place in accordance with the rules of the relevant exchange and clearing house; and   \n(b) in the case of all other Companies, must take place in accordance with the requirements in the Law and the Articles of Association and the Company shall file a notice of transfer of shares with the Registrar within thirty (30) days of the transfer, using the form prescribed by the Registrar. ",
+        "bbox": [
+            166,
+            153,
+            892,
+            253
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. DIRECTORS AND SECRETARIES ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            263,
+            433,
+            279
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1 Register of Directors and Secretaries ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            293,
+            433,
+            307
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 The register of Directors and, if applicable, Secretary of every Company required under Article 82 of the Law, shall set out, in respect of each Director and individual who is a Secretary, the following information: ",
+        "bbox": [
+            100,
+            321,
+            894,
+            349
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) full name;   \n(b) any former names, if any;   \n(c) date and place of birth;   \n(d) nationality;   \n(e) information identifying the person from their passport or other government-issued national identification document acceptable to the Registrar, including: (i) identifying number; (ii) country of issue; and (iii) date of issue and of expiry;   \n(f) address;   \n(g) date of appointment; and   \n(h) date of cessation (if applicable). ",
+        "bbox": [
+            164,
+            363,
+            895,
+            674
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 If the Secretary is not an individual, the register shall contain, the full name, place of incorporation (which must be in the DIFC or a Relevant Jurisdiction), registered office and relevant officers (including the particulars in Regulation 4.1.1 of each such officer) of the Secretary. ",
+        "bbox": [
+            107,
+            684,
+            892,
+            726
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2 Change of officeholders ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            739,
+            341,
+            753
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 Whenever: ",
+        "bbox": [
+            107,
+            766,
+            243,
+            781
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) a Director or Secretary is appointed to a Company after initial incorporation/registration of the Company; or (b) a Director or Secretary retires, is removed or for any other reason ceases to act; ",
+        "bbox": [
+            166,
+            795,
+            892,
+            852
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "the Company shall file a notice of change of Director or Secretary with the Registrar within thirty (30) days of the change of Director, or Secretary, using the form prescribed by the Registrar. ",
+        "bbox": [
+            159,
+            864,
+            895,
+            894
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            57,
+            890,
+            72
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": ".2.2 Whenever there is any change in the name or address of a Director or Secretary of a Company, the Company shall file with the Registrar a notice of change of name or address using the form prescribed by the Registrar. ",
+        "bbox": [
+            122,
+            80,
+            890,
+            109
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MERGERS ",
+        "text_level": 1,
+        "bbox": [
+            166,
+            122,
+            253,
+            136
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Application ",
+        "text_level": 1,
+        "bbox": [
+            166,
+            151,
+            253,
+            165
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This Regulation applies in respect of mergers to which Part 8 of the Law applies. The interpretation provisions in Article 105(3) apply to the Regulations in this Part. ",
+        "bbox": [
+            166,
+            178,
+            894,
+            206
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.2 Pre-registration steps: where all merging bodies are Companies ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            219,
+            626,
+            235
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This Regulation 5.2 applies if all the merging bodies in a merger are Companies. ",
+        "bbox": [
+            169,
+            248,
+            710,
+            262
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The merging Companies shall apply jointly to the Registrar, in the prescribed form, to complete the merger. ",
+        "bbox": [
+            159,
+            275,
+            889,
+            291
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.2.3 The application shall not be made until after the latter of the following: ",
+        "bbox": [
+            102,
+            303,
+            648,
+            318
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) if a Shareholder made an unsuccessful application to the court under Article 110 of the Law, the last date on which such an application was concluded;   \n(b) if Article 112 of the Law applies to the merger, the date of the court order permitting the merger;   \n(c) if Article 112 of the Law does not apply to the merger:   \n(i) 28 days after the last date on which a notice was published under Article 111(5) of the Law, provided no creditor has given notice of objection under Article 113(2)(a) of the Law,   \n(ii) 28 days after the last notice of objection by a creditor was given under Article 113(2)(a) of the Law, provided that no creditor has applied to the court under Article 113(2)(b) of the Law, or   \n(iii) if an application was made to the court under Article 113(2)(b) of the Law, the last date on which such an application is disposed of, other than by an order restraining the merger. ",
+        "bbox": [
+            166,
+            331,
+            892,
+            417
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.2.4 The application shall be accompanied by: ",
+        "bbox": [
+            107,
+            568,
+            450,
+            583
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) a copy of the Merger Agreement, unless the merger was approved under Article 109 of the Law; ",
+        "bbox": [
+            161,
+            595,
+            880,
+            611
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(b) a copy of: ",
+        "bbox": [
+            168,
+            624,
+            297,
+            638
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(i) if the Merged Company is to be a New Company, its Articles of Association; or (ii) if the Merged company is to be a Survivor Company, any amendment to its Articles of Association provided for under Article 106(4)(a) or 109(3)(b)(iii) of the Law; ",
+        "bbox": [
+            226,
+            651,
+            892,
+            708
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(c) a copy, in respect of each Merging Company, of: ",
+        "bbox": [
+            166,
+            721,
+            559,
+            737
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(i) the resolution passed under Article 107(1) of the Law, together with, a list identifying the Directors who voted in favour of that resolution, if that information is not contained in the resolution; and   \n(ii) the certificates signed under Articles 107(5) and (6) of the Law; ",
+        "bbox": [
+            215,
+            749,
+            892,
+            820
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(d) a further certificate, signed by each Director who signed a certificate under Article 107(5) of the Law, stating: ",
+        "bbox": [
+            176,
+            832,
+            892,
+            862
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(i) that the Director, and the Merging Company of which he or she is a Director, have complied with the requirements of Part 8 of the Law in respect of the merger; and ",
+        "bbox": [
+            221,
+            873,
+            894,
+            902
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(ii) if Article 112 of the Law does not apply to the merger, that in the Director’s opinion the merger will not unfairly prejudice any interests of any creditor of that Merging Company; ",
+        "bbox": [
+            221,
+            93,
+            894,
+            123
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(e) a copy of any Order of the Court under: ",
+        "bbox": [
+            163,
+            135,
+            497,
+            151
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(i) Article 149 of the Law on an application under Article 110 of the Law; (ii) Article 112 of the Law; or   \n(iii) Article 113 of the Law; and ",
+        "bbox": [
+            225,
+            164,
+            769,
+            235
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(f) any other document or information required by the Registrar to establish that the requirements of Regulation 5.2.3 have been met. ",
+        "bbox": [
+            166,
+            248,
+            892,
+            275
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.2.5 The Registrar shall register notices as to the merger in accordance with Regulation 5.5 if the Registrar is satisfied: ",
+        "bbox": [
+            102,
+            290,
+            892,
+            317
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) that the application complies with Regulations 5.2.2 and 5.2.3, and that the documents provided under Regulation 5.2.4 comply with that Regulation and with the provisions mentioned in it; and   \n(b) if the merger agreement provides for the Merged Company to be a New Company, that he or she would have registered the Articles of Association of the Company under Article 12(3) of the Law if it had been incorporated otherwise than by merger. ",
+        "bbox": [
+            164,
+            331,
+            892,
+            414
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.3 Pre-registration steps: where merged body is not a Company ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            429,
+            605,
+            443
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.3.1 This Regulation 5.3 applies if: ",
+        "bbox": [
+            107,
+            456,
+            374,
+            470
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) the merged body provided for in the merger agreement is to be a Foreign Company; (b) the Registrar has given consent to the merger under Article 114 of the Law; and (c) if any conditions were attached to that consent, those conditions have been met to the satisfaction of the Registrar. ",
+        "bbox": [
+            163,
+            483,
+            887,
+            569
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.3.2 When this Regulation 5.3 applies, the merging bodies shall take whatever steps are necessary to complete the merger in accordance with the merger agreement and the laws governing the Foreign Company and those merging bodies that are not Companies. ",
+        "bbox": [
+            105,
+            581,
+            892,
+            624
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.3.3 As soon as is reasonably practical after the merging bodies have completed the merger the Foreign Company shall: ",
+        "bbox": [
+            100,
+            637,
+            890,
+            664
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) inform the Registrar that it has been completed, including the date of completion;   \n(b) provide any document or information that the Registrar may reasonably require to establish the fact and date of the completion; and   \n(c) authenticate any such document or information in any manner that the Registrar may reasonably require. ",
+        "bbox": [
+            164,
+            677,
+            894,
+            777
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.3.4 As soon as is practical after receipt of the documents and instruction under Regulation 5.3.3, the Registrar shall register notices as to the merger in accordance with Regulation 5.5. ",
+        "bbox": [
+            105,
+            789,
+            890,
+            819
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.4 Pre-registration steps - other cases ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            831,
+            416,
+            846
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.4.1 This Regulation 5.4 applies if: ",
+        "bbox": [
+            107,
+            859,
+            374,
+            873
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) one (1) or more of the merging bodies in a merger is not a Company; ",
+        "bbox": [
+            159,
+            887,
+            694,
+            902
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            57,
+            890,
+            72
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            494,
+            944,
+            504,
+            956
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(b) the merged body provided for in the merger agreement is to be a Company; (c) the Registrar has given consent to the merger under Article 114 of the Law; and (d) if any conditions were attached to that consent, those conditions have been met to the satisfaction of the Registrar. ",
+        "bbox": [
+            164,
+            80,
+            892,
+            166
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.4.2 The Registrar shall, as soon as practical, upon receipt of copies of: ",
+        "bbox": [
+            105,
+            178,
+            616,
+            193
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) the merger agreement;   \n(b) the certificates signed under Articles 107(5) and (6) of the Law; and   \n(c) the Articles of Association of the merged Company, if they were provided to the Registrar under Article 114(6)(b) of the Law, ",
+        "bbox": [
+            166,
+            206,
+            892,
+            291
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "register notices as to the merger, in accordance with Regulation 5.5. ",
+        "bbox": [
+            166,
+            303,
+            626,
+            318
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.5 Registration of notices as to merger ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            332,
+            425,
+            347
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This Regulation applies where the Registrar is to register notices as to a merger under Regulations 5.2, 5.3 or 5.4. ",
+        "bbox": [
+            134,
+            360,
+            895,
+            388
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.5.2 The completion date of a merger is : ",
+        "bbox": [
+            105,
+            401,
+            415,
+            416
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) for a merger to which Regulation 5.3 applies, the date notified to the Registrar under Regulation 5.3.3(a); and   \n(b) for a merger other than one to which Regulation 5.3 applies, the date on which the last entry on the register is made under this Regulation in relation to the merger. ",
+        "bbox": [
+            164,
+            429,
+            892,
+            499
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.5.3 The Registrar shall enter in the register, in respect of each merging Company that is not a Survivor Company, a notice: ",
+        "bbox": [
+            102,
+            513,
+            892,
+            541
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) stating that the Company has ceased to be incorporated as a separate company because it has merged with a body or bodies specified in the notice, so that they have together continued as a merged Company; and   \n(b) specifying the name of the merged body and: (i) that is incorporated in the DIFC, or (ii) the jurisdiction outside the DIFC in which it is incorporated. ",
+        "bbox": [
+            154,
+            554,
+            894,
+            683
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.5.4 If the merged body is a Survivor Company, the Registrar shall enter in the Public Register, in respect of that Company, a notice stating that the Company has merged with a body or bodies specified in the notice, so that they have together continued as the merged Survivor Company. ",
+        "bbox": [
+            107,
+            696,
+            894,
+            739
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.5.5 If the merged body is a New Company, the Registrar shall, if he or she would have registered the Company under the Law if it had been incorporated otherwise than as the result of a merger: ",
+        "bbox": [
+            100,
+            751,
+            892,
+            780
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) register the Articles of Association of the New Company under Article 12(3) of the Law, and issue a certificate of its incorporation under Article 13(1) of the Law, as if the Registrar had received an application for the creation of the Company under Part 4 of the Law with the Articles of Association provided for in the merger agreement; and   \n(b) enter in the register, in respect of that New Company, a notice that states that the Company is the result of a completed merger between the former bodies specified in the notice, which have together continued as the New Company. ",
+        "bbox": [
+            156,
+            793,
+            894,
+            904
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            636,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.5.6 Each entry under this Regulation 5.5: ",
+        "bbox": [
+            107,
+            95,
+            420,
+            109
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) shall also include a note specifying the completion date of the merger to which it relates; and (b) may also include a note of any further information that the Registrar considers useful in relation to the merger. ",
+        "bbox": [
+            164,
+            121,
+            889,
+            179
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.5.7 When the Registrar enters a notice on the register referring to an overseas body, the Registrar shall also immediately send a copy of the notice to the appropriate official or public body in the jurisdiction in which that body is or was incorporated. ",
+        "bbox": [
+            100,
+            192,
+            897,
+            234
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.5.8 The Registrar shall send the copy referred to in Regulation 5.5.7: ",
+        "bbox": [
+            104,
+            247,
+            606,
+            262
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) electronically;   \n(b) by some other means of instantaneous transmission; or   \n(c) if no instantaneous transmission to the official or public body is practicable, by such other means as the Registrar believes likely to be acceptable to that official or public body. ",
+        "bbox": [
+            164,
+            274,
+            892,
+            360
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6. ACCOUNTS, REPORTS AND AUDIT ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            372,
+            450,
+            387
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.1 Application ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            401,
+            253,
+            416
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This chapter does not apply to any Company that is an Authorised Person, Public Listed Company or a Recognised Person. ",
+        "bbox": [
+            166,
+            429,
+            892,
+            456
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.2 Accounting standards ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            470,
+            327,
+            485
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.2.1 Subject to Regulations 6.2.2 and 6.2.3, accounts and financial statements prepared by a Company shall be prepared in accordance with and comply with the International Financial Reporting Standards developed by the International Accounting Standards Board as applicable from time to time. ",
+        "bbox": [
+            107,
+            498,
+            892,
+            539
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": ".2.2 Should a Company consider that it is necessary to deviate from the International Financial Reporting Standards so as to be able to present a true and fair set of financial statements, the Registrar may, on application of the Company, consent to the deviation, subject to any conditions that he may impose. ",
+        "bbox": [
+            117,
+            554,
+            895,
+            595
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.2.3 Where a Company is a member of a corporate group that prepares its accounts and financial statements in accordance with another accounting standard, the Company may prepare its accounts and financial statements in accordance with that other standard with the written consent of the Registrar and subject to any conditions that he may impose. ",
+        "bbox": [
+            107,
+            609,
+            892,
+            664
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.2.4 Companies that are members of the same corporate group may prepare consolidated financial statements in accordance with the International Financial Reporting Standards or such other standard applicable to the ultimate holding company with the written consent of the Registrar and subject to any conditions that he may impose. ",
+        "bbox": [
+            107,
+            677,
+            892,
+            733
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.3 Auditor conduct ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            746,
+            287,
+            760
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "An auditor shall, when determining whether to accept an audit appointment and in conducting an audit of a Company, comply with the requirements of the relevant standards published from time to time by the International Auditing and Assurance Standards Board. ",
+        "bbox": [
+            166,
+            775,
+            892,
+            816
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.4 Appointment of auditor ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            831,
+            341,
+            845
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.4.1 A Company that is required to appoint an auditor shall file a notice of appointment of auditor, the resolution of the General Meeting or board of Directors appointing the auditor, and the auditor’s letter of acceptance of the appointment with the Registrar, within thirty (30) days of the appointment. ",
+        "bbox": [
+            107,
+            858,
+            892,
+            900
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            57,
+            890,
+            72
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            492,
+            945,
+            504,
+            956
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.4.2 A Company shall file a notice of cessation of auditor and the related resolution of the board of Directors with the Registrar, within thirty (30) days of the resignation or removal of an auditor. ",
+        "bbox": [
+            109,
+            80,
+            890,
+            109
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3 A Company filing a Notice of Appointment of an Auditor or Notice of Cessation of an Auditor shall use the applicable form prescribed by the Registrar. ",
+        "bbox": [
+            136,
+            122,
+            892,
+            151
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "RECOGNISED COMPANIES ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            164,
+            389,
+            178
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7.1 Application for registration ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            192,
+            368,
+            206
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7.1.1 A Foreign Company applying for registration as a Recognised Company shall apply using the applicable form prescribed by the Registrar and shall therein set out: ",
+        "bbox": [
+            100,
+            219,
+            895,
+            248
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) its name and the address of its place of business in the DIFC; (b) the trading name (if relevant); (c) the nature of the business to be conducted in the DIFC; (d) a list of its Directors and Officers including the following personal details: ",
+        "bbox": [
+            166,
+            261,
+            724,
+            361
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(i) their given and family names;   \n(ii) any former given or family names;   \n(iii) their date and place of birth;   \n(iv) nationality; and (v) their address; ",
+        "bbox": [
+            226,
+            373,
+            526,
+            500
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "its registered office in its place of origin or, in the event there is no registered office required under the laws of the place of origin, its principal place of business in its place or origin; ",
+        "bbox": [
+            208,
+            513,
+            892,
+            542
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(f) the following personal details of the Approved Person(s) appointed under Article 136(1)(a) of the Law; ",
+        "bbox": [
+            174,
+            554,
+            892,
+            583
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(i) their given and family names;   \n(ii) any former given or family names; (iii) their date and place of birth;   \n(iv) nationality; and   \n(v) their address; and ",
+        "bbox": [
+            225,
+            596,
+            526,
+            724
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(g) any other matters the Registrar considers appropriate. ",
+        "bbox": [
+            163,
+            736,
+            589,
+            751
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7.1.2 An application pursuant to Regulation 7.1.1 shall be accompanied by: ",
+        "bbox": [
+            105,
+            764,
+            638,
+            780
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) a copy of the current certificate of the Foreign Company’s incorporation or registration in its place of origin, or a document of similar effect, certified by the relevant authority in the jurisdiction in which it is incorporated or otherwise to the satisfaction of the Registrar;   \n(b) a copy of the Foreign Company’s constitution certified as a true copy by a Secretary, Director or Officer of the Foreign Company;   \n(c) a copy of the Foreign Company’s most recent accounts filed, if applicable, with the relevant authority in the jurisdiction in which it is incorporated or otherwise to the satisfaction of the Registrar; and   \n(d) a copy of a resolution appointing the Approved Person(s) under Article 136(1)(a) of the Law; and   \n(e) any other matters the Registrar considers appropriate. ",
+        "bbox": [
+            152,
+            791,
+            894,
+            877
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7.1.3 If any of the documents are not in the English language, the documents shall be accompanied by a translation certified to the satisfaction of the Registrar. ",
+        "bbox": [
+            109,
+            210,
+            892,
+            239
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "7.2 Recognised Company names ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            252,
+            376,
+            267
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "When a Recognised Company changes its name, it shall file a notice of change of name with the Registrar, using the form prescribed by the Registrar. ",
+        "bbox": [
+            163,
+            279,
+            892,
+            307
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "7.3 Certificate of Registration ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            321,
+            357,
+            336
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "On the registration of the Foreign Company, the Registrar shall issue a certificate of registration as a Recognised Company which shall set out: ",
+        "bbox": [
+            168,
+            349,
+            895,
+            378
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) the name of the company;   \n(b) the company’s registered number;   \n(c) a statement that the company is registered as a Recognised Company; and (d) the date of registration. ",
+        "bbox": [
+            166,
+            391,
+            729,
+            489
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "7.4 Meaning of ‘carrying on business’ ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            502,
+            413,
+            518
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "For the purposes of Part 12 of the Law, ‘carrying on business’ includes: ",
+        "bbox": [
+            164,
+            530,
+            652,
+            546
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) establishing or maintaining a place of business;   \n(b) administering, leasing to others, or managing property situated in the DIFC as principal or agent; (c) operating as a Reporting Entity; or   \n(d) employing persons; ",
+        "bbox": [
+            166,
+            557,
+            884,
+            658
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "in the DIFC, but shall not include merely: ",
+        "bbox": [
+            166,
+            670,
+            450,
+            686
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(e) being a party to a proceeding, claim or dispute;   \n(f) holding meetings of its shareholders or Directors;   \n(g) creating a charge on property;   \n(h) collecting its debts or enforcing its rights with regard to any security; (i) conducting an isolated transaction; or   \n(j) being a customer of an Authorised Person or a DNFBP, ",
+        "bbox": [
+            164,
+            697,
+            697,
+            853
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "in the DIFC. ",
+        "bbox": [
+            166,
+            866,
+            253,
+            881
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            57,
+            890,
+            72
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "11 ",
+        "bbox": [
+            489,
+            945,
+            507,
+            956
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "7.5 Notices to the Registrar ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            80,
+            339,
+            96
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "7.5.1 A Recognised Company shall, using the applicable form prescribed by the Registrar: ",
+        "bbox": [
+            104,
+            108,
+            739,
+            124
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) file with the Registrar a notice of appointment of Approved Person(s) and any changes in the details of such person, whenever a new Approved Person is appointed or the details of the existing Approved Person changes; and   \n(b) file with the Registrar a notice of change of its place of business, whenever the Recognised Company changes its place of business in the DIFC. ",
+        "bbox": [
+            164,
+            136,
+            892,
+            221
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "7.5.2 An Approved Person referred to in Article 136(1)(a) of the Law and in respect of whom a notice is filed under Regulation 7.5.1(a) shall be: ",
+        "bbox": [
+            102,
+            234,
+            889,
+            262
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) in the case of a natural person, a person who is ordinarily resident in the United Arab Emirates; or (b) in the case of any other person, a company or limited liability partnership body corporate incorporated in the DIFC or a Relevant Jurisdiction. ",
+        "bbox": [
+            166,
+            274,
+            892,
+            332
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "8. TRANSFER OF INCORPORATION ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            344,
+            438,
+            360
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "8.1 Transfer of incorporation to DIFC ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            373,
+            418,
+            387
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "8.1.1 A Foreign Company applying to transfer its incorporation from another jurisdiction (in this Regulation referred to as “the original jurisdiction”) to the DIFC and be continued as a Company, shall apply using the form prescribed by the Registrar which shall include: ",
+        "bbox": [
+            105,
+            401,
+            894,
+            442
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) the Company’s name;   \n(b) the type of Company (Private Company or Public Company);   \n(c) the Company’s address of its place of business in the DIFC;   \n(d) the nature of the Company’s business;   \n(e) the names and addresses of the Company’s Directors or Secretary (if applicable); and (f) any declaration, certification, information, document or confirmation as the Registrar may requ ",
+        "bbox": [
+            164,
+            456,
+            865,
+            612
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "8.1.2 An application pursuant to Regulation 8.1.1 shall be accompanied by: ",
+        "bbox": [
+            107,
+            623,
+            640,
+            638
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) the articles of continuation as required in Article 140(2)(b) of the Law, together with: ",
+        "bbox": [
+            154,
+            651,
+            805,
+            667
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(i) a copy of the Foreign Company’s certificate of incorporation or document of similar effect and any amendments thereto, certified by the relevant authority in the original jurisdiction or otherwise to the satisfaction of the Registrar; and   \n(ii) a copy of the Articles of Association or other constitutional document of similar effect and any amendments thereto, certified by the relevant authorities in the original jurisdiction or otherwise to the satisfaction of the Registrar; ",
+        "bbox": [
+            226,
+            678,
+            894,
+            777
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(b) evidence satisfactory to the Registrar that the Foreign Company is permitted by the laws of the original jurisdiction to be continued under the laws of another jurisdiction; ",
+        "bbox": [
+            178,
+            790,
+            890,
+            819
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "evidence satisfactory to the Registrar that all necessary consents and other requirements in the original jurisdiction have been obtained and certified by the relevant authorities; ",
+        "bbox": [
+            200,
+            832,
+            890,
+            860
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": ") evidence satisfactory to the Registrar that the Foreign Company meets the requirements for incorporation as a Private Company or Public Company, as applicable; ",
+        "bbox": [
+            183,
+            873,
+            892,
+            902
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(e) a copy of the Foreign Company’s most recent audited accounts filed with the relevant authority in the original jurisdiction or otherwise to the satisfaction of the Registrar;   \n(f) any declaration, certification, information, document or confirmation as the Registrar may require; and   \n(g) the relevant fee prescribed in Appendix 1. ",
+        "bbox": [
+            166,
+            98,
+            892,
+            198
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "8.1.3 If any documents submitted to the Registrar are not in the English language, the documents shall be accompanied by a certified English translation. ",
+        "bbox": [
+            105,
+            210,
+            890,
+            239
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "8.1.4 A Foreign Company shall not apply to the Registrar under Regulation 8.1.1 unless the Directors, Secretary (if applicable) or Officers have filed with the Registrar a declaration that: ",
+        "bbox": [
+            99,
+            252,
+            889,
+            280
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) the Foreign Company is solvent;   \n(b) at the time of the application, there is no reasonable prospect of the Foreign Company becoming insolvent; and   \n(c) there are no applications made to any court: (i) to put the Foreign Company into liquidation;   \n(ii) to wind up the Foreign Company;   \n(iii) to have the Foreign Company declared insolvent; or   \n(iv) for the appointment of a receiver in relation to any property of the Foreign Company. ",
+        "bbox": [
+            166,
+            293,
+            894,
+            378
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "8.1.5 In Regulation 8.1.4 ‘insolvent’ has the meaning given under the Insolvency Law. ",
+        "bbox": [
+            104,
+            502,
+            715,
+            518
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "8.1.6 A Foreign Company which is an Authorised Person or DNFBP and which wishes to transfer its incorporation to the DIFC and be continued as a Company under Regulation 8.1.1 must obtain the prior written consent of the DFSA. ",
+        "bbox": [
+            109,
+            531,
+            895,
+            573
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A Foreign Company which is a Fund and which wishes to transfer its incorporation to the DIFC and be continued as a Company under Regulation 8.1.1 must obtain the prior written consent of the DFSA. ",
+        "bbox": [
+            144,
+            586,
+            892,
+            614
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "8.2 Certificate of continuation ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            627,
+            359,
+            642
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "8.2.1 The certificate of continuation issued by the Registrar upon approval of the application for continuation, shall set out: ",
+        "bbox": [
+            102,
+            656,
+            892,
+            684
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) the name of the Company;   \n(b) the Company’s registered number;   \n(c) the date of incorporation of the Foreign Company;   \n(d) the jurisdiction of incorporation of the Foreign Company;   \n(e) a statement that the Foreign Company is continued as a Private Company or a Public Company, as appropriate; and   \n(f) the date of continuation. ",
+        "bbox": [
+            164,
+            696,
+            894,
+            865
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "8.2.2 A certificate of continuation is conclusive evidence that the Foreign Company is a duly incorporated Company from the date of continuation stated in the certificate. ",
+        "bbox": [
+            100,
+            878,
+            892,
+            907
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            57,
+            890,
+            72
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "8.2.3 Where a Foreign Company is continued as a Company, the Company must file with the Registrar any certificate or document issued under the laws of the original jurisdiction evidencing the fact the Foreign Company has ceased to be incorporated under the laws of that jurisdiction. ",
+        "bbox": [
+            107,
+            80,
+            892,
+            123
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "8.3 Transfer of incorporation from the DIFC ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            135,
+            467,
+            151
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "8.3.1 A Company, applying to the Registrar for authorisation to transfer its incorporation and be continued as a Foreign Company, shall apply using the applicable form prescribed by the Registrar and shall be accompanied by: ",
+        "bbox": [
+            107,
+            164,
+            892,
+            205
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(a) a certified copy of the Special Resolution approving that the Company transfer its incorporation and be continued as a Foreign Company;   \n(b) evidence acceptable to the Registrar that: (i) the Company is able to transfer its incorporation and be continued under the laws of another jurisdiction; and (ii) the laws of the other jurisdiction satisfy the requirements set out in Article 145(2) of the Law;   \n(c) the written consent of the DFSA if the Company is an Authorised Person or DNFBP;   \n(d) any declaration, certification, information, document or confirmation as the Registrar may require; and   \n(e) the relevant fee prescribed in Appendix 1. ",
+        "bbox": [
+            147,
+            215,
+            895,
+            457
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "8.3.2 A Company shall not apply to the Registrar under Regulation 8.3.1 unless the Directors have filed with the Registrar a declaration that: ",
+        "bbox": [
+            100,
+            470,
+            892,
+            499
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(a) the Company is solvent;   \n(b) at the time of the application, there is no reasonable prospect of the Company becoming insolvent; and   \n(c) there are no applications made to any court: (i) to put the Company into liquidation; (ii) to wind up the Company; (iii) to have the Company declared insolvent; or (iv) for the appointment of a receiver in relation to any property of the Company. ",
+        "bbox": [
+            159,
+            510,
+            894,
+            709
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "8.3.3 In Regulation 8.3.2 ‘insolvent’ has the meaning given under the Insolvency Law. ",
+        "bbox": [
+            102,
+            720,
+            715,
+            736
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "8.3.4 A Company making an application under Regulation 8.3.1 shall place a legible and comprehensible notice sixty (60) days prior to making such an application in one (1) or more Appointed Publication(s) best suited to bring the proposed transfer of incorporation to the attention of any persons who may be affected by such transfer. ",
+        "bbox": [
+            105,
+            749,
+            894,
+            803
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "9. GENERAL PROVISIONS ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            818,
+            363,
+            832
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "9.1 Fees ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            846,
+            201,
+            859
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The fees in respect of matters set out in Appendix 1 shall be paid to the Registrar by the relevant person. ",
+        "bbox": [
+            166,
+            873,
+            870,
+            889
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "9.2 Public Register ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            98,
+            278,
+            114
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "9.2.1 The Registrar shall maintain the register of Companies and Recognised Companies by recording the following details, insofar as they may be relevant, in respect of each Company and Recognised Company that is, or has been, incorporated, registered or continued in the DIFC: ",
+        "bbox": [
+            105,
+            126,
+            892,
+            168
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) current name (including trading name, where applicable);   \n(b) registered number;   \n(c) date of incorporation, registration or continuation;   \n(d) License validity;   \n(e) type of Company;   \n(f) former names (including trading names, where applicable);   \n(g) date of registration of every change of name;   \n(h) current registered office;   \n(i) former registered offices;   \n(j) date of cessation of former registered offices;   \n(k) names of current Directors;   \n(l) names of former Directors (or, if applicable, former Managers);   \n(m) dates of cessation of former Directors (or, if applicable, former Managers);   \n(n) names of current Secretary, if applicable;   \n(o) names of former Secretaries, if applicable;   \n(p) dates of cessation of former Secretaries, if applicable;   \n(q) number and class of issued Shares and the nominal value of each Share;   \n(r) names of Shareholders of the company or, in the event of a company whose shares are listed on an exchange for trading, the twenty (20) shareholders holding the most number of shares;   \n(s) in the case of a Recognised Company, the country in which the Recognised Company is incorporated and the Approved Person(s);   \n(t) the Company’s financial year end;   \n(u) date of commencement and cessation of voluntary arrangement, rehabilitations, administrations, receiverships, or liquidations;   \n(v) name and address and date of appointment and date of cessation or vacation of office of: (i) each nominee or supervisor of a voluntary arrangement, within the meaning of the Insolvency Law; ",
+        "bbox": [
+            164,
+            174,
+            900,
+            875
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(ii) each rehabilitation nominee of a rehabilitation, within the meaning of the Insolvency Law; ",
+        "bbox": [
+            221,
+            838,
+            892,
+            895
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            57,
+            890,
+            72
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(iii) each administrator of an administration, within the meaning of the Insolvency Law; (iv) each office-holder within the meaning of the Insolvency Law; and ",
+        "bbox": [
+            220,
+            80,
+            860,
+            123
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(w) date of dissolution of the Company or date of de-registration of the Recognised Company, if applicable. ",
+        "bbox": [
+            163,
+            136,
+            894,
+            165
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "9.2.2 The Registrar shall make the register available for viewing on the website of the DIFC. ",
+        "bbox": [
+            104,
+            178,
+            756,
+            193
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": ".3 The Registrar shall, upon application and payment of the prescribed fee, produce an extract of the information maintained in the register in relation to any particular Company or Recognised Company. ",
+        "bbox": [
+            131,
+            206,
+            890,
+            235
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "An extract of information produced pursuant to Regulation 9.2.3 is prima facie evidence of the matters stated in it. ",
+        "bbox": [
+            152,
+            248,
+            892,
+            275
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "9.2.5 The Registrar shall, upon application and payment of the prescribed fee, produce a certified copy of a certificate of incorporation of a Company or a copy of a certificate of registration of a Recognised Company, or any document filed with the Registrar. ",
+        "bbox": [
+            105,
+            290,
+            892,
+            331
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "A certified copy of a certificate of incorporation or certificate of registration produced pursuant to Regulation 9.2.5 is conclusive evidence of the incorporation of the Company or registration of the Recognised Company. ",
+        "bbox": [
+            156,
+            344,
+            892,
+            373
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "TRANSITIONAL PROVISIONS ",
+        "text_level": 1,
+        "bbox": [
+            134,
+            386,
+            408,
+            400
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "10.1 General ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            414,
+            228,
+            429
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "This Regulation contains provisions relating to the transition from the Previous Law to the Law. ",
+        "bbox": [
+            163,
+            443,
+            816,
+            457
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "10.2 Definitions ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            470,
+            248,
+            485
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "10.2.1 In this Regulation 10, a reference to: ",
+        "bbox": [
+            109,
+            498,
+            416,
+            513
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(a) “Manager” means a person occupying the position of manager of a Limited Liability Company by whatever name called;   \n(b) “Member” means a person referred to in the register of members maintained by a Limited Liability Company as the holder of a Membership Interest in the company; and   \n(c) “Membership Interest” means the interest held by a Member in the share capital of a Limited Liability Company. ",
+        "bbox": [
+            164,
+            525,
+            892,
+            638
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "10.2.2 In this Regulation 10, a term which is defined in the Previous Law but is not defined in the Law shall have the meaning which it had in the Previous Law. ",
+        "bbox": [
+            102,
+            651,
+            890,
+            678
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "10.3 Transition from the Previous Law ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            693,
+            413,
+            707
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "On the date on which the Law comes into force, each Limited Liability Company, Company Limited by Shares or Recognised Company which was immediately prior to that date registered as such under the Previous Law shall automatically convert into a Private Company, Public Company or Recognised Company incorporated, registered or continued under the Law, and subject to the requirements in the Law and the Regulations as applicable to that company. ",
+        "bbox": [
+            166,
+            720,
+            892,
+            790
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "10.4 Automatic conversion to Private Company ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            803,
+            475,
+            818
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "10.4.1 Subject to Regulation 10.5, a body corporate which was, immediately before the date on which the Law came into force, a Company Limited by Shares or a Limited Liability Company shall, on the date on which the Law comes into force, automatically convert into a Private Company with the same name (other than, in the case of a Limited Liability Company, the amendment of the words “Limited Liability Company” or their abbreviation “LLC” to “Limited” or “Ltd” (as the case may be)) and the Registrar shall enter such name in the Register. ",
+        "bbox": [
+            109,
+            831,
+            892,
+            914
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "10.4.2 In respect of a Company which was a Limited Liability Company immediately prior to the date on which the Law came into force: ",
+        "bbox": [
+            105,
+            96,
+            889,
+            123
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(a) the subscribed Membership Interests of that Limited Liability Company immediately prior to the date on which the Law came into force shall automatically, on the date on which the Law comes into force, be converted into shares in that Company on the basis that: ",
+        "bbox": [
+            163,
+            124,
+            892,
+            165
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(i) the total issued share capital of that Company shall be equal to the aggregate subscribed Membership Interests, divided into shares with a nominal value of: ",
+        "bbox": [
+            211,
+            178,
+            889,
+            206
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(A) the amount specified in the entry for that Limited Liability Company in the register of Companies and Recognised Companies maintained by the Registrar; or ",
+        "bbox": [
+            285,
+            219,
+            892,
+            261
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "US\\$1 each, if no nominal value is specified under paragraph (A) above, with shares being divided into separate classes to the extent, if any, previously specified in the Articles of Association of that Limited Liability Company; and ",
+        "bbox": [
+            317,
+            275,
+            835,
+            290
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(ii) each Shareholder of that Company shall be deemed to be the holder of such shares of the Company as is referable to the subscribed Membership Interests that such Shareholder held (by value and class) in that Limited Liability Company, ",
+        "bbox": [
+            228,
+            344,
+            892,
+            387
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "and the register of Shareholders (previously Register of Members) of the Company shall be updated accordingly; ",
+        "bbox": [
+            226,
+            400,
+            894,
+            429
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "each person who was a Manager of that Limited Liability Company immediately prior to the date on which the Law came into force shall be deemed to be a Director of that Company from the date on which the Law came into force; ",
+        "bbox": [
+            216,
+            441,
+            890,
+            483
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "until such time as its amended Articles of Association have been adopted pursuant to Regulation 10.6, the Articles of Association of that Limited Liability Company in force immediately prior to the date on which the Law came into force shall continue to apply to that Company, but only to the extent that such articles do not conflict with the Law (with the applicable provisions of the Standard Articles applying in respect of any conflict) and with: ",
+        "bbox": [
+            228,
+            497,
+            892,
+            567
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(i) any reference in those articles to a Membership Interest or Membership Interests, being deemed to be a reference to a Share or Shares; and   \n(ii) any reference in those articles to terms that were applicable only to Limited Liability Companies prior to the date on which the Law came into force, being interpreted to mean such equivalent terms as are applicable to Companies under the Law; and ",
+        "bbox": [
+            226,
+            580,
+            892,
+            664
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(d) until such time as its amended Articles of Association have been adopted pursuant to Regulation 10.6, the following provisions shall, where necessary, be deemed to be incorporated into its Articles of Association: ",
+        "bbox": [
+            173,
+            676,
+            894,
+            718
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "“(1) Subject to Sub-paragraph (3), the transfer of Shares or the issue of Shares to a new Shareholder will only be valid if authorised by Special Resolution, unless these Articles of Association require a unanimous resolution. ",
+        "bbox": [
+            260,
+            733,
+            858,
+            776
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(2) When a Share will be transferred to a person that is not a Shareholder, the existing Shareholders will have the right of first refusal to acquire the Shares to be transferred, in proportion to their shareholding in the share capital of the Company, on the same terms as to the approved transferee. The Shareholders will have fifteen (15) days to exercise such right of first refusal from the date on which the Special Resolution authorising the transfer was adopted, unless otherwise provided in such Special Resolution. ",
+        "bbox": [
+            258,
+            789,
+            858,
+            890
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            57,
+            890,
+            71
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(3) The transfer of Shares by inheritance or otherwise by operation of law, including the transfer pursuant to any order made by a court of competent jurisdiction, shall not require a Special Resolution, unless the Articles of Association provide for the dissolution of the Company upon the death of one of the Shareholders, the redemption of the deceased Shareholder’s Shares or otherwise.”. ",
+        "bbox": [
+            257,
+            82,
+            858,
+            153
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "10.5 Automatic conversion to Public Company ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            153,
+            468,
+            167
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "10.5.1 A body corporate which immediately before the date on which the Law came into force: ",
+        "bbox": [
+            102,
+            180,
+            764,
+            195
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(a) was a Company Limited by Shares; and   \n(b) was a Public Listed Company under the Markets Law 2012 or had any of its Shares admitted to trading on a Regulated Market; or   \n(c) had more than 50 Shareholders, ",
+        "bbox": [
+            166,
+            206,
+            894,
+            293
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "shall, on the date on which the Law comes into force, automatically convert into a Public Company with the same name (other than with the amendment of the words “Limited” or their abbreviation “Ltd” to “Public Limited Company” or “PLC” (as the case may be)) and the Registrar shall enter such name in the Register. ",
+        "bbox": [
+            166,
+            306,
+            892,
+            348
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "10.5.2 A Company which is a Public Company registered as such pursuant to Regulation 10.5.1 shall within twelve (12) months from the date on which the Law came into force: ",
+        "bbox": [
+            102,
+            361,
+            890,
+            390
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(a) to the extent necessary, amend its Articles of Association so that they are consistent with the requirements of the Law as applicable to that Company; and   \n(b) to the extent necessary, increase its share capital to comply with the minimum capital requirements set out in Article 35(3) of the Law. ",
+        "bbox": [
+            166,
+            401,
+            892,
+            473
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "10.6 Amendments to Articles of Association ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            486,
+            448,
+            500
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "A Company which was, immediately prior to the date on which the Law came into force, a Limited Liability Company or a Company Limited by Shares shall within twelve (12) months from the date on which the Law came into force, to the extent necessary, amend its Articles of Association so that they are consistent with the requirements of the Law as applicable to that Company. ",
+        "bbox": [
+            168,
+            514,
+            892,
+            569
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "10.7 Fines ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            583,
+            208,
+            596
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Failure by a Company to comply with the provisions of Regulation 10.6 or 10.5.2 shall result in a fine, as specified in Article 35(1) of the Operating Law. ",
+        "bbox": [
+            166,
+            611,
+            892,
+            639
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "10.8 Use of Former Name ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            652,
+            319,
+            667
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "A Company which within twelve (12) months from the date on which the Law came into force, uses its former name in communications does not contravene Article 14 of the Operating Law. ",
+        "bbox": [
+            166,
+            681,
+            892,
+            708
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 1 - FEES ",
+        "text_level": 1,
+        "bbox": [
+            420,
+            80,
+            578,
+            95
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Table of fees ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            109,
+            200,
+            123
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/091b1f9fd9e8be2ae955ba9e63a580f909737ace3f614e7156d1130f3d8b48c1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Upon receipt by the Registrar of:</td><td rowspan=1 colspan=1>Fee (USD)</td></tr><tr><td rowspan=1 colspan=1>Application for incorporation of a Company</td><td rowspan=1 colspan=1>$8,000</td></tr><tr><td rowspan=1 colspan=1>Application for incorporation of a Company conducting retail activities</td><td rowspan=1 colspan=1>$3,400</td></tr><tr><td rowspan=1 colspan=1>Application for incorporation of a General Partner in an Investment Fund</td><td rowspan=1 colspan=1>$100</td></tr><tr><td rowspan=1 colspan=1>Application for registration of a Representative Office*</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>Application for registration of a Recognised Company</td><td rowspan=1 colspan=1>$8,000</td></tr><tr><td rowspan=1 colspan=1>Application for registration of a Recognised Company conducting retail activities</td><td rowspan=1 colspan=1>$3,400</td></tr><tr><td rowspan=1 colspan=1>Application to transfer incorporation to the DIFC</td><td rowspan=1 colspan=1>$8,000</td></tr><tr><td rowspan=1 colspan=1>Application to transfer incorporation from the DIFC</td><td rowspan=1 colspan=1>$8,000</td></tr><tr><td rowspan=1 colspan=1>Notice of change of Director or Secretary</td><td rowspan=1 colspan=1>Nil</td></tr><tr><td rowspan=1 colspan=1>Notice of change in details of Director or Secretary</td><td rowspan=1 colspan=1>Nil</td></tr><tr><td rowspan=1 colspan=1>Notice of allotment of shares</td><td rowspan=1 colspan=1>Nil</td></tr><tr><td rowspan=1 colspan=1>Notice of appointment of auditor</td><td rowspan=1 colspan=1>Nil</td></tr><tr><td rowspan=1 colspan=1>Notice of cessation of auditor</td><td rowspan=1 colspan=1>Nil</td></tr><tr><td rowspan=1 colspan=1>Notice of change in details of person authorised to accept service of any document or notice</td><td rowspan=1 colspan=1>Nil</td></tr></table>",
+        "bbox": [
+            129,
+            148,
+            907,
+            474
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "\\* “Representative Office” means an Authorised Person licensed by the DFSA to carry on the Financial Service of ‘Operating a Representative Office’ in the DIFC. ",
+        "bbox": [
+            105,
+            486,
+            895,
+            513
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            57,
+            892,
+            72
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 2 - STANDARD ARTICLES OF ASSOCIATION FOR PRIVATE COMPANIES ",
+        "text_level": 1,
+        "bbox": [
+            157,
+            79,
+            836,
+            96
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "[INSERT COMPANY NAME] [LIMITED or LTD] ",
+        "text_level": 1,
+        "bbox": [
+            319,
+            121,
+            678,
+            136
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(the “Company”) ",
+        "bbox": [
+            436,
+            149,
+            561,
+            164
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "A Private Company ",
+        "bbox": [
+            426,
+            177,
+            571,
+            192
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "1. INTERPRETATION ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            217,
+            322,
+            233
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "In these articles; ",
+        "bbox": [
+            168,
+            246,
+            280,
+            260
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(i) the following terms shall have the meanings set opposite, if not consistent with the subject or ",
+        "bbox": [
+            169,
+            280,
+            892,
+            309
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d025392369f077be6c3813e0d37df29dbf5af64615b725e60eb9c0a29ac66ee.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">context;</td></tr><tr><td>&#x27;Articles&#x27;</td><td>means these articles of association of the Company.</td></tr><tr><td>&#x27;Board&#x27;</td><td>means the board of Directors of the Company.</td></tr><tr><td>&#x27;Directors&#x27;</td><td>means the directors for the time being of the Company or, as the case may be, those directors assembled as a Board or as a committee of the Board.</td></tr><tr><td>&#x27;Incorporator&#x27;</td><td>means a person who agrees to subscribe for Shares in the Company and to whom Shares are allotted and issued upon incorporation of the Company.</td></tr><tr><td>&#x27;Law&#x27;</td><td>means the Companies Law No. 5 of 2018 including any statutory modification or re-enactment thereof for the time being in force.</td></tr><tr><td>&#x27;Office&#x27;</td><td>means the registered office of the Company.</td></tr><tr><td>&#x27;Ordinary</td><td></td></tr><tr><td>Resolution&#x27;</td><td>means a resolution of a duly constituted general meeting of the Company&#x27;s Shareholders passed by a simple majority of the votes cast on behalf of the Shares entitled to vote through or on behalf of the Shareholders present in person or by proxy and voting at the meeting. It includes any unanimous written resolution of the holders of Shares entitled to vote, expressed to be an ordinary resolution.</td></tr><tr><td>&#x27;Register of</td><td></td></tr><tr><td>Directors&#x27;</td><td>means the register or the Directors of the Company.</td></tr><tr><td>&#x27;Register of</td><td></td></tr><tr><td>Shareholders&quot;</td><td>means the register of Shareholders of the Company.</td></tr><tr><td>&#x27;Regulations&#x27;</td><td>means legislation made by the Board of Directors of the Dubai International Financial Centre Authority under the Law and are binding in nature.</td></tr><tr><td>&#x27;Secretary&#x27;</td><td>means the secretary of the Company, if any, or any other person appointed to perform the duties of the secretary of the Company, including a joint, assistant or deputy secretary.</td></tr><tr><td>&#x27;Shareholder</td><td>a person entered in the Register of Shareholders as the holder of a Share in the</td></tr><tr><td></td><td>Company.</td></tr><tr><td>&#x27;Shares&#x27;</td><td>means shares in the Company.</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>&#x27;Special</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>Resolution&#x27;</td><td></td></tr><tr><td></td><td>means a resolution in respect of which notice of intention to propose the</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td>resolution has been given, and that has been passed by the positive vote of</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>",
+        "bbox": [
+            225,
+            290,
+            895,
+            927
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            636,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "'the holder' ",
+        "bbox": [
+            228,
+            95,
+            309,
+            108
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "means in relation to Shares means the Shareholder whose name is entered in the Register of Shareholders as the holder of the Shares. ",
+        "bbox": [
+            347,
+            95,
+            890,
+            122
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "‘Transmittee’ ",
+        "text_level": 1,
+        "bbox": [
+            228,
+            136,
+            327,
+            149
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "means a person entitled to a Share by reason of the death or bankruptcy of a Shareholder or otherwise by operation of law. ",
+        "bbox": [
+            347,
+            135,
+            892,
+            164
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(ii) unless the context otherwise requires, words or expressions defined in the Law, shall have the same meanings herein but excluding any statutory modification thereof not in force when these Articles become binding on the Company; ",
+        "bbox": [
+            166,
+            177,
+            894,
+            219
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(iii) unless the context otherwise requires: ",
+        "bbox": [
+            163,
+            231,
+            484,
+            246
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(a) words in the singular shall include the plural and vice-versa;   \n(b) words in the masculine shall include the feminine; and   \n(c) words relating to natural persons shall include companies, entities, associations or bodies of persons whether incorporated or not. ",
+        "bbox": [
+            226,
+            252,
+            890,
+            323
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(iv) the word “may” shall be construed as permissive and the word “shall” as imperative. ",
+        "bbox": [
+            169,
+            335,
+            800,
+            349
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "the headings herein are for convenience only and shall not affect the construction of these Articles; ",
+        "bbox": [
+            188,
+            362,
+            887,
+            376
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(vi) reference to a “Dollar” or “Dollars” (or ${ } ^ { \\mathsf { s e } } [ \\mathrm { J } \\mathsf { S } \\bar { \\mathsf { S } } ^ { \\mathsf { 3 } } ]$ ) are references to Dollars, legal currency of the United States of America;   \n(vii) references in these Articles to “writing”, in relation to any document, instrument, certificate, notice, register or communication means a legible form of the information that is capable of being reproduced in tangible form, in any medium (including electronic means). For the avoidance of doubt, the Company may, with the consent of a Shareholder, communicate with that Shareholder by electronic means.   \n(viii) references to statutes are, unless otherwise specified, references to the laws, regulations and other statutes of the Dubai International Financial Centre and, subject to paragraph (ii) above, include any modification or re-enactment thereof for the time being in force; and   \n(ix) where an Ordinary Resolution is expressed to be required for any purpose, a Special Resolution is also effective for that purpose. ",
+        "bbox": [
+            161,
+            382,
+            895,
+            595
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "2. COMPANY NAME ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            607,
+            314,
+            623
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The Company’s name is ‘[Insert company name] [select ‘Limited or Ltd’]’. ",
+        "bbox": [
+            168,
+            636,
+            684,
+            650
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "3. ",
+        "bbox": [
+            105,
+            664,
+            121,
+            676
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "COMPANY REGISTERED OFFICE ",
+        "text_level": 1,
+        "bbox": [
+            110,
+            662,
+            440,
+            677
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The Registered office of the Company will be situated in the Dubai International Financial Centre, Dubai, United Arab Emirates. ",
+        "bbox": [
+            166,
+            690,
+            892,
+            718
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "4. COMPANY OBJECTIVES ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            731,
+            368,
+            745
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The principal business activities of the Company are to: ",
+        "bbox": [
+            168,
+            759,
+            546,
+            774
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(i) carry on business in pursuit of the activities described under the Commercial Licence issued to the Company under the Law and Regulations;   \n(ii) do all other things that are, in the opinion of the Directors to be incidental or conducive to such activities; and   \n(iii) engage in any lawful activity, ",
+        "bbox": [
+            166,
+            785,
+            894,
+            870
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "in accordance with the Law, Regulations and any other DIFC laws or laws applicable in the DIFC. ",
+        "bbox": [
+            159,
+            882,
+            831,
+            897
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            57,
+            890,
+            72
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5. LIABILITY OF SHAREHOLDERS ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            80,
+            430,
+            96
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "The liability of Shareholders is limited to the amount, if any, unpaid on the Shares held by them in the Company. ",
+        "bbox": [
+            163,
+            108,
+            894,
+            136
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "6. SHARE CAPITAL ",
+        "bbox": [
+            105,
+            149,
+            305,
+            164
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "A. The authorised share capital of the Company is [[Insert the total share capital that the company may issue] Dollars $( U S \\mathcal { S } \\underbrace { \\phantom { - } } _ { } . - . 0 0 ) ]$ divided into [insert total number of Shares the company may issue] [Insert class of share eg Ordinary] Share(s) of [[insert nominal value of each share] Dollars (US\\$ _.00)] each.   \nB. No Share shall be issued for less than its nominal value.   \nC. The initial share capital of the Company is [[Insert the total amount of share capital to be issued to the Incorporators] Dollars $( U S \\mathcal { S } \\underbrace { - \\ d _ { 0 } O \\ d O } ) ]$ represented by [Insert the total number of shares to be issued to the Incorporators] [Insert class of share eg Ordinary] Share(s) of [[Insert nominal value of each share] Dollars $( U S \\mathcal { S } \\underbrace { - \\ d _ { 0 } O \\ d O } ) ]$ each. ",
+        "bbox": [
+            104,
+            175,
+            894,
+            328
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "7. COMPANY’S SHARES ",
+        "bbox": [
+            107,
+            340,
+            344,
+            355
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "A. Subject to the provisions of the Law and these Articles: ",
+        "bbox": [
+            107,
+            368,
+            542,
+            382
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(i) without prejudice to any rights, entitlements or restrictions attached to any existing Shares, any Share may be issued with such rights, entitlements or restrictions as the Company may by Ordinary Resolution determine.   \n(ii) the Company may issue, or convert existing non-redeemable Shares, whether allotted or not, into redeemable Shares, on such terms and in such manner as the Board may determine. ",
+        "bbox": [
+            164,
+            395,
+            892,
+            479
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "B. No person shall be recognised by the Company as holding any Share upon trust and, except as otherwise provided by these Articles and by the Law, the Company shall not be bound by or recognise any interest in any Share except an absolute right of ownership. ",
+        "bbox": [
+            100,
+            492,
+            894,
+            533
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "8. CLASSES OF SHARES ",
+        "bbox": [
+            107,
+            545,
+            344,
+            560
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "A. If the share capital of the Company is divided into different classes of Shares, the rights attached to any class may, be varied through a Special Resolutions passed by the holders of the Shares of that class, or any other class of Shares affected by the change.   \nB. The rights attached to any class of Shares issued with preferred or other rights shall, unless otherwise expressly provided by the terms of issue of the Shares of that class, be deemed to be varied by the creation or issue of further Shares ranking equally with the first-mentioned Shares. ",
+        "bbox": [
+            105,
+            573,
+            892,
+            670
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "9. SHARE CERTIFICATES ",
+        "bbox": [
+            107,
+            682,
+            357,
+            696
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "A. Upon a person becoming the holder of any Shares, the Company shall upon a request of the holder, issue to the requesting Shareholder, free of charge, one (1) or more share certificates for the Shares held by the Shareholder. ",
+        "bbox": [
+            105,
+            709,
+            894,
+            757
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "B. Every share certificate must specify: ",
+        "bbox": [
+            104,
+            765,
+            413,
+            780
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(i) the number of Shares;   \n(ii) the class of Shares;   \n(iii) the nominal value of the Shares;   \n(iv) the amount paid up on the Shares; and (v) any distinguishing numbers (if any) assigned to the Shares.   \nC. A single share certificate shall not be issued in respect of more than one (1) class of Share.   \nD. If more than one (1) person holds a Share jointly, only one (1) share certificate may be issued and delivery of a share certificate to one (1) joint holder shall be a sufficient delivery to all of them.   \nE. If a share certificate is damaged, defaced lost or destroyed, that Shareholder is entitled to be issued with a replacement share certificate in respect of the same Shares, and: ",
+        "bbox": [
+            166,
+            791,
+            626,
+            917
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(i) may request a single share certificate or separate share certificates to be issued; (ii) shall return the damaged or defaced share certificates (if any) to the Company; and (iii) shall comply with such conditions as to evidence, indemnity and the payment of a reasonable fee as the Directors may determine. ",
+        "bbox": [
+            163,
+            204,
+            894,
+            287
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "10. LIEN OVER PARTLY PAID SHARES ",
+        "bbox": [
+            105,
+            299,
+            455,
+            313
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "A. The Company has a lien over every Share that is not fully paid for all amounts payable to the Company (whether presently payable or not) in respect of that Share.   \nB. The Directors may at any time declare any Share to be wholly or partly exempt from the Company’s lien.   \nC. The Company’s lien on a Share: (i) takes priority over any third party’s interest in that Share; and (ii) extends to any amounts payable in respect of it.   \nD. The Company may sell any Share it has a lien over, if a sum is payable on the Share and is not paid within fourteen (14) days’ from the date on which notice was given to the Shareholder of the Share or to the person entitled to it by reason of the Shareholder’s death, bankruptcy or otherwise, demanding payment and stating that if the notice is not complied with the Shares may be sold.   \nE. The Directors may authorise a person to execute an instrument of transfer of the Shares to the purchaser or a person nominated by the purchaser. The purchaser’s (or its nominee’s) title to the Shares shall not be affected by any irregularity or invalidity in relation to the sale.   \nF. The net proceeds of any such sale, shall be applied in payment of the amounts payable to the Company under the lien at the date of enforcement, and any remainder shall (subject to a like lien for any moneys not presently payable on the Shares before the sale) be paid to the Shareholder entitled to the Shares immediately prior to the sale. ",
+        "bbox": [
+            102,
+            328,
+            892,
+            656
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "11. CALLS ON SHARES AND FORFEITURE ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            669,
+            482,
+            683
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "A. Subject to the terms of allotment, the Directors may make calls upon the Shareholders in respect of any moneys unpaid on their Shares and each Shareholder shall (subject to receiving at least fourteen (14) clear days’ notice specifying when and where payment is to be made) pay to the Company, as required by the notice, the amount called on the Shares. A call may be required to be paid by instalments.   \nB. The Directors may, in whole or in part, revoke or postpone a call.   \nC. Shareholders shall remain liable for calls made upon them notwithstanding the subsequent transfer of the Shares in respect of which the call was made.   \nD. A call shall be deemed to have been made at the time when the resolution of the Directors authorising the call was passed.   \nE. The joint holders of a Share shall be jointly and severally liable to pay all calls in respect of the Share. ",
+        "bbox": [
+            104,
+            696,
+            894,
+            889
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            57,
+            890,
+            72
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "F. If a call remains unpaid after it has become due and payable, the Shareholder is liable to pay interest on the amount unpaid from the day it became due and payable until it is paid, at the rate: ",
+        "bbox": [
+            102,
+            80,
+            892,
+            109
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "(i) fixed by the terms of allotment of the Share;   \n(ii) specified in the notice of the call; or   \n(iii) the Directors may determine (which shall not exceed $1 0 \\%$ per annum), ",
+        "bbox": [
+            164,
+            121,
+            705,
+            192
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "but the Directors may waive payment of the interest wholly or in part. ",
+        "bbox": [
+            156,
+            204,
+            643,
+            218
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "An amount payable in respect of a Share on allotment or at any fixed date, or as an instalment of a call, shall be deemed to be a call and if it is not paid, the provisions of these Articles shall apply as if that amount had become due and payable by virtue of a call duly made and notified. ",
+        "bbox": [
+            131,
+            231,
+            894,
+            273
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "H. The Directors may, on the issue of Shares, differentiate between the Shareholders as to the amount of calls to be paid and the times of payment. ",
+        "bbox": [
+            104,
+            285,
+            890,
+            313
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "I. The Directors may, if they think fit, receive from a Shareholder the whole or a part of the amount remaining unpaid on Shares held by the Shareholder, although no part of that amount has been called up. The Directors may authorise the Company to pay interest on the amount so received, until the amount becomes payable at a rate agreed between the Directors and the Shareholder, which shall not exceed ten per cent $( 1 0 \\% )$ per annum (unless the Company at a general meeting directs otherwise). ",
+        "bbox": [
+            105,
+            326,
+            894,
+            397
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "12. TRANSFER OF SHARES ",
+        "bbox": [
+            107,
+            409,
+            359,
+            423
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "A. The instrument of transfer of a Share may be in any form which the Directors may approve and shall be executed by or on behalf of the transferor and, if the shares are partly paid, the transferee.   \nB. The Directors may refuse to register the transfer of a Share if the Share is not fully paid or the instrument of transfer, the share certificate and any other evidence that the Directors may reasonably require, are not duly filed at the registered office or the office of the agent that maintains the Register of Shareholders.   \nC. If the Directors refuse to register a transfer of a Share, they shall within fourteen (14) days’ notify the transferee and transferor accordingly.   \nD. The Directors may suspend the registration of transfers of Shares at such times and for such periods (not exceeding thirty (30) days’ in any year), as determined by them, acting reasonably.   \nE. No fee shall be charged for the registration of any instrument of transfer.   \nF. The transferor remains the holder of a Share until the transferee’s name is entered in the Register of Shareholders as the holder of the Share.   \nF. The Company shall retain any instrument of transfer which is registered. ",
+        "bbox": [
+            104,
+            436,
+            894,
+            699
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "13. TRANSMISSION OF SHARES ",
+        "bbox": [
+            107,
+            709,
+            398,
+            724
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "A. If title to a Share passes to a Transmittee, the Company may only recognise the Transmittee as having any title to that Share.   \nB. A Transmittee who produces such evidence of entitlement to Shares as the Directors may properly require may, subject to these Articles, choose to either:   \n(i) become the holder of those Shares, in which case the Transmittee shall notify the Company in writing of that wish and once the Transmittee becomes the holder of the Shares has the same rights as the Shareholder had; or   \n(ii) have them transferred to another person, in which case the Transmittee must execute an instrument of transfer in respect of it in accordance with article 12.   \nC. The Transmittee shall only have the right to attend and vote at a general meeting or agree to a written resolution when the Transmittee becomes the holder of the Shares.   \nD. Any transfer made or executed under this article is to be treated as if it were made or executed by the person from whom the Transmittee has derived rights in respect of the Share, and as if the event which gave rise to the transmission had not occurred.   \nE. If a notice is given to a Shareholder in respect of Shares and a Transmittee is entitled to those Shares, the Transmittee is bound by the notice if it was given to the Shareholder before the Transmittee’s name was entered in the Register of Shareholders. ",
+        "bbox": [
+            105,
+            738,
+            892,
+            807
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "14. ALTERATION OF SHARE CAPITAL ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            230,
+            452,
+            246
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "A. The Company may through a Special Resolution: ",
+        "bbox": [
+            107,
+            259,
+            502,
+            273
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(i) increase its share capital by creating new Shares;   \n(ii) consolidate and divide all or any of its Shares (whether issued or not) into Shares of a larger amount than its existing Shares;   \n(iii) sub-divide its Shares, or any of them, into Shares of a smaller amount; and   \n(iv) cancel Shares which, at the date of the passing of the Special Resolution, have not been taken or agreed to be taken by any person and diminish the amount of the Company’s share capital by the amount of the Shares so cancelled.   \nB. Any fractions of Shares resulting from a consolidation of Shares may be sold by the Directors on behalf of the Shareholders and the net proceeds distributed proportionately amongst those Shareholders.   \nC. The Company may, in accordance with the Law, reduce its share capital in any way and on such terms as it may decide. ",
+        "bbox": [
+            164,
+            285,
+            892,
+            424
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "15. PURCHASE OF OWN SHARES ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            518,
+            406,
+            532
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Subject to the provisions of the Law, the Company may purchase its own Shares. ",
+        "bbox": [
+            166,
+            546,
+            714,
+            560
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "16. GENERAL MEETINGS ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            573,
+            349,
+            587
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The Directors may call, or on the requisition of Shareholders in accordance with the Law, shall call, general meetings. ",
+        "bbox": [
+            163,
+            600,
+            895,
+            629
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "17. REQUISITION AND NOTICE OF GENERAL MEETINGS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            640,
+            605,
+            656
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "A. Subject to the Law, a general meeting shall be called by at least twenty one (21) days’ notice to all the Shareholders, the Directors and auditors.   \nB. Such notice of general meeting shall specify the time and place of the meeting and the general nature of the matters to be considered. A notice of meeting in respect of an annual general meeting shall in addition specify that it is in respect of an annual general meeting.   \nC. The proceedings of a meeting are not invalid solely because of the inadvertent failure to give notice of the meeting to, or the failure to receive notice of a meeting by, any person entitled to receive such notice. ",
+        "bbox": [
+            105,
+            669,
+            892,
+            794
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "18. PROCEEDINGS AT GENERAL MEETINGS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            806,
+            504,
+            820
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "A. Except in the case of the Company having a single Shareholder, in which case resolutions will be adopted in writing by the single Shareholder, no meeting shall take place unless a quorum is present. Two (2) persons entitled to vote shall constitute a quorum. ",
+        "bbox": [
+            107,
+            833,
+            892,
+            875
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            57,
+            890,
+            72
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "B. If a quorum is not present within half an hour from the time stated for the meeting, the meeting shall be adjourned to a place and time determined by the Directors. If during the meeting a quorum ceases to be present the meeting shall be adjourned to a place and time determined by the Directors.   \nC. The chairman of the Board shall chair the meeting. If the chairman of the Board is not present or willing to act within fifteen minutes of the stated time for commencement of the meeting, and in the absence of a nominee, another Director elected by the Directors present shall chair the meeting. If no Directors are present or willing to chair the meeting, then the Shareholders shall elect one (1) of their number to chair the meeting.   \nD. A Director, regardless of whether he is also a Shareholder, is entitled to attend and speak at any general meeting and at any separate meeting of the holders of any class of Shares in the Company.   \nE. The chairman may adjourn the meeting with the consent of the majority of the votes at the meeting. No matters shall be considered at an adjourned meeting other than matters that might have been considered at the meeting had the adjournment not taken place. It is not necessary to give notice of the adjourned meeting unless the meeting was adjourned for fourteen (14) days’ or more, in which case at least seven (7) days' notice shall be given specifying the time and place of the adjourned meeting and the general nature of the matters to be considered. ",
+        "bbox": [
+            102,
+            80,
+            894,
+            334
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "F. Unless a poll is demanded, a resolution put to the vote shall be decided on a show of hands. A poll may be demanded before or on the declaration of the result of a vote by show of hands: ",
+        "bbox": [
+            99,
+            341,
+            889,
+            369
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "(i) by the chairman;   \n(ii) by at least two (2) Shareholders having the right to vote at the meeting; or   \n(iii) by a Shareholder representing not less than $5 \\%$ of the total voting rights of all the Shareholders having the right to vote. ",
+        "bbox": [
+            164,
+            382,
+            892,
+            464
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "G. Unless a poll is demanded the chairman may declare that a resolution has been carried or lost by a particular majority. The entry in the minutes of the meeting of that declaration shall be conclusive evidence of the result of the resolution. ",
+        "bbox": [
+            105,
+            478,
+            894,
+            519
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "H. The chairman may consent to the withdrawal of the demand for a poll. ",
+        "bbox": [
+            105,
+            532,
+            642,
+            546
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "I. A poll shall be taken in the manner the chairman directs and the result shall be the resolution of the meeting at which the poll was demanded. ",
+        "bbox": [
+            105,
+            560,
+            889,
+            587
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "J. A poll demanded on the election of a chairman or on an adjournment shall be taken immediately. A poll demanded on any other question shall be taken as the chairman directs but not more than thirty (30) days’ after the poll is demanded. The demand for a poll shall not prevent the continuance of a meeting for the transaction of any business other than the question on which the poll is demanded. ",
+        "bbox": [
+            107,
+            601,
+            889,
+            656
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "K. Seven (7) days’ notice shall be given specifying the time and place at which a poll shall be taken unless the time and place is announced at the meeting at which the poll is demanded. ",
+        "bbox": [
+            100,
+            669,
+            890,
+            697
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "L. A resolution may be passed in writing in accordance with the Law. ",
+        "bbox": [
+            105,
+            711,
+            618,
+            725
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "19. VOTES OF SHAREHOLDERS ",
+        "bbox": [
+            107,
+            738,
+            398,
+            751
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "A. On a show of hands, every Shareholder present, including the representative of a body corporate Shareholder, shall have one (1) vote. On a poll, every Shareholder shall have one (1) vote for every Share held. This article is subject to any rights or restrictions attached to any Shares.   \nB. Joint Shareholders may only exercise one (1) vote or one (1) vote per Share as the case may be. If more than one (1) vote is cast by joint Shareholders, only the vote of the joint Shareholder whose name appears first on the Register of Shareholders shall be taken into account.   \nC. Where a Shareholder has had a personal representative appointed because of some physical, mental or other disability preventing him to act, that personal representative may exercise the voting rights of the Shareholder if the personal representative has given notice to the Directors in writing in the form of proxy used by the Company and within the time limit for filing proxies prior to any meeting being held or vote being taken.   \nD. No objection may be raised to the right of any voter except at the meeting at which the voter is to vote. The decision of the chairman in respect of any objection or the right of any voter shall be final.   \nE. A Shareholder may vote on a poll by proxy.   \nF. An instrument appointing a proxy shall be in writing in a form approved by the Company and distributed with the notice of a meeting. The form approved and distributed by the Company must include a section allowing the Shareholder to direct the proxy on how the proxy shall act.   \nG. The instrument appointing a proxy must be deposited at the registered office of the Company at least 48 hours before the time at which the meeting at which the proxy is to be exercised is to be held. In the case of a poll not being taken immediately but sometime after it is demanded, the instrument appointing a proxy may be deposited at the poll with the chairman, Secretary (if one (1) has been appointed) or any Director or at any time before the poll at the registered office of the Company.   \nH. A vote given or poll demanded by proxy is valid notwithstanding the determination of the Shareholder who appointed the proxy unless the Company receives notice from the Shareholder in writing prior to the vote being taken or the poll being demanded. ",
+        "bbox": [
+            105,
+            765,
+            892,
+            916
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "20. NUMBER OF DIRECTORS ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            395,
+            376,
+            409
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "The Company shall have at least one (1) Director. ",
+        "bbox": [
+            169,
+            423,
+            504,
+            437
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "21. ALTERNATE DIRECTORS ",
+        "bbox": [
+            107,
+            450,
+            379,
+            464
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "A. Any Director may appoint any other Director or any other person approved by the Directors to act as his alternate and may remove the alternate Director so appointed. The alternate Director shall perform all the functions of his appointer as a Director but is not entitled to remuneration for his services.   \nB. An alternate Director shall be given notice of all meetings of which his appointor is entitled to receive notice and is entitled to attend and vote at such meetings.   \nC. An alternate Director holds office for as long as his appointor holds office unless he is removed by written instrument by his appointor.   \nD. Any appointment or removal of an alternate Director shall be given to the Secretary (if one (1) has been appointed) or to a Director of the Company.   \nE. Unless otherwise provided, an alternate Director shall not be regarded as the agent of his appointor but shall be responsible for his acts or omissions. ",
+        "bbox": [
+            104,
+            478,
+            892,
+            684
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "22. POWERS OF DIRECTORS ",
+        "bbox": [
+            107,
+            696,
+            374,
+            711
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "A. Subject to the Law and these Articles the business of the Company shall be managed by the Directors. No subsequent amendment to these Articles shall invalidate any act of a Director or the Directors. B. The Directors may appoint a person to be the agent of the Company. ",
+        "bbox": [
+            105,
+            724,
+            892,
+            781
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "23. DELEGATION OF DIRECTORS' POWERS ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            791,
+            495,
+            806
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "A. The Board may delegate any of its powers: ",
+        "bbox": [
+            107,
+            820,
+            458,
+            834
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "(i) to such person or committee;   \n(ii) by such means;   \n(iii) to such extent; ",
+        "bbox": [
+            166,
+            846,
+            426,
+            916
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            57,
+            890,
+            71
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "(iv) in relation to such matters or territories; and (v) on such terms and conditions, ",
+        "bbox": [
+            163,
+            80,
+            526,
+            123
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "as they think fit. ",
+        "bbox": [
+            168,
+            136,
+            277,
+            149
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "B. If the Board so specifies, any such delegation may authorise further delegation of the Directors’ powers by any person or committee to whom they are delegated. C. The Board may revoke any delegation in whole or in part, or alter its terms and conditions. ",
+        "bbox": [
+            105,
+            162,
+            894,
+            219
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "24. SHAREHOLDERS RESERVE POWER ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            230,
+            460,
+            246
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "The Shareholders may, by Special Resolution, direct the Directors to take, or refrain from taking, specified action. No such Special Resolution shall invalidate anything that the Directors have done before the passing of the resolution. ",
+        "bbox": [
+            166,
+            259,
+            892,
+            300
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "25. APPOINTMENT OF DIRECTORS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            312,
+            426,
+            328
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "A. The first Directors of the Company shall be appointed in writing by the Incorporators.   \nB. A person shall not be appointed as a Director at a General Meeting unless he has been recommended by the Directors or a Shareholder and details of the proposed Director have been included in the notice of meeting at which the appointment shall be considered. The details shall include at least the information that would be included in the Register of Directors if the person was appointed.   \nC. If the Company is permitted by the Law to have and has only one (1) Director, that Director may by notice to the Company appoint a person who, upon the death or incapacity of the Director within the meaning of article 26(iii), will become a Director in his or her place, and upon that person giving notice to the Company that such death or incapacity has occurred, the person will become a Director in the place of the Director who has died or becomes incapacitated. The Company shall not be bound to inquire as to the correctness of the contents of such a notice.   \nD. Subject to this article 25, articles 26(iii) and 30(D), additional Directors may be appointed by the Company by Ordinary Resolution as long as the total number of Directors does not exceed any maximum number of Directors stipulated by the Law, Regulations or these Articles. ",
+        "bbox": [
+            104,
+            340,
+            894,
+            574
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "26. DISQUALIFICATION AND REMOVAL OF DIRECTORS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            586,
+            600,
+            601
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "A Director’s office is automatically vacated if he: ",
+        "bbox": [
+            168,
+            614,
+            502,
+            629
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(i) is prohibited by the Law or Regulations from being a Director;   \n(ii) becomes bankrupt;   \n(iii) is, by virtue of any mental or physical disability, incapable of acting;   \n(iv) without permission, does not attend three (3) successive meetings of the Board;   \n(v) resigns his office by giving notice to the Company; or (vi) is removed by an Ordinary Resolution of the Company. ",
+        "bbox": [
+            166,
+            640,
+            764,
+            780
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "27. REMUNERATION AND EXPENSES OF DIRECTORS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            791,
+            576,
+            806
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "The Directors shall receive such remuneration as the Company determines by Ordinary Resolution and shall receive payment of all expenses incurred in association with the carrying out of their duties as Directors. ",
+        "bbox": [
+            163,
+            820,
+            894,
+            847
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "28. DIRECTORS' APPOINTMENTS AND INTERESTS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            93,
+            554,
+            109
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Subject to the Law and Regulations, the Directors may appoint one (1) or more of their number to the office of managing Director or to any other executive office under the Company. Such appointment, agreement or arrangement may be made upon such terms as the Directors determine. Any appointment of a Director to an executive office shall terminate if he ceases to be a Director. A managing Director and a Director holding any other executive office shall not be subject to retirement by rotation. ",
+        "bbox": [
+            166,
+            122,
+            892,
+            191
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "29. DIRECTORS' GRATUITIES AND PENSIONS ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            203,
+            514,
+            218
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "The Directors may provide benefits, including gratuities and pensions, of any kind for any present or past Director or his family. ",
+        "bbox": [
+            159,
+            231,
+            892,
+            259
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "30. PROCEEDINGS OF DIRECTORS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            272,
+            425,
+            286
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "A. Subject to the provisions of these Articles, the Directors may regulate their proceedings as they think fit. A Director may, and the Secretary (if one (1) has been appointed) at the request of a Director shall, call a meeting of the Board.   \nB. Any matters arising at a meeting shall be decided by a majority of votes with the chairman having a second or casting vote in the case of equality of votes.   \nC. The quorum for the transaction of the business of the Board shall be two (2) or any other number fixed by the Directors.   \nD. If the number of Directors is less than the number fixed as the quorum, the continuing Directors or Director may act only for the purpose of filling vacancies or calling a General Meeting.   \nE. The Directors shall appoint one (1) of their number to be the chairman of the Board who shall preside at all meetings and may at any time remove him from that office. If there is no Director holding that office, or if the Director holding it is unwilling to preside or is not present within fifteen (15) minutes after the time appointed for the meeting, the Directors present may appoint one (1) of their number to be chairman of the meeting.   \nF. All acts done by a meeting of Directors, or of a committee of Directors, or by a person acting as a Director shall be valid, notwithstanding any defect in his appointment or his disqualification from holding office, or that he was not entitled to vote, being discovered afterwards.   \nG. A decision of the Directors is taken in accordance with this article when eligible Directors indicate to each other by any means that they share a common view on the matter. Such a decision may take the form of a resolution in writing, copies of which have been signed by each eligible Director or which each eligible Director has otherwise indicated agreement in writing. References in this article to eligible Directors are to Directors who would have been entitled to vote on the matter had it been proposed as a resolution at a Director’s meeting and the eligible Directors would have formed a quorum at such a meeting. ",
+        "bbox": [
+            102,
+            299,
+            894,
+            697
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "H. If in the opinion of the chairman a matter required to be determined by the Directors is sufficiently urgent, the matter may be submitted to the Directors for consideration and provided that Directors constituting a quorum of a duly convened meeting either agree: ",
+        "bbox": [
+            107,
+            711,
+            892,
+            752
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "with the proposed resolution of the matter; or ",
+        "bbox": [
+            233,
+            765,
+            534,
+            778
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "that the matter may be resolved in accordance with the decision of the majority of the Directors constituting a quorum, in the event of disagreement amongst the Directors, ",
+        "bbox": [
+            194,
+            793,
+            889,
+            820
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "and the matter shall be resolved in accordance with those communications (however made). Any decision made pursuant to this article will be notified to any Director who did not participate in the decision within two (2) days. ",
+        "bbox": [
+            166,
+            821,
+            892,
+            860
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Any Director may validly participate in a Directors’ meeting through any means approved by the Board, provided that all the Directors participating in the meeting are able to hear and speak to each other during such a meeting. A Director participating (other than in person) shall be deemed to be present in person at the meeting, shall be counted in the quorum and be entitled to vote. Such a meeting shall be deemed to take place where the largest group of participants is assembled, failing which the meeting is deemed to take place where the chairman is physically located. ",
+        "bbox": [
+            114,
+            873,
+            892,
+            915
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            57,
+            890,
+            72
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "31. CONFLICT OF INTEREST ",
+        "bbox": [
+            107,
+            135,
+            376,
+            149
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "A. Subject to the provisions of the Law, and provided that the Director has disclosed the nature and extent of any material interests to the other Directors, a Director may be a party to, or interested in, any actual or proposed transaction or arrangement with the Company or in which the Company is interested. ",
+        "bbox": [
+            105,
+            162,
+            894,
+            205
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "B. For the purpose of this article: ",
+        "bbox": [
+            107,
+            217,
+            373,
+            231
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "(i) a general notice given to the Directors that a Director is to be regarded as having an interest of the nature and extent specified in the notice, in any transaction or arrangement in which the Company is interested, shall be deemed to be sufficient disclosure; and   \n(ii) an interest of which a Director has no knowledge and of which it is unreasonable to expect the Director to have knowledge shall not be treated as an interest of the Director.   \nC. A Director shall not vote at a meeting of Directors on any resolution concerning a matter in which the Director has a direct or indirect interest.   \nD. For the purposes of this article, an interest of a Director includes an interest of any person who is connected to the Director.   \nE. A Director shall not be counted in the quorum present at a meeting in relation to a resolution on which he is not entitled to vote.   \nF. The Company may by Ordinary Resolution suspend or relax any provision of these Articles prohibiting a Director from voting at a meeting.   \nG. The chairman of the meeting shall rule on any question arising at a meeting on the right of a Director, other than himself, to vote and his ruling shall be final and conclusive.   \nH. The Directors at the meeting shall rule on a question arising at a meeting on the right of the chairman to vote, for which purpose the chairman is not to be counted as participating in the meeting for voting or quorum purposes. ",
+        "bbox": [
+            166,
+            244,
+            892,
+            328
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "32. SECRETARY ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            600,
+            273,
+            614
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Subject to the Law, a Secretary may be appointed and removed by the Directors who shall decide on the terms, remuneration and conditions of appointment. ",
+        "bbox": [
+            166,
+            627,
+            892,
+            656
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "33. MINUTES ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            669,
+            248,
+            683
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "The Directors shall cause minutes to be kept for recording: ",
+        "bbox": [
+            168,
+            696,
+            566,
+            712
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "(i) all appointments of officers made by the Directors; and   \n(ii) all proceedings at General Meetings of the Company’s Shareholders; of the holders of any class of Shares in the Company; and of the Directors, and of committees of Directors, including the names of the Directors present at each such meeting. ",
+        "bbox": [
+            164,
+            722,
+            894,
+            794
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "34. DIVIDENDS ",
+        "bbox": [
+            107,
+            806,
+            265,
+            820
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "A. Subject to the provisions of the Law, the Company may by Ordinary Resolution declare dividends in accordance with the respective rights of the Shareholders, but no dividend shall exceed the amount recommended by the Directors.   \nB. Subject to the provisions of the Law, the Directors may pay interim dividends if it appears to them that they are justified by the profits of the Company available for distribution. If the share capital is divided into ",
+        "bbox": [
+            105,
+            833,
+            892,
+            916
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "different classes, no interim dividend shall be paid on Shares carrying deferred or non-preferred rights if, at the time of payment, any preferential dividend is in arrears. Provided the Directors act in good faith they ",
+        "bbox": [
+            168,
+            95,
+            894,
+            149
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "shall not incur any liability to the holders of Shares conferring preferred rights for any loss they may suffer by the lawful payment of an interim dividend on any Shares having deferred or non-preferred rights.   \nC. The Directors may recommend and a General Meeting declare that a dividend may be satisfied wholly or partly by the distribution of assets. Where any difficulty arises in regard to the distribution, the Directors may determine the method of settlement.   \nD. Any dividend or other moneys payable in respect of a Share may be paid by cheque sent by post to the registered address of the person entitled. If two (2) or more persons are the holders of the Share or are jointly entitled to it, to the registered address of that person who is first named in the Register of Shareholders or to such person and to such address as the person or persons entitled may in writing direct. Every cheque shall be made payable to the order of the person or persons entitled, or to such other person as the person or persons entitled may in writing direct, and payment of the cheque shall be a good discharge to the Company. Any joint holder or other person jointly entitled to a Share as aforesaid may give receipts for any dividend or other moneys payable in respect of the Share.   \nE. No dividend or other moneys payable in respect of a Share shall bear interest unless otherwise provided by the rights attached to the Share.   \nF. Any dividend which has remained unclaimed for twelve (12) years from the date when it became due for payment shall, if the Directors so resolve, be forfeited and cease to remain owing by the Company. ",
+        "bbox": [
+            102,
+            117,
+            894,
+            410
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "35. ACCOUNTS AND AUDIT ",
+        "bbox": [
+            107,
+            423,
+            363,
+            436
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "A. No Shareholder shall have any right of inspecting any accounting records or other book or document of the Company except as conferred by the Law or authorised by the Directors or by an Ordinary Resolution of the Company.   \nB. The Company shall appoint auditors to examine the accounts and report on them in accordance with the Law. ",
+        "bbox": [
+            107,
+            450,
+            892,
+            533
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "36. CAPITALISATION OF PROFITS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            545,
+            420,
+            560
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "The Directors may with the authority of the Company: ",
+        "bbox": [
+            168,
+            573,
+            536,
+            588
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "(i) except as hereinafter provided, resolve to capitalise any undivided profits of the Company not required for paying any preferential dividend (whether or not they are available for distribution) or any sum standing to the credit of the Company's Share premium account or capital redemption reserve;   \n(ii) appropriate the sum resolved to be capitalised to the Shareholders who would have been entitled to it if it were distributed by way of dividend and in the same proportions and apply such sum on their behalf in allotting any Shares or debentures issued as fully paid up Shares or debentures of the Company of a nominal amount equal to that sum or in payment of any amount unpaid on a share or debenture, or (with the consent of the holder of the Shares or debentures concerned) partly paid Shares or debentures. The Share premium account, the capital redemption reserve, and any profits which are not available for distribution may, for the purposes of this article, only be applied in allotting Shares issued to Shareholders as fully paid;   \n(iii) make by payment in cash or otherwise as they determine in the case of Shares or debentures becoming distributable under this article in fractions; and   \n(iv) authorise any person to enter into a binding agreement with the Company on behalf of all the Shareholders concerned providing for the allotment to them respectively, credited as fully paid, of any Shares or debentures to which they are entitled upon such capitalisation. ",
+        "bbox": [
+            157,
+            599,
+            894,
+            876
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            58,
+            890,
+            71
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "37. NOTICES ",
+        "bbox": [
+            107,
+            80,
+            247,
+            95
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "A. Any notice required to be given to Shareholders under these Articles shall be in writing. B. The Company may give any notice to a Shareholder: ",
+        "bbox": [
+            105,
+            108,
+            759,
+            151
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "(i) personally;   \n(ii) by post in a prepaid envelope addressed to the Shareholder at his registered address or by leaving it at that address.   \n(iii) in electronic form to an address nominated by the Shareholder and is treated as being delivered at the time it was sent; or   \n(iv) by any other means agreed between the Shareholder and the Company. ",
+        "bbox": [
+            166,
+            162,
+            894,
+            287
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "This article does not affect any provision in any law or these Articles requiring notices or documents to be delivered in a particular way. ",
+        "bbox": [
+            164,
+            300,
+            892,
+            328
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "C. In the case of joint holders of a Share, all notices shall be given to the joint holder whose name stands first in the Register of Shareholders in respect of the joint holding and notice so given shall be sufficient notice to all the joint holders.   \nD. A person present, either in person or by proxy, at any meeting shall be deemed to have received notice of the meeting.   \nE. Every person who becomes entitled to a Share shall be bound by any notice in respect of that Share.   \nF. Proof that an envelope containing a notice was properly addressed, prepaid and posted is conclusive evidence that the notice was given 48 hours after it was posted. A notice shall be deemed to be given at the expiration of 48 hours after the envelope containing it was posted.   \nG. Proof that an electronic transmission was sent is evidence that the notice was delivered at the time it was sent.   \nH. A notice may be given by the Company to the persons entitled to a Share in consequence of the death or bankruptcy of a Shareholder by sending or delivering it, at the address, supplied for that purpose by the persons claiming to be so entitled. Until such an address has been supplied, a notice may be given in any manner in which it might have been given if the death or bankruptcy had not occurred. ",
+        "bbox": [
+            102,
+            340,
+            894,
+            615
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "38. INDEMNITY ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            629,
+            268,
+            642
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "The Company shall indemnify every Director or other officer or auditor of the Company in respect of any liability incurred in defending any proceedings to the extent allowed by the Law. ",
+        "bbox": [
+            161,
+            655,
+            890,
+            683
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "39. AMENDMENT OF THESE ARTICLES ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            696,
+            462,
+            711
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "These Articles may only be amended through a Special Resolution. ",
+        "bbox": [
+            166,
+            724,
+            621,
+            738
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Signed by or on behalf of the Incorporators ",
+        "bbox": [
+            107,
+            751,
+            411,
+            765
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES REGULATIONS ",
+        "bbox": [
+            638,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 34
+    }
+]

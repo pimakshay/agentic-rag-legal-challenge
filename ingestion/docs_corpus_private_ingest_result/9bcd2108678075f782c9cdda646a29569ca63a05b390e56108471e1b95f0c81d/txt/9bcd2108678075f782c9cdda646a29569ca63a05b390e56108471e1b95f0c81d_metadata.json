@@ -1,0 +1,866 @@
+{
+    "doc_type": "law",
+    "official_title": "Electronic Transactions Law",
+    "official_title_normalized": "electronic transactions law",
+    "short_title": "Electronic Transactions Law 2017",
+    "short_title_normalized": "electronic transactions law 2017",
+    "law_number": "2",
+    "law_year": "2017",
+    "official_citation": "DIFC Law No. 2 of 2017",
+    "official_citation_normalized": "difc law no 2 of 2017",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "March 2022",
+    "amending_laws": [
+        "DIFC Laws Amendment Law DIFC Law No. 2 of 2022"
+    ],
+    "administering_authority": "DIFCA",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 13,
+    "page_count": 13,
+    "alias_keys": [
+        "DIFC Law No. 2 of 2017",
+        "Electronic Transactions Law",
+        "Electronic Transactions Law 2017"
+    ],
+    "article_index": {
+        "Article 1": {
+            "heading": "Matters excluded by Article 8",
+            "article_number": "1",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 145,
+            "block_end": 148
+        },
+        "Article 8": {
+            "heading": "Excluded matters",
+            "article_number": "8",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 40,
+            "block_end": 41
+        },
+        "Article 10": {
+            "heading": "Legal recognition of Electronic Records",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 49,
+            "block_end": 50
+        },
+        "Article 15": {
+            "heading": "Legal recognition of electronic contracts",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 80,
+            "block_end": 81
+        },
+        "Article 21": {
+            "heading": "Legal recognition of Electronic Signatures",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 103,
+            "block_end": 104
+        },
+        "Article 25": {
+            "heading": "Regulations",
+            "article_number": "25",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 115,
+            "block_end": 127
+        },
+        "Article 3": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 12,
+            "page_end": 13,
+            "block_start": 139,
+            "block_end": 144
+        },
+        "Article 4": {
+            "heading": "Date of enactment",
+            "article_number": "4",
+            "page_start": 3,
+            "page_end": 3,
+            "block_start": 28,
+            "block_end": 33
+        },
+        "Article 7": {
+            "heading": "Purpose of the Law",
+            "article_number": "7",
+            "page_start": 3,
+            "page_end": 4,
+            "block_start": 34,
+            "block_end": 39
+        },
+        "Article 8(1)": {
+            "heading": "Excluded matters",
+            "article_number": "8",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 41,
+            "block_end": 41
+        },
+        "Article 9": {
+            "heading": "Exclusion or modification by the parties",
+            "article_number": "9",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 42,
+            "block_end": 48
+        },
+        "Article 9(1)": {
+            "heading": "Exclusion or modification by the parties",
+            "article_number": "9",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 43,
+            "block_end": 43
+        },
+        "Article 9(2)(a)": {
+            "heading": "Exclusion or modification by the parties",
+            "article_number": "9",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 45,
+            "block_end": 48
+        },
+        "Article 9(2)": {
+            "heading": "Exclusion or modification by the parties",
+            "article_number": "9",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 44,
+            "block_end": 48
+        },
+        "Article 11": {
+            "heading": "Requirement for writing",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 51,
+            "block_end": 52
+        },
+        "Article 12": {
+            "heading": "Provision of Information in writing and presentation of Records",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 53,
+            "block_end": 60
+        },
+        "Article 12(1)": {
+            "heading": "Provision of Information in writing and presentation of Records",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 54,
+            "block_end": 54
+        },
+        "Article 12(2)(a)": {
+            "heading": "Provision of Information in writing and presentation of Records",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 56,
+            "block_end": 56
+        },
+        "Article 12(2)": {
+            "heading": "Provision of Information in writing and presentation of Records",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 55,
+            "block_end": 56
+        },
+        "Article 12(3)": {
+            "heading": "Provision of Information in writing and presentation of Records",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 57,
+            "block_end": 57
+        },
+        "Article 12(4)(a)": {
+            "heading": "Provision of Information in writing and presentation of Records",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 59,
+            "block_end": 59
+        },
+        "Article 12(4)(b)": {
+            "heading": "Provision of Information in writing and presentation of Records",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 60,
+            "block_end": 60
+        },
+        "Article 12(4)": {
+            "heading": "Provision of Information in writing and presentation of Records",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 58,
+            "block_end": 60
+        },
+        "Article 13": {
+            "heading": "Retention of Electronic Records",
+            "article_number": "13",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 61,
+            "block_end": 74
+        },
+        "Article 13(1)(a)": {
+            "heading": "Retention of Electronic Records",
+            "article_number": "13",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 63,
+            "block_end": 65
+        },
+        "Article 13(1)(b)": {
+            "heading": "Retention of Electronic Records",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 66,
+            "block_end": 66
+        },
+        "Article 13(1)(c)": {
+            "heading": "Retention of Electronic Records",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 67,
+            "block_end": 67
+        },
+        "Article 13(1)(d)": {
+            "heading": "Retention of Electronic Records",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 68,
+            "block_end": 68
+        },
+        "Article 13(1)": {
+            "heading": "Retention of Electronic Records",
+            "article_number": "13",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 62,
+            "block_end": 68
+        },
+        "Article 13(2)": {
+            "heading": "Retention of Electronic Records",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 69,
+            "block_end": 69
+        },
+        "Article 13(3)": {
+            "heading": "Retention of Electronic Records",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 70,
+            "block_end": 70
+        },
+        "Article 13(4)": {
+            "heading": "Retention of Electronic Records",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 71,
+            "block_end": 71
+        },
+        "Article 13(5)": {
+            "heading": "Retention of Electronic Records",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 72,
+            "block_end": 72
+        },
+        "Article 13(6)": {
+            "heading": "Retention of Electronic Records",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 73,
+            "block_end": 74
+        },
+        "Article 14": {
+            "heading": "Admissibility of Electronic Records in evidence",
+            "article_number": "14",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 75,
+            "block_end": 79
+        },
+        "Article 16": {
+            "heading": "Formation and validity of contracts via Electronic Communications",
+            "article_number": "16",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 82,
+            "block_end": 83
+        },
+        "Article 16(1)": {
+            "heading": "Formation and validity of contracts via Electronic Communications",
+            "article_number": "16",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 83,
+            "block_end": 83
+        },
+        "Article 17": {
+            "heading": "Effectiveness between parties",
+            "article_number": "17",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 84,
+            "block_end": 85
+        },
+        "Article 18": {
+            "heading": "Invitation to make offer",
+            "article_number": "18",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 86,
+            "block_end": 87
+        },
+        "Article 19": {
+            "heading": "Use of automated message systems for contract formation",
+            "article_number": "19",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 88,
+            "block_end": 89
+        },
+        "Article 20": {
+            "heading": "Time and place of despatch and receipt",
+            "article_number": "20",
+            "page_start": 7,
+            "page_end": 9,
+            "block_start": 90,
+            "block_end": 102
+        },
+        "Article 20(2)": {
+            "heading": "Time and place of despatch and receipt",
+            "article_number": "20",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 93,
+            "block_end": 93
+        },
+        "Article 20(3)": {
+            "heading": "Time and place of despatch and receipt",
+            "article_number": "20",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 94,
+            "block_end": 96
+        },
+        "Article 20(4)": {
+            "heading": "Time and place of despatch and receipt",
+            "article_number": "20",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 97,
+            "block_end": 97
+        },
+        "Article 20(5)": {
+            "heading": "Time and place of despatch and receipt",
+            "article_number": "20",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 98,
+            "block_end": 98
+        },
+        "Article 20(6)": {
+            "heading": "Time and place of despatch and receipt",
+            "article_number": "20",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 99,
+            "block_end": 102
+        },
+        "Article 22": {
+            "heading": "Validity of Electronic Signatures",
+            "article_number": "22",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 105,
+            "block_end": 107
+        },
+        "Article 23": {
+            "heading": "Attribution and effect of Electronic Signature",
+            "article_number": "23",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 108,
+            "block_end": 109
+        },
+        "Article 23(1)": {
+            "heading": "Attribution and effect of Electronic Signature",
+            "article_number": "23",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 109,
+            "block_end": 109
+        },
+        "Article 24": {
+            "heading": "Admissibility of Electronic Signatures in evidence",
+            "article_number": "24",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 110,
+            "block_end": 114
+        },
+        "Article 25(1)": {
+            "heading": "Regulations",
+            "article_number": "25",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 116,
+            "block_end": 116
+        },
+        "Article 25(2)": {
+            "heading": "Regulations",
+            "article_number": "25",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 117,
+            "block_end": 117
+        },
+        "Article 25(3)": {
+            "heading": "Regulations",
+            "article_number": "25",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 118,
+            "block_end": 118
+        },
+        "Article 25(4)": {
+            "heading": "Regulations",
+            "article_number": "25",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 119,
+            "block_end": 119
+        },
+        "Article 25(5)(a)": {
+            "heading": "Regulations",
+            "article_number": "25",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 121,
+            "block_end": 121
+        },
+        "Article 25(5)": {
+            "heading": "Regulations",
+            "article_number": "25",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 120,
+            "block_end": 121
+        },
+        "Article 25(6)": {
+            "heading": "Regulations",
+            "article_number": "25",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 122,
+            "block_end": 122
+        },
+        "Article 25(7)": {
+            "heading": "Regulations",
+            "article_number": "25",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 123,
+            "block_end": 123
+        },
+        "Article 25(8)": {
+            "heading": "Regulations",
+            "article_number": "25",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 124,
+            "block_end": 127
+        },
+        "Article 1(1)(a)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 130,
+            "block_end": 130
+        },
+        "Article 1(1)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 129,
+            "block_end": 130
+        },
+        "Article 1(2)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 131,
+            "block_end": 131
+        },
+        "Article 1(3)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 132,
+            "block_end": 132
+        },
+        "Article 1(4)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 133,
+            "block_end": 133
+        },
+        "Article 1(5)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 134,
+            "block_end": 134
+        },
+        "Article 2": {
+            "heading": "Legislation in DIFC",
+            "article_number": "2",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 135,
+            "block_end": 138
+        }
+    },
+    "section_heading_index": {
+        "Title and repeal... 2. Legislative Authority.. 2 3. Application of the Law.. 2 4. Date of enactment... Commencement.. 6. Interpretation .. 7. Purpose of the Law.. 2": [
+            {
+                "heading": "Title and repeal... 2. Legislative Authority.. 2 3. Application of the Law.. 2 4. Date of enactment... Commencement.. 6. Interpretation .. 7. Purpose of the Law.. 2",
+                "article_number": "1",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 6,
+                "block_end": 7
+            }
+        ],
+        "Excluded matters . 3 9. Exclusion or modification by the parties": [
+            {
+                "heading": "Excluded matters . 3 9. Exclusion or modification by the parties",
+                "article_number": "8",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 8,
+                "block_end": 9
+            }
+        ],
+        "Legal recognition of Electronic Records . 4 11. Requirement for writing .. 4 12. Provision of Information in writing and presentation of Records . 4 13. Retention of Electronic Records. 4 14. Admissibility of Electronic Records in evidence . 5": [
+            {
+                "heading": "Legal recognition of Electronic Records . 4 11. Requirement for writing .. 4 12. Provision of Information in writing and presentation of Records . 4 13. Retention of Electronic Records. 4 14. Admissibility of Electronic Records in evidence . 5",
+                "article_number": "10",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 10,
+                "block_end": 11
+            }
+        ],
+        "Legal recognition of electronic contracts ... ... 6 16. Formation and validity of contracts via Electronic Communications . ... 6 17. Effectiveness between parties.. .. 6 18. Invitation to make offer .. .. 6 19. Use of automated message systems for contract formation. . 6 20. Time and place of despatch and receipt.. . 6": [
+            {
+                "heading": "Legal recognition of electronic contracts ... ... 6 16. Formation and validity of contracts via Electronic Communications . ... 6 17. Effectiveness between parties.. .. 6 18. Invitation to make offer .. .. 6 19. Use of automated message systems for contract formation. . 6 20. Time and place of despatch and receipt.. . 6",
+                "article_number": "15",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 12,
+                "block_end": 13
+            }
+        ],
+        "Legal recognition of Electronic Signatures .... ... 8 22. Validity of Electronic Signatures . .. 8 23. Attribution and effect of Electronic Signature.... .. 8 24. Admissibility of Electronic Signatures in evidence.. . 8": [
+            {
+                "heading": "Legal recognition of Electronic Signatures .... ... 8 22. Validity of Electronic Signatures . .. 8 23. Attribution and effect of Electronic Signature.... .. 8 24. Admissibility of Electronic Signatures in evidence.. . 8",
+                "article_number": "21",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 14,
+                "block_end": 15
+            }
+        ],
+        "Regulations": [
+            {
+                "heading": "Regulations",
+                "article_number": "25",
+                "page_start": 2,
+                "page_end": 3,
+                "block_start": 16,
+                "block_end": 25
+            },
+            {
+                "heading": "Regulations",
+                "article_number": "25",
+                "page_start": 10,
+                "page_end": 11,
+                "block_start": 115,
+                "block_end": 127
+            }
+        ],
+        "Application of the Law": [
+            {
+                "heading": "Application of the Law",
+                "article_number": "3",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 26,
+                "block_end": 27
+            }
+        ],
+        "Date of enactment": [
+            {
+                "heading": "Date of enactment",
+                "article_number": "4",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 28,
+                "block_end": 33
+            }
+        ],
+        "Purpose of the Law": [
+            {
+                "heading": "Purpose of the Law",
+                "article_number": "7",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 34,
+                "block_end": 39
+            }
+        ],
+        "Excluded matters": [
+            {
+                "heading": "Excluded matters",
+                "article_number": "8",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 40,
+                "block_end": 41
+            }
+        ],
+        "Exclusion or modification by the parties": [
+            {
+                "heading": "Exclusion or modification by the parties",
+                "article_number": "9",
+                "page_start": 4,
+                "page_end": 5,
+                "block_start": 42,
+                "block_end": 48
+            }
+        ],
+        "Legal recognition of Electronic Records": [
+            {
+                "heading": "Legal recognition of Electronic Records",
+                "article_number": "10",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 49,
+                "block_end": 50
+            }
+        ],
+        "Requirement for writing": [
+            {
+                "heading": "Requirement for writing",
+                "article_number": "11",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 51,
+                "block_end": 52
+            }
+        ],
+        "Provision of Information in writing and presentation of Records": [
+            {
+                "heading": "Provision of Information in writing and presentation of Records",
+                "article_number": "12",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 53,
+                "block_end": 60
+            }
+        ],
+        "Retention of Electronic Records": [
+            {
+                "heading": "Retention of Electronic Records",
+                "article_number": "13",
+                "page_start": 5,
+                "page_end": 6,
+                "block_start": 61,
+                "block_end": 74
+            }
+        ],
+        "Admissibility of Electronic Records in evidence": [
+            {
+                "heading": "Admissibility of Electronic Records in evidence",
+                "article_number": "14",
+                "page_start": 6,
+                "page_end": 7,
+                "block_start": 75,
+                "block_end": 79
+            }
+        ],
+        "Legal recognition of electronic contracts": [
+            {
+                "heading": "Legal recognition of electronic contracts",
+                "article_number": "15",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 80,
+                "block_end": 81
+            }
+        ],
+        "Formation and validity of contracts via Electronic Communications": [
+            {
+                "heading": "Formation and validity of contracts via Electronic Communications",
+                "article_number": "16",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 82,
+                "block_end": 83
+            }
+        ],
+        "Effectiveness between parties": [
+            {
+                "heading": "Effectiveness between parties",
+                "article_number": "17",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 84,
+                "block_end": 85
+            }
+        ],
+        "Invitation to make offer": [
+            {
+                "heading": "Invitation to make offer",
+                "article_number": "18",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 86,
+                "block_end": 87
+            }
+        ],
+        "Use of automated message systems for contract formation": [
+            {
+                "heading": "Use of automated message systems for contract formation",
+                "article_number": "19",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 88,
+                "block_end": 89
+            }
+        ],
+        "Time and place of despatch and receipt": [
+            {
+                "heading": "Time and place of despatch and receipt",
+                "article_number": "20",
+                "page_start": 7,
+                "page_end": 9,
+                "block_start": 90,
+                "block_end": 102
+            }
+        ],
+        "Legal recognition of Electronic Signatures": [
+            {
+                "heading": "Legal recognition of Electronic Signatures",
+                "article_number": "21",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 103,
+                "block_end": 104
+            }
+        ],
+        "Validity of Electronic Signatures": [
+            {
+                "heading": "Validity of Electronic Signatures",
+                "article_number": "22",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 105,
+                "block_end": 107
+            }
+        ],
+        "Attribution and effect of Electronic Signature": [
+            {
+                "heading": "Attribution and effect of Electronic Signature",
+                "article_number": "23",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 108,
+                "block_end": 109
+            }
+        ],
+        "Admissibility of Electronic Signatures in evidence": [
+            {
+                "heading": "Admissibility of Electronic Signatures in evidence",
+                "article_number": "24",
+                "page_start": 9,
+                "page_end": 10,
+                "block_start": 110,
+                "block_end": 114
+            }
+        ],
+        "Rules of interpretation": [
+            {
+                "heading": "Rules of interpretation",
+                "article_number": "1",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 128,
+                "block_end": 134
+            }
+        ],
+        "Legislation in DIFC": [
+            {
+                "heading": "Legislation in DIFC",
+                "article_number": "2",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 135,
+                "block_end": 138
+            }
+        ],
+        "Defined terms": [
+            {
+                "heading": "Defined terms",
+                "article_number": "3",
+                "page_start": 12,
+                "page_end": 13,
+                "block_start": 139,
+                "block_end": 144
+            }
+        ],
+        "Matters excluded by Article 8": [
+            {
+                "heading": "Matters excluded by Article 8",
+                "article_number": "1",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 145,
+                "block_end": 148
+            }
+        ]
+    }
+}

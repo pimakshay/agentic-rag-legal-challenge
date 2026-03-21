@@ -1,0 +1,960 @@
+{
+    "doc_type": "law",
+    "official_title": "Payment System Settlement Finality Law",
+    "official_title_normalized": "payment system settlement finality law",
+    "short_title": "Payment System Settlement Finality Law 2009",
+    "short_title_normalized": "payment system settlement finality law 2009",
+    "law_number": "1",
+    "law_year": "2009",
+    "official_citation": "DIFC Law No. 1 of 2009",
+    "official_citation_normalized": "difc law no 1 of 2009",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "",
+    "amending_laws": [],
+    "administering_authority": "",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 16,
+    "page_count": 16,
+    "alias_keys": [
+        "DIFC Law No. 1 of 2009",
+        "Payment System Settlement Finality Law",
+        "Payment System Settlement Finality Law 2009"
+    ],
+    "article_index": {
+        "Article 1": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 157,
+            "block_end": 160
+        },
+        "Article 8": {
+            "heading": "Application for designation",
+            "article_number": "8",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 43,
+            "block_end": 46
+        },
+        "Article 11": {
+            "heading": "Rules of designated payment system are valid and enforceable",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 60,
+            "block_end": 66
+        },
+        "Article 16": {
+            "heading": "Variation of designation",
+            "article_number": "16",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 96,
+            "block_end": 101
+        },
+        "Article 21": {
+            "heading": "Supply of information relating to designated payment system",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 117,
+            "block_end": 125
+        },
+        "Article 23": {
+            "heading": "Exemption from liability",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 136,
+            "block_end": 137
+        },
+        "Article 4": {
+            "heading": "Purpose",
+            "article_number": "4",
+            "page_start": 3,
+            "page_end": 3,
+            "block_start": 29,
+            "block_end": 30
+        },
+        "Article 5": {
+            "heading": "Date of Enactment",
+            "article_number": "5",
+            "page_start": 3,
+            "page_end": 4,
+            "block_start": 31,
+            "block_end": 42
+        },
+        "Article 8(1)": {
+            "heading": "Application for designation",
+            "article_number": "8",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 44,
+            "block_end": 44
+        },
+        "Article 8(2)(a)": {
+            "heading": "Application for designation",
+            "article_number": "8",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 46,
+            "block_end": 46
+        },
+        "Article 8(2)": {
+            "heading": "Application for designation",
+            "article_number": "8",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 45,
+            "block_end": 46
+        },
+        "Article 9": {
+            "heading": "Consideration of application",
+            "article_number": "9",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 47,
+            "block_end": 50
+        },
+        "Article 9(1)": {
+            "heading": "Consideration of application",
+            "article_number": "9",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 48,
+            "block_end": 48
+        },
+        "Article 9(2)(a)": {
+            "heading": "Consideration of application",
+            "article_number": "9",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 50,
+            "block_end": 50
+        },
+        "Article 9(2)": {
+            "heading": "Consideration of application",
+            "article_number": "9",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 49,
+            "block_end": 50
+        },
+        "Article 10": {
+            "heading": "Decision on application",
+            "article_number": "10",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 51,
+            "block_end": 59
+        },
+        "Article 10(1)(a)": {
+            "heading": "Decision on application",
+            "article_number": "10",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 53,
+            "block_end": 53
+        },
+        "Article 10(1)": {
+            "heading": "Decision on application",
+            "article_number": "10",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 52,
+            "block_end": 53
+        },
+        "Article 10(2)(a)": {
+            "heading": "Decision on application",
+            "article_number": "10",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 55,
+            "block_end": 57
+        },
+        "Article 10(2)(d)": {
+            "heading": "Decision on application",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 58,
+            "block_end": 59
+        },
+        "Article 10(2)": {
+            "heading": "Decision on application",
+            "article_number": "10",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 54,
+            "block_end": 59
+        },
+        "Article 11(1)": {
+            "heading": "Rules of designated payment system are valid and enforceable",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 61,
+            "block_end": 61
+        },
+        "Article 11(2)(a)": {
+            "heading": "Rules of designated payment system are valid and enforceable",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 63,
+            "block_end": 63
+        },
+        "Article 11(2)(i)": {
+            "heading": "Rules of designated payment system are valid and enforceable",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 64,
+            "block_end": 65
+        },
+        "Article 11(2)": {
+            "heading": "Rules of designated payment system are valid and enforceable",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 62,
+            "block_end": 65
+        },
+        "Article 11(3)": {
+            "heading": "Rules of designated payment system are valid and enforceable",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 66,
+            "block_end": 66
+        },
+        "Article 12": {
+            "heading": "Settlements and provision of collateral security must not be reversed, etc",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 67,
+            "block_end": 75
+        },
+        "Article 12(1)": {
+            "heading": "Settlements and provision of collateral security must not be reversed, etc",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 68,
+            "block_end": 70
+        },
+        "Article 12(2)": {
+            "heading": "Settlements and provision of collateral security must not be reversed, etc",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 71,
+            "block_end": 71
+        },
+        "Article 12(3)(a)": {
+            "heading": "Settlements and provision of collateral security must not be reversed, etc",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 73,
+            "block_end": 74
+        },
+        "Article 12(3)(i)": {
+            "heading": "Settlements and provision of collateral security must not be reversed, etc",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 75,
+            "block_end": 75
+        },
+        "Article 12(3)": {
+            "heading": "Settlements and provision of collateral security must not be reversed, etc",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 72,
+            "block_end": 75
+        },
+        "Article 13": {
+            "heading": "Limits on application of Article 12(1)",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 76,
+            "block_end": 83
+        },
+        "Article 13(1)(a)": {
+            "heading": "Limits on application of Article 12(1)",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 78,
+            "block_end": 78
+        },
+        "Article 13(1)(b)": {
+            "heading": "Limits on application of Article 12(1)",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 79,
+            "block_end": 79
+        },
+        "Article 13(1)": {
+            "heading": "Limits on application of Article 12(1)",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 77,
+            "block_end": 79
+        },
+        "Article 13(2)(a)": {
+            "heading": "Limits on application of Article 12(1)",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 81,
+            "block_end": 83
+        },
+        "Article 13(2)": {
+            "heading": "Limits on application of Article 12(1)",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 80,
+            "block_end": 83
+        },
+        "Article 14": {
+            "heading": "Netting is valid and enforceable",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 84,
+            "block_end": 85
+        },
+        "Article 15": {
+            "heading": "Limits on effect of Articles 11, 12 and 14",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 86,
+            "block_end": 95
+        },
+        "Article 15(1)(a)": {
+            "heading": "Limits on effect of Articles 11, 12 and 14",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 88,
+            "block_end": 88
+        },
+        "Article 15(1)": {
+            "heading": "Limits on effect of Articles 11, 12 and 14",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 87,
+            "block_end": 88
+        },
+        "Article 15(2)(a)": {
+            "heading": "Limits on effect of Articles 11, 12 and 14",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 90,
+            "block_end": 90
+        },
+        "Article 15(2)": {
+            "heading": "Limits on effect of Articles 11, 12 and 14",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 89,
+            "block_end": 90
+        },
+        "Article 15(3)(a)": {
+            "heading": "Limits on effect of Articles 11, 12 and 14",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 92,
+            "block_end": 92
+        },
+        "Article 15(3)(i)": {
+            "heading": "Limits on effect of Articles 11, 12 and 14",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 94,
+            "block_end": 95
+        },
+        "Article 15(3)": {
+            "heading": "Limits on effect of Articles 11, 12 and 14",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 91,
+            "block_end": 95
+        },
+        "Article 17": {
+            "heading": "Revocation of designation",
+            "article_number": "17",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 102,
+            "block_end": 103
+        },
+        "Article 18": {
+            "heading": "Settlement and netting not affected by variation or revocation of designation",
+            "article_number": "18",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 104,
+            "block_end": 105
+        },
+        "Article 19": {
+            "heading": "Matters Designating Body may have regard to in recommending variation or revocation of designation",
+            "article_number": "19",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 106,
+            "block_end": 108
+        },
+        "Article 20": {
+            "heading": "Procedure for variation or revocation of designation",
+            "article_number": "20",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 109,
+            "block_end": 116
+        },
+        "Article 20(2)": {
+            "heading": "Procedure for variation or revocation of designation",
+            "article_number": "20",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 115,
+            "block_end": 116
+        },
+        "Article 21(1)(a)": {
+            "heading": "Supply of information relating to designated payment system",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 119,
+            "block_end": 119
+        },
+        "Article 21(1)": {
+            "heading": "Supply of information relating to designated payment system",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 118,
+            "block_end": 119
+        },
+        "Article 21(2)": {
+            "heading": "Supply of information relating to designated payment system",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 120,
+            "block_end": 120
+        },
+        "Article 21(3)(a)": {
+            "heading": "Supply of information relating to designated payment system",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 122,
+            "block_end": 122
+        },
+        "Article 21(3)": {
+            "heading": "Supply of information relating to designated payment system",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 121,
+            "block_end": 122
+        },
+        "Article 21(4)": {
+            "heading": "Supply of information relating to designated payment system",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 123,
+            "block_end": 123
+        },
+        "Article 21(5)(a)": {
+            "heading": "Supply of information relating to designated payment system",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 125,
+            "block_end": 125
+        },
+        "Article 21(5)": {
+            "heading": "Supply of information relating to designated payment system",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 124,
+            "block_end": 125
+        },
+        "Article 22": {
+            "heading": "Designated Contact must be notified of insolvency proceedings",
+            "article_number": "22",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 126,
+            "block_end": 135
+        },
+        "Article 22(1)(a)": {
+            "heading": "Designated Contact must be notified of insolvency proceedings",
+            "article_number": "22",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 128,
+            "block_end": 128
+        },
+        "Article 22(1)": {
+            "heading": "Designated Contact must be notified of insolvency proceedings",
+            "article_number": "22",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 127,
+            "block_end": 128
+        },
+        "Article 22(2)": {
+            "heading": "Designated Contact must be notified of insolvency proceedings",
+            "article_number": "22",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 129,
+            "block_end": 131
+        },
+        "Article 22(3)(a)": {
+            "heading": "Designated Contact must be notified of insolvency proceedings",
+            "article_number": "22",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 133,
+            "block_end": 133
+        },
+        "Article 22(3)": {
+            "heading": "Designated Contact must be notified of insolvency proceedings",
+            "article_number": "22",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 132,
+            "block_end": 133
+        },
+        "Article 22(4)": {
+            "heading": "Designated Contact must be notified of insolvency proceedings",
+            "article_number": "22",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 134,
+            "block_end": 135
+        },
+        "Article 24": {
+            "heading": "Applicable law relating to securities held as collateral security",
+            "article_number": "24",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 138,
+            "block_end": 141
+        },
+        "Article 25": {
+            "heading": "Designating Body and Central Bank",
+            "article_number": "25",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 142,
+            "block_end": 143
+        },
+        "Article 26": {
+            "heading": "Regulations",
+            "article_number": "26",
+            "page_start": 10,
+            "page_end": 12,
+            "block_start": 144,
+            "block_end": 156
+        },
+        "Article 26(1)": {
+            "heading": "Regulations",
+            "article_number": "26",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 145,
+            "block_end": 145
+        },
+        "Article 26(2)(a)": {
+            "heading": "Regulations",
+            "article_number": "26",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 147,
+            "block_end": 149
+        },
+        "Article 26(2)(b)": {
+            "heading": "Regulations",
+            "article_number": "26",
+            "page_start": 11,
+            "page_end": 12,
+            "block_start": 150,
+            "block_end": 156
+        },
+        "Article 26(2)": {
+            "heading": "Regulations",
+            "article_number": "26",
+            "page_start": 10,
+            "page_end": 12,
+            "block_start": 146,
+            "block_end": 156
+        },
+        "Article 1(1)(a)": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 159,
+            "block_end": 159
+        },
+        "Article 1(1)": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 158,
+            "block_end": 159
+        },
+        "Article 1(2)": {
+            "heading": "Rules of Interpretation",
+            "article_number": "1",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 160,
+            "block_end": 160
+        },
+        "Article 2": {
+            "heading": "Legislation in the DIFC",
+            "article_number": "2",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 161,
+            "block_end": 164
+        },
+        "Article 3": {
+            "heading": "Defined Terms",
+            "article_number": "3",
+            "page_start": 13,
+            "page_end": 16,
+            "block_start": 165,
+            "block_end": 172
+        }
+    },
+    "section_heading_index": {
+        "Title ........ ..... 2 2. Legislative Authority . .. 2 3. Application of the Law.... ... 2 4. Purpose 2 5. Date of Enactment... .. 2 6. Commencement ........ ... 2 7. Interpretation....... .. 2": [
+            {
+                "heading": "Title ........ ..... 2 2. Legislative Authority . .. 2 3. Application of the Law.... ... 2 4. Purpose 2 5. Date of Enactment... .. 2 6. Commencement ........ ... 2 7. Interpretation....... .. 2",
+                "article_number": "1",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 5,
+                "block_end": 6
+            }
+        ],
+        "Application for designation... . 3 9. Consideration of application . . 3 10. Decision on application.... 3": [
+            {
+                "heading": "Application for designation... . 3 9. Consideration of application . . 3 10. Decision on application.... 3",
+                "article_number": "8",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 7,
+                "block_end": 8
+            }
+        ],
+        "Rules of designated payment system are valid and enforceable.. .. 4 12. Settlements and provision of collateral security must not be reversed, etc . . 4 13. Limits on application of Article 12(1). .. 5 14. Netting is valid and enforceable. .. 6 15. Limits on effect of Articles 11, 12 and 14. .. 6": [
+            {
+                "heading": "Rules of designated payment system are valid and enforceable.. .. 4 12. Settlements and provision of collateral security must not be reversed, etc . . 4 13. Limits on application of Article 12(1). .. 5 14. Netting is valid and enforceable. .. 6 15. Limits on effect of Articles 11, 12 and 14. .. 6",
+                "article_number": "11",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 9,
+                "block_end": 10
+            }
+        ],
+        "Variation of designation ... . 6 17. Revocation of designation.. 7 18. Settlement and netting not affected by variation or revocation of designation..... .. 7 19. Matters Designating Body may have regard to in recommending variation or revocation of designation . 7 20. Procedure for variation or revocation of designation .. .. 7": [
+            {
+                "heading": "Variation of designation ... . 6 17. Revocation of designation.. 7 18. Settlement and netting not affected by variation or revocation of designation..... .. 7 19. Matters Designating Body may have regard to in recommending variation or revocation of designation . 7 20. Procedure for variation or revocation of designation .. .. 7",
+                "article_number": "16",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 11,
+                "block_end": 12
+            }
+        ],
+        "Supply of information relating to designated payment system.. 8 22. Designated Contact must be notified of insolvency proceedings... 8": [
+            {
+                "heading": "Supply of information relating to designated payment system.. 8 22. Designated Contact must be notified of insolvency proceedings... 8",
+                "article_number": "21",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 13,
+                "block_end": 14
+            }
+        ],
+        "Exemption from liability ...... .. 9 24. Applicable law relating to securities held as collateral security.... .. 9 25. Designating Body and Central Bank . .. 9 26. Regulations ... .. 9": [
+            {
+                "heading": "Exemption from liability ...... .. 9 24. Applicable law relating to securities held as collateral security.... .. 9 25. Designating Body and Central Bank . .. 9 26. Regulations ... .. 9",
+                "article_number": "23",
+                "page_start": 2,
+                "page_end": 3,
+                "block_start": 15,
+                "block_end": 28
+            }
+        ],
+        "Purpose": [
+            {
+                "heading": "Purpose",
+                "article_number": "4",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 29,
+                "block_end": 30
+            }
+        ],
+        "Date of Enactment": [
+            {
+                "heading": "Date of Enactment",
+                "article_number": "5",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 31,
+                "block_end": 42
+            }
+        ],
+        "Application for designation": [
+            {
+                "heading": "Application for designation",
+                "article_number": "8",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 43,
+                "block_end": 46
+            }
+        ],
+        "Consideration of application": [
+            {
+                "heading": "Consideration of application",
+                "article_number": "9",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 47,
+                "block_end": 50
+            }
+        ],
+        "Decision on application": [
+            {
+                "heading": "Decision on application",
+                "article_number": "10",
+                "page_start": 4,
+                "page_end": 5,
+                "block_start": 51,
+                "block_end": 59
+            }
+        ],
+        "Rules of designated payment system are valid and enforceable": [
+            {
+                "heading": "Rules of designated payment system are valid and enforceable",
+                "article_number": "11",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 60,
+                "block_end": 66
+            }
+        ],
+        "Settlements and provision of collateral security must not be reversed, etc": [
+            {
+                "heading": "Settlements and provision of collateral security must not be reversed, etc",
+                "article_number": "12",
+                "page_start": 5,
+                "page_end": 6,
+                "block_start": 67,
+                "block_end": 75
+            }
+        ],
+        "Limits on application of Article 12(1)": [
+            {
+                "heading": "Limits on application of Article 12(1)",
+                "article_number": "13",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 76,
+                "block_end": 83
+            }
+        ],
+        "Netting is valid and enforceable": [
+            {
+                "heading": "Netting is valid and enforceable",
+                "article_number": "14",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 84,
+                "block_end": 85
+            }
+        ],
+        "Limits on effect of Articles 11, 12 and 14": [
+            {
+                "heading": "Limits on effect of Articles 11, 12 and 14",
+                "article_number": "15",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 86,
+                "block_end": 95
+            }
+        ],
+        "Variation of designation": [
+            {
+                "heading": "Variation of designation",
+                "article_number": "16",
+                "page_start": 7,
+                "page_end": 8,
+                "block_start": 96,
+                "block_end": 101
+            }
+        ],
+        "Revocation of designation": [
+            {
+                "heading": "Revocation of designation",
+                "article_number": "17",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 102,
+                "block_end": 103
+            }
+        ],
+        "Settlement and netting not affected by variation or revocation of designation": [
+            {
+                "heading": "Settlement and netting not affected by variation or revocation of designation",
+                "article_number": "18",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 104,
+                "block_end": 105
+            }
+        ],
+        "Matters Designating Body may have regard to in recommending variation or revocation of designation": [
+            {
+                "heading": "Matters Designating Body may have regard to in recommending variation or revocation of designation",
+                "article_number": "19",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 106,
+                "block_end": 108
+            }
+        ],
+        "Procedure for variation or revocation of designation": [
+            {
+                "heading": "Procedure for variation or revocation of designation",
+                "article_number": "20",
+                "page_start": 8,
+                "page_end": 9,
+                "block_start": 109,
+                "block_end": 116
+            }
+        ],
+        "Supply of information relating to designated payment system": [
+            {
+                "heading": "Supply of information relating to designated payment system",
+                "article_number": "21",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 117,
+                "block_end": 125
+            }
+        ],
+        "Designated Contact must be notified of insolvency proceedings": [
+            {
+                "heading": "Designated Contact must be notified of insolvency proceedings",
+                "article_number": "22",
+                "page_start": 9,
+                "page_end": 10,
+                "block_start": 126,
+                "block_end": 135
+            }
+        ],
+        "Exemption from liability": [
+            {
+                "heading": "Exemption from liability",
+                "article_number": "23",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 136,
+                "block_end": 137
+            }
+        ],
+        "Applicable law relating to securities held as collateral security": [
+            {
+                "heading": "Applicable law relating to securities held as collateral security",
+                "article_number": "24",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 138,
+                "block_end": 141
+            }
+        ],
+        "Designating Body and Central Bank": [
+            {
+                "heading": "Designating Body and Central Bank",
+                "article_number": "25",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 142,
+                "block_end": 143
+            }
+        ],
+        "Regulations": [
+            {
+                "heading": "Regulations",
+                "article_number": "26",
+                "page_start": 10,
+                "page_end": 12,
+                "block_start": 144,
+                "block_end": 156
+            }
+        ],
+        "Rules of Interpretation": [
+            {
+                "heading": "Rules of Interpretation",
+                "article_number": "1",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 157,
+                "block_end": 160
+            }
+        ],
+        "Legislation in the DIFC": [
+            {
+                "heading": "Legislation in the DIFC",
+                "article_number": "2",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 161,
+                "block_end": 164
+            }
+        ],
+        "Defined Terms": [
+            {
+                "heading": "Defined Terms",
+                "article_number": "3",
+                "page_start": 13,
+                "page_end": 16,
+                "block_start": 165,
+                "block_end": 172
+            }
+        ]
+    }
+}

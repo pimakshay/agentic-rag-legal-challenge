@@ -1,0 +1,672 @@
+{
+    "doc_type": "law",
+    "official_title": "Digital Assets Law",
+    "official_title_normalized": "digital assets law",
+    "short_title": "Digital Assets Law 2024",
+    "short_title_normalized": "digital assets law 2024",
+    "law_number": "2",
+    "law_year": "2024",
+    "official_citation": "DIFC Law No. 2 of 2024",
+    "official_citation_normalized": "difc law no 2 of 2024",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "",
+    "amending_laws": [],
+    "administering_authority": "Registrar",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 28,
+    "page_count": 28,
+    "alias_keys": [
+        "Digital Assets Law",
+        "DIFC Law No. 2 of 2024",
+        "Digital Assets Law 2024"
+    ],
+    "article_index": {
+        "Article 1": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 93,
+            "block_end": 97
+        },
+        "Article 8": {
+            "heading": "Definition",
+            "article_number": "8",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 37,
+            "block_end": 39
+        },
+        "Article 10": {
+            "heading": "Control",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 44,
+            "block_end": 51
+        },
+        "Article 14": {
+            "heading": "Impairment",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 70,
+            "block_end": 78
+        },
+        "Article 16": {
+            "heading": "Power to make Regulations",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 85,
+            "block_end": 92
+        },
+        "Article 2": {
+            "heading": "Legislation in the DIFC",
+            "article_number": "2",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 98,
+            "block_end": 103
+        },
+        "Article 3": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 10,
+            "page_end": 28,
+            "block_start": 104,
+            "block_end": 144
+        },
+        "Article 3(1)": {
+            "heading": "Application of this Law",
+            "article_number": "3",
+            "page_start": 3,
+            "page_end": 3,
+            "block_start": 22,
+            "block_end": 22
+        },
+        "Article 4": {
+            "heading": "Purpose of this Law",
+            "article_number": "4",
+            "page_start": 3,
+            "page_end": 3,
+            "block_start": 23,
+            "block_end": 24
+        },
+        "Article 5": {
+            "heading": "Date of enactment",
+            "article_number": "5",
+            "page_start": 3,
+            "page_end": 3,
+            "block_start": 25,
+            "block_end": 28
+        },
+        "Article 7": {
+            "heading": "Schedules",
+            "article_number": "7",
+            "page_start": 3,
+            "page_end": 4,
+            "block_start": 29,
+            "block_end": 36
+        },
+        "Article 7(1)(a)": {
+            "heading": "Schedules",
+            "article_number": "7",
+            "page_start": 3,
+            "page_end": 3,
+            "block_start": 31,
+            "block_end": 31
+        },
+        "Article 7(1)": {
+            "heading": "Schedules",
+            "article_number": "7",
+            "page_start": 3,
+            "page_end": 3,
+            "block_start": 30,
+            "block_end": 31
+        },
+        "Article 7(2)(a)": {
+            "heading": "Schedules",
+            "article_number": "7",
+            "page_start": 3,
+            "page_end": 4,
+            "block_start": 33,
+            "block_end": 36
+        },
+        "Article 7(2)": {
+            "heading": "Schedules",
+            "article_number": "7",
+            "page_start": 3,
+            "page_end": 4,
+            "block_start": 32,
+            "block_end": 36
+        },
+        "Article 9": {
+            "heading": "Characterisation",
+            "article_number": "9",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 40,
+            "block_end": 43
+        },
+        "Article 10(1)(a)": {
+            "heading": "Control",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 46,
+            "block_end": 46
+        },
+        "Article 10(1)(i)": {
+            "heading": "Control",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 47,
+            "block_end": 47
+        },
+        "Article 10(1)(b)": {
+            "heading": "Control",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 48,
+            "block_end": 48
+        },
+        "Article 10(1)": {
+            "heading": "Control",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 45,
+            "block_end": 48
+        },
+        "Article 10(2)(a)": {
+            "heading": "Control",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 51,
+            "block_end": 51
+        },
+        "Article 10(2)": {
+            "heading": "Control",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 49,
+            "block_end": 51
+        },
+        "Article 11": {
+            "heading": "General rules as to title",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 52,
+            "block_end": 56
+        },
+        "Article 11(1)": {
+            "heading": "General rules as to title",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 53,
+            "block_end": 53
+        },
+        "Article 11(2)": {
+            "heading": "General rules as to title",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 54,
+            "block_end": 54
+        },
+        "Article 11(3)": {
+            "heading": "General rules as to title",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 55,
+            "block_end": 55
+        },
+        "Article 11(4)": {
+            "heading": "General rules as to title",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 56,
+            "block_end": 56
+        },
+        "Article 12": {
+            "heading": "Transfer of title",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 57,
+            "block_end": 63
+        },
+        "Article 12(1)(a)": {
+            "heading": "Transfer of title",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 59,
+            "block_end": 61
+        },
+        "Article 12(1)(b)": {
+            "heading": "Transfer of title",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 62,
+            "block_end": 62
+        },
+        "Article 12(1)": {
+            "heading": "Transfer of title",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 58,
+            "block_end": 62
+        },
+        "Article 12(2)": {
+            "heading": "Transfer of title",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 63,
+            "block_end": 63
+        },
+        "Article 13": {
+            "heading": "Exercise of rights upon death, incapacity or insolvency",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 64,
+            "block_end": 69
+        },
+        "Article 13(1)(a)": {
+            "heading": "Exercise of rights upon death, incapacity or insolvency",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 66,
+            "block_end": 66
+        },
+        "Article 13(1)": {
+            "heading": "Exercise of rights upon death, incapacity or insolvency",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 65,
+            "block_end": 66
+        },
+        "Article 13(2)": {
+            "heading": "Exercise of rights upon death, incapacity or insolvency",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 67,
+            "block_end": 69
+        },
+        "Article 14(1)(a)": {
+            "heading": "Impairment",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 72,
+            "block_end": 72
+        },
+        "Article 14(1)(c)": {
+            "heading": "Impairment",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 73,
+            "block_end": 73
+        },
+        "Article 14(1)(i)": {
+            "heading": "Impairment",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 74,
+            "block_end": 74
+        },
+        "Article 14(1)": {
+            "heading": "Impairment",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 71,
+            "block_end": 74
+        },
+        "Article 14(2)(a)": {
+            "heading": "Impairment",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 76,
+            "block_end": 76
+        },
+        "Article 14(2)": {
+            "heading": "Impairment",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 75,
+            "block_end": 76
+        },
+        "Article 14(3)(a)": {
+            "heading": "Impairment",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 78,
+            "block_end": 78
+        },
+        "Article 14(3)": {
+            "heading": "Impairment",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 77,
+            "block_end": 78
+        },
+        "Article 15": {
+            "heading": "Recovery of control of a Digital Asset",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 79,
+            "block_end": 84
+        },
+        "Article 16(1)(a)": {
+            "heading": "Power to make Regulations",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 87,
+            "block_end": 87
+        },
+        "Article 16(1)": {
+            "heading": "Power to make Regulations",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 86,
+            "block_end": 87
+        },
+        "Article 16(2)(a)": {
+            "heading": "Power to make Regulations",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 89,
+            "block_end": 92
+        },
+        "Article 16(2)": {
+            "heading": "Power to make Regulations",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 88,
+            "block_end": 92
+        },
+        "Article 1(1)(a)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 95,
+            "block_end": 95
+        },
+        "Article 1(1)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 94,
+            "block_end": 95
+        },
+        "Article 1(2)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 96,
+            "block_end": 96
+        },
+        "Article 1(3)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 97,
+            "block_end": 97
+        }
+    },
+    "section_heading_index": {
+        "Title ....... ... 1 2. Legislative authority . . 1 3. Application of this Law .... . 1 4. Purpose of this Law ... 5. Date of enactment..... 6. Commencement.. 7. Schedules": [
+            {
+                "heading": "Title ....... ... 1 2. Legislative authority . . 1 3. Application of this Law .... . 1 4. Purpose of this Law ... 5. Date of enactment..... 6. Commencement.. 7. Schedules",
+                "article_number": "1",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 4,
+                "block_end": 5
+            }
+        ],
+        "Definition... . 2 9. Characterisation ................... 2": [
+            {
+                "heading": "Definition... . 2 9. Characterisation ................... 2",
+                "article_number": "8",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 6,
+                "block_end": 7
+            }
+        ],
+        "Control ........ ..... 3 11. General rules as to title . .. 3 12. Transfer of title .. .. 3 13. Exercise of rights upon death, incapacity or insolvency................... ... 4": [
+            {
+                "heading": "Control ........ ..... 3 11. General rules as to title . .. 3 12. Transfer of title .. .. 3 13. Exercise of rights upon death, incapacity or insolvency................... ... 4",
+                "article_number": "10",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 8,
+                "block_end": 9
+            }
+        ],
+        "Impairment . 15. Recovery of control of a Digital Asset": [
+            {
+                "heading": "Impairment . 15. Recovery of control of a Digital Asset",
+                "article_number": "14",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 10,
+                "block_end": 11
+            }
+        ],
+        "Power to make Regulations .. . 6": [
+            {
+                "heading": "Power to make Regulations .. . 6",
+                "article_number": "16",
+                "page_start": 2,
+                "page_end": 3,
+                "block_start": 12,
+                "block_end": 18
+            }
+        ],
+        "Legislative authority": [
+            {
+                "heading": "Legislative authority",
+                "article_number": "2",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 19,
+                "block_end": 20
+            }
+        ],
+        "Application of this Law": [
+            {
+                "heading": "Application of this Law",
+                "article_number": "3",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 21,
+                "block_end": 22
+            }
+        ],
+        "Purpose of this Law": [
+            {
+                "heading": "Purpose of this Law",
+                "article_number": "4",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 23,
+                "block_end": 24
+            }
+        ],
+        "Date of enactment": [
+            {
+                "heading": "Date of enactment",
+                "article_number": "5",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 25,
+                "block_end": 28
+            }
+        ],
+        "Schedules": [
+            {
+                "heading": "Schedules",
+                "article_number": "7",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 29,
+                "block_end": 36
+            }
+        ],
+        "Definition": [
+            {
+                "heading": "Definition",
+                "article_number": "8",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 37,
+                "block_end": 39
+            }
+        ],
+        "Characterisation": [
+            {
+                "heading": "Characterisation",
+                "article_number": "9",
+                "page_start": 4,
+                "page_end": 5,
+                "block_start": 40,
+                "block_end": 43
+            }
+        ],
+        "Control": [
+            {
+                "heading": "Control",
+                "article_number": "10",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 44,
+                "block_end": 51
+            }
+        ],
+        "General rules as to title": [
+            {
+                "heading": "General rules as to title",
+                "article_number": "11",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 52,
+                "block_end": 56
+            }
+        ],
+        "Transfer of title": [
+            {
+                "heading": "Transfer of title",
+                "article_number": "12",
+                "page_start": 5,
+                "page_end": 6,
+                "block_start": 57,
+                "block_end": 63
+            }
+        ],
+        "Exercise of rights upon death, incapacity or insolvency": [
+            {
+                "heading": "Exercise of rights upon death, incapacity or insolvency",
+                "article_number": "13",
+                "page_start": 6,
+                "page_end": 7,
+                "block_start": 64,
+                "block_end": 69
+            }
+        ],
+        "Impairment": [
+            {
+                "heading": "Impairment",
+                "article_number": "14",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 70,
+                "block_end": 78
+            }
+        ],
+        "Recovery of control of a Digital Asset": [
+            {
+                "heading": "Recovery of control of a Digital Asset",
+                "article_number": "15",
+                "page_start": 7,
+                "page_end": 8,
+                "block_start": 79,
+                "block_end": 84
+            }
+        ],
+        "Power to make Regulations": [
+            {
+                "heading": "Power to make Regulations",
+                "article_number": "16",
+                "page_start": 8,
+                "page_end": 9,
+                "block_start": 85,
+                "block_end": 92
+            }
+        ],
+        "Rules of interpretation": [
+            {
+                "heading": "Rules of interpretation",
+                "article_number": "1",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 93,
+                "block_end": 97
+            }
+        ],
+        "Legislation in the DIFC": [
+            {
+                "heading": "Legislation in the DIFC",
+                "article_number": "2",
+                "page_start": 9,
+                "page_end": 10,
+                "block_start": 98,
+                "block_end": 103
+            }
+        ],
+        "Defined terms": [
+            {
+                "heading": "Defined terms",
+                "article_number": "3",
+                "page_start": 10,
+                "page_end": 28,
+                "block_start": 104,
+                "block_end": 144
+            }
+        ]
+    }
+}

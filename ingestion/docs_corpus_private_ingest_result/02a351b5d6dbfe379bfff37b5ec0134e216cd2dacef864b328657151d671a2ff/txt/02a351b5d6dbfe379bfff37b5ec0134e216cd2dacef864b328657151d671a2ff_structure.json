@@ -1,0 +1,872 @@
+{
+    "0": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "DIFC ",
+        "level": 1
+    },
+    "1": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "DIGITAL ASSETS LAW DIFC LAW NO. 2 OF 2024 ",
+        "level": 1
+    },
+    "2": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "TABLE OF CONTENTS ",
+        "level": 1
+    },
+    "3": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PART 1: GENERAL ..... ",
+        "level": 2
+    },
+    "4": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "1. Title ....... ... 1   \n2. Legislative authority . . 1   \n3. Application of this Law .... . 1   \n4. Purpose of this Law ...   \n5. Date of enactment.....   \n6. Commencement..   \n7. Schedules... ",
+        "level": 3
+    },
+    "5": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PART 2: DIGITAL ASSET .... ",
+        "level": 2
+    },
+    "6": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "8. Definition... . 2   \n9. Characterisation ................... 2 ",
+        "level": 3
+    },
+    "7": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PART 3: CONTROL AND TITLE... ",
+        "level": 2
+    },
+    "8": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "10. Control ........ ..... 3   \n11. General rules as to title . .. 3   \n12. Transfer of title .. .. 3   \n13. Exercise of rights upon death, incapacity or insolvency................... ... 4 ",
+        "level": 3
+    },
+    "9": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PART 4: OBLIGATIONS.... ",
+        "level": 2
+    },
+    "10": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "14. Impairment .   \n15. Recovery of control of a Digital Asset .............. ",
+        "level": 3
+    },
+    "11": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PART 5: MISCELLANEOUS.. ",
+        "level": 2
+    },
+    "12": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "16. Power to make Regulations .. . 6 ",
+        "level": 3
+    },
+    "13": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "SCHEDULE 1 . ",
+        "level": 2
+    },
+    "14": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "SCHEDULE 2 ................ ..... 10 ",
+        "level": 2
+    },
+    "15": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "16": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "i ",
+        "level": 5
+    },
+    "17": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "PART 1: GENERAL ",
+        "level": 2
+    },
+    "18": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Title This Law may be cited as the Digital Assets Law. ",
+        "level": 3
+    },
+    "19": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "2. Legislative authority ",
+        "level": 3
+    },
+    "20": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "This Law is made by the Ruler. ",
+        "level": 4
+    },
+    "21": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "3. Application of this Law ",
+        "level": 3
+    },
+    "22": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "(1) This Law and Regulations made pursuant to Article 16 apply in the jurisdiction of the DIFC.   \n(2) To the extent that this Law and any such Regulations apply to any person to whom any provision of the DFSA administered Legislation also applies, this Law and such Regulations shall not exempt such person from any requirement applicable to that person under the DFSA administered Legislation. ",
+        "level": 4
+    },
+    "23": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "4. Purpose of this Law ",
+        "level": 3
+    },
+    "24": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "The purpose of this Law is to provide and clarify legal principles applicable to Digital Assets, as defined in Part 2 of this Law. ",
+        "level": 4
+    },
+    "25": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "5. Date of enactment ",
+        "level": 3
+    },
+    "26": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "This Law is enacted on the date specified in the Enactment Notice in respect of this Law. ",
+        "level": 4
+    },
+    "27": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Commencement ",
+        "level": 3
+    },
+    "28": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "This Law comes into force on the date specified in the Enactment Notice in respect of this Law. ",
+        "level": 4
+    },
+    "29": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "7. Schedules ",
+        "level": 3
+    },
+    "30": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "(1) Schedule 1 contains: ",
+        "level": 4
+    },
+    "31": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "(a) interpretative provisions which apply to this Law; and (b) a list of defined terms used in this Law. ",
+        "level": 4
+    },
+    "32": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "(2) Schedule 2 contains a summary of disapplications and modifications to DIFC Laws which are relevant to Digital Assets. Schedule 2 is without prejudice to: ",
+        "level": 4
+    },
+    "33": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "(a) the potential relevance of other provisions of these and other DIFC Laws to a scenario involving Digital Assets; and   \n(b) future amendments to DIFC Laws. In the event of any inconsistency between Schedule 2 of this Law and any subsequently amended DIFC Law, the latter shall prevail. ",
+        "level": 4
+    },
+    "34": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "35": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1 ",
+        "level": 5
+    },
+    "36": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "PART 2: DIGITAL ASSET ",
+        "level": 2
+    },
+    "37": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "8. Definition ",
+        "level": 3
+    },
+    "38": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "A thing is a Digital Asset if: ",
+        "level": 4
+    },
+    "39": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(a) it exists as a notional quantity unit manifested by the combination of the active operation of software by a network of participants and network-instantiated data;   \n(b) it exists independently of any particular person and legal system; and   \n(c) the thing is not capable of duplication and use or consumption of the thing by one person or specific group of persons necessarily prejudices the use or consumption of that thing by one or more other persons. ",
+        "level": 4
+    },
+    "40": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "9. Characterisation ",
+        "level": 3
+    },
+    "41": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "A Digital Asset is intangible property and is neither a thing in possession nor a thing in action. ",
+        "level": 4
+    },
+    "42": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "43": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "PART 3: CONTROL AND TITLE ",
+        "level": 2
+    },
+    "44": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "10. Control ",
+        "level": 3
+    },
+    "45": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(1) For the purpose of this Law, a person has control of a Digital Asset if: ",
+        "level": 4
+    },
+    "46": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) subject to Articles 10(2) and 10(3), the Digital Asset, or the relevant protocol or system, confers on that person: ",
+        "level": 4
+    },
+    "47": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(i) the exclusive ability to prevent others from obtaining substantially all the benefit from the Digital Asset;   \n(ii) the ability to obtain substantially all the benefit from the Digital Asset; and   \n(iii) the exclusive ability to transfer the abilities in Articles 10(1)(a)(i) and 10(1)(a)(ii) to another person (a ‘change of control’); and ",
+        "level": 4
+    },
+    "48": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(b) the Digital Asset, or the relevant protocols or system, allows that person to identify itself as having the abilities set out in Article 10(1)(a). ",
+        "level": 4
+    },
+    "49": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(2) A change of control includes the replacement, modification, destruction, cancellation, or elimination of a Digital Asset, and the resulting and corresponding derivative creation of a new Digital Asset which is subject to the control of another person. ",
+        "level": 4
+    },
+    "50": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "3) An ability for the purposes of Article 10(1)(a) need not be exclusive if and to the extent that: ",
+        "level": 4
+    },
+    "51": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) the Digital Asset, or the relevant protocol or system, limits the use of, or is programmed to make changes to, the Digital Asset, including change or loss of control of the Digital Asset; or   \n(b) the person in control has agreed (expressly, by implication or by conduct) to sharing that ability with one or more other persons. ",
+        "level": 4
+    },
+    "52": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "11. General rules as to title ",
+        "level": 3
+    },
+    "53": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(1) Subject to Articles 12 and 13, a person (or a group of persons acting together) acquires an original legal title to a Digital Asset when he obtains control of it and has an intention to exercise control over it or a general intention to exercise control over Digital Assets in the Address in which the Digital Asset is located. ",
+        "level": 4
+    },
+    "54": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(2) In the absence of evidence showing otherwise, a person (or a group of persons acting together) who has control of a Digital Asset is presumed to have the superior legal title to it. ",
+        "level": 4
+    },
+    "55": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(3) For the purposes of Article 11(1), in an agency relationship within the meaning of Part 12 of the Contract Law, if the agent (A) within the course of his agency has control of a Digital Asset on behalf of the agent’s principal (P) and intends to exercise control of it on P’s behalf, then P holds legal title to the Digital Asset. ",
+        "level": 4
+    },
+    "56": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(4) Once a person (or group of persons acting together) acquires title to a Digital Asset that person (or group of persons acting together) remains the owner (or co-owners) of it and title to the Digital Asset shall not cease to exist until the title is either transferred or the Digital Asset is destroyed. ",
+        "level": 4
+    },
+    "57": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "12. Transfer of title ",
+        "level": 3
+    },
+    "58": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(1) Subject to Article 13, an inter vivos transfer of title to a Digital Asset from the transferor (a person or group of persons acting together) to the transferee (a person or group of persons acting together) shall occur if the following conditions are satisfied: ",
+        "level": 4
+    },
+    "59": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) there is a change of control of the Digital Asset to the transferee; and ",
+        "level": 4
+    },
+    "60": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "61": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "3 ",
+        "level": 5
+    },
+    "62": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(b) the transferor intends to transfer title to the transferee. ",
+        "level": 4
+    },
+    "63": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(2) Where a Digital Asset is transferred by one person (or a group of persons acting together) to another (or others together) by way of a gift, it is presumed that the intention of the parties is that title to the Digital Asset should be transferred unless a contrary intention can be proven. ",
+        "level": 4
+    },
+    "64": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "13. Exercise of rights upon death, incapacity or insolvency ",
+        "level": 3
+    },
+    "65": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(1) Subject to Article 13(2), if, following the death, incapacity or insolvency of a natural person (A), another person (or persons acting together) (B) is entitled to legal title or control of a Digital Asset to which the natural person (A) had legal title prior to such death, incapacity or insolvency and that other person’s (B’s) legal title or control of that Digital Asset arises by operation of the law applicable to such death, incapacity or insolvency (including the decision of any court or other legal authority), then: ",
+        "level": 4
+    },
+    "66": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(a) the other person (B) has the power to exercise all such rights over that Digital Asset as are conferred upon that person (B) by the law applicable to the death, incapacity or insolvency (including the decision of any court or other legal authority); and   \n(b) the other person (B) transfers title to that Digital Asset to a third party (C) if Article 12(1)(a) and Article 12(1)(b) are satisfied, with the third party (C) being the transferee and the other person (B) being the transferor for the purpose of Article 12(1). ",
+        "level": 4
+    },
+    "67": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(2) In the event of conflict between Article 13(1) and any provision of the Trust Law or Foundations Law, the provision of the Trust Law or Foundations Law (as the case may be) shall prevail. ",
+        "level": 4
+    },
+    "68": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "69": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "PART 4: OBLIGATIONS ",
+        "level": 2
+    },
+    "70": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "14. Impairment ",
+        "level": 3
+    },
+    "71": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(1) For the purpose of this Article 14: ",
+        "level": 4
+    },
+    "72": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) a person has an interest in a Digital Asset if that person has a legal title to it;   \n(b) a person’s (A’s) impairment of the use of a Digital Asset in which another person (B) has an interest is reckless if: (i) person A is aware that a risk of impairment exists or may exist and unreasonably goes on to take that risk; and (ii) if person A also has an interest in the Digital Asset, A is aware of a risk that B has an interest that is superior to A’s; ",
+        "level": 4
+    },
+    "73": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(c) a person’s (A’s) impairment of the use of a Digital Asset is not intentional unless: ",
+        "level": 4
+    },
+    "74": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(i) person A knows that another person (B) has an interest in the Digital Asset; and (ii) if person A also has an interest in the Digital Asset, A knows that person B has an interest that is superior to A’s. ",
+        "level": 4
+    },
+    "75": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(2) A person (A) is liable to another person (B) if the following conditions are satisfied: ",
+        "level": 4
+    },
+    "76": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) the other person (B) has an interest in the Digital Asset; (b) the person (A) impairs the use of the Digital Asset to which the other person (B) is entitled; (c) the person’s (A’s) impairment of the use of the Digital Asset is intentional or reckless; and (d) the person’s (A’s) impairment causes loss to the other person (B). ",
+        "level": 4
+    },
+    "77": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(3) It is a defence to an impairment if: ",
+        "level": 4
+    },
+    "78": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) the other person (B) consents to the impairment; or   \n(b) a reasonable person in the other person’s (B’s) position is likely to have consented to the impairment.   \n(4) A co-owner (A) may recover under this Article 14 proportionately according to that co-owner’s (A’s) interest in the Digital Asset.   \n(5) A co-owner may bring an action under this Article 14 against a fellow co-owner of the same Digital Asset.   \n(6) Where a person has been found liable to one claimant under Part 3 of the Law of Obligations and subsequently a second claimant is found to have a superior legal title to the Digital Asset, which was the subject of the claim, the first claimant is liable to account to the second claimant. ",
+        "level": 4
+    },
+    "79": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "15. Recovery of control of a Digital Asset ",
+        "level": 3
+    },
+    "80": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "A person (B) is entitled to recover control of a Digital Asset to which he has a legal title if: ",
+        "level": 4
+    },
+    "81": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) the Digital Asset is in the control of another person or group of persons (A); and (b) A has no legal title to the Digital Asset or has a legal title that is inferior to B’s. ",
+        "level": 4
+    },
+    "82": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "83": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "5 ",
+        "level": 5
+    },
+    "84": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "PART 5: MISCELLANEOUS ",
+        "level": 2
+    },
+    "85": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "16. Power to make Regulations ",
+        "level": 3
+    },
+    "86": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(1) The Board of Directors of the DIFCA may, if it considers it necessary or desirable to further the purpose of this Law or facilitate its administration, make Regulations extending, excluding, waiving or modifying the provisions of: ",
+        "level": 4
+    },
+    "87": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(a) this Law;   \n(b) any Regulations made under this Law;   \n(c) any other Law, and Regulations made thereunder, in relation to its or their application to Digital Assets. ",
+        "level": 4
+    },
+    "88": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(2) Without limiting the generality of Article 16(1), such Regulations may include: ",
+        "level": 4
+    },
+    "89": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(a) the imposition of fines for a contravention of any Law or Regulation in Article 16(1)(a) to (b); and   \n(b) procedures relating to the imposition and recovery of such fines. ",
+        "level": 4
+    },
+    "90": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "91": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "6 ",
+        "level": 5
+    },
+    "92": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "SCHEDULE 1 INTERPRETATION ",
+        "level": 2
+    },
+    "93": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "1. Rules of interpretation ",
+        "level": 3
+    },
+    "94": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(1) In this Law, unless otherwise provided, a reference to: ",
+        "level": 4
+    },
+    "95": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(a) a statutory provision includes a reference to the statutory provision as amended or re-enacted from time to time;   \n(b) a “person” includes any natural person, body corporate or body unincorporate, including a company, partnership, unincorporated association, government or state.   \n(c) an obligation to publish or cause to be published a particular Document shall, unless expressly provided otherwise in this Law, include publishing or causing to be published in Printed or electronic form;   \n(d) a “day” means a calendar day, unless expressly stated otherwise. If an obligation falls on a calendar day which is either a Saturday, Sunday or an official public holiday, the obligation shall take place on the next calendar day which is a business day;   \n(e) a “week” shall mean a calendar week or seven (7) days, whichever is applicable in the circumstances;   \n(f) a “month” shall mean a period of thirty (30) days;   \n(g) a “year” shall mean period of three hundred and sixty five (365) days and a “calendar year” shall mean a year of the Gregorian calendar;   \n(h) a reference to the masculine gender includes the feminine and vice versa;   \n(i) the singular shall include the plural and vice versa;   \n(j) \"dollar\" or \" $\" \\$ \"$ is a reference to United States Dollars unless the contrary intention appears; and   \n(k) this Law includes any Regulations made under this Law. ",
+        "level": 4
+    },
+    "96": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(2) The headings in this Law shall not affect its interpretation. ",
+        "level": 4
+    },
+    "97": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(3) A reference in this Law to a Part, Chapter, Article or Schedule by number only, and without further identification, is a reference to the Part, Chapter, Article or Schedule of that number in this Law.   \n(4) A reference in an Article or other provision of this Law to an Article by number or letter only, and without further identification, is a reference to the Article of that number or letter contained in the Article or other provision of this Law in which that reference occurs.   \n(5) Unless the context otherwise requires, where this Law refers to an enactment, the reference is to that enactment as amended from time to time, and includes a reference to that enactment as extended or applied by or under another enactment, including any other provision of that enactment.   \n(6) References in this Law to writing, filing, instrument or certificate include any mode of communication that preserves a record of the information contained therein and is capable of being reproduced in tangible form, including electronic means. ",
+        "level": 4
+    },
+    "98": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "2. Legislation in the DIFC ",
+        "level": 3
+    },
+    "99": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "References to Legislation and Guidance in this Law shall be construed in accordance with the following provisions: ",
+        "level": 4
+    },
+    "100": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(a) Federal Law is law made by the federal government of the United Arab Emirates; ",
+        "level": 4
+    },
+    "101": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "102": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "7 ",
+        "level": 5
+    },
+    "103": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(b) Dubai Law is law made by the Ruler, as applicable in the Emirate of Dubai;   \n(c) DIFC Law is law made by the Ruler (including, by way of example, this Law), as applicable in the DIFC;   \n(d) this Law is the Digital Assets Law, DIFC Law No. 2 of 2024 made by the Ruler;   \n(e) the Regulations are Legislation made by the Board of Directors of the DIFCA under this Law and are binding in nature;   \n(f) the Enactment Notice is the enactment notice pursuant to which this Law is brought into force; and   \n(g) Guidance is indicative and non-binding and may comprise (i) guidance made and issued by the Board of Directors of the DIFCA under this Law or the Regulations; and (ii) any standard or code of practice issued by the Board of Directors of the DIFCA which has not been incorporated into the Regulations. ",
+        "level": 4
+    },
+    "104": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "3. Defined terms ",
+        "level": 3
+    },
+    "105": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "In this Law, unless the context indicates otherwise, the defined terms listed in the table below shall have the corresponding meanings. ",
+        "level": 4
+    },
+    "106": {
+        "type": "table",
+        "page_idx": 9,
+        "text": "<table><tr><td colspan=\"1\" rowspan=\"1\">Terms</td><td colspan=\"1\" rowspan=\"1\">Definitions</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Address</td><td colspan=\"1\" rowspan=\"1\">means a a string of data that is unique to a participant on a Distributed Ledgerand is shared with other participants. A participant's Address can be used bythe recipient of a transaction to confirm the authenticity of the transaction.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Board of Directors of theDIFCA</td><td colspan=\"1\" rowspan=\"1\">means the Board of Directors of the DIFCA appointed by the President fromtime to time.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Contract Law</td><td colspan=\"1\" rowspan=\"1\">means the Contract Law, DIFC Law No. 6 of 2004 (as amended).</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DFSA</td><td colspan=\"1\" rowspan=\"1\">means the Dubai Financial Services Authority.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFCA</td><td colspan=\"1\" rowspan=\"1\">means the entity established as the DIFC Authority under Dubai Law No. 5of 2021 or, where permitted, its delegate.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC</td><td colspan=\"1\" rowspan=\"1\">means the Dubai International Financial Centre established by Federal DecreeNo. 35 of 2004.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Digital Asset</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to it in Part 2 of this Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Distributed Ledger</td><td colspan=\"1\" rowspan=\"1\">means a digital store of information or data shared amongst a network ofcomputers, whereby participants approve and eventually synchroniseadditions to the ledger through an agreed consensus mechanism.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Document</td><td colspan=\"1\" rowspan=\"1\">includes summons, notice, statement, return, account, order and other legalprocess, and registers.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Foundations Law</td><td colspan=\"1\" rowspan=\"1\">Foundations Law, DIFC Law No. 3 of 2018.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Guidance</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in Article 2 of this Schedule.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">network-instantiated data</td><td colspan=\"1\" rowspan=\"1\">data that is part of a system consisting of two or more interconnectedcomputing devices that store and communicate information.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">person</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in Article 1 of this Schedule.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Law of Obligations</td><td colspan=\"1\" rowspan=\"1\">means the Law of Obligations, DIFC Law No. 5 of 2005.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Legislation</td><td colspan=\"1\" rowspan=\"1\">includes laws and regulations or rules made under laws.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Operating Law</td><td colspan=\"1\" rowspan=\"1\">means the Operating Law, DIFC Law No. 7 of 2018.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">President</td><td colspan=\"1\" rowspan=\"1\">the president of the DIFC appointed by a decree of the Ruler pursuant toDubai Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Ruler</td><td colspan=\"1\" rowspan=\"1\">means the Ruler of the Emirate of Dubai.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Trust Law</td><td colspan=\"1\" rowspan=\"1\">means Trust Law, DIFC Law No. 4 of 2018.</td></tr></table>",
+        "level": 4
+    },
+    "107": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "108": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "8 ",
+        "level": 5
+    },
+    "109": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "110": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "SCHEDULE 2 DISSAPPLICATIONS AND MODIFICATIONS OF DIFC LAWS ",
+        "level": 2
+    },
+    "111": {
+        "type": "table",
+        "page_idx": 11,
+        "text": "<table><tr><td>Provision</td><td>Description of disapplication and modification1</td></tr><tr><td colspan=\"3\">Contract Law DIFC Law No. 6 of 2004</td></tr><tr><td>Sch 1, para 3 (\"Defined terms\")</td><td>New definitions:</td></tr><tr><td></td><td>Code: a language used to give instructions to computers.\" \"Coded Contract: a contract in which all of the contractual terms are</td></tr><tr><td></td><td>defined in, and performed automatically by, Coded Terms and no Natural Language version of the agreement exists.\"</td></tr><tr><td></td><td>\"Coded Term: a contractual term that is defined in and performed</td></tr><tr><td></td><td>automatically by the Code of a Computer Program.\"</td></tr><tr><td></td><td>Computer Program: a collection of instructions written in Code that are executed by a computer.\"</td></tr><tr><td></td><td>Credit Balance: includes a contractual claim for a Digital Asset that is</td></tr><tr><td></td><td>Money.\" currency: includes a Digital Asset that is Money.\"</td></tr><tr><td></td><td>Digital Asset: has the meaning given in Article 8 of the Digital Assets</td></tr><tr><td></td><td>Law.\" \"Digital Assets Law: means the Digital Assets Law DIFC Law No. 2 of</td></tr><tr><td></td><td>2024.\" \"Hybrid Contract: a contract, some terms of which are defined in Natural Language and another or others of which are defined in a Coded Term or</td></tr><tr><td></td><td>terms. Some or all of the contractual obligations are performed automatically by Code.\" monetary obligation: includes an obligation to pay in a Digital Asset that</td></tr><tr><td></td><td>is Money.\"</td></tr><tr><td></td><td>Money: something that functions as a medium of exchange, store of value. and unit of account, and includes a Digital Asset that satisfies these three requirements.\"</td></tr><tr><td></td><td>\"Natural Language: language that has developed in the usual way as a method of communicating between people.\"</td></tr><tr><td>Art 37</td><td>\"sum: includes an amount in a Digital Asset that is Money.\"</td></tr><tr><td></td><td>Modified to:</td></tr><tr><td></td><td>\"(1) A party (A) may only avoid a contract with another party (B) for mistake if, when the contract was concluded:</td></tr><tr><td>(a)</td><td>the mistake was of such importance that a reasonable person in the same situation as the party (A) would not have concluded it at all if</td></tr><tr><td>(b)</td><td>the true state of affairs had been known; and Article 37(2) is satisfied.</td></tr><tr><td></td><td>(2) This Article 37(2) is satisfied if:</td></tr><tr><td>(a)</td><td>the other party (B) made the same mistake:</td></tr><tr><td></td><td></td></tr><tr><td></td><td>(b) the other party (B) was also mistaken:</td></tr><tr><td colspan=\"1\" rowspan=\"3\"></td><td colspan=\"1\" rowspan=\"2\">(c)     the other party (B) caused the mistake:(d)     the other party (B) knew or ought to have known of the mistakeand it was contrary to reasonable commercial standards of fairdealing to leave the mistaken party in error:(e)     if a Coded Term is accepted by a Computer Program without any</td></tr><tr><td colspan=\"1\" rowspan=\"1\">(e)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">conscious human decision at the time of acceptance and it iscontrary to commercial standards of fair dealing to bind the party(A) to the contract; or(f)     the other party had not at the time of avoidance acted in reliance onthe contract.(3) However, a party may not avoid the contract if:(a)     it was grossly negligent in committing the mistake; or(b)     the mistake relates to a matter in regard to which the risk ofmistake was assumed or, having regard to the circumstances,should be borne by the mistaken party.</td></tr><tr><td colspan=\"1\" rowspan=\"3\">Art 49</td><td colspan=\"1\" rowspan=\"1\">Modified to:(1) A contract shall be interpreted according to the common intention ofthe parties.(2) Subject to Article 49(3). if such an intention cannot be established, thecontract shall be interpreted according to the meaning that reasonablepersons of the same kind as the parties give to it in the same circumstances.(3) As regards a Hybrid Contract or Coded Contract, if an intention under</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Article 49(1) cannot be established, the contract shall be interpretedaccording to the meaning that a reasonable person with a competentunderstanding of the relevant Code and having regard to the circumstances</td></tr><tr><td colspan=\"1\" rowspan=\"1\">under Article 51 shall give to it.\"</td></tr><tr><td colspan=\"1\" rowspan=\"5\">Art 50</td><td colspan=\"1\" rowspan=\"1\">Modified to:(1) The statements and conduct of a party shall be interpreted according tothat party's intention if the other party knew or could not have been unawareof that intention.(2) Subject to Article 50(3), if Article 50(1) is not applicable, suchstatements and other conduct shall be interpreted according to the meaningthat a reasonable person of the same kind as the other party would give to itin the circumstances.(3) As regards a Hybrid Contract or Coded Contract, if Article 50(1) is not</td></tr><tr><td colspan=\"1\" rowspan=\"1\">applicable, such statements and other conduct shall be interpreted according</td></tr><tr><td colspan=\"1\" rowspan=\"1\">to the meaning that a reasonable person with a competent understanding of</td></tr><tr><td colspan=\"1\" rowspan=\"1\">the relevant Code and having regard to the circumstances under Article 51</td></tr><tr><td colspan=\"1\" rowspan=\"1\">shall give to it.\"</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Art 51(e)</td><td colspan=\"1\" rowspan=\"1\">Modified to:\"the meaning commonly given to terms and expressions in the tradeconcerned and in the case of a Coded Term, the meaning given by areasonable person with a competent understanding of the relevant Code:\"</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Art 52</td><td colspan=\"1\" rowspan=\"1\">Modified to:</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Terms (including Coded Terms) and expressions (including expressions inCode shall be interpreted in the light of the whole contract or statement inwhich they appear.\"</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Art 124</td><td colspan=\"1\" rowspan=\"1\">Modified by adding Art 124(5):In this Part, a Computer Program per se is not to be regarded as an 'agent'.</td></tr><tr><td colspan=\"3\" rowspan=\"1\">Implied Terms in Contracts and Unfair Terms Law DIFC Law No. 6 of 2005</td></tr><tr><td colspan=\"1\" rowspan=\"6\">Sch 1, para 3(\"Defined Terms\")</td><td colspan=\"1\" rowspan=\"1\">New definitions:\"Constitutively Linked\": A Digital Asset is Constitutively Linked with</td></tr><tr><td colspan=\"2\" rowspan=\"1\">another asset where the Digital Asset confers a right to the (other) asset, and</td></tr><tr><td colspan=\"2\" rowspan=\"1\">where the right to the other asset can only be transferred if the conditions</td></tr><tr><td colspan=\"2\" rowspan=\"1\">under Article 12 or 13 of the Digital Assets Law are satisfied.\"\"Digital Asset: Has the meaning given in Article 8 of the Digital AssetsLaw.\"\"Digital Assets Law: Means the Digital Assets Law DIFC Law No. 2 of2024.\"\"Possession: In relation to \"possession\" of a Digital Asset, references in this</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Law to \"possession\" denote Control within the meaning of Article 10 of the</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Digital Assets Law.\"</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Art 21</td><td colspan=\"1\" rowspan=\"1\">Modified to:Subject to Article 23 (Undivided shares in property forming part of a bulk),where there is a contract for the sale of unascertained property no title in theproperty is transferred to the transferee unless and until the property isascertained, save that this Article 21 shall not apply if the property is aDigital Asset.\"</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Art 23(1)</td><td colspan=\"1\" rowspan=\"1\">Modified to:(1) This Article 23 applies to a contract for the sale of a specified quantityof unascertained property if the following terms are met:(a)     the property or some of it forms part of a bulk which is identifiedeither in the contract or by subsequent agreement between theparties;(b)     the transferee has paid the price for some or all of the propertywhich is the subject of the contract and which forms part of thebulk; and(c)     the property is not a Digital Asset.\"</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Art 24(1) &amp; 24(4)</td><td colspan=\"1\" rowspan=\"1\">Modified to:\"(1) Subject to Article 24(4), a person who has become an owner incommon of a bulk by virtue of Article 23 ...·(4) This Article 24 shall not apply to property that is a Digital Asset.\"</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Art 36(1)(c), 36(1)(e),36(1)(g)</td><td colspan=\"1\" rowspan=\"1\">Modified to: This Part does not apply to:·.·</td></tr></table>",
+        "level": 4
+    },
+    "112": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "113": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "10 ",
+        "level": 5
+    },
+    "114": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "Modifications to legislation are underlined by inserting the underlined text and deleting the struck through text. ",
+        "level": 4
+    },
+    "115": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "116": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "11 ",
+        "level": 5
+    },
+    "117": {
+        "type": "text",
+        "page_idx": 13,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "118": {
+        "type": "text",
+        "page_idx": 13,
+        "text": "12 ",
+        "level": 5
+    },
+    "119": {
+        "type": "table",
+        "page_idx": 14,
+        "text": "<table><tr><td>Provision</td><td></td><td>Description of disapplication and modification1</td></tr><tr><td></td><td>(c) or interest to any intellectual property: (e)</td><td>any contract so far as it relates to the creation, transfer or termination of a right or interest in any intellectual property, unless a Digital Asset is Constitutively Linked to or evidences that right any contract so far as it relates to the creation or transfer of securities or of any right or interest in securities, unless the securities are Digital Assets or a Digital Asset is Constitutively Linked to or evidences any right or interest in securities:</td></tr><tr><td></td><td>Modified to: \"(1) This Article applies as between contracting parties where one of them any contract term: (a) (b) (i) (ii) (c) arbitration, except in so far as (in any of the cases mentioned above in this subsection) the contract term satisfies the requirement of reasonableness.\"</td><td>(Party A) deals on the other's (Party B's) written standard terms of business. (2) As against that party (Party A), the other (Party B) cannot by reference to when himself in breach of contract, exclude or restrict any liability of his in respect of the breach; or claim to be entitled: to render a contractual performance substantially different from that which was reasonably expected of him, or in respect of the whole or any part of his contractual obligation, to render no performance at all; or compel that party (Party A) to seek legal recourse only by way of</td></tr><tr><td>Sch 1, Art 3 (\"Defined terms\")</td><td>Insolvency Law DIFC Law No. 1 of 2019 New definitions:</td><td>Digital Asset: has the meaning given in Article 8 of the Digital Assets Law. \"Digital Assets Law: means the Digital Assets Law DIFC Law No. 2 of</td></tr><tr><td>Art 94(1)</td><td>every description of property wherever situated and also obligations and every description of interest, whether present or future or vested or contingent, arising out of, or incidental to, property.\" \"When a winding up order has been made, or where a provisional Liquidator</td><td>\"property: includes money, goods, Digital Assets, things in action, land and</td></tr><tr><td>Provision</td><td colspan=\"2\">Description of disapplication and modification1</td></tr><tr><td colspan=\"3\">Insolvency Regulations 13 June 2019</td></tr><tr><td>Reg 1.1.3</td><td colspan=\"2\">New definitions:</td></tr><tr><td></td><td colspan=\"2\">currency: includes a Digital Asset that is Money.\"</td></tr><tr><td></td><td colspan=\"2\">\"Digital Asset: Has the meaning given in Article 8 of the Digital Assets Law.\"</td></tr><tr><td>2024.\"</td><td colspan=\"2\">\"Digital Assets Law: means the Digital Assets Law DIFC Law No. 2 of</td></tr><tr><td></td><td colspan=\"2\">Modification:</td></tr><tr><td></td><td colspan=\"2\">\"Money: something that functions as a medium of exchange, store of value. and unit of account, and includes (1) a Digital Asset that satisfies these three requirements, and (2) a money claim (including a balance credited to an account or arising in connection with a close out netting arrangement) in any currency.\"</td></tr><tr><td>Reg 6.26</td><td colspan=\"2\">Modified to:</td></tr><tr><td></td><td colspan=\"2\">\"6.26 Debt in foreign currency and a Digital Asset (1) For the purpose of Proving a Debt incurred or payable in a currency other</td></tr><tr><td></td><td colspan=\"2\">than US Dollars or incurred or payable in a Digital Asset that is Money, the amount of the Debt shall be converted into US Dollars at the official exchange rate prevailing on the date when the Company went into Liquidation.</td></tr><tr><td></td><td colspan=\"2\">(2) 'The official exchange rate' is the middle exchange rate on the New York Foreign Exchange Market at the close of business, as published for the date in question. In the absence of any such published rate, it is such rate as the Court reasonably determines.\"</td></tr><tr><td>Reg 6.47</td><td colspan=\"2\">Modified to:</td></tr><tr><td></td><td colspan=\"2\">\"6.47.1 Debts other than Debts due to Preferential Creditors, secured creditors and trust beneficiaries rank equally between themselves in the winding up and, after the Debts due to Preferential Creditors, secured creditors and trust beneficiaries shall be paid in full unless the assets are insufficient for meeting them, in which case they abate in equal proportions</td></tr><tr><td></td><td colspan=\"2\">between themselves. 6.47.2 Regulation 6.47.1 applies whether or not the Company is unable to</td></tr><tr><td></td><td colspan=\"2\">pay its Debts.</td></tr><tr><td></td><td colspan=\"2\">6.47.3 Debts that are Digital Assets or Digital Asset entitlements and which are held on trust on an unallocated commingled basis for the benefit of more</td></tr><tr><td></td><td colspan=\"2\">than one party shall be paid in full unless the assets held on such trust are insufficient for meeting them, in which case they abate in equal proportions as between such beneficiaries.\"</td></tr><tr><td>Law of Damages and Remedies DIFC Law No. 7 of 2005</td><td colspan=\"2\"></td></tr><tr><td colspan=\"3\">Sch 1, para 3 New definitions:</td></tr><tr><td>(\"Defined Terms\")</td><td colspan=\"2\"></td></tr><tr><td></td><td colspan=\"2\">Credit Balance: includes a contractual claim for a Digital Asset that is money.\"</td></tr><tr><td></td><td colspan=\"2\">\"currency: includes a Digital Asset that is Money.\"</td></tr><tr><td></td><td colspan=\"2\">\"Digital Asset: has the meaning given in Article 8 of the Digital Assets Law.\"</td></tr><tr><td>Provision</td><td colspan=\"2\">Description of disapplication and modification1</td></tr><tr><td rowspan=\"8\">Article 35</td><td colspan=\"2\">\"Digital Assets Law: means the Digital Assets Law DIFC Law No. 2 of 2024.\"</td></tr><tr><td colspan=\"2\">Monetary Obligation: includes an obligation to pay in a Digital Asset that</td></tr><tr><td colspan=\"2\">is money.\" \"Money: something that functions as a medium of exchange, store of value.</td></tr><tr><td colspan=\"2\">and unit of account, and includes a Digital Asset that satisfies these three requirements.\"</td></tr><tr><td colspan=\"2\">\"sum: includes an amount in a Digital Asset that is Money or analogous thereto.\"</td></tr><tr><td colspan=\"2\">Modified to:</td></tr><tr><td colspan=\"2\">\"(g) rescission:</td></tr><tr><td colspan=\"2\">(h) rectification; or</td></tr><tr><td colspan=\"3\">(i) any other order that the Court thinks fit.\"</td></tr><tr><td>New article 41A</td><td colspan=\"2\">Rescission</td></tr><tr><td></td><td colspan=\"2\">(1) Subject to Article 41A(2) and 41A(3), the Court may order that a gift or transaction be rescinded on the basis of:</td></tr><tr><td>(a) (b)</td><td colspan=\"2\">mistake within the meaning of Article 37 of the Contract Law:</td></tr><tr><td>(c)</td><td colspan=\"2\">fraud within the meaning of Article 40 of the Contract Law:</td></tr><tr><td>(d)</td><td colspan=\"2\">threat within the meaning of Article 41 of the Contract Law:</td></tr><tr><td></td><td colspan=\"2\">misrepresentation within the meaning of Articles 29 and 30 of the</td></tr><tr><td>(e)</td><td colspan=\"2\">Law of Obligations: or breach by a fiduciary of the no-conflict and no-profit rules (as</td></tr><tr><td></td><td colspan=\"2\">provided in paragraphs 2 and 3 respectively of Schedule 3 of the Law of Obligations).</td></tr><tr><td></td><td colspan=\"2\">(2) The power of the court to make any of the above orders is without prejudice to the rights contained in the Trust Law, the Contract Law, and the</td></tr><tr><td></td><td colspan=\"2\">Law of Obligations in respect of setting aside or avoiding a gift or transaction.</td></tr><tr><td>(a)</td><td colspan=\"2\">(3) Rescission may be refused on the basis of:</td></tr><tr><td>(b)</td><td colspan=\"2\">affirmation of the gift or transaction by the counterparty:</td></tr><tr><td>(c)</td><td colspan=\"2\">undue delay:</td></tr><tr><td>(d)</td><td colspan=\"2\">prejudice to third party rights; or</td></tr><tr><td></td><td colspan=\"2\">impracticability of restoring the parties as closely as reasonably</td></tr><tr><td></td><td colspan=\"2\">possible to their pre-transaction or pre-gift positions. (4) A rescission order refers to an order that restores the parties as closely as</td></tr><tr><td>New article 41B</td><td colspan=\"2\">reasonably possible to the position as if the gift or transaction had not been made.</td></tr><tr><td></td><td colspan=\"2\">Rectification (1) A court may order rectification of a contract to reflect the intended</td></tr><tr><td></td><td colspan=\"2\">agreement of the parties if there has been a relevant common mistake or relevant unilateral mistake at the time the contract was formed.</td></tr><tr><td>(a)</td><td colspan=\"2\">(2) A relevant common mistake exists where: the parties had a common intention, whether or not amounting to</td></tr><tr><td></td><td colspan=\"2\">an agreement, in respect of a particular matter in the contract:</td></tr><tr><td>(b)</td><td colspan=\"2\">there was an outward expression of accord:</td></tr><tr><td>Provision</td><td colspan=\"2\">Description of disapplication and modification1</td></tr><tr><td></td><td>(c)</td><td>the intention continued at the time of the execution of the contract: and</td></tr><tr><td></td><td>(d)</td><td>by mistake, the contract did not reflect that common intention and all parties made a mistake about the contract not reflecting such common intention.</td></tr><tr><td></td><td>(3) A relevant unilateral mistake exists where:</td><td></td></tr><tr><td></td><td>(a) rectified:</td><td>one party (A) erroneously believed that the document sought to be</td></tr><tr><td></td><td>(i)</td><td>contained a particular term or provision: or</td></tr><tr><td></td><td>(ii)</td><td>did not contain a particular term or provision which, mistakenly, it did contain.</td></tr><tr><td></td><td></td><td>the other party (B), was aware (in that B had actual knowledge. wilfully shut his eyes to the obvious or wilfully and recklessly failed to make such inquiries as an honest and reasonable person</td></tr><tr><td></td><td></td><td>would make) of the omission or the inclusion and that it was due to a mistake on the part of A:</td></tr><tr><td></td><td>(c) (d)</td><td>B has not drawn the mistake to the attention of A; and</td></tr><tr><td></td><td></td><td>B takes advantage of the mistake for his own benefit.</td></tr><tr><td>(a)</td><td>(4) Rectification may be refused if:</td><td></td></tr><tr><td></td><td>contract;</td><td>it would or might substantially prejudice a non-party to the</td></tr><tr><td></td><td></td><td>there has been unreasonable delay in pursuing the remedy; or</td></tr><tr><td></td><td>(c)</td><td>it is otherwise inequitable to award rectification.</td></tr><tr><td>New article 41C</td><td></td><td>(5) Rectification of a contract has retrospective effect, such that the rectification is effective from the time the contract was formed.</td></tr><tr><td></td><td>Action for the agreed sum</td><td></td></tr><tr><td></td><td>unless:</td><td>(1) A party (A) may bring an action for the agreed sum under a contract,</td></tr><tr><td></td><td>(a) and</td><td>there is anticipatory non-performance within the meaning of Article 88 of the Contract Law by the contractual counterparty (B):</td></tr><tr><td></td><td>(b)</td><td>A has no legitimate interest in performing the contract following B's anticipatory non-performance.</td></tr><tr><td></td><td>and has no duty to mitigate his loss.</td><td>(2) A party bringing an action for an agreed sum is not required to prove loss</td></tr><tr><td></td><td>Law of Obligations DIFC Law No. 5 of 2005</td><td></td></tr><tr><td>Sch 1, para 3 (\"Definitions\")</td><td>New definitions:</td><td></td></tr><tr><td></td><td></td><td>credit: includes a contractual claim for a Digital Asset that is Money. \"Digital Asset: has the meaning given in Article 8 of the Digital Assets Law.\"</td></tr><tr><td></td><td></td><td>\"Digital Assets Law: means the Digital Assets Law DIFC Law No. 2 of</td></tr><tr><td></td><td>2024.\"</td><td></td></tr><tr><td></td><td></td><td>\"Electronic Trade Document: has the meaning given in Article 153B of this</td></tr><tr><td></td><td colspan=\"2\">\"Monetary Obligation: includes an obligation to pay in a Digital Asset that is money.\" Money: something that functions as a medium of exchange, store of value,</td></tr><tr><td></td><td colspan=\"2\">and unit of account, and includes a Digital Asset that satisfies these three requirements.\"</td></tr><tr><td></td><td colspan=\"2\">\"Negotiable Instrument: has the meaning given in Article 77(1).\"</td></tr><tr><td></td><td colspan=\"2\">\"sum: includes an amount in a Digital Asset that is money.\"</td></tr><tr><td>Art 30</td><td colspan=\"2\">Article 30 is modified to:</td></tr><tr><td></td><td colspan=\"2\">\"30. Liability</td></tr><tr><td></td><td colspan=\"2\">A person is liable for misrepresentation to a representee if:</td></tr><tr><td></td><td colspan=\"2\">he is the representor in relation to a misrepresentation;</td></tr><tr><td></td><td></td><td>the representee has entered into a contract with the representor after</td></tr><tr><td></td><td>the misrepresentation influences the representee to enter into the</td><td>the misrepresentation has been made;</td></tr><tr><td></td><td colspan=\"2\">contract with the representor or affects the terms upon which he agrees to enter into it; and</td></tr><tr><td>Art 42</td><td colspan=\"2\">the representee suffers loss as a result of entering into the contract with the representor.\"</td></tr><tr><td></td><td colspan=\"2\">Modified to:</td></tr><tr><td></td><td colspan=\"2\">In this Chapter, property has the meaning given to it in the Personal Property Law, except that it does not include real property (as defined in the Personal Property Law), money, things in action, Digital Assets and</td></tr><tr><td>Art 46(1)</td><td colspan=\"2\">intellectual property.\" Deleted</td></tr><tr><td>Art 65(2)</td><td colspan=\"2\">Modified to:</td></tr><tr><td></td><td colspan=\"2\">This Part does not apply in respect of securitis, Negotiable Instruments </td></tr><tr><td>Art 77(1)-(2)</td><td colspan=\"2\">Digital Assets.\" Modified to:</td></tr><tr><td></td><td colspan=\"2\">\"(1) A nNegotiable iInstrument is any instrument or other writing (in tangible form or in the form of an Electronic Trade Document) that embodies an unconditional right to the payment of a fixed monetary obligation, and is of</td></tr><tr><td></td><td colspan=\"2\">a type that in the ordinary course of business is transferred by delivery with any necessary endorsement or assignment, subject to this Law. (2) Subject to Article 77(1). each of the following is a nNegotiable</td></tr><tr><td></td><td colspan=\"2\">iInstrument:</td></tr><tr><td></td><td colspan=\"2\">(a) a bill of exchange within the meaning of Article 78 of this Law;</td></tr><tr><td></td><td colspan=\"2\">(b) a promissory note within the meaning of Article 80 of this Law.\"</td></tr><tr><td>Art 78(1)</td><td colspan=\"2\"></td></tr><tr><td></td><td colspan=\"2\">Modified to: il is  diialorein writi  tangible forr in the r</td></tr><tr><td></td><td colspan=\"2\">of an Electronic Trade Document), addressed by one person to another, signed by the person giving it, requiring the person to whom it is addressed to pay on demand or at a fixed or future time a sum of money to or to the order of a specified person, or to bearer.\" Modified to:</td></tr><tr><td>New article 153A in new</td><td colspan=\"2\">form or in the form of an Electronic Trade Document ), made by one person to another signed by the maker, undertaking to pay, on demand or at a fixed or determinable future time, a sum certain in Money, to, or to the order of, a specified person or to bearer.\" 153A Paper trade document defined</td></tr><tr><td>Chapter 5A</td><td colspan=\"2\">(1) A document is a \"paper trade document\" for the purposes of this Law if: (a) it is in paper form; and (b) it is commonly used in connection with: trade in or transport of goods; or</td></tr><tr><td></td><td colspan=\"2\">(i) (ii) financing such trade or transport; and (c) possession of the document is required as a matter of law or commercial custom, usage or practice for a person to claim</td></tr><tr><td></td><td colspan=\"2\">performance of an obligation. (2) A bill of exchange and a promissory note are examples of documents that. if they fall within Article 153A(1), will be paper trade documents.</td></tr><tr><td>New article 153B in new Chapter 5A</td><td colspan=\"2\">153B Electronic Trade Document defined</td></tr><tr><td></td><td colspan=\"2\">(1) This Article 153B applies where information in electronic form is information that, if contained in a document in paper form, would lead to the document being a paper trade document.</td></tr><tr><td></td><td colspan=\"2\">(2) The information, together with any other information with which it is</td></tr><tr><td></td><td colspan=\"2\">logically associated that is also in electronic form, constitutes an Electronic Trade Document for the purposes of this Law if a reliable system is used to: (a) identify the document so that it can be distinguished from any</td></tr><tr><td>(b)</td><td colspan=\"2\">copies:</td></tr><tr><td>(c)</td><td colspan=\"2\">protect the document against unauthorised alteration: secure that a person can have control of the document within the</td></tr><tr><td>(d)</td><td colspan=\"2\">meaning of Article153C; and indicate the time or place with respect to the document, where such</td></tr><tr><td></td><td colspan=\"2\">indication is required or permitted under the law governing the document.</td></tr><tr><td></td><td colspan=\"2\">(3) When determining whether a system is reliable for the purposes of Article</td></tr><tr><td>(a)</td><td colspan=\"2\">153B(2), the matters that may be taken into account include: any rules of the system that apply to its operation:</td></tr><tr><td>(b)</td><td colspan=\"2\">any measures taken to secure the integrity of information held on</td></tr><tr><td></td><td colspan=\"2\">the system:</td></tr><tr><td>(c)</td><td colspan=\"2\">any measures taken to prevent unauthorised access to and use of</td></tr><tr><td></td><td colspan=\"2\">the system:</td></tr><tr><td>(d)</td><td colspan=\"2\">the security of the hardware and software used by the system:</td></tr></table>",
+        "level": 4
+    },
+    "120": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "121": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "13 ",
+        "level": 5
+    },
+    "122": {
+        "type": "text",
+        "page_idx": 15,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "123": {
+        "type": "text",
+        "page_idx": 15,
+        "text": "14 ",
+        "level": 5
+    },
+    "124": {
+        "type": "text",
+        "page_idx": 16,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "125": {
+        "type": "text",
+        "page_idx": 16,
+        "text": "15 ",
+        "level": 5
+    },
+    "126": {
+        "type": "text",
+        "page_idx": 17,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "127": {
+        "type": "text",
+        "page_idx": 17,
+        "text": "16 ",
+        "level": 5
+    },
+    "128": {
+        "type": "text",
+        "page_idx": 18,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "129": {
+        "type": "text",
+        "page_idx": 18,
+        "text": "17 ",
+        "level": 5
+    },
+    "130": {
+        "type": "text",
+        "page_idx": 19,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "131": {
+        "type": "text",
+        "page_idx": 19,
+        "text": "18 ",
+        "level": 5
+    },
+    "132": {
+        "type": "table",
+        "page_idx": 20,
+        "text": "<table><tr><td colspan=\"4\">DIGITAL ASSETS LAW</td></tr><tr><td colspan=\"4\">Provision Description of disapplication and modification1</td></tr><tr><td colspan=\"4\">independent body:</td></tr><tr><td rowspan=\"2\"></td><td>(f)</td><td colspan=\"2\">any assessment of the reliability of the system made by a body with supervisory or regulatory functions;</td></tr><tr><td>(g)</td><td colspan=\"2\">the provisions of any voluntary scheme or industry standard that apply in relation to the system.</td></tr><tr><td colspan=\"4\">New article 153C in new</td></tr><tr><td colspan=\"4\">Chapter 5A</td></tr><tr><td colspan=\"4\">(a)</td></tr><tr><td colspan=\"4\">Document, or the relevant protocol or system, confers on that person:</td></tr><tr><td colspan=\"4\">(i)</td></tr><tr><td colspan=\"2\">(ii) (iii)</td><td>the ability to obtain substantially all the benefit from the Electronic Trade Document; and</td></tr><tr><td colspan=\"2\">&#x27;change of control&#x27;);</td><td>the exclusive ability to transfer the abilities in Articles 153C(1)(a)(i) and 153C(1)(a)(ii) to another person (a</td></tr><tr><td colspan=\"4\">and. (b) the Electronic Trade Document, or the relevant protocols or system, allows that person to identify itself as having the abilities set out in Article 153C(1)(a).</td></tr><tr><td colspan=\"4\">(2) If the Electronic Trade Document is a Digital Asset, a change of control includes the replacement, modification, destruction, cancellation, or elimination of a Digital Asset, and the resulting and corresponding derivative creation of a new Digital Asset which is subject to the control of another person.</td></tr><tr><td colspan=\"4\">(3) An ability for the purposes of Article 153C(1)(a) need not be exclusive if and to the extent that:</td></tr><tr><td>(a)</td><td colspan=\"4\">if the Electronic Trade Document is a Digital Asset, the Digital Asset, or the relevant protocol or system, limits the use of, or is programmed to make changes to, the Digital Asset, including change or loss of control of the Digital Asset: or</td></tr><tr><td></td><td colspan=\"4\">(b) irrespective of whether the Electronic Trade Document is a Digital Asset, the person in control has agreed (expressly, by implication or</td></tr><tr><td>153D</td><td colspan=\"4\">by conduct) to sharing that ability with one or more other persons. (4) Reading or viewing a document is not, of itself, sufficient to amount to control for the purposes of this Article 153C.</td></tr><tr><td>New article 153D in new Chapter 5A</td><td colspan=\"4\">Possession, indorsement and effect of Electronic Trade Documents</td></tr><tr><td rowspan=\"4\"></td><td colspan=\"4\">(1) A person may possess, indorse and part with possession of an Electronic</td></tr><tr><td colspan=\"4\">Trade Document.</td></tr><tr><td colspan=\"4\">(2) An Electronic Trade Document has the same effect as an equivalent paper trade document.</td></tr></table>",
+        "level": 4
+    },
+    "133": {
+        "type": "text",
+        "page_idx": 20,
+        "text": "19 ",
+        "level": 5
+    },
+    "134": {
+        "type": "table",
+        "page_idx": 21,
+        "text": "<table><tr><td>Provision</td><td colspan=\"2\">Description of disapplication and modification1</td></tr><tr><td></td><td>(3) Anything done in relation to an Electronic Trade Document has the same effect (if any) in relation to the document as the equivalent action would have in relation to an equivalent paper trade document.</td><td></td></tr><tr><td>New article 153E in new Chapter 5A</td><td rowspan=\"6\">153E Change of form</td><td>(1) A paper trade document may be converted into an Electronic Trade Document, and an Electronic Trade Document may be converted into a paper trade document, if (and only if):</td></tr><tr><td>(a) document in its new form; and</td><td>a statement that the document has been converted is included in the</td></tr><tr><td>(b)</td><td>any contractual or other requirements relating to the conversion of the document are complied with.</td></tr><tr><td></td><td>(2) Where a document is converted in accordance with Article 153E(1):</td></tr><tr><td>(a) (b)</td><td>the document in its old form ceases to have effect; and</td></tr><tr><td>New article 153F in new 153F</td><td>all rights and liabilities relating to the document continue to have effect in relation to the document in its new form. Exceptions</td></tr><tr><td rowspan=\"5\">Chapter 5A</td><td rowspan=\"2\"></td><td>() If an intention that Article 153D should not apply in relation to an</td></tr><tr><td>Electronic Trade Document appears in, or can reasonably be inferred from, the document or terms that have effect in relation to the document:</td></tr><tr><td rowspan=\"3\">(a) (b)</td><td>Article 153E also does not apply in relation to it.</td></tr><tr><td>that section does not apply in relation to the document, and</td></tr><tr><td>(2) Articles 153A to 153E do not apply in relation to:</td></tr><tr><td rowspan=\"3\">New Article 153G in new</td><td rowspan=\"3\"></td><td>(b) Non-Intermediated Financial Property. (3) The Board of Directors of the DIFCA may by Regulations add, remove or amend an entry in the list in Article 153F(2).</td></tr><tr><td></td></tr><tr><td>153G Issue or use outside the DIFC An Electronic Trade Document shall not be denied legal effect, validity or</td></tr><tr><td colspan=\"2\">Law of Security DIFC Law No. 8 of 2005</td><td>enforceability on the sole ground that it was issued or used outside the DIFC.</td></tr><tr><td rowspan=\"7\">All</td><td rowspan=\"7\"></td><td></td></tr><tr><td>The Law of Security DIFC Law No. 8 of 2005 is repealed and replaced by Law of Security DIFC Law No. 4 of 2024.</td></tr><tr><td>Of particular relevance to Digital Assets are:</td></tr><tr><td>Schedule 2:</td></tr><tr><td>Definitions of: Control: with respect to a Digital Asset, has the meaning given in the</td></tr><tr><td>Digital Assets Law.&quot;</td></tr><tr><td>&quot;Digital Asset: has the meaning given in the Digital Assets Law.&quot; &quot;Digital Assets Law: means the Digital Assets Law DIFC Law No.2 of 2024.&quot;</td></tr></table>",
+        "level": 4
+    },
+    "135": {
+        "type": "text",
+        "page_idx": 21,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "136": {
+        "type": "table",
+        "page_idx": 22,
+        "text": "<table><tr><td colspan=\"2\">the Law of Obligations by a person or its representative, or by an independent person that acknowledges holding it for that person.&#x27;</td></tr><tr><td colspan=\"2\">(c) </td></tr><tr><td colspan=\"2\">Articles: Article 10(1) (note the mandatory provisions)</td></tr><tr><td colspan=\"2\">Article 17:</td></tr><tr><td colspan=\"2\">&quot;(1) A Security Right in an Encumbered Asset extends to its identifiable Proceeds.</td></tr><tr><td colspan=\"2\">(2) Where Proceeds in the form of Money or Digital Assets or Financial Collateral are commingled with other assets of the same kind:</td></tr><tr><td colspan=\"2\">(a) The Security Right extends to the commingled Money or Digital Assets or Financial Collateral, notwithstanding that they have ceased to be identifiable;</td></tr><tr><td colspan=\"2\">(b) The Security Right in the commingled Money or Digital Assets or (c)</td></tr><tr><td colspan=\"2\">Financial Collateral is limited to the amount of Physical Money or Money immediately before they were commingled; and If at any time after the commingling, the amount of the commingled Money or Digital Assets or Financial Collateral is less than the amount of the Money or Digital Assets or Financial Collateral immediately before they were commingled, the Security Right in the</td></tr><tr><td colspan=\"2\">commingled Money or Digital Assets or Financial Collateral is limited to the lowest amount between the time when the Money or Digital Assets or Financial Collateral were commingled and the time when the Security Right is claimed.&quot; Article 27(1): &quot;If a Security Right in an asset is effective against third parties, a Security</td></tr><tr><td colspan=\"2\">Right in any Proceeds of that asset arising under Article 17 is effective against third parties without any further act if the Proceeds are in the form of Physical Money, Receivables, Negotiable Instruments or rights to payment of Money credited to a Bank Account, Digital Assets or Financial Collateral.&quot; Article 34:</td></tr><tr><td colspan=\"2\">&quot;A Security Right in a Digital Asset may also be made effective against third parties by the Secured Creditor having Control of the Digital Asset.&quot; Article 59:</td></tr><tr><td colspan=\"2\">&quot;A Security Right in a Digital Asset made effective against third parties by</td></tr><tr><td colspan=\"2\">Control of the Digital Asset has Priority over a competing Security Right made effective against third parties by any other method.&quot; Part 8 (Financial Collateral Arrangements):</td></tr><tr><td colspan=\"2\">Article 104(1)(a) and 104(1)(b): Certain types of Digital Assets can fall within the categories of Money Credited to a Bank Account (Article 104(1)(a)) and Financial Property (Article 104(1)(b)) and thus fall under the Part 8 regime that governs Financial Collateral Arrangements.</td></tr><tr><td colspan=\"2\">Article 129 (Conflict of Laws): &quot;(1) This Article 129 applies to:</td></tr></table>",
+        "level": 4
+    },
+    "137": {
+        "type": "text",
+        "page_idx": 22,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "138": {
+        "type": "table",
+        "page_idx": 23,
+        "text": "<table><tr><td>Provision</td><td colspan=\"3\">Description of disapplication and modification1</td></tr><tr><td rowspan=\"4\"></td><td>(a) and</td><td colspan=\"2\">Security Rights in Electronic Trade Documents or Digital Assets;</td></tr><tr><td>(b)</td><td colspan=\"2\">Security Rights in assets other than Electronic Trade Documents or Digital Assets but which are conferred by or embodied in Digital</td></tr><tr><td>(c)</td><td colspan=\"2\">Assets; and Security Rights in Financial Collateral that are not rights to payment of Money credited to a Bank Account.</td></tr><tr><td colspan=\"3\">(2) In the event of conflict between this Article 129 and any of other Article in this Part 9, this Article 129 shall prevail. (3) The law applicable to the creation, effectiveness against third parties, Priority and enforcement of Security Rights shall be determined by the laws</td></tr><tr><td colspan=\"2\">Financial Collateral Regulations All</td><td colspan=\"2\">under Part 12 or otherwise).\"</td></tr><tr><td colspan=\"2\"></td><td colspan=\"2\">The Financial Collateral Regulations are repealed, and provisions relating to Security Rights in Financial Collateral are included in Part 8 of the Law of Security DIFC Law No. 4 of 2024.</td></tr><tr><td colspan=\"2\">Collateral Regulations. Personal Property Law, DIFC Law No. 9 of 2005</td><td colspan=\"2\">The content of the provisions in Part 8 of the Law of Security is substantially different to the content of the provisions in the (now repealed) Financial</td></tr><tr><td colspan=\"2\">Sch 1, para 3 (\"Definitions\")</td><td colspan=\"2\"></td></tr><tr><td rowspan=\"10\"></td><td colspan=\"3\">New definitions:</td></tr><tr><td colspan=\"3\">\"Digital Asset: has the meaning given in the Digital Assets Law\" \"Digital Assets Law\": means the Digital Assets Law DIFC Law No. 2 of</td></tr><tr><td colspan=\"3\">2024\"</td></tr><tr><td colspan=\"3\">Financial Collateral: has the meaning given in the Law of Security \"Financial Property: has the meaning given in the Law of Security\"</td></tr><tr><td colspan=\"3\">\"Financial Service\": has the meaning given in the Rules made under Article</td></tr><tr><td colspan=\"3\">41 of the Regulatory Law 2004\"</td></tr><tr><td colspan=\"3\">\"Law of Security\": the Law of Security DIFC Law No. 4 of 2024\" \"Money: has the meaning given in the Law of Security\"</td></tr><tr><td colspan=\"3\">\"Negotiable Instrument: has the meaning given in the Law of Obligations</td></tr><tr><td colspan=\"3\">DIFC Law No.5 of 2005\" \"Negotiable Document: has the meaning given in the Law of Security\"</td></tr><tr><td colspan=\"3\"></td></tr><tr><td rowspan=\"4\"></td><td></td><td colspan=\"2\" rowspan=\"4\"></td></tr><tr><td colspan=\"2\">\"Security Agreement: has the meaning given in the Law of Security\"</td></tr><tr><td colspan=\"2\">\"Security Right: has the meaning given in the Law of Security\" Amended definitions:</td></tr><tr><td colspan=\"2\">Authorised Market Institution: has the meaning in the Regualtory Law a</td></tr><tr><td colspan=\"2\">Regulatory Law 2004, or a person who is licensed in another jurisdiction to carry on one or more Financial Services\" Authorised person: has the meaning in the Regualtory Law an Authorised Market Institution, or a person who holds a licence to carry on one or more</td><td colspan=\"2\">person who is licensed by the DFSA in relation to the carrying on of one or more Financial Services prescribed pursuant to Article 42(1)(b) of the</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>Provision</td><td colspan=\"2\">Description of disapplication and modification1 Financial Services prescribed pursuant to Article 42(1)(a) of the Regulatory</td></tr><tr><td rowspan=\"7\"></td><td colspan=\"2\">Law 2004, or a person who holds a licence in another jurisdiction to carry on one or more Financial Services\" \"delivery: voluntary transfer of possession from one person to another and</td></tr><tr><td colspan=\"2\">includes any act of separation by which property becomes unconditionally appropriated to a contract, and in the context of a Digital Asset, means a change of control under Article 10 of the Digital Assets Law\"</td></tr><tr><td colspan=\"2\">\"investment: has the meaning prescribed in the Rules made under the Regulatory Law 2004 provided that:</td></tr><tr><td colspan=\"2\">(a) nNegotiable iInstruments; and</td></tr><tr><td colspan=\"2\">(b) commodities (and rights and interest in commodities)</td></tr><tr><td colspan=\"2\">traded on an Authorised Market Institution shall be investments for the purpose of this Law\"</td></tr><tr><td colspan=\"2\">\"investment entitlement: the rights of an entitlement holder with respect ti ab unvestment or credited to his account has the meaning given in the Law of Security\"</td></tr><tr><td colspan=\"2\" rowspan=\"2\">Security\" Art 7 Modified to:</td></tr><tr><td colspan=\"2\">Secured partyCreditor: has the meaning set out in the Secuity Law Law of Unless stated otherwise in this Law, this Law applies to any property which</td></tr><tr><td colspan=\"2\">is capable of being owned and transferred under the laws of the DIFC other thanal opery rle whet upoperpab owned or transferred under the laws of any other jurisdiction.\"</td></tr><tr><td>Art 10(1)</td><td colspan=\"2\">Modified to: \"Where property is transferred by a person who is not its owner, and who does not selltransfer it under the authority or with the consent of the owner, the transferee acquires no better title to the property than the transferor had.\"</td></tr><tr><td>Art 11</td><td colspan=\"2\">Deleted</td></tr><tr><td>Art 12 Art 13</td><td colspan=\"2\">Deleted</td></tr><tr><td>New article 11</td><td colspan=\"2\">Deleted 11 Digital Assets</td></tr><tr><td rowspan=\"4\">New article 12</td><td colspan=\"2\">(1) Articles 8 to 10 of this Law shall not apply to Digital Assets.</td></tr><tr><td colspan=\"2\">(2) General rules as to title and transfer of title of Digital Assets shall be determined by Part 3 of the Digital Assets Law.\"</td></tr><tr><td colspan=\"2\">12 Transfer subject to subsisting adverse property interest (1) Subject to Articles 10 and 14 of this Law, an innocent transferee of:</td></tr><tr><td colspan=\"2\">(a) the legal title in property takes free of all interests in the property, whether legal or equitable; and</td></tr><tr><td colspan=\"2\">DIGITAL ASSETS LAW</td></tr><tr><td>Provision</td><td>Description of disapplication and modification1 (b) the equitable interest in property takes free of all interests in the</td></tr><tr><td rowspan=\"4\"></td><td>property save those that are superior to that equitable interest. (2) For the purposes of Article 12(1), a transferee of property is an innocent transferee of that property if the transferee has received the property in good</td></tr><tr><td>faith, for value and without notice of a third party property interest. (3) For the purpose of Article 12(2). a transferee has notice of a third party</td></tr><tr><td>property interest if the transferee knows or ought reasonably to know that another person has an interest in the property that conflicts with the interest the transferee seeks to purchase.</td></tr><tr><td>(4) This Article 12 shall not apply to a transfer of Money, Financial Collateral, Negotiable Instrument or Negotiable Document (which includes such property that is also a Digital Asset).\"</td></tr><tr><td rowspan=\"8\">New article 14 Art 19 (Acquisiton of an</td><td colspan=\"2\">Transfer of Money, Financial Collateral, Financial Property, Negotiable Instrument or Negotiable Document subject to subsisting adverse property interest</td></tr><tr><td colspan=\"2\">(1) This Article 13 applies to the transfer of a property interest in Money, Financial Collateral, Negotiable Instrument or Negotiable Document (which</td></tr><tr><td colspan=\"2\">includes such property that is also a Digital Asset). (2) Subject to Article 14 of this Law an innocent transferee of:</td></tr><tr><td colspan=\"2\">(a) the legal title in such property takes free of all interests in the property, whether legal or equitable; and</td></tr><tr><td colspan=\"2\">(b) the equitable interest in such property takes free of all interests in</td></tr><tr><td colspan=\"2\">the property save those that are superior to that equitable interest.</td></tr><tr><td colspan=\"2\">(3) For the purpose of Article 13(2), a transferee of such property is an innocent transferee of that property unless:</td></tr><tr><td colspan=\"2\">(a) the transferee does not give value, or</td></tr><tr><td rowspan=\"6\"></td><td>(b) the transferee gives value, but has actual knowledge of the third</td></tr><tr><td>party property interest, or has knowledge of facts indicating a significant risk that the third party property interest exists and</td></tr><tr><td>deliberately avoids making inquiries that a reasonable person in his position would make which would establish the existence of the third party property interest.\"</td></tr><tr><td>14 Transfer of property subject to a Security Right</td></tr><tr><td>The circumstances under which a transferee of title to property takes free of a Security Right is determined by the Law of Security.\"</td></tr><tr><td colspan=\"2\">Deleted</td></tr><tr><td>investment) Art 20 (Notice of a third party property interest)</td><td colspan=\"2\">Deleted A restriction on transfer of a security imposed by the issuer shall be regarded</td></tr><tr><td>Art 23 (Effect of issuer's restriction on transfer on securities)</td><td colspan=\"2\">as a third party property interest, and shall be ineffective against any person other than a person who had noticeactual knowledge of such third party property interest or knowledge of facts sufficient to indicate that there is a significant probability that the third party property interest exists and deliberately avoids making inquiries that a reasonable person in his position</td></tr><tr><td></td><td colspan=\"2\">would make which would establish the existence of the third party property interest unless:</td></tr><tr><td>Provision</td><td colspan=\"2\">Description of disapplication and modification1</td></tr><tr><td>Art 25 (Rights of a purchaser)</td><td colspan=\"2\">Deleted</td></tr><tr><td>Art 26(1)</td><td colspan=\"2\">Modified to:</td></tr><tr><td></td><td colspan=\"2\">The credit of an investment entitlement to an entitlementinvestment account confers on the account holder:\"</td></tr><tr><td>Art 32 (Recognisiton of and priority among competing interests)</td><td colspan=\"2\">Deleted</td></tr><tr><td>Art 33 (Protection against third party property interests)</td><td colspan=\"2\">Deleted</td></tr><tr><td colspan=\"3\">Securities Regulations 2019</td></tr><tr><td>1.1.3</td><td colspan=\"2\">The definition of \"Law\" is modified to: Law of Security DIFC Law No. 4 of 2024</td></tr><tr><td>p.1 (just before Article 1)</td><td colspan=\"2\">Modified to:</td></tr><tr><td></td><td colspan=\"2\">The Board of Directors of the DIFC, in the exercise of the powers conferred on them by Part 12 of the Law of Security, hereby make these Regulations.\"</td></tr><tr><td colspan=\"3\">Ultimate Beneficial Owners Regulations 2018</td></tr><tr><td>1.1.3</td><td colspan=\"2\">The definition of \"Recognised Financial Services Regulator\" is modified to:</td></tr><tr><td></td><td colspan=\"2\">\"the DFSA and any regulator of financial service activities established in a jurisdiction other han the DIF recgnised by the Registrar as applin equivalent standards of regulation as those applicable in the DIFC\".</td></tr><tr><td colspan=\"3\">Trust Law DIFC Law No. 4 of 2018</td></tr><tr><td>Sch 1, para 3 (\"Defined terms\")</td><td colspan=\"2\">New definitions:</td></tr><tr><td></td><td colspan=\"2\">\"Digital Asset: has the meaning given in Article 8 of the Digital Assets Law\"</td></tr><tr><td></td><td colspan=\"2\">Digital Assets Law: means the Digital Assets Law DIFC Law No. 2 of 2024\"</td></tr><tr><td></td><td colspan=\"2\">Modifications: \"Property: any movable or immovable property, and includes Digital</td></tr><tr><td></td><td colspan=\"2\">Assets and rights and interests, whether present or future and whether vested or contingent.\"</td></tr><tr><td>Art 15</td><td colspan=\"2\">Art 15(a) modified to: (a) affecting the ownership of immovable property in the DIFC and movable</td></tr><tr><td></td><td colspan=\"2\">property including a Digital Asset wherever it is situated for the purposes of Article 13(2)(a) and (b) or for any other purpose; or</td></tr><tr><td>Art 45(1)(b)(i)</td><td colspan=\"2\">Modified to:</td></tr><tr><td></td><td colspan=\"2\">\"a class or other identifying characteristic; or\"</td></tr><tr><td>Foundations Law DIFC No. 3 of 2018</td><td colspan=\"2\"></td></tr><tr><td colspan=\"1\" rowspan=\"2\">Sch 1, para 3 (\"Definedterms\")</td><td colspan=\"2\" rowspan=\"1\">New definitions:\"Digital Asset: has the meaning given in Article 8 of the Digital Assets Law\"</td></tr><tr><td colspan=\"2\" rowspan=\"1\">\"Digital Assets Law: means the Digital Assets Law DIFC Law No. 2 of2024\"Modifications:\"Property: any movable or immovable property including Digital Assets,and includes rights and interests, whether present or future and whethervested or contingent and where it concerns the property of a Foundation, itshall include:(a) any property (including money, investments and other property)contributed to the Foundation;(b) any capitalised income added to the property so contributed; and(c) the money, investments and property from time to time representingthose assets and capitalised income.\"</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Art 15(a)</td><td colspan=\"2\" rowspan=\"1\">Modified to:\"(a) affecting the ownership of immovable property in the DIFC andmovable property including a Digital Asset wherever it is situated for thepurposes of Article 13(2)(a) and (b) or for any other purpose; or\"</td></tr></table>",
+        "level": 4
+    },
+    "139": {
+        "type": "text",
+        "page_idx": 23,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "140": {
+        "type": "text",
+        "page_idx": 24,
+        "text": "23 ",
+        "level": 5
+    },
+    "141": {
+        "type": "text",
+        "page_idx": 26,
+        "text": "25 ",
+        "level": 5
+    },
+    "142": {
+        "type": "text",
+        "page_idx": 26,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "143": {
+        "type": "text",
+        "page_idx": 27,
+        "text": "DIGITAL ASSETS LAW ",
+        "level": 1
+    },
+    "144": {
+        "type": "text",
+        "page_idx": 27,
+        "text": "26 ",
+        "level": 5
+    }
+}

@@ -92,7 +92,7 @@ Rules:
 - Preserve law names as written, but normalize obvious OCR spacing only if the intended title is explicit.
 
 Return this schema:
-{
+{{
   "official_title": "",
   "short_title": "",
   "law_number": "",
@@ -103,7 +103,7 @@ Return this schema:
   "amending_laws": [],
   "administering_authority": "",
   "jurisdiction": ""
-}
+}}
 
 Input:
 {payload}

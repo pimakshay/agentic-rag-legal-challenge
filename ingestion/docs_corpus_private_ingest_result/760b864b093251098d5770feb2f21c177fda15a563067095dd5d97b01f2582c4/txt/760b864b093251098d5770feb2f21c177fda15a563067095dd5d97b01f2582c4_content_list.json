@@ -1,0 +1,707 @@
+[
+    {
+        "type": "text",
+        "text": "ARB 011/2025 Naidoo and (1) Nofret v (2) Nandini (3) Nurine (4) Nadidah ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            171,
+            919,
+            222
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MAY 09, 2025 ARBITRATION - ORDERS ",
+        "bbox": [
+            43,
+            230,
+            391,
+            247
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IN THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS ",
+        "text_level": 1,
+        "bbox": [
+            205,
+            319,
+            794,
+            338
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IN THE COURT OF FIRST INSTANCE ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            355,
+            388,
+            374
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BETWEEN ",
+        "bbox": [
+            40,
+            388,
+            146,
+            406
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NAIDOO ",
+        "bbox": [
+            457,
+            424,
+            541,
+            442
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claimant/Applicant ",
+        "bbox": [
+            788,
+            458,
+            959,
+            475
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "bbox": [
+            480,
+            492,
+            519,
+            507
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1) NOFRET ",
+        "bbox": [
+            442,
+            526,
+            556,
+            544
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "First Defendant/Respondent ",
+        "bbox": [
+            704,
+            560,
+            959,
+            577
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2) NANDINI (3) NURINE (4) NADIDAH ",
+        "bbox": [
+            440,
+            595,
+            561,
+            667
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Defendants ",
+        "bbox": [
+            852,
+            682,
+            957,
+            699
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ORDER WITH REASONS OF H.E. JUSTICE SHAMLAN AL SAWALEHI ",
+        "text_level": 1,
+        "bbox": [
+            176,
+            738,
+            821,
+            758
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UPON this Claim having been fi led on 5 March 2025 in the Court of First Instance and registered as Case No. CFI-026-2025 (the “Claim”) ",
+        "bbox": [
+            40,
+            802,
+            961,
+            846
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Claimant’s Urgent Application No. CFI-026-2025/1 dated 5 March 2025 seeking interim injunctive relief to prevent the continuation of an evidentiary hearing in arbitration proceedings conducted by the Dubai International Arbitration Centre (“DIAC”), and an order setting aside or varying the Tribunal’s procedural decision dated 19 February 2025 (the “Application”) ",
+        "bbox": [
+            40,
+            862,
+            961,
+            954
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claim No: ARB 011/2025 ",
+        "bbox": [
+            726,
+            285,
+            959,
+            302
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON hearing counsel for the Claimant and counsel for the First Respondent at a hearing held on 5 March 2025 before H.E. Justice Shamlan Al Sawalehi (the “Hearing”) ",
+        "bbox": [
+            40,
+            20,
+            961,
+            64
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Transfer Order dated 6 March 2025 made by H.E. Justice Shamlan Al Sawalehi transferring Case No. CFI-026-2025 to the Arbitration Division and re-registering it as Case No. ARB-011-2025 ",
+        "bbox": [
+            40,
+            79,
+            961,
+            146
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON reviewing the parties’ written and oral submissions, the evidence and exhibits on record, and the relevant authorities ",
+        "bbox": [
+            40,
+            164,
+            961,
+            206
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON considering the supervisory role of the DIFC Courts under DIFC Law No. 1 of 2008 (“Arbitration Law”) ",
+        "bbox": [
+            40,
+            223,
+            961,
+            267
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON considering the principles governing Court intervention in arbitral proceedings under the DIFC legal framework ",
+        "bbox": [
+            40,
+            284,
+            961,
+            326
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IT IS HEREBY ORDERED THAT: ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            342,
+            337,
+            361
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The Application is dismissed. ",
+        "bbox": [
+            43,
+            376,
+            326,
+            395
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. The Applicant shall pay the Respondent’s costs of the Application. The Defendant shall fi le a statement of costs not exceeding three pages within three working days from the date of this Order. ",
+        "bbox": [
+            40,
+            409,
+            959,
+            453
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Issued by:   \nDelvin Sumo   \nAssistant Registrar   \nDate of issue: 9 May 2025   \nAt: 9am ",
+        "bbox": [
+            719,
+            467,
+            959,
+            583
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE OF REASONS ",
+        "text_level": 1,
+        "bbox": [
+            376,
+            600,
+            625,
+            619
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. This application is brought by the Claimant pursuant to Articles 10, 11, and 41 of the Arbitration Law. The Claimant seeks urgent injunctive relief to prevent the continuation of an evidentiary hearing in DIAC, together with an order setting aside or suspending the procedural decisions of the arbitral tribunal dated 19 February 2025 (the “Application”). ",
+        "bbox": [
+            40,
+            633,
+            961,
+            725
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. For the reasons set out below, the Application is dismissed. In summary, the Tribunal’s procedural rulings do not constitute “awards” within the meaning of Article 41 and therefore do not fall within the scope of decisions that may be set aside or reviewed by the Court under the applicable legal framework. ",
+        "bbox": [
+            40,
+            739,
+            961,
+            829
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Furthermore, the circumstances do not justify exceptional intervention under the Court’s supervisory powers. No serious procedural irregularity or denial of due process has been established to engage the jurisdiction of the Court under Articles 10 or 11. ",
+        "bbox": [
+            40,
+            845,
+            959,
+            912
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "bbox": [
+            42,
+            928,
+            159,
+            947
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. These proceedings arise out of arbitration proceedings administered by DIAC, seated in the DIFC. ",
+        "bbox": [
+            52,
+            17,
+            947,
+            36
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. The underlying dispute is between Nofret, the Claimant in the arbitration, and Naidoo, the Respondent in the arbitration and the Applicant in this proceeding. ",
+        "bbox": [
+            40,
+            51,
+            956,
+            93
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. The arbitration was commenced on 12 February 2024. Following an application for emergency relief by Nofret, interim orders were made which Naidoo later sought to set aside. That application was not pursued after the Court directed that Naidoo pay security for costs. In parallel, proceedings were also brought by Nofret before the Dubai Courts. The jurisdictional confl ict was resolved by decision of the Joint Judicial Committee on 9 October 2024, which confi rmed that the DIFC Courts were the competent forum. ",
+        "bbox": [
+            38,
+            107,
+            961,
+            247
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. A procedural timetable was subsequently fi xed by the arbitral tribunal by way of Procedural Order No. 1 dated 5 November 2024. ",
+        "bbox": [
+            40,
+            261,
+            961,
+            303
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8. In the course of the arbitration, Naidoo made two procedural applications to the tribunal, dated 2 and 12 February 2025, by which it sought, inter alia, an extension of time to fi le its Defence and Counterclaim, and the reinstatement of a document production phase. Both applications were dismissed by the tribunal by way of a decision dated 19 February 2025 (the “Procedural Order No. 2”). ",
+        "bbox": [
+            40,
+            317,
+            959,
+            410
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9. Dissatisfi ed with the tribunal’s decisions, the Applicant now applies to this Court seeking urgent relief to prevent the scheduled evidentiary hearing from proceeding, and for the Tribunal’s procedural decisions to be set aside and the timetable revised. ",
+        "bbox": [
+            40,
+            423,
+            961,
+            489
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. The present Application was heard on an urgent basis on 5 March 2025 before H.E. Justice Shamlan Al Sawalehi. ",
+        "bbox": [
+            42,
+            505,
+            959,
+            548
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Applicant’s Submissions ",
+        "text_level": 1,
+        "bbox": [
+            45,
+            564,
+            314,
+            583
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11. The Applicant submits that the Tribunal’s procedural decisions have resulted in unequal treatment and a denial of a fair opportunity to present its case, contrary to Article 25 of the Arbitration Law. ",
+        "bbox": [
+            42,
+            596,
+            961,
+            640
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "12. The Applicant refers to procedural applications dated 2 and 12 February 2025, by which it sought to clarify or vary the timetable and reinstate a document production phase. It submits that the Tribunal declined the requests and in its ruling of Procedural Order No. 2, imposed an infl exible procedural regime that effectively precludes the Applicant from presenting a defence or advancing its counterclaim. ",
+        "bbox": [
+            40,
+            653,
+            961,
+            770
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "13. The Applicant contends that these circumstances justify the Court’s intervention in its supervisory capacity under Articles 10 and 11 of the Arbitration Law, and that interim relief may be granted pursuant to Article 15 to prevent procedural injustice. It emphasises that the procedural order in question bears the features of an award, given its determinative effect on the structure and scope of the arbitration, and that it should therefore be subject to the Court’s supervisory review. ",
+        "bbox": [
+            38,
+            783,
+            963,
+            900
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "14. The Applicant further submits that its conduct does not constitute waiver under Article 9 of the Arbitration Law. It maintains that it repeatedly objected to the timetable and expressly reserved its rights, both before and after instructing legal counsel. It asserts that the denial of a document production phase constitutes a fundamental irregularity warranting urgent intervention to preserve the integrity of the proceedings. ",
+        "bbox": [
+            40,
+            17,
+            961,
+            133
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Respondent’s Submissions ",
+        "text_level": 1,
+        "bbox": [
+            45,
+            149,
+            339,
+            168
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15. The Respondent opposes the Application and submits that it is procedurally fl awed and premature. It notes that the Application was brought by claim form, rather than in accordance with the procedure set out in Part 43 of the Rules of the DIFC Courts (the “RDC”) governing arbitration claims, and objects to the naming of both the parties to the arbitration and the members of the arbitral tribunal as Defendants in these proceedings. The Respondent submits that this is inconsistent with the principle of confi dentiality that governs arbitration under the applicable rules. ",
+        "bbox": [
+            40,
+            183,
+            961,
+            322
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "16. The Respondent further submits that the decision challenged is not an award but a procedural order concerning the conduct of the arbitration. It contends that such orders are not subject to setaside proceedings under Article 41 and fall within the exclusive domain of the tribunal. ",
+        "bbox": [
+            40,
+            336,
+            959,
+            403
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "17. It is further submitted that the Applicant’s procedural objections were raised late and, in any event, do not give rise to serious prejudice. The Respondent notes that the timetable was set in November 2024 and that the Applicant, had the opportunity to raise objections but did not do so. ",
+        "bbox": [
+            42,
+            417,
+            959,
+            483
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "18. The Respondent submits that there is no basis for injunctive relief and that halting the hearing would amount to de facto fi nal relief and would cause signifi cant prejudice to its position, including ongoing commercial loss. ",
+        "bbox": [
+            40,
+            498,
+            959,
+            565
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Legal Framework ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            583,
+            206,
+            600
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "19. The DIFC Courts’ jurisdiction to intervene in arbitration proceedings is governed by the statutory framework set out in the Arbitration Law. Pursuant to Article 10 of the Arbitration Law, the Court may intervene in matters governed by the Law only where such intervention is expressly permitted. While Article 11 provides for the Court’s supervisory function over arbitrations seated in the DIFC, it does not confer a general appellate jurisdiction over procedural rulings issued by an arbitral tribunal. ",
+        "bbox": [
+            40,
+            615,
+            963,
+            731
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "20. The Tribunal’s decision dated 19 February 2025 constitutes a procedural case management order addressing matters of timetable, document production, and the fi ling of pleadings. Such decisions fall within the Tribunal’s discretionary powers and do not amount to an “award” within the meaning of Article 41, which may only be set aside on limited and exceptional grounds. ",
+        "bbox": [
+            40,
+            744,
+            961,
+            835
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            853,
+            147,
+            870
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "21. The principle of party autonomy and the arbitral tribunal’s authority to manage its own procedure are fundamental to the Arbitration Law. Pursuant to Article 23, the Tribunal is empowered to conduct the arbitration in such a manner as it considers appropriate, subject to the mandatory provisions of the ",
+        "bbox": [
+            40,
+            885,
+            959,
+            953
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Law. The Court’s supervisory jurisdiction does not extend to matters of case management, save where there has been a serious denial of due process. ",
+        "bbox": [
+            40,
+            17,
+            961,
+            60
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "22. The Applicant relies on Article 25 of the Arbitration Law, which guarantees equal treatment and a full opportunity to present one’s case. However, the procedural rulings under challenge do not rise to the level of denial of due process. As held in Lachesis v Lacrosse [2021] DIFC ARB 005 and reaffi rmed in Nazeer v Noah [2024] DIFC ARB 011 judicial intervention is not warranted in response to minor procedural irregularities or technical complaints. The Court will intervene only where there is demonstrable prejudice effecting the integrity of the arbitral process, which has not been established in this case. ",
+        "bbox": [
+            38,
+            74,
+            961,
+            237
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "23. Under Article 9 of the Arbitration Law, a party who proceeds with the arbitration without promptly raising objections to procedural irregularities may be deemed to have waived its right to object. In this case, the Applicant continued to engage with the arbitral process and did not treat the Tribunal’s conduct as a bar to continued engagement until shortly before the evidentiary hearing. ",
+        "bbox": [
+            40,
+            252,
+            961,
+            343
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "24. The DIFC Courts have repeatedly affi rmed the policy of “maximum support, minimum interference” with arbitration seated in the DIFC. Absent clear and serious procedural unfairness, the Court will not interfere with interim procedural decisions made by the tribunal in the exercise of its case management discretion. ",
+        "bbox": [
+            40,
+            356,
+            961,
+            449
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            466,
+            151,
+            483
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "25. The Tribunal’s procedural rulings of Procedural Order No. 2 constitute case management decisions falling within its discretionary authority under Article 23 of the Arbitration Law. Such rulings do not constitute arbitral awards for the purposes of Article 41 and therefore do not fall within the category of decisions that may be set aside by the Court. ",
+        "bbox": [
+            40,
+            498,
+            963,
+            589
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "26. The Applicant has not suffi ciently established that the Tribunal’s conduct resulted in a denial of due process or serious procedural irregularity engaging Articles 10, 11, or 25 of the Arbitration Law. ",
+        "bbox": [
+            40,
+            604,
+            961,
+            648
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "27. Accordingly, the Application is premature and unsupported by suffi cient legal or factual grounds to justify the Court’s exceptional intervention. There is no basis to grant the urgent injunctive relief or to set aside the Tribunal’s procedural decisions as sought. ",
+        "bbox": [
+            40,
+            661,
+            959,
+            728
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "28. In the absence of demonstrable serious prejudice, and in accordance with the DIFC Courts’ established policy of minimal interference in arbitral proceedings, the Application is dismissed. ",
+        "bbox": [
+            40,
+            741,
+            959,
+            785
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Costs ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            803,
+            99,
+            819
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "29. The Applicant shall pay the Respondent’s costs of the Application. The Respondent will fi le a statement of costs not exceeding three pages within three working days from the date of this Order. ",
+        "bbox": [
+            40,
+            834,
+            961,
+            878
+        ],
+        "page_idx": 4
+    }
+]

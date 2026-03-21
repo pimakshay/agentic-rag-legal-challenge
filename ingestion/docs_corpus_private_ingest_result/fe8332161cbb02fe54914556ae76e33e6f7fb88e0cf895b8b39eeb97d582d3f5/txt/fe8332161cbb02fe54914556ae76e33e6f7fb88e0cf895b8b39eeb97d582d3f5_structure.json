@@ -1,0 +1,1016 @@
+{
+    "0": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "DIFC ",
+        "level": 1
+    },
+    "1": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "ULTIMATE BENEFICIAL OWNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "2": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "Consolidated Version No. 2   \nIn force on 08 March 2024 ",
+        "level": 2
+    },
+    "3": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "CONTENTS ",
+        "level": 1
+    },
+    "4": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "1. INTRODUCTION .. ",
+        "level": 2
+    },
+    "5": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "1.1 Application and Interpretation .   \n1.2 References to Writing . . 3 ",
+        "level": 3
+    },
+    "6": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2. EXEMPTIONS ...... ",
+        "level": 2
+    },
+    "7": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "3. BENEFICIAL OWNERSHIP OF REGISTERED PERSONS... . 4 ",
+        "level": 2
+    },
+    "8": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "3.1 Ultimate Beneficial Owner .... .... 4   \n3.2 Ultimate Beneficial Ownership Information .. 4   \n3.3 Notice in respect of Ultimate Beneficial Ownership . .. 5 ",
+        "level": 3
+    },
+    "9": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "4. BENEFICIAL OWNERSHIP REGISTER.... ",
+        "level": 2
+    },
+    "10": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "4.1 Requirements relating to Beneficial Ownership Register .... 5   \n4.2 Application to the Court to rectify the Beneficial Ownership Register . 6 ",
+        "level": 3
+    },
+    "11": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "5. NOMINEE DIRECTORS... ",
+        "level": 2
+    },
+    "12": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "5.1 Duty of Nominee Directors . 7   \n5.2 Register of Nominee Directors ................ 7 ",
+        "level": 3
+    },
+    "13": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "6. PROVISION OF INFORMATION TO REGISTRAR.. .. 8 ",
+        "level": 2
+    },
+    "14": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "6.1 Access to Registers ... ... 8   \n6.2 Notification to the Registrar .... . 8   \n6.3 Notices issued by the Registrar.. .. 9 ",
+        "level": 3
+    },
+    "15": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "7. OBLIGATIONS OF REGISTRAR... .... 10 ",
+        "level": 2
+    },
+    "16": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "8. ENFORCEMENT... 10 ",
+        "level": 2
+    },
+    "17": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "8.1 Removal of Ultimate Beneficial Owner . . 10   \n8.2 Strike off . 11 ",
+        "level": 3
+    },
+    "18": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "ULTIMATE BENEFICIAL OWNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "19": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "i ",
+        "level": 5
+    },
+    "20": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "The Board of Directors of the DIFCA, in the exercise of the powers conferred on them by Article 46 of the Operating Law, hereby make these Regulations. ",
+        "level": 2
+    },
+    "21": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1. INTRODUCTION ",
+        "level": 2
+    },
+    "22": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1 Application and Interpretation ",
+        "level": 3
+    },
+    "23": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1.1 These Regulations apply to: ",
+        "level": 4
+    },
+    "24": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "(a) companies incorporated, registered or continued under the Companies Law;   \n(b) partnerships incorporated or registered under the Partnership Laws;   \n(c) organisations incorporated under the Non Profit Incorporated Organisation Law;   \n(d) foundations incorporated, registered or continued under the Foundations Law;   \n(e) officers and owners of persons incorporated, registered or continued under a Prescribed Law;   \n(f) the Registrar; and (g) any other person to whom this Regulation applies. ",
+        "level": 5
+    },
+    "25": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1.2 Defined terms are identified throughout these Regulations by the capitalisation of the initial letter of a word or phrase. Where capitalisation of the initial letter is not used, an expression has its natural meaning. ",
+        "level": 4
+    },
+    "26": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1.3 The following defined terms have the meaning given below: ",
+        "level": 4
+    },
+    "27": {
+        "type": "table",
+        "page_idx": 2,
+        "text": "<table><tr><td colspan=\"1\" rowspan=\"1\">Defined Term</td><td colspan=\"1\" rowspan=\"1\">Definition</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Beneficial Ownership Register</td><td colspan=\"1\" rowspan=\"1\">shall be construed in accordance with Regulation 4.1.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Commencement Date</td><td colspan=\"1\" rowspan=\"1\">the date of commencement of these Regulations.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Companies Law</td><td colspan=\"1\" rowspan=\"1\">the Companies Law No. 5 of 2018.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Court</td><td colspan=\"1\" rowspan=\"1\">the DIFC Courts.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Foundations Law</td><td colspan=\"1\" rowspan=\"1\">the Foundations Law No. 3 of 2018.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">General Partnership Law</td><td colspan=\"1\" rowspan=\"1\">the General Partnership Law No. 11 of 2004.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Governing Body</td><td colspan=\"1\" rowspan=\"1\">in the case of:(a)    a company, the Board of Directors;(b)    a Limited Partnership, the General Partner;(c)    a Non Profit Incorporated Organisation, the Board; and(d)     a Foundation, the Council.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Law</td><td colspan=\"1\" rowspan=\"1\">the Operating Law No. 7 of 2018</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Limited Liability Partnership Law</td><td colspan=\"1\" rowspan=\"1\">the Limited Liability Partnership Law No. 5 of 2004.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Limited Partnership Law</td><td colspan=\"1\" rowspan=\"1\">the Limited Partnership Law No. 4 of 2006.</td></tr><tr><td colspan=\"2\">ULTIMATE BENEFICIAL OWNERSHIP REGULATIONS</td></tr><tr><td>Defined Term</td><td>Definition</td></tr><tr><td>National Entity</td><td>has the meaning given to that term in the Operating Regulations.</td></tr><tr><td>Nominee Director</td><td>a Director of a Company who is or becomes a nominee as prescribed in Regulation 5.1.4.</td></tr><tr><td>Non Profit Incorporated Organisations Law</td><td>the Non Profit Incorporated Organisations Law No. 6 of 2012.</td></tr><tr><td>Operating Law</td><td>the Operating Law No. 7 of 2018.</td></tr><tr><td>Operating Regulations</td><td>the Operating Regulations issued by the Board of Directors of the DIFCA.</td></tr><tr><td>Ownership Interest</td><td>an interest entitling the owner to receive distributions of income or capital, or to exercise voting rights, in relation to a Registered Person and if the proportion of distributions of either kind, or voting rights, is not identical, the highest proportion of these shall be the ownership interest.</td></tr><tr><td>Partnership Laws</td><td>the General Partnership Law, the Limited Liability Partnership Law and the Limited Partnership Law.</td></tr><tr><td>Prescribed Law</td><td>means:</td></tr><tr><td></td><td>(a) the Companies Law;</td></tr><tr><td>(b) (c)</td><td>the Limited Partnership Law;</td></tr><tr><td>(d)</td><td>the Limited Liability Partnership Law;</td></tr><tr><td></td><td>the General Partnership Law;</td></tr><tr><td></td><td>the Non Profit Incorporated Organisations Law; and</td></tr><tr><td></td><td>the Foundations Law,</td></tr><tr><td></td><td>and Prescribed Laws has a corresponding meaning. A reference to a Prescribed Law shall, where relevant, include a reference to any Regulations made under the Prescribed Law.</td></tr><tr><td>Recognised Exchange</td><td>an exchange which the Registrar is satisfied will subject the Registered Person to disclosure requirements which ensure adequate transparency of beneficial ownership.</td></tr><tr><td>Recognised Financial Services Regulator</td><td>the DFSA and any regulator of financial service activities established in a jurisdiction other than the DIFC recognised by the Registrar as applying</td></tr><tr><td>Register of Nominee Directors</td><td>equivalent standards of regulation as those applicable in the DIFC. shall be construed in accordance with Regulation 5.2.</td></tr><tr><td>Relevant Jurisdiction</td><td>the UAE or any other jurisdiction that the Registrar may determine from time</td></tr><tr><td></td><td>to time.</td></tr><tr><td>Relevant Percentage</td><td>is 25%.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Defined Term</td><td colspan=\"1\" rowspan=\"1\">Definition</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Supra-National Entity</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to that term in the Operating Regulations.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">UBO Particulars</td><td colspan=\"1\" rowspan=\"1\">is a reference to the particulars set out in Regulation 4.1.4(a) to (e).</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Ultimate Beneficial Owner</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to it by Regulation 3.1.</td></tr></table>",
+        "level": 5
+    },
+    "28": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "ULTIMATE BENEFICIAL OWNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "29": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1 ",
+        "level": 5
+    },
+    "30": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2 ",
+        "level": 5
+    },
+    "31": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "1.1.4 A term that is used in these Regulations, which does not appear in the table above and is defined in the Law or a Prescribed Law, shall have in these Regulations the same meaning as it has in the Law or the Prescribed Law, as the case may be. ",
+        "level": 4
+    },
+    "32": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "1.2 References to Writing ",
+        "level": 3
+    },
+    "33": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "1.2.1 If a provision in these Regulations refers to a communication, notice, agreement or other document “in writing” then, unless the contrary intention appears, it means in legible form and capable of being reproduced on paper, irrespective of the medium used. Expressions related to writing shall be interpreted accordingly. ",
+        "level": 4
+    },
+    "34": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "1.2.2 This does not affect any other legal requirements which may apply in relation to the form or manner of executing a document or agreement. ",
+        "level": 4
+    },
+    "35": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "2. EXEMPTIONS ",
+        "level": 2
+    },
+    "36": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "2.1 The requirements in Regulations 3 to 6 do not apply to a Registered Person which: ",
+        "level": 3
+    },
+    "37": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) has its securities listed or traded on a Recognised Exchange;   \n(b) is regulated by a Recognised Financial Services Regulator;   \n(c) is a Recognised Company, Recognised Foundation or Recognised Partnership, which satisfies the Registrar that it is subject to equivalent international standards, which ensure adequate transparency of ownership information in its home jurisdiction;   \n(d) is a Non Profit Incorporated Organisation which does not, as its primary function, engage in raising or disbursing funds for charitable, religious, cultural, educational, social, fraternal or similar purposes;   \n(e) is wholly owned by a government or government agency of a Relevant Jurisdiction; or   \n(f) established under a law of the United Arab Emirates to perform governmental functions. ",
+        "level": 4
+    },
+    "38": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "2.2 Notwithstanding Regulations 3 to 6, where a person referred to in Regulation 2.1(a) to (f) beneficially owns or controls (directly or indirectly) at least the Relevant Percentage of a Registered Person, the Registered Person shall: ",
+        "level": 4
+    },
+    "39": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) not be required to make any further inquiry as to its Ultimate Beneficial Ownership, to the extent that such ownership is directly or indirectly held by or through such an entity; and ",
+        "level": 5
+    },
+    "40": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(b) record the following information in respect of each such entity on its Beneficial Ownership Register: ",
+        "level": 5
+    },
+    "41": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(i) full legal name;   \n(ii) registered address;   \n(iii) the category under Regulation 2.1 that applies to the entity; and (iv) if the entity: ",
+        "level": 5
+    },
+    "42": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "A. has its securities listed or traded on a Recognised Exchange, the name of the Recognised Exchange; ",
+        "level": 5
+    },
+    "43": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "ULTIMATE BENEFICIAL OWNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "44": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "3 ",
+        "level": 5
+    },
+    "45": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "B. is regulated by a Recognised Financial Services Regulator, the name of such regulator;   \nC. is wholly owned by a government or government agency, its name and the Relevant Jurisdiction; or   \nD. is established under a law of the United Arab Emirates to perform governmental functions, the name of such law. ",
+        "level": 5
+    },
+    "46": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "3. BENEFICIAL OWNERSHIP OF REGISTERED PERSONS ",
+        "level": 2
+    },
+    "47": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "3.1 Ultimate Beneficial Owner ",
+        "level": 3
+    },
+    "48": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "3.1.1 For the purposes of these Regulations, an “Ultimate Beneficial Owner” of a Registered Person means a natural person (other than a person acting solely in the capacity of a professional adviser or professional manager) who: ",
+        "level": 4
+    },
+    "49": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "in relation to a company, owns or controls (directly or indirectly): ",
+        "level": 5
+    },
+    "50": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(i) Shares or other Ownership Interests in the Registered Person of at least the Relevant Percentage; (ii) voting rights in the Registered Person of at least the Relevant Percentage; or (iii) the right to appoint or remove the majority of the Directors of the Registered Person; ",
+        "level": 5
+    },
+    "51": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(b) in relation to a partnership, has the legal right to exercise, or actually exercises, significant control or influence over the activities of the partnership; or ",
+        "level": 5
+    },
+    "52": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(c) in relation to a foundation or a Non Profit Incorporated Organisation, has the legal right to exercise, or actually exercises, significant control or influence over the activities of the Governing Body, person or other arrangement administering the property or carrying out the objects of the foundation or the Non Profit Incorporated Organisation. ",
+        "level": 5
+    },
+    "53": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "3.1.2 Beneficial ownership may be traced through any number of persons or arrangements of any description. ",
+        "level": 4
+    },
+    "54": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "3.1.3 If two (2) or more natural persons jointly own or control an interest in a Registered Person in accordance with Regulation 3.1.1, each of them is treated for the purposes of these Regulations as owning or controlling that interest. ",
+        "level": 4
+    },
+    "55": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "3.1.4 If no natural person is identified as an Ultimate Beneficial Owner of a Registered Person under Regulation 3.1.1, any natural person upon whose instructions the Registered Person or its Governing Body is required or is accustomed to act, shall be an Ultimate Beneficial Owner. ",
+        "level": 4
+    },
+    "56": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "3.1.5 If there is no Ultimate Beneficial Owner of a Registered Person under either of Regulations 3.1.1 or 3.1.4, each: ",
+        "level": 4
+    },
+    "57": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(a) natural person that is a member of its Governing Body; and (b) Ultimate Beneficial Owner of a body corporate member of its Governing Body, shall be deemed to be an Ultimate Beneficial Owner of the Registered Person. ",
+        "level": 5
+    },
+    "58": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "3.2 Ultimate Beneficial Ownership Information ",
+        "level": 3
+    },
+    "59": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "3.2.1 Each Registered Person shall at all times take reasonable steps to obtain, maintain and hold adequate, accurate and current UBO Particulars in relation to each of its Ultimate Beneficial Owners and (if applicable) the information required under Regulation 2.2(b). ",
+        "level": 4
+    },
+    "60": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "3.2.2 A Registered Person shall be taken to have obtained, and shall hold, all information in relation to its Ultimate Beneficial Owners which is supplied to the Registrar in connection with its application for incorporation, registration or continuation, as the case may be. ",
+        "level": 4
+    },
+    "61": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "ULTIMATE BENEFICIAL OWNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "62": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "4 ",
+        "level": 5
+    },
+    "63": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "3.2.3 A Registered Person who is provided with a share transfer or other document relating to a change in ownership shall not register, recognise or give effect to that transfer or document, unless it is also provided with a statement by or on behalf of the transferee, which states: ",
+        "level": 4
+    },
+    "64": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) whether the transfer will result in a change in the Ultimate Beneficial Ownership of the Registered Person;   \n(b) if it will result in such a change, the nature of the change; and   \n(c) provides the UBO Particulars in respect of each new Ultimate Beneficial Owner, as a result of the change. ",
+        "level": 5
+    },
+    "65": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "3.3 Notice in respect of Ultimate Beneficial Ownership ",
+        "level": 3
+    },
+    "66": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "3.3.1 Without prejudice to the generality of Regulation 3.2.1, a Registered Person shall, subject to Regulation 3.3.3, give any person it has reasonable cause to believe, is an Ultimate Beneficial Owner and whose UBO Particulars are not correctly or fully recorded on its Beneficial Ownership Register, the notice referred to in Regulation 3.3.2. ",
+        "level": 4
+    },
+    "67": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "3.3.2 The notice referred to in Regulation 3.3.1 is a notice that: ",
+        "level": 4
+    },
+    "68": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) states that it is given under these Regulations;   \n(b) sets out the relevant UBO Particulars that the Registered Person reasonably knows or believes to be the relevant particulars and leaves a space in the appropriate place to indicate that a relevant particular is not known;   \n(c) requests the addressee to: ",
+        "level": 5
+    },
+    "69": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(i) state whether or not he or she is a beneficial owner of the Registered Person; (ii) confirm or correct any particulars that are included in the notice; and (iii) supply any particulars that are missing; and ",
+        "level": 5
+    },
+    "70": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(d) states that should the addressee fail to comply with the notice within thirty (30) days of receipt of the notice, the notified particulars will be entered in the Beneficial Ownership Register maintained by the Registered Person. ",
+        "level": 5
+    },
+    "71": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "3.3.3 A Registered Person is not required to give a notice under Regulation 3.3.1, if: ",
+        "level": 4
+    },
+    "72": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) it has already been supplied with all the required UBO Particulars by that person or with the knowledge of that person; or   \n(b) the Registered Person has made an inquiry (whether formal or informal) as to a natural person’s status as an Ultimate Beneficial Owner of it, and thirty (30) days has not elapsed since the making of those enquiries. ",
+        "level": 5
+    },
+    "73": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "3.3.4 For the purpose of identifying natural persons who are Ultimate Beneficial Owners, a Registered Person is entitled to rely in good faith, without further enquiry, on the response of a person to whom a notice in writing was given under Regulation 3.3.1, unless the Registered Person has reason to believe that the response is misleading or false. ",
+        "level": 4
+    },
+    "74": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "3.3.5 A Registered Person who fails to comply with Regulation 3.3.1 shall be liable to a fine, as specified in Article 61(4) of the Law. ",
+        "level": 4
+    },
+    "75": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "4. BENEFICIAL OWNERSHIP REGISTER ",
+        "level": 2
+    },
+    "76": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "4.1 Requirements relating to Beneficial Ownership Register ",
+        "level": 3
+    },
+    "77": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "4.1.1 A Registered Person shall keep and maintain a Beneficial Ownership Register within the time specified in Regulations 4.1.1 and 4.1.2, in which the UBO Particulars in respect of each of its Ultimate Beneficial Owners and (if applicable) the information required under Regulation 2.2(b), shall be recorded. The Registered Person shall record any changes to this information in the Beneficial Ownership Register within thirty (30) days of becoming aware of such change. ",
+        "level": 4
+    },
+    "78": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "ULTIMATE BENEFICIAL OWNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "79": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "5 ",
+        "level": 5
+    },
+    "80": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "4.1.2 Each Registered Person in existence at the Commencement Date shall establish a Beneficial Ownership Register within ninety (90) days of such commencement. ",
+        "level": 4
+    },
+    "81": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "4.1.3 Each Registered Person which comes into existence on or after the Commencement Date shall establish a Beneficial Ownership Register within thirty (30) days of its incorporation or registration. ",
+        "level": 4
+    },
+    "82": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "4.1.4 Subject to Regulation 2.2(b), the Registered Person shall cause the following information to be entered in its Beneficial Ownership Register in respect of each Ultimate Beneficial Owner: ",
+        "level": 4
+    },
+    "83": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(a) full legal name;   \n(b) residential address and, if different, an address for service of notices under these Regulations; (c) date and place of birth;   \n(d) nationality;   \n(e) information identifying the person from their passport or other government-issued nati identification document, including: ",
+        "level": 5
+    },
+    "84": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(i) identifying number; (ii) country of issue; and (iii) date of issue and of expiry; ",
+        "level": 5
+    },
+    "85": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(f) the date on which the person became an Ultimate Beneficial Owner of the Registered Person; and the date on which the person ceased to be an Ultimate Beneficial Owner of the Registered Person. ",
+        "level": 5
+    },
+    "86": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "4.1.5 If after having exhausted all reasonable means: ",
+        "level": 4
+    },
+    "87": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(a) no natural person is identified as the Ultimate Beneficial Owner of the Registered Person; or (b) there is reasonable doubt that that any natural person so identified is an Ultimate Beneficial Owner of the Registered Person, ",
+        "level": 5
+    },
+    "88": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "the Registered Person shall enter on its Beneficial Ownership Register, the UBO Particulars of the natural persons who are deemed to be the Ultimate Beneficial Owners pursuant to Regulation 3.1.5. ",
+        "level": 4
+    },
+    "89": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "4.1.6 If a Registered Person causes an entry to be made in its Beneficial Ownership Register naming a natural person as an Ultimate Beneficial Owner, and the information and particulars were not provided either by that natural person or with his knowledge, the Registered Person shall within thirty (30) days of making the entry, notify the person whose name has been included in the Beneficial Ownership Register of that fact. ",
+        "level": 4
+    },
+    "90": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "4.1.7 A Registered Person who fails to comply with Regulation 4.1.1 shall be liable to a fine, as specified in Article 61(4) of the Law. ",
+        "level": 4
+    },
+    "91": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "4.2 Application to the Court to rectify the Beneficial Ownership Register ",
+        "level": 3
+    },
+    "92": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "4.2.1 If: ",
+        "level": 4
+    },
+    "93": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(a) the name of any person is, without sufficient cause, entered in or omitted from; or   \n(b) no entry is made in; or   \n(c) unnecessary delay takes place in: (i) entering the name of any person in; or ",
+        "level": 5
+    },
+    "94": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "ULTIMATE BENEFICIAL OWNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "95": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "6 ",
+        "level": 5
+    },
+    "96": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(ii) removing the name of any person who has ceased to be a beneficial owner from, a Registered Person’s Beneficial Ownership Register, the person aggrieved or any other interested party may apply to the Court for rectification of the Beneficial Ownership Register. ",
+        "level": 4
+    },
+    "97": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "4.2.2 Where an application is made under Regulation 4.2.1, the Court may either: ",
+        "level": 4
+    },
+    "98": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(a) refuse the application; or (b) order rectification of the Beneficial Ownership Register and if appropriate, order payment by the Registered Person of compensation for any loss sustained by any party aggrieved. ",
+        "level": 5
+    },
+    "99": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "4.2.3 On such an application, the Court may: ",
+        "level": 4
+    },
+    "100": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(a) decide any question as to whether the name of any person who is a party to the application should or should not be entered in or omitted from the Beneficial Ownership Register; and   \n(b) decide any question necessary or expedient to be decided for rectification of the Beneficial Ownership Register. ",
+        "level": 5
+    },
+    "101": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "4.2.4 The reference in Regulation 4.2.1 to “any other interested party” is a reference to: ",
+        "level": 4
+    },
+    "102": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(a) any member of the Registered Person; (b) any person who is an Ultimate Beneficial Owner of the Registered Person; and (c) any person named as an Ultimate Beneficial Owner of the Registered Person. ",
+        "level": 5
+    },
+    "103": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "5. NOMINEE DIRECTORS ",
+        "level": 2
+    },
+    "104": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "5.1 Duty of Nominee Directors ",
+        "level": 3
+    },
+    "105": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "5.1.1 A Nominee Director shall inform the Company that he is a nominee and provide all the required particulars referred to in Regulation 5.2.1(a) to (e) of the person for whom the Nominee Director is a nominee within: ",
+        "level": 4
+    },
+    "106": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(a) sixty (60) days of the Commencement Date, where the Company is incorporated, registered or continued prior to the Commencement Date; or   \n(b) thirty (30) days of the later of: (i) the date of incorporation or registration of the Company; or (ii) the Nominee Director becoming a nominee. ",
+        "level": 5
+    },
+    "107": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "5.1.2 A Nominee Director shall inform the Company of any change to the particulars provided under Regulation 5.1.1 within thirty (30) days of the change. ",
+        "level": 4
+    },
+    "108": {
+        "type": "text",
+        "page_idx": 8,
+        "text": ".3 A Nominee Director shall also inform the Company that he ceased to be a nominee within thirty (30) days of the cessation. ",
+        "level": 4
+    },
+    "109": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "For the purposes of this Regulation 5, a Director is a Nominee Director if he is under an obligation to act in accordance with the directions, instructions or wishes of another person. ",
+        "level": 4
+    },
+    "110": {
+        "type": "text",
+        "page_idx": 8,
+        "text": ".1.5 A Nominee Director who fails to comply with Regulation 5.1.1 shall be liable to a fine, as specified in Article 61(4) of the Law. ",
+        "level": 4
+    },
+    "111": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "5.2 Register of Nominee Directors ",
+        "level": 3
+    },
+    "112": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "5.2.1 A Company which has one (1) or more Nominee Director shall keep and maintain a Register of Nominee Directors in which, the following information obtained pursuant to Regulation 5.1.1 or otherwise known by it, shall be entered in relation to the person on whose behalf, each Nominee Director acts: ",
+        "level": 4
+    },
+    "113": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "ULTIMATE BENEFICIAL OWNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "114": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "7 ",
+        "level": 5
+    },
+    "115": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(a) full legal name;   \n(b) residential address and, if different, an address for service of notices under these Regulations; (c) date of birth;   \n(d) nationality;   \n(e) information identifying the person from their passport or other government-issued national identification document, including: ",
+        "level": 5
+    },
+    "116": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(i) identifying number; (ii) country of issue; and (iii) date of issue and of expiry, and, in respect of each Nominee Director: ",
+        "level": 5
+    },
+    "117": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(f) the date on which the Nominee Director became a Nominee Director of the Company; and (g) the date on which he Nominee Director ceased to be a Nominee Director of the Company. ",
+        "level": 5
+    },
+    "118": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "5.2.2 A Company which fails to comply with Regulation 5.2.1 shall be liable to a fine, as specified in Article 61(4) of the Law. ",
+        "level": 4
+    },
+    "119": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "6. PROVISION OF INFORMATION TO REGISTRAR ",
+        "level": 2
+    },
+    "120": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "6.1 Access to Registers ",
+        "level": 3
+    },
+    "121": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "6.1.1 A Registered Person must not disclose, or make available for inspection, the Beneficial Ownership Register, the Register of Nominee Directors or any particulars contained in either register to any person, except: ",
+        "level": 4
+    },
+    "122": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(a) as provided in these Regulations;   \n(b) as required under any applicable law; or   \n(c) with the consent of the Ultimate Beneficial Owner or Nominee Directors, as the case may be. ",
+        "level": 5
+    },
+    "123": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "6.1.2 Each Registered Person in existence at the Commencement Date shall within ninety (90) days of such date provide to the Registrar the names and other required particulars of: ",
+        "level": 4
+    },
+    "124": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(a) any person whose name is included in its Beneficial Ownership Register; and (b) any Nominee Directors whose name is included in its Register of Nominee Directors. ",
+        "level": 5
+    },
+    "125": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "6.1.3 Each Registered Person which is incorporated, registered or converted after the Commencement Date shall be deemed to have provided to the Registrar the UBO Particulars of any Ultimate Beneficial Owners as part of the application for incorporation, registration or conversion. ",
+        "level": 4
+    },
+    "126": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "6.1.4 A Registered Person who fails to comply with Regulation 6.1.2 shall be liable to a fine, as specified in Article 61(4) of the Law. ",
+        "level": 4
+    },
+    "127": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "6.2 Notification to the Registrar ",
+        "level": 3
+    },
+    "128": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "6.2.1 A Registered Person which makes a change in its Beneficial Ownership Register or Register of Nominee Directors, shall within thirty (30) days of the date of making the change, notify the Registrar of the particulars of the change. ",
+        "level": 4
+    },
+    "129": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "ULTIMATE BENEFICIAL OWNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "130": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "8 ",
+        "level": 5
+    },
+    "131": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "6.2.2 The Registrar may pursuant to Regulations 6.1.2 and 6.2.1 require the provision of such further information in relation to any Ultimate Beneficial Owner on the Beneficial Ownership Register, or Nominee Directors on the Register of Nominee Directors, as the Registrar may require. ",
+        "level": 4
+    },
+    "132": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "6.2.3 A Registered Person who fails to comply with Regulation 6.2.1 shall be liable to a fine, as specified in Article 61(4) of the Law. ",
+        "level": 4
+    },
+    "133": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "6.3 Notices issued by the Registrar ",
+        "level": 3
+    },
+    "134": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "6.3.1 The Registrar may, by notice in writing served on a Registered Person or any other person (without prejudice to any lien claimed by such a person on any documents produced by him) who may have information or documents related to Ultimate Beneficial Owners or Nominee Directors, whichever is applicable, to: ",
+        "level": 4
+    },
+    "135": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "(a) provide; or   \n(b) produce for the purposes of inspection; or   \n(c) furnish, to the Registrar's officers, servants or agents authorised for the purposes of inspection under this Regulation 6.3, on production of evidence of such authority, ",
+        "level": 5
+    },
+    "136": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "such information or documents, in such form and manner, within such time and at such place as may be specified in the notice, as the Registrar may require for the performance of his functions under these Regulations. ",
+        "level": 5
+    },
+    "137": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "6.3.2 The powers conferred on the Registrar by Regulations 6.3.1 to require a person to provide information or produce any documents, includes the power: ",
+        "level": 4
+    },
+    "138": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "(a) where the documents are produced, to take copies of them or extracts from them, in circumstances where the Registrar is satisfied that the taking of such copies or extracts is necessary for the proper exercise of powers under or in relation to these Regulations;   \n(b) where the documents are not produced, to require the person who was required to produce them to state, to the best of his knowledge and belief, where they are;   \n(c) to attend at such time and place as may be required and explain and answer questions relating to any matters in relation to which the production of the information may be required; and   \n(d) where required by the urgency of the situation or other relevant circumstances, to attend at the Registered Person’s place of business or its registered office in the DIFC, without prior notice and to request any such information or documents to be produced immediately. ",
+        "level": 5
+    },
+    "139": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "6.3.3 A person to whom a notice or other request is directed is not required to provide any information that is subject to legal professional privilege. ",
+        "level": 4
+    },
+    "140": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "6.3.4 A statement made by a person in response to a requirement imposed by or under Regulations 6.3.1 to 6.3.2 may be used in evidence against him in: ",
+        "level": 4
+    },
+    "141": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "(a) proceedings other than criminal proceedings; and   \n(b) in criminal proceedings: (i) where evidence relating to it is adduced, or a question relating to it is asked, in the proceedings by or on behalf of that person; or (ii) for:   \nA. an offence under these Regulations, the Law or a Prescribed Law;   \nB. some other offence where, in giving evidence, he makes a statement inconsistent with it, but the statement is only admissible to the extent necessary to establish the inconsistency; ",
+        "level": 5
+    },
+    "142": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "ULTIMATE BENEFICIAL OWNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "143": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "9 ",
+        "level": 5
+    },
+    "144": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "C. perjury; or D. perverting the course of justice. ",
+        "level": 5
+    },
+    "145": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "6.3.5 If a Registered Person is in the process of being wound up or dissolved, the liquidator or other person responsible for the winding up of the affairs of the Registered Person shall deliver to the Registrar the Beneficial Ownership Register and (if applicable) the Register of Nominee Directors of the Registered Person or a true copy thereof, within thirty (30) days of his or her appointment. ",
+        "level": 4
+    },
+    "146": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "6.3.6 In the case where a Registered Person is in the process of being struck off the Public Register, the members of the Governing Body shall deliver to the Registrar the Beneficial Ownership Register and (if applicable) the Register of Nominee Directors of the Registered Person or a true copy thereof, within thirty (30) days of an application for strike off made by the Registered Person or a notice of strike off issued by the Registrar. ",
+        "level": 4
+    },
+    "147": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "6.3.7 A Registered Person who fails to comply with a notice issued under Regulation 6.3.1 shall be liable to a fine, as specified in Article 61(4) of the Law. ",
+        "level": 4
+    },
+    "148": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "6.3.8 A Registered Person who fails to comply with Regulations 6.3.5 or 6.3.6 shall be liable to a fine, as specified in Article 61(4) of the Law. ",
+        "level": 4
+    },
+    "149": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "7. OBLIGATIONS OF REGISTRAR ",
+        "level": 2
+    },
+    "150": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "7.1.1 The Registrar shall collect and process information relating to Ultimate Beneficial Owners and Nominee Directors obtained by him under these Regulations only for the purposes of regulation in relation to money laundering and terrorism financing, unlawful organisations and sanctions compliance in the DIFC, or to comply with any other applicable laws in the DIFC. ",
+        "level": 3
+    },
+    "151": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "7.1.2 Except as required for the purpose of Regulation 7.1.1 or for the purposes of Regulation 7.1.4, the Registrar shall: ",
+        "level": 4
+    },
+    "152": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "(a) not retain in his possession such information; and (b) shall make arrangements for its secure destruction. ",
+        "level": 5
+    },
+    "153": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "7.1.3 The Registrar shall, unless the Registered Person consents to such disclosure, disclose such information only at the request of a regulator, a law enforcement agency or other government authority prescribed by law, and then only to the regulator, agency or authority which made the request, for the purpose of such a request. ",
+        "level": 4
+    },
+    "154": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "7.1.4 In the case of a Registered Person that has been wound up, dissolved, terminated or struck off, the Registrar shall retain any records delivered to him pursuant to Regulation 6.3.5 relating to that legal person as at the date of its dissolution, termination or striking off (as the case may be) for a period of 6 years after that date. ",
+        "level": 4
+    },
+    "155": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "8. ENFORCEMENT ",
+        "level": 2
+    },
+    "156": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "8.1 Removal of Ultimate Beneficial Owner ",
+        "level": 3
+    },
+    "157": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "8.1.1 Where the Registrar is notified or becomes aware that an Ultimate Beneficial Owner of a Registered Person is: ",
+        "level": 4
+    },
+    "158": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "(a) the subject of a sanction imposed by any government, National Entity or Supra-National Entity; or (b) involved or has been involved in any proceedings that are law enforcement related or criminal, civil, regulatory, tax or administrative in nature, and ",
+        "level": 5
+    },
+    "159": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "the Registrar considers that having such a person as an Ultimate Beneficial Owner of a Registered Person in the DIFC is: ",
+        "level": 4
+    },
+    "160": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "contrary to the Law or any other Legislation administered by the Registrar; or ",
+        "level": 5
+    },
+    "161": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "prejudicial to the interests of the DIFC, ",
+        "level": 5
+    },
+    "162": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "the Registrar may, by notice in writing served on a Registered Person, require the Registered Person to remove such a person as an Ultimate Beneficial Owner of the Registered Person within the time specified in the notice. ",
+        "level": 4
+    },
+    "163": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "ULTIMATE BENEFICIAL OWNERSHIP REGULATIONS ",
+        "level": 1
+    },
+    "164": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "10 ",
+        "level": 5
+    },
+    "165": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "8.1.2 A Registered Person who fails to comply with a notice issued under Regulation 8.1.1 shall be liable to a fine, as specified in Article 61(4) of the Law. ",
+        "level": 4
+    },
+    "166": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "8.2 Strike off ",
+        "level": 3
+    },
+    "167": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "If a Registered Person, fails to comply with any requirement of these Regulations or notice thereunder, the Registrar may, after following the Decision-making Procedures, strike the Registered Person off the Public Register. ",
+        "level": 4
+    },
+    "168": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "ULTIMATE BENEFICIAL OWNERSHIP REGULATIONS ",
+        "level": 1
+    }
+}

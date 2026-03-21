@@ -1,0 +1,1145 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            395,
+            334,
+            612,
+            383
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 1 ",
+        "text_level": 1,
+        "bbox": [
+            205,
+            534,
+            799,
+            567
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FEBRUARY 2025 ",
+        "bbox": [
+            380,
+            581,
+            631,
+            606
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC Law Amendment Law No. 1 of 2025 ",
+        "bbox": [
+            114,
+            618,
+            897,
+            652
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 1 ",
+        "text_level": 1,
+        "bbox": [
+            343,
+            66,
+            666,
+            85
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AMENDED DATA PROTECTION LAW AND REGULATIONS ",
+        "bbox": [
+            198,
+            91,
+            811,
+            111
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Why are we issuing this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            127,
+            358,
+            144
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The Dubai International Financial Centre Authority (“DIFCA”) proposes to enact amendments to: ",
+        "bbox": [
+            92,
+            157,
+            924,
+            198
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a. the Data Protection Law, DIFC Law No. 5 of 2020 (the “DPL”); b. the Law of Security, DIFC Law No. 4 of 2022 (the “LoS”); c. the Insolvency Law, DIFC Law No. 1 of 2019 (the “Insolvency Law”); and d. the Employment Law, DIFC Law No. 2 of 2019 (the “Employment Law”), through the DIFC Laws Amendment Law No. 1 of 2025 (the “DIFC Amendment Law”) (together the “Proposed Legislation”). ",
+        "bbox": [
+            153,
+            216,
+            808,
+            347
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. This Consultation Paper is divided into separate parts: (i) Part A deals with the proposed amendments to the DPL; (ii) Part B deals with the proposed amendments to the LoS; (iii) Part C deals with the proposed amendments to the Insolvency Law; and (iv) Part D deals with the proposed amendments to the Employment Law. This Consultation Paper No. 1 of 2025 (“Consultation Paper”) seeks public comments on the Proposed Legislation. ",
+        "bbox": [
+            94,
+            423,
+            922,
+            534
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Who should read this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            555,
+            336,
+            572
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. This Consultation Paper would be of interest to persons conducting or proposing to conduct business in the DIFC. In particular: ",
+        "bbox": [
+            94,
+            586,
+            920,
+            627
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a. DIFC Registered Persons;   \nb. data protection officers and professionals, and the senior managers of the companies they represent;   \nc. developers of technology that enable the digital economy;   \nd. banks and financial institutions;   \ne. investment companies and fund managers;   \nf. entities operating in the DIFC that are involved in collateralised hedging and other collateralised financial market sales and trading transactions; ",
+        "bbox": [
+            151,
+            644,
+            907,
+            894
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            890,
+            934,
+            904,
+            946
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "g. creditors of collateral over cash and/ or securities provided by DIFC counterparties; and h. legal advisors and corporate service providers to any of the above. ",
+        "bbox": [
+            153,
+            66,
+            893,
+            144
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "How to provide comments ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            167,
+            314,
+            182
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. All comments should be provided to the person specified below: ",
+        "bbox": [
+            90,
+            198,
+            690,
+            216
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates   \nor e-mailed to: consultation@difc.ae ",
+        "bbox": [
+            153,
+            235,
+            484,
+            365
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. You may choose to identify the organisation you represent in your comments. ",
+        "bbox": [
+            89,
+            384,
+            799,
+            402
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "bbox": [
+            94,
+            420,
+            920,
+            461
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "What happens next? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            483,
+            269,
+            501
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. The deadline for providing comments on the proposals in this Consultation Paper is 26 March 2025.   \n8. Once we receive your comments, we will consider if any further refinements are required to the Proposed Legislation. Once DIFCA considers the changes to be in a suitable form, the Proposed Legislation will be enacted to come in to force on a date specified and published.   \n9. The Proposed Legislation is in draft form only. You should not act on it until it is formally enacted. We will issue a notice on our website when this happens. ",
+        "bbox": [
+            85,
+            514,
+            924,
+            698
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            719,
+            215,
+            736
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase or are defined in the Proposed Legislation. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "bbox": [
+            94,
+            750,
+            922,
+            837
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            890,
+            934,
+            904,
+            945
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            919,
+            60
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PART A – PROPOSED AMENDMENTS TO THE DPL ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            66,
+            550,
+            84
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key features of the Proposed Legislation ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            106,
+            436,
+            124
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11. The key aspects of the proposal include: ",
+        "bbox": [
+            95,
+            146,
+            491,
+            163
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a) amendments to Article 6(3) to clarify the scope of application of the DPL to ensure DIFC Data Subjects are offered the full protection of the Law;   \nb) amendments to Article 28(2) of the DPL to support a basis for the Commissioner to reassess the adequacy referential for assessing the suitability of Third Countries for receiving Personal Data, as well as reinforcing the risk-based approach imposed on Controllers and Processors to assure that Personal Data processed by a government authority will be protected and that redress will be available to a foreign Data Subject in some reasonable form;   \nc) proposed amendments to Part 9 of the DPL regarding the availability of a Private Right of Action (“PRA”) through the DIFC Courts; and   \nd) other miscellaneous changes. ",
+        "bbox": [
+            163,
+            180,
+            920,
+            470
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Article 6: Clarification and Extension of the Scope of Application of the DPL ",
+        "text_level": 1,
+        "bbox": [
+            85,
+            491,
+            765,
+            509
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "12. The fundamental principle underlying the design of data protection laws around the world is the protection of an individual’s reasonable expectations of privacy. An individual’s reasonable expectations for the privacy rights he enjoys must be consistent across everyday life and activities, irrespective of where these physically take place or the location of businesses he interacts with. For this reason, leading international data protection regimes exert a circumscribed extra-territorial scope of application. ",
+        "bbox": [
+            95,
+            530,
+            920,
+            662
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "13. Proposed amendments to Article 6(3) of the DPL seek to clarify that the DPL applies to any Processor or Controller that engages in the processing of Personal Data in the DIFC, whether such processing is undertaken directly by the Processor or Controller itself, indirectly through a third party (e.g. a sub-processor or sub-contractor in the DIFC), or if such processing originates in the DIFC pursuant to stable arrangements (the “Article 6(3) Amendments”). ",
+        "bbox": [
+            95,
+            679,
+            920,
+            788
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14. The DPL is intended to apply to: ",
+        "bbox": [
+            95,
+            807,
+            425,
+            825
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a) a DIFC registered entity that Processes Personal Data, regardless of where the Processing takes place; ",
+        "bbox": [
+            153,
+            844,
+            917,
+            884
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            890,
+            935,
+            902,
+            945
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b) to any entity, regardless of its place of incorporation, that Processes Personal Data in the DIFC as part of stable arrangements; and   \nc) an entity, regardless of its place of incorporation, that Processes Personal Data of individuals in the DIFC (which could include those that work or are resident in the DIFC) in relation to the offering of goods or services to such individuals, or the monitoring of the behaviour of such individuals, so far as such behaviour takes place in the DIFC. ",
+        "bbox": [
+            153,
+            66,
+            920,
+            212
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "15. The Article 6(3) Amendments are intended to align the extra-territorial scope of the DPL with comparable legislation in other jurisdictions, notably the GDPR, and remove ambiguity regarding the application of the DPL to the processing of the Personal Data of any Data Subject who has his habitual residence or place of work in the DIFC, regardless of the place of incorporation of the Controller or Processor. ",
+        "bbox": [
+            94,
+            230,
+            919,
+            338
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "16. Additionally, the Article 6(3)(b) Amendments are proposed to clarify that non-DIFC Controllers and Processors fall within the scope of the DPL’s application, where they are engaged in the processing of Personal Data in the DIFC through stable arrangements with third parties. Although the Commissioner has consistently interpreted Article 6(3)(b) in this manner, and has issued guidance to that effect, the Article 6(3)(b) Amendments aim to clarify any ambiguity or potential argument over the meaning of the current language in that provision. ",
+        "bbox": [
+            95,
+            357,
+            919,
+            509
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "17. The Article 6(3) Amendments are also intended to ensure that individuals who normally enjoy robust privacy rights while in the DIFC on a regular, on-going basis will not artificially lose them when leaving the territorial limits of the DIFC to interact with entities located outside of the DIFC. ",
+        "bbox": [
+            94,
+            529,
+            920,
+            614
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q1. Do you agree that the Article 6(3) Amendments clarify the scope of extra-territoriality of the DPL, including with regards to stable arrangements? If not, please provide details. ",
+        "bbox": [
+            92,
+            636,
+            919,
+            699
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Article 28: Assessment of the availability of redress for unlawful processing by Government Authorities ",
+        "bbox": [
+            92,
+            724,
+            922,
+            764
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "18. Redress is of paramount importance to ensure the security of Data Subjects’ rights, even where redress involves a government authority respondent. ",
+        "bbox": [
+            94,
+            786,
+            920,
+            827
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            946
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "19. In order to address this, an additional sub-article is proposed to Article 28(2) requiring a Controller or Processor to satisfy itself that legal or other suitable redress will be available to a Data Subject in the importing jurisdiction when sharing data with a Requesting Authority (the “Article 28(2) Amendments”). ",
+        "bbox": [
+            94,
+            66,
+            919,
+            153
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "20. The Article 28(2) Amendments will also support the basis for the Commissioner to reassess the adequacy referential for assessing the suitability of Third Countries for receiving Personal Data. ",
+        "bbox": [
+            92,
+            171,
+            920,
+            232
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. On this basis, it is suggested that the Article 28(2) Amendments are added to the DPL (and that related guidance is updated) to ensure that risk-based due diligence is codified in the DPL, in alignment with the Commissioner’s approach to ethical data management. ",
+        "bbox": [
+            92,
+            251,
+            920,
+            317
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Q2. Do you agree with the approach proposed in Article 28(2)(c)? If not, please provide detailed reasons.   \nQ3. Do the amendments to Article 28(2) adequately assist in mitigating risks of harm to individuals whose Personal Data is processed by Requesting Authorities? If not, please provide detailed reasons.   \nQ4. Do you have any concerns regarding the practical implementation of Article 28(2)? If so, please provide details.   \nQ5. Do you consider that any other approaches for understanding and assessing the availability of legal or other forms of redress in an importing jurisdiction are appropriate? Please provide detailed responses. ",
+        "bbox": [
+            87,
+            334,
+            924,
+            602
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            890,
+            935,
+            902,
+            945
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            42,
+            917,
+            60
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PART 9: Private Right of Action ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            106,
+            377,
+            124
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "23. Part 9 of the DPL addresses various recourse and remedies available to Data Subjects. In order to further enhance available rights and remedies, a proposed private right of action has been set out for consultation purposes at new Article 64A (the “Part 9 Amendments”). ",
+        "bbox": [
+            94,
+            146,
+            920,
+            210
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "24. Under the current DPL, a Data Subject contending that their Personal Data has been processed in contravention of the DPL, or that their rights under the DPL have been breached, must generally seek recourse by making a complaint to the Commissioner. The Commissioner must then investigate the matter and take any enforcement action against the offending Controller or Processor (i.e., a warning, direction, fine, etc.) that the Commissioner considers appropriate. ",
+        "bbox": [
+            92,
+            226,
+            920,
+            358
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "25. Only if the Commissioner has refused to take enforcement action, or if an action is taken but is unsatisfactory, can the aggrieved Data Subject directly seek judicial redress by appeal to the DIFC Court, and even in that case the judicial process is limited (i.e. as to fact finding). ",
+        "bbox": [
+            92,
+            376,
+            920,
+            440
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "26. This enforcement approach, requiring Data Subjects to first go through the Commissioner’s Office before they can seek direct judicial redress of alleged DPL violations, can be seen to result in certain drawbacks, including: ",
+        "bbox": [
+            94,
+            458,
+            920,
+            522
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a) Where the Commissioner takes enforcement action against an offending Controller or Processor, the legislative purpose of that enforcement action is corrective, rather than compensatory. Enforcement action is, by its nature, directed at the offending Controller or Processor, rather than compensating the Data Subject who has suffered the breach. ",
+        "bbox": [
+            163,
+            540,
+            920,
+            649
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "b) Although the DPL provides a right for the Data Subject to seek compensation in the DIFC Court, such a claim requires the Data Subject to prove his actual loss – something that can pose particular complexities in data breach cases, often due to the perceived nature of such harms. For instance, the misuse of personal data may not result in a direct financial loss for a Data Subject but can cause a great deal of emotional distress to the Data Subject. ",
+        "bbox": [
+            163,
+            667,
+            920,
+            799
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "c) Businesses may not be sufficiently incentivised to comply with the DPL if they know that the main form of recourse for a Data Subject, whose rights they have violated, is through a complaint procedure to the Commissioner. ",
+        "bbox": [
+            164,
+            817,
+            919,
+            881
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "27. The proposed Part 9 Amendments are modelled on the UK’s Data Protection Act 2018 and the provisions dealing with compensation for contravention of the GDPR and other data protection legislation. The Proposed amendments to Part 9 of the DPL provide additional enforcement protection to Data Subjects in the following key ways: ",
+        "bbox": [
+            94,
+            66,
+            919,
+            152
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "a) The proposed introduction of Article 64A for violations of the DPL will allow a Data Subject contending that his Personal Data has been Processed in violation of the DPL, or that his rights under the DPL have been violated, to seek a “private right of action” permitting him to apply to the DIFC Courts for compensation. This establishes a clear statutory right for an aggrieved Data Subject to directly seek judicial redress at the Courts for alleged violations of the DPL, without the need for a prior investigation or action by the Commissioner.   \nb) Empowering the Courts with plenary jurisdiction to make compensatory orders in respect of a PRA claim. It is noted that “damage” under Article 64(a)(5) includes not just financial lost but also damage “not involving financial loss, such as distress”. ",
+        "bbox": [
+            149,
+            169,
+            924,
+            407
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "28. It is noted that a PRA, if implemented, will be without prejudice to the Data Subject’s right to also file a complaint with the Commissioner for the same violation or breach under the current procedure in Article 60 of the DPL. ",
+        "bbox": [
+            92,
+            423,
+            919,
+            488
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Q6. Do you agree that a PRA is appropriate in a jurisdiction such as the DIFC? If not, please provide details. You may wish to comment on: a) the positive or negative impact on Controllers or Processors of adding a PRA to the DPL (i.e., monetary, resources, etc); or b) the positive or negative impact on the Courts with respect to the types of lawsuits it may encourage (i.e., legitimate vs frivolous).   \nQ7. Do you think any other rights and redress mechanisms would be more desirable for either Data Subjects or Controllers or Processors? ",
+        "bbox": [
+            89,
+            508,
+            922,
+            730
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Miscellaneous changes ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            754,
+            306,
+            770
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "29. Article 47 of the DPL has been updated to enable the Commissioner to set the scope and function of any advisory committees he establishes, within the parameters of the DPL, but without the need to separately confirm this within the Data Protection Regulations. ",
+        "bbox": [
+            94,
+            792,
+            920,
+            856
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "30. Separately the DPL will be updated to remove references to the “Law and/or these Regulations” that appear throughout the DPL to simply the “Law”, as the Rules of Interpretation of the DPL (see paragraph 1(l) of Schedule 1) provide that a reference to “this Law includes any Regulations made under this Law”. ",
+        "bbox": [
+            94,
+            66,
+            920,
+            152
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "31. Finally the fines table at Schedule 2 of the DPL has been updated to: i) remove superfluous references to “made for the purpose of this Law”; ii) introduce a fine of $\\$ 25,000$ for contravention of Article 19 of the DPL (failure to complete an Annual Assessment); iii) and to increase fines for breaches of Article 20 (failure to carry out a data protection impact assessment prior High Risk Processing Activities) and Article 28 (with regards to data sharing) from $\\$ 20,000$ and $\\$ 10,000$ respectively to $\\$ 50,000$ . ",
+        "bbox": [
+            92,
+            171,
+            920,
+            301
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Q8. Do you have any other comments in relation to the proposed amendments? ",
+        "text_level": 1,
+        "bbox": [
+            87,
+            324,
+            828,
+            342
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            890,
+            935,
+            902,
+            945
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PART B – PROPOSED AMENDMENTS TO THE LAW OF SECURITY ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            66,
+            685,
+            84
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Rationale for amendments ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            108,
+            318,
+            123
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "32. DIFCA is making the proposed amendments in Part 8 (Financial Collateral Arrangements) and Part 9 (Conflict of Laws) of the Law of Security in response to queries received by DIFCA by market participants to clarify certain matters in relation to financial collateral. ",
+        "bbox": [
+            94,
+            146,
+            920,
+            209
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "33. The legal regime governing financial collateral arrangements after enactment of the proposed amendments to the Law of Security should also more closely align the DIFC regime with those available for financial collateral arrangements in other jurisdictions with similar regulations, such as those in European Union member state countries under Directive 2002/47/EC on Financial Collateral Arrangements (commonly known as the \"Financial Collateral Directive\") and the United Kingdom under SI 2003/3226 The Financial Collateral Arrangements (No.2) Regulations 2003 (as amended). ",
+        "bbox": [
+            92,
+            226,
+            920,
+            381
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Q9. Do you have any comments or other suggestions in relation to the Proposed Law? If so, what are they and how should they be addressed? ",
+        "bbox": [
+            90,
+            402,
+            920,
+            444
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            888,
+            935,
+            907,
+            945
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            457,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PART C – PROPOSED AMENDMENTS TO THE INSOLVENCY LAW ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            66,
+            681,
+            84
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "BACKGROUND ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            106,
+            232,
+            123
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "34. In Part C, DIFCA is proposing to amend the Insolvency Law to clarify the definition of Security Right. ",
+        "bbox": [
+            94,
+            146,
+            920,
+            186
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "35. The defined term “Security Right” under the Insolvency Law currently refers to the meaning given to Security Right in the LoS. This has the effect of excluding from the Insolvency Law security over immoveable assets such as real estate, (with such rights being dealt with under the DIFC Real Property Law, DIFC Law No. 10 of 2018 and not the Law of Security). To ensure that the Insolvency Law’s “Security Right” definition covers both moveable and immoveable assets, the following clarification is proposed: ",
+        "bbox": [
+            94,
+            205,
+            920,
+            336
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "“has the meaning set out in the Security Law, save that the term ‘Movable Asset’ is replaced by ‘an asset”. ",
+        "bbox": [
+            149,
+            355,
+            912,
+            388
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Q10. Do you have any comments on the proposed revision to the definition of Security Right in the Insolvency Law? If so, please provide details. ",
+        "bbox": [
+            94,
+            421,
+            919,
+            461
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "11 ",
+        "bbox": [
+            888,
+            935,
+            905,
+            945
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "PART D – PROPOSED AMENDMENTS TO THE EMPLOYMENT LAW ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            66,
+            691,
+            84
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "BACKGROUND ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            106,
+            232,
+            122
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "36. In Part D, DIFCA is proposing a clarificatory amendment to the Employment Law in response to queries received from Employers within the DIFC regarding Qualifying Scheme contributions for GCC Nationals. ",
+        "bbox": [
+            94,
+            146,
+            920,
+            209
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "37. Part 10 of the Employment Law was updated in March 2024, pursuant to DIFC Law Amendment Law No. 1 of 2024. This change makes it necessary for DIFC Employers to make contributions into a Qualifying Scheme on behalf of GCC Nationals, if there is a positive difference between what would have been payable into a Qualifying Scheme had the Employee been a non-GCC National and the amount the Employer pays into the GPSSA on behalf of that GCC National Employee. This is subject to a $\\$ 1000$ de minimus amount. ",
+        "bbox": [
+            92,
+            226,
+            920,
+            359
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "38. Article 66(7)(c)(ii) has been amended to clarify that the calculation for GCC Nationals (to the extent that a contribution into a Qualifying scheme is required) is based on the Employer’s GPPSA contribution for the relevant Employee, and not in respect of any amounts payable by that Employee into the GPSSA. ",
+        "bbox": [
+            94,
+            376,
+            920,
+            463
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Q.11 Do you have any comments on the proposed clarification to Article 66(7)(c)(ii) of the Employment Law? If so, please provide details. ",
+        "bbox": [
+            94,
+            484,
+            920,
+            526
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Legislative proposal ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            551,
+            265,
+            568
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "39. This legislative proposal contains the following: ",
+        "bbox": [
+            92,
+            583,
+            545,
+            600
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) the Proposed Law (at Annex A);   \n(b) a table of comments to provide your views and comments on the consultation paper (at Annex B). ",
+        "bbox": [
+            153,
+            618,
+            920,
+            688
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "12 ",
+        "bbox": [
+            888,
+            934,
+            907,
+            945
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            457,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 11
+    }
+]
