@@ -181,6 +181,7 @@ def build_pipeline():
         reranker=reranker,
         use_turbopuffer=use_turbopuffer,
         skip_indexing=skip_indexing,
+        turbopuffer_namespace=CONFIG.turbopuffer_namespace,
     )
 
     # Retrieval defaults that affect runtime cost/recall.

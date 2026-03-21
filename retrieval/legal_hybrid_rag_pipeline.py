@@ -100,6 +100,7 @@ class LegalHybridRAGPipeline:
         store: Optional[TurbopufferStore] = None,
         use_turbopuffer: bool = False,
         skip_indexing: bool = False,
+        turbopuffer_namespace: str = "legal-challenge-final",
     ) -> None:
         self.llm = llm
         self.embedding_model = embedding_model
@@ -116,7 +117,7 @@ class LegalHybridRAGPipeline:
         self.use_turbopuffer = use_turbopuffer
         self.store = store
         if self.store is None and self.use_turbopuffer:
-            self.store = TurbopufferStore(namespace="legal-challenge", region="gcp-europe-west3")
+            self.store = TurbopufferStore(namespace=turbopuffer_namespace, region="gcp-europe-west3")
         self.loader = loader or IngestedCorpusLoader(ingest_root=ingest_root, docs_root=docs_root)
         self.chunker = chunker or LegalIngestChunker(LegalChunkerConfig())
         self.router = router or LegalQuestionRouter()

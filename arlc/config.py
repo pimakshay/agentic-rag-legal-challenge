@@ -40,7 +40,7 @@ class EnvConfig:
     code_archive_path: Path
     questions_path: Path
     docs_dir: str
-
+    turbopuffer_namespace: str
     @classmethod
     def from_env(cls) -> "EnvConfig":
         """Load config from env. Defaults point to production platform."""
@@ -67,7 +67,8 @@ class EnvConfig:
         code_archive_path = Path(_get("CODE_ARCHIVE_PATH", "code_archive.zip"))
         questions_path = Path(_get("QUESTIONS_PATH", "questions.json"))
         docs_dir = _get("DOCS_DIR", "docs_corpus")
-
+        turbopuffer_namespace = _get("TURBOPUFFER_NAMESPACE", "legal-challenge-final")
+        
         return cls(
             eval_api_key=eval_api_key,
             eval_base_url=eval_base_url.rstrip("/"),
@@ -84,6 +85,7 @@ class EnvConfig:
             code_archive_path=code_archive_path,
             questions_path=questions_path,
             docs_dir=docs_dir,
+            turbopuffer_namespace=turbopuffer_namespace,
         )
 
     def get_llm_api_key(self) -> str:
