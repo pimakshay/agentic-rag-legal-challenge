@@ -27,13 +27,13 @@
         "type": "text",
         "page_idx": 0,
         "text": "As amended by DIFC Laws Amendment Law DIFC Law No. 2 of 2022 ",
-        "level": 3
+        "level": 2
     },
     "5": {
         "type": "text",
         "page_idx": 0,
         "text": "Common Reporting Standard Law Amendment Law DIFC Law No. 6 of 2020 ",
-        "level": 3
+        "level": 2
     },
     "6": {
         "type": "text",
@@ -129,103 +129,103 @@
         "type": "text",
         "page_idx": 2,
         "text": "2. Legislative Authority ",
-        "level": 2
+        "level": 3
     },
     "22": {
         "type": "text",
         "page_idx": 2,
         "text": "The Law is made by the Ruler. ",
-        "level": 3
+        "level": 4
     },
     "23": {
         "type": "text",
         "page_idx": 2,
         "text": "3. Purpose of the Law ",
-        "level": 2
+        "level": 3
     },
     "24": {
         "type": "text",
         "page_idx": 2,
         "text": "The purpose of this Law is to: ",
-        "level": 3
+        "level": 4
     },
     "25": {
         "type": "text",
         "page_idx": 2,
         "text": "(a) implement the Common Reporting Standard in the DIFC;   \n(b) impose obligations on Reporting Financial Institutions to collect and report the information required under the Common Reporting Standard; and   \n(c) authorise the Relevant Authority to administer and enforce the Common Reporting Standard in the DIFC. ",
-        "level": 4
+        "level": 5
     },
     "26": {
         "type": "text",
         "page_idx": 2,
         "text": "4. Application of the Law ",
-        "level": 2
+        "level": 3
     },
     "27": {
         "type": "text",
         "page_idx": 2,
         "text": "This Law applies to: ",
-        "level": 3
+        "level": 4
     },
     "28": {
         "type": "text",
         "page_idx": 2,
         "text": "(a) any Reporting Financial Institution subject to the supervision of the Relevant Authority under this Law;   \n(b) any Account Holder and Controlling Person of a Reportable Account held with a Reporting Financial Institution subject to the supervision of the Relevant Authority under this Law; and   \n(c) any other person to whom a provision is specified to apply. ",
-        "level": 4
+        "level": 5
     },
     "29": {
         "type": "text",
         "page_idx": 2,
         "text": "5. Date of enactment ",
-        "level": 2
+        "level": 3
     },
     "30": {
         "type": "text",
         "page_idx": 2,
         "text": "The Law is enacted on the date specified in the Enactment Notice in respect of this Law. ",
-        "level": 3
+        "level": 4
     },
     "31": {
         "type": "text",
         "page_idx": 2,
         "text": "6. Commencement ",
-        "level": 2
+        "level": 3
     },
     "32": {
         "type": "text",
         "page_idx": 2,
         "text": "The Law comes into force on the date specified in the Enactment Notice in respect of this Law, except in respect of the following where the provisions of this Law shall apply retrospectively: ",
-        "level": 3
+        "level": 4
     },
     "33": {
         "type": "text",
         "page_idx": 2,
         "text": "(a) in respect of Pre-existing Accounts that are subject to due diligence requirements under this Law, the effective date is 31 December, 2016; and   \n(b) in respect of New Accounts that are subject to due diligence requirements under this Law, the effective date is 1 January, 2017. ",
-        "level": 4
+        "level": 5
     },
     "34": {
         "type": "text",
         "page_idx": 2,
         "text": "7. Interpretation ",
-        "level": 2
+        "level": 3
     },
     "35": {
         "type": "text",
         "page_idx": 2,
         "text": "(1) Schedule 1 contains: ",
-        "level": 3
+        "level": 4
     },
     "36": {
         "type": "text",
         "page_idx": 2,
         "text": "(a) interpretative provisions that apply to the Law; and (b) a list of defined terms used in the Law. ",
-        "level": 4
+        "level": 5
     },
     "37": {
         "type": "text",
         "page_idx": 2,
         "text": "(2) Schedule 2 contains prescribed fines for contraventions of this Law. ",
-        "level": 3
+        "level": 4
     },
     "38": {
         "type": "text",
@@ -243,31 +243,31 @@
         "type": "text",
         "page_idx": 3,
         "text": "(3) Defined terms used in this Law that are defined in the Regulations, identified by the capitalisation of the initial letter of a word or a phrase, are (insofar as may be required) incorporated herein by reference, provided that in the event of any inconsistency, the provisions of this Law shall prevail. ",
-        "level": 3
+        "level": 4
     },
     "41": {
         "type": "text",
         "page_idx": 3,
         "text": "8. Administration of the Law ",
-        "level": 2
+        "level": 3
     },
     "42": {
         "type": "text",
         "page_idx": 3,
         "text": "This Law and any Regulations made under it shall be administered by the Relevant Authority. ",
-        "level": 3
+        "level": 4
     },
     "43": {
         "type": "text",
         "page_idx": 3,
         "text": "9. The power of DIFCA to make Regulations and impose fines and penalties ",
-        "level": 2
+        "level": 3
     },
     "44": {
         "type": "text",
         "page_idx": 3,
         "text": "The Board of Directors of the DIFCA may make Regulations in respect of any matter that facilitates the administration of this Law or furthers the purposes of this Law. ",
-        "level": 3
+        "level": 4
     },
     "45": {
         "type": "text",
@@ -393,7 +393,7 @@
         "type": "text",
         "page_idx": 5,
         "text": "exercise and perform such other powers and functions as may be delegated to the Relevant Authority by the Board of Directors of the DIFCA pursuant to the provisions of this Law. ",
-        "level": 3
+        "level": 4
     },
     "66": {
         "type": "text",
@@ -1143,7 +1143,7 @@
         "type": "table",
         "page_idx": 14,
         "text": "<table><tr><td>Term</td><td>Definition</td></tr><tr><td>Account Holder</td><td>any person defined as such in Section VIII of the Regulations.</td></tr><tr><td rowspan=\"6\">Accounting Records</td><td>records and underlying documents comprising initial and other accounting entries and associated supporting documents, such as:</td></tr><tr><td>(a) cheques; (b) records of electronic funds transfers;</td></tr><tr><td></td></tr><tr><td>(c) invoices; (d) contracts;</td></tr><tr><td>(e) the general and subsidiary ledgers, journal entries and other</td></tr><tr><td>adjustments to the financial statements that are not reflected in journal entries; and (f) work sheets and spread sheets supporting cost allocations,</td></tr><tr><td>Board of Directors of the DIFCA</td><td>computations, reconciliations and disclosures. the Board of Directors of the DIFCA appointed by the President from time to time.</td></tr><tr><td>Common Reporting Standard</td><td>the standard for automatic exchange of financial account information developed by the OECD as amended from time to time by the OECD, the current format of which is set out in the Regulations or incorporated by reference in the Regulations.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Controlling Person</td><td colspan=\"1\" rowspan=\"1\">any person defined as such in Section VIII of the Regulations.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Court</td><td colspan=\"1\" rowspan=\"1\">any relevant court or tribunal established in the DIFC.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Decision-Making Procedures</td><td colspan=\"1\" rowspan=\"1\">the decision-making procedures prescribed in the Operating Regulationsfor the exercise of powers by the Relevant Person which shall, with allnecessary adaptations apply to the Relevant Authority under this Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DFSA</td><td colspan=\"1\" rowspan=\"1\">the entity established as the Dubai Financial Services Authority underDubai Law No. 9 of 2004 (as repealed and substituted by Dubai LawNo. (5) of 2021) or, where permitted, its delegate.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC</td><td colspan=\"1\" rowspan=\"1\">the Dubai International Financial Centre.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFCA</td><td colspan=\"1\" rowspan=\"1\">the entity established as the Dubai Financial Services Authority underDubai Law No. 9 of 2004 (as repealed and substituted by Dubai LawNo. (5) of 2021) or, where permitted, its delegate.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Directive</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in paragraph 2(g) of this Schedule 1.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Government</td><td colspan=\"1\" rowspan=\"1\">the federal government of the UAE.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Guidance</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in paragraph 2(h) of this Schedule 1.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Inspector</td><td colspan=\"1\" rowspan=\"1\">any inspector appointed by the Relevant Authority under Article 14.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Law</td><td colspan=\"1\" rowspan=\"1\">the Common Reporting Standard Law No. 2 of 2018.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">New Account</td><td colspan=\"1\" rowspan=\"1\">any account defined as such in Section VIII of the Regulations.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">OECD</td><td colspan=\"1\" rowspan=\"1\">the Organisation for Economic Co-Operation and Development whichwas established by the Convention on the Organisation for EconomicCo-operation and Development signed in Paris on 14 December, 1960.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Pre-existing Account</td><td colspan=\"1\" rowspan=\"1\">any account defined as such in Section VIIIof the Regulations.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">President</td><td colspan=\"1\" rowspan=\"1\">the president of the DIFC appointed by the Ruler pursuant to Dubai LawNo. 9 of 2004 (as repealed and substituted by Dubai Law No. (5) of2021).</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Regulations</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in paragraph 2(e) of this Schedule 1.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Relevant Authority</td><td colspan=\"1\" rowspan=\"1\">the DIFC Registrar of Companies, or any other competent authoritydesignated by the Board of the DIFCA to administer the provisions ofthis Law, or any part thereof.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Reportable Account</td><td colspan=\"1\" rowspan=\"1\">any account defined as such in Section VIII of the Regulations.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Reporting Financial Institution</td><td colspan=\"1\" rowspan=\"1\">any person defined as such in Section VIIIof the Regulations.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Ruler</td><td colspan=\"1\" rowspan=\"1\">the Ruler of the Emirate of Dubai.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">UAE</td><td colspan=\"1\" rowspan=\"1\">the United Arab Emirates.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">UAE Competent Authority</td><td colspan=\"1\" rowspan=\"1\">the UAE Ministry of Finance, or any other competent authoritydesignated by the Government to facilitate the exchange of informationunder the Common Reporting Standard pursuant or any agreement ortreaty entered into by the Government, or its permitted delegate ornominee, in connection therewith.</td></tr></table>",
-        "level": 3
+        "level": 4
     },
     "191": {
         "type": "text",
@@ -1185,7 +1185,7 @@
         "type": "table",
         "page_idx": 16,
         "text": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Contravention</td><td rowspan=1 colspan=1>Fine</td></tr><tr><td rowspan=1 colspan=1>1.</td><td rowspan=1 colspan=1>A Reporting Financial Institution that opens a New Account withoutobtaining a valid self-certification or fails to validate such self-certification.</td><td rowspan=1 colspan=1>US$280</td></tr><tr><td rowspan=1 colspan=1>2.</td><td rowspan=1 colspan=1>A Reporting Financial Institution that fails to keep records of the duediligence procedures performed under the Regulations, or fails to keepthem for a period of six (6) years pursuant to the requirements of theRegulations.</td><td rowspan=1 colspan=1>US$2,800</td></tr><tr><td rowspan=1 colspan=1>3.</td><td rowspan=1 colspan=1>A Reporting Financial Institution that fails to apply the due diligenceprocedures specified in Section II through to Section VII in theRegulations.</td><td rowspan=1 colspan=1>US$11,000</td></tr><tr><td rowspan=1 colspan=1>4.</td><td rowspan=1 colspan=1>A Reporting Financial Institution that fails to submit the informationreturn in the form, manner and by the date specified in the Regulations(or as otherwise advised by the UAE Competent Authority or theRelevant Authority).</td><td rowspan=1 colspan=1>US$14,000US$280 for every day the failurecontinues up to a maximum fineof US$28,000</td></tr><tr><td rowspan=1 colspan=1>5.</td><td rowspan=1 colspan=1>A Reporting Financial Institution that fails to submit the informationreturn confirming that the institution maintains no Reportable Accounts(Nil Return) in respect of that year within the timeframe stipulated inthe Regulations (or as otherwise advised by the UAE CompetentAuthority or the Relevant Authority).</td><td rowspan=1 colspan=1>US$2,800plusUS$280 for every day the failurecontinues up to a maximum fineof US$8,400</td></tr><tr><td rowspan=1 colspan=1>6.</td><td rowspan=1 colspan=1>(a) A Reporting Financial Institution that files a report which fails tostate, in a complete and accurate manner, the information that isrequired to be reported under this Law or the Regulations.(b) A Reporting Financial Institution that commits the contraventiondescribed in 6(a) above in the immediately following reportingyear.(c) A Reporting Financial Institution that commits the contraventiondescribed in 6(a) above in any further successive reporting year(s)following the reporting year specified in 6(b).</td><td rowspan=1 colspan=1>Minimum Fine:US$1,400Maximum Fine: US$7,000For each instance such a report isfiled in a reporting yearMinimum Fine: US$2,800Maximum Fine: US$14,000Minimum Fine: US$16,800Maximum Fine: US$28,000</td></tr><tr><td rowspan=1 colspan=1>7.</td><td rowspan=1 colspan=1>A Reporting Financial Institution that otherwise fails to comply withany other provision(s) of this Law or the Regulations.</td><td rowspan=1 colspan=1>Minimum Fine: US$2,800Maximum Fine: US$8,400</td></tr><tr><td rowspan=1 colspan=1>8.</td><td rowspan=1 colspan=1>A Reporting Financial Institution that adopts any practices with theintent to circumvent this Law or the Regulations.</td><td rowspan=1 colspan=1>US$70,000</td></tr><tr><td rowspan=1 colspan=1>9.</td><td rowspan=1 colspan=1>An Account Holder or Controlling Person that provides an inaccurateor incorrect self-certification to a Reporting Financial Institution thatthe Account Holder or Controlling Person knew or ought to haveknown, was inaccurate or incorrect.</td><td rowspan=1 colspan=1>US$5,500</td></tr></table>",
-        "level": 3
+        "level": 4
     },
     "198": {
         "type": "text",

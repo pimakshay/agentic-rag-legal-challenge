@@ -1,22 +1,28 @@
 {
     "doc_type": "case",
-    "case_name": "",
-    "case_name_normalized": "",
+    "case_name": "Neal v Nadir",
+    "case_name_normalized": "neal v nadir",
     "neutral_citation": "[2024] DIFC CA 001",
     "neutral_citation_normalized": "2024 difc ca 001",
     "claim_number": "CA 001/2024",
     "claim_number_normalized": "ca 001 2024",
-    "court": "",
-    "court_division": "",
-    "hearing_date": "",
-    "judgment_date": "",
-    "judgment_release_date": "",
-    "claimant": "",
-    "defendants": [],
-    "claimant_counsel": [],
-    "defendant_counsel": [],
-    "claimant_law_firm": "",
-    "defendant_law_firm": "",
+    "court": "IN THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
+    "court_division": "IN THE COURT OF APPEAL",
+    "hearing_date": "13 March 2024",
+    "judgment_date": "19 March 2024",
+    "judgment_release_date": "MARCH 22, 2024",
+    "claimant": "NEAL",
+    "defendants": [
+        "NADIR"
+    ],
+    "claimant_counsel": [
+        "Prateek Bagaria"
+    ],
+    "defendant_counsel": [
+        "Zoe O'Sullivan"
+    ],
+    "claimant_law_firm": "Singularity Legal LLP",
+    "defendant_law_firm": "AI Tamimi & Company LLP",
     "title_page_number": 1,
     "last_page_number": 9,
     "page_count": 9

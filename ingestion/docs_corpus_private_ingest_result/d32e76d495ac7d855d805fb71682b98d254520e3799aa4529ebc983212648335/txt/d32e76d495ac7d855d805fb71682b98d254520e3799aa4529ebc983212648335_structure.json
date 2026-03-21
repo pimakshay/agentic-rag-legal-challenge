@@ -15,49 +15,49 @@
         "type": "text",
         "page_idx": 0,
         "text": "IN THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS ",
-        "level": 2
+        "level": 1
     },
     "3": {
         "type": "text",
         "page_idx": 0,
         "text": "IN THE COURT OF FIRST INSTANCE ",
-        "level": 2
+        "level": 1
     },
     "4": {
         "type": "text",
         "page_idx": 0,
         "text": "BETWEEN ",
-        "level": 3
+        "level": 1
     },
     "5": {
         "type": "text",
         "page_idx": 0,
         "text": "MAG DEVELOPMENT SERVICES LIMITED ",
-        "level": 3
+        "level": 1
     },
     "6": {
         "type": "text",
         "page_idx": 0,
         "text": "Claimant/Respondent ",
-        "level": 4
+        "level": 1
     },
     "7": {
         "type": "text",
         "page_idx": 0,
         "text": "and ",
-        "level": 3
+        "level": 1
     },
     "8": {
         "type": "text",
         "page_idx": 0,
         "text": "(1) THE COLLECTION CLUB RESTAURANT LIMITED (2) LAURENT BUISINE (3) HUGO VALAT ",
-        "level": 3
+        "level": 1
     },
     "9": {
         "type": "text",
         "page_idx": 0,
         "text": "Defendants/Applicants ",
-        "level": 4
+        "level": 1
     },
     "10": {
         "type": "text",
@@ -99,7 +99,7 @@
         "type": "text",
         "page_idx": 0,
         "text": "Claim No: CFI 092/2024 ",
-        "level": 3
+        "level": 1
     },
     "17": {
         "type": "text",
@@ -141,7 +141,7 @@
         "type": "text",
         "page_idx": 1,
         "text": "Issued by:   \nHayley Norton   \nAssistant Registrar   \nDate of issue: 28 January 2026   \nAt: 9am ",
-        "level": 3
+        "level": 1
     },
     "24": {
         "type": "text",
@@ -152,14 +152,14 @@
     "25": {
         "type": "text",
         "page_idx": 1,
-        "text": "1. This Application is brought under RDC Part 24 by the Defendants to seek an order for immediate judgment to strike out the Second and Third Defendants (“D2” and “D3” respectively) from proceedings as they have erroneously been brought against them in a personal capacity, and that the Claimant has no real prospect of succeeding on its case by personally suing D2 and D3. ",
+        "text": "1. This Application is brought under RDC Part 24 by the Defendants to seek an order for immediate judgment to strike out the Second and Third Defendants (“D2” and “D3” respectively) from proceedings a...",
         "level": 2
     },
     "26": {
         "type": "text",
         "page_idx": 1,
         "text": "2. D2 and D3 are the shareholders and directors of the First Defendant (“D1”), which is a private company incorporated in the DIFC. ",
-        "level": 2
+        "level": 3
     },
     "27": {
         "type": "text",
@@ -170,13 +170,13 @@
     "28": {
         "type": "text",
         "page_idx": 1,
-        "text": "3. On 15 August 2023, the Defendants entered into a lease agreement (the “Agreement”) with the Claimant for the fi t-out and renting of premises in the DIFC in preparation for the launch of the D1 company. The Agreement was signed by D2 and D3, however, it was agreed via email exchange between 16 August 2023 and 17 August 2023 that once D1 was issued its company licence (the “Licence”) the sole tenant would be D1: ",
+        "text": "3. On 15 August 2023, the Defendants entered into a lease agreement (the “Agreement”) with the Claimant for the fi t-out and renting of premises in the DIFC in preparation for the launch of the D1 com...",
         "level": 3
     },
     "29": {
         "type": "text",
         "page_idx": 1,
-        "text": "“However, we would like to highlight and agree that once the UAE Company License is issued and provided within the timeframe mentioned in the Agreement (no later than 3 months) an addendum to the Lease Agreement should be added stating that the sole tenant is the registered company and that use of the premises and responsibilities under the Lease shall be exclusive under the name of the same company. ",
+        "text": "“However, we would like to highlight and agree that once the UAE Company License is issued and provided within the timeframe mentioned in the Agreement (no later than 3 months) an addendum to the Leas...",
         "level": 4
     },
     "30": {
@@ -224,7 +224,7 @@
     "37": {
         "type": "text",
         "page_idx": 2,
-        "text": "7. On 6 September 2023, the original Agreement signed by D2 and D3 on 17 August 2023 was returned to the Defendants with the Claimant’s signature. No formal amended Agreement with D2 and D3 removed, or a written attached addendum making D1 the sole tenant, was signed. ",
+        "text": "7. On 6 September 2023, the original Agreement signed by D2 and D3 on 17 August 2023 was returned to the Defendants with the Claimant’s signature. No formal amended Agreement with D2 and D3 removed, o...",
         "level": 3
     },
     "38": {
@@ -302,7 +302,7 @@
     "50": {
         "type": "text",
         "page_idx": 3,
-        "text": "20. On 8 September 2025, a Case Management Conference was held before H.E. Deputy Chief Justice Ali Al Madhani. The Court advised that the Defendants proceed with a Part 24 Immediate Judgment application for this issue. ",
+        "text": "20. On 8 September 2025, a Case Management Conference was held before H.E. Deputy Chief Justice Ali Al Madhani. The Court advised that the Defendants proceed with a Part 24 Immediate Judgment applicat...",
         "level": 3
     },
     "51": {
@@ -332,26 +332,26 @@
     "55": {
         "type": "text",
         "page_idx": 3,
-        "text": "22. The scope of “prospect of succeeding” follows the same established approach as the English legal precedent of Swain v. Hillman [2001] 2 All ER 91, being that the prospect must be ‘realistic’ as opposed to ‘fanciful’. Therefore, a lack of substance to the issue must be shown without conducting a ‘mini trial’ as the Court should avoid attempting to resolve disputes that are normally resolved by the trial process. ",
-        "level": 3
+        "text": "22. The scope of “prospect of succeeding” follows the same established approach as the English legal precedent of Swain v. Hillman [2001] 2 All ER 91, being that the prospect must be ‘realistic’ as op...",
+        "level": 4
     },
     "56": {
         "type": "text",
         "page_idx": 3,
-        "text": "23. A ‘compelling reason’ amounts to ‘circumstances that ought to be investigated’ (Miles v. Bull [1969] 1 QB 258 at 266A). As this application type operates in the negative, it must be demonstrated that the removal of D2 and D3 from proceedings should be done at face value, with no reason to scrutinise or further investigate the evidence compelling that decision. Where there are real disagreements or signifi cant differences between the parties as to facts or evidence, judgment should not be granted (Hexagon Holdings (Cayman) Ltd v. DIFCA [2019] DIFC CFI 013). ",
-        "level": 3
+        "text": "23. A ‘compelling reason’ amounts to ‘circumstances that ought to be investigated’ (Miles v. Bull [1969] 1 QB 258 at 266A). As this application type operates in the negative, it must be demonstrated t...",
+        "level": 4
     },
     "57": {
         "type": "text",
         "page_idx": 3,
         "text": "24. The Defendants also rely on the overriding objective as to the compelling reason. It is submitted that granting the Application would save on costs and time. ",
-        "level": 3
+        "level": 4
     },
     "58": {
         "type": "text",
         "page_idx": 3,
-        "text": "25. The legal burden of proof in the Application rests on the Defendants to show that the Claimant has no real prospect and no other compelling reason to continue its claim against D2 and D3, however it is evidentially necessary for the Claimant to put forward suffi cient evidence to satisfy the Court that it has a real prospect of succeeding at trial on this issue. ",
-        "level": 3
+        "text": "25. The legal burden of proof in the Application rests on the Defendants to show that the Claimant has no real prospect and no other compelling reason to continue its claim against D2 and D3, however ...",
+        "level": 4
     },
     "59": {
         "type": "text",
@@ -362,14 +362,14 @@
     "60": {
         "type": "text",
         "page_idx": 3,
-        "text": "26. The basis of the Application rests heavily on the content of and subsequence effect of the email correspondence, included at paragraph 3 of this Order, between the parties amounting to a binding and enforceable amendment to the Agreement, the consequence of which is evidenced by the DIFC Authority documentation and party correspondence only referring to D1 as the party to the Agreement: ",
+        "text": "26. The basis of the Application rests heavily on the content of and subsequence effect of the email correspondence, included at paragraph 3 of this Order, between the parties amounting to a binding a...",
         "level": 3
     },
     "61": {
         "type": "text",
         "page_idx": 3,
         "text": "Property/Tenancy Information Registration Certificate dated 1 September 2023 ",
-        "level": 3
+        "level": 4
     },
     "62": {
         "type": "text",
@@ -387,7 +387,7 @@
         "type": "text",
         "page_idx": 4,
         "text": "TAX Invoice / Service Receipt dated 1 September 2023 ",
-        "level": 3
+        "level": 4
     },
     "65": {
         "type": "text",
@@ -398,55 +398,55 @@
     "66": {
         "type": "text",
         "page_idx": 4,
-        "text": "Notice of Termination for the Agreement from D1 to the Claimant dated 24 June 2024 “We refer to the Lease Agreement dated 15 August 2023 entered into by MAG Development Services Limited (Landlord) and The Collection Club Restaurant Limited (Tenant)” [emphasis added]. ",
-        "level": 3
+        "text": "Notice of Termination for the Agreement from D1 to the Claimant dated 24 June 2024 “We refer to the Lease Agreement dated 15 August 2023 entered into by MAG Development Services Limited (Landlord) and...",
+        "level": 4
     },
     "67": {
         "type": "text",
         "page_idx": 4,
         "text": "Notice of Termination for the Agreement from the Claimant to the Defendants dated 16 September 2024 ",
-        "level": 3
+        "level": 4
     },
     "68": {
         "type": "text",
         "page_idx": 4,
-        "text": "“Lease Agreement dated 15 August 2023 between MAG Development Services Limited (the “Landlord”) and The Collection Club Restaurant Limited (the “Tenant”) in relation to the Premises (the “Lease”). [emphasis added]. ",
+        "text": "“Lease Agreement dated 15 August 2023 between MAG Development Services Limited (the “Landlord”) and The Collection Club Restaurant Limited (the “Tenant”) in relation to the Premises (the “Lease”). [em...",
         "level": 4
     },
     "69": {
         "type": "text",
         "page_idx": 4,
         "text": "NOC granted by the Claimant to D1, dated 29 August 2023: ",
-        "level": 3
+        "level": 4
     },
     "70": {
         "type": "text",
         "page_idx": 4,
-        "text": "“We, MAG Services (“the Landlord”), owner of the Emirates, Financial Towers, Floors S26 and 27 (the “Property”) hereby confi rm that the Collection Club Restaurant Limited (“the Tenant”) is leasing the Property.” [emphasis added]. ",
+        "text": "“We, MAG Services (“the Landlord”), owner of the Emirates, Financial Towers, Floors S26 and 27 (the “Property”) hereby confi rm that the Collection Club Restaurant Limited (“the Tenant”) is leasing th...",
         "level": 4
     },
     "71": {
         "type": "text",
         "page_idx": 4,
-        "text": "27. In addition to the email correspondence shown at paragraph 3 of this Order, in an email dated 17 August 2023 wherein D2 sent the signed Agreement to the Claimant after the Claimant confi rmed agreement of the pre-condition, it was written: “Please fi nd accordingly the lease signed.” ",
+        "text": "27. In addition to the email correspondence shown at paragraph 3 of this Order, in an email dated 17 August 2023 wherein D2 sent the signed Agreement to the Claimant after the Claimant confi rmed agre...",
         "level": 3
     },
     "72": {
         "type": "text",
         "page_idx": 4,
-        "text": "28. Further, as per the Chartered Accountant’s Certifi cate dated 3 October 2025, it was The Collection Group, owner of D1, paying the fees for the premises in accordance with the terms of the Agreement to the Claimant on behalf of D1, therefore demonstrating that D1 was intended to be the tenant of the premises, not D2 and D3. ",
-        "level": 3
+        "text": "28. Further, as per the Chartered Accountant’s Certifi cate dated 3 October 2025, it was The Collection Group, owner of D1, paying the fees for the premises in accordance with the terms of the Agreeme...",
+        "level": 4
     },
     "73": {
         "type": "text",
         "page_idx": 4,
-        "text": "29. For all intents and purposes, D2 and D3 have been relying on the assumed mutual understanding throughout the operation and implementation of its project under the D1 company that D1 was the sole tenant of the premises under the Agreement. It is submitted that the Claimant’s conduct and written correspondence translate as acting as if D1 is understood to be the sole tenant of the premises under the Agreement. D2 and D3’s reliance by conduct is therefore enforceable as an authorised addendum under Article 31 of the DIFC Contract Law, which states: ",
-        "level": 3
+        "text": "29. For all intents and purposes, D2 and D3 have been relying on the assumed mutual understanding throughout the operation and implementation of its project under the D1 company that D1 was the sole t...",
+        "level": 4
     },
     "74": {
         "type": "text",
         "page_idx": 4,
-        "text": "“A contract in writing which contains a clause requiring any modifi cation or termination by agreement to be in writing may not be otherwise modifi ed or terminated. However, a party may be precluded by its conduct from asserting such a clause to the extent that the other party has acted ",
+        "text": "“A contract in writing which contains a clause requiring any modifi cation or termination by agreement to be in writing may not be otherwise modifi ed or terminated. However, a party may be precluded ...",
         "level": 4
     },
     "75": {
@@ -458,7 +458,7 @@
     "76": {
         "type": "text",
         "page_idx": 5,
-        "text": "30. D2 and D3 also rely on Articles 49 and 51 of the DIFC Contract Law insofar as to the enforceability of the addendum as per the intention, essence and execution of the Agreement after 6 September 2023: ",
+        "text": "30. D2 and D3 also rely on Articles 49 and 51 of the DIFC Contract Law insofar as to the enforceability of the addendum as per the intention, essence and execution of the Agreement after 6 September 2...",
         "level": 3
     },
     "77": {
@@ -476,13 +476,13 @@
     "79": {
         "type": "text",
         "page_idx": 5,
-        "text": "(2) Subject to Article 49(3), if such an intention cannot be established, the contract shall be interpreted according to the meaning that reasonable persons of the same kind as the parties would give to it in the same circumstances. ",
+        "text": "(2) Subject to Article 49(3), if such an intention cannot be established, the contract shall be interpreted according to the meaning that reasonable persons of the same kind as the parties would give ...",
         "level": 5
     },
     "80": {
         "type": "text",
         "page_idx": 5,
-        "text": "(3) As regards a Hybrid Contract or Coded Contract, if an intention under Article 49(1) cannot be established, the contract shall be interpreted according to the meaning that a reasonable person with a competent understanding of the relevant Code and having regard to the circumstances under Article 51 shall give to it. ",
+        "text": "(3) As regards a Hybrid Contract or Coded Contract, if an intention under Article 49(1) cannot be established, the contract shall be interpreted according to the meaning that a reasonable person with ...",
         "level": 5
     },
     "81": {
@@ -500,7 +500,7 @@
     "83": {
         "type": "text",
         "page_idx": 5,
-        "text": "(a) preliminary negotiations between the parties;   \n(b) practices which the parties have established between themselves;   \n(c) the conduct of the parties subsequent to the conclusion of the contract;   \n(d) the nature and purpose of the contract;   \n(e) the meaning commonly given to terms and expressions in the trade concerned and in the case of a Coded Term, the meaning given by a reasonable person with a competent understanding of the relevant Code; and ",
+        "text": "(a) preliminary negotiations between the parties;   \n(b) practices which the parties have established between themselves;   \n(c) the conduct of the parties subsequent to the conclusion of the contract...",
         "level": 5
     },
     "84": {
@@ -512,26 +512,26 @@
     "85": {
         "type": "text",
         "page_idx": 5,
-        "text": "31. D2 and D3 deny that any such liability or rental obligation arising from the Agreement exists in a personal capacity as it was a clearly stated pre-condition to the signing of the Agreement that, on the issue of the Licence, they would be removed. At the time of the signing of the Agreement, D1 had not yet been incorporated, and so D2 and D3 agreed to be the temporary parties in its place. As the Licence was issued after the parties agreed to this condition, it is submitted that the condition was fulfi lled, and so D2 and D3 ceased to be personally liable for the terms of the Agreement after 6 September 2023. Nonetheless, the Claimant commenced proceedings as if D2 and D3 remained parties to the Agreement. ",
+        "text": "31. D2 and D3 deny that any such liability or rental obligation arising from the Agreement exists in a personal capacity as it was a clearly stated pre-condition to the signing of the Agreement that, ...",
         "level": 3
     },
     "86": {
         "type": "text",
         "page_idx": 6,
-        "text": "32. It is the Defendants’ position that the pre-condition was satisfi ed on the issuance of the Licence, even if a formal addendum was not drafted, attached or signed as this was not formally agreed as the format of the addendum. Only the issuance of the Licence was required to satisfy the pre-condition and remove D2 and D3 from the Agreement. ",
-        "level": 3
+        "text": "32. It is the Defendants’ position that the pre-condition was satisfi ed on the issuance of the Licence, even if a formal addendum was not drafted, attached or signed as this was not formally agreed a...",
+        "level": 4
     },
     "87": {
         "type": "text",
         "page_idx": 6,
-        "text": "33. To note, the Defendants also object in reply to the Claimant’s submissions that the inclusion of D2 and D3 in these proceedings as individual defendants is linked to the disclosure of documents they request to be produced, as those requests are related to the substantive action and applications for immediate judgment are standalone from the rest of the proceedings. ",
-        "level": 3
+        "text": "33. To note, the Defendants also object in reply to the Claimant’s submissions that the inclusion of D2 and D3 in these proceedings as individual defendants is linked to the disclosure of documents th...",
+        "level": 4
     },
     "88": {
         "type": "text",
         "page_idx": 6,
-        "text": "34. On the above, the Defendants submit that there is no real prospect of success of sustaining the Claim against D2 and D3 as there is no surviving contractual obligation following the fulfi lment of the condition, and no other compelling reason for this issue to proceed to trial as this is a straightforward matter of surface-level contractual interpretation supported by documentary evidence with no disputed material facts requiring examination. Therefore, the Claim against D2 and D3 in a personal capacity is fundamentally fl awed, and immediate judgment should be granted, with costs awarded on the standard basis. ",
-        "level": 3
+        "text": "34. On the above, the Defendants submit that there is no real prospect of success of sustaining the Claim against D2 and D3 as there is no surviving contractual obligation following the fulfi lment of...",
+        "level": 4
     },
     "89": {
         "type": "text",
@@ -542,109 +542,109 @@
     "90": {
         "type": "text",
         "page_idx": 6,
-        "text": "35. As a matter of housekeeping, the Claimant fi rst objects to the format of the Application, as under RDC Part 23 the Defendants are required to submit either an application notice or witness statement by way of evidence in support. However, three documents, substantially and materially different, have been fi led. This has had adverse effects on the Claimant’s time and costs. ",
+        "text": "35. As a matter of housekeeping, the Claimant fi rst objects to the format of the Application, as under RDC Part 23 the Defendants are required to submit either an application notice or witness statem...",
         "level": 3
     },
     "91": {
         "type": "text",
         "page_idx": 6,
-        "text": "36. On the issues submitted for immediate judgment, it is the Claimant's position that the Defendants have failed to meet the threshold set in RDC 24.1 as the Application is not based on a point of law – as required by RDC 24.2 – but instead on evidence which can be reasonably expected to be available at trial. That evidence substantially relates to the email correspondence across 16 and 17 August 2023, which is stated at paragraph 3 of this Order. ",
+        "text": "36. On the issues submitted for immediate judgment, it is the Claimant's position that the Defendants have failed to meet the threshold set in RDC 24.1 as the Application is not based on a point of la...",
         "level": 3
     },
     "92": {
         "type": "text",
         "page_idx": 6,
-        "text": "37. It is the Defendants’ entire premise that this email exchange confi rms that there was an agreement for D1 to be the sole tenant, and that agreement was properly executed upon the issue of the Licence. ",
-        "level": 3
+        "text": "37. It is the Defendants’ entire premise that this email exchange confi rms that there was an agreement for D1 to be the sole tenant, and that agreement was properly executed upon the issue of the Lic...",
+        "level": 4
     },
     "93": {
         "type": "text",
         "page_idx": 6,
-        "text": "38. The Claimant contends that this does not amount to a properly pleaded legal defence, and the emails in evidence does not defeat the claim against D2 and D3 and does not constitute the totality of the evidence which can be reasonably expected to be available at trial on the issues raised by the Application. ",
-        "level": 3
+        "text": "38. The Claimant contends that this does not amount to a properly pleaded legal defence, and the emails in evidence does not defeat the claim against D2 and D3 and does not constitute the totality of ...",
+        "level": 4
     },
     "94": {
         "type": "text",
         "page_idx": 6,
-        "text": "39. The Claimant accepts that the factual basis for the Application has been established, but not the legal basis upon which the Court should dismiss the claim. The Defendants’ position in their Defence Particulars is that the fi ling of this case against D2 and D3 due to a non- amendment of the Agreement constitutes a breach of an implied obligation under Article 57 of DIFC Contract Law, but the Defendants have failed to plead how that implied obligation has arisen and how such an obligation can be implied when there was an express agreement reached and signed. The Claimant objects to the assertion that the emails themselves constitute a contract or an addendum to the Agreement which is binding and enforceable. ",
-        "level": 3
+        "text": "39. The Claimant accepts that the factual basis for the Application has been established, but not the legal basis upon which the Court should dismiss the claim. The Defendants’ position in their Defen...",
+        "level": 4
     },
     "95": {
         "type": "text",
         "page_idx": 7,
-        "text": "40. The Claimant advances that it is not appropriate for the Defendants, for the fi rst time, to plead the issue that the email is in itself a contract in this type of application. To be dealt with as part of an immediate judgment, the issue must have been pleaded in the Parties’ pleadings. This issue is not in the Defence Particulars. Further, the Defendants have not properly plead nor satisfi ed the conditions for the formation of a contract under DIFC Law using the emails relied on. ",
+        "text": "40. The Claimant advances that it is not appropriate for the Defendants, for the fi rst time, to plead the issue that the email is in itself a contract in this type of application. To be dealt with as...",
         "level": 3
     },
     "96": {
         "type": "text",
         "page_idx": 7,
         "text": "41. The Claimant also objects to the interpretation of the emails as it submits that the pre- condition was not satisfi ed and so the email does not itself have any effect on D2 and D3’s liability. ",
-        "level": 3
+        "level": 4
     },
     "97": {
         "type": "text",
         "page_idx": 7,
         "text": "42. It is submitted that all issues, argument and evidence relied on by the Defendants cannot satisfy the Court at this stage that the claim against D2 and D3 has no real prospect of success. ",
-        "level": 3
+        "level": 4
     },
     "98": {
         "type": "text",
         "page_idx": 7,
-        "text": "43. The fi rst issue – the interpretation of the emails – is wrong. It is the Claimant’s position that there were four conditions, if any, not one, being; the Licence is to be issued, the Licence is to be provided to the Claimant; the issuance and provision occurred within three months of the 16 August 2023; an addendum stating that D1 is the sole tenant is attached to the Agreement. At that point, D1 would be the sole tenant and solely liable. ",
-        "level": 3
+        "text": "43. The fi rst issue – the interpretation of the emails – is wrong. It is the Claimant’s position that there were four conditions, if any, not one, being; the Licence is to be issued, the Licence is t...",
+        "level": 4
     },
     "99": {
         "type": "text",
         "page_idx": 7,
-        "text": "44. It is the Claimant’s position that these conditions have not been satisfi ed. This is the second issue. The Defendants have not provided any evidence that the Licence was given to the Claimant. Therefore, the third issue that there is no addendum, could not be satisfi ed. The Licence was issued by the time the Agreement was countersigned on 6 September 2023, yet there was no follow up from the Defendants on the addendum (the fourth condition). Hence, the Defendants cannot plead that the mutual intention of the parties demonstrated by their conduct was that D1 was understood to be the sole tenant from 6 September 2023. ",
-        "level": 3
+        "text": "44. It is the Claimant’s position that these conditions have not been satisfi ed. This is the second issue. The Defendants have not provided any evidence that the Licence was given to the Claimant. Th...",
+        "level": 4
     },
     "100": {
         "type": "text",
         "page_idx": 7,
-        "text": "45. The Claimants allege that D2 and D3 are attempting to circumvent liability on breaches of the Agreement by relying on an alleged understanding two years after the Agreement was signed, only because the Claimant has fi led this Claim. ",
-        "level": 3
+        "text": "45. The Claimants allege that D2 and D3 are attempting to circumvent liability on breaches of the Agreement by relying on an alleged understanding two years after the Agreement was signed, only becaus...",
+        "level": 4
     },
     "101": {
         "type": "text",
         "page_idx": 7,
-        "text": "46. The fourth issue is that there is no evidence to suggest that the Licence was issued on 4 September 2023. The face of the Licence shows that the date of issue was in June 2023, yet it is alleged for the fi rst time that the Licence was issued in September 2023 – in the Application – or August, in the First Witness Statement of Jordana Dray. This is contradictory and confusing particularly considering the written issue date on the Licence and the alleged backdating. The actual date of issue is important as the fourth condition within the emails is that this Licence was meant to be provided within three months, and the Defendants cannot conclusively show that this was satisfi ed. ",
-        "level": 3
+        "text": "46. The fourth issue is that there is no evidence to suggest that the Licence was issued on 4 September 2023. The face of the Licence shows that the date of issue was in June 2023, yet it is alleged f...",
+        "level": 4
     },
     "102": {
         "type": "text",
         "page_idx": 7,
-        "text": "47. The fi nal issue is the registered tenancy in the name of D1 with the DIFC before 4 September 2023. Assuming that the Licence was issued on 4 September 2023, the tenancy was registered on 1 September 2023, before the date of issue and before any addendum to the Agreement had been entered into. Therefore, the conditions could not have been satisfi ed at the time of registration. It is the Claimant’s position that the Defendants have carried out misleading conduct towards the DIFC Authority. ",
-        "level": 3
+        "text": "47. The fi nal issue is the registered tenancy in the name of D1 with the DIFC before 4 September 2023. Assuming that the Licence was issued on 4 September 2023, the tenancy was registered on 1 Septem...",
+        "level": 4
     },
     "103": {
         "type": "text",
         "page_idx": 8,
-        "text": "48. The Claimant concludes that this Application is fanciful, or merely arguable at best, and so not suited for immediate judgment. Only bare factual evidence without a proper legal pleading has been submitted for the Court, which has no prospect of defeating the claim at face value. The evidence fi led it not the totality of the evidence available – the Claimant’s document production requests will evidence D2 and D3’s payment obligations and internal communications, and therefore their true positions. ",
+        "text": "48. The Claimant concludes that this Application is fanciful, or merely arguable at best, and so not suited for immediate judgment. Only bare factual evidence without a proper legal pleading has been ...",
         "level": 3
     },
     "104": {
         "type": "text",
         "page_idx": 8,
-        "text": "49. To note, at the time of drafting this Order, the Order of H.E Justice Michael Black KC dated 19 January 2026 regarding the parties’ document production requests has been issued, and so no further comment on document production will be made in the determination of this Application. ",
-        "level": 3
+        "text": "49. To note, at the time of drafting this Order, the Order of H.E Justice Michael Black KC dated 19 January 2026 regarding the parties’ document production requests has been issued, and so no further ...",
+        "level": 4
     },
     "105": {
         "type": "text",
         "page_idx": 8,
-        "text": "50. On the second limb of RDC 24.1, the Claimant submits six reasons as to why the issues raised should be disposed of at trial as per the precedent set in The Estate of Christos Papadopoulos v Standard Chartered Bank [2017] DIFC DCI 004. ",
+        "text": "50. On the second limb of RDC 24.1, the Claimant submits six reasons as to why the issues raised should be disposed of at trial as per the precedent set in The Estate of Christos Papadopoulos v Standa...",
         "level": 3
     },
     "106": {
         "type": "text",
         "page_idx": 8,
-        "text": "(a) There are numerous evidentiary issues, including the email, that can only be resolved by way of cross examination and legal submission. Without oral evidence and proper disclosure, these issues cannot be determined. ",
+        "text": "(a) There are numerous evidentiary issues, including the email, that can only be resolved by way of cross examination and legal submission. Without oral evidence and proper disclosure, these issues ca...",
         "level": 4
     },
     "107": {
         "type": "text",
         "page_idx": 8,
-        "text": "(b) Jordana Dray’s witness statements are insuffi cient as she had no direct knowledge of the evidence relied upon. Her own evidence is contradictory and unreliable, which undermines the Application. There is no real substance on which the Court can rely on face value. ",
+        "text": "(b) Jordana Dray’s witness statements are insuffi cient as she had no direct knowledge of the evidence relied upon. Her own evidence is contradictory and unreliable, which undermines the Application. ...",
         "level": 4
     },
     "108": {
@@ -680,61 +680,61 @@
     "113": {
         "type": "text",
         "page_idx": 8,
-        "text": "53. As per the scope of interpretation of RDC 24.1 stated at paragraphs 21 to 25, the issue for determination under RDC 24.1 is not whether the Defendants’ case may ultimately succeed at trial, but whether the Claimant has no real prospect of succeeding against the D2 and D3, and whether there is no other compelling reason why the issue should proceed. ",
+        "text": "53. As per the scope of interpretation of RDC 24.1 stated at paragraphs 21 to 25, the issue for determination under RDC 24.1 is not whether the Defendants’ case may ultimately succeed at trial, but wh...",
         "level": 3
     },
     "114": {
         "type": "text",
         "page_idx": 9,
-        "text": "54. I do not accept the Defendants’ characterisation of this Application as raising a preliminary or selfcontained issue capable of determination at this stage. On the contrary, the Application is founded upon highly disputed factual matters, competing interpretations of contemporaneous correspondence fi led as documentary evidence, and alleged post- contractual conduct insinuating an alleged mutual intention, all of which require evidentiary examination beyond what is appropriate in an application for immediate judgment. ",
+        "text": "54. I do not accept the Defendants’ characterisation of this Application as raising a preliminary or selfcontained issue capable of determination at this stage. On the contrary, the Application is fou...",
         "level": 3
     },
     "115": {
         "type": "text",
         "page_idx": 9,
-        "text": "55. In particular, I am not satisfi ed that, at this interlocutory stage and prior to full document production (as was available at the time of the Hearing), it is suffi ciently clear whether D2 and D3 ought to be removed from the proceedings altogether. There remains material ambiguity surrounding the operation and effect of the alleged addendum, including its format and execution, the satisfaction (or otherwise) of the pre-conditions relied upon, the number of pre-conditions, and the contradictory chronology of the issuance of the Licence. These matters are neither straightforward nor suffi ciently uncontested to avoid full witness examination. ",
+        "text": "55. In particular, I am not satisfi ed that, at this interlocutory stage and prior to full document production (as was available at the time of the Hearing), it is suffi ciently clear whether D2 and D...",
         "level": 3
     },
     "116": {
         "type": "text",
         "page_idx": 9,
-        "text": "56. D2 and D3 place signifi cant reliance on the alleged issuance of the Licence as determinative of their personal liability under the Agreement. However, the evidence presently before the Court is contradictory. In the First Witness Statement of Ms Jordana Dray, it is stated at paragraph 16 that the Licence was granted in August 2023, and backdated to 6 June 2023 on 4 September 2023. By contrast, the Application itself pleads that the Licence was granted on 4 September 2023 and backdated. I concur with the Claimant that this inconsistency is material, particularly in relation to the registration of the lease which was conducted on 1 September 2023. The precise date of issuance, the date of provision (if any) to the Claimant, and the legal effect of any backdating are all matters that cannot be resolved without the benefi t of cross-examination of factual witnesses and, potentially, further documentary evidence to show the actual position, knowledge, understanding and intention of D2 and D3. ",
+        "text": "56. D2 and D3 place signifi cant reliance on the alleged issuance of the Licence as determinative of their personal liability under the Agreement. However, the evidence presently before the Court is c...",
         "level": 3
     },
     "117": {
         "type": "text",
         "page_idx": 9,
-        "text": "57. The Court also considers that the structure and wording of the Agreement itself raise issues unsuitable for determination under RDC Part 24. The Agreement defi nes the “Tenants” in the plural, listing all three Defendants in two categories, yet subsequently employs the singular term “Tenant” throughout the body of the document. In the absence of a formally executed addendum or amended agreement, references in subsequent correspondence fi led in evidence to a singular “Tenant”, whether naming D1 alone or otherwise, are capable of being interpreted as inclusive of all named tenants under the Agreement. This is particularly so where D2 and D3 remain the authorised signatories, no corporate stamp was affi xed, and no alternative execution was undertaken expressly in the name of D1. ",
+        "text": "57. The Court also considers that the structure and wording of the Agreement itself raise issues unsuitable for determination under RDC Part 24. The Agreement defi nes the “Tenants” in the plural, lis...",
         "level": 3
     },
     "118": {
         "type": "text",
         "page_idx": 9,
-        "text": "58. Further, the termination correspondence dated 24 June 2024 refers to the original Agreement signed by the parties. The fi nal page of that Agreement bears only the signatures of D2 and D3, with no corporate stamp, no express execution in the name of D1, and no TRN number recorded for D1. ",
+        "text": "58. Further, the termination correspondence dated 24 June 2024 refers to the original Agreement signed by the parties. The fi nal page of that Agreement bears only the signatures of D2 and D3, with no...",
         "level": 3
     },
     "119": {
         "type": "text",
         "page_idx": 10,
-        "text": "These features raise legitimate questions as to whether D1 was ever formally substituted into the Agreement as a contracting party in a commercial capacity, or whether D2 and D3 remained bound in a personal capacity. Such questions cannot be answered on a summary basis. ",
+        "text": "These features raise legitimate questions as to whether D1 was ever formally substituted into the Agreement as a contracting party in a commercial capacity, or whether D2 and D3 remained bound in a pe...",
         "level": 3
     },
     "120": {
         "type": "text",
         "page_idx": 10,
-        "text": "59. The Defendants’ reliance on Articles 31, 49, and 51 of the DIFC Contract Law further underscores the unsuitability of this Application for immediate judgment. The application of those provisions, particularly in relation to alleged modifi cation by conduct, common intention, and contractual interpretation, is fact-sensitive and requires a careful assessment of the parties’ negotiations, subsequent conduct, and surrounding circumstances. That exercise necessarily depends upon factual witness evidence and cannot properly be undertaken without a trial. ",
+        "text": "59. The Defendants’ reliance on Articles 31, 49, and 51 of the DIFC Contract Law further underscores the unsuitability of this Application for immediate judgment. The application of those provisions, ...",
         "level": 3
     },
     "121": {
         "type": "text",
         "page_idx": 10,
-        "text": "60. The Court therefore accepts the Claimant’s submission that this case is not ready for determination under RDC 24.1. There are matters which ought to be investigated and the presence of real disagreements and contradictory evidence precludes the granting of immediate judgment. ",
+        "text": "60. The Court therefore accepts the Claimant’s submission that this case is not ready for determination under RDC 24.1. There are matters which ought to be investigated and the presence of real disagr...",
         "level": 3
     },
     "122": {
         "type": "text",
         "page_idx": 10,
-        "text": "61. Accordingly, the Court fi nds that the Defendants have failed to discharge the burden of establishing that the Claimant has no real prospect of succeeding against D2 and D3, or that there is no other compelling reason why the issue should proceed to trial. The determination of whether D2 and D3 remain parties to the Agreement, and in what capacity, is more appropriately resolved together with the substantive issues at trial. ",
+        "text": "61. Accordingly, the Court fi nds that the Defendants have failed to discharge the burden of establishing that the Claimant has no real prospect of succeeding against D2 and D3, or that there is no ot...",
         "level": 3
     },
     "123": {
@@ -746,7 +746,7 @@
     "124": {
         "type": "text",
         "page_idx": 10,
-        "text": "63. Costs are awarded on the standard basis to be assessed by way of parties’ submissions. The Claimant shall fi le their costs submissions, to be no longer than 3 pages, within 5 working days from issue of this Order. The Defendants shall fi le its response within 5 working days thereafter. ",
+        "text": "63. Costs are awarded on the standard basis to be assessed by way of parties’ submissions. The Claimant shall fi le their costs submissions, to be no longer than 3 pages, within 5 working days from is...",
         "level": 3
     }
 }

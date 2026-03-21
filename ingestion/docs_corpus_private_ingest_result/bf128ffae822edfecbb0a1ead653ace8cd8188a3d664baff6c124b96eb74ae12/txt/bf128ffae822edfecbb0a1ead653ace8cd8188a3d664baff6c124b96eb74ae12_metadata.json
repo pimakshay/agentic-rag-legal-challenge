@@ -2,24 +2,28 @@
     "doc_type": "law",
     "official_title": "Law of Security",
     "official_title_normalized": "law of security",
-    "short_title": "Law of Security 2024",
-    "short_title_normalized": "law of security 2024",
-    "law_number": "4",
+    "short_title": "Law of Security",
+    "short_title_normalized": "law of security",
+    "law_number": "DIFC Law No. 4 of 2024",
     "law_year": "2024",
     "official_citation": "DIFC Law No. 4 of 2024",
     "official_citation_normalized": "difc law no 4 of 2024",
-    "citation_title_from_text": "",
+    "citation_title_from_text": "Law of Security DIFC Law No. 4 of 2024",
     "consolidated_version_date": "July 2025",
-    "amending_laws": [],
+    "amending_laws": [
+        "DIFC Laws Amendments Law DIFC Law No. 1 of 2025"
+    ],
     "administering_authority": "Registrar",
-    "jurisdiction": "Dubai International Financial Centre",
+    "jurisdiction": "DIFC",
     "title_page_number": 1,
     "last_page_number": 59,
     "page_count": 59,
     "alias_keys": [
         "Law of Security",
         "Law of Security 2024",
-        "DIFC Law No. 4 of 2024"
+        "DIFC Law No. 4 of 2024",
+        "Law of Security DIFC Law No. 4 of",
+        "Law of Security DIFC Law No. 4 of 2024"
     ],
     "article_index": {
         "Article 1": {
