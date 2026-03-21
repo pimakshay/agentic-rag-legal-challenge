@@ -1,14 +1,14 @@
 {
     "doc_type": "law",
-    "official_title": "Insolvency Law",
-    "official_title_normalized": "insolvency law",
-    "short_title": "Insolvency Law 2019",
-    "short_title_normalized": "insolvency law 2019",
-    "law_number": "1",
+    "official_title": "INSOLVENCY LAW DIFC LAW No. 1 of 2019",
+    "official_title_normalized": "insolvency law difc law no 1 of 2019",
+    "short_title": "Insolvency Law",
+    "short_title_normalized": "insolvency law",
+    "law_number": "No. 1",
     "law_year": "2019",
     "official_citation": "DIFC Law No. 1 of 2019",
     "official_citation_normalized": "difc law no 1 of 2019",
-    "citation_title_from_text": "",
+    "citation_title_from_text": "INSOLVENCY LAW DIFC LAW No. 1 of 2019",
     "consolidated_version_date": "July 2025",
     "amending_laws": [
         "DIFC Laws Amendment Law DIFC Law No.1 of 2025",
@@ -16,14 +16,16 @@
         "DIFC Laws Amendment Law DIFC Law No.2 of 2022"
     ],
     "administering_authority": "Registrar",
-    "jurisdiction": "Dubai International Financial Centre",
+    "jurisdiction": "DIFC",
     "title_page_number": 1,
     "last_page_number": 70,
     "page_count": 70,
     "alias_keys": [
         "Insolvency Law",
         "Insolvency Law 2019",
-        "DIFC Law No. 1 of 2019"
+        "DIFC Law No. 1 of 2019",
+        "INSOLVENCY LAW DIFC LAW No. 1 of",
+        "INSOLVENCY LAW DIFC LAW No. 1 of 2019"
     ],
     "article_index": {
         "Article 1": {

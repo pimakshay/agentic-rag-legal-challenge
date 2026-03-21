@@ -1,22 +1,29 @@
 {
     "doc_type": "case",
-    "case_name": "",
-    "case_name_normalized": "",
+    "case_name": "Nael v Niamh Bank",
+    "case_name_normalized": "nael v niamh bank",
     "neutral_citation": "[2024] DIFC CA 015",
     "neutral_citation_normalized": "2024 difc ca 015",
     "claim_number": "CA 015/2024",
     "claim_number_normalized": "ca 015 2024",
-    "court": "",
-    "court_division": "",
-    "hearing_date": "",
-    "judgment_date": "",
-    "judgment_release_date": "",
-    "claimant": "",
-    "defendants": [],
-    "claimant_counsel": [],
-    "defendant_counsel": [],
-    "claimant_law_firm": "",
-    "defendant_law_firm": "",
+    "court": "Court of Appeal",
+    "court_division": "IN THE DUBAI INTERNATIONAL FINANCIAL CENTRE",
+    "hearing_date": "10 December 2024",
+    "judgment_date": "9 January 2025",
+    "judgment_release_date": "9 January 2025",
+    "claimant": "Nael",
+    "defendants": [
+        "Niamh Bank"
+    ],
+    "claimant_counsel": [
+        "Mr Rupert Reed KC",
+        "Gregor Hogan"
+    ],
+    "defendant_counsel": [
+        "Mr Tom Stewart Coats"
+    ],
+    "claimant_law_firm": "Primecase",
+    "defendant_law_firm": "Holman Fenwick Willan",
     "title_page_number": 1,
     "last_page_number": 21,
     "page_count": 21
