@@ -1,0 +1,596 @@
+{
+    "0": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "DIFC ",
+        "level": 1
+    },
+    "1": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "NETTING LAW ",
+        "level": 1
+    },
+    "2": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "DIFC LAW NO. 2 OF 2014 ",
+        "level": 1
+    },
+    "3": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Contents ",
+        "level": 1
+    },
+    "4": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PART 1: GENERAL..... ",
+        "level": 2
+    },
+    "5": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Title ...... Legislative Authority . Date of enactment .......   \n4. Commencement ..... ....................................................................................................................... .. 1   \n5. Interpretation.... −1 .................................................................................................................... ",
+        "level": 3
+    },
+    "6": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PART 2: APPLICATION... ",
+        "level": 2
+    },
+    "7": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "6. Application.... 2 ",
+        "level": 3
+    },
+    "8": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PART 3: ENFORCEABILITY AND NETTING. ",
+        "level": 2
+    },
+    "9": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "7. Enforceability of a qualified financial instrument.. .. 3   \n8. General Rule as to enforceability of a netting agreement . .. 3   \n9. Effectiveness of netting of obligations to make payments or deliveries. . .. 3   \n10. Limitation on powers of a liquidator.. .. 3   \n11. Limitation of insolvency laws prohibiting set-off . ... 4   \n12. Preferences and fraudulent transfers . ... 4   \n13. Preemption .... ... 5   \n14. Realisation and liquidation of collateral.. .. 5   \n15. Scope of this Law.... .. 5 ",
+        "level": 3
+    },
+    "10": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "SCHEDULE 1...... ",
+        "level": 2
+    },
+    "11": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2. References to Legislation..   \n3. Defined terms... ",
+        "level": 3
+    },
+    "12": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "NETTING LAW ",
+        "level": 1
+    },
+    "13": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "i ",
+        "level": 5
+    },
+    "14": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "PART 1: GENERAL ",
+        "level": 2
+    },
+    "15": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Title This Law may be cited as the \"Netting Law 2014\". ",
+        "level": 3
+    },
+    "16": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Legislative Authority ",
+        "level": 3
+    },
+    "17": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "This Law is made by the Ruler of Dubai. ",
+        "level": 4
+    },
+    "18": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Date of enactment ",
+        "level": 3
+    },
+    "19": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "This Law is enacted on the date specified in the Enactment Notice in respect of this Law. ",
+        "level": 4
+    },
+    "20": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Commencement ",
+        "level": 3
+    },
+    "21": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "This Law comes into force on the date specified in the Enactment Notice in respect of this Law. ",
+        "level": 4
+    },
+    "22": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "5. Interpretation ",
+        "level": 3
+    },
+    "23": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Schedule 1 contains interpretative provisions which apply to the Law and a list of defined terms used in the Law. ",
+        "level": 4
+    },
+    "24": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "NETTING LAW ",
+        "level": 1
+    },
+    "25": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1 ",
+        "level": 5
+    },
+    "26": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "PART 2: APPLICATION ",
+        "level": 2
+    },
+    "27": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "6. ",
+        "level": 3
+    },
+    "28": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "Application ",
+        "level": 3
+    },
+    "29": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(1) This Law applies to any qualified financial instrument, netting agreement or collateral arrangement (including any title transfer collateral arrangement) which is governed by DIFC law or which is entered into by a person incorporated or registered in the DIFC or organised under a DIFC law, irrespective of the date on which such qualified financial instrument, netting agreement or collateral arrangement was entered into. ",
+        "level": 4
+    },
+    "30": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(2) In case of a conflict between the provisions of this Law and the provisions of the Insolvency Law 2009 or the Insolvency Regulations (excluding Section 7 of the Insolvency Regulations), the provisions of this Law shall prevail. ",
+        "level": 4
+    },
+    "31": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(3) In case of a conflict between the provisions of this Law and the provisions of Section 7 of the Insolvency Regulations, Section 7 of the Insolvency Regulations shall prevail. ",
+        "level": 4
+    },
+    "32": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "NETTING LAW ",
+        "level": 1
+    },
+    "33": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2 ",
+        "level": 5
+    },
+    "34": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "PART 3: ENFORCEABILITY AND NETTING ",
+        "level": 2
+    },
+    "35": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "7. Enforceability of a qualified financial instrument ",
+        "level": 3
+    },
+    "36": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "A qualified financial instrument shall not be and shall be deemed never to have been void or unenforceable by reason of being, or having the characteristics of, a wager, lottery, gambling or gaming contract. ",
+        "level": 4
+    },
+    "37": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "8. General Rule as to enforceability of a netting agreement ",
+        "level": 3
+    },
+    "38": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "The provisions of a netting agreement will be enforceable in accordance with their terms, including against an insolvent party, and, where applicable, against a guarantor or other person (including a guarantor or other person that is insolvent) providing security for a party and will not be stayed, avoided or otherwise limited by ",
+        "level": 4
+    },
+    "39": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) the appointment of, or any application for the appointment of, a liquidator, or any action of a liquidator,   \n(b) any provision of law relating to bankruptcy, liquidation (including any compulsory winding up procedure or proceeding), reorganisation, composition with creditors, receivership, conservatorship or any other insolvency proceeding to which a party may be subject, or   \n(c) any other provision of law that may be applicable to an insolvent ",
+        "level": 4
+    },
+    "40": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "party, subject to the conditions contained in the applicable netting agreement ",
+        "level": 4
+    },
+    "41": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "9. Effectiveness of netting of obligations to make payments or deliveries. ",
+        "level": 3
+    },
+    "42": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "After commencement of insolvency proceedings in relation to a party, any provisions of a netting agreement whereby any obligations of the parties to make, or relating to the making of, payments or deliveries under or pursuant to that netting agreement or under or pursuant to any qualified financial instrument or contract or transaction to which that netting agreement applies are converted into net claims or obligations or otherwise netted (including through entry by the parties into or the requirement that they enter into a transaction of the kind referred to in sub- paragraph (e) of the definition of netting in Schedule 1) shall take effect in accordance with the terms of the applicable netting agreement. ",
+        "level": 4
+    },
+    "43": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "10. Limitation on powers of a liquidator ",
+        "level": 3
+    },
+    "44": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Any powers of a liquidator to assume or repudiate individual qualified financial instruments, contracts, transactions, claims or obligations will not prevent the termination, liquidation, acceleration and/or conversion into net claims or obligations of all payment or delivery obligations or entitlements, and all obligations or entitlements relating to the making of payments or deliveries, under one or more qualified financial instruments entered into under a netting ",
+        "level": 4
+    },
+    "45": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "NETTING LAW ",
+        "level": 1
+    },
+    "46": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "3 ",
+        "level": 5
+    },
+    "47": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "agreement or to which a netting agreement applies, and such powers will apply, if at all, only after having given effect to the terms of such netting agreement. ",
+        "level": 4
+    },
+    "48": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "11. Limitation of insolvency laws prohibiting set-off ",
+        "level": 3
+    },
+    "49": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "The provisions of a netting agreement which provide for the determination of, or for payment of or in respect of, the net balance of close-out values, market values, liquidation values, replacement values or other relevant values (including the value of any damages which may arise from a party's failure to enter into a transaction required to be entered into under or pursuant to such provisions of the netting agreement) calculated in respect of accelerated and/or terminated payment or delivery obligations or entitlements, or accelerated and/or terminated obligations or entitlements relating to the making of payments or deliveries, in either case under one or more qualified financial instruments entered into thereunder or to which such netting agreement applies (including a payment or delivery in respect of a contract or transaction required to be entered into under or pursuant to such provisions) will not be affected by any applicable insolvency laws limiting the exercise of rights to set off, offset or net out obligations, payment amounts or any such values between an insolvent party and another party. ",
+        "level": 4
+    },
+    "50": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "12. Preferences and fraudulent transfers ",
+        "level": 3
+    },
+    "51": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(1) Subject to Article 12(2) below, the liquidator of an insolvent party may not avoid or render ineffective ",
+        "level": 4
+    },
+    "52": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(a) any payment, transfer, delivery, substitution or exchange of cash, collateral or any other interests or property under or in connection with a netting agreement from the insolvent party to the other party (hereinafter referred to as the \"noninsolvent party\"); or ",
+        "level": 4
+    },
+    "53": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "any obligation incurred under or pursuant to a netting agreement, or to which a netting agreement applies, by the insolvent party and owing to the non-insolvent party to make any payment, transfer, delivery, substitution or exchange of cash, collateral or any other interest or property; or ",
+        "level": 4
+    },
+    "54": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "any transaction entered into by the insolvent party in accordance with the terms of such netting agreement in order to give effect to the netting provided for by such netting agreement; ",
+        "level": 4
+    },
+    "55": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "on the grounds of it constituting a preference by the insolvent party to the non-insolvent party. ",
+        "level": 4
+    },
+    "56": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "Nothing in this Article 12 shall prevent a liquidator of an insolvent party from exercising any power to avoid or render ineffective any payment, transfer, delivery, substitution or exchange or any obligation incurred or transaction entered into of the kind referred to in Article 12(1) (a) to (c) in circumstances where there is clear and convincing evidence that the insolvent party ",
+        "level": 4
+    },
+    "57": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "NETTING LAW ",
+        "level": 1
+    },
+    "58": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "4 ",
+        "level": 5
+    },
+    "59": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) made such payment, transfer, delivery, substitution or exchange or ",
+        "level": 4
+    },
+    "60": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(b) incurred such obligation or ",
+        "level": 4
+    },
+    "61": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "with actual intent to hinder, delay, or defraud any person to which the insolvent party was indebted or became indebted, on or after the date such transfer, delivery, substitution or exchange was made or such obligation was incurred or such transaction was entered into. ",
+        "level": 4
+    },
+    "62": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "13. Preemption ",
+        "level": 3
+    },
+    "63": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "No stay, injunction, avoidance, moratorium, or similar proceeding or order, whether issued or granted by a court, administrative agency, liquidator or otherwise, shall limit or delay application or performance of otherwise enforceable netting agreements and transactions entered into thereunder or pursuant thereto or to which an otherwise enforceable netting agreement applies. ",
+        "level": 4
+    },
+    "64": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "14. Realisation and liquidation of collateral ",
+        "level": 3
+    },
+    "65": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Unless otherwise agreed by the parties, the realisation, appropriation and/or liquidation of collateral under a collateral arrangement shall take effect or occur without any requirement that prior notice shall be given to, or consent be received from, any party or person, provided that this Article 14 is without prejudice to any applicable provision of law requiring that the realisation, appropriation and/or liquidation of collateral is conducted in a commercially reasonable manner. ",
+        "level": 4
+    },
+    "66": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "15. Scope of this Law ",
+        "level": 3
+    },
+    "67": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(1) ",
+        "level": 4
+    },
+    "68": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "A netting agreement shall be deemed to be a netting agreement for the purposes of this Law notwithstanding the fact that such netting agreement may contain provisions relating to agreements, contracts or transactions that are not qualified financial instruments, provided that such netting agreement shall be deemed to be a netting agreement for the purposes of this Law only with respect to those agreements, contracts or transactions that fall within the definition of \"qualified financial instrument\". ",
+        "level": 4
+    },
+    "69": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(2) A collateral arrangement shall be deemed to be a collateral arrangement for the purposes of this Law notwithstanding the fact that such collateral arrangement may contain provisions relating to agreements, contracts or transactions that are not a netting agreement or qualified financial instruments, provided that such collateral arrangement shall be deemed to be a collateral arrangement for the purposes of this Law only with respect to those agreements contracts or transactions that fall within the definition of \"qualified financial instrument\" or \"netting agreement\" or that are agreements, contracts or transactions to which a netting agreement applies. ",
+        "level": 4
+    },
+    "70": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "NETTING LAW ",
+        "level": 1
+    },
+    "71": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "5 ",
+        "level": 5
+    },
+    "72": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(3) For the purposes of this Law, a netting agreement and all qualified financial instruments entered into thereunder or to which such netting agreement applies shall constitute a single agreement. ",
+        "level": 4
+    },
+    "73": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "NETTING LAW ",
+        "level": 1
+    },
+    "74": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "6 ",
+        "level": 5
+    },
+    "75": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "SCHEDULE 1 ",
+        "level": 2
+    },
+    "76": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "1. ",
+        "level": 3
+    },
+    "77": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Rules of interpretation ",
+        "level": 3
+    },
+    "78": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(a) In this Law, a reference to: ",
+        "level": 4
+    },
+    "79": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(i) a statutory provision includes a reference to the statutory provision as amended or re-enacted from time to time;   \n(ii) a person includes any natural person, body corporate or body unincorporate, including a company, partnership, unincorporated association, government or state or any agency or unit of any government or state; and   \n(iii) an obligation to publish or cause to be published a particular document shall, unless expressly provided otherwise in this Law, include publishing or causing to be published in printed or electronic form. ",
+        "level": 4
+    },
+    "80": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(b) The headings in this Law shall not affect its interpretation. ",
+        "level": 4
+    },
+    "81": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "2. References to Legislation ",
+        "level": 3
+    },
+    "82": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "References to legislation in the Law shall be construed in accordance with the following provisions: ",
+        "level": 4
+    },
+    "83": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(a) Federal Law is law made by the federal government of the United Arab Emirates;   \n(b) Dubai Law is made by the Ruler, as applicable in the Emirate of Dubai;   \n(c) DIFC Law is made by the Ruler (including, by way of example, the Law), as applicable in the DIFC; and   \n(d) The Law is the Netting Law 2014 made by the Ruler. ",
+        "level": 4
+    },
+    "84": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "3. Defined terms ",
+        "level": 3
+    },
+    "85": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "In the Law, unless the context indicates otherwise, the defined terms listed below shall have the corresponding meanings: ",
+        "level": 4
+    },
+    "86": {
+        "type": "table",
+        "page_idx": 8,
+        "text": "<table><tr><td>Term</td><td colspan=\"2\">Definition</td></tr><tr><td>cash</td><td colspan=\"2\">means money credited to an account in any</td></tr><tr><td></td><td colspan=\"2\">currency, or a similar claim for repayment of</td></tr><tr><td></td><td colspan=\"2\">money, such as a money market deposit</td></tr><tr><td></td><td colspan=\"2\"></td></tr><tr><td>Term</td><td colspan=\"2\">Definition</td></tr><tr><td rowspan=\"6\">collateral</td><td colspan=\"2\">means any of the following:</td></tr><tr><td>(a)</td><td>cash in any currency;</td></tr><tr><td></td><td>securities of any kind, including (without limitation) debt securities, equity securities and sukuk, and any rights or claims associated with any such securities;</td></tr><tr><td></td><td>guarantees, letters of credit and obligations to reimburse; and</td></tr><tr><td></td><td>any asset commonly used as collateral in the DIFC</td></tr><tr><td colspan=\"2\">means any margin, collateral or security arrangement or other credit enhancement related to or forming part of a netting agreement or one or more qualified</td></tr><tr><td rowspan=\"8\">DFSA</td><td colspan=\"2\">financial instruments entered into thereunder or to limitation): (a)</td></tr><tr><td colspan=\"2\">which a netting agreement applies, including (without a pledge, mortgage, charge or any other form of</td></tr><tr><td colspan=\"2\">security interest in collateral, whether possessory or non- possessory;</td></tr><tr><td colspan=\"2\">a title transfer collateral arrangement; and any guarantee, letter of credit or reimbursement</td></tr><tr><td colspan=\"2\">obligation by or to a party to one or more qualified financial instruments, in respect of one or more of</td></tr><tr><td colspan=\"2\">those qualified financial instruments</td></tr><tr><td colspan=\"2\">means the Dubai Financial Services Authority means the Dubai International Financial Centre</td></tr><tr><td colspan=\"2\">insolvency proceeding means any procedure or proceeding under any provision of</td></tr><tr><td colspan=\"2\"></td><td colspan=\"2\">law relating to bankruptcy, liquidation (including any compulsory winding up procedure or proceeding), reorganisation, composition with creditors, receivership, conservatorship or any other similar procedures or</td></tr><tr><td colspan=\"2\">Insolvency Regulations</td><td colspan=\"2\">proceedings means the DIFC Insolvency Regulations of 2009</td></tr><tr><td colspan=\"2\"></td><td colspan=\"2\">laws of the DIFC has been instituted</td></tr><tr><td colspan=\"2\">Law liquidator</td><td colspan=\"2\">the Netting Law 2014 means the liquidator, receiver, liquidation committee,</td></tr><tr><td colspan=\"2\">netting</td><td colspan=\"2\">nominee, trustee, conservator, supervisor or other person or entity which administers the affairs of an insolvent party during an insolvency proceeding under the laws of the DIFC means the occurrence of any or all of the following:</td></tr><tr><td colspan=\"2\"></td><td colspan=\"2\">(a) the termination, liquidation and/or acceleration of any payment or delivery obligations or entitlements, or obligations or entitlements to make, receive or require payments or deliveries, under one or more qualified financial instruments entered into under a netting agreement or to which a netting agreement applies; (b) the calculation or estimation of a close-out value,</td></tr><tr><td colspan=\"2\"></td><td colspan=\"2\">market value, liquidation value, replacement value or other relevant value (including the value of any damages which may arise from a party's failure to enter into a transaction required to be entered into under or pursuant to provisions of a netting agreement of the kind referred to in Article 9 of the Law) in respect of each obligation or entitlement or group of obligations or entitlements terminated,</td></tr><tr><td colspan=\"2\">(c) (d) (e)</td><td colspan=\"2\">liquidated and/or accelerated under (a); the conversion of any values calculated or estimated under (b) into a single currencv: the determination of the net balance of the values calculated under (b), as converted under (c), whether by operation of set-off or otherwise; and entry by the parties into a transaction pursuant to or by virtue of which such a net balance becomes payable directly or as part of the</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Term</td><td colspan=\"2\" rowspan=\"1\">Definition</td></tr><tr><td colspan=\"2\" rowspan=\"1\">netting agreement</td><td colspan=\"2\" rowspan=\"1\">means:(a)     any agreement between two parties that providesfor netting of present or future payment or deliveryobligations or entitlements or obligations, orentitlements to make, receive or require paymentsor deliveries, arising under or in connection withone or more qualified financial instruments enteredinto under the agreement by the parties to theagreement (a \"master netting agreement\");(b)     any master agreement between two parties thatprovides for netting of the amounts due under twoor more master netting agreements (a \"master-master netting agreement\"); and(c)     any collateral arrangement related to or formingpart of one or more of the foregoing</td></tr><tr><td colspan=\"2\" rowspan=\"1\">non-insolvent party</td><td colspan=\"2\" rowspan=\"1\">is the party other than the insolvent party</td></tr><tr><td colspan=\"2\" rowspan=\"1\">party</td><td colspan=\"2\" rowspan=\"1\">means (for the purposes of Part 3 of this Law) a personconstituting one of the parties to a netting agreement</td></tr><tr><td colspan=\"2\" rowspan=\"1\">qualified financial instrument</td><td colspan=\"2\" rowspan=\"1\">means any financial agreement, contract or transaction,including any terms and conditions incorporated byreference in any such financial agreement, contract ortransaction, pursuant to which payment or deliveryobligations are due to be performed or title to commoditiesor assets is to be transferred for consideration at a certaintime or within a certain period of time and whether ornot subject to any condition or contingency or pursuant towhich obligations to make payments or deliveries, or totransfer title to commodities or assets, in either case forconsideration at a certain time or within a certain period oftime and whether or not subject to any condition orcontingency, are to be entered into or incurred.Qualified financial instruments include (without limitation):(a)     a currency, cross-currency, interest rate swap orprofit rate swap;</td></tr><tr><td colspan=\"2\">Term</td><td colspan=\"2\">Definition</td></tr><tr><td></td><td>(b)</td><td colspan=\"2\">a basis swap;</td></tr><tr><td></td><td>(c)</td><td colspan=\"2\">a spot, future, forward or other foreign exchange transaction;</td></tr><tr><td></td><td>(d)</td><td colspan=\"2\">a cap, collar or floor transaction;</td></tr><tr><td></td><td>(e)</td><td colspan=\"2\">a commodity swap;</td></tr><tr><td></td><td>(f)</td><td colspan=\"2\">a forward rate agreement;</td></tr><tr><td></td><td>(g)</td><td colspan=\"2\">a currency or interest rate future;</td></tr><tr><td></td><td>(h)</td><td colspan=\"2\">a currency or interest rate option;</td></tr><tr><td></td><td>(i)</td><td colspan=\"2\">an equity derivative, such as an equity or equity index swap, equity forward, equity option or equity index option;</td></tr><tr><td></td><td>()</td><td colspan=\"2\">a derivative relating to bonds or other debt securities or to a bond or debt security index, such as a total return swap, index swap, forward, option or index option;</td></tr><tr><td></td><td>(k)</td><td colspan=\"2\">a credit derivative, such as a credit default swap, credit default basket swap, total return swap or credit default option;</td></tr><tr><td></td><td>(1)</td><td colspan=\"2\">an energy derivative, such as an electricity derivative, oil derivative, coal derivative or gas</td></tr><tr><td></td><td>(m)</td><td colspan=\"2\">derivative; a weather derivative, such as a weather swap or weather option;</td></tr><tr><td></td><td>(n)</td><td colspan=\"2\">a bandwidth derivative;</td></tr><tr><td></td><td>(o)</td><td colspan=\"2\">a freight derivative;</td></tr><tr><td></td><td></td><td colspan=\"2\">an emissions derivative, such as an emissions</td></tr><tr><td></td><td>(p)</td><td colspan=\"2\">allowance or emissions reduction transaction;</td></tr><tr><td colspan=\"2\"></td><td colspan=\"2\">(q) an economic statistics derivative, such as an inflation derivative;</td></tr><tr><td colspan=\"2\">(r) (s)</td><td colspan=\"2\">a property index derivative; a spot, future, forward or other securities or</td></tr><tr><td colspan=\"2\">(t)</td><td colspan=\"2\">commodities transaction; a securities contract, including a margin loan and an agreement to buy, sell, borrow or lend</td></tr><tr><td colspan=\"2\">(u)</td><td colspan=\"2\">securities, such as a securities repurchase or reverse repurchase agreement, a securities lending agreement or a securities buy/sell back agreement, including any such contract or agreement relating to mortgage loans, interests in mortgage loans or mortgage related securities; a commodities contract, including an agreement to buy, sell, borrow or lend commodities, such as a</td></tr><tr><td colspan=\"2\">(v) (w)</td><td colspan=\"2\">commodities repurchase or reverse repurchase agreement, a commodities lending agreement or a commodities buy/sell back agreement; a collateral arrangement; an agreement to clear or settle securities</td></tr><tr><td colspan=\"2\">(x)</td><td colspan=\"2\">transactions or to act as a depository for securities; any other agreement, contract or transaction similar to any agreement, contract or transaction referred to in paragraphs (a) to (w) with respect to one or more reference items or indices relating to (without limitation) interest rates, currencies, commodities, energy</td></tr><tr><td colspan=\"2\">Term</td><td colspan=\"2\">Definition (y) any swap, forward, option, contract for differences</td></tr><tr><td></td><td>below; (z) DFSA by further written and published notice, but do not include insurance or reinsurance contracts</td><td colspan=\"2\">or other derivative in respect of, or combination of, one or more agreements or contracts referred to in paragraphs (a) to (x) above or (z) or (aa) any Shari'a compliant contract or undertaking (including a murabaha, musawama or wa'ad) which individually or together with any other such contract or undertaking has or is entered into with a view to having an economic effect similar to any instrument of a kind described in any of (a) to (y) above or (aa) below; and (aa) any agreement, contract or transaction designated as such by the DFSA, by written and published notice, such designation being revocable by the</td></tr><tr><td>Ruler</td><td>company as part of its insurance business.</td><td colspan=\"2\">entered into by an appropriately licensed insurance</td></tr><tr><td>schedule</td><td>the Ruler of the Emirate of Dubai a schedule to the Law</td><td colspan=\"2\"></td></tr><tr><td>title transfer collateral arrangement</td><td></td><td colspan=\"2\">means a margin, collateral or security arrangement related to a netting agreement based on the transfer of title to collateral, whether by outright transfer or by way of security, including (without limitation) a sale and repurchase agreement, securities lending agreement, securities buy/sell-back agreement or an irregular pledge</td></tr></table>",
+        "level": 4
+    },
+    "87": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "NETTING LAW ",
+        "level": 1
+    },
+    "88": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "7 ",
+        "level": 5
+    },
+    "89": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "NETTING LAW ",
+        "level": 1
+    },
+    "90": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "8 ",
+        "level": 5
+    },
+    "91": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "NETTING LAW ",
+        "level": 1
+    },
+    "92": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "9 ",
+        "level": 5
+    },
+    "93": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "NETTING LAW ",
+        "level": 1
+    },
+    "94": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "NETTING LAW ",
+        "level": 1
+    },
+    "95": {
+        "type": "text",
+        "page_idx": 13,
+        "text": "NETTING LAW ",
+        "level": 1
+    },
+    "96": {
+        "type": "text",
+        "page_idx": 13,
+        "text": "12 ",
+        "level": 5
+    },
+    "97": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "NETTING LAW ",
+        "level": 1
+    },
+    "98": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "13 ",
+        "level": 5
+    }
+}

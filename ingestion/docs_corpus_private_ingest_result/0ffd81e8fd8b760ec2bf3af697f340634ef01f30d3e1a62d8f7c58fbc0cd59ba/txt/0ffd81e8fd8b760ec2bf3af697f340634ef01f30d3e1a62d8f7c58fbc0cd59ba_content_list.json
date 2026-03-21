@@ -1,0 +1,95 @@
+[
+    {
+        "type": "text",
+        "text": "ENF 005/2010 - Order ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            172,
+            349,
+            195
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claim No: ENF 005/2010 THE JUDICIAL AUTHORITY OF THE DUBAI INTERNATIONAL FINANCIAL CENTRE IN THE COURT OF FIRST INSTANCE Between ",
+        "text_level": 1,
+        "bbox": [
+            38,
+            254,
+            954,
+            299
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/102df69c796240b8150db200bb1e68aa020811bb084e25344dadadb816273f2d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>LIQUIDATOR OF LUMIDIEM LIMITED</td><td>Applicant</td></tr><tr><td>and KHALED SWEDAN</td><td>Respondent</td></tr></table>",
+        "bbox": [
+            42,
+            302,
+            542,
+            382
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ORDER This claim having been called (on this day) for the hearing before the Honorable Judge Ali Al ",
+        "bbox": [
+            50,
+            409,
+            949,
+            428
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Madhani UPON reading the Application Notice 51/2010 fi led with the DIFC Courts on 9 March 2010, the appointed Liquidator of Lumidiem Limited, Grant Thornton, sought a letter from the DIFC Courts to Dubai Court ordering them to discharge a previous provisional seizure of assets owned by Lumidiem Limited in its premises in Burjuman Centre Tower in Dubai and handing them over to the Liquidator in order to start the liquidation process. UPON hearing the Liquidator's representative, Mr Hashim Farouq Mohammed of Grant Thornton which was previously the auditing fi rm for Lumidiem Limited, then through a Board Resolution on 21 of February 2010 was appointed as Liquidator who submitted the current application, Mr Hashim Farouq Mohammed added that after the submission of the application, the Directors of Lumidien Limited have left the country and Grant Thornton have stopped representing the company in this matter. The Liquidator's representative expressed that his fi rm, Grant Thornton, is no longer acting as a liquidator because they discharged themselves from that mandate and, therefore, are seeking the Courts' confi rmation. In addition, the Liquidator wishes to withdraw the current Application Notice 51/2010. THE COURT ORDERS THAT: ",
+        "bbox": [
+            42,
+            432,
+            956,
+            513
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. The application is dismissed. ",
+        "bbox": [
+            43,
+            708,
+            322,
+            725
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. The Liquidator is discharged and must take reasonable steps to notify Lumidiem Limited that they cease to represent Lumidiem Limited in that capacity.   \nJustice Ali Al Madhani Date of Issue: 18 March 2010 At: 3pm ",
+        "bbox": [
+            40,
+            749,
+            937,
+            808
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MARCH 18, 2010 ENFORCEMENT,ORDERS ",
+        "bbox": [
+            40,
+            200,
+            430,
+            218
+        ],
+        "page_idx": 0
+    }
+]

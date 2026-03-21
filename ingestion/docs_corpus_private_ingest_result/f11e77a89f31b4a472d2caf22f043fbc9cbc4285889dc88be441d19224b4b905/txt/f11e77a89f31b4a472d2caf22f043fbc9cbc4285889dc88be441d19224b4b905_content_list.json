@@ -1,0 +1,1669 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            389,
+            323,
+            605,
+            370
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS In force on 26 April 2023 ",
+        "text_level": 1,
+        "bbox": [
+            166,
+            464,
+            833,
+            548
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Confidential ",
+        "bbox": [
+            453,
+            944,
+            546,
+            958
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TABLE OF CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            405,
+            72,
+            589,
+            87
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 INTRODUCTION.... ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            99,
+            894,
+            118
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ESTABLISHMENT.... ",
+        "text_level": 1,
+        "bbox": [
+            139,
+            219,
+            892,
+            235
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CONDUCT OF BUSINESS ..... . 8 ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            502,
+            895,
+            519
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1 Registered Office ....... .. 8   \n4.2 Accounting Records.. 9   \n4.3 Reporting and disclosure.. . 9   \n4.4 Revocation or change of status .. 9 ",
+        "bbox": [
+            100,
+            525,
+            895,
+            613
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5 FEES.... ... 10 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            620,
+            892,
+            636
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 1 - FEES... 11 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            644,
+            892,
+            659
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            586,
+            41,
+            890,
+            57
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Confidential i ",
+        "bbox": [
+            453,
+            928,
+            544,
+            957
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Board of Directors of DIFCA, in the exercise of the powers conferred on them by Articles 132 and 151 of the Companies Law, hereby make these regulations. ",
+        "bbox": [
+            102,
+            80,
+            894,
+            109
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. INTRODUCTION ",
+        "bbox": [
+            107,
+            115,
+            305,
+            129
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 Title   \n1.1.1 These Regulations may be cited as the Venture Studio Regulations 2023. ",
+        "bbox": [
+            107,
+            143,
+            660,
+            186
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 Application and interpretation ",
+        "text_level": 1,
+        "bbox": [
+            110,
+            199,
+            391,
+            214
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 These Regulations apply to: ",
+        "bbox": [
+            109,
+            227,
+            357,
+            242
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) every person who falls within the definition of a Venture Studio or a Venture Studio Company;   \n(b) every person applying for the incorporation or continuation of a Venture Studio or a Venture Studio Company in the DIFC; and   \n(c) the Registrar. ",
+        "bbox": [
+            166,
+            254,
+            892,
+            340
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 The Relevant Laws apply to a Venture Studio and a Venture Studio Company unless specified otherwise in these Regulations. ",
+        "bbox": [
+            102,
+            353,
+            892,
+            381
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 Defined terms are identified throughout these Regulations by the capitalisation of the initial letter of a word or phrase. Where capitalisation of the initial letter is not used, an expression has its natural meaning. ",
+        "bbox": [
+            107,
+            393,
+            892,
+            423
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4 Any reference to enacted law or regulations, is a reference to that enactment as amended from time to time, and includes a reference to that enactment as extended, applied or otherwise amended by or under another enactment. ",
+        "bbox": [
+            107,
+            436,
+            895,
+            478
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5 To the extent that these Regulations apply to any person to whom any provision of DFSA administered legislation also applies, these Regulations shall not exempt such person from any requirement applicable to that person under DFSA administered legislation. ",
+        "bbox": [
+            107,
+            492,
+            894,
+            533
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.6 The following defined terms have the meaning given below: ",
+        "bbox": [
+            105,
+            546,
+            576,
+            562
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            586,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Confidential 1 ",
+        "bbox": [
+            460,
+            928,
+            541,
+            957
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/96f0f40e8ce903cb036fc1b24ea168e59a8ef6a07957a73183e1934b4c181e8b.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "1.2.7 An undefined term that is used in these Regulations and is also used in the Relevant Laws shall have the same meaning in these Regulations. "
+        ],
+        "table_body": "<table><tr><td>Defined Term</td><td>Definition</td></tr><tr><td>Accounting Records</td><td>has the meaning given to the term in the Companies Law.</td></tr><tr><td>Affiliate</td><td>any of the following:</td></tr><tr><td></td><td>(a) a Holding Company; (b) a Subsidiary, or</td></tr><tr><td></td><td></td></tr><tr><td></td><td>(c) a Subsidiary of the Holding Company,</td></tr><tr><td>AML Requirements</td><td>of a Venture Studio or Venture Studio Company.</td></tr><tr><td></td><td>any requirements under Applicable Law in relation to anti-money-laundering, counter- terrorist financing and sanctions applicable to Registered Persons in the DIFC.</td></tr><tr><td>Applicable Law</td><td>any law or regulations applicable to an application, registration, conduct of business, providing financial services or in respect of any AML Requirements by a person to whom these Regulations apply, including (without limitation) the Relevant Laws.</td></tr><tr><td>Articles of Association Capital Raising</td><td>in relation to a Venture Studio Company, its articles of association as originally adopted or as altered in accordance with the Companies Law.</td></tr><tr><td></td><td>a bona fide transaction or series of transactions, with the principal purpose of raising capital, pursuant to which:</td></tr><tr><td></td><td>(d) a Venture (when it becomes a Venture Studio Company);</td></tr><tr><td></td><td>(e) the Venture Studio on its own behalf, or on behalf of a Venture;</td></tr><tr><td></td><td>(f) a Venture Studio Company; or</td></tr><tr><td></td><td>(g) any Affiliate of (a), (b) or (),</td></tr><tr><td></td><td>issues and/or sells Securities.</td></tr><tr><td>Companies Law</td><td>the Companies Law, DIFC Law No. 5 of 2018.</td></tr><tr><td>Companies Regulations</td><td>the Companies Regulations 2018.</td></tr><tr><td>Confirmation Statement</td><td>has the meaning given to the term in the Operating Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Control</td><td colspan=\"1\" rowspan=\"1\">in relation to a Venture Studio, the power of a person to secure:by means of the holding of shares or the possession of voting power, in eithercase directly or indirectly; or(b) as a result of any powers conferred by the Articles of Association or otherdocument regulating the Venture Studio,that the affairs of the Venture Studio are conducted in accordance with such person'swishes; andControlled\" has a corresponding meaning.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Decision MakingProcedures</td><td colspan=\"1\" rowspan=\"1\">the decision making procedures prescribed in the Operating Regulations for the exerciseof the powers of the Registrar under the Operating Law that are stated to be subject tosuch procedures.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DFSA</td><td colspan=\"1\" rowspan=\"1\">the Dubai Financial Services Authority.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC</td><td colspan=\"1\" rowspan=\"1\">the Dubai International Financial Centre.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Employee</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to the term in the Employment Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Employment Law</td><td colspan=\"1\" rowspan=\"1\">the Employment Law, DIFC Law No. 2 of 2019.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Entrepreneur</td><td colspan=\"1\" rowspan=\"1\">a natural person associated with a Venture named in a Venture Sponsorship Agreement.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Financial Services</td><td colspan=\"1\" rowspan=\"1\">any financial activity prescribed by Applicable Law in the DIFC or a RecognisedJurisdiction as constituting a financial service.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Holding Company</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to the term in the Companies Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Insolvency Law</td><td colspan=\"1\" rowspan=\"1\">the Insolvency Law, DIFC Law No. 1 of 2019</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Licence</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to the term in the Operating Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Operating Law</td><td colspan=\"1\" rowspan=\"1\">the Operating Law, DIFC Law No. 7 of 2018.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Operating Regulations</td><td colspan=\"1\" rowspan=\"1\">the Operating Regulations 2018.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Permission</td><td colspan=\"1\" rowspan=\"1\">a commercial permission issued by the Registrar pursuant to Article 7(3)(e)(ii) of theOperating Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Qualifying Applicant</td><td colspan=\"1\" rowspan=\"1\">any person(s) that can satisfy the Registrar that it has sufficient experience and resourcesto conduct venture building as a business.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">RecognisedJurisdiction</td><td colspan=\"1\" rowspan=\"1\">the UAE, a Zone 1 Country or a jurisdiction recognised by the DFSA under Article 55of the Collective Investment Law, DIFC Law No. 2 of 2010.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Registered Person</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to the term in the Operating Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Registrar</td><td colspan=\"1\" rowspan=\"1\">the DIFC Registrar of Companies appointed under the Operating Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Relevant Laws</td><td colspan=\"1\" rowspan=\"1\">the Companies Law, the Operating Law and the regulations issued pursuant to theselaws.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Securities</td><td colspan=\"1\" rowspan=\"1\">any instrument including but not limited to stocks, shares, debentures, warrants,certificates, units, options or any right to or interest in any such instrument, including(without limitation) notes that may convert into, or give rights in respect of, equity ordebt in a Venture Studio Company, or any Affiliate.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Senior Management</td><td colspan=\"1\" rowspan=\"1\">a person who is a member of a Venture Studio Company's senior management team,including (without limitation) the chief executive officer, chief operating officer, chieffinancial officer (or any of their equivalent positions) or a head of function.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Start-up Period</td><td colspan=\"1\" rowspan=\"1\">twenty-four (24) months following the incorporation of a Venture Studio Company andany extended period of time agreed by the Registrar pursuant to Regulation 3.7.2.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Subsidiary</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to the term in the Companies Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Trust Law</td><td colspan=\"1\" rowspan=\"1\">the Trust Law, DIFC Law No. 4 of 2018.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">UAE</td><td colspan=\"1\" rowspan=\"1\">United Arab Emirates.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">UBO Regulations</td><td colspan=\"1\" rowspan=\"1\">the DIFC Ultimate Beneficial Ownership Regulations 2018.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Venture</td><td colspan=\"1\" rowspan=\"1\">a start-up business that a Venture Studio wishes to, or has agreed to, sponsor pursuantto a Venture Sponsorship Agreement.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Venture Funds</td><td colspan=\"1\" rowspan=\"1\">any capital raised by a Venture Studio in respect of a Venture or income, deductions orother items attributable to a Venture.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Venture SponsorshipAgreement</td><td colspan=\"1\" rowspan=\"1\">an agreement entered into between a Venture Studio and one (1) or more Entrepreneurs,under which it is agreed that the Venture Studio shall sponsor the Venture.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Venture Studio</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to the term in Regulation 2.1.1.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Venture StudioCompany</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to the term in Regulation 2.1.2.</td></tr></table>",
+        "bbox": [
+            107,
+            72,
+            892,
+            752
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Confidential 2 ",
+        "bbox": [
+            458,
+            928,
+            541,
+            956
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            586,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            586,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Confidential 3 ",
+        "bbox": [
+            453,
+            928,
+            547,
+            957
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.8 The rules of interpretation in the Relevant Laws apply to these Regulations. ",
+        "bbox": [
+            110,
+            714,
+            677,
+            730
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3 References to writing ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            743,
+            322,
+            757
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 If a provision in these Regulations refers to a communication, notice, agreement or other document “in writing” then, unless the contrary intention appears, it means in legible form and capable of being reproduced on paper, irrespective of the medium used. Expressions related to writing must be interpreted accordingly. ",
+        "bbox": [
+            107,
+            771,
+            894,
+            813
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 Regulation 1.3.1 does not affect any other legal requirements which may apply in relation to the form or manner of executing a document or agreement. ",
+        "bbox": [
+            104,
+            826,
+            892,
+            854
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            586,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Confidentia 4 ",
+        "bbox": [
+            463,
+            928,
+            537,
+            956
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. STATUS ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            74,
+            236,
+            89
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 A Venture Studio is a company incorporated or continued in the DIFC pursuant to the provisions of Article 132 of the Companies Law and these Regulations for the sole purposes of sponsoring Ventures and establishing Venture Studio Companies in the DIFC and all matters ancillary thereto. ",
+        "bbox": [
+            107,
+            103,
+            895,
+            145
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 A Venture Studio Company is a company established by a Venture Studio in the DIFC pursuant to the provisions of Article 132 of the Companies Law and these Regulations as part of its business of being a Venture Studio. ",
+        "bbox": [
+            105,
+            158,
+            894,
+            199
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": ".3 Except as otherwise provided in these Regulations, the provisions of the Relevant Laws apply to a Venture Studio and a Venture Studio Company, as if each is a Private Company, or Public Company if applicable. ",
+        "bbox": [
+            134,
+            214,
+            895,
+            242
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ESTABLISHMENT ",
+        "text_level": 1,
+        "bbox": [
+            168,
+            254,
+            315,
+            269
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 Qualifying requirements for a Venture Studio ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            282,
+            499,
+            298
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "An application to incorporate or continue a Venture Studio in the DIFC shall be made by a Qualifying Applicant to the Registrar in the prescribed form against payment of the required fees in Appendix 1. ",
+        "bbox": [
+            159,
+            311,
+            894,
+            340
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "An applicant wishing to incorporate or continue a Venture Studio in the DIFC must satisfy the Registrar that the Venture Studio will be Controlled by one (1) or more Qualifying Applicants. ",
+        "bbox": [
+            137,
+            353,
+            892,
+            381
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Venture Studio Permitted Activities ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            393,
+            428,
+            409
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 Subject to the other provisions of these Regulations, a Venture Studio may: ",
+        "bbox": [
+            102,
+            423,
+            677,
+            437
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) sponsor Ventures; and (b) incorporate Venture Studio Companies. ",
+        "bbox": [
+            166,
+            449,
+            499,
+            493
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 Unless otherwise permitted by the Registrar in writing, a Venture Studio shall not at any one time: ",
+        "bbox": [
+            99,
+            506,
+            831,
+            521
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) sponsor more than twenty (20) Ventures; and   \n(b) have responsibility for more than ten (10) Venture Studio Companies pursuant to Regulation 3.6.2(b). ",
+        "bbox": [
+            164,
+            533,
+            894,
+            589
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3 Sponsorship of a Venture ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            604,
+            352,
+            618
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 A Venture Studio that wishes to sponsor a Venture must file a Venture Sponsorship Agreement with the Registrar together with an application for such sponsorship in the prescribed form against payment of the required fees in Appendix 1. ",
+        "bbox": [
+            107,
+            631,
+            894,
+            674
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 Upon acceptance by the Registrar of a sponsorship application made under Regulation 3.3.1, the Venture Studio shall be eligible to: ",
+        "bbox": [
+            100,
+            687,
+            894,
+            715
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) apply for a Permission in respect of such Venture; and   \n(b) sponsor up to ten (10) Entrepreneurs associated with such Venture for UAE residency sponsorship purposes; ",
+        "bbox": [
+            164,
+            727,
+            894,
+            784
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.3 A Venture shall not have separate legal personality from the Venture Studio and the latter shall be deemed responsible for: ",
+        "bbox": [
+            102,
+            799,
+            894,
+            826
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) the Venture adhering to the requirements of any Applicable Laws, including (without limitation) those imposed by these Regulations or a Permission; (b) performing the terms and conditions of any Capital Raising undertaken in respect of a Venture; and (c) any other contracts or arrangements that the Venture may enter into with third parties, ",
+        "bbox": [
+            164,
+            839,
+            894,
+            925
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Confidential ",
+        "bbox": [
+            453,
+            928,
+            544,
+            942
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            586,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            494,
+            945,
+            505,
+            956
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "during the period of sponsorship by the Venture Studio. ",
+        "bbox": [
+            166,
+            74,
+            544,
+            89
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.4 Any agreement or arrangement between a Venture Studio and any third party to the effect that the Venture Studio shall not be responsible for its obligations under Regulation 3.3.3 shall be null and void and unenforceable. ",
+        "bbox": [
+            104,
+            102,
+            895,
+            145
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.5 Any Capital Raising undertaken by a Venture Studio in respect of a Venture shall only be for the purpose of capital or operational expenses of that Venture and may not in aggregate exceed ten million United States Dollars (USD 10,000,000). ",
+        "bbox": [
+            107,
+            158,
+            894,
+            199
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.6 A Venture Studio may apply to the Registrar for an exemption from the ten million United States Dollar (USD 10,000,000) limit set out at Regulation 3.3.5 above, and such exemption may be granted at the Registrar’s sole discretion. ",
+        "bbox": [
+            107,
+            214,
+            892,
+            255
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.7 Unless otherwise agreed with the individual involved, an Entrepreneur sponsored by a Venture Studio for UAE residency purposes pursuant to these Regulations will be deemed as a consultant or contractor for services and will not be considered an Employee of the Venture Studio for purposes of the Employment Law. ",
+        "bbox": [
+            107,
+            268,
+            894,
+            323
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": ".8 A Venture Studio must maintain a register of each Venture that it sponsors and each Entrepreneur that it sponsors for UAE residency purposes. ",
+        "bbox": [
+            132,
+            337,
+            894,
+            366
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4 Venture Funds",
+        "text_level": 1,
+        "bbox": [
+            110,
+            380,
+            277,
+            393
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": ".4.1 A Venture Studio must separately account for Venture Funds attributable to a particular Venture and hold such funds on trust on the Venture’s behalf pursuant to the Trust Law. ",
+        "bbox": [
+            121,
+            407,
+            892,
+            435
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4.2 A Venture Studio must not use Venture Funds for any purpose other than the business of the Venture to which such funds are attributable. A Venture Studio that fails to comply with the requirement in this Regulation 3.4.2, is liable to a fine under Article 34(1) of the Operating Law. ",
+        "bbox": [
+            107,
+            449,
+            894,
+            491
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4.3 In the event a Venture is incorporated as a Venture Studio Company, the Venture Studio must transfer the Venture Funds to the Venture Studio Company. ",
+        "bbox": [
+            110,
+            504,
+            892,
+            532
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5 Termination of a Venture sponsorship ",
+        "text_level": 1,
+        "bbox": [
+            115,
+            545,
+            445,
+            560
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Subject to Regulation 3.5.2(b), a Venture Studio may sponsor and obtain a Permission for a Venture for a period of twenty four (24) months only. ",
+        "bbox": [
+            152,
+            574,
+            894,
+            602
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5.2 Upon, or prior to, the expiry of a Permission a Venture Studio must either: ",
+        "bbox": [
+            102,
+            615,
+            670,
+            630
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) terminate the Venture Sponsorship Agreement and the sponsorship of the residency visa of each Entrepreneur identified in the relevant Venture Sponsorship Agreement, unless such individual is an Employee employed by the Venture Studio or such residency visa is transferred to a Venture Studio Company (as applicable), and either: ",
+        "bbox": [
+            166,
+            643,
+            892,
+            699
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(i) establish the Venture as a Venture Studio Company; or (ii) cease to work with and develop the Venture any further, or (b) apply to the Registrar for an extension of the Permission for a further period of twelve (12) months, specifying the reasons for the proposed extension, and such extension may be granted at the Registrar’s sole discretion provided that such extension shall only be granted once in respect of a Venture. ",
+        "bbox": [
+            221,
+            712,
+            684,
+            756
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5.3 In the event that the Registrar does not grant an extension of a Permission pursuant to Regulation 3.5.2(b), the Venture Studio must comply with Regulation 3.5.2(a). ",
+        "bbox": [
+            105,
+            837,
+            894,
+            865
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5.4 A Venture Studio shall notify the Registrar where a Venture Sponsorship Agreement expires or is terminated for any reason prior to the period for which a Permission is valid. ",
+        "bbox": [
+            109,
+            879,
+            892,
+            907
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            586,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Confidentia 6 ",
+        "bbox": [
+            463,
+            928,
+            537,
+            957
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.6 Incorporation of a Venture Studio Company ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            74,
+            489,
+            89
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": ".6.1 A Venture Studio Company may only be incorporated by a Venture Studio. A Venture Studio that wishes to establish a Venture Studio Company must file an application with the Registrar in the prescribed form against payment of the required fees in Appendix 1. ",
+        "bbox": [
+            119,
+            103,
+            899,
+            145
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.6.2 A Venture Studio wishing to incorporate a Venture Studio Company in the DIFC must satisfy or undertake to the Registrar that: ",
+        "bbox": [
+            100,
+            158,
+            890,
+            186
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) it, or an Affiliate, will hold all of the shares in the Venture Studio Company upon its incorporation;   \n(b) during the Start-up Period, the Venture Studio Company, or in the event that a Venture Studio Company incorporates a Subsidiary in the DIFC, the Subsidiary of the Venture Studio Company, shall:   \n(i) adhere to all AML Requirements, the UBO Regulations and other requirements of the Relevant Laws;   \n(ii) carry out all compliance, governance and regulatory obligations, filings or other requirements pursuant to any requirements of Applicable Law; and   \n(iii) comply with the requirements of Regulation 3.7.1, ",
+        "bbox": [
+            164,
+            199,
+            894,
+            269
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "and provide a certification of such matters to the Registrar in an agreed format, which certification shall be repeated with each Confirmation Statement filed with the Registrar in connection with such Venture Studio Company. ",
+        "bbox": [
+            228,
+            395,
+            892,
+            438
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.6.3 The Registrar in the performance of any function under the Relevant Laws may in good faith rely, without further enquiry, upon the certification of a Venture Studio given under Regulation 3.6.2(b), provided that a Venture Studio shall not be liable to the Registrar for doing so, unless it has acted in breach of its obligations to the Registrar under these Regulations, in which case (without limiting the generality of its application) Regulation 3.6.4 shall apply. ",
+        "bbox": [
+            107,
+            451,
+            892,
+            520
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.6.4 The Registrar may: ",
+        "bbox": [
+            107,
+            535,
+            299,
+            549
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) revoke a Venture Studio’s status pursuant to Regulation 4.4 of these Regulations;   \n(b) if a Venture Studio or Venture Studio Company is regulated by the DFSA, or in the process of applying for authorisation from the DFSA, inform the DFSA of any facts or circumstances that may amount to a breach of such entity’s regulatory duties under Applicable Law: or   \n(c) inform any body, authority or law enforcement agencies of any alleged or suspected criminal offences on the part of a Venture Studio or a Venture Studio Company. ",
+        "bbox": [
+            164,
+            561,
+            892,
+            674
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": ".5 The Registrar shall be permitted to communicate directly with either a Venture Studio or a Venture Studio Company with regards to those matters dealt with at Regulation 3.6.2(b). ",
+        "bbox": [
+            134,
+            687,
+            894,
+            715
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.7 Requirements applicable to a Venture Studio Company ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            728,
+            568,
+            744
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.7.1 Subject to Regulation 3.7.2, a Venture Studio Company shall: ",
+        "bbox": [
+            105,
+            756,
+            586,
+            771
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) have a term not exceeding the Start-up Period;   \n(b) have no more than ten (10) shareholders;   \n(c) have no more than twenty (20) Employees; and   \n(d) not undertake any Capital Raisings that are in aggregate in excess of twenty million United States Dollars (USD 20,000,000). ",
+        "bbox": [
+            166,
+            783,
+            894,
+            897
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            586,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Confidential 7 ",
+        "bbox": [
+            462,
+            928,
+            539,
+            956
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.7.2 A Venture Studio Company may apply to the Registrar for an exemption from one of more of the requirements set out at Regulation 3.7.1, and such exemption may be granted at the Registrar’s sole discretion. ",
+        "bbox": [
+            105,
+            74,
+            894,
+            116
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.7.3 If a Venture Studio Company no longer complies with Regulation 3.7.1 the Registrar may revoke a Venture Studio Company’s status is accordance with Regulation 4.4. ",
+        "bbox": [
+            102,
+            129,
+            892,
+            159
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.7.4 A Venture Studio Company may at any time apply: ",
+        "bbox": [
+            105,
+            172,
+            517,
+            187
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) to the Registrar to have its licence suspended and for its name to be struck-off the Public Register in accordance with Article 32(5) of the Operating Law; or   \n(b) for voluntary wind-up pursuant to the Insolvency Law. ",
+        "bbox": [
+            166,
+            199,
+            892,
+            256
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.8 Expiry of Venture Studio Company status ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            268,
+            473,
+            284
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.8.1 Upon expiry of the Start-up Period, and provided that it is not subject to an application or procedure pursuant to Regulation 3.7.4, a Venture Studio Company shall automatically convert into a Private Company in the DIFC that falls outside the scope of Article 132 of the Companies Law, at which point it shall: ",
+        "bbox": [
+            107,
+            297,
+            894,
+            340
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) cease to be a Venture Studio Company:   \n(b) no longer be entitled to the benefit of any exemption or concession (including as to fees) in these Regulations; and   \n(c) be required to adhere to all the requirements under the Relevant Laws in respect of a Registered Person in the DIFC where the provisions of Article 132 of the Companies Law do not apply. ",
+        "bbox": [
+            164,
+            351,
+            892,
+            451
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.9 Financial Services ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            463,
+            300,
+            479
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A Venture Studio and a Venture Studio Company shall not provide any Financial Services in or from the DIFC, unless it is authorised by the DFSA to do so. ",
+        "bbox": [
+            152,
+            492,
+            894,
+            520
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Name requirements ",
+        "text_level": 1,
+        "bbox": [
+            154,
+            533,
+            312,
+            548
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Subject to Regulation 3.10.2, the proposed name of a Venture Studio and a Venture Studio Company shall end with “Limited” or “Ltd.” and comply with the requirements in the Relevant Laws relating to names. ",
+        "bbox": [
+            157,
+            562,
+            894,
+            589
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.10.2 A Venture Studio shall include in its registered name or its trade name the words “Venture Studio”, “Venture Builder” or “Venture Builder Studio”. ",
+        "bbox": [
+            114,
+            602,
+            892,
+            631
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.11 Permission to incorporate ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            644,
+            356,
+            659
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.11.1 Upon deciding to grant permission to incorporate or continue a Venture Studio or a Venture Studio Company, the Registrar shall without undue delay inform the applicant in writing of: ",
+        "bbox": [
+            100,
+            673,
+            895,
+            701
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) such decision;   \n(b) the date on which the Licence applicable to the Venture Studio or a Venture Studio Company shall be deemed to take effect; and   \n(c) any conditions and restrictions applicable to the Licence. ",
+        "bbox": [
+            164,
+            714,
+            894,
+            799
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.11.2 The Licence of a Venture Studio or a Venture Studio Company (as applicable) may include any activities permitted by the Registrar in accordance with the categories of Licences available in the DIFC. ",
+        "bbox": [
+            100,
+            812,
+            892,
+            840
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.11.3 Upon deciding to refuse to grant permission to incorporate or continue a Venture Studio or a Venture Studio Company, the Registrar shall without undue delay inform the applicant in writing of such refusal. ",
+        "bbox": [
+            102,
+            853,
+            892,
+            882
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            586,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Confidentia 8 ",
+        "bbox": [
+            467,
+            928,
+            534,
+            957
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4. CONDUCT OF BUSINESS ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            74,
+            368,
+            89
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1 Registered Office ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            102,
+            295,
+            117
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 A Venture Studio must have a registered office in the DIFC for the purpose of complying with Article 13 of the Operating Law. ",
+        "bbox": [
+            107,
+            130,
+            894,
+            159
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 During the Start-up Period, and provided that it has not had its Venture Studio Company status changed pursuant to Regulation 4.4.3 or revoked pursuant to Regulation 4.4.4, a Venture Studio Company’s registered office for the purpose of Article 13 of the Operating Law, may be the registered office in the DIFC of the Venture Studio that established the Venture Studio Company. ",
+        "bbox": [
+            105,
+            172,
+            894,
+            228
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1.3 Where the registered office of a Venture Studio Company is, pursuant to the provision of Regulation 4.1.2, the same as that of a Venture Studio: ",
+        "bbox": [
+            100,
+            241,
+            889,
+            269
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) it, or the Venture Studio applying for its incorporation, shall be required to submit proof to the Registrar that consent to share the premises has been obtained from the Venture Studio; and   \n(b) when requested by the Registrar, the Venture Studio shall provide a list of all Venture Studio Companies using the Venture Studio’s registered office pursuant to the provisions of Regulation 4.1.2. ",
+        "bbox": [
+            166,
+            282,
+            892,
+            366
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2 Accounting Records ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            380,
+            314,
+            394
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A Venture Studio shall maintain and prepare Accounting Records as required under the Companies Law. ",
+        "bbox": [
+            137,
+            407,
+            875,
+            423
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A Venture Studio Company shall maintain Accounting Records as required under the Companies Law but shall be exempt from any requirement to file its accounts with the Registrar or have them audited. ",
+        "bbox": [
+            159,
+            436,
+            894,
+            464
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3 Reporting and disclosure ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            478,
+            351,
+            492
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3.1 A Confirmation Statement filed by a Venture Studio, on behalf of itself or a Venture Studio Company, shall: ",
+        "bbox": [
+            107,
+            505,
+            892,
+            520
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) comply with the requirements of the Relevant Laws as they apply to a Company; and (b) in the case of a Venture Studio, confirm: ",
+        "bbox": [
+            159,
+            532,
+            808,
+            549
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(i) it continues to be Controlled by one (1) or more Qualifying Applicants; (ii) details of each Venture during the relevant reporting period: ",
+        "bbox": [
+            225,
+            588,
+            769,
+            632
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(A) sponsored by the Venture Studio and each Entrepreneur sponsored for UAE residence purposes;   \n(B) that has been converted into a Venture Studio Company; and   \n(C) that has failed to be converted into a Venture Studio Company,   \nand, ",
+        "bbox": [
+            284,
+            644,
+            892,
+            759
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(iii) details of each Venture Studio Company for which it has responsibility pursuant to Regulation 3.6.2(b) and confirmation of its compliance with Regulation 3.6.2(b). ",
+        "bbox": [
+            211,
+            771,
+            894,
+            800
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.4 Revocation or change of status ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            813,
+            388,
+            827
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.4.1 If: ",
+        "bbox": [
+            105,
+            841,
+            186,
+            856
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) there is a change of Control of a Venture Studio resulting in it no longer being Controlled by one (1) or more Qualifying Applicants; or   \n(b) a Venture Studio is in material or continuous breach of its responsibilities under these Regulations, Confidential 9 ",
+        "bbox": [
+            156,
+            869,
+            894,
+            956
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            586,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "the Registrar may, after following the Decision Making Procedures, revoke its status as a Venture Studio. ",
+        "bbox": [
+            166,
+            74,
+            878,
+            89
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.4.2 If a Venture Studio’s status is revoked under Regulation 4.4.1, it shall: ",
+        "bbox": [
+            105,
+            102,
+            645,
+            117
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) cease to be a Venture Studio;   \n(b) no longer be entitled to sponsor Ventures or establish Venture Studio Companies;   \n(c) be required to terminate, as soon as is reasonably practicable, all sponsorships of Ventures and their associated Venture Sponsorship Agreements; and   \n(d) be required to terminate, as soon as is reasonably practicable, all residency visa sponsorships of Entrepreneurs;   \n(e) apply: (i) to the Registrar for the change of status of all Venture Studio Companies established by it pursuant to Regulation 4.4.2; or (ii) initiate a voluntary liquidation or strike-off of the Venture Studio Companies not involved in the process under Regulation 4.4.3(e)(ii); ",
+        "bbox": [
+            166,
+            129,
+            894,
+            369
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(f) adhere to all the requirements under the Relevant Laws in respect of a Registered Person in the DIFC where the provisions of Article 132 of the Companies Law do not apply. ",
+        "bbox": [
+            174,
+            381,
+            892,
+            410
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.4.3 If in respect of a Venture Studio Company: ",
+        "bbox": [
+            107,
+            423,
+            462,
+            437
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) the Venture Studio that is responsible for a Venture Studio Company pursuant to 3.6.2(b) has its status revoked under Regulation 4.4.1;   \n(b) it fails to comply with Regulations 3.7.1(b), 3.7.1(c) or 3.7.1(d) without obtaining an applicable exemption pursuant to Regulation 3.7.2; or   \n(c) it otherwise fails to comply with these Regulations, ",
+        "bbox": [
+            166,
+            450,
+            894,
+            550
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "the Venture Studio Company, or the Venture Studio involved, may apply to the Registrar in the prescribed form against payment of the required fees under the Relevant Laws for a change of the Venture Studio Company’s status to that of a Private Company in the DIFC that falls outside the scope of Article 132 of the Companies Law. ",
+        "bbox": [
+            168,
+            562,
+            894,
+            619
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.4.4 If any of the circumstances in Regulation 4.4.3 (a) to (c) are applicable and the Venture Studio Company, or the Venture Studio involved, has failed to apply for a change of its status pursuant to Regulation 4.4.3 the Registrar may, after following the Decision Making Procedures and, in the case of a Venture Studio Company authorised by the DFSA to provide Financial Services, notifying the DFSA, revoke its status as a Venture Studio Company. ",
+        "bbox": [
+            105,
+            633,
+            894,
+            702
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.4.5 If a Venture Studio Company’s status is revoked under Regulation 4.4.4, it shall: ",
+        "bbox": [
+            105,
+            715,
+            714,
+            731
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) cease to be a Venture Studio Company;   \n(b) no longer be entitled to the benefit of any exemption or concession (including as to fees) in these Regulations; and   \n(c) be required to adhere to all the requirements under the Relevant Laws in respect of a Registered Person in the DIFC where the provisions of Article 132 of the Companies Law do not apply. ",
+        "bbox": [
+            164,
+            743,
+            892,
+            843
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5. FEES ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            854,
+            213,
+            869
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.1.1 For the purposes of Article 151(2)(h) of the Companies Law, Regulation 9.1 of the Companies Regulations and Regulation 2.3.2 of the Operating Regulations, the fees in respect of matters set out in Appendix 1 of these Regulations shall be paid to the Registrar instead of the fees specified in the Relevant Laws. ",
+        "bbox": [
+            105,
+            883,
+            894,
+            925
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            586,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Confidential 10 ",
+        "bbox": [
+            458,
+            928,
+            541,
+            957
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 1 - FEES ",
+        "text_level": 1,
+        "bbox": [
+            420,
+            76,
+            579,
+            90
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Table of fees ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            104,
+            201,
+            117
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/53f82fb6d4fb197abfed99c54c59749bc69673bc172bddc04d3628006c69fad3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Upon receipt by the Registrar:</td><td rowspan=1 colspan=1>Fee (USD)</td></tr><tr><td rowspan=1 colspan=1>Application for incorporation of a Venture Studio</td><td rowspan=1 colspan=1>100</td></tr><tr><td rowspan=1 colspan=1>Application for grant or renewal of a Licence for a Venture Studio</td><td rowspan=1 colspan=1>12,000</td></tr><tr><td rowspan=1 colspan=1>Registration of Venture Sponsorship Agreement</td><td rowspan=1 colspan=1>Nil</td></tr><tr><td rowspan=1 colspan=1>Application for incorporation of a Venture Studio Company</td><td rowspan=1 colspan=1>100</td></tr><tr><td rowspan=1 colspan=1>Application for grant or renewal of a Licence for a Venture Studio Company</td><td rowspan=1 colspan=1>1300</td></tr><tr><td rowspan=1 colspan=1>Lodgement of a Confirmation Statement</td><td rowspan=1 colspan=1>300</td></tr></table>",
+        "bbox": [
+            129,
+            117,
+            892,
+            323
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Confidential 11 ",
+        "bbox": [
+            458,
+            928,
+            541,
+            957
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            586,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 12
+    }
+]

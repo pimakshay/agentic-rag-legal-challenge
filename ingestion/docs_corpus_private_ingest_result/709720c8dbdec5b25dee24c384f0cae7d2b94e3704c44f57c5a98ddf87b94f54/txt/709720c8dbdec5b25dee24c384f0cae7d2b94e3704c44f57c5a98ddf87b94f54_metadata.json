@@ -1,0 +1,2425 @@
+{
+    "doc_type": "law",
+    "official_title": "Limited Partnership Law",
+    "official_title_normalized": "limited partnership law",
+    "short_title": "Limited Partnership Law 2006",
+    "short_title_normalized": "limited partnership law 2006",
+    "law_number": "4",
+    "law_year": "2006",
+    "official_citation": "DIFC Law No. 4 of 2006",
+    "official_citation_normalized": "difc law no 4 of 2006",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "March 2022",
+    "amending_laws": [
+        "DIFC Law Amendment Law DIFC Law No. 2 of 2022",
+        "DIFC Law Amendment Law DIFC Law No. 8 of 2018"
+    ],
+    "administering_authority": "Registrar",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 27,
+    "page_count": 27,
+    "alias_keys": [
+        "DIFC Law No. 4 of 2006",
+        "Limited Partnership Law",
+        "Limited Partnership Law 2006"
+    ],
+    "article_index": {
+        "Article 1": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 319,
+            "block_end": 337
+        },
+        "Article 9": {
+            "heading": "Definition and constitution of a Limited Partnership",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 60,
+            "block_end": 63
+        },
+        "Article 13": {
+            "heading": "Licence",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 75,
+            "block_end": 76
+        },
+        "Article 14": {
+            "heading": "Conduct of business in the DIFC",
+            "article_number": "14",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 77,
+            "block_end": 78
+        },
+        "Article 19": {
+            "heading": "Legal person",
+            "article_number": "19",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 111,
+            "block_end": 112
+        },
+        "Article 27": {
+            "heading": "Rights and liabilities of a General Partner",
+            "article_number": "27",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 136,
+            "block_end": 144
+        },
+        "Article 35": {
+            "heading": "Statement of dissolution",
+            "article_number": "35",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 186,
+            "block_end": 187
+        },
+        "Article 40": {
+            "heading": "Legal proceedings and service of Documents",
+            "article_number": "40",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 210,
+            "block_end": 215
+        },
+        "Article 43": {
+            "heading": "Foreign Limited Partnerships",
+            "article_number": "43",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 225,
+            "block_end": 226
+        },
+        "Article 47": {
+            "heading": "General Contravention Provision",
+            "article_number": "47",
+            "page_start": 18,
+            "page_end": 19,
+            "block_start": 245,
+            "block_end": 252
+        },
+        "Article 48": {
+            "heading": "Application of Operating Law",
+            "article_number": "48",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 253,
+            "block_end": 254
+        },
+        "Article 50": {
+            "heading": "Transfer of Foreign Limited Partnership to DIFC",
+            "article_number": "50",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 259,
+            "block_end": 263
+        },
+        "Article 57": {
+            "heading": "Power to make Regulations",
+            "article_number": "57",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 290,
+            "block_end": 297
+        },
+        "Article 58": {
+            "heading": "Waivers and Modification of the Regulations",
+            "article_number": "58",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 298,
+            "block_end": 299
+        },
+        "Article 6": {
+            "heading": "Schedules",
+            "article_number": "6",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 49,
+            "block_end": 52
+        },
+        "Article 6(1)(a)": {
+            "heading": "Schedules",
+            "article_number": "6",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 51,
+            "block_end": 51
+        },
+        "Article 6(1)": {
+            "heading": "Schedules",
+            "article_number": "6",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 50,
+            "block_end": 51
+        },
+        "Article 6(2)": {
+            "heading": "Schedules",
+            "article_number": "6",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 52,
+            "block_end": 52
+        },
+        "Article 7": {
+            "heading": "Administration of the Law",
+            "article_number": "7",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 53,
+            "block_end": 54
+        },
+        "Article 8": {
+            "heading": "Application of the Collective Investments Law 2010",
+            "article_number": "8",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 55,
+            "block_end": 59
+        },
+        "Article 9(1)": {
+            "heading": "Definition and constitution of a Limited Partnership",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 61,
+            "block_end": 61
+        },
+        "Article 9(2)(a)": {
+            "heading": "Definition and constitution of a Limited Partnership",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 63,
+            "block_end": 63
+        },
+        "Article 9(2)": {
+            "heading": "Definition and constitution of a Limited Partnership",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 62,
+            "block_end": 63
+        },
+        "Article 10": {
+            "heading": "Partnership Agreement",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 64,
+            "block_end": 65
+        },
+        "Article 10(1)": {
+            "heading": "Partnership Agreement",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 65,
+            "block_end": 65
+        },
+        "Article 11": {
+            "heading": "General Partners and Limited Partners",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 66,
+            "block_end": 67
+        },
+        "Article 11(1)": {
+            "heading": "General Partners and Limited Partners",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 67,
+            "block_end": 67
+        },
+        "Article 12": {
+            "heading": "Registration",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 68,
+            "block_end": 74
+        },
+        "Article 12(1)": {
+            "heading": "Registration",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 69,
+            "block_end": 69
+        },
+        "Article 12(3)(a)": {
+            "heading": "Registration",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 71,
+            "block_end": 74
+        },
+        "Article 12(3)": {
+            "heading": "Registration",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 70,
+            "block_end": 74
+        },
+        "Article 15": {
+            "heading": "Records and Registers",
+            "article_number": "15",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 79,
+            "block_end": 91
+        },
+        "Article 15(1)(a)": {
+            "heading": "Records and Registers",
+            "article_number": "15",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 89,
+            "block_end": 89
+        },
+        "Article 15(1)(i)": {
+            "heading": "Records and Registers",
+            "article_number": "15",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 82,
+            "block_end": 82
+        },
+        "Article 15(1)(b)": {
+            "heading": "Records and Registers",
+            "article_number": "15",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 83,
+            "block_end": 83
+        },
+        "Article 15(1)(c)": {
+            "heading": "Records and Registers",
+            "article_number": "15",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 84,
+            "block_end": 84
+        },
+        "Article 15(1)(d)": {
+            "heading": "Records and Registers",
+            "article_number": "15",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 85,
+            "block_end": 85
+        },
+        "Article 15(1)(e)": {
+            "heading": "Records and Registers",
+            "article_number": "15",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 86,
+            "block_end": 86
+        },
+        "Article 15(1)(f)": {
+            "heading": "Records and Registers",
+            "article_number": "15",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 87,
+            "block_end": 88
+        },
+        "Article 15(1)": {
+            "heading": "Records and Registers",
+            "article_number": "15",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 80,
+            "block_end": 89
+        },
+        "Article 15(3)": {
+            "heading": "Records and Registers",
+            "article_number": "15",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 90,
+            "block_end": 90
+        },
+        "Article 15(4)": {
+            "heading": "Records and Registers",
+            "article_number": "15",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 91,
+            "block_end": 91
+        },
+        "Article 16": {
+            "heading": "Management of the Limited Partnership",
+            "article_number": "16",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 92,
+            "block_end": 98
+        },
+        "Article 16(1)": {
+            "heading": "Management of the Limited Partnership",
+            "article_number": "16",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 93,
+            "block_end": 93
+        },
+        "Article 16(2)(a)": {
+            "heading": "Management of the Limited Partnership",
+            "article_number": "16",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 95,
+            "block_end": 97
+        },
+        "Article 16(2)(b)": {
+            "heading": "Management of the Limited Partnership",
+            "article_number": "16",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 98,
+            "block_end": 98
+        },
+        "Article 16(2)": {
+            "heading": "Management of the Limited Partnership",
+            "article_number": "16",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 94,
+            "block_end": 98
+        },
+        "Article 17": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "17",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 99,
+            "block_end": 103
+        },
+        "Article 17(1)(a)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "17",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 101,
+            "block_end": 101
+        },
+        "Article 17(1)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "17",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 100,
+            "block_end": 101
+        },
+        "Article 17(2)(a)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "17",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 103,
+            "block_end": 103
+        },
+        "Article 17(2)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "17",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 102,
+            "block_end": 103
+        },
+        "Article 18": {
+            "heading": "Accounts",
+            "article_number": "18",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 104,
+            "block_end": 110
+        },
+        "Article 18(1)": {
+            "heading": "Accounts",
+            "article_number": "18",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 105,
+            "block_end": 105
+        },
+        "Article 18(2)(a)": {
+            "heading": "Accounts",
+            "article_number": "18",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 107,
+            "block_end": 110
+        },
+        "Article 18(2)": {
+            "heading": "Accounts",
+            "article_number": "18",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 106,
+            "block_end": 110
+        },
+        "Article 20": {
+            "heading": "Limited Partnership property",
+            "article_number": "20",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 113,
+            "block_end": 114
+        },
+        "Article 21": {
+            "heading": "Power of General Partner to bind the Limited Partnership",
+            "article_number": "21",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 115,
+            "block_end": 116
+        },
+        "Article 21(1)": {
+            "heading": "Power of General Partner to bind the Limited Partnership",
+            "article_number": "21",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 116,
+            "block_end": 116
+        },
+        "Article 22": {
+            "heading": "Partners bound by acts on behalf of Limited Partnership",
+            "article_number": "22",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 117,
+            "block_end": 118
+        },
+        "Article 23": {
+            "heading": "Authority to sign",
+            "article_number": "23",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 119,
+            "block_end": 123
+        },
+        "Article 23(1)(a)": {
+            "heading": "Authority to sign",
+            "article_number": "23",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 121,
+            "block_end": 121
+        },
+        "Article 23(1)": {
+            "heading": "Authority to sign",
+            "article_number": "23",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 120,
+            "block_end": 121
+        },
+        "Article 23(2)(a)": {
+            "heading": "Authority to sign",
+            "article_number": "23",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 123,
+            "block_end": 123
+        },
+        "Article 23(2)": {
+            "heading": "Authority to sign",
+            "article_number": "23",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 122,
+            "block_end": 123
+        },
+        "Article 24": {
+            "heading": "Indemnification",
+            "article_number": "24",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 124,
+            "block_end": 125
+        },
+        "Article 25": {
+            "heading": "Admission of additional Limited Partners",
+            "article_number": "25",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 126,
+            "block_end": 127
+        },
+        "Article 26": {
+            "heading": "Assignment of interest by a Limited Partner",
+            "article_number": "26",
+            "page_start": 8,
+            "page_end": 10,
+            "block_start": 128,
+            "block_end": 135
+        },
+        "Article 26(1)": {
+            "heading": "Assignment of interest by a Limited Partner",
+            "article_number": "26",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 129,
+            "block_end": 131
+        },
+        "Article 26(2)": {
+            "heading": "Assignment of interest by a Limited Partner",
+            "article_number": "26",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 132,
+            "block_end": 135
+        },
+        "Article 27(1)": {
+            "heading": "Rights and liabilities of a General Partner",
+            "article_number": "27",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 137,
+            "block_end": 137
+        },
+        "Article 27(2)": {
+            "heading": "Rights and liabilities of a General Partner",
+            "article_number": "27",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 138,
+            "block_end": 138
+        },
+        "Article 27(3)(a)": {
+            "heading": "Rights and liabilities of a General Partner",
+            "article_number": "27",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 140,
+            "block_end": 140
+        },
+        "Article 27(3)(b)": {
+            "heading": "Rights and liabilities of a General Partner",
+            "article_number": "27",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 141,
+            "block_end": 141
+        },
+        "Article 27(3)": {
+            "heading": "Rights and liabilities of a General Partner",
+            "article_number": "27",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 139,
+            "block_end": 141
+        },
+        "Article 27(4)": {
+            "heading": "Rights and liabilities of a General Partner",
+            "article_number": "27",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 142,
+            "block_end": 142
+        },
+        "Article 27(5)": {
+            "heading": "Rights and liabilities of a General Partner",
+            "article_number": "27",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 143,
+            "block_end": 144
+        },
+        "Article 28": {
+            "heading": "Rights and liabilities of a Limited Partner",
+            "article_number": "28",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 145,
+            "block_end": 149
+        },
+        "Article 28(1)(a)": {
+            "heading": "Rights and liabilities of a Limited Partner",
+            "article_number": "28",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 147,
+            "block_end": 147
+        },
+        "Article 28(1)": {
+            "heading": "Rights and liabilities of a Limited Partner",
+            "article_number": "28",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 146,
+            "block_end": 147
+        },
+        "Article 28(2)": {
+            "heading": "Rights and liabilities of a Limited Partner",
+            "article_number": "28",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 148,
+            "block_end": 148
+        },
+        "Article 28(3)": {
+            "heading": "Rights and liabilities of a Limited Partner",
+            "article_number": "28",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 149,
+            "block_end": 149
+        },
+        "Article 29": {
+            "heading": "Share of profits of a Limited Partner",
+            "article_number": "29",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 150,
+            "block_end": 155
+        },
+        "Article 29(1)": {
+            "heading": "Share of profits of a Limited Partner",
+            "article_number": "29",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 151,
+            "block_end": 154
+        },
+        "Article 29(3)": {
+            "heading": "Share of profits of a Limited Partner",
+            "article_number": "29",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 155,
+            "block_end": 155
+        },
+        "Article 30": {
+            "heading": "Dealings by a Limited Partner with a Limited Partnership",
+            "article_number": "30",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 156,
+            "block_end": 157
+        },
+        "Article 30(1)": {
+            "heading": "Dealings by a Limited Partner with a Limited Partnership",
+            "article_number": "30",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 157,
+            "block_end": 157
+        },
+        "Article 31": {
+            "heading": "Limited Partners’ rights among themselves",
+            "article_number": "31",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 158,
+            "block_end": 160
+        },
+        "Article 32": {
+            "heading": "Return of Limited Partner’s contribution",
+            "article_number": "32",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 161,
+            "block_end": 165
+        },
+        "Article 32(1)(a)": {
+            "heading": "Return of Limited Partner’s contribution",
+            "article_number": "32",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 163,
+            "block_end": 163
+        },
+        "Article 32(1)": {
+            "heading": "Return of Limited Partner’s contribution",
+            "article_number": "32",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 162,
+            "block_end": 163
+        },
+        "Article 32(2)": {
+            "heading": "Return of Limited Partner’s contribution",
+            "article_number": "32",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 164,
+            "block_end": 164
+        },
+        "Article 32(3)": {
+            "heading": "Return of Limited Partner’s contribution",
+            "article_number": "32",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 165,
+            "block_end": 165
+        },
+        "Article 33": {
+            "heading": "Limited Partner’s liability to creditors",
+            "article_number": "33",
+            "page_start": 11,
+            "page_end": 12,
+            "block_start": 166,
+            "block_end": 180
+        },
+        "Article 33(1)": {
+            "heading": "Limited Partner’s liability to creditors",
+            "article_number": "33",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 167,
+            "block_end": 167
+        },
+        "Article 33(2)": {
+            "heading": "Limited Partner’s liability to creditors",
+            "article_number": "33",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 168,
+            "block_end": 168
+        },
+        "Article 33(3)": {
+            "heading": "Limited Partner’s liability to creditors",
+            "article_number": "33",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 169,
+            "block_end": 169
+        },
+        "Article 33(4)(a)": {
+            "heading": "Limited Partner’s liability to creditors",
+            "article_number": "33",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 173,
+            "block_end": 173
+        },
+        "Article 33(4)(b)": {
+            "heading": "Limited Partner’s liability to creditors",
+            "article_number": "33",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 174,
+            "block_end": 174
+        },
+        "Article 33(4)(c)": {
+            "heading": "Limited Partner’s liability to creditors",
+            "article_number": "33",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 175,
+            "block_end": 175
+        },
+        "Article 33(4)(d)": {
+            "heading": "Limited Partner’s liability to creditors",
+            "article_number": "33",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 176,
+            "block_end": 176
+        },
+        "Article 33(4)(e)": {
+            "heading": "Limited Partner’s liability to creditors",
+            "article_number": "33",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 177,
+            "block_end": 177
+        },
+        "Article 33(4)(i)": {
+            "heading": "Limited Partner’s liability to creditors",
+            "article_number": "33",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 178,
+            "block_end": 178
+        },
+        "Article 33(4)(g)": {
+            "heading": "Limited Partner’s liability to creditors",
+            "article_number": "33",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 179,
+            "block_end": 179
+        },
+        "Article 33(4)": {
+            "heading": "Limited Partner’s liability to creditors",
+            "article_number": "33",
+            "page_start": 11,
+            "page_end": 12,
+            "block_start": 170,
+            "block_end": 179
+        },
+        "Article 33(5)": {
+            "heading": "Limited Partner’s liability to creditors",
+            "article_number": "33",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 180,
+            "block_end": 180
+        },
+        "Article 34": {
+            "heading": "Liabilities of incoming and outgoing partners",
+            "article_number": "34",
+            "page_start": 12,
+            "page_end": 13,
+            "block_start": 181,
+            "block_end": 185
+        },
+        "Article 34(1)": {
+            "heading": "Liabilities of incoming and outgoing partners",
+            "article_number": "34",
+            "page_start": 12,
+            "page_end": 13,
+            "block_start": 182,
+            "block_end": 185
+        },
+        "Article 35(1)": {
+            "heading": "Statement of dissolution",
+            "article_number": "35",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 187,
+            "block_end": 187
+        },
+        "Article 36": {
+            "heading": "Winding up of a Limited Partnership",
+            "article_number": "36",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 188,
+            "block_end": 190
+        },
+        "Article 36(1)": {
+            "heading": "Winding up of a Limited Partnership",
+            "article_number": "36",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 189,
+            "block_end": 189
+        },
+        "Article 36(2)": {
+            "heading": "Winding up of a Limited Partnership",
+            "article_number": "36",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 190,
+            "block_end": 190
+        },
+        "Article 37": {
+            "heading": "Dissolution of Limited Partnership",
+            "article_number": "37",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 191,
+            "block_end": 196
+        },
+        "Article 37(1)(a)": {
+            "heading": "Dissolution of Limited Partnership",
+            "article_number": "37",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 193,
+            "block_end": 194
+        },
+        "Article 37(1)": {
+            "heading": "Dissolution of Limited Partnership",
+            "article_number": "37",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 192,
+            "block_end": 194
+        },
+        "Article 37(2)": {
+            "heading": "Dissolution of Limited Partnership",
+            "article_number": "37",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 195,
+            "block_end": 195
+        },
+        "Article 37(3)": {
+            "heading": "Dissolution of Limited Partnership",
+            "article_number": "37",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 196,
+            "block_end": 196
+        },
+        "Article 38": {
+            "heading": "Power of Court to order dissolution",
+            "article_number": "38",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 197,
+            "block_end": 204
+        },
+        "Article 38(1)(a)": {
+            "heading": "Power of Court to order dissolution",
+            "article_number": "38",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 199,
+            "block_end": 201
+        },
+        "Article 38(1)(c)": {
+            "heading": "Power of Court to order dissolution",
+            "article_number": "38",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 202,
+            "block_end": 202
+        },
+        "Article 38(1)": {
+            "heading": "Power of Court to order dissolution",
+            "article_number": "38",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 198,
+            "block_end": 202
+        },
+        "Article 38(2)": {
+            "heading": "Power of Court to order dissolution",
+            "article_number": "38",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 203,
+            "block_end": 203
+        },
+        "Article 38(3)": {
+            "heading": "Power of Court to order dissolution",
+            "article_number": "38",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 204,
+            "block_end": 204
+        },
+        "Article 39": {
+            "heading": "Settling accounts on dissolution",
+            "article_number": "39",
+            "page_start": 14,
+            "page_end": 15,
+            "block_start": 205,
+            "block_end": 209
+        },
+        "Article 40(1)": {
+            "heading": "Legal proceedings and service of Documents",
+            "article_number": "40",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 211,
+            "block_end": 211
+        },
+        "Article 40(2)": {
+            "heading": "Legal proceedings and service of Documents",
+            "article_number": "40",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 212,
+            "block_end": 212
+        },
+        "Article 40(3)": {
+            "heading": "Legal proceedings and service of Documents",
+            "article_number": "40",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 213,
+            "block_end": 213
+        },
+        "Article 40(4)(a)": {
+            "heading": "Legal proceedings and service of Documents",
+            "article_number": "40",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 215,
+            "block_end": 215
+        },
+        "Article 40(4)": {
+            "heading": "Legal proceedings and service of Documents",
+            "article_number": "40",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 214,
+            "block_end": 215
+        },
+        "Article 41": {
+            "heading": "Enforcement of judgments against property of a Limited Partnership",
+            "article_number": "41",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 216,
+            "block_end": 219
+        },
+        "Article 41(1)": {
+            "heading": "Enforcement of judgments against property of a Limited Partnership",
+            "article_number": "41",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 217,
+            "block_end": 217
+        },
+        "Article 41(2)": {
+            "heading": "Enforcement of judgments against property of a Limited Partnership",
+            "article_number": "41",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 218,
+            "block_end": 218
+        },
+        "Article 41(3)": {
+            "heading": "Enforcement of judgments against property of a Limited Partnership",
+            "article_number": "41",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 219,
+            "block_end": 219
+        },
+        "Article 42": {
+            "heading": "Order for compliance",
+            "article_number": "42",
+            "page_start": 15,
+            "page_end": 16,
+            "block_start": 220,
+            "block_end": 224
+        },
+        "Article 43(1)": {
+            "heading": "Foreign Limited Partnerships",
+            "article_number": "43",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 226,
+            "block_end": 226
+        },
+        "Article 44": {
+            "heading": "Requirements of a Recognised Limited Partnership",
+            "article_number": "44",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 227,
+            "block_end": 234
+        },
+        "Article 44(1)(a)": {
+            "heading": "Requirements of a Recognised Limited Partnership",
+            "article_number": "44",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 229,
+            "block_end": 229
+        },
+        "Article 44(1)(d)": {
+            "heading": "Requirements of a Recognised Limited Partnership",
+            "article_number": "44",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 230,
+            "block_end": 230
+        },
+        "Article 44(1)(i)": {
+            "heading": "Requirements of a Recognised Limited Partnership",
+            "article_number": "44",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 231,
+            "block_end": 232
+        },
+        "Article 44(1)": {
+            "heading": "Requirements of a Recognised Limited Partnership",
+            "article_number": "44",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 228,
+            "block_end": 232
+        },
+        "Article 44(2)(a)": {
+            "heading": "Requirements of a Recognised Limited Partnership",
+            "article_number": "44",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 234,
+            "block_end": 234
+        },
+        "Article 44(2)": {
+            "heading": "Requirements of a Recognised Limited Partnership",
+            "article_number": "44",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 233,
+            "block_end": 234
+        },
+        "Article 45": {
+            "heading": "Conduct of business in the DIFC",
+            "article_number": "45",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 235,
+            "block_end": 236
+        },
+        "Article 46": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "46",
+            "page_start": 16,
+            "page_end": 18,
+            "block_start": 237,
+            "block_end": 244
+        },
+        "Article 46(1)(a)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "46",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 239,
+            "block_end": 239
+        },
+        "Article 46(1)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "46",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 238,
+            "block_end": 239
+        },
+        "Article 46(2)(a)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "46",
+            "page_start": 17,
+            "page_end": 18,
+            "block_start": 242,
+            "block_end": 244
+        },
+        "Article 46(2)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "46",
+            "page_start": 16,
+            "page_end": 18,
+            "block_start": 240,
+            "block_end": 244
+        },
+        "Article 47(1)(a)": {
+            "heading": "General Contravention Provision",
+            "article_number": "47",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 247,
+            "block_end": 248
+        },
+        "Article 47(1)": {
+            "heading": "General Contravention Provision",
+            "article_number": "47",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 246,
+            "block_end": 248
+        },
+        "Article 47(2)": {
+            "heading": "General Contravention Provision",
+            "article_number": "47",
+            "page_start": 18,
+            "page_end": 19,
+            "block_start": 249,
+            "block_end": 252
+        },
+        "Article 49": {
+            "heading": "Strike off and Restoration",
+            "article_number": "49",
+            "page_start": 19,
+            "page_end": 20,
+            "block_start": 255,
+            "block_end": 258
+        },
+        "Article 50(1)": {
+            "heading": "Transfer of Foreign Limited Partnership to DIFC",
+            "article_number": "50",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 260,
+            "block_end": 260
+        },
+        "Article 50(2)(a)": {
+            "heading": "Transfer of Foreign Limited Partnership to DIFC",
+            "article_number": "50",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 262,
+            "block_end": 263
+        },
+        "Article 50(2)": {
+            "heading": "Transfer of Foreign Limited Partnership to DIFC",
+            "article_number": "50",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 261,
+            "block_end": 263
+        },
+        "Article 51": {
+            "heading": "Certificate of continuation",
+            "article_number": "51",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 264,
+            "block_end": 268
+        },
+        "Article 51(1)(a)": {
+            "heading": "Certificate of continuation",
+            "article_number": "51",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 266,
+            "block_end": 266
+        },
+        "Article 51(1)": {
+            "heading": "Certificate of continuation",
+            "article_number": "51",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 265,
+            "block_end": 266
+        },
+        "Article 51(2)": {
+            "heading": "Certificate of continuation",
+            "article_number": "51",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 267,
+            "block_end": 268
+        },
+        "Article 52": {
+            "heading": "Effect of certificate",
+            "article_number": "52",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 269,
+            "block_end": 271
+        },
+        "Article 53": {
+            "heading": "Copy of certificate of continuation",
+            "article_number": "53",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 272,
+            "block_end": 273
+        },
+        "Article 54": {
+            "heading": "Rights and liabilities",
+            "article_number": "54",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 274,
+            "block_end": 278
+        },
+        "Article 55": {
+            "heading": "Transfer of Limited Partnership from DIFC to another jurisdiction",
+            "article_number": "55",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 279,
+            "block_end": 284
+        },
+        "Article 55(1)(a)": {
+            "heading": "Transfer of Limited Partnership from DIFC to another jurisdiction",
+            "article_number": "55",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 281,
+            "block_end": 282
+        },
+        "Article 55(1)": {
+            "heading": "Transfer of Limited Partnership from DIFC to another jurisdiction",
+            "article_number": "55",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 280,
+            "block_end": 282
+        },
+        "Article 55(2)": {
+            "heading": "Transfer of Limited Partnership from DIFC to another jurisdiction",
+            "article_number": "55",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 283,
+            "block_end": 283
+        },
+        "Article 55(3)": {
+            "heading": "Transfer of Limited Partnership from DIFC to another jurisdiction",
+            "article_number": "55",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 284,
+            "block_end": 284
+        },
+        "Article 56": {
+            "heading": "Refusal to grant authorisation to transfer a Limited Partnership",
+            "article_number": "56",
+            "page_start": 21,
+            "page_end": 22,
+            "block_start": 285,
+            "block_end": 289
+        },
+        "Article 56(1)": {
+            "heading": "Refusal to grant authorisation to transfer a Limited Partnership",
+            "article_number": "56",
+            "page_start": 21,
+            "page_end": 22,
+            "block_start": 286,
+            "block_end": 289
+        },
+        "Article 57(1)": {
+            "heading": "Power to make Regulations",
+            "article_number": "57",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 291,
+            "block_end": 291
+        },
+        "Article 57(2)(a)": {
+            "heading": "Power to make Regulations",
+            "article_number": "57",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 293,
+            "block_end": 293
+        },
+        "Article 57(2)": {
+            "heading": "Power to make Regulations",
+            "article_number": "57",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 292,
+            "block_end": 293
+        },
+        "Article 57(3)": {
+            "heading": "Power to make Regulations",
+            "article_number": "57",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 294,
+            "block_end": 294
+        },
+        "Article 57(4)": {
+            "heading": "Power to make Regulations",
+            "article_number": "57",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 295,
+            "block_end": 295
+        },
+        "Article 57(5)(a)": {
+            "heading": "Power to make Regulations",
+            "article_number": "57",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 297,
+            "block_end": 297
+        },
+        "Article 57(5)": {
+            "heading": "Power to make Regulations",
+            "article_number": "57",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 296,
+            "block_end": 297
+        },
+        "Article 59": {
+            "heading": "Public Register",
+            "article_number": "59",
+            "page_start": 22,
+            "page_end": 23,
+            "block_start": 300,
+            "block_end": 304
+        },
+        "Article 59(1)": {
+            "heading": "Public Register",
+            "article_number": "59",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 301,
+            "block_end": 303
+        },
+        "Article 59(3)": {
+            "heading": "Public Register",
+            "article_number": "59",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 304,
+            "block_end": 304
+        },
+        "Article 60": {
+            "heading": "Inspection",
+            "article_number": "60",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 305,
+            "block_end": 306
+        },
+        "Article 61": {
+            "heading": "Evidence in legal proceedings",
+            "article_number": "61",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 307,
+            "block_end": 308
+        },
+        "Article 62": {
+            "heading": "Fees",
+            "article_number": "62",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 309,
+            "block_end": 314
+        },
+        "Article 62(1)(a)": {
+            "heading": "Fees",
+            "article_number": "62",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 311,
+            "block_end": 312
+        },
+        "Article 62(1)": {
+            "heading": "Fees",
+            "article_number": "62",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 310,
+            "block_end": 312
+        },
+        "Article 62(2)": {
+            "heading": "Fees",
+            "article_number": "62",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 313,
+            "block_end": 313
+        },
+        "Article 62(3)": {
+            "heading": "Fees",
+            "article_number": "62",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 314,
+            "block_end": 314
+        },
+        "Article 63": {
+            "heading": "Advertisement in an Appointed Publication",
+            "article_number": "63",
+            "page_start": 23,
+            "page_end": 24,
+            "block_start": 315,
+            "block_end": 318
+        },
+        "Article 1(1)(a)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 321,
+            "block_end": 321
+        },
+        "Article 1(1)(b)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 322,
+            "block_end": 322
+        },
+        "Article 1(1)(c)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 323,
+            "block_end": 323
+        },
+        "Article 1(1)(d)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 324,
+            "block_end": 324
+        },
+        "Article 1(1)(e)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 325,
+            "block_end": 325
+        },
+        "Article 1(1)(f)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 326,
+            "block_end": 326
+        },
+        "Article 1(1)(g)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 327,
+            "block_end": 327
+        },
+        "Article 1(1)(h)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 328,
+            "block_end": 328
+        },
+        "Article 1(1)(i)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 329,
+            "block_end": 329
+        },
+        "Article 1(1)(j)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 330,
+            "block_end": 330
+        },
+        "Article 1(1)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 320,
+            "block_end": 330
+        },
+        "Article 1(2)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 331,
+            "block_end": 331
+        },
+        "Article 1(3)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 332,
+            "block_end": 332
+        },
+        "Article 1(4)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 333,
+            "block_end": 333
+        },
+        "Article 1(5)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 334,
+            "block_end": 334
+        },
+        "Article 1(6)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 335,
+            "block_end": 335
+        },
+        "Article 1(7)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 336,
+            "block_end": 337
+        },
+        "Article 2": {
+            "heading": "Legislation in the DIFC",
+            "article_number": "2",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 338,
+            "block_end": 340
+        },
+        "Article 3": {
+            "heading": "Defined Terms",
+            "article_number": "3",
+            "page_start": 25,
+            "page_end": 27,
+            "block_start": 341,
+            "block_end": 350
+        }
+    },
+    "section_heading_index": {
+        "Title ..... 1 2. Legislative Authority.... . 1 3. Application of the Law ....... .. 1 4. Date of enactment.. . 1 5. Commencement.. .. 1 6. Schedules... 1 7. Administration of the Law... 8. Application of the Collective Investments Law 2010": [
+            {
+                "heading": "Title ..... 1 2. Legislative Authority.... . 1 3. Application of the Law ....... .. 1 4. Date of enactment.. . 1 5. Commencement.. .. 1 6. Schedules... 1 7. Administration of the Law... 8. Application of the Collective Investments Law 2010",
+                "article_number": "1",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 8,
+                "block_end": 9
+            }
+        ],
+        "Definition and constitution of a Limited Partnership.. 2 10. Partnership Agreement . . 2 11. General Partners and Limited Partners . . 2 12. Registration . 2": [
+            {
+                "heading": "Definition and constitution of a Limited Partnership.. 2 10. Partnership Agreement . . 2 11. General Partners and Limited Partners . . 2 12. Registration . 2",
+                "article_number": "9",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 10,
+                "block_end": 11
+            }
+        ],
+        "Licence ...... . 3": [
+            {
+                "heading": "Licence ...... . 3",
+                "article_number": "13",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 12,
+                "block_end": 12
+            }
+        ],
+        "Conduct of business in the DIFC. . 3 15. Records and Registers .... . 3 16. Management of the Limited Partnership . •••. .. 3 17. Maintenance of Accounting Records.. . 4 18. Accounts.. . 4": [
+            {
+                "heading": "Conduct of business in the DIFC. . 3 15. Records and Registers .... . 3 16. Management of the Limited Partnership . •••. .. 3 17. Maintenance of Accounting Records.. . 4 18. Accounts.. . 4",
+                "article_number": "14",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 13,
+                "block_end": 14
+            }
+        ],
+        "Legal person ..... ... 5 20. Limited Partnership property....... ....... .... 5 21. Power of General Partner to bind the Limited Partnership. .... 5 22. Partners bound by acts on behalf of Limited Partnership . .. 5 23. Authority to sign... .. 5 24. Indemnification... .. 5 25. Admission of additional Limited Partners .................................................................................. ....... .... 5 26. Assignment of interest by a Limited Partner ..................... ... 5": [
+            {
+                "heading": "Legal person ..... ... 5 20. Limited Partnership property....... ....... .... 5 21. Power of General Partner to bind the Limited Partnership. .... 5 22. Partners bound by acts on behalf of Limited Partnership . .. 5 23. Authority to sign... .. 5 24. Indemnification... .. 5 25. Admission of additional Limited Partners .................................................................................. ....... .... 5 26. Assignment of interest by a Limited Partner ..................... ... 5",
+                "article_number": "19",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 15,
+                "block_end": 16
+            }
+        ],
+        "Rights and liabilities of a General Partner .... ....................................... ... 7 28. Rights and liabilities of a Limited Partner ..... ................................................................................... .... 7 29. Share of profits of a Limited Partner ......................................................................................................... 7 30. Dealings by a Limited Partner with a Limited Partnership ................................................................ .... 8 31. Limited Partners’ rights among themselves.... ......................................................... .... 8 32. Return of Limited Partner’s contribution .... ............................................................ .... 8 33. Limited Partner’s liability to creditors.. .................................................................................... .... 8 34. Liabilities of incoming and outgoing partners ................................................................................... ... 9": [
+            {
+                "heading": "Rights and liabilities of a General Partner .... ....................................... ... 7 28. Rights and liabilities of a Limited Partner ..... ................................................................................... .... 7 29. Share of profits of a Limited Partner ......................................................................................................... 7 30. Dealings by a Limited Partner with a Limited Partnership ................................................................ .... 8 31. Limited Partners’ rights among themselves.... ......................................................... .... 8 32. Return of Limited Partner’s contribution .... ............................................................ .... 8 33. Limited Partner’s liability to creditors.. .................................................................................... .... 8 34. Liabilities of incoming and outgoing partners ................................................................................... ... 9",
+                "article_number": "27",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 17,
+                "block_end": 18
+            }
+        ],
+        "Statement of dissolution ... \\* 10 36. Winding up of a Limited Partnership ................................................................................................ .. 10 37. Dissolution of Limited Partnership.. ...... 10 38. Power of Court to order dissolution. .. 10 39. Settling accounts on dissolution . ................... • . . . . . . . . • . . . . . . . • . • • • •• • • •• • • •• • • • • ..... 11": [
+            {
+                "heading": "Statement of dissolution ... \\* 10 36. Winding up of a Limited Partnership ................................................................................................ .. 10 37. Dissolution of Limited Partnership.. ...... 10 38. Power of Court to order dissolution. .. 10 39. Settling accounts on dissolution . ................... • . . . . . . . . • . . . . . . . • . • • • •• • • •• • • •• • • • • ..... 11",
+                "article_number": "35",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 19,
+                "block_end": 20
+            }
+        ],
+        "Legal proceedings and service of Documents . 12 41. Enforcement of judgments against property of a Limited Partnership 12 42. Order for compliance.. .12": [
+            {
+                "heading": "Legal proceedings and service of Documents . 12 41. Enforcement of judgments against property of a Limited Partnership 12 42. Order for compliance.. .12",
+                "article_number": "40",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 21,
+                "block_end": 22
+            }
+        ],
+        "Foreign Limited Partnerships .. . 13 44. Requirements of a Recognised Limited Partnership.. .13 45. Conduct of business in the DIFC. .13 46. Maintenance of Accounting Records. 13": [
+            {
+                "heading": "Foreign Limited Partnerships .. . 13 44. Requirements of a Recognised Limited Partnership.. .13 45. Conduct of business in the DIFC. .13 46. Maintenance of Accounting Records. 13",
+                "article_number": "43",
+                "page_start": 2,
+                "page_end": 3,
+                "block_start": 23,
+                "block_end": 26
+            }
+        ],
+        "General Contravention Provision . .15": [
+            {
+                "heading": "General Contravention Provision . .15",
+                "article_number": "47",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 27,
+                "block_end": 28
+            }
+        ],
+        "Application of Operating Law.. .. 16 49. Strike off and Restoration....... .... 16": [
+            {
+                "heading": "Application of Operating Law.. .. 16 49. Strike off and Restoration....... .... 16",
+                "article_number": "48",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 29,
+                "block_end": 30
+            }
+        ],
+        "Transfer of Foreign Limited Partnership to DIFC . .17 51. Certificate of continuation . .17 52. Effect of certificate .. .. 17 53. Copy of certificate of continuation . .. 17 54. Rights and liabilities .. ................................. .... 17 55. Transfer of Limited Partnership from DIFC to another jurisdiction .. . 18 56. Refusal to grant authorisation to transfer a Limited Partnership . .. 18": [
+            {
+                "heading": "Transfer of Foreign Limited Partnership to DIFC . .17 51. Certificate of continuation . .17 52. Effect of certificate .. .. 17 53. Copy of certificate of continuation . .. 17 54. Rights and liabilities .. ................................. .... 17 55. Transfer of Limited Partnership from DIFC to another jurisdiction .. . 18 56. Refusal to grant authorisation to transfer a Limited Partnership . .. 18",
+                "article_number": "50",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 31,
+                "block_end": 32
+            }
+        ],
+        "Power to make Regulations ............... .......................................................... ...... 19": [
+            {
+                "heading": "Power to make Regulations ............... .......................................................... ...... 19",
+                "article_number": "57",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 33,
+                "block_end": 33
+            }
+        ],
+        "Waivers and Modification of the Regulations . . 19 59. Public Register . .. 19 60. Inspection . ............................................................................................ .. 20 61. Evidence in legal proceedings .......................................................................................................... ....... 20 62. Fees..... .................................................................................... .... 20 63. Advertisement in an Appointed Publication ...................................................................................... .. 20": [
+            {
+                "heading": "Waivers and Modification of the Regulations . . 19 59. Public Register . .. 19 60. Inspection . ............................................................................................ .. 20 61. Evidence in legal proceedings .......................................................................................................... ....... 20 62. Fees..... .................................................................................... .... 20 63. Advertisement in an Appointed Publication ...................................................................................... .. 20",
+                "article_number": "58",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 34,
+                "block_end": 48
+            }
+        ],
+        "Schedules": [
+            {
+                "heading": "Schedules",
+                "article_number": "6",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 49,
+                "block_end": 52
+            }
+        ],
+        "Administration of the Law": [
+            {
+                "heading": "Administration of the Law",
+                "article_number": "7",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 53,
+                "block_end": 54
+            }
+        ],
+        "Application of the Collective Investments Law 2010": [
+            {
+                "heading": "Application of the Collective Investments Law 2010",
+                "article_number": "8",
+                "page_start": 4,
+                "page_end": 5,
+                "block_start": 55,
+                "block_end": 59
+            }
+        ],
+        "Definition and constitution of a Limited Partnership": [
+            {
+                "heading": "Definition and constitution of a Limited Partnership",
+                "article_number": "9",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 60,
+                "block_end": 63
+            }
+        ],
+        "Partnership Agreement": [
+            {
+                "heading": "Partnership Agreement",
+                "article_number": "10",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 64,
+                "block_end": 65
+            }
+        ],
+        "General Partners and Limited Partners": [
+            {
+                "heading": "General Partners and Limited Partners",
+                "article_number": "11",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 66,
+                "block_end": 67
+            }
+        ],
+        "Registration": [
+            {
+                "heading": "Registration",
+                "article_number": "12",
+                "page_start": 5,
+                "page_end": 6,
+                "block_start": 68,
+                "block_end": 74
+            }
+        ],
+        "Licence": [
+            {
+                "heading": "Licence",
+                "article_number": "13",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 75,
+                "block_end": 76
+            }
+        ],
+        "Conduct of business in the DIFC": [
+            {
+                "heading": "Conduct of business in the DIFC",
+                "article_number": "14",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 77,
+                "block_end": 78
+            },
+            {
+                "heading": "Conduct of business in the DIFC",
+                "article_number": "45",
+                "page_start": 16,
+                "page_end": 16,
+                "block_start": 235,
+                "block_end": 236
+            }
+        ],
+        "Records and Registers": [
+            {
+                "heading": "Records and Registers",
+                "article_number": "15",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 79,
+                "block_end": 91
+            }
+        ],
+        "Management of the Limited Partnership": [
+            {
+                "heading": "Management of the Limited Partnership",
+                "article_number": "16",
+                "page_start": 6,
+                "page_end": 7,
+                "block_start": 92,
+                "block_end": 98
+            }
+        ],
+        "Maintenance of Accounting Records": [
+            {
+                "heading": "Maintenance of Accounting Records",
+                "article_number": "17",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 99,
+                "block_end": 103
+            },
+            {
+                "heading": "Maintenance of Accounting Records",
+                "article_number": "46",
+                "page_start": 16,
+                "page_end": 18,
+                "block_start": 237,
+                "block_end": 244
+            }
+        ],
+        "Accounts": [
+            {
+                "heading": "Accounts",
+                "article_number": "18",
+                "page_start": 7,
+                "page_end": 8,
+                "block_start": 104,
+                "block_end": 110
+            }
+        ],
+        "Legal person": [
+            {
+                "heading": "Legal person",
+                "article_number": "19",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 111,
+                "block_end": 112
+            }
+        ],
+        "Limited Partnership property": [
+            {
+                "heading": "Limited Partnership property",
+                "article_number": "20",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 113,
+                "block_end": 114
+            }
+        ],
+        "Power of General Partner to bind the Limited Partnership": [
+            {
+                "heading": "Power of General Partner to bind the Limited Partnership",
+                "article_number": "21",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 115,
+                "block_end": 116
+            }
+        ],
+        "Partners bound by acts on behalf of Limited Partnership": [
+            {
+                "heading": "Partners bound by acts on behalf of Limited Partnership",
+                "article_number": "22",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 117,
+                "block_end": 118
+            }
+        ],
+        "Authority to sign": [
+            {
+                "heading": "Authority to sign",
+                "article_number": "23",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 119,
+                "block_end": 123
+            }
+        ],
+        "Indemnification": [
+            {
+                "heading": "Indemnification",
+                "article_number": "24",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 124,
+                "block_end": 125
+            }
+        ],
+        "Admission of additional Limited Partners": [
+            {
+                "heading": "Admission of additional Limited Partners",
+                "article_number": "25",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 126,
+                "block_end": 127
+            }
+        ],
+        "Assignment of interest by a Limited Partner": [
+            {
+                "heading": "Assignment of interest by a Limited Partner",
+                "article_number": "26",
+                "page_start": 8,
+                "page_end": 10,
+                "block_start": 128,
+                "block_end": 135
+            }
+        ],
+        "Rights and liabilities of a General Partner": [
+            {
+                "heading": "Rights and liabilities of a General Partner",
+                "article_number": "27",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 136,
+                "block_end": 144
+            }
+        ],
+        "Rights and liabilities of a Limited Partner": [
+            {
+                "heading": "Rights and liabilities of a Limited Partner",
+                "article_number": "28",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 145,
+                "block_end": 149
+            }
+        ],
+        "Share of profits of a Limited Partner": [
+            {
+                "heading": "Share of profits of a Limited Partner",
+                "article_number": "29",
+                "page_start": 10,
+                "page_end": 11,
+                "block_start": 150,
+                "block_end": 155
+            }
+        ],
+        "Dealings by a Limited Partner with a Limited Partnership": [
+            {
+                "heading": "Dealings by a Limited Partner with a Limited Partnership",
+                "article_number": "30",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 156,
+                "block_end": 157
+            }
+        ],
+        "Limited Partners’ rights among themselves": [
+            {
+                "heading": "Limited Partners’ rights among themselves",
+                "article_number": "31",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 158,
+                "block_end": 160
+            }
+        ],
+        "Return of Limited Partner’s contribution": [
+            {
+                "heading": "Return of Limited Partner’s contribution",
+                "article_number": "32",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 161,
+                "block_end": 165
+            }
+        ],
+        "Limited Partner’s liability to creditors": [
+            {
+                "heading": "Limited Partner’s liability to creditors",
+                "article_number": "33",
+                "page_start": 11,
+                "page_end": 12,
+                "block_start": 166,
+                "block_end": 180
+            }
+        ],
+        "Liabilities of incoming and outgoing partners": [
+            {
+                "heading": "Liabilities of incoming and outgoing partners",
+                "article_number": "34",
+                "page_start": 12,
+                "page_end": 13,
+                "block_start": 181,
+                "block_end": 185
+            }
+        ],
+        "Statement of dissolution": [
+            {
+                "heading": "Statement of dissolution",
+                "article_number": "35",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 186,
+                "block_end": 187
+            }
+        ],
+        "Winding up of a Limited Partnership": [
+            {
+                "heading": "Winding up of a Limited Partnership",
+                "article_number": "36",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 188,
+                "block_end": 190
+            }
+        ],
+        "Dissolution of Limited Partnership": [
+            {
+                "heading": "Dissolution of Limited Partnership",
+                "article_number": "37",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 191,
+                "block_end": 196
+            }
+        ],
+        "Power of Court to order dissolution": [
+            {
+                "heading": "Power of Court to order dissolution",
+                "article_number": "38",
+                "page_start": 13,
+                "page_end": 14,
+                "block_start": 197,
+                "block_end": 204
+            }
+        ],
+        "Settling accounts on dissolution": [
+            {
+                "heading": "Settling accounts on dissolution",
+                "article_number": "39",
+                "page_start": 14,
+                "page_end": 15,
+                "block_start": 205,
+                "block_end": 209
+            }
+        ],
+        "Legal proceedings and service of Documents": [
+            {
+                "heading": "Legal proceedings and service of Documents",
+                "article_number": "40",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 210,
+                "block_end": 215
+            }
+        ],
+        "Enforcement of judgments against property of a Limited Partnership": [
+            {
+                "heading": "Enforcement of judgments against property of a Limited Partnership",
+                "article_number": "41",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 216,
+                "block_end": 219
+            }
+        ],
+        "Order for compliance": [
+            {
+                "heading": "Order for compliance",
+                "article_number": "42",
+                "page_start": 15,
+                "page_end": 16,
+                "block_start": 220,
+                "block_end": 224
+            }
+        ],
+        "Foreign Limited Partnerships": [
+            {
+                "heading": "Foreign Limited Partnerships",
+                "article_number": "43",
+                "page_start": 16,
+                "page_end": 16,
+                "block_start": 225,
+                "block_end": 226
+            }
+        ],
+        "Requirements of a Recognised Limited Partnership": [
+            {
+                "heading": "Requirements of a Recognised Limited Partnership",
+                "article_number": "44",
+                "page_start": 16,
+                "page_end": 16,
+                "block_start": 227,
+                "block_end": 234
+            }
+        ],
+        "General Contravention Provision": [
+            {
+                "heading": "General Contravention Provision",
+                "article_number": "47",
+                "page_start": 18,
+                "page_end": 19,
+                "block_start": 245,
+                "block_end": 252
+            }
+        ],
+        "Application of Operating Law": [
+            {
+                "heading": "Application of Operating Law",
+                "article_number": "48",
+                "page_start": 19,
+                "page_end": 19,
+                "block_start": 253,
+                "block_end": 254
+            }
+        ],
+        "Strike off and Restoration": [
+            {
+                "heading": "Strike off and Restoration",
+                "article_number": "49",
+                "page_start": 19,
+                "page_end": 20,
+                "block_start": 255,
+                "block_end": 258
+            }
+        ],
+        "Transfer of Foreign Limited Partnership to DIFC": [
+            {
+                "heading": "Transfer of Foreign Limited Partnership to DIFC",
+                "article_number": "50",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 259,
+                "block_end": 263
+            }
+        ],
+        "Certificate of continuation": [
+            {
+                "heading": "Certificate of continuation",
+                "article_number": "51",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 264,
+                "block_end": 268
+            }
+        ],
+        "Effect of certificate": [
+            {
+                "heading": "Effect of certificate",
+                "article_number": "52",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 269,
+                "block_end": 271
+            }
+        ],
+        "Copy of certificate of continuation": [
+            {
+                "heading": "Copy of certificate of continuation",
+                "article_number": "53",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 272,
+                "block_end": 273
+            }
+        ],
+        "Rights and liabilities": [
+            {
+                "heading": "Rights and liabilities",
+                "article_number": "54",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 274,
+                "block_end": 278
+            }
+        ],
+        "Transfer of Limited Partnership from DIFC to another jurisdiction": [
+            {
+                "heading": "Transfer of Limited Partnership from DIFC to another jurisdiction",
+                "article_number": "55",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 279,
+                "block_end": 284
+            }
+        ],
+        "Refusal to grant authorisation to transfer a Limited Partnership": [
+            {
+                "heading": "Refusal to grant authorisation to transfer a Limited Partnership",
+                "article_number": "56",
+                "page_start": 21,
+                "page_end": 22,
+                "block_start": 285,
+                "block_end": 289
+            }
+        ],
+        "Power to make Regulations": [
+            {
+                "heading": "Power to make Regulations",
+                "article_number": "57",
+                "page_start": 22,
+                "page_end": 22,
+                "block_start": 290,
+                "block_end": 297
+            }
+        ],
+        "Waivers and Modification of the Regulations": [
+            {
+                "heading": "Waivers and Modification of the Regulations",
+                "article_number": "58",
+                "page_start": 22,
+                "page_end": 22,
+                "block_start": 298,
+                "block_end": 299
+            }
+        ],
+        "Public Register": [
+            {
+                "heading": "Public Register",
+                "article_number": "59",
+                "page_start": 22,
+                "page_end": 23,
+                "block_start": 300,
+                "block_end": 304
+            }
+        ],
+        "Inspection": [
+            {
+                "heading": "Inspection",
+                "article_number": "60",
+                "page_start": 23,
+                "page_end": 23,
+                "block_start": 305,
+                "block_end": 306
+            }
+        ],
+        "Evidence in legal proceedings": [
+            {
+                "heading": "Evidence in legal proceedings",
+                "article_number": "61",
+                "page_start": 23,
+                "page_end": 23,
+                "block_start": 307,
+                "block_end": 308
+            }
+        ],
+        "Fees": [
+            {
+                "heading": "Fees",
+                "article_number": "62",
+                "page_start": 23,
+                "page_end": 23,
+                "block_start": 309,
+                "block_end": 314
+            }
+        ],
+        "Advertisement in an Appointed Publication": [
+            {
+                "heading": "Advertisement in an Appointed Publication",
+                "article_number": "63",
+                "page_start": 23,
+                "page_end": 24,
+                "block_start": 315,
+                "block_end": 318
+            }
+        ],
+        "Rules of interpretation": [
+            {
+                "heading": "Rules of interpretation",
+                "article_number": "1",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 319,
+                "block_end": 337
+            }
+        ],
+        "Legislation in the DIFC": [
+            {
+                "heading": "Legislation in the DIFC",
+                "article_number": "2",
+                "page_start": 25,
+                "page_end": 25,
+                "block_start": 338,
+                "block_end": 340
+            }
+        ],
+        "Defined Terms": [
+            {
+                "heading": "Defined Terms",
+                "article_number": "3",
+                "page_start": 25,
+                "page_end": 27,
+                "block_start": 341,
+                "block_end": 350
+            }
+        ]
+    }
+}

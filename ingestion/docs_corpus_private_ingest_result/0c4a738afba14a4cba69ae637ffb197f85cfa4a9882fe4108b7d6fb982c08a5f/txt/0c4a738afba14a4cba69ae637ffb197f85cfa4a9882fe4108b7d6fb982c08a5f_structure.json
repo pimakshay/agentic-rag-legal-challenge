@@ -1,0 +1,506 @@
+{
+    "0": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "DIFC ",
+        "level": 1
+    },
+    "1": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "CONSULTATION PAPER NO. 2 ",
+        "level": 2
+    },
+    "2": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "May 2024 ",
+        "level": 3
+    },
+    "3": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "Amended Prescribed Company Regulations ",
+        "level": 1
+    },
+    "4": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "CONSULTATION PAPER NO. 2 AMENDED PRESCRIBED COMPANY REGULATIONS ",
+        "level": 1
+    },
+    "5": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Why are we issuing this paper? ",
+        "level": 2
+    },
+    "6": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "1. The Dubai International Financial Centre Authority (“DIFCA”) proposes to amend the DIFC Prescribed Company Regulations (the “PC Regulations”) to simplify and expand the current regime. This Consultation Paper No. 2 of 2024 (“Consultation Paper”) seeks public comments on the amended PC Regulations (the “Proposed Regulations”). ",
+        "level": 3
+    },
+    "7": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Who should read this paper? ",
+        "level": 2
+    },
+    "8": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2. This Consultation Paper would be of interest to persons conducting or proposing to conduct business in the DIFC. In particular: ",
+        "level": 3
+    },
+    "9": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "a. Registered Persons;   \nb. GCC persons and investors in GCC assets;   \nc. Corporate Service Providers; and   \nd. Legal advisors advising on matters relating to any of the above. ",
+        "level": 4
+    },
+    "10": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "How to provide comments ",
+        "level": 2
+    },
+    "11": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "3. All comments should be provided to the person specified below: ",
+        "level": 3
+    },
+    "12": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates   \nor e-mailed to: consultation@difc.ae ",
+        "level": 4
+    },
+    "13": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "4. You may choose to identify the organisation you represent in your comments. ",
+        "level": 3
+    },
+    "14": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "5. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "level": 3
+    },
+    "15": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "What happens next? ",
+        "level": 2
+    },
+    "16": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "6. The deadline for providing comments on the proposals in this Consultation Paper is 1 June 2024. ",
+        "level": 3
+    },
+    "17": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Amended Prescribed Company Regulations ",
+        "level": 1
+    },
+    "18": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2 ",
+        "level": 5
+    },
+    "19": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "7. Once we receive your comments, we will consider if any further refinements are required to the proposed amendments. Once DIFCA considers the changes to be in a suitable form, the Proposed Regulations will be enacted, to come in to force on a date specified and published.   \n8. The Proposed Regulations are in draft form only. You should not act on them until they are formally enacted. We will issue a notice on our website when this happens. ",
+        "level": 3
+    },
+    "20": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Defined terms ",
+        "level": 2
+    },
+    "21": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "9. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase and are defined in the Proposed Regulations. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "level": 3
+    },
+    "22": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "10. The term Prescribed Company and PC is used interchangeably throughout this Consultation Paper. ",
+        "level": 3
+    },
+    "23": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Background ",
+        "level": 2
+    },
+    "24": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "11. The PC Regulations were enacted in 2019 and were further updated in 2020 and 2022, in both cases to expand the regime to a wider base of applicants. ",
+        "level": 3
+    },
+    "25": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "12. Currently the PC Regulations enable the following applicants to establish a Prescribed Company: ",
+        "level": 3
+    },
+    "26": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "a. Qualifying Applicants i.e. those applicants that can establish an existing nexus to the DIFC (e.g. where the applicant is already a DIFC registered entity or affiliated to a DIFC registered) or fulfil certain other accepted criteria (such as being an Authorised Firm or Government Entity); or   \nb. applicants carrying out a Qualifying Purpose (e.g. a Structured Financing, Aviation or Crowdfunding Structure). ",
+        "level": 4
+    },
+    "27": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "13. Despite expansions to the PC regime since its inception, the DIFC has been met with continued demand to further expand the regime. As noted in DIFC Consultation Paper 2 of 2022 (“Proposal Relating to the Amendment of the Prescribed Company Regulations”)1, the DIFC has historically strived to be a jurisdiction of substance. It has deliberately shied away from allowing persons to establish offshore style special purpose vehicles in the DIFC without also having a substantive presence in the Centre, with the exception of Prescribed Companies (and previously Special Purpose Companies and ISPVs). ",
+        "level": 3
+    },
+    "28": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1 See Link to access past DIFC Consultation Papers: https://www.difc.ae/business/laws-and-regulations/legaldatabase#past-consultation-papers ",
+        "level": 4
+    },
+    "29": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "3 ",
+        "level": 5
+    },
+    "30": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Amended Prescribed Company Regulations ",
+        "level": 1
+    },
+    "31": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "14. Nevertheless, DIFCA has also remained committed to keeping this policy under review, and where appropriate modify it to further facilitate business in and from the Centre. With the introduction of UAE corporate tax, concerns around substance requirements are reduced (albeit not entirely negated). DIFCA is therefore of the view that further expansion and simplification of the PC regime is now appropriate. ",
+        "level": 3
+    },
+    "32": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "15. These changes are explained in further detail in this Consultation Paper. ",
+        "level": 3
+    },
+    "33": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "Key Changes Proposed ",
+        "level": 2
+    },
+    "34": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "16. The key changes in the Proposed Regulations include the following: ",
+        "level": 3
+    },
+    "35": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "a. expanding the qualifying requirements for setting up a Prescribed Company: ",
+        "level": 4
+    },
+    "36": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "i. to GCC persons; ii. to Authorised Firms or DIFC Registered Persons (in line with the current regime); iii. for the purposes of owning or Controlling GCC Registrable Assets; or iv. for a Qualifying Purpose (largely retaining the previous definition with certain deletions for Qualifying Purposes that have become redundant as a result of the expansion of the other qualifying criteria). b. to clarify how PCs may conduct business in the DIFC, including updates to the registered office requirements; and c. Other consequential changes. ",
+        "level": 5
+    },
+    "37": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "Qualifying Requirements ",
+        "level": 2
+    },
+    "38": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "17. Under the current PC Regulations, eight types of applicant meet the criteria of a Qualifying Applicant that may establish a PC, provided such Qualifying Applicant Controls the PC. These include: ",
+        "level": 3
+    },
+    "39": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "a. an Affiliate of a DIFC Registered Entity;   \nb. an Authorised Firm;   \nc. a DIFC Registered Entity; d. a Family Operated Business;   \ne. a Fund;   \nf. a Government Entity;   \ng. a shareholder or an Ultimate Beneficial Owner that Controls a DIFC Registered Entity;   \nor h. a person wholly owned by one (1) or more of the foregoing Qualifying Applicants. ",
+        "level": 4
+    },
+    "40": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "Amended Prescribed Company Regulations ",
+        "level": 1
+    },
+    "41": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "4 ",
+        "level": 5
+    },
+    "42": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "18. Under the Proposed Regulations, the definition of Qualifying Applicant is removed entirely, and replaced with operative provisions at Regulation 3.1.1 (Qualifying Requirements) that allow a PC to be established in five distinct scenarios, either by certain applicants or for certain purposes, as follows: ",
+        "level": 3
+    },
+    "43": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "a. the PC will be Controlled by one or more GCC Persons (see paragraph 19 below for further explanation in this regard);   \nb. the PC will be Controlled by one or more Authorised Firms (as per the existing definition of Authorised Person in the current PC Regulations);   \nc. the PC will be Controlled by one or more DIFC Registered Persons (this definition excludes NPIOs and Prescribed Companies, in line with the existing Regulations);   \nd. the PC is to be established or continued for the purpose of holding legal title to, or Controlling, one or more GCC Registrable Assets (see paragraph 20 below for further explanation in this regard); or   \ne. the PC is to be established or continued in the DIFC for a Qualifying Purpose (see paragraph 22 below for further explanation in this regard). ",
+        "level": 4
+    },
+    "44": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "19. With regards to paragraph 18.a above, a GCC Person includes: “each of: ",
+        "level": 3
+    },
+    "45": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) a natural person who is a citizen of a GCC Member State;   \n(b) a body corporate or body unincorporate, including a company, partnership, or unincorporated association, that is Controlled by one (1) or more natural persons who is a citizen of a GCC Member State;   \n(c) a body corporate that has any class of its securities listed on a securities exchange in the GCC; or   \n(d) a Government Entity.” ",
+        "level": 4
+    },
+    "46": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Amended Prescribed Company Regulations ",
+        "level": 1
+    },
+    "47": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "5 ",
+        "level": 5
+    },
+    "48": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "20. With regards to paragraph 18.d above, a GCC Registrable Asset encompasses any asset or property interest that must be registered with a GCC Authority. A GCC Registrable Asset is defined in a non-exhaustive manner as: ",
+        "level": 3
+    },
+    "49": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "“an asset or property interest that must be registered with a GCC Authority to establish legal ownership, secure rights, or encumbrances against it, and to provide public notice of such interests, including: ",
+        "level": 4
+    },
+    "50": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(a) Land and real property (b) shares in companies; (c) partnership interests; (d) intellectual property; and (e) aircraft and Maritime Vessels.” ",
+        "level": 4
+    },
+    "51": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "Whilst a GCC Authority is defined as: ",
+        "level": 3
+    },
+    "52": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "“a government, ministry, department, body, authority, designated agency or a securities exchange regulated by a financial services regulator of a GCC Member State, that maintains a registry for recording legal ownership of assets or interests therein in a GCC Member State.” ",
+        "level": 4
+    },
+    "53": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "21. DIFCA is of the view that removing the existing definition of Qualifying Applicant and replacing it with the new qualifying requirement criteria not only expands the regime considerably but also simplifies it, not least because it results in the removal of a raft of consequential definitions used to determine various criteria to meet the definition of Qualifying Applicant. What has been retained, however, is the definition of (and use of a PC for) a Qualifying Purpose. ",
+        "level": 3
+    },
+    "54": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "22. The definition of Qualifying Purpose has been amended to remove DIFC Holding Structures (i.e. a PC used to hold shares in other DIFC registered entities) and Innovation Structures (used to hold shares in Innovation Entities). In the former case, the DIFC Holding Structure is redundant as the underlying shares of a DIFC registered entity now fall within limb 3.1.1(c) of the Proposed Regulations: the of holding legal title to, or Controlling, one or more GCC Registrable Assets. In the latter case, DIFCA considers that the expanded qualifying requirements are sufficiently broad enough not to require a specific set of rules around Innovation Structures and what constitutes an Innovation Entity. ",
+        "level": 3
+    },
+    "55": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "23. Finally, DIFCA recognises that Prescribed Companies may serve a structuring purpose within a future contemplated transaction (whereby it is necessary to establish the structure first before the PC acquires or has assets transferred to it). Regulation 3.1.3 provides a six (6) month grace period to PCs established or continued for: i) holding or Controlling GCC Registrable Assets; or ii) carrying out a Qualifying Purpose, to meet these qualifying requirements. The Registrar has a discretion to extend this time period, i.e. in circumstances where the Registrar is satisfied that there is a legitimate delay in the PC meeting the GCC Registrable Asset or Qualifying Purpose criteria. ",
+        "level": 3
+    },
+    "56": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "6 ",
+        "level": 5
+    },
+    "57": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "Amended Prescribed Company Regulations ",
+        "level": 1
+    },
+    "58": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Q1. Do you think any other qualifying requirements should be included within the Prescribed Company Regime? If so, please provide details of specific use cases.   \nQ2. Do you agree with the definition of GCC Registrable Asset? Are there any other types of asset that you think should be added to the list or are otherwise not appropriately captured by the definition? If so, what are these?   \nQ3. Do you agree with the definition of GCC Authority? Is there any other form of official government registration system that you think has not been adequately captured by the definition and that should be included? If so, please provide details.   \nQ4. Do you agree with the six (6) month grace period provided at Regulation 3.1.3 (as described at paragraph 23 above). If not, please suggest an alternative time period and your reasons for this.   \nQ5. Do you have any other comments or suggestions in relation to the proposed qualifying requirements? ",
+        "level": 3
+    },
+    "59": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Use of Prescribed Companies ",
+        "level": 2
+    },
+    "60": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "24. Prescribed Companies are by their nature intended to be passive holding company vehicles that do not engage in commercial activity or employ Employees. DIFCA clarifies this at Regulation 3.5.2 (with regards to a PC’s permitted licenced activities) and Regulation 4.3 (Employees). ",
+        "level": 3
+    },
+    "61": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "25. Regulation 3.5.2 provides that the Licence of a Prescribed Company established for: ",
+        "level": 3
+    },
+    "62": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "a. a Qualifying Purpose shall be restricted to the activities specific to its Qualifying Purpose; and   \nb. any other purpose will be limited to the activity of Holding Company (as defined in the Registrar of Companies list of non-retail activities available on the DIFC website2). ",
+        "level": 4
+    },
+    "63": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "26. As noted above, Regulation 4.3 expressly provides that a Prescribed Company is not permitted to employ any Employees. This does not prevent a PC from appointing directors. ",
+        "level": 3
+    },
+    "64": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Amended Prescribed Company Regulations ",
+        "level": 1
+    },
+    "65": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "2 See link to non-retail activities guide: https://www.difc.ae/business/non-retail-activities-guide ",
+        "level": 4
+    },
+    "66": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "7 ",
+        "level": 5
+    },
+    "67": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Directors of a Prescribed Company do not need to be employees of the entity, nor hold a UAE visa. ",
+        "level": 3
+    },
+    "68": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "27. DIFCA is aware that there is a small number of Prescribed Companies that do currently hire Employees and therefore will not meet the operating requirements under the Proposed Regulations. Owing to the limited number of Prescribed Companies affected by this issue, instead of setting out transitional provisions in the Regulations, or simply revoking the benefits received by such PCs under the regime by invoking Regulation 4.6, DIFCA will be putting in place a commercial package that will: ",
+        "level": 3
+    },
+    "69": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "a. return such entities to their full Private Company status under the DIFC Companies Law (DIFC Law No. 5 of 2018); but otherwise   \nb. enable such entities to continue to benefit from reduced licensing fees and certain other benefits under the Prescribed Company regime, ",
+        "level": 4
+    },
+    "70": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "facilitating the grandfathering out of these types of entity without impacting their current business operations. ",
+        "level": 4
+    },
+    "71": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Q6. Do you have any concerns regarding the proposed amendments affecting the use of Prescribed Companies either with regards to licensing or the prohibition on Employees? If so, please provide details. ",
+        "level": 3
+    },
+    "72": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Registered office requirements and other consequential changes ",
+        "level": 2
+    },
+    "73": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "28. Although a Prescribed Company is not required to lease office space (aligned with the fact that it simply a passive holding vehicle) it is required to have a registered address in the DIFC. This is reflected at Regulation 4.1 (Registered Office). Regulation 4.1 has been updated to remove reference to a PC using the registered address of its Qualifying Applicant (as this definition has now been removed) but continues to recognise that a PC’s registered address may either be that of: ",
+        "level": 3
+    },
+    "74": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "a. a Corporate Service Provider; or   \nb. a DIFC Registered Person that is an Affiliate of the PC, which includes any DIFC Registered Person(s) that is establishing a PC for a Qualifying Purpose, with the proviso that such registered address may not be that of a retail premise. ",
+        "level": 4
+    },
+    "75": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "29. Other consequential changes within the Proposed Regulations largely relate to the: i) removal of the Qualifying Applicant definition; ii) related definitions rendered redundant as a result of its deletion; or iii) expansion of the expanded qualifying requirements. ",
+        "level": 3
+    },
+    "76": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Amended Prescribed Company Regulations ",
+        "level": 1
+    },
+    "77": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "8 ",
+        "level": 5
+    },
+    "78": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Q7. Do you have any issues, proposed amendments or other suggestions in respect of any of the miscellaneous changes proposed?   \nQ8. Are there any other issues, not included in the Proposed Regulations that warrant attention? If so, what are they, and why and how, should they be addressed? ",
+        "level": 3
+    },
+    "79": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Legislative proposal ",
+        "level": 2
+    },
+    "80": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "30. This legislative proposal contains the following: ",
+        "level": 3
+    },
+    "81": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(a) the Proposed Regulations (at Annex A);   \n(b) a table of comments to provide your views and comments on the consultation paper (at Annex B). ",
+        "level": 4
+    },
+    "82": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Amended Prescribed Company Regulations ",
+        "level": 1
+    },
+    "83": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "9 ",
+        "level": 5
+    }
+}

@@ -1,0 +1,584 @@
+{
+    "0": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "Dubai International Financial Centre ",
+        "level": 1
+    },
+    "1": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "CONSULTATION PAPER NO. 2 ",
+        "level": 2
+    },
+    "2": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "March 2019 ",
+        "level": 3
+    },
+    "3": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "PROPOSED NEW FINANCIAL COLLATERAL REGULATIONS AND SECURITY REGULATIONS ",
+        "level": 1
+    },
+    "4": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "CONSULTATION PAPER NO. 2 ",
+        "level": 2
+    },
+    "5": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PROPOSALS RELATING TO NEW FINANCIAL COLLATERAL REGULATIONS AND SECURITY REGULATIONS ",
+        "level": 1
+    },
+    "6": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Why are we issuing this paper? ",
+        "level": 2
+    },
+    "7": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "1. The Dubai International Financial Centre Authority (“DIFCA”) proposes to replace its current Security Regulations (the “Current Regulations”) with a new Financial Collateral Regulations and a new Security Regulations. This Consultation Paper No. 2 of 2019 (“Consultation Paper”) seeks public comments on the proposed new Financial Collateral Regulations (“Proposed Financial Collateral Regulations”) and Security Regulations (the “Proposed Security Regulations”), collectively referred to as the “Proposed Regulations” in this Consultation Paper. ",
+        "level": 3
+    },
+    "8": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Who should read this paper? ",
+        "level": 2
+    },
+    "9": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2. This Consultation Paper would be of interest to persons conducting or proposing to conduct business in the DIFC. In particular: ",
+        "level": 3
+    },
+    "10": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "a. banks and financial institutions;   \nb. investment companies and fund managers;   \nc. legal advisors;   \nd. entities operating in the DIFC that are involved in hedging and other financial market sales and trading transactions;   \ne. creditors of DIFC counterparties; and   \nf. any other relevant stakeholders. ",
+        "level": 4
+    },
+    "11": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "How to provide comments ",
+        "level": 2
+    },
+    "12": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "3. All comments should be provided to the person specified below: ",
+        "level": 3
+    },
+    "13": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates   \nor e-mailed to: consultation@difc.ae ",
+        "level": 4
+    },
+    "14": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "4. You may choose to identify the organisation you represent in your comments. ",
+        "level": 3
+    },
+    "15": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "5. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "level": 3
+    },
+    "16": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "SECURITY REGULATIONS ",
+        "level": 1
+    },
+    "17": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2 ",
+        "level": 5
+    },
+    "18": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "What happens next? ",
+        "level": 2
+    },
+    "19": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "6. The deadline for providing comments on the proposals in this Consultation Paper is 17 April 2019. ",
+        "level": 3
+    },
+    "20": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "7. Once we receive your comments, we will consider if any further refinements are required to the Proposed Regulations. Once DIFCA considers the legislation to be in a suitable form, it will be enacted as new DIFC Regulations to come in to force on a date specified and published. ",
+        "level": 3
+    },
+    "21": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "8. The Proposed Regulations are in draft form only. You should not act on it until the Proposed Regulations are formally enacted. We will issue a notice on our website when this happens. ",
+        "level": 3
+    },
+    "22": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Defined terms ",
+        "level": 2
+    },
+    "23": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "9. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase and are defined in the Proposed Regulations. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "level": 3
+    },
+    "24": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Background ",
+        "level": 2
+    },
+    "25": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "10. The DIFCA has proposed to replace the Current Regulations issued under the Law of Security, DIFC Law No. 8 of 2005 (“Law of Security”), which deal with matters relating to Financial Collateral as well as those relating to the filing of forms with the Registrar of Securities (“Registrar”), with the Proposed Financial Collateral Regulations which will deal with the former and the Proposed Security Regulations which will deal with the latter. ",
+        "level": 3
+    },
+    "26": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "11. Accordingly, the Proposed Financial Collateral Regulations will deal with matters relating to Financial Collateral, while matters relating to the filing of forms with the Registrar will be provided for in the Proposed Security Regulations. ",
+        "level": 3
+    },
+    "27": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "12. The key aspects of the proposal include: ",
+        "level": 3
+    },
+    "28": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "a. the separation of the Current Regulations into the Proposed Financial Collateral Regulations and the Proposed Security Regulations;   \nb. the inclusion of money credited to an account (including a bank deposit account) as a qualifying asset for the purposes of a Financial Collateral Arrangement under the Proposed Financial Collateral Regulations;   \nc. the scope of the Proposed Financial Collateral Regulations to cover both Title ",
+        "level": 4
+    },
+    "29": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "SECURITY REGULATIONS ",
+        "level": 1
+    },
+    "30": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "3 ",
+        "level": 5
+    },
+    "31": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "Transfer Financial Collateral Arrangements and Security Interest Financial Collateral Arrangements; d. the applicable provisions of DIFC laws pertaining to the determination of \"control\" for the purposes of the creation of a Financial Collateral Arrangement under the Proposed Financial Collateral Regulations; e. the attachment (or creation) of a Financial Collateral Arrangement by reference to when the collateral-taker has achieved \"control\", rather than concurrently with the debtor having transfer authority with respect to the Financial Collateral (as set out in Regulation 2.7.2 of the Current Regulations); f. amendments to the fees payable for filing of financing statements by introducing a flat fee for filing Financing Statements and introducing new fees for amending Financing Statements under the Proposed Security Regulations; and g. miscellaneous enhancements. ",
+        "level": 4
+    },
+    "32": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "Financial Collateral generally ",
+        "level": 2
+    },
+    "33": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "13. The main aim of financial collateral legislation is to create a creditor-friendly legal regime relating to cash and securities collateral, under both security interest and title transfer structures. Some of the benefits of financial collateral include: ",
+        "level": 3
+    },
+    "34": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "a. on taking collateral: ",
+        "level": 4
+    },
+    "35": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(i) priority over subsequent security interests created over the same collateral assets;   \n(ii) no statutory registration formalities for perfection;   \n(iii) availability of title transfer and security interest structures for taking collateral;   \n(iv) \"book entry\" securities collateral to be governed by the law of the country where the securities account is maintained; ",
+        "level": 5
+    },
+    "36": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "b. during the security period – the right to re-use collateral under a title transfer structure; ",
+        "level": 4
+    },
+    "37": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "c. on enforcement: ",
+        "level": 4
+    },
+    "38": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(i) immediate enforcement without further formalities; (ii) disapplication of certain insolvency rules in relation to the provision of financial collateral; and (iii) recognition of collateral arrangement as part of close-out netting. ",
+        "level": 5
+    },
+    "39": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "SECURITY REGULATIONS ",
+        "level": 1
+    },
+    "40": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "4 ",
+        "level": 5
+    },
+    "41": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "14. As a result, upon counterparty default collateral can be can be rapidly enforced against a secured obligation, which can translate into: ",
+        "level": 3
+    },
+    "42": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "a. immediate enforcement without further formalities;   \nb. reduced capital charges as a result of lower counterparty credit risk; and   \nc. in the context of derivatives transactions in a jurisdiction (like the DIFC) where close-out netting is also recognised, a reduction in the collateral required because of the reduction of counterparty exposure to a legally enforceable net amount which is supported by effective collateral arrangements that survive the collateralprovider’s insolvency. ",
+        "level": 4
+    },
+    "43": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Financial Collateral in the DIFC ",
+        "level": 2
+    },
+    "44": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "15. In the DIFC, Chapter 2 of the Current Regulations provides the legal regime for Financial Collateral. Financial Collateral is defined in Regulation 2.2.1 of the Security Regulations as: ",
+        "level": 3
+    },
+    "45": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "“(a) financial property held in an Investment account (including any Redelivery Obligation ….. ); and   \n(b) Money held in an Investment account or a Money claim of, or against, an Intermediary.” ",
+        "level": 4
+    },
+    "46": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "16. The availability of Financial Collateral is given further application under the Netting Law, DIFC Law No. 2 of 2014 (the \"Netting Law\"), where collateral arrangements are expressly permitted to be applied as part of the close-out netting process under a netting agreement. ",
+        "level": 3
+    },
+    "47": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "17. In the European Union (the \"EU\") Directive 2002/47/EC on Financial Collateral Arrangements (commonly known as the \"Financial Collateral Directive\") has been enacted by member state countries. Chapter 2 of the Current Regulations closely follows the features provided for in the EU Financial Collateral Directive. ",
+        "level": 3
+    },
+    "48": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "18. The Proposed Financial Collateral Regulations expand and clarify the definition of Financial Collateral in the Current Regulations. It defines Financial Collateral in Regulation 2.1 as follows: ",
+        "level": 3
+    },
+    "49": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "“Financial Collateral is: ",
+        "level": 4
+    },
+    "50": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) Money held in or credited to an account; or a Money claim of, or against, the Account Provider in respect of that Money or account; or (b) financial property held in an account with an Account Provider including: ",
+        "level": 4
+    },
+    "51": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "SECURITY REGULATIONS ",
+        "level": 1
+    },
+    "52": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "5 ",
+        "level": 5
+    },
+    "53": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(i) shares in companies or securities representing or equivalent to shares in companies;   \n(ii) bonds or other forms of debt instruments;   \n(iii) any other securities or similar instruments (including sukuk);   \n(iv) units in a collective investment undertaking;   \n(v) money market instruments; and   \n(vi) claims relating to or rights in or in respect of any of the foregoing and any Redelivery Obligation arising in accordance with Regulation 6.” ",
+        "level": 5
+    },
+    "54": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "Q.1 What other types of asset classes in the nature of cash and dematerialized securities should be covered in the Proposed Financial Collateral Regulations? ",
+        "level": 3
+    },
+    "55": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "Scope of coverage ",
+        "level": 2
+    },
+    "56": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "19. Under the EU Financial Collateral Directive, a financial collateral arrangement is only available to \"qualifying parties\" (which typically excludes individuals and trustees), and only where one of the parties is a financial institution. ",
+        "level": 3
+    },
+    "57": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "20. Unlike the EU Financial Collateral Directive, the Current Regulations contain no such restrictions in relation to Financial Collateral. It is proposed that this position be continued in the Proposed Financial Collateral Regulations. ",
+        "level": 3
+    },
+    "58": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "Q.2 Should there be a limitation of \"qualifying parties\" who may benefit from the enhanced security regime afforded by the Proposed Financial Collateral provisions? Should these provisions exclude individuals and trustees? ",
+        "level": 3
+    },
+    "59": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "21. Financial Collateral can take the form of: ",
+        "level": 3
+    },
+    "60": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "a. a title transfer arrangement where the collateral-taker is the legal owner of the collateral assets and may re-use the collateral assets during the security period, with an obligation to deliver the equivalent collateral assets to the collateralprovider upon discharge of the secured obligations; or   \nb. a security interest arrangement. ",
+        "level": 4
+    },
+    "61": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "22. Under the Law of Security, security interest over cash and securities need to be perfected through the registration of a financing statement with the Registrar, while there is no such registration requirement in order to perfect Financial Collateral under the Current Regulations. Where Financial Collateral is taken, it has priority over a security interest arrangement over the same Financial Collateral (including where such security interest has been registered with the Registrar), without the need for any registration. ",
+        "level": 3
+    },
+    "62": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "SECURITY REGULATIONS ",
+        "level": 1
+    },
+    "63": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "6 ",
+        "level": 5
+    },
+    "64": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "23. Financial Collateral remains enforceable in favour of the collateral-taker so long as the conditions in Regulation 2.7.2 of the Current Regulations are met, namely: ",
+        "level": 3
+    },
+    "65": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "a. the debtor (i.e. the collateral-provider) has transfer authority with respect to the Financial Collateral; and   \nb. the secured party (i.e. the collateral-provider) has control of the Financial Collateral pursuant to a security agreement. ",
+        "level": 4
+    },
+    "66": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "24. This concept is continued in the Regulation 4.2.2 of the Proposed Financial Collateral Regulations and the term “Control” has now been defined: ",
+        "level": 3
+    },
+    "67": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "a. with respect to financial property as set out in the Personal Property Law, DIFC Law No. 9 of 2005; and b. with respect to Money as set out in paragraph 5 of Schedule 1 of the Security Law. ",
+        "level": 4
+    },
+    "68": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Q3. Do you have any comments on the definition of “Control” in the Proposed Financial Collateral Regulations? Are further refinements required in the context of Financial Collateral in order to more accurately reflect the arrangements used by market participants? ",
+        "level": 3
+    },
+    "69": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Substitution, Release and Enforcement of Financial Collateral ",
+        "level": 2
+    },
+    "70": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "25. Regulation 2.11 of the Current Regulations specifically allows re-use of the collateral assets during the security period as long as Equivalent Investments are re-delivered upon discharge of the secured obligations. The Proposed Collateral Regulations expressly clarifies that a secured party continues to have Control of Financial Collateral even where the collateral agreement allows collateral to be substituted and/or excess collateral to be released. ",
+        "level": 3
+    },
+    "71": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "26. In addition, Financial Collateral can be enforced without a court order under the Current Regulations, and remains the same in the Proposed Financial Collateral Regulations. ",
+        "level": 3
+    },
+    "72": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Q4. Are the provisions in the Proposed Financial Collateral Regulations relating to the substitution, release of excess and enforcement of Financial Collateral sufficient? Are further refinements required? ",
+        "level": 3
+    },
+    "73": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "SECURITY REGULATIONS ",
+        "level": 1
+    },
+    "74": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "7 ",
+        "level": 5
+    },
+    "75": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "27. Enforcement of Financial Collateral can be effected without a court order under both the Current Regulations and the Proposed Financial Collateral Regulations, without the need to provide any further notifications or meet any additional formalities required under the Security Law. ",
+        "level": 3
+    },
+    "76": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "28. Although the existing provisions of the Current Regulations would allow Financial Collateral to be enforced, it may still be subject to challenge by an insolvency officer as a preference under Article 98 of the Insolvency Law DIFC Law No. 3 of 2009 (“Insolvency Law”). Further, Article 99(1)(a) of the Insolvency Law invalidates any security interest created over all (or substantially all) of a company's property in favour of a person connected to the company, within the 2 years prior to the onset of insolvency. ",
+        "level": 3
+    },
+    "77": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "29. This position has not been altered in the Proposed Financial Collateral Regulations, on the basis that the circumstances in Articles 97 to 99 of the Insolvency Law may warrant a challenge to a collateral-taker's rights to the Financial Collateral. ",
+        "level": 3
+    },
+    "78": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Proposed Security Regulations ",
+        "level": 2
+    },
+    "79": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "30. Chapter 3 of the Current Regulations sets out the rules applicable to the submission of financing statements to the Registrar in respect of security interests created under the Law of Security, as well as amendments to those financing statements. In addition Appendix 1 of the Current Regulations contains pro formas of the Approved Forms and Appendix 2 sets out the applicable registration fees. ",
+        "level": 3
+    },
+    "80": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "31. The Proposed Security Regulations contain Chapter 3 and Appendices 1 and 2 of the Current Regulations. Chapter 3 and Appendix 1 of the Current Regulations have remained largely unchanged in the Proposed Security Regulations. The Office of the Registrar of Securities is in the process of automating the filing of the Approved Forms under the Current Regulations. ",
+        "level": 3
+    },
+    "81": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Q5. Should the Approved Forms in Appendix 1 of the Current Regulations be improved or enhanced in the Proposed Security Regulations? If so, please provide suggestions. ",
+        "level": 3
+    },
+    "82": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "32. The fees payable for the registration of financing statements under the Current Regulations are calculated by reference to a percentage of the value of the security being perfected (or amended). This sliding scale of fees reflects those in place in some jurisdictions but has also resulted in a high volume of enquiries about how the value of the security being perfected (or amended) should be calculated, particularly where the security for a transaction is shares with a nominal value or where there is a fixed and floating charge over a bank account with a fluctuating balance. ",
+        "level": 3
+    },
+    "83": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "SECURITY REGULATIONS ",
+        "level": 1
+    },
+    "84": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "8 ",
+        "level": 5
+    },
+    "85": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "33. In order to simplify the Security Registrar's fee structure, certain fees in Appendix 2 of the Current Regulations have been amended in the Proposed Security Regulations as follows: ",
+        "level": 3
+    },
+    "86": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "a. a flat fee of $\\cup { \\mathsf { S P 5 } } , 0 0 0$ has been applied to the filing of Financing Statements (Form 1)   \nb. a flat fee of $\\cup \\ S \\$ 2,500$ has been applied for the filing of Financing Statement Addendum (Form 2), to increase the value of the security being perfected; and   \nc. new fees imposed for the following Financing Statement Amendments (Form 4): i. to fully delete collateral - $\\cup \\ S \\$ 250$ ; and ii. to continue collateral - US\\$1,000. ",
+        "level": 4
+    },
+    "87": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Q6. Do you agree with the adoption of a fixed fee for the filing and amendment of financing statements? ",
+        "level": 3
+    },
+    "88": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Miscellaneous ",
+        "level": 2
+    },
+    "89": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "34. A number of miscellaneous enhancements have also been made, particularly to definitions. ",
+        "level": 3
+    },
+    "90": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Q7. Are there any other issues, not included in the Proposed Regulations the subject of this Consultation Paper, which warrant attention? If so, what are they, and why, and how, should they be addressed?? ",
+        "level": 3
+    },
+    "91": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Q8. Are there any other aspects of the Proposed Regulations which can be improved? ",
+        "level": 3
+    },
+    "92": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Legislative Proposal ",
+        "level": 2
+    },
+    "93": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "35. This legislative proposal contains the following: ",
+        "level": 3
+    },
+    "94": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(a) the Proposed Financial Collateral Regulations (at Annex A);   \n(b) the Proposed Security Regulations (at Annex B);   \n(c) the Current Regulations (at Annex C);   \n(d) a comparison of the Current Regulations and the Proposed Financial Collateral Regulations (at Annex D);   \n(e) a comparison of the Current Regulations and the Proposed Security Regulations (at Annex E); and   \n(f) a table of comments to provide your views and comments on the consultation paper (at Annex F). ",
+        "level": 4
+    },
+    "95": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "SECURITY REGULATIONS ",
+        "level": 1
+    },
+    "96": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "9 ",
+        "level": 5
+    }
+}

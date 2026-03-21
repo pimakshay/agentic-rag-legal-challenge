@@ -1,0 +1,590 @@
+{
+    "0": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "Dubai International Financial Centre ",
+        "level": 1
+    },
+    "1": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "CONSULTATION PAPER NO. 2 July 2016 ",
+        "level": 1
+    },
+    "2": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "PROPOSED ELECTRONIC TRANSACTIONS LAW DIFC LAW NO. 2 OF 2016 ",
+        "level": 1
+    },
+    "3": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Why are we issuing this paper? ",
+        "level": 2
+    },
+    "4": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "1. This Consultation Paper No. 2 of 2016 (Consultation Paper) seeks public comment on the proposal by the DIFC Authority (DIFCA) to issue formal legislation on the enforceability and validity of electronic records, electronic contracts and electronic signatures in the Dubai International Financial Centre (DIFC) via a new Electronic Transactions Law (the Law). ",
+        "level": 3
+    },
+    "5": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Who should read this paper? ",
+        "level": 2
+    },
+    "6": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2. The proposals in this Consultation Paper would be of interest to: ",
+        "level": 3
+    },
+    "7": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "(a) Companies currently operating in the DIFC or intending to operate in or from the DIFC; (b) Parties seeking to enter into commercial transactions with companies in the DIFC; and (c) Legal advisors advising on matters of contract law in the DIFC. ",
+        "level": 4
+    },
+    "8": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "How to provide comments ",
+        "level": 2
+    },
+    "9": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "3. All comments should be provided to the person specified below: ",
+        "level": 3
+    },
+    "10": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Jacques Visser   \nChief Legal Officer   \nLegal Affairs   \nDIFC Authority   \nLevel 14, The Gate, PO Box 74777   \nDubai, UAE   \nor e-mailed to: jacques.visser@difc.ae ",
+        "level": 4
+    },
+    "11": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "4. You may choose whether or not to identify the organisation that you represent in your comments. ",
+        "level": 3
+    },
+    "12": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "5. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "level": 3
+    },
+    "13": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "What happens next? ",
+        "level": 2
+    },
+    "14": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "6. DIFCA is releasing this Consultation Paper No. 2 of 2016 for public consultation. ",
+        "level": 3
+    },
+    "15": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "7. The deadline for providing comments on the proposals contained herein is 10 August 2016. ",
+        "level": 3
+    },
+    "16": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "8. Once we receive your comments, we will consider if any further refinements are required to the Law annexed to this Consultation Paper. Once DIFC considers the Law to be in a suitable form, it will be enacted as a new DIFC law. ",
+        "level": 3
+    },
+    "17": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "9. The Law is in draft form only. You should not act on it until the Law is formally enacted. We will issue a notice on our website when this happens. ",
+        "level": 3
+    },
+    "18": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Defined terms ",
+        "level": 2
+    },
+    "19": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "10. Defined terms are identified throughout this Consultation Paper by the capitalisation of the initial letter ",
+        "level": 3
+    },
+    "20": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "level": 1
+    },
+    "21": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2 ",
+        "level": 5
+    },
+    "22": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "CONSULTATION PAPER NO. 2 Electronic Transactions Law ",
+        "level": 5
+    },
+    "23": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "of a word or of each word in a phrase and are defined in (i) this Consultation Paper or (ii) the Law. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "level": 4
+    },
+    "24": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Background ",
+        "level": 2
+    },
+    "25": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "General ",
+        "level": 3
+    },
+    "26": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "11. Electronic dealings have changed the way business is done. Online contracting is relatively commonplace and businesses manage a vast quantity of electronic records. However, although businesses and consumers are adapting to electronic dealings, legal rules in many cases still stipulate that certain transactions or documents have to be in writing. ",
+        "level": 4
+    },
+    "27": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "12. Except in very limited circumstances, there is little advantage or benefit to insisting on paper copies when parties are comfortable dealing with electronic documentation and technology allows for accurate representation of original documents. Most legal systems already recognise that contracts can be formed informally and, in many cases, the use of technology can provide similar or greater certainty than dealing with paper documents and written signatures. ",
+        "level": 4
+    },
+    "28": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "13. In the DIFC, it is evident that certain transactions are conducted electronically even in the absence of specific legislation. Certain DIFC laws make express reference to electronic documentation (see below) and go some way to creating equivalence for electronic versions of paper documents in limited circumstances. ",
+        "level": 4
+    },
+    "29": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "14. Legislation governing the use of electronic alternatives to paper-based documents, records and signatures has been developed by international bodies such as the United Nations and implemented in many jurisdictions around the world. Such legislation provides a framework for parties to engage in electronic dealings with the certainty that transactions will be enforced and electronic documents will be recognised. ",
+        "level": 4
+    },
+    "30": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "15. DIFCA considers that the implementation of similar general legislation regulating electronic dealings in DIFC would establish certainty within the jurisdiction in relation to the ability of parties to use electronic documents, retain electronic records and rely on electronic signatures. ",
+        "level": 4
+    },
+    "31": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Existing DIFC laws relating to electronic dealings ",
+        "level": 3
+    },
+    "32": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "16. Existing DIFC rules of law that address electronic documentation or transactions include the following provisions: ",
+        "level": 4
+    },
+    "33": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "(a) The interpretative provisions of the Contract Law 2004 (DIFC Law No.6 of 2004) define “writing” as “[a]ny mode of communication that preserves a record of the information contained therein and is capable of being reproduced in tangible form, including electronic means”.   \n(b) The Companies Law 2009 (DIFC Law No. 2 of 2009) defines at Article 23 the permitted forms of records, including records that are “entered or recorded by a system of mechanical or electronic data processing or any other information storage device that is capable of reproducing any required information in intelligible written form within a reasonable time”.   \n(c) Article 160 of the Companies Law 2009 states that the Board of Directors of DIFCA may issue regulations that “permit or require the use of an electronic or computer-based system for the filing, delivery or depositing of, documents or information required under or governed by the Law or Regulations or other legislation administered by the Registrar, and any ancillary documents”. ",
+        "level": 5
+    },
+    "34": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "level": 1
+    },
+    "35": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "3 ",
+        "level": 5
+    },
+    "36": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(d) The interpretative provisions in the Companies Law 2009 Schedule 1 state that “an obligation to publish or cause to be published a particular document shall, unless expressly provided otherwise in the Law, include publishing or causing to be published in printed or electronic form”. ",
+        "level": 5
+    },
+    "37": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(e) The interpretative provisions in the Companies Law 2009 Schedule 1 also state: “References in this Law to a writing, filing, instrument or certificate include any mode of communication that preserves a record of the information contained therein and is capable of being reproduced in tangible form, including electronic means”. ",
+        "level": 5
+    },
+    "38": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(f) The interpretative provisions in the Data Protection Law 2007 (DIFC Law No.1 of 2007) contain equivalent clauses to those noted in items (d) and (e) above. ",
+        "level": 5
+    },
+    "39": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "International laws relating to electronic records, contracting and signatures ",
+        "level": 3
+    },
+    "40": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "17. In the drafting and implementation of the Electronic Transactions Law, the following jurisdictions were considered in terms of whether equivalent legislation has been enacted to formally recognise electronic records/signatures and the basis on which the relevant local laws were developed: ",
+        "level": 4
+    },
+    "41": {
+        "type": "table",
+        "page_idx": 3,
+        "text": "<table><tr><td rowspan=1 colspan=1>Jurisdiction</td><td rowspan=1 colspan=1>ETL equivalent legislation?</td><td rowspan=1 colspan=1>Basis of local law</td></tr><tr><td rowspan=1 colspan=1>Canada</td><td rowspan=1 colspan=1>Yes - various federal andprovincial legislation, e.g.Ontario Electronic CommerceAct, SO 2000 c 17</td><td rowspan=1 colspan=1>Provincial laws largely based on UniformElectronic Commerce Act, modelled onUNCITRAL Model Law</td></tr><tr><td rowspan=1 colspan=1>Singapore</td><td rowspan=1 colspan=1>Yes - Electronic TransactionsAct</td><td rowspan=1 colspan=1>UNCITRAL Model Law</td></tr><tr><td rowspan=1 colspan=1>UAE</td><td rowspan=1 colspan=1>Yes - Federal Law No. 1 of2006 concerning electronictransactions and commerce</td><td rowspan=1 colspan=1>UNCITRAL Model Law</td></tr><tr><td rowspan=1 colspan=1>UK</td><td rowspan=1 colspan=1>Yes - ElectronicCommunications Act 2000and Electronic SignaturesRegulations 2002</td><td rowspan=1 colspan=1>EU Electronic Signatures Directive (99/93/EC)</td></tr><tr><td rowspan=1 colspan=1>USA</td><td rowspan=1 colspan=1>Yes - Electronic Signatures inGlobal and NationalCommerce Act (federal) andthe Uniform ElectronicTransactions Act (most states)</td><td rowspan=1 colspan=1>Drafted by the US National Conference ofCommissioners on Uniform State Laws.</td></tr></table>",
+        "level": 5
+    },
+    "42": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "level": 1
+    },
+    "43": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "4 ",
+        "level": 5
+    },
+    "44": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Rationale for Electronic Transactions Law ",
+        "level": 2
+    },
+    "45": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "18. DIFCA wishes to enact legislation to clarify for all purposes in the DIFC that electronic signatures are enforceable, that electronic records have equivalent effect to hard copies and that references to “writing” include electronic means. ",
+        "level": 3
+    },
+    "46": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "19. While DIFCA considers that there would be value in creating certainty around the validity and evidentiary weight across all types of electronic documents and records, at this stage it does not wish to have a role in terms of regulating the use of secured technology in electronic communications, records, commerce or signatures (as found in other legislation). DIFCA’s intention in creating the Law is to provide legislation that: ",
+        "level": 3
+    },
+    "47": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) establishes beyond doubt as a matter of DIFC statutory law that an agreement made electronically is as valid as a contract signed with wet ink signatures; and   \n(b) empowers Centre Bodies to prescribe the terms on which they are prepared to accept electronic submissions in place of hard copies and to treat them as having been signed by the person submitting. ",
+        "level": 4
+    },
+    "48": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "20. Accordingly, the Law aims to remove any actual or anticipated legal obstacles in relation to electronic dealings within DIFC (unless otherwise prescribed by a DIFC agency) by providing for equivalent treatment for users of paper-based documentation and users of electronic information. It is also intended to be a framework without setting out all of the rules or covering every aspect of the use of electronic trading or commerce. ",
+        "level": 3
+    },
+    "49": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Legislative proposal ",
+        "level": 2
+    },
+    "50": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "21. The legislative proposal is attached at Annex A. Below is an explanation of key provisions of the Law: ",
+        "level": 3
+    },
+    "51": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Exclusions (Part 2) ",
+        "level": 3
+    },
+    "52": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "22. Transactions that are subject to specific rules or requirements will be listed in the Schedule as exclusions from the Law; the balance of dealings in the DIFC will be subject to the Law. The proposed list of exclusions set out in Schedule 2 is as follows: ",
+        "level": 4
+    },
+    "53": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) The creation, performance or enforcement of a power of attorney.   \n(b) The creation, performance or enforcement of a declaration of a trust (with the exception of implied, constructive and resulting trusts) and any provision in the Trust Law 2005 (DIFC Law No. 11 of 2005, as amended) requiring Information to be written or in writing.   \n(c) The creation and execution of wills, codicils or testamentary trusts.   \n(d) The creation, execution and use of affidavits or affirmations as evidence in court proceedings pursuant to rule 29 of the Rules of the Dubai International Financial Centre Courts 2014.   \n(e) Transactions involving the sale, purchase, lease (for a term of more than 10 years) and other disposition of immovable property and the registration of other rights relating to immovable property. ",
+        "level": 5
+    },
+    "54": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Question 1: Do you consider that the list of excluded matters is appropriate and/or are there any additional transactions, dealings or arrangements that might take place in DIFC which you would consider should not be subject to the Law? ",
+        "level": 4
+    },
+    "55": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "level": 1
+    },
+    "56": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "5 ",
+        "level": 5
+    },
+    "57": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "Electronic records (Part 3) ",
+        "level": 3
+    },
+    "58": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "23. Consistent with recognised and established international approaches in markets such as the US, Canada, UK and Singapore (as well as UAE federal law), the Law adopts a functional equivalent approach to electronic records based on an analysis of the purpose and function of paper-based documentary requirements. In developing the Law, consideration has been given as to whether such purposes and functions could be fulfilled through technological means. ",
+        "level": 4
+    },
+    "59": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "24. In particular, it is noted that paper documents fulfil the following key functions: ",
+        "level": 4
+    },
+    "60": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "a. providing a record of a transaction or other information;   \nb. ensuring integrity of the information contained therein by setting out the information in an unaltered form;   \nc. permitting reproduction of the information, whether for the purpose of sharing the record of agreed terms between two contracting parties or presenting evidence of the information contained in the document; and   \nd. allowing for authentication by means of a signature, seal or stamp. ",
+        "level": 5
+    },
+    "61": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "25. As noted in the guide to the UNCITRAL Model Law on Electronic Commerce, for “all of the abovementioned functions of paper, electronic records can provide the same level of security as paper and, in most cases, a much higher degree of reliability and speed, provided that a number of technical and legal requirements are met”. ",
+        "level": 4
+    },
+    "62": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "26. Accordingly, the Law clarifies at Article 10 that information shall not be denied legal effect solely due to it being in the form of an Electronic Record. It is also noted that where any provision set out in any other DIFC law requires information to be in writing or for any information to be delivered or records to be retained, the use, delivery or retention of an Electronic Record will satisfy those requirements (Articles 11 to 13 inclusive). ",
+        "level": 4
+    },
+    "63": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "In relation to any provision set out in any other DIFC law requiring information to be written or in writing, the Law states that such requirement is satisfied if “it preserves a record of the Information contained therein and is capable of being reproduced in tangible form” (Article 11). A similar provision is included as a condition for the retention of electronic records (Article 13(a)). This mirrors the language used in existing DIFC laws (including the Contract Law 2004 and the Companies Law 2009). DIFCA notes that the UNCITRAL model laws and the laws of various jurisdictions (including UAE Federal Law 1 of 2006 on Electronic Transactions and Commerce) provide an alternative formulation by referring to information that is “accessible so as to be usable for subsequent reference”. While acknowledging that a requirement to reduce certain information to “writing” may have a specific function in the context of certain laws or transactions – for example, an evidentiary function in the context of tax law or a warning function in the context of civil law – DIFCA is not seeking to adopt an overly comprehensive or prescriptive approach to these functions. In common with the approach outlined in the guide to enactment of the UNCITRAL Model Law on Electronic Commerce, DIFCA wishes to use the Law to focus upon the basic notion of information being reproduced and read. DIFCA considers that such notion is expressed in objective terms in Article 11 with the requirement that a record of the Information contained therein must be preserved and that the Information must be capable of being reproduced in tangible form. The use of the phrase “a record of the Information contained therein” is considered to imply that information in the form of computer data should be accessible (i.e. readable and interpretable) and that the Electronic Record must be an accurate reflection of the corresponding Information. The phrase “capable of being reproduced in tangible form” is intended to clarify that a copy of the electronic information must be capable of being produced in a real and substantial form. Similar to the UNCITRAL analysis, DIFCA considers that the concepts of “durability” or “non-alterability” could have established standards that were too harsh and the concepts of “readability” or “intelligibility” could be considered too subjective. ",
+        "level": 4
+    },
+    "64": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "level": 1
+    },
+    "65": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "6 ",
+        "level": 5
+    },
+    "66": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Accordingly, DIFCA considers that the drafting in the Law is substantially equivalent to the corresponding provisions of the UNCITRAL model law (and its derivatives) and there is no justification for departing from the construction used in existing DIFC laws. ",
+        "level": 4
+    },
+    "67": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Question 2: Do you agree with the rationale outlined in paragraph 27 above concerning the satisfaction of a requirement for information to be “in writing” if the electronic form preserves a record of the relevant information and is capable of being reproduced in tangible form? Alternatively, do you consider there would be merit in maintaining the same language used in the UNCITRAL model laws and derivative legislation (including UAE federal law) which instead refers to such information being “accessible so as to be usable for subsequent reference”, notwithstanding that this would be inconsistent with existing DIFC laws (including those set out in paragraphs 16(a), (e) and (f) of this Consultation Paper)? ",
+        "level": 4
+    },
+    "68": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "28. Article 14 confirms that evidence of a record may not be excluded solely because it is in electronic form in any DIFC court proceedings. This has been considered in the context of the relevant Rules of the DIFC Courts. Part 29 of the Rules of the DIFC Courts, concerning evidence, does not contain specific provisions concerning documentary evidence in electronic form. Part 28, which deals with production of documents (i.e. disclosure), provides as follows: ",
+        "level": 4
+    },
+    "69": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "“The definition of a document extends to electronic documents, including email and other electronic communications, word processed documents and databases. In addition to documents that are readily accessible from computer systems and other electronic devices and media, the definition covers those documents that are stored on servers and back-up systems and electronic documents that have been ‘deleted’. It also extends to additional information stored and associated with electronic documents known as metadata.” ",
+        "level": 5
+    },
+    "70": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Question 3: Do you agree that the proposed position on evidentiary weight of electronic records is consistent with current practices in the DIFC courts and equivalent international commercial centres? ",
+        "level": 4
+    },
+    "71": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Electronic contracts (Part 4) ",
+        "level": 3
+    },
+    "72": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "29. Article 15 contains the fundamental principle that the medium used to form a contract should not affect its legal significance. This provision eliminates the medium as a reason to deny effect or enforceability to a contract and Article 16 confirms that contractual offer and acceptance can be expressed via electronic communications. DIFCA notes that the current position at DIFC law already states that there is no requirement for a contract to be concluded in or evidenced by writing1. ",
+        "level": 4
+    },
+    "73": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "30. As per the UNCITRAL Model Law on Electronic Commerce and other international legislation, this provision confirms that contracts can be formed by machines functioning as electronic agents for parties to a transaction. Article 19 of the Law negates any potential claim by a party that there is an inherent lack of human intent in relation to contracts formed by automated means. DIFCA considers that the requisite intention flows from the programming and use of a machine involved in contracting. ",
+        "level": 4
+    },
+    "74": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "31. Article 20 provides default rules regarding when and from where an electronic record is sent and when and where such electronic record is received. These rules may be varied by agreement between the parties. This Article does not address the efficacy of the record that is sent or received, which is determined by the application of other laws. ",
+        "level": 4
+    },
+    "75": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "32. Article 20 provides default rules regarding when and from where an electronic record is sent and when and where such electronic record is received. These rules may be varied by agreement between the parties. This Article does not address the efficacy of the record that is sent or received, which is determined by the application of other laws. ",
+        "level": 4
+    },
+    "76": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "1. DIFC Contract Law 2004, Article 9. ",
+        "level": 5
+    },
+    "77": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "level": 1
+    },
+    "78": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "7 ",
+        "level": 5
+    },
+    "79": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Question 4: Do you consider that any further provisions are required in the Law to clarify the effectiveness of electronic contracts and/or any aspect of the process of concluding a contract by electronic means? ",
+        "level": 4
+    },
+    "80": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Electronic signatures (Part 5) ",
+        "level": 3
+    },
+    "81": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "33. The Law is non-specific on the format of electronic signatures and the definition of “Electronic Signature” is intended to be widely drafted to encompass a range of indications of a party’s intentions expressed via electronic methods. If a signature is required by any provision set out in any other DIFC law, it can be satisfied by way of an appropriate electronic signature (Article 21). Article 22 provides more specific detail as to how an electronic signature would be deemed to identify a person and indicate their intention. ",
+        "level": 4
+    },
+    "82": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "34. Article 23 is intended to ensure that an electronic signature is not attributed to a machine, but rather the person operating or programming the machine (i.e. the person from whose action the electronic signature results). A person’s actions include actions taken by human agents of the person, as well as actions taken by an electronic agent or tool of the person. By way of example, Article 23(1) is intended to attribute an electronic signature to a person in any of the following circumstances: ",
+        "level": 4
+    },
+    "83": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "a. if a person types his name into an online order form;   \nb. if a person’s employee, pursuant to authority, types the person’s name into an online order form;   \nc. if the person programs a computer to order goods upon receipt of certain information and to issue a purchase order including the person’s name, or other identifying information, as part of the electronic ordering process. ",
+        "level": 5
+    },
+    "84": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "35. Once it is established that an electronic signature is attributable to a particular person, the effect of a record or signature must be determined in light of the context and surrounding circumstances, including any agreement between the parties and other legal requirements. Article 23(2) addresses the effect of the record or signature once attributed to a person. ",
+        "level": 4
+    },
+    "85": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "36. As with electronic records and contracts, this Part also includes an express statement to avoid the non-recognition of electronic signatures solely on the ground of the media in which the signature is presented (Article 24). As per the use of electronic records (see paragraph 28 of this Consultation Paper), this has been considered in light of existing Rules of the DIFC Courts and is considered to be consistent. DIFC Court Rule 6.3 and 6.4 provide as follows: ",
+        "level": 4
+    },
+    "86": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "“6.3 Where these Rules require a document to be signed, that requirement shall be satisfied if the signature is printed by computer or other mechanical means. ",
+        "level": 5
+    },
+    "87": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "6.4 Where a replica signature is printed electronically or by other mechanical means on any document, the name of the person whose signature is printed must also be printed so that the person may be identified.” ",
+        "level": 5
+    },
+    "88": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "37. As noted in paragraph 19 above, the infrastructure for digital signature providers and other trust based identification mechanisms is not intended to be addressed in DIFC law at this time. ",
+        "level": 4
+    },
+    "89": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "level": 1
+    },
+    "90": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "8 ",
+        "level": 5
+    },
+    "91": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Question 5: The Law does not differentiate between different standards of secure and nonsecure electronic signatures. Most international legislation that includes such differentiation tends to attribute a higher evidential weight to electronic signatures that apply specified security procedures implemented by designated third party providers. DIFCA does not wish to have a role in terms of regulating the use of secured technology in electronic transactions and has not incorporated this distinction into the Law. Do you consider there is any fundamental necessity for the Law to differentiate secure and non-secure electronic signatures? ",
+        "level": 4
+    },
+    "92": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Penalties and Sanctions ",
+        "level": 2
+    },
+    "93": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "38. The Law does not incorporate penalties or sanctions as such. It is intended to be a framework to allow for the recognition of electronic trading within the context of existing laws. To the extent that there are sanctions relating to electronic documents or signatures in international legislation, these remedies are typically focused on breaches relating to the misuse of authorisation certificates in the context of certified digital signatures. As noted above, DIFCA does not wish to regulate on this point. ",
+        "level": 3
+    },
+    "94": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "39. In relation to more general issues or offences that may arise in the context of electronic transactions, DIFCA considers that existing DIFC laws (for example, the Data Protection Law 2007 in the context of privacy offences and the Contract Law 2004 in relation to contract breaches) will continue to provide appropriate remedies. DIFCA also notes that the UAE criminal law addresses cybercrime issues that may also be relevant to general electronic transactions and dealings. ",
+        "level": 3
+    },
+    "95": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Question 6: Do you consider that the Law should include any provisions relating to sanctions or remedies that are specific to electronic records, contracts or signatures? If so, in what circumstances should the sanctions/remedies apply? ",
+        "level": 4
+    },
+    "96": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "level": 1
+    },
+    "97": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "9 ",
+        "level": 5
+    }
+}

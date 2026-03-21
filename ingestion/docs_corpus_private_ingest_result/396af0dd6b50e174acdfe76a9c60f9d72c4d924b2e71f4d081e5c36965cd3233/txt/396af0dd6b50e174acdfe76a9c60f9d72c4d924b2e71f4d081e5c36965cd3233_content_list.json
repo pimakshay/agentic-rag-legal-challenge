@@ -1,0 +1,620 @@
+[
+    {
+        "type": "text",
+        "text": "DFSA Translation Following publication of the Law on $2 7 ^ { \\mathrm { { t h } } }$ March, 2004 ",
+        "text_level": 1,
+        "bbox": [
+            356,
+            57,
+            726,
+            115
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Federal Law No.8 of 2004 ",
+        "text_level": 1,
+        "bbox": [
+            378,
+            187,
+            700,
+            210
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Regarding The Financial Free Zones ",
+        "text_level": 1,
+        "bbox": [
+            305,
+            226,
+            771,
+            249
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We, Zayed Bin Sultan Al Nahyan, President of the United Arab Emirates, ",
+        "bbox": [
+            193,
+            269,
+            848,
+            286
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "after taking cognizance of the Constitution, and ",
+        "bbox": [
+            194,
+            301,
+            620,
+            318
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Federal Law No. 1 of 1972 regarding the jurisdiction of the Ministries and the powers of Ministers, and the laws amending it; and ",
+        "bbox": [
+            198,
+            334,
+            880,
+            368
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Federal Law No. 10 of 1980 Regarding The Central Bank and Monetary System and the Organization of Banking, and laws amending it; and ",
+        "bbox": [
+            196,
+            383,
+            882,
+            418
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Law No. 8 of 1984 regarding Commercial Companies, and laws amending it; and ",
+        "bbox": [
+            196,
+            433,
+            882,
+            466
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Law No. 9 of 1984 Regarding Insurance Companies and Agents, and laws amending it; and ",
+        "bbox": [
+            198,
+            482,
+            882,
+            515
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Penal Code promulgated by Law No. 3 of 1987; and ",
+        "bbox": [
+            198,
+            530,
+            705,
+            548
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Criminal Procedure Code, promulgated by Law No. 35 of 1992; and ",
+        "bbox": [
+            193,
+            564,
+            843,
+            581
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Federal Law No. 4 of 2000 Regarding the Emirates Securities and Commodities Authority and Market; and ",
+        "bbox": [
+            198,
+            596,
+            882,
+            630
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Federal Law No. 4 of 2002 Regarding Criminalisation of Money Laundering; and ",
+        "bbox": [
+            198,
+            646,
+            882,
+            679
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pursuant to the proposal of the Minister of Economy and Commerce and the Minister of Finance and Industry; and ",
+        "bbox": [
+            198,
+            695,
+            880,
+            729
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The approval of the Cabinet, the Federal National Council and the ratification of the Supreme Council of the Federation, ",
+        "bbox": [
+            198,
+            744,
+            882,
+            777
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hereby enact the following law: ",
+        "bbox": [
+            198,
+            793,
+            500,
+            811
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The State: The United Arab Emirates ",
+        "bbox": [
+            198,
+            172,
+            534,
+            188
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Financial Free Zone: The Free Zone established in any of the Emirates of the State in which financial activities are carried on. ",
+        "bbox": [
+            196,
+            204,
+            880,
+            237
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Financial Activities: Financial and banking activities and services, insurance and re-insurance, financial markets and supporting activities licensed to be carried out in the Financial Free Zone. ",
+        "bbox": [
+            196,
+            254,
+            880,
+            302
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Supporting Activities: Financial and cash brokerage services and advice. The provision of goods and services to Companies and Establishments and individuals in the Financial Free Zones. ",
+        "bbox": [
+            196,
+            319,
+            880,
+            368
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Financial Banking Activity: Financial banking business and the business of banks. ",
+        "bbox": [
+            198,
+            384,
+            882,
+            418
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Companies and Establishments: The companies, branches of companies and establishments formed or licensed to operate in the Financial Free Zone. ",
+        "bbox": [
+            196,
+            433,
+            880,
+            483
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE 2 ",
+        "text_level": 1,
+        "bbox": [
+            485,
+            498,
+            593,
+            517
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A Financial Free Zone shall be established by a Federal Decree. It shall have a body corporate and shall be represented by the President of its board. It and no one else shall be responsible for the obligations arising out of the conduct of its activities. The Cabinet will prescribe its area and location. ",
+        "bbox": [
+            196,
+            532,
+            880,
+            614
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE 3 ",
+        "text_level": 1,
+        "bbox": [
+            485,
+            614,
+            593,
+            631
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1) The Financial Free Zones and all the operations conducted therein shall be subject to the provisions of Federal Law No. 4 of 2002 Regarding Criminalisation Of Money Laundering. ",
+        "bbox": [
+            196,
+            647,
+            880,
+            695
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2) These Zones and Financial Activities shall also be subject to all Federal laws, with the exception of Federal civil and commercial laws. ",
+        "bbox": [
+            196,
+            712,
+            882,
+            745
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE 4 ",
+        "text_level": 1,
+        "bbox": [
+            485,
+            761,
+            591,
+            780
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Financial Free Zones shall abide by the following: ",
+        "bbox": [
+            196,
+            794,
+            680,
+            811
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1) With regard to financial banking activities: ",
+        "bbox": [
+            196,
+            826,
+            610,
+            844
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) Licensing shall be limited to branches of Companies and Establishments, joint companies and wholly owned subsidiaries of any of them provided that they enjoy a strong financial position and systems and controls, and are managed by persons with expertise and knowledge of such activity. ",
+        "bbox": [
+            236,
+            859,
+            880,
+            942
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE 1 Definitions ",
+        "bbox": [
+            484,
+            123,
+            593,
+            156
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(b) Companies and Establishments licensed in the Financial Free Zones shall not deal in deposit taking from the State’s markets and shall not deal in the UAE Dirham. ",
+        "bbox": [
+            236,
+            122,
+            882,
+            171
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(c) The licensing standards of Companies and Establishments shall not be less than those applicable in the State. ",
+        "bbox": [
+            235,
+            187,
+            882,
+            220
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2) Financial brokers licensed to trade on any stock exchange in the State shall not be licensed to carry their activities in the Financial Free Zones except after obtaining the approval of the Emirates Stocks and Commodities Authority. ",
+        "bbox": [
+            196,
+            237,
+            882,
+            302
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3) Companies listed on any stock exchange in the State shall not be listed without the prior approval of the Emirates Stocks and Commodities Authority. ",
+        "bbox": [
+            196,
+            319,
+            880,
+            369
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4) The carrying out of insurance in the State shall be restricted to reinsurance. ",
+        "bbox": [
+            194,
+            384,
+            882,
+            418
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5) The physical existence of Companies and Establishments licensed to do business through the Free Zones shall be within the boundaries of these Zones and they may be licensed to operate outside the State. ",
+        "bbox": [
+            196,
+            433,
+            882,
+            483
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE 5 ",
+        "text_level": 1,
+        "bbox": [
+            485,
+            500,
+            593,
+            517
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Financial Free Zones shall not do anything which may lead to contravention of any international agreements to which the State is or shall be a party. ",
+        "bbox": [
+            196,
+            532,
+            882,
+            583
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE 6 ",
+        "text_level": 1,
+        "bbox": [
+            485,
+            598,
+            593,
+            615
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Financial Free Zones may enter into memoranda of understanding and co-operation with similar counterparties provided that they do not conflict with the treaties to which the State is a party. ",
+        "bbox": [
+            196,
+            630,
+            882,
+            680
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE 7 ",
+        "text_level": 1,
+        "bbox": [
+            485,
+            695,
+            591,
+            713
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1) The Financial Free Zone shall publish bi-annual reports of its activities and compliance with the provisions of this Law. ",
+        "bbox": [
+            193,
+            729,
+            882,
+            761
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2) Competent authorities in the Federal Government may conduct inspections of a Financial Free Zone to ascertain its compliance with the provisions of this Law and their findings shall be submitted to the Cabinet to take what action it deems appropriate. ",
+        "bbox": [
+            196,
+            777,
+            880,
+            843
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3) Subject to the provisions of Article 3, the concerned Emirate may, within the limits of the goals of establishing the Financial Free Zone, issue legislation necessary for the conduct of its activities. ",
+        "bbox": [
+            196,
+            859,
+            880,
+            909
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            492,
+            59,
+            504,
+            72
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE 8 ",
+        "text_level": 1,
+        "bbox": [
+            485,
+            138,
+            593,
+            156
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Financial Free Zone may by a resolution of the Cabinet, and for a period not exceeding four years from its establishment, license Companies and Establishments to conduct their activities, outside the administrative and geographical boundaries of these zones in the State. ",
+        "bbox": [
+            196,
+            172,
+            882,
+            237
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE 9 ",
+        "text_level": 1,
+        "bbox": [
+            485,
+            254,
+            593,
+            270
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Cabinet shall issue the regulations of this Law. ",
+        "bbox": [
+            196,
+            286,
+            653,
+            302
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE 10 ",
+        "text_level": 1,
+        "bbox": [
+            478,
+            318,
+            598,
+            337
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law shall be published in the Official Gazette and shall come into force from the date of its publication. ",
+        "bbox": [
+            193,
+            351,
+            880,
+            384
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Zayed Bin Sultan Al Nahyan President of the United Arab Emirates ",
+        "text_level": 1,
+        "bbox": [
+            196,
+            401,
+            563,
+            434
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Issued at the Presidential Palace, Abu Dhabi Date: $2 3 ^ { \\mathsf { r d } }$ Muharram, 1425 Hijri Corresponding to: 14th March, 2004 (Gregorian) ",
+        "bbox": [
+            196,
+            450,
+            657,
+            500
+        ],
+        "page_idx": 3
+    }
+]

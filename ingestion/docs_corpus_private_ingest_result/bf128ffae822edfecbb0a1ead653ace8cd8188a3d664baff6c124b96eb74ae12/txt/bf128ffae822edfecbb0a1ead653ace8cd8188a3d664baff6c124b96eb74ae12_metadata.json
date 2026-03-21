@@ -1,0 +1,4996 @@
+{
+    "doc_type": "law",
+    "official_title": "Law of Security",
+    "official_title_normalized": "law of security",
+    "short_title": "Law of Security 2024",
+    "short_title_normalized": "law of security 2024",
+    "law_number": "4",
+    "law_year": "2024",
+    "official_citation": "DIFC Law No. 4 of 2024",
+    "official_citation_normalized": "difc law no 4 of 2024",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "July 2025",
+    "amending_laws": [],
+    "administering_authority": "Registrar",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 59,
+    "page_count": 59,
+    "alias_keys": [
+        "Law of Security",
+        "Law of Security 2024",
+        "DIFC Law No. 4 of 2024"
+    ],
+    "article_index": {
+        "Article 1": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 49,
+            "page_end": 49,
+            "block_start": 651,
+            "block_end": 655
+        },
+        "Article 13": {
+            "heading": "Creation of a Security Right and requirements for a Security Agreement",
+            "article_number": "13",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 103,
+            "block_end": 105
+        },
+        "Article 20": {
+            "heading": "Contractual limitations on the creation of Security Rights in Receivables",
+            "article_number": "20",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 124,
+            "block_end": 130
+        },
+        "Article 26": {
+            "heading": "Primary methods for achieving third-party effectiveness",
+            "article_number": "26",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 146,
+            "block_end": 147
+        },
+        "Article 33": {
+            "heading": "Rights to payment of Money credited to a Bank Account",
+            "article_number": "33",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 167,
+            "block_end": 169
+        },
+        "Article 38": {
+            "heading": "Competing Security Rights created by the same Grantor",
+            "article_number": "38",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 188,
+            "block_end": 190
+        },
+        "Article 55": {
+            "heading": "Negotiable Instruments",
+            "article_number": "55",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 252,
+            "block_end": 254
+        },
+        "Article 62": {
+            "heading": "Sources of mutual rights and obligations of the parties",
+            "article_number": "62",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 280,
+            "block_end": 281
+        },
+        "Article 67": {
+            "heading": "Representations of the Grantor of a Security Right in a Receivable",
+            "article_number": "67",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 297,
+            "block_end": 300
+        },
+        "Article 71": {
+            "heading": "Protection of the Debtor of the Receivable",
+            "article_number": "71",
+            "page_start": 21,
+            "page_end": 22,
+            "block_start": 312,
+            "block_end": 316
+        },
+        "Article 78": {
+            "heading": "Rights as against the obligor under a Negotiable Instrument",
+            "article_number": "78",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 347,
+            "block_end": 349
+        },
+        "Article 79": {
+            "heading": "Rights as against the Bank",
+            "article_number": "79",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 350,
+            "block_end": 354
+        },
+        "Article 80": {
+            "heading": "Rights as against the issuer of a Negotiable Document",
+            "article_number": "80",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 355,
+            "block_end": 357
+        },
+        "Article 83": {
+            "heading": "Post-Default rights",
+            "article_number": "83",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 371,
+            "block_end": 373
+        },
+        "Article 93": {
+            "heading": "Collection of payment",
+            "article_number": "93",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 427,
+            "block_end": 432
+        },
+        "Article 95": {
+            "heading": "Application to Real Property within the jurisdiction of the DIFC",
+            "article_number": "95",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 437,
+            "block_end": 438
+        },
+        "Article 104": {
+            "heading": "Financial Collateral",
+            "article_number": "104",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 460,
+            "block_end": 464
+        },
+        "Article 111": {
+            "heading": "Mutual rights and obligations of the Grantor and the Secured Creditor",
+            "article_number": "111",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 504,
+            "block_end": 505
+        },
+        "Article 123": {
+            "heading": "Rights and obligations between third-party obligors and Secured Creditors",
+            "article_number": "123",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 541,
+            "block_end": 543
+        },
+        "Article 130": {
+            "heading": "Appointment of the Registrar",
+            "article_number": "130",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 574,
+            "block_end": 575
+        },
+        "Article 132": {
+            "heading": "Security Registry",
+            "article_number": "132",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 588,
+            "block_end": 589
+        },
+        "Article 141": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 46,
+            "page_end": 49,
+            "block_start": 623,
+            "block_end": 650
+        },
+        "Article 2": {
+            "heading": "References to Legislation",
+            "article_number": "2",
+            "page_start": 49,
+            "page_end": 50,
+            "block_start": 656,
+            "block_end": 660
+        },
+        "Article 3": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 50,
+            "page_end": 59,
+            "block_start": 661,
+            "block_end": 674
+        },
+        "Article 3(1)": {
+            "heading": "Application of the Law",
+            "article_number": "3",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 74,
+            "block_end": 74
+        },
+        "Article 4": {
+            "heading": "Purpose of this Law",
+            "article_number": "4",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 75,
+            "block_end": 76
+        },
+        "Article 5": {
+            "heading": "Dates of enactment, commencement and transition",
+            "article_number": "5",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 77,
+            "block_end": 81
+        },
+        "Article 5(1)(a)": {
+            "heading": "Dates of enactment, commencement and transition",
+            "article_number": "5",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 79,
+            "block_end": 80
+        },
+        "Article 5(1)": {
+            "heading": "Dates of enactment, commencement and transition",
+            "article_number": "5",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 78,
+            "block_end": 80
+        },
+        "Article 5(2)": {
+            "heading": "Dates of enactment, commencement and transition",
+            "article_number": "5",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 81,
+            "block_end": 81
+        },
+        "Article 6": {
+            "heading": "Repeal of the 2005 Law and Financial Collateral Regulations 2019 and continuation of the Securities Regulations 2019",
+            "article_number": "6",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 82,
+            "block_end": 83
+        },
+        "Article 6(1)": {
+            "heading": "Repeal of the 2005 Law and Financial Collateral Regulations 2019 and continuation of the Securities Regulations 2019",
+            "article_number": "6",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 83,
+            "block_end": 83
+        },
+        "Article 7": {
+            "heading": "Interpretation",
+            "article_number": "7",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 84,
+            "block_end": 86
+        },
+        "Article 8": {
+            "heading": "Administration of the Law",
+            "article_number": "8",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 87,
+            "block_end": 90
+        },
+        "Article 9": {
+            "heading": "Scope of application",
+            "article_number": "9",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 91,
+            "block_end": 92
+        },
+        "Article 9(1)": {
+            "heading": "Scope of application",
+            "article_number": "9",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 92,
+            "block_end": 92
+        },
+        "Article 10": {
+            "heading": "Party autonomy",
+            "article_number": "10",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 93,
+            "block_end": 94
+        },
+        "Article 10(1)": {
+            "heading": "Party autonomy",
+            "article_number": "10",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 94,
+            "block_end": 94
+        },
+        "Article 11": {
+            "heading": "General standards of conduct",
+            "article_number": "11",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 95,
+            "block_end": 96
+        },
+        "Article 12": {
+            "heading": "International origin and general principles",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 97,
+            "block_end": 102
+        },
+        "Article 12(1)": {
+            "heading": "International origin and general principles",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 98,
+            "block_end": 102
+        },
+        "Article 13(1)": {
+            "heading": "Creation of a Security Right and requirements for a Security Agreement",
+            "article_number": "13",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 104,
+            "block_end": 104
+        },
+        "Article 13(4)": {
+            "heading": "Creation of a Security Right and requirements for a Security Agreement",
+            "article_number": "13",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 105,
+            "block_end": 105
+        },
+        "Article 14": {
+            "heading": "Obligations that may be secured",
+            "article_number": "14",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 106,
+            "block_end": 107
+        },
+        "Article 15": {
+            "heading": "Assets that may be encumbered",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 108,
+            "block_end": 110
+        },
+        "Article 16": {
+            "heading": "Description of Encumbered Assets and Secured Obligations",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 111,
+            "block_end": 112
+        },
+        "Article 16(1)": {
+            "heading": "Description of Encumbered Assets and Secured Obligations",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 112,
+            "block_end": 112
+        },
+        "Article 17": {
+            "heading": "Rights to Proceeds and commingled Money, Digital Assets or Financial Collateral",
+            "article_number": "17",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 113,
+            "block_end": 118
+        },
+        "Article 17(1)": {
+            "heading": "Rights to Proceeds and commingled Money, Digital Assets or Financial Collateral",
+            "article_number": "17",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 114,
+            "block_end": 116
+        },
+        "Article 17(2)(a)": {
+            "heading": "Rights to Proceeds and commingled Money, Digital Assets or Financial Collateral",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 118,
+            "block_end": 118
+        },
+        "Article 17(2)": {
+            "heading": "Rights to Proceeds and commingled Money, Digital Assets or Financial Collateral",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 117,
+            "block_end": 118
+        },
+        "Article 18": {
+            "heading": "Tangible Assets commingled in a Mass or transformed into a Product",
+            "article_number": "18",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 119,
+            "block_end": 120
+        },
+        "Article 18(1)": {
+            "heading": "Tangible Assets commingled in a Mass or transformed into a Product",
+            "article_number": "18",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 120,
+            "block_end": 120
+        },
+        "Article 19": {
+            "heading": "Extinguishment of Security Rights",
+            "article_number": "19",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 121,
+            "block_end": 123
+        },
+        "Article 20(1)": {
+            "heading": "Contractual limitations on the creation of Security Rights in Receivables",
+            "article_number": "20",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 125,
+            "block_end": 125
+        },
+        "Article 20(3)(a)": {
+            "heading": "Contractual limitations on the creation of Security Rights in Receivables",
+            "article_number": "20",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 127,
+            "block_end": 129
+        },
+        "Article 20(3)(d)": {
+            "heading": "Contractual limitations on the creation of Security Rights in Receivables",
+            "article_number": "20",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 130,
+            "block_end": 130
+        },
+        "Article 20(3)": {
+            "heading": "Contractual limitations on the creation of Security Rights in Receivables",
+            "article_number": "20",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 126,
+            "block_end": 130
+        },
+        "Article 21": {
+            "heading": "Personal or property rights securing or supporting payment or other performance of encumbered Receivables or other Intangible Assets, or Negotiable Instruments",
+            "article_number": "21",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 131,
+            "block_end": 134
+        },
+        "Article 21(1)": {
+            "heading": "Personal or property rights securing or supporting payment or other performance of encumbered Receivables or other Intangible Assets, or Negotiable Instruments",
+            "article_number": "21",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 132,
+            "block_end": 132
+        },
+        "Article 21(2)": {
+            "heading": "Personal or property rights securing or supporting payment or other performance of encumbered Receivables or other Intangible Assets, or Negotiable Instruments",
+            "article_number": "21",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 133,
+            "block_end": 133
+        },
+        "Article 21(3)": {
+            "heading": "Personal or property rights securing or supporting payment or other performance of encumbered Receivables or other Intangible Assets, or Negotiable Instruments",
+            "article_number": "21",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 134,
+            "block_end": 134
+        },
+        "Article 22": {
+            "heading": "Right to receive the proceeds under an Independent Undertaking",
+            "article_number": "22",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 135,
+            "block_end": 136
+        },
+        "Article 22(1)": {
+            "heading": "Right to receive the proceeds under an Independent Undertaking",
+            "article_number": "22",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 136,
+            "block_end": 136
+        },
+        "Article 23": {
+            "heading": "Rights to payment of Money credited to a Bank Account",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 137,
+            "block_end": 138
+        },
+        "Article 24": {
+            "heading": "Negotiable Documents and Tangible Assets covered by Negotiable Documents",
+            "article_number": "24",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 139,
+            "block_end": 140
+        },
+        "Article 25": {
+            "heading": "Tangible Assets with respect to which Intellectual Property is used",
+            "article_number": "25",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 141,
+            "block_end": 145
+        },
+        "Article 26(1)": {
+            "heading": "Primary methods for achieving third-party effectiveness",
+            "article_number": "26",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 147,
+            "block_end": 147
+        },
+        "Article 27": {
+            "heading": "Proceeds",
+            "article_number": "27",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 148,
+            "block_end": 151
+        },
+        "Article 27(1)": {
+            "heading": "Proceeds",
+            "article_number": "27",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 149,
+            "block_end": 149
+        },
+        "Article 27(2)(a)": {
+            "heading": "Proceeds",
+            "article_number": "27",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 151,
+            "block_end": 151
+        },
+        "Article 27(2)": {
+            "heading": "Proceeds",
+            "article_number": "27",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 150,
+            "block_end": 151
+        },
+        "Article 28": {
+            "heading": "Tangible Assets commingled in a Mass or transformed into a Product",
+            "article_number": "28",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 152,
+            "block_end": 153
+        },
+        "Article 29": {
+            "heading": "Changes in the method for achieving third-party effectiveness",
+            "article_number": "29",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 154,
+            "block_end": 155
+        },
+        "Article 30": {
+            "heading": "Lapses in third-party effectiveness",
+            "article_number": "30",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 156,
+            "block_end": 157
+        },
+        "Article 31": {
+            "heading": "Continuity in third-party effectiveness upon a change of the applicable law to this Law",
+            "article_number": "31",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 158,
+            "block_end": 163
+        },
+        "Article 31(1)(a)": {
+            "heading": "Continuity in third-party effectiveness upon a change of the applicable law to this Law",
+            "article_number": "31",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 160,
+            "block_end": 160
+        },
+        "Article 31(1)": {
+            "heading": "Continuity in third-party effectiveness upon a change of the applicable law to this Law",
+            "article_number": "31",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 159,
+            "block_end": 160
+        },
+        "Article 31(2)": {
+            "heading": "Continuity in third-party effectiveness upon a change of the applicable law to this Law",
+            "article_number": "31",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 161,
+            "block_end": 163
+        },
+        "Article 32": {
+            "heading": "Acquisition Security Rights in Consumer Goods",
+            "article_number": "32",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 164,
+            "block_end": 166
+        },
+        "Article 34": {
+            "heading": "Digital Assets",
+            "article_number": "34",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 170,
+            "block_end": 171
+        },
+        "Article 35": {
+            "heading": "Negotiable Documents and Tangible Assets covered by Negotiable Documents",
+            "article_number": "35",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 172,
+            "block_end": 173
+        },
+        "Article 35(1)": {
+            "heading": "Negotiable Documents and Tangible Assets covered by Negotiable Documents",
+            "article_number": "35",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 173,
+            "block_end": 173
+        },
+        "Article 36": {
+            "heading": "Uncertificated Non-intermediated Financial Property",
+            "article_number": "36",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 174,
+            "block_end": 176
+        },
+        "Article 37": {
+            "heading": "Right to receive the proceeds under an Independent Undertaking",
+            "article_number": "37",
+            "page_start": 12,
+            "page_end": 14,
+            "block_start": 177,
+            "block_end": 187
+        },
+        "Article 37(1)": {
+            "heading": "Right to receive the proceeds under an Independent Undertaking",
+            "article_number": "37",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 178,
+            "block_end": 178
+        },
+        "Article 37(2)(a)": {
+            "heading": "Right to receive the proceeds under an Independent Undertaking",
+            "article_number": "37",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 182,
+            "block_end": 182
+        },
+        "Article 37(2)": {
+            "heading": "Right to receive the proceeds under an Independent Undertaking",
+            "article_number": "37",
+            "page_start": 12,
+            "page_end": 13,
+            "block_start": 179,
+            "block_end": 182
+        },
+        "Article 37(3)": {
+            "heading": "Right to receive the proceeds under an Independent Undertaking",
+            "article_number": "37",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 183,
+            "block_end": 187
+        },
+        "Article 39": {
+            "heading": "Competing Security Rights created by different Grantors",
+            "article_number": "39",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 191,
+            "block_end": 192
+        },
+        "Article 40": {
+            "heading": "Competing Security Rights in the case of a change in the method of third-party effectiveness",
+            "article_number": "40",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 193,
+            "block_end": 194
+        },
+        "Article 41": {
+            "heading": "Competing Security Rights in Proceeds",
+            "article_number": "41",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 195,
+            "block_end": 196
+        },
+        "Article 42": {
+            "heading": "Competing Security Rights in Tangible Assets commingled in a Mass or transformed into a Product",
+            "article_number": "42",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 197,
+            "block_end": 202
+        },
+        "Article 42(1)": {
+            "heading": "Competing Security Rights in Tangible Assets commingled in a Mass or transformed into a Product",
+            "article_number": "42",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 198,
+            "block_end": 198
+        },
+        "Article 42(2)": {
+            "heading": "Competing Security Rights in Tangible Assets commingled in a Mass or transformed into a Product",
+            "article_number": "42",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 199,
+            "block_end": 199
+        },
+        "Article 42(3)": {
+            "heading": "Competing Security Rights in Tangible Assets commingled in a Mass or transformed into a Product",
+            "article_number": "42",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 200,
+            "block_end": 202
+        },
+        "Article 43": {
+            "heading": "Security Rights competing with rights of buyers or other transferees, lessees or licensees of an Encumbered Asset",
+            "article_number": "43",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 203,
+            "block_end": 212
+        },
+        "Article 43(1)": {
+            "heading": "Security Rights competing with rights of buyers or other transferees, lessees or licensees of an Encumbered Asset",
+            "article_number": "43",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 204,
+            "block_end": 204
+        },
+        "Article 43(2)": {
+            "heading": "Security Rights competing with rights of buyers or other transferees, lessees or licensees of an Encumbered Asset",
+            "article_number": "43",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 205,
+            "block_end": 205
+        },
+        "Article 43(3)": {
+            "heading": "Security Rights competing with rights of buyers or other transferees, lessees or licensees of an Encumbered Asset",
+            "article_number": "43",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 206,
+            "block_end": 206
+        },
+        "Article 43(4)": {
+            "heading": "Security Rights competing with rights of buyers or other transferees, lessees or licensees of an Encumbered Asset",
+            "article_number": "43",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 207,
+            "block_end": 207
+        },
+        "Article 43(5)": {
+            "heading": "Security Rights competing with rights of buyers or other transferees, lessees or licensees of an Encumbered Asset",
+            "article_number": "43",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 208,
+            "block_end": 208
+        },
+        "Article 43(6)": {
+            "heading": "Security Rights competing with rights of buyers or other transferees, lessees or licensees of an Encumbered Asset",
+            "article_number": "43",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 209,
+            "block_end": 209
+        },
+        "Article 43(7)": {
+            "heading": "Security Rights competing with rights of buyers or other transferees, lessees or licensees of an Encumbered Asset",
+            "article_number": "43",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 210,
+            "block_end": 210
+        },
+        "Article 43(8)": {
+            "heading": "Security Rights competing with rights of buyers or other transferees, lessees or licensees of an Encumbered Asset",
+            "article_number": "43",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 211,
+            "block_end": 212
+        },
+        "Article 44": {
+            "heading": "Impact of the Grantor’s insolvency on the Priority of a Security Right",
+            "article_number": "44",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 213,
+            "block_end": 214
+        },
+        "Article 45": {
+            "heading": "Security Rights competing with Preferential Debts",
+            "article_number": "45",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 215,
+            "block_end": 216
+        },
+        "Article 46": {
+            "heading": "Security Rights competing with rights of Judgment Creditors",
+            "article_number": "46",
+            "page_start": 15,
+            "page_end": 16,
+            "block_start": 217,
+            "block_end": 221
+        },
+        "Article 46(1)": {
+            "heading": "Security Rights competing with rights of Judgment Creditors",
+            "article_number": "46",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 218,
+            "block_end": 219
+        },
+        "Article 46(2)(a)": {
+            "heading": "Security Rights competing with rights of Judgment Creditors",
+            "article_number": "46",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 221,
+            "block_end": 221
+        },
+        "Article 46(2)": {
+            "heading": "Security Rights competing with rights of Judgment Creditors",
+            "article_number": "46",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 220,
+            "block_end": 221
+        },
+        "Article 47": {
+            "heading": "Acquisition Security Rights competing with non-Acquisition Security Rights",
+            "article_number": "47",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 222,
+            "block_end": 232
+        },
+        "Article 47(1)(a)": {
+            "heading": "Acquisition Security Rights competing with non-Acquisition Security Rights",
+            "article_number": "47",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 224,
+            "block_end": 224
+        },
+        "Article 47(1)": {
+            "heading": "Acquisition Security Rights competing with non-Acquisition Security Rights",
+            "article_number": "47",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 223,
+            "block_end": 224
+        },
+        "Article 47(2)(a)": {
+            "heading": "Acquisition Security Rights competing with non-Acquisition Security Rights",
+            "article_number": "47",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 226,
+            "block_end": 226
+        },
+        "Article 47(2)(i)": {
+            "heading": "Acquisition Security Rights competing with non-Acquisition Security Rights",
+            "article_number": "47",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 227,
+            "block_end": 227
+        },
+        "Article 47(2)": {
+            "heading": "Acquisition Security Rights competing with non-Acquisition Security Rights",
+            "article_number": "47",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 225,
+            "block_end": 227
+        },
+        "Article 47(3)": {
+            "heading": "Acquisition Security Rights competing with non-Acquisition Security Rights",
+            "article_number": "47",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 228,
+            "block_end": 228
+        },
+        "Article 47(4)(a)": {
+            "heading": "Acquisition Security Rights competing with non-Acquisition Security Rights",
+            "article_number": "47",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 230,
+            "block_end": 232
+        },
+        "Article 47(4)": {
+            "heading": "Acquisition Security Rights competing with non-Acquisition Security Rights",
+            "article_number": "47",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 229,
+            "block_end": 232
+        },
+        "Article 48": {
+            "heading": "Competing Acquisition Security Rights",
+            "article_number": "48",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 233,
+            "block_end": 234
+        },
+        "Article 48(1)": {
+            "heading": "Competing Acquisition Security Rights",
+            "article_number": "48",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 234,
+            "block_end": 234
+        },
+        "Article 49": {
+            "heading": "Acquisition Security Rights competing with the rights of Judgment Creditors",
+            "article_number": "49",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 235,
+            "block_end": 236
+        },
+        "Article 50": {
+            "heading": "Competing Security Rights in Proceeds of an asset subject to an Acquisition Security Right",
+            "article_number": "50",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 237,
+            "block_end": 241
+        },
+        "Article 50(1)": {
+            "heading": "Competing Security Rights in Proceeds of an asset subject to an Acquisition Security Right",
+            "article_number": "50",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 238,
+            "block_end": 238
+        },
+        "Article 50(2)(a)": {
+            "heading": "Competing Security Rights in Proceeds of an asset subject to an Acquisition Security Right",
+            "article_number": "50",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 240,
+            "block_end": 240
+        },
+        "Article 50(2)(b)": {
+            "heading": "Competing Security Rights in Proceeds of an asset subject to an Acquisition Security Right",
+            "article_number": "50",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 241,
+            "block_end": 241
+        },
+        "Article 50(2)": {
+            "heading": "Competing Security Rights in Proceeds of an asset subject to an Acquisition Security Right",
+            "article_number": "50",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 239,
+            "block_end": 241
+        },
+        "Article 51": {
+            "heading": "Acquisition Security Rights extending to a Mass or Product competing with non-Acquisition Security Rights in the Mass or Product",
+            "article_number": "51",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 242,
+            "block_end": 243
+        },
+        "Article 52": {
+            "heading": "Subordination",
+            "article_number": "52",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 244,
+            "block_end": 246
+        },
+        "Article 52(1)": {
+            "heading": "Subordination",
+            "article_number": "52",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 245,
+            "block_end": 246
+        },
+        "Article 53": {
+            "heading": "Future advances and future Encumbered Assets",
+            "article_number": "53",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 247,
+            "block_end": 248
+        },
+        "Article 53(1)": {
+            "heading": "Future advances and future Encumbered Assets",
+            "article_number": "53",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 248,
+            "block_end": 248
+        },
+        "Article 54": {
+            "heading": "Irrelevance of Knowledge of the existence of a Security Right",
+            "article_number": "54",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 249,
+            "block_end": 251
+        },
+        "Article 55(1)": {
+            "heading": "Negotiable Instruments",
+            "article_number": "55",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 253,
+            "block_end": 253
+        },
+        "Article 55(2)": {
+            "heading": "Negotiable Instruments",
+            "article_number": "55",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 254,
+            "block_end": 254
+        },
+        "Article 56": {
+            "heading": "Negotiable Documents and Tangible Assets covered by Negotiable Documents",
+            "article_number": "56",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 255,
+            "block_end": 259
+        },
+        "Article 56(1)": {
+            "heading": "Negotiable Documents and Tangible Assets covered by Negotiable Documents",
+            "article_number": "56",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 256,
+            "block_end": 256
+        },
+        "Article 56(2)(a)": {
+            "heading": "Negotiable Documents and Tangible Assets covered by Negotiable Documents",
+            "article_number": "56",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 258,
+            "block_end": 258
+        },
+        "Article 56(2)": {
+            "heading": "Negotiable Documents and Tangible Assets covered by Negotiable Documents",
+            "article_number": "56",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 257,
+            "block_end": 258
+        },
+        "Article 56(3)": {
+            "heading": "Negotiable Documents and Tangible Assets covered by Negotiable Documents",
+            "article_number": "56",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 259,
+            "block_end": 259
+        },
+        "Article 57": {
+            "heading": "Intellectual property",
+            "article_number": "57",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 260,
+            "block_end": 262
+        },
+        "Article 58": {
+            "heading": "Non-intermediated Financial Property",
+            "article_number": "58",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 263,
+            "block_end": 268
+        },
+        "Article 58(1)": {
+            "heading": "Non-intermediated Financial Property",
+            "article_number": "58",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 264,
+            "block_end": 264
+        },
+        "Article 58(2)": {
+            "heading": "Non-intermediated Financial Property",
+            "article_number": "58",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 265,
+            "block_end": 265
+        },
+        "Article 58(3)": {
+            "heading": "Non-intermediated Financial Property",
+            "article_number": "58",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 266,
+            "block_end": 266
+        },
+        "Article 58(4)": {
+            "heading": "Non-intermediated Financial Property",
+            "article_number": "58",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 267,
+            "block_end": 267
+        },
+        "Article 58(5)": {
+            "heading": "Non-intermediated Financial Property",
+            "article_number": "58",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 268,
+            "block_end": 268
+        },
+        "Article 59": {
+            "heading": "Digital Assets",
+            "article_number": "59",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 269,
+            "block_end": 271
+        },
+        "Article 59(1)": {
+            "heading": "Digital Assets",
+            "article_number": "59",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 270,
+            "block_end": 270
+        },
+        "Article 59(2)": {
+            "heading": "Digital Assets",
+            "article_number": "59",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 271,
+            "block_end": 271
+        },
+        "Article 60": {
+            "heading": "Right to receive the proceeds under an Independent Undertaking",
+            "article_number": "60",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 272,
+            "block_end": 273
+        },
+        "Article 61": {
+            "heading": "Physical Money",
+            "article_number": "61",
+            "page_start": 19,
+            "page_end": 20,
+            "block_start": 274,
+            "block_end": 279
+        },
+        "Article 62(1)": {
+            "heading": "Sources of mutual rights and obligations of the parties",
+            "article_number": "62",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 281,
+            "block_end": 281
+        },
+        "Article 63": {
+            "heading": "Obligation of the party in Possession to exercise reasonable care",
+            "article_number": "63",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 282,
+            "block_end": 283
+        },
+        "Article 64": {
+            "heading": "Obligation of the Secured Creditor to return an Encumbered Asset",
+            "article_number": "64",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 284,
+            "block_end": 285
+        },
+        "Article 65": {
+            "heading": "Right of the Secured Creditor to use and inspect an Encumbered Asset, and to be reimbursed for expenses",
+            "article_number": "65",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 286,
+            "block_end": 289
+        },
+        "Article 65(1)(a)": {
+            "heading": "Right of the Secured Creditor to use and inspect an Encumbered Asset, and to be reimbursed for expenses",
+            "article_number": "65",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 288,
+            "block_end": 288
+        },
+        "Article 65(1)": {
+            "heading": "Right of the Secured Creditor to use and inspect an Encumbered Asset, and to be reimbursed for expenses",
+            "article_number": "65",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 287,
+            "block_end": 288
+        },
+        "Article 65(2)": {
+            "heading": "Right of the Secured Creditor to use and inspect an Encumbered Asset, and to be reimbursed for expenses",
+            "article_number": "65",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 289,
+            "block_end": 289
+        },
+        "Article 66": {
+            "heading": "Right of the Grantor to obtain information",
+            "article_number": "66",
+            "page_start": 20,
+            "page_end": 21,
+            "block_start": 290,
+            "block_end": 296
+        },
+        "Article 66(1)(a)": {
+            "heading": "Right of the Grantor to obtain information",
+            "article_number": "66",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 292,
+            "block_end": 292
+        },
+        "Article 66(1)": {
+            "heading": "Right of the Grantor to obtain information",
+            "article_number": "66",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 291,
+            "block_end": 292
+        },
+        "Article 66(2)": {
+            "heading": "Right of the Grantor to obtain information",
+            "article_number": "66",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 293,
+            "block_end": 293
+        },
+        "Article 66(3)": {
+            "heading": "Right of the Grantor to obtain information",
+            "article_number": "66",
+            "page_start": 20,
+            "page_end": 21,
+            "block_start": 294,
+            "block_end": 296
+        },
+        "Article 67(1)(a)": {
+            "heading": "Representations of the Grantor of a Security Right in a Receivable",
+            "article_number": "67",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 299,
+            "block_end": 299
+        },
+        "Article 67(1)": {
+            "heading": "Representations of the Grantor of a Security Right in a Receivable",
+            "article_number": "67",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 298,
+            "block_end": 299
+        },
+        "Article 67(2)": {
+            "heading": "Representations of the Grantor of a Security Right in a Receivable",
+            "article_number": "67",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 300,
+            "block_end": 300
+        },
+        "Article 68": {
+            "heading": "Right of the Grantor or the Secured Creditor to notify the Debtor of the Receivable",
+            "article_number": "68",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 301,
+            "block_end": 303
+        },
+        "Article 68(1)": {
+            "heading": "Right of the Grantor or the Secured Creditor to notify the Debtor of the Receivable",
+            "article_number": "68",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 302,
+            "block_end": 302
+        },
+        "Article 68(2)": {
+            "heading": "Right of the Grantor or the Secured Creditor to notify the Debtor of the Receivable",
+            "article_number": "68",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 303,
+            "block_end": 303
+        },
+        "Article 69": {
+            "heading": "Right of the Secured Creditor to payment of a Receivable",
+            "article_number": "69",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 304,
+            "block_end": 307
+        },
+        "Article 69(1)(a)": {
+            "heading": "Right of the Secured Creditor to payment of a Receivable",
+            "article_number": "69",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 306,
+            "block_end": 306
+        },
+        "Article 69(1)": {
+            "heading": "Right of the Secured Creditor to payment of a Receivable",
+            "article_number": "69",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 305,
+            "block_end": 306
+        },
+        "Article 69(2)": {
+            "heading": "Right of the Secured Creditor to payment of a Receivable",
+            "article_number": "69",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 307,
+            "block_end": 307
+        },
+        "Article 70": {
+            "heading": "Right of the Secured Creditor to preserve encumbered Intellectual Property",
+            "article_number": "70",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 308,
+            "block_end": 311
+        },
+        "Article 71(1)": {
+            "heading": "Protection of the Debtor of the Receivable",
+            "article_number": "71",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 313,
+            "block_end": 314
+        },
+        "Article 71(2)(a)": {
+            "heading": "Protection of the Debtor of the Receivable",
+            "article_number": "71",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 316,
+            "block_end": 316
+        },
+        "Article 71(2)": {
+            "heading": "Protection of the Debtor of the Receivable",
+            "article_number": "71",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 315,
+            "block_end": 316
+        },
+        "Article 72": {
+            "heading": "Notification of a Security Right in a Receivable",
+            "article_number": "72",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 317,
+            "block_end": 319
+        },
+        "Article 72(1)": {
+            "heading": "Notification of a Security Right in a Receivable",
+            "article_number": "72",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 318,
+            "block_end": 318
+        },
+        "Article 72(2)": {
+            "heading": "Notification of a Security Right in a Receivable",
+            "article_number": "72",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 319,
+            "block_end": 319
+        },
+        "Article 73": {
+            "heading": "Discharge of the Debtor of the Receivable by payment",
+            "article_number": "73",
+            "page_start": 22,
+            "page_end": 23,
+            "block_start": 320,
+            "block_end": 331
+        },
+        "Article 73(1)": {
+            "heading": "Discharge of the Debtor of the Receivable by payment",
+            "article_number": "73",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 321,
+            "block_end": 321
+        },
+        "Article 73(2)": {
+            "heading": "Discharge of the Debtor of the Receivable by payment",
+            "article_number": "73",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 322,
+            "block_end": 322
+        },
+        "Article 73(3)": {
+            "heading": "Discharge of the Debtor of the Receivable by payment",
+            "article_number": "73",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 323,
+            "block_end": 323
+        },
+        "Article 73(4)": {
+            "heading": "Discharge of the Debtor of the Receivable by payment",
+            "article_number": "73",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 324,
+            "block_end": 324
+        },
+        "Article 73(5)": {
+            "heading": "Discharge of the Debtor of the Receivable by payment",
+            "article_number": "73",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 325,
+            "block_end": 325
+        },
+        "Article 73(6)": {
+            "heading": "Discharge of the Debtor of the Receivable by payment",
+            "article_number": "73",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 326,
+            "block_end": 326
+        },
+        "Article 73(7)": {
+            "heading": "Discharge of the Debtor of the Receivable by payment",
+            "article_number": "73",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 327,
+            "block_end": 327
+        },
+        "Article 73(8)": {
+            "heading": "Discharge of the Debtor of the Receivable by payment",
+            "article_number": "73",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 328,
+            "block_end": 329
+        },
+        "Article 73(9)": {
+            "heading": "Discharge of the Debtor of the Receivable by payment",
+            "article_number": "73",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 330,
+            "block_end": 330
+        },
+        "Article 73(10)": {
+            "heading": "Discharge of the Debtor of the Receivable by payment",
+            "article_number": "73",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 331,
+            "block_end": 331
+        },
+        "Article 74": {
+            "heading": "Defences and rights of set-off of the Debtor of the Receivable",
+            "article_number": "74",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 332,
+            "block_end": 335
+        },
+        "Article 74(1)(a)": {
+            "heading": "Defences and rights of set-off of the Debtor of the Receivable",
+            "article_number": "74",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 334,
+            "block_end": 334
+        },
+        "Article 74(1)": {
+            "heading": "Defences and rights of set-off of the Debtor of the Receivable",
+            "article_number": "74",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 333,
+            "block_end": 334
+        },
+        "Article 74(2)": {
+            "heading": "Defences and rights of set-off of the Debtor of the Receivable",
+            "article_number": "74",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 335,
+            "block_end": 335
+        },
+        "Article 75": {
+            "heading": "Agreement not to raise defences or rights of set-off",
+            "article_number": "75",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 336,
+            "block_end": 337
+        },
+        "Article 75(1)": {
+            "heading": "Agreement not to raise defences or rights of set-off",
+            "article_number": "75",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 337,
+            "block_end": 337
+        },
+        "Article 76": {
+            "heading": "Modification of the contract giving rise to a Receivable",
+            "article_number": "76",
+            "page_start": 23,
+            "page_end": 24,
+            "block_start": 338,
+            "block_end": 343
+        },
+        "Article 76(1)": {
+            "heading": "Modification of the contract giving rise to a Receivable",
+            "article_number": "76",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 339,
+            "block_end": 339
+        },
+        "Article 76(2)(a)": {
+            "heading": "Modification of the contract giving rise to a Receivable",
+            "article_number": "76",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 341,
+            "block_end": 342
+        },
+        "Article 76(2)": {
+            "heading": "Modification of the contract giving rise to a Receivable",
+            "article_number": "76",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 340,
+            "block_end": 342
+        },
+        "Article 76(3)": {
+            "heading": "Modification of the contract giving rise to a Receivable",
+            "article_number": "76",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 343,
+            "block_end": 343
+        },
+        "Article 77": {
+            "heading": "Recovery of payments",
+            "article_number": "77",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 344,
+            "block_end": 346
+        },
+        "Article 79(1)(a)": {
+            "heading": "Rights as against the Bank",
+            "article_number": "79",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 352,
+            "block_end": 352
+        },
+        "Article 79(1)": {
+            "heading": "Rights as against the Bank",
+            "article_number": "79",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 351,
+            "block_end": 352
+        },
+        "Article 79(2)": {
+            "heading": "Rights as against the Bank",
+            "article_number": "79",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 353,
+            "block_end": 354
+        },
+        "Article 81": {
+            "heading": "Rights as against the issuer of a Non-intermediated Financial Property",
+            "article_number": "81",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 358,
+            "block_end": 360
+        },
+        "Article 82": {
+            "heading": "Rights and obligations of the Guarantor/Issuer, Confirmer or Nominated Person of an Independent Undertaking",
+            "article_number": "82",
+            "page_start": 24,
+            "page_end": 26,
+            "block_start": 361,
+            "block_end": 370
+        },
+        "Article 82(1)": {
+            "heading": "Rights and obligations of the Guarantor/Issuer, Confirmer or Nominated Person of an Independent Undertaking",
+            "article_number": "82",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 362,
+            "block_end": 363
+        },
+        "Article 82(2)": {
+            "heading": "Rights and obligations of the Guarantor/Issuer, Confirmer or Nominated Person of an Independent Undertaking",
+            "article_number": "82",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 364,
+            "block_end": 364
+        },
+        "Article 82(3)": {
+            "heading": "Rights and obligations of the Guarantor/Issuer, Confirmer or Nominated Person of an Independent Undertaking",
+            "article_number": "82",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 365,
+            "block_end": 365
+        },
+        "Article 82(4)": {
+            "heading": "Rights and obligations of the Guarantor/Issuer, Confirmer or Nominated Person of an Independent Undertaking",
+            "article_number": "82",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 366,
+            "block_end": 366
+        },
+        "Article 82(5)": {
+            "heading": "Rights and obligations of the Guarantor/Issuer, Confirmer or Nominated Person of an Independent Undertaking",
+            "article_number": "82",
+            "page_start": 25,
+            "page_end": 26,
+            "block_start": 367,
+            "block_end": 370
+        },
+        "Article 83(1)(a)": {
+            "heading": "Post-Default rights",
+            "article_number": "83",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 373,
+            "block_end": 373
+        },
+        "Article 83(1)": {
+            "heading": "Post-Default rights",
+            "article_number": "83",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 372,
+            "block_end": 373
+        },
+        "Article 84": {
+            "heading": "Methods of exercising post-Default rights",
+            "article_number": "84",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 374,
+            "block_end": 375
+        },
+        "Article 84(1)": {
+            "heading": "Methods of exercising post-Default rights",
+            "article_number": "84",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 375,
+            "block_end": 375
+        },
+        "Article 85": {
+            "heading": "Relief for non-compliance",
+            "article_number": "85",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 376,
+            "block_end": 377
+        },
+        "Article 86": {
+            "heading": "Right of affected persons to terminate enforcement",
+            "article_number": "86",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 378,
+            "block_end": 382
+        },
+        "Article 86(1)": {
+            "heading": "Right of affected persons to terminate enforcement",
+            "article_number": "86",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 379,
+            "block_end": 379
+        },
+        "Article 86(2)(a)": {
+            "heading": "Right of affected persons to terminate enforcement",
+            "article_number": "86",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 381,
+            "block_end": 381
+        },
+        "Article 86(2)": {
+            "heading": "Right of affected persons to terminate enforcement",
+            "article_number": "86",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 380,
+            "block_end": 381
+        },
+        "Article 86(3)": {
+            "heading": "Right of affected persons to terminate enforcement",
+            "article_number": "86",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 382,
+            "block_end": 382
+        },
+        "Article 87": {
+            "heading": "Right of a higher-ranking Secured Creditor to take over enforcement",
+            "article_number": "87",
+            "page_start": 26,
+            "page_end": 27,
+            "block_start": 383,
+            "block_end": 387
+        },
+        "Article 87(1)(a)": {
+            "heading": "Right of a higher-ranking Secured Creditor to take over enforcement",
+            "article_number": "87",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 386,
+            "block_end": 387
+        },
+        "Article 87(1)": {
+            "heading": "Right of a higher-ranking Secured Creditor to take over enforcement",
+            "article_number": "87",
+            "page_start": 26,
+            "page_end": 27,
+            "block_start": 384,
+            "block_end": 387
+        },
+        "Article 88": {
+            "heading": "Right of the Secured Creditor to obtain Possession of an Encumbered Asset",
+            "article_number": "88",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 388,
+            "block_end": 393
+        },
+        "Article 88(1)": {
+            "heading": "Right of the Secured Creditor to obtain Possession of an Encumbered Asset",
+            "article_number": "88",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 389,
+            "block_end": 389
+        },
+        "Article 88(2)(a)": {
+            "heading": "Right of the Secured Creditor to obtain Possession of an Encumbered Asset",
+            "article_number": "88",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 391,
+            "block_end": 391
+        },
+        "Article 88(2)": {
+            "heading": "Right of the Secured Creditor to obtain Possession of an Encumbered Asset",
+            "article_number": "88",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 390,
+            "block_end": 391
+        },
+        "Article 88(3)": {
+            "heading": "Right of the Secured Creditor to obtain Possession of an Encumbered Asset",
+            "article_number": "88",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 392,
+            "block_end": 392
+        },
+        "Article 88(4)": {
+            "heading": "Right of the Secured Creditor to obtain Possession of an Encumbered Asset",
+            "article_number": "88",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 393,
+            "block_end": 393
+        },
+        "Article 89": {
+            "heading": "Right of the Secured Creditor to dispose of an Encumbered Asset",
+            "article_number": "89",
+            "page_start": 27,
+            "page_end": 28,
+            "block_start": 394,
+            "block_end": 403
+        },
+        "Article 89(1)": {
+            "heading": "Right of the Secured Creditor to dispose of an Encumbered Asset",
+            "article_number": "89",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 395,
+            "block_end": 395
+        },
+        "Article 89(2)": {
+            "heading": "Right of the Secured Creditor to dispose of an Encumbered Asset",
+            "article_number": "89",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 396,
+            "block_end": 396
+        },
+        "Article 89(3)": {
+            "heading": "Right of the Secured Creditor to dispose of an Encumbered Asset",
+            "article_number": "89",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 397,
+            "block_end": 397
+        },
+        "Article 89(4)(a)": {
+            "heading": "Right of the Secured Creditor to dispose of an Encumbered Asset",
+            "article_number": "89",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 399,
+            "block_end": 400
+        },
+        "Article 89(4)(d)": {
+            "heading": "Right of the Secured Creditor to dispose of an Encumbered Asset",
+            "article_number": "89",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 401,
+            "block_end": 401
+        },
+        "Article 89(4)": {
+            "heading": "Right of the Secured Creditor to dispose of an Encumbered Asset",
+            "article_number": "89",
+            "page_start": 27,
+            "page_end": 28,
+            "block_start": 398,
+            "block_end": 401
+        },
+        "Article 89(5)(a)": {
+            "heading": "Right of the Secured Creditor to dispose of an Encumbered Asset",
+            "article_number": "89",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 403,
+            "block_end": 403
+        },
+        "Article 89(5)": {
+            "heading": "Right of the Secured Creditor to dispose of an Encumbered Asset",
+            "article_number": "89",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 402,
+            "block_end": 403
+        },
+        "Article 90": {
+            "heading": "Distribution of the Proceeds of a disposition of an Encumbered Asset and Debtor’s liability for any deficiency",
+            "article_number": "90",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 404,
+            "block_end": 408
+        },
+        "Article 90(1)": {
+            "heading": "Distribution of the Proceeds of a disposition of an Encumbered Asset and Debtor’s liability for any deficiency",
+            "article_number": "90",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 405,
+            "block_end": 405
+        },
+        "Article 90(2)(a)": {
+            "heading": "Distribution of the Proceeds of a disposition of an Encumbered Asset and Debtor’s liability for any deficiency",
+            "article_number": "90",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 407,
+            "block_end": 407
+        },
+        "Article 90(2)": {
+            "heading": "Distribution of the Proceeds of a disposition of an Encumbered Asset and Debtor’s liability for any deficiency",
+            "article_number": "90",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 406,
+            "block_end": 407
+        },
+        "Article 90(3)": {
+            "heading": "Distribution of the Proceeds of a disposition of an Encumbered Asset and Debtor’s liability for any deficiency",
+            "article_number": "90",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 408,
+            "block_end": 408
+        },
+        "Article 91": {
+            "heading": "Right to propose the acquisition of an Encumbered Asset by the Secured Creditor",
+            "article_number": "91",
+            "page_start": 28,
+            "page_end": 29,
+            "block_start": 409,
+            "block_end": 418
+        },
+        "Article 91(1)": {
+            "heading": "Right to propose the acquisition of an Encumbered Asset by the Secured Creditor",
+            "article_number": "91",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 410,
+            "block_end": 411
+        },
+        "Article 91(2)(a)": {
+            "heading": "Right to propose the acquisition of an Encumbered Asset by the Secured Creditor",
+            "article_number": "91",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 413,
+            "block_end": 413
+        },
+        "Article 91(2)": {
+            "heading": "Right to propose the acquisition of an Encumbered Asset by the Secured Creditor",
+            "article_number": "91",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 412,
+            "block_end": 413
+        },
+        "Article 91(3)(a)": {
+            "heading": "Right to propose the acquisition of an Encumbered Asset by the Secured Creditor",
+            "article_number": "91",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 415,
+            "block_end": 416
+        },
+        "Article 91(3)": {
+            "heading": "Right to propose the acquisition of an Encumbered Asset by the Secured Creditor",
+            "article_number": "91",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 414,
+            "block_end": 416
+        },
+        "Article 91(5)": {
+            "heading": "Right to propose the acquisition of an Encumbered Asset by the Secured Creditor",
+            "article_number": "91",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 417,
+            "block_end": 418
+        },
+        "Article 92": {
+            "heading": "Rights acquired in an Encumbered Asset",
+            "article_number": "92",
+            "page_start": 29,
+            "page_end": 30,
+            "block_start": 419,
+            "block_end": 426
+        },
+        "Article 92(1)": {
+            "heading": "Rights acquired in an Encumbered Asset",
+            "article_number": "92",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 420,
+            "block_end": 420
+        },
+        "Article 92(2)": {
+            "heading": "Rights acquired in an Encumbered Asset",
+            "article_number": "92",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 421,
+            "block_end": 421
+        },
+        "Article 92(3)": {
+            "heading": "Rights acquired in an Encumbered Asset",
+            "article_number": "92",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 422,
+            "block_end": 422
+        },
+        "Article 92(4)": {
+            "heading": "Rights acquired in an Encumbered Asset",
+            "article_number": "92",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 423,
+            "block_end": 424
+        },
+        "Article 92(5)": {
+            "heading": "Rights acquired in an Encumbered Asset",
+            "article_number": "92",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 425,
+            "block_end": 426
+        },
+        "Article 93(1)": {
+            "heading": "Collection of payment",
+            "article_number": "93",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 428,
+            "block_end": 428
+        },
+        "Article 93(2)": {
+            "heading": "Collection of payment",
+            "article_number": "93",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 429,
+            "block_end": 429
+        },
+        "Article 93(3)": {
+            "heading": "Collection of payment",
+            "article_number": "93",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 430,
+            "block_end": 430
+        },
+        "Article 93(4)": {
+            "heading": "Collection of payment",
+            "article_number": "93",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 431,
+            "block_end": 431
+        },
+        "Article 93(5)": {
+            "heading": "Collection of payment",
+            "article_number": "93",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 432,
+            "block_end": 432
+        },
+        "Article 94": {
+            "heading": "Collection of payment by an outright transferee of a Receivable",
+            "article_number": "94",
+            "page_start": 30,
+            "page_end": 31,
+            "block_start": 433,
+            "block_end": 436
+        },
+        "Article 94(1)": {
+            "heading": "Collection of payment by an outright transferee of a Receivable",
+            "article_number": "94",
+            "page_start": 30,
+            "page_end": 31,
+            "block_start": 434,
+            "block_end": 436
+        },
+        "Article 96": {
+            "heading": "Creation and continuation of a Security Right in a Fixture",
+            "article_number": "96",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 439,
+            "block_end": 440
+        },
+        "Article 96(1)": {
+            "heading": "Creation and continuation of a Security Right in a Fixture",
+            "article_number": "96",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 440,
+            "block_end": 440
+        },
+        "Article 97": {
+            "heading": "Automatic third-party effectiveness of a Security Right in a Fixture",
+            "article_number": "97",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 441,
+            "block_end": 442
+        },
+        "Article 98": {
+            "heading": "Third-party effectiveness of a Security Right in a Fixture and the Real Property Register",
+            "article_number": "98",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 443,
+            "block_end": 444
+        },
+        "Article 99": {
+            "heading": "Priority of a Security Right in a Fixture",
+            "article_number": "99",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 445,
+            "block_end": 446
+        },
+        "Article 99(1)": {
+            "heading": "Priority of a Security Right in a Fixture",
+            "article_number": "99",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 446,
+            "block_end": 446
+        },
+        "Article 100": {
+            "heading": "Intersection of enforcement regimes",
+            "article_number": "100",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 447,
+            "block_end": 448
+        },
+        "Article 100(1)": {
+            "heading": "Intersection of enforcement regimes",
+            "article_number": "100",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 448,
+            "block_end": 448
+        },
+        "Article 101": {
+            "heading": "Enforcement of a Security Right in a Fixture",
+            "article_number": "101",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 449,
+            "block_end": 451
+        },
+        "Article 101(1)": {
+            "heading": "Enforcement of a Security Right in a Fixture",
+            "article_number": "101",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 450,
+            "block_end": 450
+        },
+        "Article 101(2)": {
+            "heading": "Enforcement of a Security Right in a Fixture",
+            "article_number": "101",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 451,
+            "block_end": 451
+        },
+        "Article 102": {
+            "heading": "Priority of an Acquisition Security Right in a Fixture as against an earlier registered encumbrance on the Real Property",
+            "article_number": "102",
+            "page_start": 31,
+            "page_end": 32,
+            "block_start": 452,
+            "block_end": 455
+        },
+        "Article 103": {
+            "heading": "Application to Real Property outside the jurisdiction of the DIFC",
+            "article_number": "103",
+            "page_start": 32,
+            "page_end": 33,
+            "block_start": 456,
+            "block_end": 459
+        },
+        "Article 104(1)(a)": {
+            "heading": "Financial Collateral",
+            "article_number": "104",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 462,
+            "block_end": 462
+        },
+        "Article 104(1)": {
+            "heading": "Financial Collateral",
+            "article_number": "104",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 461,
+            "block_end": 462
+        },
+        "Article 104(2)": {
+            "heading": "Financial Collateral",
+            "article_number": "104",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 463,
+            "block_end": 463
+        },
+        "Article 104(3)": {
+            "heading": "Financial Collateral",
+            "article_number": "104",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 464,
+            "block_end": 464
+        },
+        "Article 105": {
+            "heading": "Title Transfer",
+            "article_number": "105",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 465,
+            "block_end": 467
+        },
+        "Article 105(1)": {
+            "heading": "Title Transfer",
+            "article_number": "105",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 466,
+            "block_end": 466
+        },
+        "Article 105(2)": {
+            "heading": "Title Transfer",
+            "article_number": "105",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 467,
+            "block_end": 467
+        },
+        "Article 106": {
+            "heading": "Security Financial Collateral Arrangements",
+            "article_number": "106",
+            "page_start": 33,
+            "page_end": 34,
+            "block_start": 468,
+            "block_end": 479
+        },
+        "Article 106(1)(a)": {
+            "heading": "Security Financial Collateral Arrangements",
+            "article_number": "106",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 470,
+            "block_end": 470
+        },
+        "Article 106(1)": {
+            "heading": "Security Financial Collateral Arrangements",
+            "article_number": "106",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 469,
+            "block_end": 470
+        },
+        "Article 106(2)": {
+            "heading": "Security Financial Collateral Arrangements",
+            "article_number": "106",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 471,
+            "block_end": 471
+        },
+        "Article 106(3)": {
+            "heading": "Security Financial Collateral Arrangements",
+            "article_number": "106",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 472,
+            "block_end": 472
+        },
+        "Article 106(4)": {
+            "heading": "Security Financial Collateral Arrangements",
+            "article_number": "106",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 473,
+            "block_end": 473
+        },
+        "Article 106(5)(a)": {
+            "heading": "Security Financial Collateral Arrangements",
+            "article_number": "106",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 475,
+            "block_end": 475
+        },
+        "Article 106(5)": {
+            "heading": "Security Financial Collateral Arrangements",
+            "article_number": "106",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 474,
+            "block_end": 475
+        },
+        "Article 106(6)": {
+            "heading": "Security Financial Collateral Arrangements",
+            "article_number": "106",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 476,
+            "block_end": 478
+        },
+        "Article 106(7)": {
+            "heading": "Security Financial Collateral Arrangements",
+            "article_number": "106",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 479,
+            "block_end": 479
+        },
+        "Article 107": {
+            "heading": "Priority of interests in the same Financial Collateral",
+            "article_number": "107",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 480,
+            "block_end": 483
+        },
+        "Article 107(1)(a)": {
+            "heading": "Priority of interests in the same Financial Collateral",
+            "article_number": "107",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 482,
+            "block_end": 482
+        },
+        "Article 107(1)": {
+            "heading": "Priority of interests in the same Financial Collateral",
+            "article_number": "107",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 481,
+            "block_end": 482
+        },
+        "Article 107(2)": {
+            "heading": "Priority of interests in the same Financial Collateral",
+            "article_number": "107",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 483,
+            "block_end": 483
+        },
+        "Article 108": {
+            "heading": "[not used]",
+            "article_number": "108",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 484,
+            "block_end": 484
+        },
+        "Article 109": {
+            "heading": "Rights of Use, release of excess and substitution of Financial Collateral",
+            "article_number": "109",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 485,
+            "block_end": 490
+        },
+        "Article 109(1)": {
+            "heading": "Rights of Use, release of excess and substitution of Financial Collateral",
+            "article_number": "109",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 486,
+            "block_end": 487
+        },
+        "Article 109(5)": {
+            "heading": "Rights of Use, release of excess and substitution of Financial Collateral",
+            "article_number": "109",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 488,
+            "block_end": 488
+        },
+        "Article 109(6)": {
+            "heading": "Rights of Use, release of excess and substitution of Financial Collateral",
+            "article_number": "109",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 489,
+            "block_end": 490
+        },
+        "Article 110": {
+            "heading": "Enforcement of Financial Collateral Arrangements",
+            "article_number": "110",
+            "page_start": 35,
+            "page_end": 36,
+            "block_start": 491,
+            "block_end": 503
+        },
+        "Article 110(1)(a)": {
+            "heading": "Enforcement of Financial Collateral Arrangements",
+            "article_number": "110",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 493,
+            "block_end": 494
+        },
+        "Article 110(1)": {
+            "heading": "Enforcement of Financial Collateral Arrangements",
+            "article_number": "110",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 492,
+            "block_end": 494
+        },
+        "Article 110(2)(a)": {
+            "heading": "Enforcement of Financial Collateral Arrangements",
+            "article_number": "110",
+            "page_start": 35,
+            "page_end": 36,
+            "block_start": 500,
+            "block_end": 503
+        },
+        "Article 110(2)(i)": {
+            "heading": "Enforcement of Financial Collateral Arrangements",
+            "article_number": "110",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 497,
+            "block_end": 499
+        },
+        "Article 110(2)": {
+            "heading": "Enforcement of Financial Collateral Arrangements",
+            "article_number": "110",
+            "page_start": 35,
+            "page_end": 36,
+            "block_start": 495,
+            "block_end": 503
+        },
+        "Article 112": {
+            "heading": "Security Rights in Tangible Assets",
+            "article_number": "112",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 506,
+            "block_end": 510
+        },
+        "Article 112(1)": {
+            "heading": "Security Rights in Tangible Assets",
+            "article_number": "112",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 507,
+            "block_end": 507
+        },
+        "Article 112(2)": {
+            "heading": "Security Rights in Tangible Assets",
+            "article_number": "112",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 508,
+            "block_end": 508
+        },
+        "Article 112(3)": {
+            "heading": "Security Rights in Tangible Assets",
+            "article_number": "112",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 509,
+            "block_end": 509
+        },
+        "Article 112(4)": {
+            "heading": "Security Rights in Tangible Assets",
+            "article_number": "112",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 510,
+            "block_end": 510
+        },
+        "Article 113": {
+            "heading": "Security Rights in Intangible Assets",
+            "article_number": "113",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 511,
+            "block_end": 512
+        },
+        "Article 114": {
+            "heading": "Security Rights in Receivables relating to Real Property",
+            "article_number": "114",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 513,
+            "block_end": 514
+        },
+        "Article 115": {
+            "heading": "Enforcement of Security Rights",
+            "article_number": "115",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 515,
+            "block_end": 517
+        },
+        "Article 116": {
+            "heading": "Security Rights in Proceeds",
+            "article_number": "116",
+            "page_start": 36,
+            "page_end": 37,
+            "block_start": 518,
+            "block_end": 521
+        },
+        "Article 116(1)": {
+            "heading": "Security Rights in Proceeds",
+            "article_number": "116",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 519,
+            "block_end": 520
+        },
+        "Article 116(2)": {
+            "heading": "Security Rights in Proceeds",
+            "article_number": "116",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 521,
+            "block_end": 521
+        },
+        "Article 117": {
+            "heading": "Meaning of “location” of the Grantor",
+            "article_number": "117",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 522,
+            "block_end": 524
+        },
+        "Article 118": {
+            "heading": "Relevant time for determining location",
+            "article_number": "118",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 525,
+            "block_end": 528
+        },
+        "Article 118(1)(a)": {
+            "heading": "Relevant time for determining location",
+            "article_number": "118",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 527,
+            "block_end": 527
+        },
+        "Article 118(1)": {
+            "heading": "Relevant time for determining location",
+            "article_number": "118",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 526,
+            "block_end": 527
+        },
+        "Article 118(2)": {
+            "heading": "Relevant time for determining location",
+            "article_number": "118",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 528,
+            "block_end": 528
+        },
+        "Article 119": {
+            "heading": "Exclusion of renvoi",
+            "article_number": "119",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 529,
+            "block_end": 530
+        },
+        "Article 120": {
+            "heading": "Overriding mandatory rules and public policy (ordre public)",
+            "article_number": "120",
+            "page_start": 37,
+            "page_end": 38,
+            "block_start": 531,
+            "block_end": 534
+        },
+        "Article 120(1)": {
+            "heading": "Overriding mandatory rules and public policy (ordre public)",
+            "article_number": "120",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 532,
+            "block_end": 533
+        },
+        "Article 120(6)": {
+            "heading": "Overriding mandatory rules and public policy (ordre public)",
+            "article_number": "120",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 534,
+            "block_end": 534
+        },
+        "Article 121": {
+            "heading": "Impact of commencement of Insolvency Proceedings on the law applicable to a Security Right",
+            "article_number": "121",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 535,
+            "block_end": 536
+        },
+        "Article 122": {
+            "heading": "Multi-unit states",
+            "article_number": "122",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 537,
+            "block_end": 540
+        },
+        "Article 124": {
+            "heading": "Security Rights in rights to payment of Money credited to a Bank Account",
+            "article_number": "124",
+            "page_start": 38,
+            "page_end": 39,
+            "block_start": 544,
+            "block_end": 551
+        },
+        "Article 124(1)": {
+            "heading": "Security Rights in rights to payment of Money credited to a Bank Account",
+            "article_number": "124",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 545,
+            "block_end": 545
+        },
+        "Article 124(2)": {
+            "heading": "Security Rights in rights to payment of Money credited to a Bank Account",
+            "article_number": "124",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 546,
+            "block_end": 546
+        },
+        "Article 124(3)(a)": {
+            "heading": "Security Rights in rights to payment of Money credited to a Bank Account",
+            "article_number": "124",
+            "page_start": 38,
+            "page_end": 39,
+            "block_start": 548,
+            "block_end": 550
+        },
+        "Article 124(3)(c)": {
+            "heading": "Security Rights in rights to payment of Money credited to a Bank Account",
+            "article_number": "124",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 551,
+            "block_end": 551
+        },
+        "Article 124(3)": {
+            "heading": "Security Rights in rights to payment of Money credited to a Bank Account",
+            "article_number": "124",
+            "page_start": 38,
+            "page_end": 39,
+            "block_start": 547,
+            "block_end": 551
+        },
+        "Article 125": {
+            "heading": "Third-party effectiveness of a Security Right in certain types of asset by registration",
+            "article_number": "125",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 552,
+            "block_end": 553
+        },
+        "Article 126": {
+            "heading": "Security Rights in Intellectual Property",
+            "article_number": "126",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 554,
+            "block_end": 555
+        },
+        "Article 126(1)": {
+            "heading": "Security Rights in Intellectual Property",
+            "article_number": "126",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 555,
+            "block_end": 555
+        },
+        "Article 127": {
+            "heading": "Security Rights in Non-intermediated Financial Property",
+            "article_number": "127",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 556,
+            "block_end": 558
+        },
+        "Article 127(1)": {
+            "heading": "Security Rights in Non-intermediated Financial Property",
+            "article_number": "127",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 558,
+            "block_end": 558
+        },
+        "Article 128": {
+            "heading": "Security Rights in the right to receive the proceeds under an Independent Undertaking",
+            "article_number": "128",
+            "page_start": 39,
+            "page_end": 40,
+            "block_start": 559,
+            "block_end": 564
+        },
+        "Article 128(1)(a)": {
+            "heading": "Security Rights in the right to receive the proceeds under an Independent Undertaking",
+            "article_number": "128",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 561,
+            "block_end": 562
+        },
+        "Article 128(1)": {
+            "heading": "Security Rights in the right to receive the proceeds under an Independent Undertaking",
+            "article_number": "128",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 560,
+            "block_end": 562
+        },
+        "Article 128(2)": {
+            "heading": "Security Rights in the right to receive the proceeds under an Independent Undertaking",
+            "article_number": "128",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 563,
+            "block_end": 563
+        },
+        "Article 128(3)": {
+            "heading": "Security Rights in the right to receive the proceeds under an Independent Undertaking",
+            "article_number": "128",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 564,
+            "block_end": 564
+        },
+        "Article 129": {
+            "heading": "Digital Assets and Electronic Trade Documents",
+            "article_number": "129",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 565,
+            "block_end": 569
+        },
+        "Article 129(1)(a)": {
+            "heading": "Digital Assets and Electronic Trade Documents",
+            "article_number": "129",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 567,
+            "block_end": 567
+        },
+        "Article 129(1)": {
+            "heading": "Digital Assets and Electronic Trade Documents",
+            "article_number": "129",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 566,
+            "block_end": 567
+        },
+        "Article 129(2)": {
+            "heading": "Digital Assets and Electronic Trade Documents",
+            "article_number": "129",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 568,
+            "block_end": 568
+        },
+        "Article 129(3)": {
+            "heading": "Digital Assets and Electronic Trade Documents",
+            "article_number": "129",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 569,
+            "block_end": 569
+        },
+        "Article 129A": {
+            "heading": "Security Rights in Intermediated Financial Property",
+            "article_number": "129A",
+            "page_start": 40,
+            "page_end": 41,
+            "block_start": 570,
+            "block_end": 573
+        },
+        "Article 130(1)": {
+            "heading": "Appointment of the Registrar",
+            "article_number": "130",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 575,
+            "block_end": 575
+        },
+        "Article 131": {
+            "heading": "The functions of the Registrar",
+            "article_number": "131",
+            "page_start": 41,
+            "page_end": 43,
+            "block_start": 576,
+            "block_end": 587
+        },
+        "Article 131(1)(a)": {
+            "heading": "The functions of the Registrar",
+            "article_number": "131",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 578,
+            "block_end": 578
+        },
+        "Article 131(1)": {
+            "heading": "The functions of the Registrar",
+            "article_number": "131",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 577,
+            "block_end": 578
+        },
+        "Article 131(2)(a)": {
+            "heading": "The functions of the Registrar",
+            "article_number": "131",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 580,
+            "block_end": 580
+        },
+        "Article 131(2)(i)": {
+            "heading": "The functions of the Registrar",
+            "article_number": "131",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 581,
+            "block_end": 582
+        },
+        "Article 131(2)(b)": {
+            "heading": "The functions of the Registrar",
+            "article_number": "131",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 583,
+            "block_end": 584
+        },
+        "Article 131(2)": {
+            "heading": "The functions of the Registrar",
+            "article_number": "131",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 579,
+            "block_end": 584
+        },
+        "Article 131(3)": {
+            "heading": "The functions of the Registrar",
+            "article_number": "131",
+            "page_start": 42,
+            "page_end": 43,
+            "block_start": 585,
+            "block_end": 587
+        },
+        "Article 132(1)": {
+            "heading": "Security Registry",
+            "article_number": "132",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 589,
+            "block_end": 589
+        },
+        "Article 133": {
+            "heading": "Effect of certain events on effectiveness of Financing Statement",
+            "article_number": "133",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 590,
+            "block_end": 594
+        },
+        "Article 133(1)": {
+            "heading": "Effect of certain events on effectiveness of Financing Statement",
+            "article_number": "133",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 591,
+            "block_end": 591
+        },
+        "Article 133(2)": {
+            "heading": "Effect of certain events on effectiveness of Financing Statement",
+            "article_number": "133",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 592,
+            "block_end": 592
+        },
+        "Article 133(3)(a)": {
+            "heading": "Effect of certain events on effectiveness of Financing Statement",
+            "article_number": "133",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 594,
+            "block_end": 594
+        },
+        "Article 133(3)": {
+            "heading": "Effect of certain events on effectiveness of Financing Statement",
+            "article_number": "133",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 593,
+            "block_end": 594
+        },
+        "Article 134": {
+            "heading": "Effectiveness of Financing Statement if new Grantor becomes bound by Security Agreement",
+            "article_number": "134",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 595,
+            "block_end": 598
+        },
+        "Article 134(1)": {
+            "heading": "Effectiveness of Financing Statement if new Grantor becomes bound by Security Agreement",
+            "article_number": "134",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 596,
+            "block_end": 596
+        },
+        "Article 134(2)(a)": {
+            "heading": "Effectiveness of Financing Statement if new Grantor becomes bound by Security Agreement",
+            "article_number": "134",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 598,
+            "block_end": 598
+        },
+        "Article 134(2)": {
+            "heading": "Effectiveness of Financing Statement if new Grantor becomes bound by Security Agreement",
+            "article_number": "134",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 597,
+            "block_end": 598
+        },
+        "Article 135": {
+            "heading": "Persons entitled to file a record",
+            "article_number": "135",
+            "page_start": 43,
+            "page_end": 44,
+            "block_start": 599,
+            "block_end": 607
+        },
+        "Article 135(1)(a)": {
+            "heading": "Persons entitled to file a record",
+            "article_number": "135",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 603,
+            "block_end": 604
+        },
+        "Article 135(1)": {
+            "heading": "Persons entitled to file a record",
+            "article_number": "135",
+            "page_start": 43,
+            "page_end": 44,
+            "block_start": 600,
+            "block_end": 604
+        },
+        "Article 135(3)": {
+            "heading": "Persons entitled to file a record",
+            "article_number": "135",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 605,
+            "block_end": 605
+        },
+        "Article 135(4)(a)": {
+            "heading": "Persons entitled to file a record",
+            "article_number": "135",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 607,
+            "block_end": 607
+        },
+        "Article 135(4)": {
+            "heading": "Persons entitled to file a record",
+            "article_number": "135",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 606,
+            "block_end": 607
+        },
+        "Article 136": {
+            "heading": "Amendment of Financing Statement",
+            "article_number": "136",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 608,
+            "block_end": 609
+        },
+        "Article 136(1)": {
+            "heading": "Amendment of Financing Statement",
+            "article_number": "136",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 609,
+            "block_end": 609
+        },
+        "Article 137": {
+            "heading": "Termination statement",
+            "article_number": "137",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 610,
+            "block_end": 613
+        },
+        "Article 137(1)(a)": {
+            "heading": "Termination statement",
+            "article_number": "137",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 612,
+            "block_end": 612
+        },
+        "Article 137(1)": {
+            "heading": "Termination statement",
+            "article_number": "137",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 611,
+            "block_end": 612
+        },
+        "Article 137(2)": {
+            "heading": "Termination statement",
+            "article_number": "137",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 613,
+            "block_end": 613
+        },
+        "Article 138": {
+            "heading": "Duration and effectiveness of Financing Statement; effect of lapsed Financing Statement",
+            "article_number": "138",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 614,
+            "block_end": 616
+        },
+        "Article 138(1)": {
+            "heading": "Duration and effectiveness of Financing Statement; effect of lapsed Financing Statement",
+            "article_number": "138",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 615,
+            "block_end": 616
+        },
+        "Article 139": {
+            "heading": "Refusal to accept record",
+            "article_number": "139",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 617,
+            "block_end": 618
+        },
+        "Article 140": {
+            "heading": "Reference of disputes to the DIFC Courts",
+            "article_number": "140",
+            "page_start": 45,
+            "page_end": 46,
+            "block_start": 619,
+            "block_end": 622
+        },
+        "Article 141(1)(a)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 631,
+            "block_end": 631
+        },
+        "Article 141(1)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 630,
+            "block_end": 631
+        },
+        "Article 141(2)(a)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 46,
+            "page_end": 47,
+            "block_start": 627,
+            "block_end": 629
+        },
+        "Article 141(2)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 632,
+            "block_end": 632
+        },
+        "Article 141(3)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 633,
+            "block_end": 633
+        },
+        "Article 141(4)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 634,
+            "block_end": 634
+        },
+        "Article 141(5)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 635,
+            "block_end": 635
+        },
+        "Article 141(6)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 636,
+            "block_end": 636
+        },
+        "Article 141(7)(a)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 638,
+            "block_end": 638
+        },
+        "Article 141(7)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 637,
+            "block_end": 638
+        },
+        "Article 141(8)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 639,
+            "block_end": 639
+        },
+        "Article 141(9)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 640,
+            "block_end": 640
+        },
+        "Article 141(10)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 641,
+            "block_end": 641
+        },
+        "Article 141(11)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 642,
+            "block_end": 642
+        },
+        "Article 141(12)(a)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 644,
+            "block_end": 645
+        },
+        "Article 141(12)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 643,
+            "block_end": 645
+        },
+        "Article 141(13)(a)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 48,
+            "page_end": 49,
+            "block_start": 647,
+            "block_end": 650
+        },
+        "Article 141(13)": {
+            "heading": "Power to make Regulations",
+            "article_number": "141",
+            "page_start": 48,
+            "page_end": 49,
+            "block_start": 646,
+            "block_end": 650
+        },
+        "Article 1(1)(a)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 49,
+            "page_end": 49,
+            "block_start": 653,
+            "block_end": 653
+        },
+        "Article 1(1)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 49,
+            "page_end": 49,
+            "block_start": 652,
+            "block_end": 653
+        },
+        "Article 1(2)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 49,
+            "page_end": 49,
+            "block_start": 654,
+            "block_end": 654
+        },
+        "Article 1(3)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 49,
+            "page_end": 49,
+            "block_start": 655,
+            "block_end": 655
+        }
+    },
+    "section_heading_index": {
+        "Title ... . 1 2. Legislative Authority .. . 1 3. Application of the Law.. 1 4. Purpose of this Law ..... . 5. Dates of enactment, commencement and transition . 1 6. Repeal of the 2005 Law and Financial Collateral Regulations 2019 and continuation of the Securities Regulations 2019.. 7. Interpretation .... 1 8. Administration of the Law... 1 9. Scope of application ... . 2 10. Party autonomy . ............................................................. .. 2 11. General standards of conduct ....... . 2 12. International origin and general principles ... . 2": [
+            {
+                "heading": "Title ... . 1 2. Legislative Authority .. . 1 3. Application of the Law.. 1 4. Purpose of this Law ..... . 5. Dates of enactment, commencement and transition . 1 6. Repeal of the 2005 Law and Financial Collateral Regulations 2019 and continuation of the Securities Regulations 2019.. 7. Interpretation .... 1 8. Administration of the Law... 1 9. Scope of application ... . 2 10. Party autonomy . ............................................................. .. 2 11. General standards of conduct ....... . 2 12. International origin and general principles ... . 2",
+                "article_number": "1",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 6,
+                "block_end": 8
+            }
+        ],
+        "Creation of a Security Right and requirements for a Security Agreement.. . 3 14. Obligations that may be secured. . 3 15. Assets that may be encumbered . 3 16. Description of Encumbered Assets and Secured Obligations.. . 3 17. Rights to Proceeds and commingled Money, Digital Assets or Financial Collateral. . 3 18. Tangible Assets commingled in a Mass or transformed into a Product . 4 19. Extinguishment of Security Rights. 4": [
+            {
+                "heading": "Creation of a Security Right and requirements for a Security Agreement.. . 3 14. Obligations that may be secured. . 3 15. Assets that may be encumbered . 3 16. Description of Encumbered Assets and Secured Obligations.. . 3 17. Rights to Proceeds and commingled Money, Digital Assets or Financial Collateral. . 3 18. Tangible Assets commingled in a Mass or transformed into a Product . 4 19. Extinguishment of Security Rights. 4",
+                "article_number": "13",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 9,
+                "block_end": 10
+            }
+        ],
+        "Contractual limitations on the creation of Security Rights in Receivables... .... 4 21. Personal or property rights securing or supporting payment or other performance of encumbered Receivables or other Intangible Assets, or Negotiable Instruments . .. 5 22. Right to receive the proceeds under an Independent Undertaking . . 5 23. Rights to payment of Money credited to a Bank Account .. .. 5 24. Negotiable Documents and Tangible Assets covered by Negotiable Documents.. . 5 25. Tangible Assets with respect to which Intellectual Property is used . . 5": [
+            {
+                "heading": "Contractual limitations on the creation of Security Rights in Receivables... .... 4 21. Personal or property rights securing or supporting payment or other performance of encumbered Receivables or other Intangible Assets, or Negotiable Instruments . .. 5 22. Right to receive the proceeds under an Independent Undertaking . . 5 23. Rights to payment of Money credited to a Bank Account .. .. 5 24. Negotiable Documents and Tangible Assets covered by Negotiable Documents.. . 5 25. Tangible Assets with respect to which Intellectual Property is used . . 5",
+                "article_number": "20",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 11,
+                "block_end": 13
+            }
+        ],
+        "Primary methods for achieving third-party effectiveness.. .. 6 27. Proceeds . ... 6 28. Tangible Assets commingled in a Mass or transformed into a Product . ... 6 29. Changes in the method for achieving third-party effectiveness. .. 6 30. Lapses in third-party effectiveness ..... .... 6 31. Continuity in third-party effectiveness upon a change of the applicable law to this Law . .. 6 32. Acquisition Security Rights in Consumer Goods... .. 7": [
+            {
+                "heading": "Primary methods for achieving third-party effectiveness.. .. 6 27. Proceeds . ... 6 28. Tangible Assets commingled in a Mass or transformed into a Product . ... 6 29. Changes in the method for achieving third-party effectiveness. .. 6 30. Lapses in third-party effectiveness ..... .... 6 31. Continuity in third-party effectiveness upon a change of the applicable law to this Law . .. 6 32. Acquisition Security Rights in Consumer Goods... .. 7",
+                "article_number": "26",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 14,
+                "block_end": 15
+            }
+        ],
+        "Rights to payment of Money credited to a Bank Account . . 7 34. Digital Assets.. .. 7 35. Negotiable Documents and Tangible Assets covered by Negotiable Documents... ... 7 36. Uncertificated Non-intermediated Financial Property.. . 7 37. Right to receive the proceeds under an Independent Undertaking . . 7": [
+            {
+                "heading": "Rights to payment of Money credited to a Bank Account . . 7 34. Digital Assets.. .. 7 35. Negotiable Documents and Tangible Assets covered by Negotiable Documents... ... 7 36. Uncertificated Non-intermediated Financial Property.. . 7 37. Right to receive the proceeds under an Independent Undertaking . . 7",
+                "article_number": "33",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 16,
+                "block_end": 18
+            }
+        ],
+        "Competing Security Rights created by the same Grantor.... . 9 39. Competing Security Rights created by different Grantors..... .. 9 40. Competing Security Rights in the case of a change in the method of third-party effectiveness. . 9 41. Competing Security Rights in Proceeds .. . 9 42. Competing Security Rights in Tangible Assets commingled in a Mass or transformed into a Product ........ 9 43. Security Rights competing with rights of buyers or other transferees, lessees or licensees of an Encumbered Asset ..... 10 44. Impact of the Grantor’s insolvency on the Priority of a Security Right . 10 45. Security Rights competing with Preferential Debts... 10 46. Security Rights competing with rights of Judgment Creditors.. . 10 47. Acquisition Security Rights competing with non-Acquisition Security Rights . 11 48. Competing Acquisition Security Rights . . 12 49. Acquisition Security Rights competing with the rights of Judgment Creditors . . 12 50. Competing Security Rights in Proceeds of an asset subject to an Acquisition Security Right .. .... 12 51. Acquisition Security Rights extending to a Mass or Product competing with non-Acquisition Security Rights in the Mass or Product . . 12 52. Subordination .. . 12 53. Future advances and future Encumbered Assets 13 54. Irrelevance of Knowledge of the existence of a Security Right . 1 3": [
+            {
+                "heading": "Competing Security Rights created by the same Grantor.... . 9 39. Competing Security Rights created by different Grantors..... .. 9 40. Competing Security Rights in the case of a change in the method of third-party effectiveness. . 9 41. Competing Security Rights in Proceeds .. . 9 42. Competing Security Rights in Tangible Assets commingled in a Mass or transformed into a Product ........ 9 43. Security Rights competing with rights of buyers or other transferees, lessees or licensees of an Encumbered Asset ..... 10 44. Impact of the Grantor’s insolvency on the Priority of a Security Right . 10 45. Security Rights competing with Preferential Debts... 10 46. Security Rights competing with rights of Judgment Creditors.. . 10 47. Acquisition Security Rights competing with non-Acquisition Security Rights . 11 48. Competing Acquisition Security Rights . . 12 49. Acquisition Security Rights competing with the rights of Judgment Creditors . . 12 50. Competing Security Rights in Proceeds of an asset subject to an Acquisition Security Right .. .... 12 51. Acquisition Security Rights extending to a Mass or Product competing with non-Acquisition Security Rights in the Mass or Product . . 12 52. Subordination .. . 12 53. Future advances and future Encumbered Assets 13 54. Irrelevance of Knowledge of the existence of a Security Right . 1 3",
+                "article_number": "38",
+                "page_start": 2,
+                "page_end": 3,
+                "block_start": 19,
+                "block_end": 22
+            }
+        ],
+        "Negotiable Instruments.. . 13 56. Negotiable Documents and Tangible Assets covered by Negotiable Documents. . 13 57. Intellectual property .... . 13 58. Non-intermediated Financial Property . ... 14 59. Digital Assets.. .. 14 60. Right to receive the proceeds under an Independent Undertaking . . 14 61. Physical Money ... . 14": [
+            {
+                "heading": "Negotiable Instruments.. . 13 56. Negotiable Documents and Tangible Assets covered by Negotiable Documents. . 13 57. Intellectual property .... . 13 58. Non-intermediated Financial Property . ... 14 59. Digital Assets.. .. 14 60. Right to receive the proceeds under an Independent Undertaking . . 14 61. Physical Money ... . 14",
+                "article_number": "55",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 23,
+                "block_end": 26
+            }
+        ],
+        "Sources of mutual rights and obligations of the parties... . 15 63. Obligation of the party in Possession to exercise reasonable care... 1 5 64. Obligation of the Secured Creditor to return an Encumbered Asset.. .. 15 65. Right of the Secured Creditor to use and inspect an Encumbered Asset, and to be reimbursed for expenses ... . 15 66. Right of the Grantor to obtain information. . 15": [
+            {
+                "heading": "Sources of mutual rights and obligations of the parties... . 15 63. Obligation of the party in Possession to exercise reasonable care... 1 5 64. Obligation of the Secured Creditor to return an Encumbered Asset.. .. 15 65. Right of the Secured Creditor to use and inspect an Encumbered Asset, and to be reimbursed for expenses ... . 15 66. Right of the Grantor to obtain information. . 15",
+                "article_number": "62",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 27,
+                "block_end": 28
+            }
+        ],
+        "Representations of the Grantor of a Security Right in a Receivable . . 16 68. Right of the Grantor or the Secured Creditor to notify the Debtor of the Receivable . . 16 69. Right of the Secured Creditor to payment of a Receivable . . 16 70. Right of the Secured Creditor to preserve encumbered Intellectual Property . 16": [
+            {
+                "heading": "Representations of the Grantor of a Security Right in a Receivable . . 16 68. Right of the Grantor or the Secured Creditor to notify the Debtor of the Receivable . . 16 69. Right of the Secured Creditor to payment of a Receivable . . 16 70. Right of the Secured Creditor to preserve encumbered Intellectual Property . 16",
+                "article_number": "67",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 29,
+                "block_end": 31
+            }
+        ],
+        "Protection of the Debtor of the Receivable . 1 6 72. Notification of a Security Right in a Receivable . .......................... . 17 73. Discharge of the Debtor of the Receivable by payment . 1 7 74. Defences and rights of set-off of the Debtor of the Receivable.. 18 75. Agreement not to raise defences or rights of set-off.. . 18 76. Modification of the contract giving rise to a Receivable. . 18 77. Recovery of payments . 1 9": [
+            {
+                "heading": "Protection of the Debtor of the Receivable . 1 6 72. Notification of a Security Right in a Receivable . .......................... . 17 73. Discharge of the Debtor of the Receivable by payment . 1 7 74. Defences and rights of set-off of the Debtor of the Receivable.. 18 75. Agreement not to raise defences or rights of set-off.. . 18 76. Modification of the contract giving rise to a Receivable. . 18 77. Recovery of payments . 1 9",
+                "article_number": "71",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 32,
+                "block_end": 33
+            }
+        ],
+        "Rights as against the obligor under a Negotiable Instrument .. .. 19": [
+            {
+                "heading": "Rights as against the obligor under a Negotiable Instrument .. .. 19",
+                "article_number": "78",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 34,
+                "block_end": 35
+            }
+        ],
+        "Rights as against the Bank.. 19": [
+            {
+                "heading": "Rights as against the Bank.. 19",
+                "article_number": "79",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 36,
+                "block_end": 39
+            }
+        ],
+        "Rights as against the issuer of a Negotiable Document.. 19": [
+            {
+                "heading": "Rights as against the issuer of a Negotiable Document.. 19",
+                "article_number": "80",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 40,
+                "block_end": 44
+            }
+        ],
+        "Post-Default rights... . 21 84. Methods of exercising post-Default rights . . 21 85. Relief for non-compliance..... .. 21 86. Right of affected persons to terminate enforcement . . 21 87. Right of a higher-ranking Secured Creditor to take over enforcement... . 21 88. Right of the Secured Creditor to obtain Possession of an Encumbered Asset . . 21 89. Right of the Secured Creditor to dispose of an Encumbered Asset . . 21 90. Distribution of the Proceeds of a disposition of an Encumbered Asset and Debtor’s liability for any deficiency ..... . 23 91. Right to propose the acquisition of an Encumbered Asset by the Secured Creditor.. . 23 92. Rights acquired in an Encumbered Asset . . 24": [
+            {
+                "heading": "Post-Default rights... . 21 84. Methods of exercising post-Default rights . . 21 85. Relief for non-compliance..... .. 21 86. Right of affected persons to terminate enforcement . . 21 87. Right of a higher-ranking Secured Creditor to take over enforcement... . 21 88. Right of the Secured Creditor to obtain Possession of an Encumbered Asset . . 21 89. Right of the Secured Creditor to dispose of an Encumbered Asset . . 21 90. Distribution of the Proceeds of a disposition of an Encumbered Asset and Debtor’s liability for any deficiency ..... . 23 91. Right to propose the acquisition of an Encumbered Asset by the Secured Creditor.. . 23 92. Rights acquired in an Encumbered Asset . . 24",
+                "article_number": "83",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 45,
+                "block_end": 46
+            }
+        ],
+        "Collection of payment . . 25 94. Collection of payment by an outright transferee of a Receivable.. . 25": [
+            {
+                "heading": "Collection of payment . . 25 94. Collection of payment by an outright transferee of a Receivable.. . 25",
+                "article_number": "93",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 47,
+                "block_end": 48
+            }
+        ],
+        "Application to Real Property within the jurisdiction of the DIFC. . 26 96. Creation and continuation of a Security Right in a Fixture . . 26 97. Automatic third-party effectiveness of a Security Right in a Fixture . . 26 98. Third-party effectiveness of a Security Right in a Fixture and the Real Property Register... . 26 99. Priority of a Security Right in a Fixture . . 26 100. Intersection of enforcement regimes .. . 26 101. Enforcement of a Security Right in a Fixture.. .. 26 102. Priority of an Acquisition Security Right in a Fixture as against an earlier registered encumbrance on the Real Property...... .. 26 103. Application to Real Property outside the jurisdiction. .. 27": [
+            {
+                "heading": "Application to Real Property within the jurisdiction of the DIFC. . 26 96. Creation and continuation of a Security Right in a Fixture . . 26 97. Automatic third-party effectiveness of a Security Right in a Fixture . . 26 98. Third-party effectiveness of a Security Right in a Fixture and the Real Property Register... . 26 99. Priority of a Security Right in a Fixture . . 26 100. Intersection of enforcement regimes .. . 26 101. Enforcement of a Security Right in a Fixture.. .. 26 102. Priority of an Acquisition Security Right in a Fixture as against an earlier registered encumbrance on the Real Property...... .. 26 103. Application to Real Property outside the jurisdiction. .. 27",
+                "article_number": "95",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 49,
+                "block_end": 50
+            }
+        ],
+        "Financial Collateral . 28 105. Title Transfer . . 28 106. Security Financial Collateral Arrangements. . 28 107. Priority of interests in the same Financial Collateral. . 29 108. Security Rights competing with rights of transferees of Financial Collateral . .. 30 109. Rights of Use, release of excess and substitution of Financial Collateral . 3 0 110. Enforcement of Financial Collateral Arrangements . . 30": [
+            {
+                "heading": "Financial Collateral . 28 105. Title Transfer . . 28 106. Security Financial Collateral Arrangements. . 28 107. Priority of interests in the same Financial Collateral. . 29 108. Security Rights competing with rights of transferees of Financial Collateral . .. 30 109. Rights of Use, release of excess and substitution of Financial Collateral . 3 0 110. Enforcement of Financial Collateral Arrangements . . 30",
+                "article_number": "104",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 51,
+                "block_end": 53
+            }
+        ],
+        "Mutual rights and obligations of the Grantor and the Secured Creditor . . 31 112. Security Rights in Tangible assets .. . 31 113. Security Rights in Intangible Assets .. . 31 114. Security Rights in Receivables relating to Real Property. . 31 115. Enforcement of Security Rights . 31 116. Security Rights in Proceeds. .. 32 117. Meaning of “location” of the Grantor... .. 33 118. Relevant time for determining location . .. 33 119. Exclusion of renvoi . 33 120. Overriding mandatory rules and public policy (ordre public) ... . 33 121. Impact of commencement of Insolvency Proceedings on the law applicable to a Security Right 34 122. Multi-unit states.. . 34": [
+            {
+                "heading": "Mutual rights and obligations of the Grantor and the Secured Creditor . . 31 112. Security Rights in Tangible assets .. . 31 113. Security Rights in Intangible Assets .. . 31 114. Security Rights in Receivables relating to Real Property. . 31 115. Enforcement of Security Rights . 31 116. Security Rights in Proceeds. .. 32 117. Meaning of “location” of the Grantor... .. 33 118. Relevant time for determining location . .. 33 119. Exclusion of renvoi . 33 120. Overriding mandatory rules and public policy (ordre public) ... . 33 121. Impact of commencement of Insolvency Proceedings on the law applicable to a Security Right 34 122. Multi-unit states.. . 34",
+                "article_number": "111",
+                "page_start": 4,
+                "page_end": 5,
+                "block_start": 54,
+                "block_end": 57
+            }
+        ],
+        "Rights and obligations between third-party obligors and Secured Creditors.. 34 124. Security Rights in rights to payment of Money credited to a Bank Account.. . 34 125. Third-party effectiveness of a Security Right in certain types of asset by registration . 35 126. Security Rights in Intellectual Property.. . 35 127. Security Rights in Non-intermediated Financial Property... .. 35 128. Security Rights in the right to receive the proceeds under an Independent Undertaking 35 129. Digital Assets and Electronic Trade Documents .. 36": [
+            {
+                "heading": "Rights and obligations between third-party obligors and Secured Creditors.. 34 124. Security Rights in rights to payment of Money credited to a Bank Account.. . 34 125. Third-party effectiveness of a Security Right in certain types of asset by registration . 35 126. Security Rights in Intellectual Property.. . 35 127. Security Rights in Non-intermediated Financial Property... .. 35 128. Security Rights in the right to receive the proceeds under an Independent Undertaking 35 129. Digital Assets and Electronic Trade Documents .. 36",
+                "article_number": "123",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 58,
+                "block_end": 59
+            }
+        ],
+        "Appointment of the Registrar .. . 37 131. The functions of the Registrar ........ .... 37": [
+            {
+                "heading": "Appointment of the Registrar .. . 37 131. The functions of the Registrar ........ .... 37",
+                "article_number": "130",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 60,
+                "block_end": 61
+            }
+        ],
+        "Security Registry .... . 39 133. Effect of certain events on effectiveness of Financing Statement . . 39 134. Effectiveness of Financing Statement if new Grantor becomes bound by Security Agreement. . 39 135. Persons entitled to file a record . . 39 136. Amendment of Financing Statement . .. 40 137. Termination statement . . 40 138. Duration and effectiveness of Financing Statement; effect of lapsed Financing Statement .. .. 40 139. Refusal to accept record .. .. 41 140. Reference of disputes to the DIFC Courts. .. 40": [
+            {
+                "heading": "Security Registry .... . 39 133. Effect of certain events on effectiveness of Financing Statement . . 39 134. Effectiveness of Financing Statement if new Grantor becomes bound by Security Agreement. . 39 135. Persons entitled to file a record . . 39 136. Amendment of Financing Statement . .. 40 137. Termination statement . . 40 138. Duration and effectiveness of Financing Statement; effect of lapsed Financing Statement .. .. 40 139. Refusal to accept record .. .. 41 140. Reference of disputes to the DIFC Courts. .. 40",
+                "article_number": "132",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 62,
+                "block_end": 63
+            }
+        ],
+        "Power to make Regulations . . 42": [
+            {
+                "heading": "Power to make Regulations . . 42",
+                "article_number": "141",
+                "page_start": 5,
+                "page_end": 6,
+                "block_start": 64,
+                "block_end": 68
+            }
+        ],
+        "Title": [
+            {
+                "heading": "Title",
+                "article_number": "1",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 69,
+                "block_end": 70
+            }
+        ],
+        "Legislative Authority": [
+            {
+                "heading": "Legislative Authority",
+                "article_number": "2",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 71,
+                "block_end": 72
+            }
+        ],
+        "Application of the Law": [
+            {
+                "heading": "Application of the Law",
+                "article_number": "3",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 73,
+                "block_end": 74
+            }
+        ],
+        "Purpose of this Law": [
+            {
+                "heading": "Purpose of this Law",
+                "article_number": "4",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 75,
+                "block_end": 76
+            }
+        ],
+        "Dates of enactment, commencement and transition": [
+            {
+                "heading": "Dates of enactment, commencement and transition",
+                "article_number": "5",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 77,
+                "block_end": 81
+            }
+        ],
+        "Repeal of the 2005 Law and Financial Collateral Regulations 2019 and continuation of the Securities Regulations 2019": [
+            {
+                "heading": "Repeal of the 2005 Law and Financial Collateral Regulations 2019 and continuation of the Securities Regulations 2019",
+                "article_number": "6",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 82,
+                "block_end": 83
+            }
+        ],
+        "Interpretation": [
+            {
+                "heading": "Interpretation",
+                "article_number": "7",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 84,
+                "block_end": 86
+            }
+        ],
+        "Administration of the Law": [
+            {
+                "heading": "Administration of the Law",
+                "article_number": "8",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 87,
+                "block_end": 90
+            }
+        ],
+        "Scope of application": [
+            {
+                "heading": "Scope of application",
+                "article_number": "9",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 91,
+                "block_end": 92
+            }
+        ],
+        "Party autonomy": [
+            {
+                "heading": "Party autonomy",
+                "article_number": "10",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 93,
+                "block_end": 94
+            }
+        ],
+        "General standards of conduct": [
+            {
+                "heading": "General standards of conduct",
+                "article_number": "11",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 95,
+                "block_end": 96
+            }
+        ],
+        "International origin and general principles": [
+            {
+                "heading": "International origin and general principles",
+                "article_number": "12",
+                "page_start": 7,
+                "page_end": 8,
+                "block_start": 97,
+                "block_end": 102
+            }
+        ],
+        "Creation of a Security Right and requirements for a Security Agreement": [
+            {
+                "heading": "Creation of a Security Right and requirements for a Security Agreement",
+                "article_number": "13",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 103,
+                "block_end": 105
+            }
+        ],
+        "Obligations that may be secured": [
+            {
+                "heading": "Obligations that may be secured",
+                "article_number": "14",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 106,
+                "block_end": 107
+            }
+        ],
+        "Assets that may be encumbered": [
+            {
+                "heading": "Assets that may be encumbered",
+                "article_number": "15",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 108,
+                "block_end": 110
+            }
+        ],
+        "Description of Encumbered Assets and Secured Obligations": [
+            {
+                "heading": "Description of Encumbered Assets and Secured Obligations",
+                "article_number": "16",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 111,
+                "block_end": 112
+            }
+        ],
+        "Rights to Proceeds and commingled Money, Digital Assets or Financial Collateral": [
+            {
+                "heading": "Rights to Proceeds and commingled Money, Digital Assets or Financial Collateral",
+                "article_number": "17",
+                "page_start": 8,
+                "page_end": 9,
+                "block_start": 113,
+                "block_end": 118
+            }
+        ],
+        "Tangible Assets commingled in a Mass or transformed into a Product": [
+            {
+                "heading": "Tangible Assets commingled in a Mass or transformed into a Product",
+                "article_number": "18",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 119,
+                "block_end": 120
+            },
+            {
+                "heading": "Tangible Assets commingled in a Mass or transformed into a Product",
+                "article_number": "28",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 152,
+                "block_end": 153
+            }
+        ],
+        "Extinguishment of Security Rights": [
+            {
+                "heading": "Extinguishment of Security Rights",
+                "article_number": "19",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 121,
+                "block_end": 123
+            }
+        ],
+        "Contractual limitations on the creation of Security Rights in Receivables": [
+            {
+                "heading": "Contractual limitations on the creation of Security Rights in Receivables",
+                "article_number": "20",
+                "page_start": 9,
+                "page_end": 10,
+                "block_start": 124,
+                "block_end": 130
+            }
+        ],
+        "Personal or property rights securing or supporting payment or other performance of encumbered Receivables or other Intangible Assets, or Negotiable Instruments": [
+            {
+                "heading": "Personal or property rights securing or supporting payment or other performance of encumbered Receivables or other Intangible Assets, or Negotiable Instruments",
+                "article_number": "21",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 131,
+                "block_end": 134
+            }
+        ],
+        "Right to receive the proceeds under an Independent Undertaking": [
+            {
+                "heading": "Right to receive the proceeds under an Independent Undertaking",
+                "article_number": "22",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 135,
+                "block_end": 136
+            },
+            {
+                "heading": "Right to receive the proceeds under an Independent Undertaking",
+                "article_number": "37",
+                "page_start": 12,
+                "page_end": 14,
+                "block_start": 177,
+                "block_end": 187
+            },
+            {
+                "heading": "Right to receive the proceeds under an Independent Undertaking",
+                "article_number": "60",
+                "page_start": 19,
+                "page_end": 19,
+                "block_start": 272,
+                "block_end": 273
+            }
+        ],
+        "Rights to payment of Money credited to a Bank Account": [
+            {
+                "heading": "Rights to payment of Money credited to a Bank Account",
+                "article_number": "23",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 137,
+                "block_end": 138
+            },
+            {
+                "heading": "Rights to payment of Money credited to a Bank Account",
+                "article_number": "33",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 167,
+                "block_end": 169
+            }
+        ],
+        "Negotiable Documents and Tangible Assets covered by Negotiable Documents": [
+            {
+                "heading": "Negotiable Documents and Tangible Assets covered by Negotiable Documents",
+                "article_number": "24",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 139,
+                "block_end": 140
+            },
+            {
+                "heading": "Negotiable Documents and Tangible Assets covered by Negotiable Documents",
+                "article_number": "35",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 172,
+                "block_end": 173
+            },
+            {
+                "heading": "Negotiable Documents and Tangible Assets covered by Negotiable Documents",
+                "article_number": "56",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 255,
+                "block_end": 259
+            }
+        ],
+        "Tangible Assets with respect to which Intellectual Property is used": [
+            {
+                "heading": "Tangible Assets with respect to which Intellectual Property is used",
+                "article_number": "25",
+                "page_start": 10,
+                "page_end": 11,
+                "block_start": 141,
+                "block_end": 145
+            }
+        ],
+        "Primary methods for achieving third-party effectiveness": [
+            {
+                "heading": "Primary methods for achieving third-party effectiveness",
+                "article_number": "26",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 146,
+                "block_end": 147
+            }
+        ],
+        "Proceeds": [
+            {
+                "heading": "Proceeds",
+                "article_number": "27",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 148,
+                "block_end": 151
+            }
+        ],
+        "Changes in the method for achieving third-party effectiveness": [
+            {
+                "heading": "Changes in the method for achieving third-party effectiveness",
+                "article_number": "29",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 154,
+                "block_end": 155
+            }
+        ],
+        "Lapses in third-party effectiveness": [
+            {
+                "heading": "Lapses in third-party effectiveness",
+                "article_number": "30",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 156,
+                "block_end": 157
+            }
+        ],
+        "Continuity in third-party effectiveness upon a change of the applicable law to this Law": [
+            {
+                "heading": "Continuity in third-party effectiveness upon a change of the applicable law to this Law",
+                "article_number": "31",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 158,
+                "block_end": 163
+            }
+        ],
+        "Acquisition Security Rights in Consumer Goods": [
+            {
+                "heading": "Acquisition Security Rights in Consumer Goods",
+                "article_number": "32",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 164,
+                "block_end": 166
+            }
+        ],
+        "Digital Assets": [
+            {
+                "heading": "Digital Assets",
+                "article_number": "34",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 170,
+                "block_end": 171
+            },
+            {
+                "heading": "Digital Assets",
+                "article_number": "59",
+                "page_start": 19,
+                "page_end": 19,
+                "block_start": 269,
+                "block_end": 271
+            }
+        ],
+        "Uncertificated Non-intermediated Financial Property": [
+            {
+                "heading": "Uncertificated Non-intermediated Financial Property",
+                "article_number": "36",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 174,
+                "block_end": 176
+            }
+        ],
+        "Competing Security Rights created by the same Grantor": [
+            {
+                "heading": "Competing Security Rights created by the same Grantor",
+                "article_number": "38",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 188,
+                "block_end": 190
+            }
+        ],
+        "Competing Security Rights created by different Grantors": [
+            {
+                "heading": "Competing Security Rights created by different Grantors",
+                "article_number": "39",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 191,
+                "block_end": 192
+            }
+        ],
+        "Competing Security Rights in the case of a change in the method of third-party effectiveness": [
+            {
+                "heading": "Competing Security Rights in the case of a change in the method of third-party effectiveness",
+                "article_number": "40",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 193,
+                "block_end": 194
+            }
+        ],
+        "Competing Security Rights in Proceeds": [
+            {
+                "heading": "Competing Security Rights in Proceeds",
+                "article_number": "41",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 195,
+                "block_end": 196
+            }
+        ],
+        "Competing Security Rights in Tangible Assets commingled in a Mass or transformed into a Product": [
+            {
+                "heading": "Competing Security Rights in Tangible Assets commingled in a Mass or transformed into a Product",
+                "article_number": "42",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 197,
+                "block_end": 202
+            }
+        ],
+        "Security Rights competing with rights of buyers or other transferees, lessees or licensees of an Encumbered Asset": [
+            {
+                "heading": "Security Rights competing with rights of buyers or other transferees, lessees or licensees of an Encumbered Asset",
+                "article_number": "43",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 203,
+                "block_end": 212
+            }
+        ],
+        "Impact of the Grantor’s insolvency on the Priority of a Security Right": [
+            {
+                "heading": "Impact of the Grantor’s insolvency on the Priority of a Security Right",
+                "article_number": "44",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 213,
+                "block_end": 214
+            }
+        ],
+        "Security Rights competing with Preferential Debts": [
+            {
+                "heading": "Security Rights competing with Preferential Debts",
+                "article_number": "45",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 215,
+                "block_end": 216
+            }
+        ],
+        "Security Rights competing with rights of Judgment Creditors": [
+            {
+                "heading": "Security Rights competing with rights of Judgment Creditors",
+                "article_number": "46",
+                "page_start": 15,
+                "page_end": 16,
+                "block_start": 217,
+                "block_end": 221
+            }
+        ],
+        "Acquisition Security Rights competing with non-Acquisition Security Rights": [
+            {
+                "heading": "Acquisition Security Rights competing with non-Acquisition Security Rights",
+                "article_number": "47",
+                "page_start": 16,
+                "page_end": 17,
+                "block_start": 222,
+                "block_end": 232
+            }
+        ],
+        "Competing Acquisition Security Rights": [
+            {
+                "heading": "Competing Acquisition Security Rights",
+                "article_number": "48",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 233,
+                "block_end": 234
+            }
+        ],
+        "Acquisition Security Rights competing with the rights of Judgment Creditors": [
+            {
+                "heading": "Acquisition Security Rights competing with the rights of Judgment Creditors",
+                "article_number": "49",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 235,
+                "block_end": 236
+            }
+        ],
+        "Competing Security Rights in Proceeds of an asset subject to an Acquisition Security Right": [
+            {
+                "heading": "Competing Security Rights in Proceeds of an asset subject to an Acquisition Security Right",
+                "article_number": "50",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 237,
+                "block_end": 241
+            }
+        ],
+        "Acquisition Security Rights extending to a Mass or Product competing with non-Acquisition Security Rights in the Mass or Product": [
+            {
+                "heading": "Acquisition Security Rights extending to a Mass or Product competing with non-Acquisition Security Rights in the Mass or Product",
+                "article_number": "51",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 242,
+                "block_end": 243
+            }
+        ],
+        "Subordination": [
+            {
+                "heading": "Subordination",
+                "article_number": "52",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 244,
+                "block_end": 246
+            }
+        ],
+        "Future advances and future Encumbered Assets": [
+            {
+                "heading": "Future advances and future Encumbered Assets",
+                "article_number": "53",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 247,
+                "block_end": 248
+            }
+        ],
+        "Irrelevance of Knowledge of the existence of a Security Right": [
+            {
+                "heading": "Irrelevance of Knowledge of the existence of a Security Right",
+                "article_number": "54",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 249,
+                "block_end": 251
+            }
+        ],
+        "Negotiable Instruments": [
+            {
+                "heading": "Negotiable Instruments",
+                "article_number": "55",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 252,
+                "block_end": 254
+            }
+        ],
+        "Intellectual property": [
+            {
+                "heading": "Intellectual property",
+                "article_number": "57",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 260,
+                "block_end": 262
+            }
+        ],
+        "Non-intermediated Financial Property": [
+            {
+                "heading": "Non-intermediated Financial Property",
+                "article_number": "58",
+                "page_start": 19,
+                "page_end": 19,
+                "block_start": 263,
+                "block_end": 268
+            }
+        ],
+        "Physical Money": [
+            {
+                "heading": "Physical Money",
+                "article_number": "61",
+                "page_start": 19,
+                "page_end": 20,
+                "block_start": 274,
+                "block_end": 279
+            }
+        ],
+        "Sources of mutual rights and obligations of the parties": [
+            {
+                "heading": "Sources of mutual rights and obligations of the parties",
+                "article_number": "62",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 280,
+                "block_end": 281
+            }
+        ],
+        "Obligation of the party in Possession to exercise reasonable care": [
+            {
+                "heading": "Obligation of the party in Possession to exercise reasonable care",
+                "article_number": "63",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 282,
+                "block_end": 283
+            }
+        ],
+        "Obligation of the Secured Creditor to return an Encumbered Asset": [
+            {
+                "heading": "Obligation of the Secured Creditor to return an Encumbered Asset",
+                "article_number": "64",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 284,
+                "block_end": 285
+            }
+        ],
+        "Right of the Secured Creditor to use and inspect an Encumbered Asset, and to be reimbursed for expenses": [
+            {
+                "heading": "Right of the Secured Creditor to use and inspect an Encumbered Asset, and to be reimbursed for expenses",
+                "article_number": "65",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 286,
+                "block_end": 289
+            }
+        ],
+        "Right of the Grantor to obtain information": [
+            {
+                "heading": "Right of the Grantor to obtain information",
+                "article_number": "66",
+                "page_start": 20,
+                "page_end": 21,
+                "block_start": 290,
+                "block_end": 296
+            }
+        ],
+        "Representations of the Grantor of a Security Right in a Receivable": [
+            {
+                "heading": "Representations of the Grantor of a Security Right in a Receivable",
+                "article_number": "67",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 297,
+                "block_end": 300
+            }
+        ],
+        "Right of the Grantor or the Secured Creditor to notify the Debtor of the Receivable": [
+            {
+                "heading": "Right of the Grantor or the Secured Creditor to notify the Debtor of the Receivable",
+                "article_number": "68",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 301,
+                "block_end": 303
+            }
+        ],
+        "Right of the Secured Creditor to payment of a Receivable": [
+            {
+                "heading": "Right of the Secured Creditor to payment of a Receivable",
+                "article_number": "69",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 304,
+                "block_end": 307
+            }
+        ],
+        "Right of the Secured Creditor to preserve encumbered Intellectual Property": [
+            {
+                "heading": "Right of the Secured Creditor to preserve encumbered Intellectual Property",
+                "article_number": "70",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 308,
+                "block_end": 311
+            }
+        ],
+        "Protection of the Debtor of the Receivable": [
+            {
+                "heading": "Protection of the Debtor of the Receivable",
+                "article_number": "71",
+                "page_start": 21,
+                "page_end": 22,
+                "block_start": 312,
+                "block_end": 316
+            }
+        ],
+        "Notification of a Security Right in a Receivable": [
+            {
+                "heading": "Notification of a Security Right in a Receivable",
+                "article_number": "72",
+                "page_start": 22,
+                "page_end": 22,
+                "block_start": 317,
+                "block_end": 319
+            }
+        ],
+        "Discharge of the Debtor of the Receivable by payment": [
+            {
+                "heading": "Discharge of the Debtor of the Receivable by payment",
+                "article_number": "73",
+                "page_start": 22,
+                "page_end": 23,
+                "block_start": 320,
+                "block_end": 331
+            }
+        ],
+        "Defences and rights of set-off of the Debtor of the Receivable": [
+            {
+                "heading": "Defences and rights of set-off of the Debtor of the Receivable",
+                "article_number": "74",
+                "page_start": 23,
+                "page_end": 23,
+                "block_start": 332,
+                "block_end": 335
+            }
+        ],
+        "Agreement not to raise defences or rights of set-off": [
+            {
+                "heading": "Agreement not to raise defences or rights of set-off",
+                "article_number": "75",
+                "page_start": 23,
+                "page_end": 23,
+                "block_start": 336,
+                "block_end": 337
+            }
+        ],
+        "Modification of the contract giving rise to a Receivable": [
+            {
+                "heading": "Modification of the contract giving rise to a Receivable",
+                "article_number": "76",
+                "page_start": 23,
+                "page_end": 24,
+                "block_start": 338,
+                "block_end": 343
+            }
+        ],
+        "Recovery of payments": [
+            {
+                "heading": "Recovery of payments",
+                "article_number": "77",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 344,
+                "block_end": 346
+            }
+        ],
+        "Rights as against the obligor under a Negotiable Instrument": [
+            {
+                "heading": "Rights as against the obligor under a Negotiable Instrument",
+                "article_number": "78",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 347,
+                "block_end": 349
+            }
+        ],
+        "Rights as against the Bank": [
+            {
+                "heading": "Rights as against the Bank",
+                "article_number": "79",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 350,
+                "block_end": 354
+            }
+        ],
+        "Rights as against the issuer of a Negotiable Document": [
+            {
+                "heading": "Rights as against the issuer of a Negotiable Document",
+                "article_number": "80",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 355,
+                "block_end": 357
+            }
+        ],
+        "Rights as against the issuer of a Non-intermediated Financial Property": [
+            {
+                "heading": "Rights as against the issuer of a Non-intermediated Financial Property",
+                "article_number": "81",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 358,
+                "block_end": 360
+            }
+        ],
+        "Rights and obligations of the Guarantor/Issuer, Confirmer or Nominated Person of an Independent Undertaking": [
+            {
+                "heading": "Rights and obligations of the Guarantor/Issuer, Confirmer or Nominated Person of an Independent Undertaking",
+                "article_number": "82",
+                "page_start": 24,
+                "page_end": 26,
+                "block_start": 361,
+                "block_end": 370
+            }
+        ],
+        "Post-Default rights": [
+            {
+                "heading": "Post-Default rights",
+                "article_number": "83",
+                "page_start": 26,
+                "page_end": 26,
+                "block_start": 371,
+                "block_end": 373
+            }
+        ],
+        "Methods of exercising post-Default rights": [
+            {
+                "heading": "Methods of exercising post-Default rights",
+                "article_number": "84",
+                "page_start": 26,
+                "page_end": 26,
+                "block_start": 374,
+                "block_end": 375
+            }
+        ],
+        "Relief for non-compliance": [
+            {
+                "heading": "Relief for non-compliance",
+                "article_number": "85",
+                "page_start": 26,
+                "page_end": 26,
+                "block_start": 376,
+                "block_end": 377
+            }
+        ],
+        "Right of affected persons to terminate enforcement": [
+            {
+                "heading": "Right of affected persons to terminate enforcement",
+                "article_number": "86",
+                "page_start": 26,
+                "page_end": 26,
+                "block_start": 378,
+                "block_end": 382
+            }
+        ],
+        "Right of a higher-ranking Secured Creditor to take over enforcement": [
+            {
+                "heading": "Right of a higher-ranking Secured Creditor to take over enforcement",
+                "article_number": "87",
+                "page_start": 26,
+                "page_end": 27,
+                "block_start": 383,
+                "block_end": 387
+            }
+        ],
+        "Right of the Secured Creditor to obtain Possession of an Encumbered Asset": [
+            {
+                "heading": "Right of the Secured Creditor to obtain Possession of an Encumbered Asset",
+                "article_number": "88",
+                "page_start": 27,
+                "page_end": 27,
+                "block_start": 388,
+                "block_end": 393
+            }
+        ],
+        "Right of the Secured Creditor to dispose of an Encumbered Asset": [
+            {
+                "heading": "Right of the Secured Creditor to dispose of an Encumbered Asset",
+                "article_number": "89",
+                "page_start": 27,
+                "page_end": 28,
+                "block_start": 394,
+                "block_end": 403
+            }
+        ],
+        "Distribution of the Proceeds of a disposition of an Encumbered Asset and Debtor’s liability for any deficiency": [
+            {
+                "heading": "Distribution of the Proceeds of a disposition of an Encumbered Asset and Debtor’s liability for any deficiency",
+                "article_number": "90",
+                "page_start": 28,
+                "page_end": 28,
+                "block_start": 404,
+                "block_end": 408
+            }
+        ],
+        "Right to propose the acquisition of an Encumbered Asset by the Secured Creditor": [
+            {
+                "heading": "Right to propose the acquisition of an Encumbered Asset by the Secured Creditor",
+                "article_number": "91",
+                "page_start": 28,
+                "page_end": 29,
+                "block_start": 409,
+                "block_end": 418
+            }
+        ],
+        "Rights acquired in an Encumbered Asset": [
+            {
+                "heading": "Rights acquired in an Encumbered Asset",
+                "article_number": "92",
+                "page_start": 29,
+                "page_end": 30,
+                "block_start": 419,
+                "block_end": 426
+            }
+        ],
+        "Collection of payment": [
+            {
+                "heading": "Collection of payment",
+                "article_number": "93",
+                "page_start": 30,
+                "page_end": 30,
+                "block_start": 427,
+                "block_end": 432
+            }
+        ],
+        "Collection of payment by an outright transferee of a Receivable": [
+            {
+                "heading": "Collection of payment by an outright transferee of a Receivable",
+                "article_number": "94",
+                "page_start": 30,
+                "page_end": 31,
+                "block_start": 433,
+                "block_end": 436
+            }
+        ],
+        "Application to Real Property within the jurisdiction of the DIFC": [
+            {
+                "heading": "Application to Real Property within the jurisdiction of the DIFC",
+                "article_number": "95",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 437,
+                "block_end": 438
+            }
+        ],
+        "Creation and continuation of a Security Right in a Fixture": [
+            {
+                "heading": "Creation and continuation of a Security Right in a Fixture",
+                "article_number": "96",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 439,
+                "block_end": 440
+            }
+        ],
+        "Automatic third-party effectiveness of a Security Right in a Fixture": [
+            {
+                "heading": "Automatic third-party effectiveness of a Security Right in a Fixture",
+                "article_number": "97",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 441,
+                "block_end": 442
+            }
+        ],
+        "Third-party effectiveness of a Security Right in a Fixture and the Real Property Register": [
+            {
+                "heading": "Third-party effectiveness of a Security Right in a Fixture and the Real Property Register",
+                "article_number": "98",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 443,
+                "block_end": 444
+            }
+        ],
+        "Priority of a Security Right in a Fixture": [
+            {
+                "heading": "Priority of a Security Right in a Fixture",
+                "article_number": "99",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 445,
+                "block_end": 446
+            }
+        ],
+        "Intersection of enforcement regimes": [
+            {
+                "heading": "Intersection of enforcement regimes",
+                "article_number": "100",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 447,
+                "block_end": 448
+            }
+        ],
+        "Enforcement of a Security Right in a Fixture": [
+            {
+                "heading": "Enforcement of a Security Right in a Fixture",
+                "article_number": "101",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 449,
+                "block_end": 451
+            }
+        ],
+        "Priority of an Acquisition Security Right in a Fixture as against an earlier registered encumbrance on the Real Property": [
+            {
+                "heading": "Priority of an Acquisition Security Right in a Fixture as against an earlier registered encumbrance on the Real Property",
+                "article_number": "102",
+                "page_start": 31,
+                "page_end": 32,
+                "block_start": 452,
+                "block_end": 455
+            }
+        ],
+        "Application to Real Property outside the jurisdiction of the DIFC": [
+            {
+                "heading": "Application to Real Property outside the jurisdiction of the DIFC",
+                "article_number": "103",
+                "page_start": 32,
+                "page_end": 33,
+                "block_start": 456,
+                "block_end": 459
+            }
+        ],
+        "Financial Collateral": [
+            {
+                "heading": "Financial Collateral",
+                "article_number": "104",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 460,
+                "block_end": 464
+            }
+        ],
+        "Title Transfer": [
+            {
+                "heading": "Title Transfer",
+                "article_number": "105",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 465,
+                "block_end": 467
+            }
+        ],
+        "Security Financial Collateral Arrangements": [
+            {
+                "heading": "Security Financial Collateral Arrangements",
+                "article_number": "106",
+                "page_start": 33,
+                "page_end": 34,
+                "block_start": 468,
+                "block_end": 479
+            }
+        ],
+        "Priority of interests in the same Financial Collateral": [
+            {
+                "heading": "Priority of interests in the same Financial Collateral",
+                "article_number": "107",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 480,
+                "block_end": 483
+            }
+        ],
+        "[not used]": [
+            {
+                "heading": "[not used]",
+                "article_number": "108",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 484,
+                "block_end": 484
+            }
+        ],
+        "Rights of Use, release of excess and substitution of Financial Collateral": [
+            {
+                "heading": "Rights of Use, release of excess and substitution of Financial Collateral",
+                "article_number": "109",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 485,
+                "block_end": 490
+            }
+        ],
+        "Enforcement of Financial Collateral Arrangements": [
+            {
+                "heading": "Enforcement of Financial Collateral Arrangements",
+                "article_number": "110",
+                "page_start": 35,
+                "page_end": 36,
+                "block_start": 491,
+                "block_end": 503
+            }
+        ],
+        "Mutual rights and obligations of the Grantor and the Secured Creditor": [
+            {
+                "heading": "Mutual rights and obligations of the Grantor and the Secured Creditor",
+                "article_number": "111",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 504,
+                "block_end": 505
+            }
+        ],
+        "Security Rights in Tangible Assets": [
+            {
+                "heading": "Security Rights in Tangible Assets",
+                "article_number": "112",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 506,
+                "block_end": 510
+            }
+        ],
+        "Security Rights in Intangible Assets": [
+            {
+                "heading": "Security Rights in Intangible Assets",
+                "article_number": "113",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 511,
+                "block_end": 512
+            }
+        ],
+        "Security Rights in Receivables relating to Real Property": [
+            {
+                "heading": "Security Rights in Receivables relating to Real Property",
+                "article_number": "114",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 513,
+                "block_end": 514
+            }
+        ],
+        "Enforcement of Security Rights": [
+            {
+                "heading": "Enforcement of Security Rights",
+                "article_number": "115",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 515,
+                "block_end": 517
+            }
+        ],
+        "Security Rights in Proceeds": [
+            {
+                "heading": "Security Rights in Proceeds",
+                "article_number": "116",
+                "page_start": 36,
+                "page_end": 37,
+                "block_start": 518,
+                "block_end": 521
+            }
+        ],
+        "Meaning of “location” of the Grantor": [
+            {
+                "heading": "Meaning of “location” of the Grantor",
+                "article_number": "117",
+                "page_start": 37,
+                "page_end": 37,
+                "block_start": 522,
+                "block_end": 524
+            }
+        ],
+        "Relevant time for determining location": [
+            {
+                "heading": "Relevant time for determining location",
+                "article_number": "118",
+                "page_start": 37,
+                "page_end": 37,
+                "block_start": 525,
+                "block_end": 528
+            }
+        ],
+        "Exclusion of renvoi": [
+            {
+                "heading": "Exclusion of renvoi",
+                "article_number": "119",
+                "page_start": 37,
+                "page_end": 37,
+                "block_start": 529,
+                "block_end": 530
+            }
+        ],
+        "Overriding mandatory rules and public policy (ordre public)": [
+            {
+                "heading": "Overriding mandatory rules and public policy (ordre public)",
+                "article_number": "120",
+                "page_start": 37,
+                "page_end": 38,
+                "block_start": 531,
+                "block_end": 534
+            }
+        ],
+        "Impact of commencement of Insolvency Proceedings on the law applicable to a Security Right": [
+            {
+                "heading": "Impact of commencement of Insolvency Proceedings on the law applicable to a Security Right",
+                "article_number": "121",
+                "page_start": 38,
+                "page_end": 38,
+                "block_start": 535,
+                "block_end": 536
+            }
+        ],
+        "Multi-unit states": [
+            {
+                "heading": "Multi-unit states",
+                "article_number": "122",
+                "page_start": 38,
+                "page_end": 38,
+                "block_start": 537,
+                "block_end": 540
+            }
+        ],
+        "Rights and obligations between third-party obligors and Secured Creditors": [
+            {
+                "heading": "Rights and obligations between third-party obligors and Secured Creditors",
+                "article_number": "123",
+                "page_start": 38,
+                "page_end": 38,
+                "block_start": 541,
+                "block_end": 543
+            }
+        ],
+        "Security Rights in rights to payment of Money credited to a Bank Account": [
+            {
+                "heading": "Security Rights in rights to payment of Money credited to a Bank Account",
+                "article_number": "124",
+                "page_start": 38,
+                "page_end": 39,
+                "block_start": 544,
+                "block_end": 551
+            }
+        ],
+        "Third-party effectiveness of a Security Right in certain types of asset by registration": [
+            {
+                "heading": "Third-party effectiveness of a Security Right in certain types of asset by registration",
+                "article_number": "125",
+                "page_start": 39,
+                "page_end": 39,
+                "block_start": 552,
+                "block_end": 553
+            }
+        ],
+        "Security Rights in Intellectual Property": [
+            {
+                "heading": "Security Rights in Intellectual Property",
+                "article_number": "126",
+                "page_start": 39,
+                "page_end": 39,
+                "block_start": 554,
+                "block_end": 555
+            }
+        ],
+        "Security Rights in Non-intermediated Financial Property": [
+            {
+                "heading": "Security Rights in Non-intermediated Financial Property",
+                "article_number": "127",
+                "page_start": 39,
+                "page_end": 39,
+                "block_start": 556,
+                "block_end": 558
+            }
+        ],
+        "Security Rights in the right to receive the proceeds under an Independent Undertaking": [
+            {
+                "heading": "Security Rights in the right to receive the proceeds under an Independent Undertaking",
+                "article_number": "128",
+                "page_start": 39,
+                "page_end": 40,
+                "block_start": 559,
+                "block_end": 564
+            }
+        ],
+        "Digital Assets and Electronic Trade Documents": [
+            {
+                "heading": "Digital Assets and Electronic Trade Documents",
+                "article_number": "129",
+                "page_start": 40,
+                "page_end": 40,
+                "block_start": 565,
+                "block_end": 569
+            }
+        ],
+        "Security Rights in Intermediated Financial Property": [
+            {
+                "heading": "Security Rights in Intermediated Financial Property",
+                "article_number": "129A",
+                "page_start": 40,
+                "page_end": 41,
+                "block_start": 570,
+                "block_end": 573
+            }
+        ],
+        "Appointment of the Registrar": [
+            {
+                "heading": "Appointment of the Registrar",
+                "article_number": "130",
+                "page_start": 41,
+                "page_end": 41,
+                "block_start": 574,
+                "block_end": 575
+            }
+        ],
+        "The functions of the Registrar": [
+            {
+                "heading": "The functions of the Registrar",
+                "article_number": "131",
+                "page_start": 41,
+                "page_end": 43,
+                "block_start": 576,
+                "block_end": 587
+            }
+        ],
+        "Security Registry": [
+            {
+                "heading": "Security Registry",
+                "article_number": "132",
+                "page_start": 43,
+                "page_end": 43,
+                "block_start": 588,
+                "block_end": 589
+            }
+        ],
+        "Effect of certain events on effectiveness of Financing Statement": [
+            {
+                "heading": "Effect of certain events on effectiveness of Financing Statement",
+                "article_number": "133",
+                "page_start": 43,
+                "page_end": 43,
+                "block_start": 590,
+                "block_end": 594
+            }
+        ],
+        "Effectiveness of Financing Statement if new Grantor becomes bound by Security Agreement": [
+            {
+                "heading": "Effectiveness of Financing Statement if new Grantor becomes bound by Security Agreement",
+                "article_number": "134",
+                "page_start": 43,
+                "page_end": 43,
+                "block_start": 595,
+                "block_end": 598
+            }
+        ],
+        "Persons entitled to file a record": [
+            {
+                "heading": "Persons entitled to file a record",
+                "article_number": "135",
+                "page_start": 43,
+                "page_end": 44,
+                "block_start": 599,
+                "block_end": 607
+            }
+        ],
+        "Amendment of Financing Statement": [
+            {
+                "heading": "Amendment of Financing Statement",
+                "article_number": "136",
+                "page_start": 44,
+                "page_end": 44,
+                "block_start": 608,
+                "block_end": 609
+            }
+        ],
+        "Termination statement": [
+            {
+                "heading": "Termination statement",
+                "article_number": "137",
+                "page_start": 44,
+                "page_end": 44,
+                "block_start": 610,
+                "block_end": 613
+            }
+        ],
+        "Duration and effectiveness of Financing Statement; effect of lapsed Financing Statement": [
+            {
+                "heading": "Duration and effectiveness of Financing Statement; effect of lapsed Financing Statement",
+                "article_number": "138",
+                "page_start": 44,
+                "page_end": 44,
+                "block_start": 614,
+                "block_end": 616
+            }
+        ],
+        "Refusal to accept record": [
+            {
+                "heading": "Refusal to accept record",
+                "article_number": "139",
+                "page_start": 45,
+                "page_end": 45,
+                "block_start": 617,
+                "block_end": 618
+            }
+        ],
+        "Reference of disputes to the DIFC Courts": [
+            {
+                "heading": "Reference of disputes to the DIFC Courts",
+                "article_number": "140",
+                "page_start": 45,
+                "page_end": 46,
+                "block_start": 619,
+                "block_end": 622
+            }
+        ],
+        "Power to make Regulations": [
+            {
+                "heading": "Power to make Regulations",
+                "article_number": "141",
+                "page_start": 46,
+                "page_end": 49,
+                "block_start": 623,
+                "block_end": 650
+            }
+        ],
+        "Rules of interpretation": [
+            {
+                "heading": "Rules of interpretation",
+                "article_number": "1",
+                "page_start": 49,
+                "page_end": 49,
+                "block_start": 651,
+                "block_end": 655
+            }
+        ],
+        "References to Legislation": [
+            {
+                "heading": "References to Legislation",
+                "article_number": "2",
+                "page_start": 49,
+                "page_end": 50,
+                "block_start": 656,
+                "block_end": 660
+            }
+        ],
+        "Defined terms": [
+            {
+                "heading": "Defined terms",
+                "article_number": "3",
+                "page_start": 50,
+                "page_end": 59,
+                "block_start": 661,
+                "block_end": 674
+            }
+        ]
+    }
+}

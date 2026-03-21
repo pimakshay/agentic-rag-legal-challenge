@@ -1,0 +1,4422 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC Insolvency (Insurers) Regulations (IIR) ",
+        "text_level": 1,
+        "bbox": [
+            236,
+            342,
+            761,
+            390
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            950,
+            265,
+            960
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            494,
+            950,
+            504,
+            959
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "bbox": [
+            462,
+            110,
+            536,
+            124
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The contents of this module are divided into the following chapters, sections and annex. ",
+        "bbox": [
+            90,
+            140,
+            746,
+            156
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION.. 4 ",
+        "bbox": [
+            109,
+            186,
+            858,
+            200
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 Interpretation.. . 4   \n1.2 Application... . 7 ",
+        "bbox": [
+            151,
+            203,
+            858,
+            233
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. APPLICATION OF THE ASSETS OF AN INSURER IN WINDING UP ",
+        "bbox": [
+            87,
+            247,
+            862,
+            263
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PROCEEDINGS.. ",
+        "bbox": [
+            87,
+            262,
+            860,
+            278
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Application. . 7   \n2.2 Preferential and Insurance Debts: general rule as to priority.. .. 7   \n2.3 Non-Transferring Insurers: Long-Term and General Insurance Business Expenses and Preferential and Insurance Debts: allocation.. . 8   \n2.4 Non-Transferring Insurers: Long-Term Insurance Business Expenses and Preferential and Insurance Debts: priority ..... . 8   \n2.5 Non-Transferring Insurers: General Insurance Business Expenses and Preferential and Insurance Debts: priority ..... .. 9   \n2.6 Non-Transferring Insurers: Other Business Assets: priority. .. 9   \n2.7 Allocation of debts: residual rule . 10 ",
+        "bbox": [
+            151,
+            280,
+            860,
+            439
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. ATTRIBUTION OF ASSETS AND LIABILITIES TO RELEVANT BUSINESSES..... 10 ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            470,
+            855,
+            485
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 Attribution of liabilities.. . 10   \n3.2 Attribution of assets .. 11   \n3.3 Apportionment of expenses payable out of the assets . . 12   \n3.4 Actuarial advice.. . 12 ",
+        "bbox": [
+            152,
+            487,
+            858,
+            548
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. CONDUCT OF THE WINDING UP.... .. 12 ",
+        "text_level": 1,
+        "bbox": [
+            85,
+            563,
+            857,
+            579
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1 Financial records.. . 12   \n4.2 Proof of debts... . 13   \n4.3 Meetings of creditors ...... . 13 ",
+        "bbox": [
+            152,
+            581,
+            858,
+            626
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. LONG-TERM INSURANCE .. 13",
+        "text_level": 1,
+        "bbox": [
+            90,
+            640,
+            857,
+            656
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5.1 Continuation of Long-Term Insurance Business . . 13   \n5.2 Accident and Sickness Business . . 14   \n5.3 Accounts and audit.. . 14   \n5.4 Failure to pay premiums . . 14   \n5.5 Notice of valuation of Policy . 1 5   \n5.6 Remuneration of liquidator ... . 15   \n5.7 Notice of Stop Order.. 15 ",
+        "bbox": [
+            151,
+            658,
+            858,
+            765
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6. VALUATION OF LIABILITIES OF INSURERS... ..... 15 ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            781,
+            855,
+            795
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6.1 Valuation of General Insurance Policies.. . 15   \n6.2 Valuation of Long-Term Insurance Policies 16   \n6.3 Actuarial advice 16 ",
+        "bbox": [
+            152,
+            797,
+            858,
+            843
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7. APPLICATION OF THE ASSETS OF AN INSURER IN A VOLUNTARY ARRANGEMENT …16 7.1 Treatment of Insurance Debts… …16 ",
+        "bbox": [
+            94,
+            857,
+            858,
+            906
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            494,
+            950,
+            505,
+            960
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Annex ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            96,
+            147,
+            108
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. RULES FOR VALUING GENERAL INSURANCE POLICIES........ ..... 18 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            109,
+            858,
+            123
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 Application .. 18   \n1.2 Periodical payments ... . 18   \n1.3 Events occurring before the Liquidation Date 18   \n1.4 Other liabilities .18 ",
+        "bbox": [
+            152,
+            126,
+            858,
+            187
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. TRANSFERRING INSURERS: RULES FOR VALUING NON-LINKED LIFE ASSURANCE POLICIES, NON-LINKED DEFERRED ANNUITY POLICIES, NON-LINKED ANNUITIES IN PAYMENT, UNITISED NON-LINKED POLICIES AND CAPITAL REDEMPTION POLICIES……… ……..…19 ",
+        "bbox": [
+            94,
+            203,
+            858,
+            263
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Application… 19   \n2.2 General . 19   \n2.3 Present value of the ordinary benefits. . 19   \n2.4 Present value of additional benefits . . 20   \n2.5 Present value of options ... . 20   \n2.6 Present value of premiums.. . 20   \n2.7 Value of the Policy.. . 20 ",
+        "bbox": [
+            151,
+            266,
+            858,
+            374
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. TRANSFERRING INSURERS: RULES FOR VALUING LIFE POLICIES AND DEFERRED ANNUITY POLICIES WHICH ARE LINKED POLICIES....................... 21 ",
+        "text_level": 1,
+        "bbox": [
+            87,
+            388,
+            858,
+            419
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 Application. .. 21   \n3.2 General… ..21   \n3.3 Unitised Policies .. . 21   \n3.4 Additional provisions... . 22   \n3.5 Non-unitised Policies .. . 23   \n3.6 Liabilities other than Linked Liabilities . 23 ",
+        "bbox": [
+            151,
+            422,
+            858,
+            514
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. TRANSFERRING INSURERS: RULES FOR VALUING LONG-TERM ",
+        "bbox": [
+            87,
+            531,
+            857,
+            546
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "INSURANCEPOLICIES WHICH ARE NOT DEALT WITH IN PARAGRAPHS 2.2 TO ",
+        "bbox": [
+            114,
+            548,
+            860,
+            561
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.7 OR 3.1 TO 3.6 ...... 23 ",
+        "bbox": [
+            122,
+            563,
+            858,
+            575
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1 Application... . 23   \n4.2 Valuation rule 23 ",
+        "bbox": [
+            152,
+            577,
+            857,
+            607
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. NON-TRANSFERRING INSURERS:RULES FOR VALUING LONG-TERM",
+        "text_level": 1,
+        "bbox": [
+            94,
+            624,
+            858,
+            638
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "INSURANCE POLICIES . . 23 ",
+        "bbox": [
+            99,
+            640,
+            858,
+            653
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5.1 Application.. . 23   \n5.2 General rule.. . 24   \n5.3 Surrender Rights ... . 24   \n5.4 Linked Policies .... 24 ",
+        "bbox": [
+            151,
+            656,
+            860,
+            718
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            494,
+            950,
+            505,
+            960
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Insolvency (Insurers) Regulations 2009 ",
+        "text_level": 1,
+        "bbox": [
+            299,
+            128,
+            697,
+            147
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Board of Directors of the DIFCA, in the exercise of the powers conferred on them by Article 140 of the Companies Law 2009 and Article 93 of the Insolvency Law 2009, hereby make these Regulations ",
+        "bbox": [
+            92,
+            160,
+            905,
+            191
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            205,
+            273,
+            221
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1 Interpretation ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            236,
+            268,
+            252
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 Defined terms are identified throughout these Regulations by the capitalisation of the initial letter of a word or phrase.   \n1.1.2 Unless the context otherwise requires, the following defined terms have the meanings given below:   \nAccident and Sickness the business of effecting or carrying out Contracts of Insurance where the risks Business insured against relate to either accident or sickness, or both   \nAvailable General those General Insurance Business Assets which must be applied in discharge of Insurance Business an Insurer's Outstanding Long-Term Insurance Business Expenses and Assets Preferential Debts and Insurance Debts, in accordance with Regulation 2.3.8 Available Long-Term those Long-Term Insurance Business Assets which must be applied in discharge Insurance Business of an Insurer's Outstanding General Business Expenses and Preferential Debts Assets and Insurance Debts, in accordance with Regulation 2.3.6   \nContract of General a contract the effecting of which constitutes the carrying on of General Insurance Insurance Business   \nContract of Insurance has the meaning given by the Glossary module of the DFSA Rulebook Contract of Long-Term a contract the effecting of which constitutes the carrying on of Long-Term Insurance Insurance Business   \nCourt has the meaning set out in the Court Law 2004   \nGeneral Insurance any business of an Insurer which is General Insurance Business within the Business meaning given by the Glossary module of the DFSA Rules   \nGeneral Insurance those assets which are attributable to the General Insurance Business of an Business Assets Insurer   \nGeneral Insurance expenses of the liquidation which are attributable to the General Insurance Business Expenses Business of an Insurer   \nGeneral Insurance means Preferential Debts attributable to the General Insurance Business of an Business Preferential Insurer   \nDebts   \nGeneral Insurance Debt an Insurance Debt which is attributable to the General Insurance Business of the Insurer   \nGeneral Insurance Policy a Policy which is a Contract of General Insurance or an instrument evidencing ",
+        "bbox": [
+            92,
+            253,
+            909,
+            925
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            494,
+            950,
+            505,
+            959
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "such a contract ",
+        "bbox": [
+            305,
+            95,
+            418,
+            108
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Insurance Debt ",
+        "bbox": [
+            92,
+            124,
+            208,
+            139
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a debt to which an Insurer is or may become liable pursuant to a Contract of Insurance, other than a contract of reinsurance, to a Policyholder or to any person who has a direct right of action against that Insurer and includes any premium paid in connection with a Contract of Insurance (whether or not that contract was concluded) which the Insurer is liable to refund ",
+        "bbox": [
+            305,
+            123,
+            905,
+            200
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Insurer ",
+        "bbox": [
+            92,
+            216,
+            147,
+            230
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "any Company having permission from the DFSA to effect or carry out Contracts of Insurance ",
+        "bbox": [
+            304,
+            215,
+            904,
+            246
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Law ",
+        "bbox": [
+            92,
+            260,
+            127,
+            275
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "the Insolvency Law 2009 ",
+        "bbox": [
+            305,
+            260,
+            495,
+            275
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Linked Liability ",
+        "bbox": [
+            92,
+            290,
+            215,
+            306
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "any liability under a Long-Term Insurance Policy, the amount of which is determined by reference to: ",
+        "bbox": [
+            304,
+            290,
+            904,
+            321
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) the value of property of any description (whether or not specified in the Policy),   \n(b) fluctuations in the value of such property,   \n(c) income from any such property, or   \n(d) fluctuations in an index of the value of such property ",
+        "bbox": [
+            304,
+            334,
+            904,
+            456
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Linked Policy ",
+        "bbox": [
+            92,
+            470,
+            198,
+            485
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a Long-Term Insurance Policy which provides for Linked Liabilities, and a Policy which when made provided for Linked Liabilities is deemed to be a Linked Policy even if the Policyholder has elected to convert his rights under the Policy so that at the Liquidation Date there are no longer Linked Liabilities under the Policy ",
+        "bbox": [
+            305,
+            469,
+            905,
+            546
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Liquidation Date ",
+        "bbox": [
+            92,
+            561,
+            221,
+            577
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "the date of the winding up order or the date on which a resolution for the winding up of the Insurer is passed by the members of the Insurer and, if both a winding up order and winding up resolution have been made, the earlier date ",
+        "bbox": [
+            304,
+            561,
+            904,
+            607
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Long-Term Insurance Business ",
+        "bbox": [
+            92,
+            623,
+            257,
+            652
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "any business of an Insurer which is Long-Term Insurance Business within the meaning of the Glossary module of the DSFA Rules ",
+        "bbox": [
+            304,
+            621,
+            905,
+            652
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Long-Term Insurance Business Assets ",
+        "bbox": [
+            92,
+            668,
+            257,
+            697
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "those assets which are attributable to the Long-Term Insurance Business of an Insurer ",
+        "bbox": [
+            304,
+            667,
+            904,
+            697
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Long-Term Insurance Business Expenses ",
+        "bbox": [
+            92,
+            712,
+            257,
+            743
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "expenses of the liquidation which are attributable to the General Insurance Business of an Insurer ",
+        "bbox": [
+            304,
+            712,
+            904,
+            743
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Long-Term Insurance Business Preferential Debt ",
+        "bbox": [
+            92,
+            758,
+            258,
+            803
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a Preferential Debt attributable to the Long-Term Insurance Business of an Insurer ",
+        "bbox": [
+            304,
+            757,
+            904,
+            788
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Long-Term Insurance Debt ",
+        "bbox": [
+            92,
+            819,
+            257,
+            848
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "an Insurance Debt which is attributable to the Long-Term Insurance Business of the Insurer ",
+        "bbox": [
+            304,
+            818,
+            905,
+            848
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Long-Term Insurance Policy ",
+        "bbox": [
+            92,
+            863,
+            257,
+            894
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a Policy which is Contract of Long-Term Insurance or an instrument evidencing such a contract ",
+        "bbox": [
+            304,
+            863,
+            904,
+            894
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Non-Linked Policy ",
+        "bbox": [
+            94,
+            909,
+            236,
+            923
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a Long-Term Insurance Policy which is not a Linked Policy ",
+        "bbox": [
+            304,
+            908,
+            751,
+            923
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            494,
+            950,
+            504,
+            959
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Non-Transferring Insurer an Insurer which is not a Transferring Insurer ",
+        "bbox": [
+            94,
+            109,
+            282,
+            123
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Other Business ",
+        "bbox": [
+            94,
+            139,
+            208,
+            153
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "any business of an Insurer which is not Long-Term Insurance Business or General Insurance Business ",
+        "bbox": [
+            304,
+            137,
+            905,
+            168
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Other Business Assets ",
+        "bbox": [
+            94,
+            184,
+            260,
+            198
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "any assets which are attributable to the Other Business of an Insurer ",
+        "bbox": [
+            305,
+            183,
+            815,
+            198
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Other Business Expenses ",
+        "bbox": [
+            94,
+            214,
+            282,
+            228
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "expenses of the liquidation which are attributable to the Other Business of an Insurer ",
+        "bbox": [
+            305,
+            214,
+            907,
+            242
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Other Business Preferential Debt ",
+        "bbox": [
+            92,
+            259,
+            223,
+            288
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a Preferential Debt attributable to the Other Business of an Insurer ",
+        "bbox": [
+            305,
+            258,
+            798,
+            273
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Outstanding General Insurance Business Expenses and Preferential Debts and General Insurance Debts ",
+        "bbox": [
+            92,
+            304,
+            287,
+            378
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "any General Insurance Business Expenses and Preferential and Insurance Debts of a Non-Transferring Insurer which remain unpaid, either in whole or in part, after the application of the General Insurance Business Assets, in accordance with Regulation 2.3.4 ",
+        "bbox": [
+            304,
+            303,
+            905,
+            363
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Outstanding Long-Term Insurance Business Expenses and Preferential Debts and Long-Term Insurance Debts ",
+        "bbox": [
+            92,
+            394,
+            285,
+            468
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "any Long-Term Insurance Business Expenses and Preferential and Insurance Debts of a Non-Transferring Insurer which remain unpaid, either in whole or in part, after the application of the Long-Term Insurance Business Assets, in accordance with Regulation 2.3.3 ",
+        "bbox": [
+            305,
+            393,
+            904,
+            454
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Policy ",
+        "bbox": [
+            94,
+            485,
+            141,
+            499
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "as the context requires: ",
+        "bbox": [
+            305,
+            485,
+            478,
+            499
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) a Contract of Insurance, including one under which an existing liability has   \nalready accrued, or   \n(b) any instrument evidencing such a contract ",
+        "bbox": [
+            304,
+            500,
+            889,
+            545
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Policyholder ",
+        "bbox": [
+            92,
+            561,
+            189,
+            575
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "the person who for the time being is the legal holder of the Policy, and includes any person to whom, under the Policy, a sum is due, a periodic payment is payable or any other benefit is to be provided or to whom such a sum, payment or benefit is contingently due, payable or to be provided ",
+        "bbox": [
+            305,
+            560,
+            904,
+            620
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Preferential Debt ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            636,
+            221,
+            650
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "any debt designated as a preferential debt by an order made under Article 67 of the Law or otherwise required to be paid out of the assets of an Insurer subject to an insolvency procedure in preference to other claims. ",
+        "bbox": [
+            304,
+            636,
+            905,
+            681
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Primary Regulations the DIFC Insolvency Regulations ",
+        "bbox": [
+            92,
+            696,
+            247,
+            712
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Relevant Business ",
+        "bbox": [
+            94,
+            726,
+            230,
+            740
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "General Insurance Business, Long-Term Insurance Business or Other Business of an Insurer ",
+        "bbox": [
+            304,
+            725,
+            905,
+            755
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Remaining Insurance Debt ",
+        "bbox": [
+            92,
+            771,
+            253,
+            800
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "any Insurance Debt, or any part of an Insurance Debt, of a Non-Transferring Insurer which was not discharged by the application of both the Long-Term Insurance Business Assets and the General Insurance Business Assets in accordance with Section 2.3 ",
+        "bbox": [
+            305,
+            771,
+            904,
+            832
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Remaining Long-Term and General Insurance Business Expenses ",
+        "bbox": [
+            92,
+            847,
+            265,
+            892
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "any Long-Term or General Insurance Business Expenses of a Non-Transferring Insurer which were not discharged, either in whole or part, by the application of both the Long-Term Insurance Business Assets and the General Insurance Business Assets in accordance with Regulation 2.3 ",
+        "bbox": [
+            305,
+            846,
+            900,
+            908
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            494,
+            950,
+            504,
+            959
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            94,
+            950,
+            265,
+            960
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Remaining Long-Term and General Insurance Business Preferential Debt ",
+        "bbox": [
+            92,
+            139,
+            265,
+            198
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "any Long-Term or General Insurance Business Preferential Debt, or any part of such a debt, of a Non-Transferring Insurer which was not discharged by the application of both the Long-Term Insurance Business Assets and the General Insurance Business Assets in accordance with Regulation 2.3 ",
+        "bbox": [
+            305,
+            137,
+            895,
+            199
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Stop Order ",
+        "bbox": [
+            92,
+            243,
+            178,
+            259
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "in relation to an Insurer, means an order of the Court, made under Regulation 5.1.1 of these Regulations, ordering the liquidator to stop carrying on the Long-Term Insurance Business of the Insurer ",
+        "bbox": [
+            304,
+            243,
+            904,
+            288
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Transferring Insurer ",
+        "bbox": [
+            94,
+            305,
+            243,
+            319
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "an Insurer whose Long-Term Insurance Business (if any) is being carried on with a view to its being transferred as a going concern to a person who may lawfully carry out the Insurer's Contracts of Long-Term Insurance, in accordance with Regulation 5.1.1 ",
+        "bbox": [
+            305,
+            304,
+            905,
+            366
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Unit ",
+        "bbox": [
+            92,
+            381,
+            129,
+            395
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "in relation to a Policy means any unit (whether or not described as a unit in the Policy) by reference to the numbers and value of which the amount of the liabilities under the Policy at any time is measured ",
+        "bbox": [
+            304,
+            381,
+            904,
+            426
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 Unless the context otherwise requires, all other defined terms and other words or expressions contained in these Regulations bear the same meaning as in the Law or the Primary Regulations or any amendment or modification thereof, and the interpretative provisions of the Law or the Primary Regulations (or any amendment or modification thereof) shall apply for the interpretation of these Regulations. ",
+        "bbox": [
+            152,
+            441,
+            905,
+            518
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.2 Application ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            532,
+            247,
+            549
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 These Regulations apply to winding up proceedings and voluntary arrangements relating to an Insurer. ",
+        "bbox": [
+            151,
+            563,
+            904,
+            593
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 These Regulations supplement the Primary Regulations which continue to apply to winding up proceedings and voluntary arrangements relating to an Insurer under the Law as they apply to winding up proceedings and voluntary arrangements relating to any Company under the Law; but in the event of a conflict between these Regulations and the Primary Regulations, these Regulations prevail. ",
+        "bbox": [
+            152,
+            607,
+            905,
+            684
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2. APPLICATION OF THE ASSETS OF AN INSURER IN WINDING UP PROCEEDINGS ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            699,
+            838,
+            714
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1 Application ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            730,
+            248,
+            745
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Sections 2.1 to 2.7 below apply to the application of the assets of an Insurer in the case of a winding up of the Insurer. ",
+        "bbox": [
+            152,
+            758,
+            904,
+            789
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2 Preferential and Insurance Debts: general rule as to priority ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            803,
+            631,
+            820
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 The Law and the Primary Regulations as regards the distribution of assets shall apply subject to the requirement that the debts of the Insurer must be paid in the following order of priority: ",
+        "bbox": [
+            152,
+            834,
+            905,
+            879
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) Preferential Debts; ",
+        "bbox": [
+            213,
+            894,
+            381,
+            909
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            494,
+            950,
+            504,
+            959
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(b) Insurance Debts;   \n(c) all other debts. ",
+        "bbox": [
+            211,
+            93,
+            368,
+            140
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 Preferential Debts rank amongst themselves with any payment priorities prescribed by the provisions creating them, after the expenses of the winding up. ",
+        "bbox": [
+            147,
+            153,
+            904,
+            184
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 Insurance Debts rank equally among themselves and must be paid in full, unless the assets available after the payment of Preferential Debts are insufficient to meet them, in which case they abate in equal proportions. ",
+        "bbox": [
+            151,
+            198,
+            905,
+            244
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3 Non-Transferring Insurers: Long-Term and General Insurance Business Expenses and Preferential and Insurance Debts: allocation ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            259,
+            843,
+            290
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 This Section and Sections 2.4 to 2.6 make provision as to the manner in which the priorities required by Section 2.2 must be given effect in the case of the winding up of a Non-Transferring Insurer. ",
+        "bbox": [
+            152,
+            304,
+            905,
+            350
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 The Long-Term Insurance Business Assets and the General Insurance Business Assets must be applied separately in accordance with Regulations 2.3.3 and 2.3.4. ",
+        "bbox": [
+            151,
+            365,
+            904,
+            395
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 Subject to Regulation 2.3.6, the Long-Term Insurance Business Assets must be applied in discharge of the Long-Term Insurance Business Expenses and Preferential Debts and the Long-Term Insurance Debts in the order of priority specified in Section 2.4. ",
+        "bbox": [
+            152,
+            410,
+            907,
+            456
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.4 Subject to Regulation 2.3.8, the General Insurance Business Assets must be applied in discharge of the General Insurance Business Expenses and Preferential Debts and the General Insurance Debts in the order of priority specified in Section 2.5. ",
+        "bbox": [
+            152,
+            470,
+            907,
+            517
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.5 Regulation 2.3.6 applies where the value of the Long-Term Insurance Business Assets exceeds the Long-Term Insurance Business Expenses and Preferential Debts and the Long-Term Insurance Debts, and the General Insurance Business Assets are insufficient to meet the General Insurance Business Expenses and Preferential Debts and the General Insurance Debts. ",
+        "bbox": [
+            152,
+            531,
+            907,
+            607
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.6 Those Long-Term Insurance Business Assets which represent the excess must be applied in discharge of the Outstanding General Insurance Business Expenses and Preferential Debts and General Insurance Debts of the Insurer before being applied in any other way. ",
+        "bbox": [
+            152,
+            623,
+            907,
+            669
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.7 Regulation 2.3.8 applies where the value of the General Insurance Business Assets exceeds the General Insurance Business Expenses and Preferential Debts and the General Insurance Debts, and the Long-Term Insurance Business Assets are insufficient to meet the Long-Term Insurance Business Expenses and Preferential Debts and the Long-Term Insurance Debts. ",
+        "bbox": [
+            152,
+            684,
+            907,
+            745
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.8 Those General Insurance Business Assets which constitute the excess must be applied in discharge of the Outstanding Long-Term Insurance Business Expenses and Preferential Debts and Long-Term Insurance Debts of the Insurer before being applied in any other way. ",
+        "bbox": [
+            152,
+            759,
+            905,
+            807
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4 Non-Transferring Insurers: Long-Term Insurance Business Expenses and Preferential and Insurance Debts: priority ",
+        "bbox": [
+            95,
+            821,
+            905,
+            852
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 For the purpose of compliance with the requirement in Regulation 2.3.3, the Long-Term Insurance Business Assets of a Non-Transferring Insurer must be applied in discharge of the following debts in the following order of priority: ",
+        "bbox": [
+            151,
+            866,
+            905,
+            912
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            494,
+            950,
+            504,
+            960
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) Long-Term Insurance Business Expenses;   \n(b) Long-Term Insurance Business Preferential Debts;   \n(c) Long-Term Insurance Debts. ",
+        "bbox": [
+            213,
+            92,
+            653,
+            168
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 Long-Term Insurance Preferential Debts rank amongst themselves according to any payment priorities prescribed by the provisions creating them, unless the Long-Term Insurance Business Assets available after the payment of Long-Term Insurance Business Expenses, any Available General Insurance Business Assets and any Other Business Assets applied in accordance with Section 2.6 are insufficient to meet them, in which case they abate in equal proportions. ",
+        "bbox": [
+            152,
+            183,
+            907,
+            275
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4.3 Long-Term Insurance Debts rank equally among themselves, unless the Long-Term Insurance Business Assets available after the payment of Long-Term Insurance Expenses and Preferential Debts and any Available General Business Assets and any Other Business Assets applied in accordance with Section 2.6 are insufficient to meet them, in which case they abate in equal proportions. ",
+        "bbox": [
+            152,
+            290,
+            905,
+            367
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5 Non-Transferring Insurers: General Insurance Business Expenses and Preferential and Insurance Debts: priority ",
+        "bbox": [
+            90,
+            381,
+            904,
+            413
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5.1 For the purpose of compliance with the requirement in Regulation 2.3.4, the General Insurance Business Assets of a Non-Transferring Insurer must be applied in discharge of the following debts in the following order of priority: ",
+        "bbox": [
+            151,
+            426,
+            905,
+            474
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) General Insurance Business Expenses;   \n(b) General Insurance Business Preferential Debts;   \n(c) General Insurance Debts. ",
+        "bbox": [
+            211,
+            487,
+            628,
+            563
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5.2 General Insurance Business Preferential Debts rank amongst themselves according to any payment priorities prescribed by the provisions creating them, unless the General Insurance Business Assets available after the payment of General Insurance Business Expenses, any Available Long-Term Insurance Business Assets and any Other Business Assets applied in accordance with Section 2.6 are insufficient to meet them, in which case they abate in equal proportions. ",
+        "bbox": [
+            152,
+            576,
+            905,
+            669
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5.3 General Insurance Debts rank equally among themselves, unless the General Insurance Business Assets available after the payment of General Insurance Business Expenses and Preferential Debts and any Available Long-Term Insurance Business Assets and any Other Business Assets applied in accordance with Section 2.6 are insufficient to meet them, in which case they abate in equal proportions. ",
+        "bbox": [
+            152,
+            683,
+            905,
+            762
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6 Non-Transferring Insurers: Other Business Assets: priority ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            775,
+            625,
+            791
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6.1 The Other Business Assets of a Non-Transferring Insurer must be applied in discharge of the Remaining Long-Term and General Insurance Business Expenses, Remaining Long-Term and General Insurance Business Preferential Debts, Other Business Expenses, Other Business Preferential Debts and Remaining Insurance Debts in the following order of priority: ",
+        "bbox": [
+            152,
+            804,
+            905,
+            883
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) Remaining Long-Term and General Insurance Business Expenses; ",
+        "bbox": [
+            211,
+            896,
+            768,
+            913
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            494,
+            950,
+            504,
+            959
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(b) Remaining Long-Term and General Insurance Business Preferential Debts (according to any payment priorities prescribed by the provisions creating them);   \n(c) Other Business Expenses;   \n(d) Other Business Preferential Debts (according to any payment priorities prescribed by the provisions creating them);   \n(e) Remaining Insurance Debts. ",
+        "bbox": [
+            211,
+            92,
+            904,
+            230
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.7 Allocation of debts: residual rule ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            243,
+            420,
+            259
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.7.1 Subject to Sections 2.2 to 2.6 above: ",
+        "bbox": [
+            154,
+            273,
+            487,
+            290
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) the Long-Term Insurance Business Assets of an Insurer are to be available only for meeting the debts of the Insurer attributable to the Long-Term Insurance Business;   \n(b) where this Regulation 2.7.1(b) applies, the General Insurance Business Assets of an Insurer are to be available only for meeting the debts of the Insurer attributable to the General Insurance Business;   \n(c) the Other Business Assets of the Insurer are to be available only for meeting the debts of the Insurer attributable to the Other Business. ",
+        "bbox": [
+            211,
+            302,
+            905,
+            441
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.7.2 Where the value of the assets mentioned in paragraph (a), (b) or (c) of Regulation 2.7.1 exceeds the amount of the liabilities mentioned in that paragraph, the restriction imposed by that paragraph does not apply to so much of the assets as represents the excess. ",
+        "bbox": [
+            152,
+            454,
+            904,
+            500
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.7.3 For the purposes of Regulation 2.7.1(a), there shall be included amongst the debts of a Transferring Insurer attributable to the Long-Term Insurance Business an amount determined by the liquidator in respect of liabilities and expenses likely to be incurred for the purposes of the transfer. ",
+        "bbox": [
+            152,
+            514,
+            907,
+            576
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.7.4 Regulation 2.7.1(b) applies where in accordance with DFSA Rules the Insurer has, or should properly have, apportioned its General Insurance Business Assets and the debts attributable to its General Insurance Business to a separate fund. ",
+        "bbox": [
+            152,
+            590,
+            907,
+            637
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.7.5 Where Regulation 2.7.1(b) does not apply, Regulation 2.7.1(c) shall be construed as if the reference to the Other Business Assets were a reference to the General Insurance Business Assets and the Other Business Assets taken together, and as if the reference to the Other Business were a reference to the General Insurance Business and the Other Business, taken together. ",
+        "bbox": [
+            152,
+            651,
+            907,
+            728
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3. ATTRIBUTION OF ASSETS AND LIABILITIES TO RELEVANT BUSINESSES ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            741,
+            813,
+            759
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1 Attribution of liabilities ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            772,
+            342,
+            789
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 This Section applies in the case of an Insurer carrying on any Relevant Business if at the Liquidation Date there are liabilities of the Insurer in respect of which it is not clear from the accounting and other records of the Insurer whether they are or are not attributable to the Relevant Business. ",
+        "bbox": [
+            152,
+            802,
+            907,
+            864
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 The liquidator shall, in such manner and according to such accounting principles as he shall determine, identify the liabilities referred to in Regulation 3.1.1 as attributable or not attributable to the Relevant Business and those liabilities shall for the purposes of the winding up be deemed as at the Liquidation Date to be attributable or not as the case may be. ",
+        "bbox": [
+            149,
+            878,
+            904,
+            910
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            492,
+            950,
+            509,
+            959
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 For the purposes of Regulation 3.1.2, the liquidator may: ",
+        "bbox": [
+            152,
+            139,
+            636,
+            155
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) determine that some liabilities are attributable to the Relevant Business and that others are not (the first method); or   \n(b) determine that a part of a liability shall be attributable to the Relevant Business and that the remainder of the liability is not (the second method), ",
+        "bbox": [
+            211,
+            167,
+            907,
+            246
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "and he may use the first method for some of the liabilities and the second method for the remainder of them. ",
+        "bbox": [
+            193,
+            259,
+            905,
+            290
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1.4 Notwithstanding anything in this Section 3.1, the Court may order that the determination of which (if any) of the liabilities referred to in Regulation 3.1.1 are attributable to the Relevant Business and which (if any) are not shall be made in such manner and by such methods as the Court may direct or the Court may itself make the determination. ",
+        "bbox": [
+            124,
+            304,
+            905,
+            367
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2 Attribution of assets ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            380,
+            317,
+            397
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 This Section applies in the case of an Insurer carrying on any Relevant Business if at the Liquidation Date there are assets of the Insurer in respect of which: ",
+        "bbox": [
+            147,
+            410,
+            907,
+            441
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) it is not clear from the accounting and other records of the Insurer whether they are or are not attributable to the Relevant Business, and   \n(b) it cannot be inferred from the source of the income out of which those assets were provided whether they are or are not attributable to the Relevant Business. ",
+        "bbox": [
+            211,
+            455,
+            905,
+            532
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 Subject to Regulation 3.2.8, the liquidator shall determine which (if any) of the assets referred to in Regulation 3.2.1 are attributable to the Relevant Business and which (if any) are not and those assets shall, for the purposes of the winding up, be deemed as at the Liquidation Date to be attributable to the Relevant Business or not in accordance with the liquidator's determination. ",
+        "bbox": [
+            152,
+            545,
+            905,
+            623
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 For the purposes of Regulation 3.2.2 the liquidator may: ",
+        "bbox": [
+            152,
+            637,
+            631,
+            653
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) determine that some of those assets shall be attributable to the Relevant Business and that others of them shall not (the first method); or   \n(b) determine that a part of the value of one of those assets shall be attributable to the Relevant Business and that the remainder of that value shall not (the second method), ",
+        "bbox": [
+            211,
+            667,
+            905,
+            759
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "and he may use the first method for some of those assets and the second method for others of them. ",
+        "bbox": [
+            208,
+            772,
+            905,
+            803
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2.4 In making the attribution the liquidator's objective shall in the first instance be so far as possible to reduce any deficit that may exist, at the Liquidation Date and before any attribution is made, in any Relevant Business. ",
+        "bbox": [
+            152,
+            818,
+            905,
+            864
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "11 ",
+        "bbox": [
+            490,
+            950,
+            507,
+            959
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2.5 If there is a deficit in two or more Relevant Businesses, the attribution shall be in the ratio that the amount of the one deficit bears to the amount of the other or others until the deficits are eliminated. ",
+        "bbox": [
+            152,
+            93,
+            905,
+            140
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2.6 Thereafter the attribution shall be in the ratio which the aggregate amount of the liabilities attributable to each of the Relevant Businesses bears to the aggregate amount of the liabilities attributable to the other or others. ",
+        "bbox": [
+            152,
+            154,
+            905,
+            200
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2.7 For the purposes of Regulations 3.2.4 to 3.2.6 the value of a liability of the Insurer shall, if it falls to be valued under Section 6.1 or 6.2, have the same value as it has under those Regulations but otherwise it shall have such value as would have been included in relation to it in a balance sheet of the Insurer prepared in accordance with the relevant accounting regime applicable to it as at the Liquidation Date; and, for the purpose of determining the ratio referred to in Regulation 3.2.6 but not for the purpose of determining the amount of any deficit therein referred to, the net balance of shareholders' funds shall be included in the liabilities not attributable to the Insurer's Long-Term or General Insurance Business. ",
+        "bbox": [
+            154,
+            215,
+            905,
+            338
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2.8 Notwithstanding anything in this Section 3.2, the Court may order that the determination of which (if any) of the assets referred to in Regulation 3.2.1 are attributable to any Relevant Business and which (if any) are not shall be made in such manner and by such methods as the Court may direct or the Court may itself make the determination. ",
+        "bbox": [
+            154,
+            353,
+            905,
+            414
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3 Apportionment of expenses payable out of the assets ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            430,
+            568,
+            445
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 In the case of the winding up of an Insurer carrying on any Relevant Business, for the purposes of the payment of expenses of the liquidation Regulation 5.52 of the Principal Regulations (General rule as to priority) shall apply separately to the assets of each Business. ",
+        "bbox": [
+            152,
+            458,
+            907,
+            506
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 But where any expenses of the liquidation do not relate exclusively to a Relevant Business, the liquidator shall apportion them amongst those assets in such manner as he shall determine. ",
+        "bbox": [
+            152,
+            519,
+            905,
+            565
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4 Actuarial advice ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            580,
+            285,
+            595
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4.1 Before: ",
+        "text_level": 1,
+        "bbox": [
+            152,
+            609,
+            272,
+            625
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) identifying Long-Term Insurance Business Assets and liabilities in accordance with Sections 3.1 and 3.2; or   \n(b) determining the amount (if any) of the excess of the Long-Term Insurance Business Assets in accordance with Regulation 2.7.2; ",
+        "bbox": [
+            193,
+            638,
+            907,
+            717
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "the liquidator shall obtain and consider advice thereon (including an estimate of any value or amount required to be determined) from an actuary. ",
+        "bbox": [
+            193,
+            730,
+            907,
+            762
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4 CONDUCT OF THE WINDING UP ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            804,
+            445,
+            821
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1 Financial records ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            834,
+            295,
+            851
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 The liquidator shall prepare and keep separate financial records in respect of each Relevant Business. ",
+        "bbox": [
+            147,
+            864,
+            907,
+            895
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            948,
+            905,
+            960
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "12 ",
+        "bbox": [
+            492,
+            950,
+            509,
+            959
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 The liquidator may in relation to each Relevant Business of an Insurer fix different days on or before which the creditors of the Insurer who are required to prove their debts or claims are to prove their debts or claims, and he may fix one of those days without at the same time fixing the other. ",
+        "bbox": [
+            151,
+            123,
+            907,
+            185
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2.2 In submitting a proof of any debt a creditor may claim the whole or any part of such debt as is attributable to one or other of the Insurer’s Relevant Businesses, or he may make no such attribution. ",
+        "bbox": [
+            151,
+            199,
+            904,
+            246
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2.3 When he admits any debt, in whole or in part, the liquidator must state in writing how much of what he admits is attributable to each Relevant Business. ",
+        "bbox": [
+            152,
+            260,
+            904,
+            291
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3 Meetings of creditors ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            305,
+            324,
+            322
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3.1 Where the Law or the Primary Regulations provide for a meeting of creditors, such provisions are to be read in relation to each Relevant Business of an Insurer so as to refer only to those who are creditors in respect of the Relevant Business and, accordingly, any general meetings of creditors summoned under the Law or the Primary Regulations are to be separate general meetings of creditors in respect of each Relevant Business. ",
+        "bbox": [
+            152,
+            335,
+            905,
+            412
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3.2 In a case where separate general meetings of the creditors are summoned by the liquidator pursuant to Regulation 4.3.1: ",
+        "bbox": [
+            149,
+            426,
+            904,
+            457
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) the following provisions of the Primary Regulations, namely Sections 5.10 (First meeting of creditors), 5.11 (Report by director), 5.12 (Venue), 5.13 (Specific provisions regarding creditors' meetings in a liquidation) and Regulation 5.55 (Proxies) shall apply separately to each such meeting; and   \n(b) Section 5.37 of the Primary Regulations (The liquidation committee) shall apply as if the reference to a resolution of the creditors' meeting were a reference to resolutions of each such meeting. ",
+        "bbox": [
+            201,
+            472,
+            907,
+            595
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3.3 Where the liquidator summons a meeting of creditors in respect of liabilities of the Insurer attributable to a Relevant Business, he may adopt any valuation carried out in accordance with Section 6.1 or 6.2, as the case may be, or, if no such valuation has been carried out by the time of the meeting, he may conduct the meeting using such estimates of the value of Policies as he thinks fit. ",
+        "bbox": [
+            152,
+            608,
+            907,
+            686
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5. LONG-TERM INSURANCE",
+        "text_level": 1,
+        "bbox": [
+            92,
+            700,
+            386,
+            715
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.1 Continuation of Long-Term Insurance Business ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            730,
+            534,
+            746
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.1.1 Unless the Court otherwise orders, the liquidator of an Insurer must carry on the Insurer's Long-Term Insurance Business so far as it consists of carrying out the Insurer's Contracts of Long-Term Insurance with a view to its being transferred as a going concern to a person who may lawfully carry out those contracts. ",
+        "bbox": [
+            152,
+            759,
+            907,
+            821
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.1.2 In carrying on the business, the liquidator may agree to the variation of any contract of insurance in existence when the winding up order is made, but must not effect any new contracts of insurance. ",
+        "bbox": [
+            152,
+            835,
+            905,
+            882
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "13 ",
+        "bbox": [
+            492,
+            950,
+            509,
+            959
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2 Proof of debts ",
+        "bbox": [
+            92,
+            93,
+            267,
+            109
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.1.3 The Court may appoint an independent actuary to investigate the Insurer's business so far as it consists of carrying out its Contracts of Long-Term Insurance and to report on the desirability or otherwise of that part of the Insurer's business being continued. ",
+        "bbox": [
+            152,
+            93,
+            905,
+            140
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.2 Accident and Sickness Business ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            154,
+            403,
+            171
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.2.1 This Section applies in the case of a Transferring Insurer which carries on Accident and Sickness Business. ",
+        "bbox": [
+            151,
+            184,
+            905,
+            215
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.2.2 Where, before the Liquidation Date, the Insurer has, or should properly have, apportioned the assets and liabilities attributable to its Accident and Sickness Business to its Long-Term Insurance Business for the purposes of any accounts, those assets and liabilities must be apportioned to its Long-Term Insurance Business for the purposes of complying with Regulation 4.1.1. ",
+        "bbox": [
+            152,
+            229,
+            905,
+            306
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.2.3 Where, before the Liquidation Date, the Insurer has, or should properly have, apportioned the assets and liabilities attributable to its Accident and Sickness Business other than to its Long-Term Insurance Business for the purposes of any accounts, those assets and liabilities must be apportioned to its General Insurance Business for the purposes of complying with Regulation 4.1.1. ",
+        "bbox": [
+            152,
+            321,
+            905,
+            398
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.3 Accounts and audit ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            413,
+            309,
+            429
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.3.1 The liquidator of a Transferring Insurer shall maintain such accounting, valuation and other records as will enable an Insurer to which the Long-Term Insurance Business may be transferred to comply with the requirements of any rules made by the DFSA relating to accounts and statements of Insurers. ",
+        "bbox": [
+            152,
+            442,
+            905,
+            504
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.3.2 The liquidator of a Transferring Insurer shall supply the DFSA, at such times or intervals as the DFSA may specify, with such accounts as may be required and audited in such manner as may be required and with such information about specified matters and verified in such specified manner as the DFSA may require. ",
+        "bbox": [
+            152,
+            518,
+            905,
+            580
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.4 Failure to pay premiums ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            595,
+            351,
+            611
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.4.1 The liquidator of a Transferring Insurer may in the course of carrying on the Insurer's Long-Term Insurance Business and on such terms as he thinks fit accept payment of a premium even though the payment is tendered after the date on which under the terms of the Policy it was finally due to be paid. ",
+        "bbox": [
+            152,
+            624,
+            905,
+            686
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.4.2 The liquidator may in the course of carrying on the Insurer's Long-Term Insurance Business, and having regard to the general practice of Insurers, compensate a Policyholder whose Policy has lapsed in consequence of a failure to pay any premium by issuing a free paid-up Policy for reduced benefits or otherwise as the liquidator thinks fit. ",
+        "bbox": [
+            152,
+            700,
+            905,
+            762
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.4.3 Before determining the terms on which he will accept payment of overdue premiums under Regulation 5.4.1 or the amount and nature of any compensation under Regulation 5.4.2, the liquidator shall obtain and consider advice thereon (including an estimate of any value or amount required to be determined) from an actuary. ",
+        "bbox": [
+            152,
+            776,
+            905,
+            838
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.5 Notice of valuation of Policy ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            852,
+            378,
+            869
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.5.1 Before paying a dividend in respect of claims other than under Contracts of Long-Term Insurance, the liquidator of a Transferring Insurer shall give notice of the value of each ",
+        "bbox": [
+            149,
+            883,
+            907,
+            913
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "General Insurance Policy, as determined by him in accordance with Regulation 6.1.1, to the persons appearing from the records of the Insurer or otherwise to be entitled to an interest in that Policy and he shall do so in such manner as the Court may direct. ",
+        "bbox": [
+            215,
+            93,
+            905,
+            140
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.5.2 Before paying a dividend in respect of claims under Contracts of Long-Term Insurance, the liquidator of a Transferring Insurer shall give notice to the persons appearing from the records of the Insurer or otherwise to be entitled to a payment under or to an interest in a Long-Term Insurance Policy of the amount of that payment or the value of that Policy as determined by him in accordance with Regulation 6.2.1 or 6.2.2, as the case may be. ",
+        "bbox": [
+            152,
+            154,
+            905,
+            231
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.5.3 If a Stop Order is made in relation to a Transferring Insurer, the liquidator shall give notice to all the persons appearing from the records of the Insurer or otherwise to be entitled to a payment under or to an interest in a Long-Term Insurance Policy of the amount of that payment or the value of that Policy as determined by him in accordance with Regulations 6.2.1 or 6.2.2, as the case may be, and he shall give that notice in such manner as the Court may direct. ",
+        "bbox": [
+            152,
+            246,
+            905,
+            338
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.5.4 Any person to whom notice is so given shall be bound by the value so determined unless and until the Court otherwise orders. ",
+        "bbox": [
+            151,
+            353,
+            904,
+            384
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.6 Remuneration of liquidator ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            398,
+            373,
+            413
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.6.1 The liquidator of a Transferring Insurer is entitled to receive remuneration for his services as such in relation to the carrying on of the Long-Term Insurance Business as provided for in Regulations 5.6.2 to 5.6.4 below. ",
+        "bbox": [
+            152,
+            428,
+            905,
+            473
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.6.2 The remuneration shall be fixed by the liquidation committee by reference to the time properly given by the liquidator and his staff in attending to matters arising in the winding up. ",
+        "bbox": [
+            152,
+            488,
+            905,
+            536
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.6.3 If there is no liquidation committee or the committee does not make the requisite determination, the liquidator's remuneration may be fixed (in accordance with Regulation 5.6.2 above) by resolutions to the same effect of each of the separate meetings of creditors established pursuant to Regulation 4.3.1 above. ",
+        "bbox": [
+            152,
+            549,
+            905,
+            611
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.6.4 If not fixed as above, or if the liquidator considers the amount to be insufficient, the liquidator's remuneration shall be determined by the Court. ",
+        "bbox": [
+            149,
+            625,
+            902,
+            656
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.7 Notice of Stop Order ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            670,
+            324,
+            687
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.7.1 If a Stop Order is made in relation to an Insurer, the Court shall forthwith give notice of the fact to the Insurer and the liquidator, and cause the fact that the order has been made to be advertised in a newspaper circulating in the DIFC. ",
+        "bbox": [
+            152,
+            701,
+            905,
+            746
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "6. VALUATION OF LIABILITIES OF INSURERS ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            760,
+            546,
+            777
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "6.1 Valuation of General Insurance Policies ",
+        "text_level": 1,
+        "bbox": [
+            152,
+            790,
+            499,
+            807
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "6.1.1 In the case of a winding up of an Insurer, except in relation to amounts which have fallen due for payment before the Liquidation Date and liabilities referred to in sub-paragraph 1.3.1(b) of the Annex, the holder of a General Insurance Policy shall be admitted as a creditor in relation to his Policy without proof for an amount equal to the value of the Policy and for this purpose the value of a Policy shall be determined in accordance with paragraphs 1.1 to 1.4 of the Annex. ",
+        "bbox": [
+            152,
+            821,
+            905,
+            913
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            950,
+            265,
+            960
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "6.2 Valuation of Long-Term Insurance Policies ",
+        "text_level": 1,
+        "bbox": [
+            152,
+            93,
+            527,
+            110
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6.2.1. In the case of a Transferring Insurer: ",
+        "bbox": [
+            154,
+            123,
+            487,
+            139
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) in relation to a claim under a Long-Term Insurance Policy which has fallen due for payment before the Liquidation Date, a Policyholder shall be admitted as a creditor without proof for such amount as appears from the records of the Insurer to be due in respect of that claim;   \n(b) in all other respects a Policyholder shall be admitted as a creditor in relation a Long-Term Insurance Policy without proof for an amount equal to the value of the Policy and for this purpose the value of a Policy of any class shall be determined in the manner applicable to policies of that class provided by paragraphs 2.1 to 4.2 of the Annex. ",
+        "bbox": [
+            213,
+            152,
+            907,
+            306
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6.2.2 In the case of a Non-Transferring Insurer: ",
+        "bbox": [
+            152,
+            321,
+            526,
+            337
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) in relation to a claim under a Long-Term Insurance Policy which has fallen due for payment on or after the Liquidation Date and before the date of the Stop Order, a Policyholder shall be admitted as a creditor without proof for such amount as appears from the records of the Insurer and of the liquidator to be due in respect of that claim;   \n(b) in all other respects a Policyholder shall be admitted as a creditor in relation to a Long-Term Insurance Policy without proof for an amount equal to the value of the Policy and for this purpose the value of a Policy of any class shall be determined in the manner applicable to policies of that class provided by paragraphs 5.1 to 5.4 of the Annex. ",
+        "bbox": [
+            211,
+            350,
+            907,
+            519
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6.3 Actuarial advice ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            535,
+            285,
+            549
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6.3.1 Before determining the value of a Policy in accordance with the Annex (other than paragraph 1.4), the liquidator shall obtain and consider advice thereon (including an estimate of any value or amount required to be determined) from an actuary. ",
+        "bbox": [
+            147,
+            563,
+            907,
+            609
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6.3.2 Before seeking, for the purpose of valuing a Policy, the direction of the Court as to the assumption of a particular rate of interest or the employment of any rates of mortality or disability, the liquidator shall obtain and consider advice thereon from an actuary. ",
+        "bbox": [
+            154,
+            624,
+            904,
+            670
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "7. APPLICATION OF THE ASSETS OF AN INSURER IN A VOLUNTARY ARRANGEMENT ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            684,
+            902,
+            701
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "7.1 Treatment of Insurance Debts ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            714,
+            394,
+            731
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "7.1.1 Regulation 7.1.2 applies where a voluntary arrangement is proposed under section 8 of the Law in relation to an Insurer, and that proposal includes: ",
+        "bbox": [
+            146,
+            744,
+            904,
+            776
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) a composition in satisfaction of any Insurance Debts; and (b) a distribution to creditors of some or all of the assets of that Insurer in the course of, or with a view to, terminating the whole or any part of the business of that Insurer. ",
+        "bbox": [
+            193,
+            789,
+            905,
+            851
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "7.1.2 Article 11 of the Law (Decisions of meetings) has effect as if after subsection (2) there were inserted: ",
+        "bbox": [
+            151,
+            864,
+            907,
+            895
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "16 ",
+        "bbox": [
+            492,
+            950,
+            509,
+            960
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "“(3) In the case of a Company which is an Insurer, a meeting so summoned shall not approve any proposal or modification under which any Insurance Debt of the Insurer is to be paid otherwise than in priority to such of its debts as are not Insurance Debts or Preferential Debts. ",
+        "bbox": [
+            213,
+            93,
+            905,
+            155
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(4) For the purposes of this section, “Insurance Debt”, \"Insurer\" and \"Preferential Debt\" have the meanings given to them in the DIFC Insolvency (Insurers) Regulations 2009\". ",
+        "bbox": [
+            211,
+            170,
+            905,
+            200
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            94,
+            950,
+            265,
+            960
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "RULES FOR VALUING GENERAL INSURANCE POLICIES ",
+        "text_level": 1,
+        "bbox": [
+            139,
+            167,
+            658,
+            184
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Application ",
+        "text_level": 1,
+        "bbox": [
+            152,
+            198,
+            248,
+            214
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Paragraphs 1.2 to 1.4 below apply to the valuation of General Insurance Policies. ",
+        "bbox": [
+            157,
+            227,
+            754,
+            242
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1.2 Periodical payments ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            256,
+            317,
+            273
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 This paragraph applies in relation to periodic payments under a General Insurance Policy which fall due for payment after the Liquidation Date where the event giving rise to the liability to make the payments occurred before the Liquidation Date. ",
+        "bbox": [
+            94,
+            286,
+            905,
+            332
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 The value to be attributed to such periodic payments shall be determined on such actuarial principles and assumptions in regard to all relevant factors as the Court shall direct. ",
+        "bbox": [
+            92,
+            347,
+            904,
+            378
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1.3 Events occurring before the Liquidation Date ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            392,
+            515,
+            409
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 This paragraph applies in relation to liabilities under a General Insurance Policy which arise from events which occurred before the Liquidation Date but which have not: ",
+        "bbox": [
+            90,
+            422,
+            904,
+            453
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) fallen due for payment before the Liquidation Date; or (b) been notified to the Insurer before the Liquidation Date. ",
+        "bbox": [
+            151,
+            467,
+            613,
+            513
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 The value to be attributed to such liabilities shall be determined on such actuarial principles and assumptions in regard to all relevant factors as the Court shall direct. ",
+        "bbox": [
+            92,
+            526,
+            905,
+            558
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1.4 Other liabilities ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            571,
+            280,
+            588
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 This paragraph applies in relation to liabilities under a General Insurance Policy not dealt with by paragraph 1.2 or 1.3. ",
+        "bbox": [
+            94,
+            601,
+            904,
+            632
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 The value to be attributed to those liabilities shall: ",
+        "bbox": [
+            94,
+            646,
+            527,
+            662
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) if the terms of the Policy provide for a repayment of premium upon the early termination of the Policy or the Policy is expressed to run from one definite date to another or the Policy may be terminated by any of the parties with effect from a definite date, be the greater of the following two amounts: ",
+        "bbox": [
+            151,
+            676,
+            905,
+            738
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(i) the amount (if any) which under the terms of the Policy would have been repayable on early termination of the Policy had the Policy terminated on the Liquidation Date, and ",
+        "bbox": [
+            208,
+            752,
+            905,
+            784
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(ii) where the Policy is expressed to run from one definite date to another or may be terminated by any of the parties with effect from a definite date, such proportion of the last premium paid as is proportionate to the unexpired portion of the period in respect of which that premium was paid; and ",
+        "bbox": [
+            213,
+            797,
+            905,
+            860
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(b) in any other case, be a just estimate of that value. ",
+        "bbox": [
+            151,
+            873,
+            579,
+            890
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "18 ",
+        "bbox": [
+            492,
+            950,
+            509,
+            959
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Sections 6.1 and 6.2 ",
+        "bbox": [
+            94,
+            139,
+            245,
+            153
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "ANNEX ",
+        "bbox": [
+            457,
+            137,
+            524,
+            152
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "2. TRANSFERRING INSURERS: RULES FOR VALUING NON-LINKED LIFE ASSURANCE POLICIES, NON-LINKED DEFERRED ANNUITY POLICIES, NON-LINKED ANNUITIES IN PAYMENT, UNITISED NON-LINKED POLICIES AND CAPITAL REDEMPTION POLICIES ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            92,
+            904,
+            156
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2.1 Application ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            171,
+            248,
+            186
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 Paragraphs 2.2 to 2.7 below apply in relation to the valuation of the following Policies of a Transferring Insurer, namely Non-Linked Policies which are life assurance Policies, deferred annuity Policies, Policies for non-linked annuities which are in payment, unitised Non-Linked Policies and capital redemption Policies. ",
+        "bbox": [
+            94,
+            199,
+            907,
+            261
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2.2 General ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            275,
+            220,
+            291
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 In valuing a Policy: ",
+        "bbox": [
+            94,
+            305,
+            300,
+            322
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(a) where it is necessary to calculate the present value of future payments by or to the Insurer, interest shall be assumed at such fair and reasonable rate or rates as the Court may direct; ",
+        "bbox": [
+            89,
+            335,
+            905,
+            366
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(b) where relevant, the rates of mortality and the rates of disability to be employed shall be such rates as the Court considers appropriate after taking into account: ",
+        "bbox": [
+            85,
+            380,
+            904,
+            412
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(i) relevant published tables of rates of mortality and rates of disability, and (ii) the rates of mortality and the rates of disability experienced in connection with similar policies issued by the Insurer; ",
+        "bbox": [
+            151,
+            425,
+            905,
+            487
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(c) there shall be determined: ",
+        "bbox": [
+            92,
+            500,
+            347,
+            516
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(i) the present value of the ordinary benefits,   \n(ii) the present value of additional benefits;   \n(iii) the present value of options, and   \n(iv) if further premiums fall to be paid under the Policy on or after the Liquidation Date, the present value of the premiums; ",
+        "bbox": [
+            151,
+            530,
+            907,
+            651
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "and for the purposes of this Annex if the ordinary benefits only take into account premiums paid to date, the present value of future premiums shall be taken as nil. ",
+        "bbox": [
+            90,
+            664,
+            905,
+            695
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2.3 Present value of the ordinary benefits ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            709,
+            453,
+            725
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Ordinary benefits are the benefits which will become payable to the Policyholder on or after the Liquidation Date without his having to exercise any option under the Policy (including any bonus or addition to the sum assured or the amount of annuity declared before the Liquidation Date) and for this purpose \"option\" includes a right to surrender the Policy. ",
+        "bbox": [
+            92,
+            739,
+            905,
+            802
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Subject to sub-paragraph 2.3.3, the present value of the ordinary benefits shall be the value at the Liquidation Date of the reversion in the ordinary benefits according to the contingency upon which those benefits are payable calculated on the basis of the rates of interest, mortality and disability referred to in sub-paragraph 2.2.1. ",
+        "bbox": [
+            92,
+            815,
+            905,
+            878
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 For accumulating with profits policies: ",
+        "bbox": [
+            92,
+            891,
+            443,
+            908
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            94,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "19 ",
+        "bbox": [
+            492,
+            950,
+            509,
+            959
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(a) where the benefits are not expressed in the form of Units in a with-profits fund, the value of the ordinary benefits is the amount that would have been payable, excluding any discretionary additions, if the Policyholder had been able to exercise a right to terminate the Policy at the Liquidation Date; and ",
+        "bbox": [
+            152,
+            93,
+            907,
+            155
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(b) where the benefits are expressed in the form of Units in a with-profits fund, the value of the ordinary benefits is the number of Units held by the Policyholder at the Liquidation Date valued at the Unit price in force at that time or, if that price is not calculated on a daily basis, such price as the Court may determine having regard to the last published Unit price and any change in the value of assets attributable to the fund since the date of the last published Unit price. ",
+        "bbox": [
+            152,
+            170,
+            907,
+            247
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2.3.4 Where: ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            261,
+            210,
+            277
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(a) sub-paragraph 2.3.3 applies, and   \n(b) sub-paragraph 3.4.1 applies to the calculation of the Unit price (or as the case may be) the fund value, ",
+        "bbox": [
+            146,
+            291,
+            905,
+            353
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "the value shall be adjusted on the basis set out in sub-paragraphs 3.4.3 to 3.4.5. ",
+        "bbox": [
+            154,
+            366,
+            741,
+            382
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2.3.5 Where sub-paragraph 2.3.3 applies, the value may be further adjusted by reference to the value of the assets underlying the Unit price (or as the case may be) the value of the fund, if the liquidator considers such an adjustment to be necessary. ",
+        "bbox": [
+            94,
+            395,
+            905,
+            442
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2.4 Present value of additional benefits ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            456,
+            435,
+            472
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 Where under the terms of the Policy or on the basis of the Insurer's established practice the Policyholder has a right to receive or an expectation of receiving benefits additional to the minimum benefits guaranteed under those terms, the Court shall determine rates of interest, bonus (whether reversionary, terminal or any other type of bonus used by the Insurer), mortality and disability to provide for the present value (if any) of that right or expectation. ",
+        "bbox": [
+            92,
+            486,
+            905,
+            564
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 In determining what (if any) value to attribute to any such expectations the Court shall have regard to the premium payable in relation to the minimum guaranteed benefits and the amount (if any) an Insurer is required to provide in respect of those expectations in any rules made by the DFSA. ",
+        "bbox": [
+            92,
+            579,
+            907,
+            624
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2.5 Present value of options ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            638,
+            344,
+            653
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2.5.1 The amount of the present value of options shall be the amount which, in the opinion of the liquidator, is necessary to be provided at the Liquidation Date (in addition to the amount of the present value of the ordinary benefits) to cover the additional liabilities likely to arise upon the exercise on or after that date by the Policyholder of any option conferred upon him by the terms of the Policy other than an option whereby the Policyholder can secure a guaranteed cash payment within the period of 12 months beginning with that date. ",
+        "bbox": [
+            94,
+            669,
+            905,
+            760
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2.6 Present value of premiums ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            776,
+            366,
+            791
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2.6.1 The present value of the premiums shall be the value at the Liquidation Date of the premiums which fall due to be paid by the Policyholder after the Liquidation Date calculated on the basis of the rates of interest, mortality and disability referred to in sub-paragraph 2.2.1. ",
+        "bbox": [
+            92,
+            804,
+            907,
+            851
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2.7 Value of the Policy ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            865,
+            304,
+            882
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2.7.1 Subject to sub-paragraph 2.7.2: ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            895,
+            386,
+            912
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            94,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "20 ",
+        "bbox": [
+            490,
+            950,
+            509,
+            960
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(a) if no further premiums fall due to be paid under the Policy on or after the Liquidation Date, the value of the Policy shall be the aggregate of: ",
+        "bbox": [
+            141,
+            93,
+            905,
+            124
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(i) the present value of the ordinary benefits; (ii) the present value of options; and (iii) the present value of additional benefits; ",
+        "bbox": [
+            211,
+            139,
+            586,
+            215
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(b) if further premiums fall due to be so paid and the aggregate value referred to in subparagraph (a) exceeds the present value of the premiums, the value of the Policy shall be the amount of that excess; and   \n(c) if further premiums fall due to be so paid and that aggregate does not exceed the present value of the premiums, the Policy shall have no value. ",
+        "bbox": [
+            146,
+            228,
+            907,
+            321
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "2.7.2 Where the Policyholder has a right conferred upon him by the terms of the Policy whereby the Policyholder can secure a guaranteed cash payment within the period of 12 months beginning with the Liquidation Date, the liquidator shall determine the amount which in his opinion it is necessary to provide at that date to cover the liabilities which will accrue when that option is exercised (on the assumption that it will be exercised) and the value of the Policy shall be that amount if it exceeds the value of the Policy (if any) determined in accordance with sub-paragraph 2.7.1. ",
+        "bbox": [
+            92,
+            334,
+            905,
+            426
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3. TRANSFERRING INSURERS: RULES FOR VALUING LIFE POLICIES AND DEFERRED ANNUITY POLICIES WHICH ARE LINKED POLICIES ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            439,
+            902,
+            472
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3.1 Application ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            487,
+            248,
+            502
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 Paragraphs 3.2 to 3.6 below apply in relation to the valuation of the following Policies of a Transferring Insurer, namely life assurance Policies and deferred annuity Policies which are Linked Policies. ",
+        "bbox": [
+            94,
+            516,
+            905,
+            562
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3.2 General ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            577,
+            220,
+            592
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 Subject to sub-paragraph 3.2.2, the value of the Policy shall be the aggregate of the value of the Linked Liabilities (calculated in accordance with paragraphs 3.3 or 3.5 and the value of other than Linked Liabilities (calculated in accordance with paragraph 3.6) except where that aggregate is a negative amount it which case the Policy shall have no value. ",
+        "bbox": [
+            92,
+            606,
+            907,
+            668
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 Where the terms of the Policy include a right whereby the Policyholder can secure a guaranteed cash payment within the period of 12 months beginning with the Liquidation Date then, if the amount which in the opinion of the liquidator is necessary to be provided at that date to cover any liabilities which will accrue when that option is exercised (on the assumption that it will be exercised) is greater than the value determined under sub-paragraph 3.2.1, the value of the Policy shall be that greater amount. ",
+        "bbox": [
+            92,
+            682,
+            905,
+            775
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3.3 Unitised Policies ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            789,
+            285,
+            806
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 Where the Linked Liabilities are expressed in terms of Units the value of those liabilities shall, subject to paragraph 3.4, be the amount arrived at by taking the product of the number of Units of each class of Units allocated to the Policy on the Liquidation Date and the value of each such Unit on that date and then adding those products. ",
+        "bbox": [
+            94,
+            819,
+            905,
+            881
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 For the purposes of sub-paragraph 3.3.1: ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            895,
+            457,
+            912
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            94,
+            950,
+            265,
+            960
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(a) where under the terms of the Policy the value of a Unit at any time falls to be determined by reference to the value at that time of the assets of a particular fund maintained by the Insurer in relation to that and other policies, the value of a Unit on the Liquidation Date shall be determined by reference to the net realisable value of the assets credited to that fund on that date (after taking account of disposal costs, any tax liabilities resulting from the disposal of assets insofar as they have not already been provided for by the Insurer and any other amounts which under the terms of those policies are chargeable to the fund); and ",
+        "bbox": [
+            151,
+            93,
+            907,
+            203
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(b) in any other case, the value of a Unit on the Liquidation Date shall be the value which would have been ascribed to each Unit credited to the Policyholder, after any deductions which may be made under the terms of the Policy, for the purpose of determining the benefits payable under the Policy on the Liquidation Date had the Policy matured on that date. ",
+        "bbox": [
+            152,
+            216,
+            905,
+            279
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3.4 Additional provisions ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            292,
+            326,
+            309
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3.4.1 This paragraph applies where: ",
+        "bbox": [
+            94,
+            322,
+            379,
+            338
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(a) sub-paragraph 3.3.2(a) applies and the Insurer has a right under the terms of the Policy either to make periodic withdrawals from the fund referred to in that paragraph or to retain any part of the income accruing in respect of the assets of that fund;   \n(b) sub-paragraph 3.3.2(b) applies and the Insurer has a right under the terms of the Policy to receive the whole or any part of any distributions made in respect of the Units referred to in that sub-paragraph; or   \n(c) sub-paragraph 3.3.2(a) or sub-paragraph 3.3.2(b) applies and the Insurer has a right under the terms of the Policy to make periodic cancellations of a proportion of the number of Units credited to the Policy. ",
+        "bbox": [
+            146,
+            350,
+            907,
+            536
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3.4.2 Where this paragraph applies, the value of the Linked Liabilities calculated in accordance with subparagraph 3.3.1 shall be reduced by an amount calculated in accordance with sub-paragraph 3.4.3. ",
+        "bbox": [
+            92,
+            549,
+            904,
+            581
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3.4.3 The said amount is: ",
+        "bbox": [
+            92,
+            594,
+            300,
+            609
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(a) where this paragraph applies by virtue of head (a) or (b) of sub-paragraph 3.4.1, the value at the Liquidation Date, calculated on actuarial principles, of the future income of the Insurer in respect of the Units in question arising from the rights referred to in head (a) or (b) of subparagraph 3.4.1 as the case may be, or   \n(b) where this paragraph applies by virtue of head (c) of sub-paragraph 3.4.1, the value as at the Liquidation Date, calculated on actuarial principles, of the liabilities of the Insurer in respect of the Units which fall to be cancelled in the future under the right referred to in head (c) of sub-paragraph 3.4.1. ",
+        "bbox": [
+            139,
+            623,
+            910,
+            763
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3.4.4 In calculating any amount in accordance with sub-paragraph 3.4.3 there shall be disregarded: ",
+        "bbox": [
+            90,
+            776,
+            843,
+            793
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(a) such part of the rights referred to in the relevant head of sub-paragraph 3.4.1 which in the opinion of the liquidator constitutes appropriate provision for future expenses and mortality risks, and   \n(b) such part of those rights (if any) which the Court considers to constitute appropriate provision for any right or expectation of the Policyholder to receive benefits additional to the benefits guaranteed under the terms of the Policy. ",
+        "bbox": [
+            142,
+            806,
+            909,
+            914
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3.4.5 In determining the said amount: ",
+        "bbox": [
+            94,
+            93,
+            391,
+            109
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(a) interest shall be assumed at such rate or rates as the Court may direct, and   \n(b) where relevant, the rates of mortality and the rates of disability to be employed shall be such rates as the Court considers appropriate after taking into account: (i) relevant published tables of rates of mortality and rates of disability, and (ii) the rates of mortality and the rates of disability experienced in connection with similar Policies issued by the Insurer. ",
+        "bbox": [
+            132,
+            122,
+            907,
+            259
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "3.5 Non-unitised Policies ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            273,
+            322,
+            288
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "3.5.1 Where the Linked Liabilities are not expressed in terms of Units the value of those liabilities shall be the value (subject to adjustment for any amounts which would have been deducted for taxation) which would have been ascribed to those liabilities had the Policy matured on the Liquidation Date. ",
+        "bbox": [
+            92,
+            303,
+            907,
+            349
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "3.6 Liabilities other than Linked Liabilities ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            363,
+            468,
+            380
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "3.6.1 The value of any liabilities other than Linked Liabilities, including reserves for future expenses, options and guarantees, shall be determined on actuarial principles and appropriate assumptions in regard to all relevant factors including the assumption of such rate or rates of interest, mortality and disability as the Court may direct. ",
+        "bbox": [
+            92,
+            393,
+            905,
+            455
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "3.6.2 In valuing liabilities under this paragraph credit shall be taken for those parts of future premiums which do not fall to be applied in the allocation of further Units to the Policy and for any rights of the Insurer which have been disregarded under sub-paragraph 3.4.4(a) in valuing the Linked Liabilities. ",
+        "bbox": [
+            92,
+            469,
+            905,
+            531
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4. TRANSFERRING INSURERS: RULES FOR VALUING LONG-TERM INSURANCE POLICIES WHICH ARE NOT DEALT WITH IN PARAGRAPHS 2.2 to 2.7 OR 3.1 to 3.6 ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            545,
+            904,
+            577
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4.1 Application ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            590,
+            250,
+            607
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 This paragraph applies in relation to the valuation of the Long-Term Policies of a Transferring Insurer, and which are not dealt with in paragraphs 2.2 to 2.7 or 3.1 to 3.6. ",
+        "bbox": [
+            94,
+            620,
+            904,
+            652
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4.2 Valuation rule ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            667,
+            272,
+            682
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 The value of a Policy to which this paragraph applies shall be the value of the benefits due to the Policyholder determined on such actuarial principles and assumptions in regard to all relevant factors as the Court shall determine. ",
+        "bbox": [
+            92,
+            695,
+            905,
+            741
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "5. NON-TRANSFERRING INSURERS: RULES FOR VALUING LONG-TERM INSURANCE POLICIES ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            756,
+            904,
+            787
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "5.1 Application ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            802,
+            248,
+            818
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "5.1.1 Paragraphs 5.2 to 5.4 below apply in relation to the valuation of the Long-Term Insurance Policies of a Non-Transferring Insurer. ",
+        "bbox": [
+            95,
+            831,
+            905,
+            863
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "5.2 General rule ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            877,
+            257,
+            891
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            948,
+            905,
+            960
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "23 ",
+        "bbox": [
+            490,
+            950,
+            509,
+            960
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "5.2.1 Subject to paragraphs 5.3 and 5.4, in valuing a Policy, paragraphs 2.1 to 2.7, 3.1 to 3.6 and 4.1. to 4.2 shall apply according to the class of that Policy as if those paragraphs were herein repeated but with a view to a fresh valuation of each Policy on appropriate assumptions in regard to all relevant factors and subject to the following modifications: ",
+        "bbox": [
+            94,
+            93,
+            907,
+            155
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(a) references to the Stop Order shall be substituted for references to the Liquidation Date,   \n(b) in sub-paragraph 2.5.1, for the words \"whereby the Policyholder can secure a guaranteed cash payment within the period of 12 months beginning with that date\" there shall be substituted the words \"to surrender the Policy which can be exercised on that date\",   \n(c) sub-paragraph 2.7.2 shall be deleted, and   \n(d) sub-paragraph 3.2.2 shall be deleted. ",
+        "bbox": [
+            149,
+            168,
+            907,
+            306
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5.3 Surrender Rights ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            319,
+            295,
+            336
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5.3.1 This paragraph applies where the Policyholder has a right conferred upon him under the terms of the Policy to surrender the Policy and that right is exercisable on the date of the Stop Order. ",
+        "bbox": [
+            90,
+            349,
+            904,
+            380
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5.3.2 Where this paragraph applies and the amount required at the date of the Stop Order to provide for the benefits payable upon surrender of the Policy (on the assumption that the Policy is surrendered on the date of the Stop Order) is greater than the value of the Policy determined in accordance with subparagraph 5.2.1, the value of the Policy shall, subject to sub-paragraph 5.3.3, be the said amount so required. ",
+        "bbox": [
+            92,
+            394,
+            907,
+            472
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5.3.3 Where any part of the surrender value is payable after the date of the Stop Order, sub-paragraph 5.3.2 shall apply but the value therein referred to shall be discounted at such a rate of interest as the Court may direct. ",
+        "bbox": [
+            92,
+            486,
+            905,
+            532
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5.4 Linked Policies ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            546,
+            277,
+            563
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5.4.1 This paragraph applies in the case of a Linked Policy where: ",
+        "bbox": [
+            90,
+            576,
+            603,
+            592
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(a) the terms of the Policy include a guarantee that the amount assured will on maturity of the Policy be worth a minimum amount calculable in money terms, or ",
+        "bbox": [
+            151,
+            606,
+            904,
+            638
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(b) the terms of the Policy include a right on the part of the Policyholder to surrender the Policy and a guarantee that the payment on surrender will be worth a minimum amount calculable in money terms and that right is exercisable on or after the date of the Stop Order. ",
+        "bbox": [
+            152,
+            651,
+            905,
+            697
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5.4.2 Where this paragraph applies the value of the Policy shall be the greater of the following two amounts: ",
+        "bbox": [
+            89,
+            712,
+            904,
+            741
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(a) the value the Policy would have had at the date of the Stop Order had the Policy been a Non-Linked Policy, that is to say, had the Linked Liabilities provided by the Policy not been so provided but the Policy had otherwise been on the same terms, and ",
+        "bbox": [
+            151,
+            757,
+            905,
+            803
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(b) the value the Policy would have had at the date of the Stop Order had the Policy not included any guarantees of payments on maturity or surrender worth a minimum amount calculable in money terms. ",
+        "bbox": [
+            152,
+            818,
+            905,
+            864
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "29 September 2008 ",
+        "bbox": [
+            784,
+            950,
+            905,
+            960
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "74085-00002 CO:4584655.7 ",
+        "bbox": [
+            92,
+            948,
+            265,
+            960
+        ],
+        "page_idx": 23
+    }
+]

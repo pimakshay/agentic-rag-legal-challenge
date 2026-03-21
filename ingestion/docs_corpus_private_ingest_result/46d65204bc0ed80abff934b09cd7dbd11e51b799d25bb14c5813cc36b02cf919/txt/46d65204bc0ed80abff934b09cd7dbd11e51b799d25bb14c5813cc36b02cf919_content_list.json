@@ -1,0 +1,920 @@
+[
+    {
+        "type": "text",
+        "text": "Dubai International Financial Centre ",
+        "text_level": 1,
+        "bbox": [
+            299,
+            368,
+            781,
+            498
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 2 June 2017 ",
+        "text_level": 1,
+        "bbox": [
+            210,
+            631,
+            801,
+            704
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO THE DIFC LEGISLATION ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            750,
+            907,
+            815
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Annex 1 ",
+        "bbox": [
+            819,
+            97,
+            925,
+            130
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 2 PROPOSED AMENDMENTS TO THE DIFC LEGISLATION ",
+        "text_level": 1,
+        "bbox": [
+            208,
+            78,
+            801,
+            124
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Why are we issuing this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            156,
+            358,
+            174
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. This Consultation Paper seeks public comment on the DIFC Authority’s (“DIFCA”) and the Commissioner of Data Protection (the “Commissioner”) proposal to amend the Court Law, DIFC Law No. 10 of 2004 (the “Court Law”), the Data Protection Law, DIFC Law No.1 of 2007, and the Data Protection Regulations. This Consultation Paper has three main parts: ",
+        "bbox": [
+            94,
+            186,
+            924,
+            274
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) Part A deals with the proposed amendments to the Court Law; (b) Part B deals with the proposed amendment to the Data Protection Law; and (c) Part C deals with the proposed amendments to the Data Protection Regulations. ",
+        "bbox": [
+            153,
+            290,
+            870,
+            384
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Who should read this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            406,
+            336,
+            422
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. This Consultation Paper would be of interest to: ",
+        "bbox": [
+            90,
+            438,
+            553,
+            454
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) legal advisors advising on matters relating to the Court Law, Data Protection Law and Data Protection Regulations;   \n(b) Data Controllers established in the jurisdiction of the DIFC. ",
+        "bbox": [
+            153,
+            473,
+            920,
+            553
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How to provide comments ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            574,
+            314,
+            591
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. DIFCA invites interested parties to provide their views and comments on the issues outlined in the Consultation Paper using the table of comments attached at Annex C. ",
+        "bbox": [
+            94,
+            605,
+            920,
+            647
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. All comments should be provided to the person specified below: ",
+        "bbox": [
+            90,
+            665,
+            688,
+            684
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates   \nor e-mailed to: consultation@difc.ae ",
+        "bbox": [
+            153,
+            701,
+            483,
+            833
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. You may choose to identify the organisation you represent in your comments. ",
+        "bbox": [
+            90,
+            851,
+            801,
+            869
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "bbox": [
+            94,
+            888,
+            917,
+            928
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DIFC LAWS AMENDMENT LAW AND THE DATA PROTECTION REGULATIONS ",
+        "bbox": [
+            220,
+            42,
+            917,
+            59
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            890,
+            953,
+            904,
+            965
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "What happens next? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            83,
+            269,
+            99
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. The deadline for providing comments on the proposals in this Consultation Paper is 17 July 2017. ",
+        "bbox": [
+            94,
+            114,
+            920,
+            153
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8. Once we receive your comments, we will consider if any further refinements are required to these proposals. Given the nature of the amendment sought and its urgency, the deadline for providing comments on these proposals is 17 July 2017. Once DIFCA considers the changes to be in a suitable form, it will then proceed to enact the changes to the DIFC Laws Amendment Law and the Data Protection Regulations to come in to force on a date specified and published. ",
+        "bbox": [
+            92,
+            172,
+            920,
+            304
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9. The DIFC Laws Amendment Law and the Data Protection Regulations are in draft form only. You should not act on them until the DIFC Laws Amendment Law and the proposed amendments to the Data Protection Regulations are formally enacted. We will issue a notice on our website when this happens. ",
+        "bbox": [
+            92,
+            321,
+            920,
+            408
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            431,
+            215,
+            446
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase and are defined in the DIFC Laws Amendment Law and the Data Protection Regulations. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "bbox": [
+            94,
+            461,
+            920,
+            548
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PART A – PROPOSED AMENDMENTS TO THE COURT LAW ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            566,
+            626,
+            585
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            608,
+            198,
+            624
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11. In Part A, DIFCA is proposing to enhance the Court Law to bring certain provisions of that law in line with international best practices and to stay ahead of growing trends in commercial litigation. The Court Law establishes the relevant statutory framework applicable to the DIFC Courts. Since its enactment in 2004 the Court Law has not been amended or updated and thus DIFCA has consulted with the DIFC Courts to determine which provisions of the Court Law require update after over ten years. In determining which provisions to update, we have taken into account specific factors relating to the Dubai International Financial Centre, best practices in other International Commercial Courts, and the current functioning of the DIFC Courts. ",
+        "bbox": [
+            97,
+            637,
+            922,
+            837
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DIFC LAWS AMENDMENT LAW AND THE DATA PROTECTION REGULATIONS ",
+        "bbox": [
+            223,
+            42,
+            917,
+            58
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            890,
+            954,
+            904,
+            964
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Judges’ Tenure ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            79,
+            235,
+            96
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "12. Article 9(2) of the Court Law currently provides that, when a Judge of the DIFC Courts turns 75 years of age, and irrespective of competency, he or she may no longer hear new cases before the DIFC Courts pursuant to the Court Law. As the DIFC Courts’ bench is comprised mainly of retired Judges from common law countries, they are often aged over 70 years old upon appointment, meaning that under the current version of the Court Law the Judge’s tenure is short and after a few years on the bench the knowledge and experience that the Judge has developed of DIFC Courts’ precedents, practices and rules is lost when the Judge is required to retire. ",
+        "bbox": [
+            99,
+            115,
+            920,
+            290
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "13. Other International Commercial Courts which have been established since 2004 and which have, to a greater or lesser extent, been modelled on DIFC Courts, have not introduced such an age restriction, realising that the high quality and respected Judges that they wish to attract might be precluded or deterred from joining their bench. These include Abu Dhabi Global Market Courts, the Singapore International Commercial Courts (for international judges) and the Qatar International Court and Dispute Resolution Centre. ",
+        "bbox": [
+            95,
+            309,
+            920,
+            440
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Chief Justice’s power to propose regulations ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            459,
+            498,
+            477
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14. Under the current version of the Court Law, the Chief Justice of the DIFC Courts has broad power to propose court rules (pursuant to Article 31) and to propose regulations regarding fees (pursuant to Article 56). Unlike many other DIFC laws, the Court Law does not include a provision that allows for the issuance of DIFC Courts-related regulation by DIFCA as allowing this might violate key principles of separation of powers essential to common law systems of government. However, there remain circumstances where the DIFC Courts, its users, and its Judges could benefit from the clarity that additional regulations would provide, and circumstances where the proposal of such regulations does not appropriately fall within the Chief Justice’s existing rule-making and fee-regulating powers. ",
+        "bbox": [
+            97,
+            495,
+            920,
+            694
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Proposed Amendments ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            710,
+            292,
+            726
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Judges’ Tenure ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            742,
+            237,
+            758
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15. Although some international courts have no cap on a Judge’s age, it is proposed that the DIFC Courts keep an age limit of 75 years but also allow the Chief Justice to extend a Judge’s tenure once he or she has reached the cap, if such an extension is considered to be in the best interests of the DIFC Courts. In the case of the Chief Justice, His Highness Mohammed bin Rashid Al Maktoum Ruler of Dubai shall be able to extend his or her tenure with reference to the same standard of whether the extension of service is beneficial to the DIFC Courts. This amendment will allow the DIFC Courts to retain high quality Judges who are fully capable of performing their judicial responsibilities and who add considerable value to the DIFC Courts. This amendment will also ensure that Judges will not be required to limit their participation only due to their age, when their service would otherwise be of benefit to the DIFC Courts. ",
+        "bbox": [
+            99,
+            777,
+            920,
+            932
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DIFC LAWS AMENDMENT LAW AND THE DATA PROTECTION REGULATIONS ",
+        "bbox": [
+            223,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            892,
+            954,
+            902,
+            964
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Chief Justice’s power to propose regulations ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            182,
+            498,
+            200
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "16. While the Chief Justice of the DIFC Courts has broad rule-making authority pursuant to Article 31 of the Court Law, this amendment is proposed to account for circumstances when the DIFC Courts may wish to issue additional regulations regarding conduct in the DIFC Courts that could not otherwise fall under “rules of procedure… in relation to any proceedings before the DIFC Courts.” The proposed expansion of this discretionary ability to suggest regulations, with the existing check of approval by the President, will enable the DIFC Courts to adapt to new and increasingly pervasive trends in litigation in order to remain on the forefront of legal developments worldwide. The included limitation that such regulations would remain suggestions until approved by the President of the DIFC will ensure that regulations will remain narrowly tailored to those necessary for the efficient functioning of the DIFC Courts. ",
+        "bbox": [
+            99,
+            218,
+            920,
+            461
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "17. This amendment will allow the DIFC Courts to monitor the conduct of parties and practitioners before the DIFC Courts in relation to third party funding of DIFC Courts’ proceedings, mirroring a global trend towards increased regulation of this swiftly changing industry. This change would also draw upon the approach of other International Commercial Courts which have given their own Chief Justice the ability to put forward appropriate regulations regarding third party funding in court proceedings, pursuant to regulations issued to govern the court. While the DIFC Courts have already issued Practice Direction No. 2 of 2017 on Third Party Funding in the DIFC, this Practice Direction only covers basic procedural requirements relevant to parties who intend to use third party funding in their DIFC Courts’ proceedings and it does not provide for best practices for third party funding in DIFC Courts’ proceedings. ",
+        "bbox": [
+            95,
+            482,
+            919,
+            726
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "18. Thus, in line with the international approach, the powers of the Chief Justice may be appropriately expanded to suggest such best practices, these best practices not appropriately falling within the Chief Justice’s existing power to set procedural rules or feerelated regulations. The world of litigation continues to change each year, with practitioners and court users seeking to take advantage of new strategies and products relevant to dispute resolution. Therefore, the DIFC Courts need to be able to react and propose regulations that will provide for continuity in the transparent and efficient legal services provided in light of a changing landscape. Implementing this amendment will allow the DIFC Courts to account for these changing circumstances promptly, without the undue delay required by an amendment to the Court Law and will contribute to the efficient resolution of disputes within the DIFC. ",
+        "bbox": [
+            101,
+            744,
+            919,
+            942
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DIFC LAWS AMENDMENT LAW AND THE DATA PROTECTION REGULATIONS ",
+        "bbox": [
+            223,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            890,
+            954,
+            902,
+            964
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q1. Are there any issues or concerns to be addressed relating to Judges being able to extend their tenure? If so, what are they, and how should they be addressed?   \nQ2. Are there any other aspects relating to Judges’ tenure which should also be addressed? If so, what are they, and how should they be addressed? Q3. Are there any concerns relating to the expansion of the Chief Justice’s powers to propose regulations? If so, what are they, and how should they be addressed?   \nQ4. Are there any other amendments to the Court Law that you wish to propose? ",
+        "bbox": [
+            202,
+            176,
+            924,
+            442
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PART B – PROPOSED AMENDMENT TO THE DATA PROTECTION LAW ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            498,
+            727,
+            517
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            541,
+            198,
+            558
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "19. In Part B, the Commissioner is proposing to make an amendment to the Data Protection Law in order to bring clarity and avoid duplication of articles. ",
+        "bbox": [
+            94,
+            571,
+            920,
+            612
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Delegation powers of the Commissioner of Data Protection ",
+        "text_level": 1,
+        "bbox": [
+            154,
+            630,
+            683,
+            649
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "20. Currently, Article 26(3)(o) of the Data Protection Law provides for delegation of the Commissioner’s powers and functions to be performed by his employees or officers, however this delegation power already exists under Article 23 of the Data Protection Law. ",
+        "bbox": [
+            94,
+            668,
+            920,
+            731
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Proposed Amendment ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            747,
+            284,
+            763
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Delegation Powers of the Commissioner ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            777,
+            457,
+            795
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. As the Commissioner has delegation powers pursuant to Article 23 of the Data Protection Law, it is proposed that Article 26(3)(o) of the Data Protection Law be deleted in its entirety to avoid duplication and confusion. ",
+        "bbox": [
+            94,
+            814,
+            919,
+            877
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DIFC LAWS AMENDMENT LAW AND THE DATA PROTECTION REGULATIONS ",
+        "bbox": [
+            223,
+            42,
+            917,
+            59
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            890,
+            954,
+            904,
+            964
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Q5. Do you have any issues or concerns relating to the amendm If so, what are they, and how should they be addressed? ",
+        "bbox": [
+            202,
+            81,
+            774,
+            123
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PART C – PROPOSED AMENDMENTS TO THE DATA PROTECTION REGULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            179,
+            835,
+            199
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            222,
+            198,
+            237
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "22. In Part C, the Commissioner is proposing to make amendments to the Data Protection Regulations in order to bring the Data Protection Regulations in line with international best practices, and to stay ahead of recent regulatory developments in Europe. ",
+        "bbox": [
+            92,
+            251,
+            920,
+            315
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acceptable Jurisdictions of the Data Protection Regulations ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            333,
+            631,
+            352
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "23. The Data Protection Law is largely modeled on the privacy and data protection principles and guidelines emanating from the relevant EU Directives that were in force at the time of the Data Protection Law’s enactment and EU Directives continue to be a model for general guidance to the Commissioner in the administration of the Data Protection Law. ",
+        "bbox": [
+            94,
+            370,
+            920,
+            457
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "24. Article 11 of the Data Protection Law makes provision for the transfer of personal data to recipients located outside of the DIFC where there is an adequate level of protection by way of laws and regulations applicable to such recipients. Jurisdictions recognized as having an adequate level of protection for the transfer of personal data are either (i) listed in the Appendix 3 of the Regulations; or (ii) approved as such by the Commissioner from time to time, pursuant to the provisions of Article 11(2) of the Law. Recipients located in the United States that certify their adherence to the privacy principles issued by the US Department of Commerce in its Safe Harbor Policy (“US Safe Harbor Recipients”) have previously been granted adequate protection status under the Data Protection Law by way of specific reference in Appendix 3 of the Data Protection Regulations. ",
+        "bbox": [
+            94,
+            475,
+            920,
+            697
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "25. The Commissioner noted the ruling handed down by the European Court of Justice (“ECJ”) on 6 October 2015 in the matter of Maximillian Schrems v Data Protection Commissioner [Case no C-362/14] invalidating, with immediate effect, Commission Decision 2000/520/EC (the “Adequacy Decision”) that previously afforded adequate protection status for personal data transfers from European Member States to US Safe Harbor Recipients. ",
+        "bbox": [
+            92,
+            714,
+            920,
+            824
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "26. The Commissioner also noted that the European Commission adopted, on 12 July 2016, its decision on the EU-US Privacy Shield, a new framework which protects the fundamental rights of anyone on the EU whose personal data is transferred to the United States as well as bringing legal clarity for businesses relying on translantic data transfers. ",
+        "bbox": [
+            92,
+            842,
+            920,
+            928
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DIFC LAWS AMENDMENT LAW AND THE DATA PROTECTION REGULATIONS ",
+        "bbox": [
+            223,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            892,
+            953,
+            902,
+            964
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "27. The Commissioner also noted the decisions adopted by the European Commission in 2010 on the adequate protection of personal data in Andorra and Faeroe Islands. ",
+        "bbox": [
+            92,
+            78,
+            917,
+            119
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Proposed Amendments ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            172,
+            294,
+            188
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acceptable Jurisdictions of the Data Protection Regulations ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            201,
+            632,
+            220
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "28. The Commissioner proposes to amend the list of acceptable jurisdictions to include Andorra and Faeroe Islands, and to exclude the US Department of Commerce Safe Harbor Policy (including the Safe Harbor list of organisations adhering to the Safe Harbor framework) from the list of acceptable jurisdictions, and replace it with the EU-US Privacy Shield. ",
+        "bbox": [
+            94,
+            238,
+            920,
+            326
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "29. The Commissioner also proposes to amend the Guidance under the Acceptable Jurisdictions with the effect that the Commissioner has now the explicit power to withdraw the status from a jurisdiction with an adequate level of protection for personal data, in addition to the existing power to designate other jurisdictions as having an adequate level of protection for personal data. ",
+        "bbox": [
+            92,
+            344,
+            919,
+            452
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "30. These amendments address the ruling handed down by the ECJ and decision adopted by the European Commission with regards to the validity of data transfers from European Member States to the United States. ",
+        "bbox": [
+            94,
+            471,
+            919,
+            534
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Q6. Do you have any issues or concerns relating to the amendments? If so, what are they, and how should they be addressed? ",
+        "bbox": [
+            205,
+            557,
+            920,
+            597
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Legislative Proposal ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            650,
+            267,
+            667
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "31. This legislative proposal contains the following: ",
+        "bbox": [
+            94,
+            680,
+            548,
+            698
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "a. The DIFC Laws Amendment Law, DIFC Law No. 4 of 2017 (at Annex A); and b. The Data Protection Regulations (Consolidated Version No.3) (at Annex B). ",
+        "bbox": [
+            153,
+            716,
+            829,
+            773
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "32. A table of comments to provide your views and comments on the Consultation Paper is attached at Annex C. ",
+        "bbox": [
+            87,
+            790,
+            917,
+            831
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DIFC LAWS AMENDMENT LAW AND THE DATA PROTECTION REGULATIONS ",
+        "bbox": [
+            222,
+            42,
+            917,
+            59
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            890,
+            954,
+            904,
+            964
+        ],
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,614 @@
+{
+    "0": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "DIFC ",
+        "level": 1
+    },
+    "1": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "FINANCIAL COLLATERAL REGULATIONS ",
+        "level": 1
+    },
+    "2": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "In force on 1 November 2019 ",
+        "level": 2
+    },
+    "3": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "TABLE OF CONTENTS ",
+        "level": 1
+    },
+    "4": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "1. INTRODUCTION.... ",
+        "level": 2
+    },
+    "5": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "1.1 Application and Interpretation .   \n1.2 References to writing .. ",
+        "level": 3
+    },
+    "6": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2. FINANCIAL COLLATERAL .. ",
+        "level": 2
+    },
+    "7": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2.1 Financial Collateral . .. 2   \n2.2 Modification of the application of the Security Law with respect to Financial Collateral. . 2   \n2.3 No formal act required .. .. 3 ",
+        "level": 3
+    },
+    "8": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "3. TITLE TRANSFER..",
+        "level": 2
+    },
+    "9": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "3.1 Title Transfer Financial Collateral Arrangements.. .3   \n3.2 Enforceability of Title Transfer Financial Collateral Arrangements .............. .3 ",
+        "level": 3
+    },
+    "10": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "4. SECURITY INTEREST FINANCIAL COLLATERAL ARRANGEMENTS... ... 3 ",
+        "level": 2
+    },
+    "11": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "4.1 Scope of security interest in Financial Collateral.. ... 3   \n4.2 Attachment of security interest in Financial Collateral . .. 3   \n4.3 Perfection .... .3   \n4.4 Interests in Financial Collateral that take free of a security interest. .3 ",
+        "level": 3
+    },
+    "12": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "5. PRIORITY OF INTERESTS IN FINANCING COLLATERAL. .. 4 ",
+        "level": 2
+    },
+    "13": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "RIGHTS OF USE; RELEASE OF EXCESS AND SUBSTITUTION OF FINANCIAL",
+        "level": 2
+    },
+    "14": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "COLLATERAL.. ",
+        "level": 2
+    },
+    "15": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "6.1 Rights of Use of a secured party in Financial Collateral . .. 4   \n6.2 Obligation to return Equivalent Collateral .. .. 4   \n6.3 Release of excess collateral; substitution of Financial Collateral . ... 4 ",
+        "level": 3
+    },
+    "16": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "7. ENFORCEMENT OF FINANCIAL COLLATERAL ARRANGEMENTS .... .... 4 ",
+        "level": 2
+    },
+    "17": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Enforcement .... ",
+        "level": 3
+    },
+    "18": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "7.2 Set-off... ",
+        "level": 3
+    },
+    "19": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "i ",
+        "level": 5
+    },
+    "20": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "FINANCIAL COLLATERAL REGULATIONS ",
+        "level": 2
+    },
+    "21": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "The Board of directors of the DIFC, in the exercise of the powers conferred on them by Article 44 of the Law, hereby make these Regulations. ",
+        "level": 5
+    },
+    "22": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1. INTRODUCTION ",
+        "level": 1
+    },
+    "23": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1 Application and Interpretation ",
+        "level": 2
+    },
+    "24": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1.1 These Regulations apply to any person to whom the Law applies. ",
+        "level": 3
+    },
+    "25": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1.1.2 Defined terms are identified throughout these Regulations by the capitalisation of the initial letter of a word or phrase. Where capitalisation of the initial letter is not used, an expression has its natural meaning, subject to Regulation 1.1.4. ",
+        "level": 3
+    },
+    "26": {
+        "type": "table",
+        "page_idx": 2,
+        "text": "<table><tr><td colspan=\"1\" rowspan=\"1\">Defined Term</td><td colspan=\"1\" rowspan=\"1\">Definition</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Account Provider</td><td colspan=\"1\" rowspan=\"1\">with respect to financial property or Money which is held in an account, means abank or an intermediary who maintains an account to which such financialproperty or Money is credited for the benefit of the debtor</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Control</td><td colspan=\"1\" rowspan=\"1\">(a) with respect to financial property, has the meaning set out in Article 21(Control) of Personal Property Law DIFC Law No. 9 of 2005, except thatreferences to \"investment intermediary\" shall be construed to mean anAccount Provider; and() with respect to Money, has the meaning set out in paragraph 5 of Schedule 1of the Law except that references to \"bank\" shall be construed to mean anAccount Provider and references to \"deposit account\" shall be construed toinclude any account to which Money is credited</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Equivalent Collateral</td><td colspan=\"1\" rowspan=\"1\">with respect to:(a) cash, means Money of the same amount and in the same currency; andfinancial property:(i) means financial property (including entitlements to financial property) ofthe same issuer or debtor forming part of the same issue or class anddescription, and of the same nominal amount and currency, as therelevant Financial Collateral; or(ii) where a Financial Collateral Arrangement provides for the occurrence ofany event relating to or affecting any financial property provided asFinancial Collateral, means those other assets specified in the FinancialCollateral Arrangement</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Financial Collateral</td><td colspan=\"1\" rowspan=\"1\">has the meaning set out in Regulation 2.1</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Financial      CollateralArrangements</td><td colspan=\"1\" rowspan=\"1\">means a Security Financial Collateral Arrangement and/or a Title TransferFinancial Collateral Arrangement</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Insolvency Proceedings</td><td colspan=\"1\" rowspan=\"1\">insolvency proceedings under the Insolvency Law, or any analogous proceedingsin any other jurisdiction</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Law</td><td colspan=\"1\" rowspan=\"1\">the Law of Security DIFC Law No. 8 of 2005</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Money</td><td colspan=\"1\" rowspan=\"1\">cash in any currency or claims for payment or repayment in respect of money inany currency credited to an account a claim of, or against, the Account Providerin respect of that Money or an account, including money market deposits and sumsdue or payable arising in connection with a close out netting arrangement</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Redelivery Obligation</td><td colspan=\"1\" rowspan=\"1\">has the meaning set out in Regulation 6.2</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Right of Use</td><td colspan=\"1\" rowspan=\"1\">the right of the secured party to use or dispose of Financial Collateral or interestsin Financial Collateral as owner of it in accordance with the terms of the FinancialCollateral Arrangement</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Security FinancialCollateral Arrangement</td><td colspan=\"1\" rowspan=\"1\">an arrangement pursuant to which a collateral provider or a debtor providesFinancial Collateral by way of security interest in favour of, or to, a secured partyand where legal title ownership of the Financial Collateral remains with suchcollateral provider or debtor when such Security Financial Collateral Arrangementis established, for the purpose of securing or otherwise covering the performanceof the relevant financial obligations owed to the secured party</td></tr><tr><td>Title Transfer Financial Collateral Arrangement</td><td>an arrangement pursuant to which legal title ownership of Financial Collateral is transferred to the secured party for the purpose of securing or otherwise covering the performance of the relevant financial obligations owed to the secured party</td></tr></table>",
+        "level": 3
+    },
+    "27": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1 ",
+        "level": 5
+    },
+    "28": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "FINANCIAL COLLATERAL REGULATIONS ",
+        "level": 2
+    },
+    "29": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "1.1.4 All other defined terms have the same meaning they have under the Law except where the context otherwise requires. ",
+        "level": 3
+    },
+    "30": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "1.1.5 The Rules of interpretation in the Law apply to these Regulations. ",
+        "level": 3
+    },
+    "31": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "1.2 References to writing ",
+        "level": 2
+    },
+    "32": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "1.2.1 If a provision in these Regulations refers to a communication, notice, agreement of other document “in writing” then, unless the contrary intention appears, it means in legible form and capable of being reproduced on paper, irrespective of the medium used. Expressions related to writing must be interpreted accordingly. ",
+        "level": 3
+    },
+    "33": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "1.2.2 Regulation 1.2.1 does not affect any other legal requirements which may apply in relation to the form or manner of executing a document or agreement. ",
+        "level": 3
+    },
+    "34": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "FINANCIAL COLLATERAL ",
+        "level": 1
+    },
+    "35": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2.1 Financial Collateral ",
+        "level": 2
+    },
+    "36": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "Financial Collateral is: ",
+        "level": 3
+    },
+    "37": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(a) Money held in or credited to an account; or a Money claim of, or against, the Account Provider in respect of that Money or account; or (b) financial property held in an account with an Account Provider including: ",
+        "level": 3
+    },
+    "38": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(i) shares in companies or securities representing or equivalent to shares in companies; (ii) bonds or other forms of debt instruments;   \n(iii) any other securities or similar instruments (including sukuk);   \n(iv) units in a collective investment undertaking;   \n(v) money market instruments; and   \n(vi) claims relating to or rights in or in respect of any of the foregoing and any Redelivery Obligation arising in accordance with Regulation 6. ",
+        "level": 3
+    },
+    "39": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2.2 Modification of the application of the Security Law with respect to Financial Collateral ",
+        "level": 2
+    },
+    "40": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "The application of the Law in relation to Financial Collateral is modified and supplemented to by these Regulations. ",
+        "level": 3
+    },
+    "41": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "Attachment, perfection and enforcement of a security interest in financial property may not occur other than in accordance with these Regulations. ",
+        "level": 3
+    },
+    "42": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2.2.3 Subject to Regulation 5, this Regulation 2.2 is without prejudice to the attachment, perfection or enforcement of a security interest in Money made otherwise than under these Regulations. ",
+        "level": 3
+    },
+    "43": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "FINANCIAL COLLATERAL REGULATIONS ",
+        "level": 2
+    },
+    "44": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2 ",
+        "level": 5
+    },
+    "45": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "2.3 No formal act required ",
+        "level": 2
+    },
+    "46": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Other than as set out in these Regulations or as agreed between the collateral provider or debtor and the secured party, no formal act shall be necessary to the attachment, perfection or enforcement of a Financial Collateral Arrangement. ",
+        "level": 3
+    },
+    "47": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "3. TITLE TRANSFER ",
+        "level": 1
+    },
+    "48": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "3.1 Title Transfer Financial Collateral Arrangements ",
+        "level": 2
+    },
+    "49": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "The terms of a Financial Collateral Arrangement may provide for the secured party to take legal title ownership of some or all of the Financial Collateral. ",
+        "level": 3
+    },
+    "50": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "3.2 Enforceability of Title Transfer Financial Collateral Arrangements ",
+        "level": 2
+    },
+    "51": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "A Title Transfer Financial Collateral Arrangement takes effect in accordance with its terms. ",
+        "level": 3
+    },
+    "52": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "SECURITY INTEREST FINANCIAL COLLATERAL ARRANGEMENTS ",
+        "level": 1
+    },
+    "53": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "4.1 Scope of security interest in Financial Collateral ",
+        "level": 2
+    },
+    "54": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "A security interest in Financial Collateral may be granted on terms such that it extends to all financial property and Money from time to time standing to the credit of one (1) or more accounts or to a specified category, quantity, proportion or value of such financial property and Money. Such a security interest is effective without the need for further identification of particular financial property or Money. ",
+        "level": 3
+    },
+    "55": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "4.2 Attachment of security interest in Financial Collateral ",
+        "level": 2
+    },
+    "56": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "A security interest under a Security Financial Collateral Arrangement attaches to that Financial Collateral when it becomes enforceable in accordance with Article 11(1) of the Law. ",
+        "level": 3
+    },
+    "57": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "4.2.2 Notwithstanding Article 11(2) of the Law, a Security Financial Collateral Arrangement is enforceable if the secured party has Control of the Financial Collateral pursuant to the terms of that Security Financial Collateral Arrangement. ",
+        "level": 3
+    },
+    "58": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "4.3 Perfection ",
+        "level": 2
+    },
+    "59": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "A security interest in Financial Collateral is: ",
+        "level": 3
+    },
+    "60": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) perfected upon attachment in accordance with Regulation 4.2; and ",
+        "level": 3
+    },
+    "61": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(b) remains perfected until the earliest of: ",
+        "level": 3
+    },
+    "62": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(i) termination of the Security Financial Collateral Arrangement; (ii) the secured party ceasing to have Control over the Financial Collateral; and (iii) enforcement. ",
+        "level": 3
+    },
+    "63": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "4.4 Interests in Financial Collateral that take free of a security interest ",
+        "level": 2
+    },
+    "64": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "4.4.1 Subject to Regulation 5, a secured party taking a Security Financial Collateral Arrangement over Financial Collateral under these Regulations takes free of a pre-existing security interest in the collateral assets, even if the pre-existing security interest is perfected in accordance with Chapter 1 of Part 4 of the Law and the secured party knows of its existence. ",
+        "level": 3
+    },
+    "65": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "4.4.2 Regulation 4.4.1 is without prejudice to any rights of the secured party under the pre-existing security interest against the debtor (including without limitation in the proceeds of the Financial Collateral received by the debtor). ",
+        "level": 3
+    },
+    "66": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "FINANCIAL COLLATERAL REGULATIONS ",
+        "level": 2
+    },
+    "67": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "3 ",
+        "level": 5
+    },
+    "68": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "5. PRIORITY OF INTERESTS IN FINANCING COLLATERAL ",
+        "level": 1
+    },
+    "69": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "5.1.1 The following rules determine priority between conflicting security interests in the same Financial Collateral: ",
+        "level": 2
+    },
+    "70": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(a) a Title Transfer Collateral Arrangement in Financial Collateral has priority over a conflicting security interest in the Financial Collateral; and   \n(b) subject to paragraph (a) of this Regulation 5.1.1, a Security Financial Collateral Arrangement has priority over a conflicting security interest in the same Financial Collateral (other than a Title Transfer Collateral Arrangement) according to priority in time of perfection in accordance with Regulation 4.3. ",
+        "level": 3
+    },
+    "71": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "5.1.2 Notwithstanding Regulation 5.1.1, a Security Financial Collateral Arrangement pursuant to which the secured party has obtained Control over the Financial Collateral, by way of agreement from an Account Provider to comply with the instructions of the secured party, has priority over a subsequent security interest in the same Financial Collateral in favour of such Account Provider. ",
+        "level": 3
+    },
+    "72": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "6. RIGHTS OF USE, RELEASE OF EXCESS AND SUBSTITUTION OF FINANCIALCOLLATERAL",
+        "level": 1
+    },
+    "73": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "6.1 Rights of Use of a secured party in Financial Collateral ",
+        "level": 2
+    },
+    "74": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "1 A security agreement may provide for the secured party to have a Right of Use in respect of Financial Collateral. ",
+        "level": 3
+    },
+    "75": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "A secured party has Control of Financial Collateral notwithstanding its exercise of a Right of Use. ",
+        "level": 3
+    },
+    "76": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "The exercise of a Right of Use shall not render invalid or unenforceable any right of the secured party under the relevant Financial Collateral Arrangement. ",
+        "level": 3
+    },
+    "77": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "6.2 Obligation to return Equivalent Collateral ",
+        "level": 2
+    },
+    "78": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "6.2.1 Subject to the terms of the relevant Financial Collateral Arrangement, where a secured party: ",
+        "level": 3
+    },
+    "79": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(a) has obtained title to Financial Collateral under a Title Transfer Financial Collateral Arrangement; or   \n(b) exercises a Right of Use in respect of Financial Collateral pursuant to a Security Financial Collateral Arrangement, ",
+        "level": 3
+    },
+    "80": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "it thereby incurs an obligation to replace the collateral originally transferred by transferring Equivalent Collateral to the debtor no later than the discharge of the secured obligations. ",
+        "level": 3
+    },
+    "81": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "6.2.2 An obligation to transfer Equivalent Collateral under Regulation 6.2.1 is a \"redelivery obligation\". ",
+        "level": 3
+    },
+    "82": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "6.3 Release of excess collateral and substitution of Financial Collateral ",
+        "level": 2
+    },
+    "83": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "A secured party has Control of Financial Collateral notwithstanding any provision in the terms of the Financial Collateral Arrangement which allows the withdrawal of excess Financial Collateral or the substitution of Financial Collateral in accordance with the terms of such Financial Collateral Arrangement. ",
+        "level": 3
+    },
+    "84": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "7. ENFORCEMENT OF FINANCIAL COLLATERAL ARRANGEMENTS ",
+        "level": 1
+    },
+    "85": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "7.1 Enforcement ",
+        "level": 2
+    },
+    "86": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "7.1.1 On the occurrence of an enforcement event specified under the terms of a Financial Collateral Arrangement, the secured party may collect, enforce, dispose of or accept Financial Collateral: ",
+        "level": 3
+    },
+    "87": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "FINANCIAL COLLATERAL REGULATIONS ",
+        "level": 2
+    },
+    "88": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "4 ",
+        "level": 5
+    },
+    "89": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) in the case of financial property, by selling it and applying the net proceeds of sale in or towards the discharge of the secured obligations; ",
+        "level": 3
+    },
+    "90": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(b) by appropriating the Financial Collateral as the secured party's own property and setting off its value against, or applying its value in or towards the discharge of, the secured obligations, provided in the case of financial property that the terms of the Financial Collateral Arrangement provides for realisation in this manner and specifies the basis on which such collateral is to be valued for this purpose; or ",
+        "level": 3
+    },
+    "91": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(c) in the case of Money by setting off the amount against, or applying it in discharge of, the secured obligations, ",
+        "level": 3
+    },
+    "92": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "and Part 7 of the Law shall not apply to the secured party in relation to the Financial Collateral. ",
+        "level": 3
+    },
+    "93": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "7.1.2 Financial Collateral may be realised under Regulation 7.1.1: ",
+        "level": 3
+    },
+    "94": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) subject to any contrary provision of the terms in a Financial Collateral Arrangement, without any requirement that: ",
+        "level": 3
+    },
+    "95": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(i) prior notice of the intention to enforce or realise the Financial Collateral being given;   \n(ii) the terms of the enforcement or realisation be approved by the Court or any other person; or   \n(iii) any realisation of the financial property be conducted by public auction or in any other prescribed manner; and ",
+        "level": 3
+    },
+    "96": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(b) notwithstanding the commencement or continuation of an Insolvency Proceeding in respect of the collateral provider, the debtor or the secured party. ",
+        "level": 3
+    },
+    "97": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "7.2 Set-off ",
+        "level": 2
+    },
+    "98": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "7.2.1 The terms of a Financial Collateral Arrangement may provide that, if a default occurs before the secured obligations have been fully discharged, either or both of the following shall occur (or may at the election of the secured party occur), whether through the operation of netting, set-off or otherwise: ",
+        "level": 3
+    },
+    "99": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) the respective obligations of the parties are accelerated so as to be immediately due and expressed as an obligation to pay an amount representing their estimated current value or are terminated and replaced by an obligation to pay such an amount; or   \n(b) an account is taken of what is due from each party to the other in respect of such obligations, and a net sum equal to the balance of the account is payable by the party from whom the larger amount is due to the other party. ",
+        "level": 3
+    },
+    "100": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "FINANCIAL COLLATERAL REGULATIONS ",
+        "level": 2
+    },
+    "101": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "5 ",
+        "level": 5
+    }
+}

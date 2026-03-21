@@ -1,0 +1,1417 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            395,
+            334,
+            612,
+            383
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 3 ",
+        "text_level": 1,
+        "bbox": [
+            207,
+            534,
+            803,
+            567
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "August 2023 ",
+        "bbox": [
+            419,
+            583,
+            595,
+            606
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC Law Amendment Law No. 1 of 2023 ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            660,
+            897,
+            695
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 3 ",
+        "text_level": 1,
+        "bbox": [
+            343,
+            66,
+            670,
+            85
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "text_level": 1,
+        "bbox": [
+            234,
+            91,
+            776,
+            111
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Why are we issuing this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            127,
+            358,
+            144
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. This Consultation Paper seeks public comment on the DIFC Authority’s (“DIFCA”) proposal to amend the: ",
+        "bbox": [
+            94,
+            157,
+            914,
+            198
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a. Employment Law, DIFC Law No. 2 of 2019 (the “Employment Law”);   \nb. Operating Law, DIFC Law No. 7 of 2018 (the “Operating Law”) and DIFC Operating Regulations (the “Operating Regulations”);   \nc. Trust Law, DIFC Law 4 of 2018 (the “Trust Law”); and   \nd. Foundations Law, DIFC Law No. 3 of 2018 (the “Foundations Law”), ",
+        "bbox": [
+            151,
+            204,
+            905,
+            356
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "through the DIFC Laws Amendment Law, DIFC Law No. 1 of 2023 (the “DIFC Amendment Law”) and Operating Regulations (together the “Proposed Legislation”). ",
+        "bbox": [
+            153,
+            371,
+            917,
+            414
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. This Consultation Paper is divided into separate parts: (i) Part A deals with the proposed amendments to the Employment Law; (ii) Part B deals with the proposed amendments to the Operating Law and Operating Regulations; (iii) Part C deals with the proposed Amendments to the Trust Law; and (iv) Part D deals with the proposed Amendments to the Foundations Law. ",
+        "bbox": [
+            92,
+            432,
+            920,
+            540
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Who should read this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            562,
+            336,
+            580
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. This Consultation Paper would be of interest to persons conducting or proposing to conduct business in the DIFC. In particular: ",
+        "bbox": [
+            92,
+            595,
+            920,
+            635
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a. Legal advisors advising on matters relating to the Employment Law, entities operating in the DIFC and matters relating to DIFC Trusts and Foundations;   \nb. HR and accounting professionals and senior managers of DIFC entities;   \nc. UAE and GCC national employees of DIFC entities;   \nd. DIFC entities, and in particular, in respect of proposed amendments to the Operating Regulations, F&B outlets;   \ne. Trusts and corporate service providers; and   \nf. persons conducting commercial or wealth management activities in or from the DIFC. ",
+        "bbox": [
+            151,
+            654,
+            910,
+            902
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            42,
+            919,
+            59
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            890,
+            934,
+            904,
+            946
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How to provide comments ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            71,
+            314,
+            86
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. All comments should be provided to the person specified below: ",
+        "bbox": [
+            92,
+            102,
+            688,
+            119
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates   \nor e-mailed to: consultation@difc.ae ",
+        "bbox": [
+            153,
+            138,
+            484,
+            269
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. You may choose to identify the organisation you represent in your comments. ",
+        "bbox": [
+            90,
+            288,
+            801,
+            306
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "bbox": [
+            92,
+            324,
+            920,
+            365
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "What happens next? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            388,
+            269,
+            406
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. The deadline for providing comments on the proposals in this Consultation Paper is 29 September 2023.   \n8. Once we receive your comments, we will consider if any further refinements are required to the proposed amendments. Once DIFCA considers the changes to be in a suitable form, the Proposed Legislation will be enacted, to come in to force on a date specified and published.   \n9. The Proposed Legislation is in draft form only. You should not act on it until it is formally enacted. We will issue a notice on our website when this happens. ",
+        "bbox": [
+            84,
+            419,
+            924,
+            602
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            623,
+            215,
+            640
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase and are defined in the DIFC Amendment Law. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "bbox": [
+            94,
+            655,
+            922,
+            741
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            890,
+            934,
+            904,
+            945
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PART A – PROPOSED AMENDMENTS TO THE EMPLOYMENT LAW ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            66,
+            691,
+            84
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            108,
+            200,
+            124
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11. DIFCA proposes amendments to Part 10 of the Employment Law, relating to possible Core Benefits contributions into Qualifying Schemes for UAE or GCC national Employees registered with the General Pension and Social Security Authority (“GPSSA”). ",
+        "bbox": [
+            95,
+            146,
+            920,
+            209
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "12. In addition, DIFCA will make amendments to Part 10 of the Employment Law to deal with situations where a Qualifying Scheme is prohibited from accepting contributions into a scheme from an Employer, or on behalf of an Employee, as a result of being subject to sanctions. This is explained in further detail from paragraph 19 below. However, DIFCA is not seeking public comments on this amendment. ",
+        "bbox": [
+            94,
+            226,
+            920,
+            336
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key Changes proposed – Core Benefits contributions for UAE and GCC national Employees ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            357,
+            888,
+            376
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "13. Pursuant to Article 65 of the Employment Law an Employer must register a UAE or GCC national with the GPSSA and make the necessary pension contributions for such individuals in accordance with UAE Federal Law (or according to the social security law of the GCC nationals’ home countries). Such employees are currently deemed Exempt Employees for the purposes of Article 66(7) and no Core Benefits contributions are currently payable into a Qualifying Scheme on behalf of such Employees. ",
+        "bbox": [
+            94,
+            396,
+            922,
+            528
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14. DIFCA is aware that, for example, under UAE Federal Law No. 7 of 1999 on Pension and Social Security (the “GPSSA Law”), the pension contribution for UAE national, private sector employees is calculated against a maximum salary cap of AED50,000, whereby any monthly salary in excess of AED50,000 is not taken into account for the purposes of calculating and making a pension contribution on behalf of Employees that are UAE nationals. Similar caps are applicable in respect of Employees that are nationals of other GCC countries (e.g. Bahrain and Kuwait) which have lower maximum salary caps for purposes of pension contributions. ",
+        "bbox": [
+            95,
+            546,
+            920,
+            701
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15. The existence of these contribution caps gives rise to the potential for a discrepancy to arise whereby Employees that are UAE or GCC nationals who receive a monthly salary in excess of the relevant cap may receive a lower contribution under the GPSSA Law than they would if they were not Exempted Employees and Core Benefits were paid on their behalf into a Qualifying Scheme. ",
+        "bbox": [
+            94,
+            718,
+            920,
+            827
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            457,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            890,
+            935,
+            902,
+            945
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "text_level": 1,
+        "bbox": [
+            459,
+            42,
+            917,
+            60
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "16. Accordingly, DIFCA has included a new Article 65(3) so that where an Employee is registered with the GPSSA and that Employee’s pension contribution is less than a Core Benefits amount that would have been payable on a monthly basis into a Qualifying Scheme had they not been a UAE or GCC national, the Employer shall make an adjusted Core Benefits contribution to a Qualifying Scheme on behalf of such Employee pursuant to Article 66(7)(c) on a monthly basis. The definition of Exempted Employee has been amended to take account of such Employees, as follows: ",
+        "bbox": [
+            95,
+            66,
+            922,
+            219
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“an Employee who is: ",
+        "bbox": [
+            153,
+            238,
+            333,
+            255
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) required to be registered with the GPSSA under Article 65(1) and that does not otherwise qualify for Core Benefits contributions to a Qualifying Scheme under Article 65(3)…” ",
+        "bbox": [
+            146,
+            261,
+            919,
+            293
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "17. To the extent that a difference does occur for any such UAE or GCC national, pursuant to a new Article 66(7)(c), Employers must pay the adjusted Core Benefits contribution into a Qualifying Scheme from the Qualifying Scheme Commencement Date, provided that a de minimis threshold of AED1000 is met, i.e. if the top-up contribution is less this amount there is no requirement to pay a Core Benefits contribution into a Qualifying scheme. ",
+        "bbox": [
+            94,
+            305,
+            920,
+            413
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "18. The definition of Qualifying Scheme Commencement Date is also proposed to be amended so that, for UAE and GCC nationals that qualify for the additional Core Benefits contribution, this obligation will commence from the first day of the month following the date of enactment of the DIFC Amendment Law. ",
+        "bbox": [
+            94,
+            431,
+            920,
+            517
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q1. Do you agree that where there is a discrepancy between a UAE/GCC national Employee’s pension contribution under the GPSSA and what they would have received had they not been a UAE/GCC national Employee, by way of Core Benefits contributions into a Qualifying Scheme, that the difference should be paid into a Qualifying Scheme? Please provide a detailed explanation for your response. ",
+        "bbox": [
+            92,
+            539,
+            920,
+            648
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q2. Do you agree with the de minims threshold of AED1000? If not, please provide an explanation. ",
+        "bbox": [
+            90,
+            666,
+            919,
+            706
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q3. Do you agree that such obligation to pay an adjusted Core Benefits contribution in the circumstances described above, should begin following enactment of the proposed law (i.e. from the first day of the month following the enactment date of the amended Employment Law)? Please provide a detailed explanation for your response. ",
+        "bbox": [
+            94,
+            725,
+            920,
+            812
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q4. Do you have any other comments or suggestions in relation to the proposed amendments? ",
+        "bbox": [
+            92,
+            830,
+            912,
+            870
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            946
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Prohibitions on Qualifying Schemes from accepting contributions ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            109,
+            632,
+            127
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "19. As noted at paragraph 12 above, Part 10 of the Employment Law has been updated at Article 66(18) and (19) to deal with situations where a Qualifying Scheme is prohibited from accepting contributions into a scheme in respect of an Employee as a result of an Employer or an Employee being a “Sanctioned Person” (defined as “an individual, entity, body or organisation listed on a sanctions list issued and passed by the United Nations Security Council, any consolidated list of financial sanctions issued by the Federal Cabinet of the United Arab Emirates or any other sanctions list that may apply to a Qualifying Scheme or its trustee or administrator”). ",
+        "bbox": [
+            97,
+            140,
+            922,
+            315
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "20. In such circumstances, the newly added sub-articles (18) and (19) of Article 66 will require an Employer to accrue the Core Benefits contribution on behalf of such Employee in the form of a Gratuity Payment. In such cases, the provisions of Article 66(1)-(5) are deemed to be applicable to an affected Employer until such time as the aggregated contributions can be made to a Qualifying Scheme or directly to the Employee, i.e. as a result of the Sanctioned Person restriction terminating or the affected Employee/s employment terminating. Also, the newly proposed Article 66(19) states that an Employer will not be liable for any profit or loss that may have accrued in a Qualifying Scheme in respect of Core Benefits that could not be contributed to a Qualifying Scheme in these circumstances. ",
+        "bbox": [
+            99,
+            334,
+            920,
+            534
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            890,
+            935,
+            902,
+            945
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PART B – PROPOSED AMENDMENTS TO THE OPERATING LAW AND OPERATINGREGUALTIONS",
+        "text_level": 1,
+        "bbox": [
+            92,
+            65,
+            920,
+            108
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            129,
+            198,
+            147
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "21. DIFCA proposes to make changes to the Operating Law to take account of OECD requirements with regards to record keeping and the definition of Privileged Communication. ",
+        "bbox": [
+            92,
+            168,
+            917,
+            210
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "22. In addition, amendments are proposed in relation to the Operating Regulations to place restrictions on Licensees that operate during non-standard business hours to prevent such licensees creating noise disruption or other forms of nuisance to other businesses or residents within the DIFC. A corresponding increase in fines under Article 34(1) of the Operating law is also proposed. ",
+        "bbox": [
+            92,
+            226,
+            922,
+            336
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Operating Law amendments ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            358,
+            335,
+            376
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "23. In order to align with OECD Exchange of information requirements, it is proposed that the following amendments are made: ",
+        "bbox": [
+            92,
+            396,
+            920,
+            438
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a. the addition of a new Article 32(12), to require the persons comprising the governing body of a Registered Person to retain the books and records of the entity for a period of six (6) years following removal of the Registered person from the Register and to make this information available to the Registrar, if so notified by him to do so. This extends a similar requirement at Article 150(2) of the Companies Law, which requires Directors of Companies to retain records of a Company post strike-off, across the different types of entity and organisation registered in the DIFC.   \nb. a revision to the definition of Privileged Communication to restrict this type of privilege to communications arising in respect of professional legal advice.   \nQ5. Do you have any concerns regarding the retention requirements included as Article 32(1) of the Operating Law? If so, what are they, and how should they be addressed?   \nQ6. Do you agree with the revision of the Privileged Communication definition? If not, what types of communication do you consider should be deemed privileged under this definition? ",
+        "bbox": [
+            148,
+            457,
+            917,
+            669
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Operating Regulations – Qualified Retail Entity ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            70,
+            484,
+            87
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "24. Proposed amendments affecting certain types of DIFC Licencee that operate during late night hours (primarily fine dining restaurants and bars) have been incorporated into the Operating Regulations. The purpose of the amendments is to ensure that Licencees carrying out these types of activity (defined as “Qualified Retail Activities”) do not cause noise disruption or nuisance to other businesses or residents in the DIFC, and to the extent that they do the Registrar has the necessary powers to deal with such violations (through fines and/or restriction on such Licencee’s Licence). ",
+        "bbox": [
+            94,
+            100,
+            920,
+            254
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "25. In particular, a new Article 2.6 requires businesses carrying out Qualified Retail Activities to comply with operating time restrictions to finish serving customers no later than 3.00am and to close their premises by no later than 4.00am each day. Additionally, Article 2.6 allows the Registrar to impose any other restrictions or conditions on the Licencee. Failure by a Licencee to comply with the timing restrictions or any conditions/restrictions placed on their licence may attract a fine under Article 34(1) of the Operating Law which deals with general contraventions of DIFC Laws or lack of adherence with a direction of the Registrar. ",
+        "bbox": [
+            92,
+            273,
+            920,
+            427
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "26. It is proposed that the maximum fine under Article 34(1) of the Operating Law is increased from $\\cup \\ S \\$ 25,000$ to $\\cup \\ S \\$ 100,000$ to ensure that any fine issued up to this amount by the Registrar acts as a sufficient deterrent from the breach causing it. Ultimately, the Registrar retains the right to strike-off non-compliant entities pursuant to powers under Article 32 of the Operating Law. ",
+        "bbox": [
+            92,
+            445,
+            920,
+            554
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Q7. Do you have any concerns regarding the additional requirements imposed on Licensees carrying out Qualified Retail Activities? If so, what are they, and how should they be addressed?   \nQ8. Are there any other types of activity that you think should be included in the definition of Qualified Retail Activity? If so, please provide an explanation.   \nQ9. Do you have any concerns with the proposed maximum level of fine being increased from $\\yen 523,456$ to $\\yen 100,000$ pursuant to Article 34(1) of the Operating Law. If so, please provide an explanation. ",
+        "bbox": [
+            90,
+            574,
+            924,
+            781
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PART C – PROPOSED AMENDMENTS TO THE TRUST LAW ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            66,
+            622,
+            84
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            108,
+            200,
+            124
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "27. DIFCA proposes to enhance the Trust Law to bring certain provisions in line with international standards and developments and to provide greater clarity to the law. ",
+        "bbox": [
+            94,
+            146,
+            920,
+            186
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "28. The key changes affect the follow parts of the Trust Law: ",
+        "bbox": [
+            89,
+            205,
+            624,
+            224
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "a. Part 2 (Choice of governing law; place of administration);   \nb. Part 4 (Creation, validity and modification of a DIFC trust);   \nc. Part 5 (The beneficiaries of a trust);   \nd. Part 6 (Protective trusts and creditors’ claims);   \ne. Part 8 (Duties and powers of trustees); and f. Part 10 (Reserved and restricted powers and interests). ",
+        "bbox": [
+            153,
+            241,
+            685,
+            444
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Part 2 (Choice of Governing law; Place of Administration) ",
+        "bbox": [
+            92,
+            466,
+            572,
+            484
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "29. In order to provide for greater ease of administration of a DIFC Trust, particularly where trust property may be held in different jurisdictions with specific rules for how such property must be dealt with (e.g. in relation to real estate), amendments are proposed to Article 12 (Provision for change of governing law) of the Trust Law to allow for a DIFC Trust to have severable terms that are governed by a law other than that governing the remainder of the trust. ",
+        "bbox": [
+            94,
+            504,
+            922,
+            614
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "30. Similarly, it is proposed that Articles 41(11) - (12) under Part 4 (Creation, validity and modification of a DIFC trust) of the Trust Law are expanded and clarified to give effect to terms of a trust dealing with nationality requirements arising by reason of law. ",
+        "bbox": [
+            94,
+            633,
+            920,
+            695
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "31. Proposed amendments are also made to Article 14 (Limitations in foreign law), which expand on the current provisions dealing with antecedent transactions by a settlor transferring property to a trust. The amendments place a burden on the creditor to prove that the settlor: a) intended to defraud the creditor at the time the property was transferred to the trust; and b) that at the time the property was transferred the transfer rendered the settlor insolvent or without property from which the creditor could claim against. It is further provided that any such transfer is not void or voidable against the trust but that the trust is liable to settle the creditor’s claim to the extent of the interest previously held by the settlor. ",
+        "bbox": [
+            94,
+            713,
+            920,
+            890
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "text_level": 1,
+        "bbox": [
+            459,
+            42,
+            917,
+            60
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "32. Proposed amendments to Article 16 (Foreign judgments) have been included to expand on the lack of jurisdiction of foreign courts in relation to a DIFC trustee’s administrative powers in relation to a DIFC trust and its property. A new Article 17 (Assertion of jurisdiction over trustee and protector) is proposed to provide that a trustee or protector must immediately cease to act as a trustee or protector where a foreign judgment has been made against them which requires action in relation to the trust. Further provision is made for the appointment of a replacement trustee or protector (as applicable). ",
+        "bbox": [
+            94,
+            66,
+            920,
+            220
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Q10. Do you have any concerns regarding the proposed enhancements to the provision relating to governing law under Article 12, and Article 41(11)-(12)? If so, what are they, and how should they be addressed?   \nQ11. Do you agree with the expansion of Article 14 dealing with antecedent transactions by a settlor and the trust’s liability in this regard? If not, please provide an explanation.   \nQ12. Do you agree with the proposed expansion of Article 16-17 and the restrictions placed on the jurisdiction of foreign courts? If not, please provide an explanation. ",
+        "bbox": [
+            90,
+            242,
+            924,
+            423
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Part 4 (Creation, Validity and Modification of a DIFC Trust); Part 5 (The Beneficiaries of a Trust) ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            447,
+            915,
+            466
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "33. A clarificatory change is proposed to Article 33 (Creation of a trust) to provide that a trust may be created by an instrument in writing. Article 34(2) has been deleted to avoid any uncertainty that a trust can come into existence by operation of law (e.g. a constructive or resulting trust), without the need for an “instrument in writing” to have been issued. ",
+        "bbox": [
+            94,
+            486,
+            920,
+            573
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "34. Article 48 (termination of interest of beneficiary upon trust being challenged), has been amended so that, if the trust terms so provide, a beneficiary’s interest in a trust may only be terminated if the beneficiary challenges the trust or otherwise acts in a way that is detrimental to the settlor or administration of the trust. It is intended that the narrowing of this provision prevents a situation arising where, for instance, a trustee acting in its own interest seeks to challenge the trust and thereby unfairly penalise a beneficiary. ",
+        "bbox": [
+            94,
+            591,
+            920,
+            724
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Q13. Do you agree with the proposed change to Article 34, that a trust does not need to be in writing in order for it to come into existence? If not, please provide an explanation.   \nQ14. Do you have any concerns with the proposed changes to Article 49 relating to the termination of a trust as a result of a beneficiary’s actions? If so, please provide an explanation. ",
+        "bbox": [
+            99,
+            744,
+            922,
+            868
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            888,
+            934,
+            907,
+            945
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Other amendments (Part 6, Part 8 and Part 10 of the Trust Law) ",
+        "bbox": [
+            90,
+            890,
+            627,
+            908
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "35. Additional provisions have been included in the proposed amendments to the Trust Law to: ",
+        "bbox": [
+            92,
+            66,
+            909,
+            85
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "a. clarify the rights of protective trusts and discretionary trusts (see Articles 49-50).   \nb. provide further clarity in respect of the Courts powers in relation to the division or amalgamation of trusts (see Article 72);   \nc. expand the powers that a settlor may reserve to itself or a protector of a trust (see Article 85(2)(f)) and clarifying the trustee’s obligations with regards to directions by a protector that affect the trust (see Article 85(4)-(5));   \nd. deal with circumstances in which other interested persons must accept or reject directions in relation to a trust (see new Article 86 (Duress)); and   \ne. to make necessary consequential changes to Schedule 1, Defined Terms, including adding a definition of “Relevant Percentage” to align the ownership and control threshold for “ultimate beneficial ownership” with the DIFC Ultimate Beneficial Ownership Regulations (i.e. $2 5 \\%$ ). ",
+        "bbox": [
+            151,
+            99,
+            905,
+            427
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Q15. Do you have any other concerns relating to any one or more proposed changes referred to in paragraph 35? If so, what are they and how should they be addressed? ",
+        "bbox": [
+            90,
+            447,
+            917,
+            489
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "11 ",
+        "bbox": [
+            888,
+            935,
+            905,
+            945
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "PART D – PROPOSED AMENDMENTS TO THE FOUNDATIONS LAW ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            66,
+            696,
+            84
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            108,
+            200,
+            124
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "36. DIFCA proposes to enhance the Foundations Law to bring certain provisions in line with international standards and developments (these changes reflect a number of the changes made to the Trust Law, as dealt with above at Part C of this Consultation Paper), and to expand the role of Registered Agent to carry out certain compliance and administrative functions in relation to a Foundation on behalf of the Registrar. ",
+        "bbox": [
+            94,
+            146,
+            922,
+            255
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "37. The key changes affect the follow parts of the Foundations Law: ",
+        "bbox": [
+            89,
+            273,
+            685,
+            290
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "a. Part 2 (Nature of a DIFC Foundation);   \nb. Part 3 (Establishment of a DIFC Foundation Creation); c. Part 6 (Registrar); and   \nd. Miscellaneous amendments. ",
+        "bbox": [
+            153,
+            309,
+            656,
+            438
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Part 2 (Nature of a DIFC Foundation) and Part 3 (Establishment of a DIFC Foundation Creation) ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            460,
+            917,
+            478
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "38. Consistent with changes made to the Trust Law (see paragraph 27 of Part C of this Consultation Paper above), Article 14 (Limitations in Foreign Law) of the Foundations Law has been amended to expand on the current provision dealing with antecedent transactions by a Founder or Contributor settling property on a Foundation. ",
+        "bbox": [
+            94,
+            498,
+            920,
+            586
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "39. The proposed amendments place a burden on the creditor to prove beyond reasonable doubt that the Founder or Contributor: a) intended to defraud the creditor at the time the property was transferred to the Foundation; and b) that at the time the property was transferred the transfer rendered the Founder or Contributor insolvent or without property from which the creditor could claim against. It is further provided that any such transfer is not void or voidable against the Foundation but that the Foundation is liable to settle the creditor’s claim to the extent of the interest previously held by the settlor. ",
+        "bbox": [
+            94,
+            604,
+            920,
+            757
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "40. Additionally, proposed amendments at Article 16 (Foreign judgments) and a new Article 16A (Assertion of jurisdiction over a Council Member or Guardian) are proposed to the Foundations Law to: ",
+        "bbox": [
+            94,
+            775,
+            919,
+            838
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "a. provide clarity on when a foreign judgment will be recognised in relation to a DIFC Foundation, its property and persons appointed to govern it; and ",
+        "bbox": [
+            154,
+            857,
+            883,
+            899
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "12 ",
+        "bbox": [
+            888,
+            934,
+            907,
+            945
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "b. require a Council member, Guardian or other person with authority over the Foundation to cease acting in relation to the Foundation where a foreign judgment has been made against them which affects the Foundation. ",
+        "bbox": [
+            153,
+            66,
+            887,
+            129
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "41. Articles 19(10)-(11) have been expanded and clarified to give effect to terms of a Foundation’s charter that deal with property rights and any related nationality requirements arising by reason of law. ",
+        "bbox": [
+            92,
+            148,
+            919,
+            212
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "42. A new Article 27A (Duress) is proposed dealing with circumstances in which a person must accept or reject directions in relation to the Foundation. ",
+        "bbox": [
+            92,
+            230,
+            917,
+            271
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Q16. Do you agree with the expansion of Article 14 dealing with antecedent transactions by a settlor and the trust’s liability in this regard? If not, please provide an explanation.   \nQ17. Do you agree with the proposed expansion of Article 16-17 and the restrictions placed on the jurisdiction of foreign courts? If not, please provide an explanation.   \nQ18. Do you have any other concerns relating to any one or more proposed changes referred to in paragraph 41 or 42? If so, what are they and how should they be addressed? ",
+        "bbox": [
+            90,
+            292,
+            924,
+            473
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Part 6 (Registrar) ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            500,
+            244,
+            517
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "43. It is proposed that the Foundations regime is expanded to allow Registered Agents to play an enhanced role on behalf of Foundations (see Article 34 of the Foundations Law). In particular, by enabling Registered Agents to enter into an arrangement with the Registrar of Companies to: ",
+        "bbox": [
+            92,
+            538,
+            922,
+            623
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "a. file documents or pay fees on behalf of Foundations;   \nb. perform assessments or checks under Relevant Laws to ensure that relevant Foundation adheres to AML, UBO and other requirements under DIFC laws and provide certifications in this regard to the Registrar; and   \nc. file reports, disclosures or confirmations on behalf of the relevant Foundation with th Registrar. ",
+        "bbox": [
+            153,
+            642,
+            888,
+            802
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "44. This reflects similar arrangements available to Corporate Service Providers under the Prescribed Company and Family Office regimes. ",
+        "bbox": [
+            94,
+            820,
+            919,
+            862
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Q19. Do you agree with the expansion of the role of the Registered Agent with regard to Foundations? If not, please provide an explanation. ",
+        "bbox": [
+            92,
+            883,
+            919,
+            925
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "13 ",
+        "bbox": [
+            888,
+            935,
+            907,
+            945
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            917,
+            60
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Miscellaneous amendments ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            71,
+            331,
+            86
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "45. Additional provisions have been included in the proposed amendments to the Foundations Law to: ",
+        "bbox": [
+            94,
+            109,
+            920,
+            149
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "a. update the refences with regards to accounting requirements to correctly reflect the relevant DIFC Companies Law provisions with regard to maintaining accounts, financial years and requirements related to auditing accounts;   \nb. provide further clarity in respect of the Courts powers in relation to the division or amalgamation of a Foundation (see Article 50 of the Foundations Law);   \nc. provide a time limitation in which actions or proceedings may be brought in relation to a Foundation (see Article 54 of the Foundations Law);   \nd. update the definition of Registered Agent to align this with the definition of Corporate Service Provider in other legislation such as the Prescribed Company Regulations and Family Arrangements Regulations;   \ne. clarify that it is not necessary for a Recognised Foreign Foundation to appoint an Approved Person (see Article 63(5) of the Foundations Law), on the basis that a Recognised Foreign Foundation is required to appoint a Registered Agent; and   \nf. increase the fee for the issue or renewal of a licence for a Foundation from $\\mathsf { U S S 2 0 0 }$ to US\\$350. ",
+        "bbox": [
+            146,
+            167,
+            912,
+            573
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Q20. Do you have any other concerns relating to any one or more proposed changes referred to in paragraph 45? If so, what are they and how should they be addressed? ",
+        "bbox": [
+            94,
+            595,
+            920,
+            636
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Legislative proposal ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            660,
+            265,
+            676
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "46. This legislative proposal contains the following: ",
+        "bbox": [
+            92,
+            692,
+            548,
+            710
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) the DIFC Laws Amendment Law (at Annex A);   \n(b) proposed Operating Regulations (at Annex B); and   \n(c) a table of comments to provide your views and comments on the Consultation Paper (at Annex C). ",
+        "bbox": [
+            153,
+            728,
+            922,
+            820
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED AMENDMENTS TO DIFC LEGISLATION ",
+        "bbox": [
+            459,
+            43,
+            919,
+            59
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "14 ",
+        "bbox": [
+            888,
+            934,
+            907,
+            945
+        ],
+        "page_idx": 13
+    }
+]

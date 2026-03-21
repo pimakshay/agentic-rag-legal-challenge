@@ -1,0 +1,701 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            370,
+            169,
+            627,
+            434
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 2 July 2014 ",
+        "bbox": [
+            339,
+            540,
+            656,
+            597
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED DIFC NETTING LAW DIFC LAW NO. 2 of 2014 ",
+        "bbox": [
+            328,
+            640,
+            666,
+            700
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 2 ",
+        "text_level": 1,
+        "bbox": [
+            341,
+            107,
+            656,
+            127
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Proposed Netting Law ",
+        "text_level": 1,
+        "bbox": [
+            385,
+            142,
+            612,
+            162
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Why are we issuing this paper? ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            178,
+            413,
+            195
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. This Consultation Paper seeks public comment on the DIFC Authority’s (“DIFCA”) proposal to introduce a new Netting Law in the DIFC through the Netting Law, DIFC Law No. 2 of 2014 (“Netting Law”). ",
+        "bbox": [
+            147,
+            209,
+            854,
+            258
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Who should read this paper? ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            273,
+            393,
+            290
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. This Consultation Paper would be of interest to: ",
+        "bbox": [
+            142,
+            305,
+            583,
+            321
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) banks and financial institutions;   \n(b) investment companies and fund managers;   \n(c) legal advisors;   \n(d) entities operating in the DIFC that are involved in hedging and other financial market sales and trading transactions;   \n(e) creditors of DIFC counterparties; and   \n(f) any other relevant stakeholders. ",
+        "bbox": [
+            202,
+            338,
+            854,
+            450
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How to provide comments ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            465,
+            370,
+            482
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. All comments should be provided to the person specified below: ",
+        "bbox": [
+            145,
+            497,
+            712,
+            513
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Roberta Calarese   \nChief Legal Officer   \nLegal Affairs   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, UAE   \nor e-mailed to: roberta.calarese@difc.ae ",
+        "bbox": [
+            225,
+            529,
+            570,
+            656
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. You may choose to identify the organisation you represent in your comments. ",
+        "bbox": [
+            142,
+            681,
+            820,
+            698
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "bbox": [
+            143,
+            713,
+            852,
+            761
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "What happens next? ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            777,
+            321,
+            794
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6. DIFCA is releasing this Consultation Paper No. 2 of 2014 for public consultation.   \n7. The deadline for providing comments on the Legislative Proposal is 5 September 2014.   \n8. Once we receive your comments, we will consider if any further refinements are required to the Netting Law and proceed to adopt the changes to the Netting Law. ",
+        "bbox": [
+            132,
+            808,
+            857,
+            938
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DIFC Netting Law ",
+        "bbox": [
+            410,
+            61,
+            588,
+            79
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9. Given that the Netting Law is still a proposal, you should not act on it until the Netting Law is enacted. We will issue a notice on our website advising you when this happens. ",
+        "bbox": [
+            143,
+            125,
+            854,
+            172
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Defined Terms ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            188,
+            271,
+            204
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase. Any references in this paper to terms that are defined in the Netting Law, has the meaning given to it in the Netting Law. Unless the context otherwise requires, where capitalisation of the initial letter is not used or the term is not defined in the Netting Law, the expression has its natural meaning. ",
+        "bbox": [
+            145,
+            220,
+            854,
+            316
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Legislative Proposal ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            332,
+            321,
+            348
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11. It is proposed to introduce a new Netting Law in the DIFC that is based on the International Swaps and Derivatives Association (ISDA) model law. The ISDA model law provides example text for a netting law, and has been the model used in a number of countries that have introduced netting. The ISDA model law sets out core principles and includes provisions relating to gaming laws, financial collateral and multi-branch netting. ",
+        "bbox": [
+            145,
+            356,
+            854,
+            452
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "12. The Legislative Proposal is attached at Annexure A. ",
+        "bbox": [
+            147,
+            468,
+            616,
+            483
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Rationale ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            500,
+            228,
+            515
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "13. The main aim of netting legislation is to create legal certainty as to the enforceability of close-out netting. Close-out netting and set-off (“close-out netting”) are legal mechanisms, which reduce exposures and therefore risks between two counterparties. Upon the default of one of the two counterparties, the balance of the transactions between them are terminated early, valued and any outstanding amounts netted off. What finally remains for actual payment can be a small fraction of the gross positions and claims between those two parties. ",
+        "bbox": [
+            145,
+            523,
+            854,
+            635
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "14. Close-out netting may be available in normal and/or in insolvency situations. It may be contractually agreed and permitted by law, or imposed directly by law. Close-out netting must be effective under the relevant insolvency law. If a firm is certain that it can rapidly close-out transactions with its counterparties in case of their insolvency (i.e. the applicable insolvency law will not prevent close-out), its counterparty credit risk is substantially reduced to the resulting net position. This is translated into: ",
+        "bbox": [
+            145,
+            651,
+            854,
+            762
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a. substantially reduced capital charges; and   \nb. a reduction in the collateral required to be provided because of the reduction in exposure to the net amount. ",
+        "bbox": [
+            200,
+            777,
+            854,
+            843
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "15. Financial institutions and other \"corporate entities\" widely rely on contractually agreed netting arrangements to achieve this result as it is an effective risk mitigating technique. ",
+        "bbox": [
+            147,
+            858,
+            854,
+            906
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "16. More recently, the Financial Stability Board in its Key Attributes of Efficient ",
+        "bbox": [
+            143,
+            921,
+            854,
+            939
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            493,
+            957,
+            504,
+            968
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DIFC Netting Law ",
+        "bbox": [
+            410,
+            61,
+            588,
+            79
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Resolution Regimes for Financial Institutions highlighted the need for sound legislation to be in place to safeguard netting (and collateral) arrangements in a resolution scenario involving a systemically important financial institution (http://www.financialstabilityboard.org/publications/r_111104cc.pdf). ",
+        "bbox": [
+            204,
+            108,
+            852,
+            172
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "17. Approximately forty five jurisdictions worldwide have enacted specific netting legislation, while netting in a number of other jurisdictions applies as a general principle of law. ISDA in its industry netting opinions currently covers approximately sixty jurisdictions worldwide where the netting analysis is positive. So far, ISDA has not obtained a positive netting opinion from any jurisdiction in the GCC region. ",
+        "bbox": [
+            145,
+            188,
+            852,
+            284
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "18. Close-out netting is not currently statutorily underpinned in the UAE, as a result there is some uncertainty as to the enforceability of derivative transactions in an insolvency of a counterparty located in the UAE, including a counterparty located in the DIFC. The reason for introducing a netting legislation in the DIFC is to statutorily underpin close-out netting in the DIFC and enable DIFC firms to benefit from this important risk mitigating technique. ",
+        "bbox": [
+            145,
+            300,
+            854,
+            396
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Scope of Coverage ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            411,
+            310,
+            428
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "19. The Netting Law applies to qualified financial instruments, and netting agreements or collateral agreements relating to qualified financial instruments, entered into by a person to whom the Netting Law applies (Article 6 of the Netting Law). ",
+        "bbox": [
+            145,
+            444,
+            854,
+            507
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "20. The Netting Law defines “qualified financial instruments” to include financial agreements and transactions such as derivative transactions, repos and securities lending transactions. The specified list of instruments falling within the definition of “qualified financial instruments” under the Netting Law may be added to from time to time by the DFSA. ",
+        "bbox": [
+            143,
+            523,
+            852,
+            603
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "21. A particular feature of the Netting Law is that it seeks specifically to include both various Islamic hedging transactions such as profit rate swaps, and the close out netting mechanism contained in certain standard Islamic netting agreements available in the market. In view of DIFC and the UAE's important role in the context of Islamic finance, covering Islamic hedging transactions is considered appropriate. ",
+        "bbox": [
+            143,
+            619,
+            854,
+            715
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Issue for Consideration ",
+        "text_level": 1,
+        "bbox": [
+            205,
+            731,
+            406,
+            747
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Your views are sought on whether the Netting Law should also apply to natural persons and if so, why? ",
+        "bbox": [
+            204,
+            763,
+            852,
+            796
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Application of the Netting Law ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            810,
+            405,
+            828
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "22. As currently drafted, Article 6 of the Netting Law purports to: ",
+        "bbox": [
+            142,
+            843,
+            681,
+            859
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a. apply to all persons (other than natural persons) that are “incorporated or registered in the DIFC or organized under a DIFC law”, which will include: i. Companies Limited by Shares incorporated in the DIFC; ",
+        "bbox": [
+            202,
+            875,
+            854,
+            924
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DIFC Netting Law ",
+        "bbox": [
+            410,
+            61,
+            588,
+            79
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ii. Limited Liability Companies incorporated in the DIFC;   \niii. Limited Liability Partnerships incorporated in the DIFC;   \niv. Limited Partnerships registered in the DIFC;   \nv. General Partnerships registered in the DIFC;   \nvi. foreign recognised companies and partnerships that are a branch of entities established outside the DIFC; and   \nvii. Non-Profit Incorporated Organisations incorporated in the DIFC.   \nb. enable parties located outside the DIFC to choose DIFC as the governing law in relation to qualified financial instruments entered into between them, subject to certain exceptions such as insolvency, where the locally applicable insolvency law will apply, even where DIFC law has been chosen as the governing law;   \nc. apply irrespective of the date on which the netting agreement or arrangement was entered into, which means that the law will apply to transactions entered into prior to, but outstanding at the time of, the Netting Law coming into effect; and   \nd. provide that with the exception of Section 7 of the DIFC Insolvency Regulations of 2009 (“Insolvency Regulations”), the Netting Law will prevail where there is a conflict between the Netting Law and a provision of the DIFC Insolvency Law 2009 or the Insolvency Regulations. ",
+        "bbox": [
+            287,
+            108,
+            854,
+            220
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Multi-branch Netting ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            505,
+            321,
+            522
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "23. The ISDA model netting law includes multi-branch netting provisions, the purpose of which is, to reduce the net claim that may be made under a netting agreement between two parties from that provided by the netting agreement in circumstances where, in an insolvency of one of the parties outside the jurisdiction, the netting agreement is not effective with the result that one party is enabled to claim more than the net amount contemplated by the parties' netting agreement. The reduction in the amount of the claim provided for by such a multi-branch provision is intended to restore the overall position between the parties to that provided for by the netting agreement. ",
+        "bbox": [
+            143,
+            537,
+            854,
+            681
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "24. DIFC has not included the multi-branch netting provisions in the Netting Law for the two main reasons set out below: ",
+        "bbox": [
+            137,
+            696,
+            852,
+            729
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a. the interaction of insolvency laws across borders is complex and uncertain, and a multi-branch netting provision may not necessarily achieve the intended outcome; and   \nb. the application of multi-branch netting provisions in the context of Islamic netting agreements is not yet clear. ",
+        "bbox": [
+            202,
+            746,
+            854,
+            842
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Issue for Consideration ",
+        "text_level": 1,
+        "bbox": [
+            204,
+            857,
+            406,
+            872
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2. Your views are sought on whether the Netting Law should include multibranch netting provisions? If so, why and if not, why not? ",
+        "bbox": [
+            202,
+            888,
+            851,
+            921
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            491,
+            957,
+            504,
+            969
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DIFC Netting Law ",
+        "bbox": [
+            410,
+            60,
+            588,
+            80
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Enforceability and Validity of Derivative Contracts in the UAE ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            107,
+            669,
+            125
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "25. A provision is proposed to confirm the enforcement and validity of derivative contracts in DIFC, a financial product recognized in Article 9(3) of the Dubai Law 9/2004. This is to address the possibility of doubt or uncertainty by virtue of the prohibition on wagering or gambling under the UAE Penal Code, which applies in the DIFC. ",
+        "bbox": [
+            143,
+            140,
+            854,
+            219
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "26. In order to address this issue and provide legal certainty, the Netting Law in Article 7 affirms the validity of such transactions from a commercial and civil law perspective, by stating that $^ { 6 6 } { \\sf A }$ qualified financial instrument shall not be and shall be deemed never to have been void or unenforceable by reason of being, or having the characteristics of, a wager, lottery, gambling or gaming contract”. ",
+        "bbox": [
+            143,
+            236,
+            854,
+            316
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "27. Given that DIFC Law cannot override the UAE Penal Code, Article 7 is thought to be the most that can be done by the Netting Law in relation to validating derivative contracts. ",
+        "bbox": [
+            143,
+            332,
+            852,
+            380
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Issue for Consideration ",
+        "text_level": 1,
+        "bbox": [
+            205,
+            396,
+            406,
+            411
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. Your views are sought on whether Article 8 of the Netting Law should be removed or modified? If so, why? ",
+        "bbox": [
+            204,
+            428,
+            851,
+            460
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DIFC Netting Law ",
+        "bbox": [
+            410,
+            61,
+            588,
+            79
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            491,
+            957,
+            504,
+            969
+        ],
+        "page_idx": 5
+    }
+]

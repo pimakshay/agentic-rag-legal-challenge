@@ -64,7 +64,7 @@ The input is a dictionary where:
     - Consecutive numbered sections such as "1.", "2.", "3." should usually be the same level.
 
 # Output Format
-- Return only a valid Python dictionary in the format {HeadingID: HeadingLevel}.
+- Return only a valid Python dictionary in the format {{HeadingID: HeadingLevel}}.
 - Every heading level must be 1, 2, 3, 4 or 5.
 
 # Input
@@ -230,6 +230,81 @@ class Ingestion:
         Ingestion._write_json(structure_file, input_dict)
         return True
 
+    @staticmethod
+    def _structure_analysis_for_long_file(parse_file: str, structure_file: str) -> bool:
+        def filter_elements(data: list[dict[str, Any]]) -> list[dict[str, Any]]:
+            normalized = []
+            for element in data:
+                if element["type"] not in {"text", "table"}:
+                    continue
+                copied = element.copy()
+                if copied["type"] == "table":
+                    copied["text"] = copied.get("table_body", "")
+                    copied.pop("table_body", None)
+                normalized.append(copied)
+            return normalized
+
+        data = filter_elements(Ingestion._read_json(parse_file, []))
+        input_dict: Dict[int, Dict[str, Any]] = {}
+        for index, element in enumerate(data):
+            input_dict[index] = {
+                "type": element["type"],
+                "page_idx": element["page_idx"],
+                "text": element["text"],
+            }
+        batches_input_dict = []
+        appeared_page_idx = []
+        all_common_keys = []
+        for key, element in input_dict.items():
+            page_idx = element["page_idx"]
+            if page_idx % 20 == 0 and (page_idx not in appeared_page_idx):
+                batches_input_dict.append({})
+                if page_idx > 0:
+                    common_keys = []
+                    for key2, element2 in batches_input_dict[-2].items():
+                        page_idx2 = element2['page_idx']
+                        assert page_idx2 < page_idx
+                        if page_idx2 >= page_idx - 2:  # Overlapping page
+                            batches_input_dict[-1][key2] = element2.copy()
+                            common_keys.append(key2)
+                    all_common_keys.append(common_keys)
+
+
+            batches_input_dict[-1][key] = element.copy()
+            appeared_page_idx.append(page_idx)
+
+        pre_info = ''
+        for i, batch_input_dict in tqdm(enumerate(batches_input_dict)):
+            prompt_input = {key: value.copy() for key, value in batch_input_dict.items()}
+            for value in prompt_input.values():
+                text = value["text"]
+                if len(text) > 200:
+                    value["text"] = text[:200] + "..."
+
+            result = parse_heading_level(call_llm(prompt_template.format(input_dict=prompt_input) + pre_info))
+            if not result or set(result.keys()) != set(batch_input_dict.keys()):
+                return False
+
+            for key in batch_input_dict:
+                batch_input_dict[key]["level"] = result[key]
+            structure_file_i = structure_file[:-5] + str(i) + ".json"
+            Ingestion._write_json(structure_file_i, batch_input_dict)
+
+            if i != len(batches_input_dict) - 1:
+                pre_info = "{" + ", ".join([f"{key}: {result[key]}" for key in all_common_keys[i] ]) + ', '
+        result = {}
+        for i in range(len(batches_input_dict)):
+            structure_file_i = structure_file[:-5] + str(i) + ".json"
+            assert os.path.isfile(structure_file_i)
+            data = json.load(open(structure_file_i))
+            for key, element in data.items():
+                if key in result:
+                    continue
+                result[key] = element
+        Ingestion._write_json(structure_file, result)
+
+        return True
+
     def structure_analysis(self) -> bool:
         try:
             for file in tqdm(self.files, desc="Structure analysis"):
@@ -239,6 +314,8 @@ class Ingestion:
                 if not os.path.isfile(parse_file):
                     raise FileNotFoundError(parse_file)
                 success = self._structure_analysis(parse_file, structure_file)
+                if not success:
+                    success = self._structure_analysis_for_long_file(parse_file, structure_file)
                 logger.info("structure %s success=%s", file_name, success)
             return True
         except Exception:

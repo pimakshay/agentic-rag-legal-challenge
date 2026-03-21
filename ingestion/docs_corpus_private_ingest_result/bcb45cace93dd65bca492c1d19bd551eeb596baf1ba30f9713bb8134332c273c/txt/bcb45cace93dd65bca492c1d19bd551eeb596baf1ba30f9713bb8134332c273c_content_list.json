@@ -1,0 +1,1742 @@
+[
+    {
+        "type": "text",
+        "text": "ARB 004/2024 Naqid v Naqid DECEMBER 24, 2024 ARBITRATION - ORDERS ",
+        "text_level": 1,
+        "bbox": [
+            38,
+            171,
+            460,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IN THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURT ",
+        "text_level": 1,
+        "bbox": [
+            211,
+            291,
+            786,
+            310
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IN THE COURT OF FIRST INSTANCE ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            326,
+            388,
+            346
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BETWEEN ",
+        "bbox": [
+            40,
+            361,
+            144,
+            378
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NAQID ",
+        "bbox": [
+            465,
+            397,
+            534,
+            413
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claimant ",
+        "bbox": [
+            875,
+            430,
+            959,
+            447
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "bbox": [
+            480,
+            463,
+            519,
+            479
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NAJAM ",
+        "text_level": 1,
+        "bbox": [
+            462,
+            498,
+            537,
+            516
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Defendant ",
+        "text_level": 1,
+        "bbox": [
+            862,
+            531,
+            957,
+            548
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ORDER WITH REASONS OF JUSTICE RENE LE MIERE ",
+        "text_level": 1,
+        "bbox": [
+            242,
+            588,
+            759,
+            607
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UPON the Order of H.E. Justice Shamlan Al Sawalehi dated 3 May 2024 (the “Enforcement Order”) ",
+        "bbox": [
+            43,
+            651,
+            946,
+            671
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Freezing Order of H.E. Justice Shamlan Al Sawalehi dated 3 May 2024 (the “Freezing Order”) ",
+        "bbox": [
+            40,
+            687,
+            957,
+            730
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Claimant’s Application No. ARB-004-2024/3 fi led on 13 May 2024 for a writ of sequestration (the “First Sequestration Application”) ",
+        "bbox": [
+            42,
+            746,
+            961,
+            790
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Claimant’s Application No. ARB-004-2024/4 fi led on 13 May 2024 to refer the Defendant its offi cers to the Attorney General of Dubai (the “First Committal Application”) ",
+        "bbox": [
+            40,
+            806,
+            959,
+            850
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Defendant’s Application No. ARB-004-2024/5 fi led on 17 May 2024 seeking to set aside the Enforcement Order and an extension of time to submit evidence (the “Set Aside Application”) ",
+        "bbox": [
+            40,
+            866,
+            961,
+            910
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claim No: ARB 004/2024 ",
+        "bbox": [
+            726,
+            256,
+            959,
+            273
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Defendant’s Application No. ARB-004-2024/6 fi led on 23 May 2024 seeking to list a Case Management Conference to set a consolidated timetable and an extension of time to submit evidence in reply to the First Sequestration Application (the “Sequestration EOT Application”) ",
+        "bbox": [
+            42,
+            20,
+            959,
+            87
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Defendant’s Application No. ARB-004-2024/7 fi led on 23 May 2024 seeking to strike out the First Committal Application (the “Strike Out Application”) ",
+        "bbox": [
+            40,
+            103,
+            959,
+            147
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Defendant’s Application No. ARB-004-2024/8 fi led on 23 May 2024 seeking to discharge the Freezing Order and to seek an extension to submit evidence in support of the Discharge Application and a CMC (the “Discharge Application”) ",
+        "bbox": [
+            42,
+            164,
+            961,
+            231
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Defendant’s Application No. ARB-004-2024/9 fi led on 7 June 2024 for permission to submit an expert report in support the Set-Aside Application (the “Expert Evidence Application”) ",
+        "bbox": [
+            42,
+            247,
+            961,
+            291
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Claimant’s Application No. ARB-004-2024/10 fi led on 24 June 2024 for permission to issue a writ of sequestration against the assets of the Defendant (the “Second Sequestration Application”) ",
+        "bbox": [
+            40,
+            306,
+            959,
+            375
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Claimant’s Application No. ARB-004-2024/11 fi led on 24 June 2024 to refer the Defendant and its offi cers to the Attorney General of Dubai (the “Second Committal Application”) ",
+        "bbox": [
+            40,
+            391,
+            961,
+            435
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Claimant’s Application No. ARB-004-2024/12 fi led on 9 July 2024 seeking an antisuit injunction (the “Antisuit Injunction Application”) (the “Applications”) ",
+        "bbox": [
+            38,
+            450,
+            961,
+            494
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Order of Justice Rene Le Miere dated 9 August 2024 for the Applications to be heard and determined together at a single consolidated in-person hearing commencing on 7 October 2024 for 5 days (the “Hearing”) ",
+        "bbox": [
+            40,
+            510,
+            959,
+            579
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Claimant’s Application No. ARB-004-2024/14 fi led on 2 September 2024 seeking continuation of the Freezing Order (the “Continuation Application”) ",
+        "bbox": [
+            42,
+            594,
+            961,
+            638
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Order of Justice Rene Le Miere dated 25 September 2024 for the Continuation Application to be determined at the Hearing ",
+        "bbox": [
+            42,
+            653,
+            959,
+            697
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Claimant’s Application No. ARB-004-2024/16 fi led on 8 October 2024 seeking permission to amend the application notice fi led in the First Sequestration Application and the First Committal Application (the “Amendment Application”) ",
+        "bbox": [
+            40,
+            713,
+            961,
+            782
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON hearing Counsel for the Claimant and Counsel for the Defendant at the Consolidated Hearing ",
+        "bbox": [
+            40,
+            797,
+            959,
+            841
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON reviewing the court fi le and documents set out therein ",
+        "bbox": [
+            40,
+            858,
+            635,
+            877
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IT IS HEREBY ORDERED THAT: ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            892,
+            337,
+            912
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The Set-aside Application is dismissed. ",
+        "bbox": [
+            42,
+            927,
+            416,
+            945
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. If any party wants to move for an order in respect of costs, they should, within 7 days of the issue of this order, fi le a minute of proposed orders with an outline of submissions not to exceed 5 pages and any supporting witness statement. If either or both parties fi le such a minute, the costs orders will be determined on the papers. If neither party fi les a minute, it will be ordered that the Defendant pay the Claimant’s costs that wholly relate to the Set-aside Application, one-sixth of its costs that partly relate to the application and partly relate to the other applications, and one-sixth of the Claimant’s costs of the Hearing, on the standard basis to be assessed at the same time as the costs of the other applications heard at the Hearing, if not agreed. ",
+        "bbox": [
+            38,
+            16,
+            961,
+            205
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. The Expert Evidence Application is granted. ",
+        "bbox": [
+            40,
+            219,
+            457,
+            237
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. There shall be no order as to the costs of the Expert Evidence Application. ",
+        "bbox": [
+            40,
+            252,
+            729,
+            271
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Issued by:   \nDelvin Sumo   \nAssistant Registrar   \nDate: 24 December 2024   \nAt: 12pm ",
+        "bbox": [
+            729,
+            285,
+            959,
+            403
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE OF REASONS – Set-aside Application and the Expert Evidence Application ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            420,
+            909,
+            439
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            456,
+            134,
+            474
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. This case concerns a dispute between Naqid (“Naqid”), an Indian company, and (“Najam”), a Liberian company, concerning a subcontract agreement for a pipeline replacement project in Mumbai, India. The confl ict arose when Najam failed to make timely payments, prompting Naqid to initiate arbitration under Indian law. ",
+        "bbox": [
+            40,
+            488,
+            963,
+            579
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. The arbitration tribunal ruled in favour of Naqid, awarding it substantial sums with interest and costs. Naqid then sought enforcement of the arbitration award through the Dubai International Financial Centre (“DIFC”) Courts, which recognized and enforced the award (the “Enforcement Order”). Naqid also secured a worldwide freezing order against Najam to prevent asset dissipation. ",
+        "bbox": [
+            40,
+            593,
+            961,
+            686
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. Najam has applied to set aside the Enforcement Order (the “Set-aside Application”), arguing improper notice of the arbitrator's appointment and that the award has not become binding. ",
+        "bbox": [
+            40,
+            699,
+            961,
+            741
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. Najam applied for permission to put in expert evidence in support of the Set-aside Application (the “Expert Evidence Application”). ",
+        "bbox": [
+            40,
+            756,
+            959,
+            799
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. The DIFC Court must comply with the Agreement between India and the UAE on Juridical and Judicial Cooperation in Civil and Commercial matters for the Service of Summons, Judicial Documents, Commissions, Execution of Judgements, and Arbitral Awards made between the UAE and the Republic of India on 25 October 1999 (the “India - UAE Judicial Cooperation Agreement“). The agreement supports the recognition and enforcement of arbitral awards and limits the grounds on which the Court can set aside an award. ",
+        "bbox": [
+            38,
+            813,
+            961,
+            953
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. For the following reasons, the Set-aside Application will be dismissed. Najam's grounds for setting aside the order are unsupportable, as Naqid has satisfi ed the India – UAE Judicial Cooperation Agreement’s conditions for enforcement. ",
+        "bbox": [
+            40,
+            17,
+            959,
+            84
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7. If, within 7 days of the issue of this order, either party fi les a minute of proposed orders about costs, with an outline of submissions of no more than fi ve pages and any supporting witness statement, the orders as to costs will be determined on the papers. If neither party fi les a minute of proposed orders within 7 days, it will be ordered that the Defendant pay the Claimant’s costs that wholly relate to the Set-aside Application, one- sixth of its costs that partly relate to the application, and partly relate to the other applications, and one-sixth of the Claimant’s costs of the Hearing, on the standard basis to be assessed at the same time as the costs of the other applications heard at the Hearing, if not agreed. ",
+        "bbox": [
+            38,
+            98,
+            961,
+            262
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8. The Expert Evidence Application will be granted. ",
+        "bbox": [
+            40,
+            277,
+            499,
+            294
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9. There will be no order as to the costs of the Expert Evidence Application. ",
+        "bbox": [
+            42,
+            310,
+            714,
+            328
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The underlying dispute ",
+        "bbox": [
+            43,
+            346,
+            260,
+            363
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10. The Claimant, Naqid, is incorporated under the Indian Companies Act, and provides oil and gas services, including project management, procurement, manufacturing, and commissioning. Its registered address is in Mumbai, India. ",
+        "bbox": [
+            40,
+            378,
+            963,
+            444
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11. The Defendant, Najam, is incorporated under Liberian law and offers services and undertakes projects in the offshore oil and gas industry in the Arabian Gulf and Indian sub-continent. Its registered address is in Liberia, with a branch offi ce in UAE. ",
+        "bbox": [
+            40,
+            458,
+            959,
+            526
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "12. On 21 August 2019, Najam and Nariyah (“Nariyah”) entered a turnkey contract for the Pipeline Replacement Project (the “Main Contract”). ",
+        "bbox": [
+            42,
+            541,
+            961,
+            583
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "13. On 26 September 2019, Naqid and Najam signed a subcontract agreement for platform topside modifi cation and related works (the “Subcontract”). ",
+        "bbox": [
+            40,
+            596,
+            959,
+            640
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14. Payments from Najam to Naqid were delayed, causing disputes. ",
+        "bbox": [
+            42,
+            655,
+            652,
+            674
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15. Najam also leased offi ce premises from Naqid but failed to pay rent and other expenses. ",
+        "bbox": [
+            40,
+            687,
+            867,
+            707
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Award ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            724,
+            144,
+            741
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "16. Naqid initiated arbitration on 11 May 2022 after Najam failed to respond to a Notice of Arbitration. Subsequently, Naqid petitioned the Supreme Court of India to appoint an arbitrator, resulting in the appointment of Mr. Justice Shiavax Jal Vazifdar. ",
+        "bbox": [
+            40,
+            756,
+            961,
+            824
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "17. Despite notifi cations, Najam did not participate in the arbitral proceedings. Naqid fi led a statement of claim and sought urgent interim relief due to Nariyah's termination of the Main Contract and Najam's business winding up in India. The arbitral tribunal granted interim relief to Naqid in the form of a worldwide freezing order and proceeded with the arbitration, culminating in a fi nal hearing on 3 October 2023. ",
+        "bbox": [
+            40,
+            837,
+            961,
+            953
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "18. On 2 November 2023, the tribunal issued an award (the “Award”) concluding that Naqid had successfully proven its claims. Najam did not contest the evidence presented nor make the required payments under the Subcontract. The tribunal noted that Najam had raised no objections regarding the invoices or the quality of work. ",
+        "bbox": [
+            42,
+            17,
+            959,
+            109
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "19. As a result, the tribunal ordered Najam to pay Naqid a total of Cr 38,58,54,542 and USD 3,156,658, along with an $18 \\%$ annual interest from 11 May 2022 until payment is made. Additionally, Najam was directed to pay Cr 1,06,29,316 to cover administrative and legal costs. ",
+        "bbox": [
+            42,
+            123,
+            959,
+            190
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Enforcement order ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            208,
+            220,
+            224
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "20. On 11 March 2024, Naqid fi led a without notice application under Articles 42(1) and 43 of the DIFC Arbitration Law of 2008 (“DIFC Arbitration Law”) and Rules 43.62 and 43.75 of the DIFC Courts Rules 2018 (“RDC”), seeking recognition and enforcement of the Award. ",
+        "bbox": [
+            40,
+            240,
+            959,
+            306
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "21. On May 3, 2024, H.E. Justice Shamlan Al Sawalehi issued an order recognizing and enforcing the Award under Articles 42(1) and 43 of the DIFC Arbitration Law (the “Enforcement Order”). The order gave Najam 14 days from service to apply to set aside the order, during which the Award cannot be enforced. If no application was made or once resolved, the Award can be enforced within the DIFC as a court judgment. The judgment requires Najamto pay Naqid Cr 38,58,54,542 and USD 3,156,658, with an annual interest rate of $18 \\%$ from May 11, 2022, until payment, along with arbitration costs of Cr 27,76,200 and legal costs of Cr 78,53,116, totalling Cr 1,06,53,116. These amounts are approximately USD 7.5 million. ",
+        "bbox": [
+            38,
+            321,
+            961,
+            508
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Freezing Order ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            525,
+            183,
+            543
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "22. On 2 May 2024, Naqid applied to this Court for a worldwide freezing order against Najam. ",
+        "bbox": [
+            42,
+            558,
+            875,
+            577
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "23. On 3 May 2024, H.E. Justice Shamlan Al Sawalehi issued a worldwide freezing order against Najam. The order restricts Najam from removing or dealing with its assets up to the amount of the judgment within the DIFC and globally until a further court hearing. The assets affected include specifi c vessels, shareholdings in various companies, and accounts with several banks. Najam was required to disclose detailed information about its assets and contracts within 72 hours and provide an affi davit within seven working days. ",
+        "bbox": [
+            40,
+            590,
+            963,
+            731
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Najam response to Freezing Order ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            747,
+            364,
+            765
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "24. Najam, represented by Mayer Brown, sought to set aside the Enforcement Order and discharge the Freezing Order, which was opposed by Naqid’s legal representatives, Singularity Legal LLP. Mayer Brown requested an extension to comply with the Freezing Order, which was initially denied by Singularity. Naqid made allegations of non-compliance and asset dissipation against Najam, leading to applications for contempt of court and writs of sequestration. Najam refuted these allegations, asserting compliance with the Freezing Order and providing detailed asset disclosures, including vessels, shareholdings, contracts, and bank accounts. The assets disclosed included the Niya and Nerys vessels, shareholdings in various companies, and contracts with Nariyah and Nesta. Najam's assets were largely encumbered, and its bank accounts have been dormant since 2021. Najam denied any risk of asset dissipation, emphasizing that asset sales required mortgagee approval. Despite objections from v, Najam maintained that it had complied with the Freezing Order and addressed all allegations of inaccuracies or non-compliance. ",
+        "bbox": [
+            40,
+            780,
+            963,
+            969
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Set-aside Application ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            126,
+            285,
+            143
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "25. On 17 May 2024, Najam applied for an order to set aside the Enforcement Order based on two grounds under the DIFC Arbitration Law. First, Najam argues that the party against whom the award is invoked, that is Najam, was not given proper notice of the arbitrator's appointment in the underlying arbitral proceedings. Second, Najam contends that the award has not yet become binding on the parties. Najam foreshadowed providing further particulars and evidence, including an Indian law expert report, to support these grounds. The application highlights the procedural and substantive issues Najam is raising about the Award and the enforcement process. ",
+        "bbox": [
+            40,
+            158,
+            961,
+            322
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "26. Najam sought a 21-day extension to fi le and serve evidence in support of its application and convene a case management conference. Najamcited the need to review a substantial volume of material and obtain an independent Indian law expert's opinion on critical legal aspects related to an Enforcement Order and the underlying Award. Najam said the extension was necessary due to the constrained timescale under which it and its newly instructed lawyers have been operating. ",
+        "bbox": [
+            40,
+            335,
+            961,
+            451
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Committal and Sequestration Applications ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            468,
+            480,
+            487
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "27. Naqid initiated a series of applications against Najamand certain individuals, referred to as the Directors (the “Individual Respondents”), claiming they violated the Freezing Order. On May 13 2024, Naqid fi led the First Committal Application, accusing Najam and the Individual Respondents of contempt of court for not complying with specifi c provisions of the Freezing Order. They requested that the case be referred to the Attorney General of Dubai for potential punishment, which could include a fi ne or security for good behaviour. ",
+        "bbox": [
+            40,
+            500,
+            963,
+            640
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "28. At the same time, Naqid submitted a First Sequestration Application, seeking permission to issue a writ of sequestration against the assets of Najamand the Individual Respondents. In response, on May 23 2024, Najam fi led a Strike Out Application, arguing that the committal application lacked reasonable grounds, constituted an abuse of process, and did not adhere to procedural rules. ",
+        "bbox": [
+            40,
+            655,
+            961,
+            746
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "29. On June 24 2024, Naqid fi led a Second Committal Application, again alleging contempt of court by Najam and the Individual Respondents for further non-compliance with different provisions of the Freezing Order. They sought similar punitive measures as in the fi rst application. On the same day, Naqid also submitted a Second Sequestration Application, requesting permission to issue a writ of sequestration against Najam's assets and those of the Individual Respondents. ",
+        "bbox": [
+            40,
+            759,
+            961,
+            875
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Najam applies to set aside Award in India ",
+        "bbox": [
+            42,
+            892,
+            430,
+            910
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "30. Najam fi led a petition with the Bombay Court on 23 July 2024, seeking to set aside the Award on multiple grounds. Najamcontends that it did not receive notice under Section 21 of the Indian Arbitration Act regarding the invocation of the arbitration agreement. Furthermore, Najam argues that the arbitrator was appointed without proper notice to them about the petition fi led by Naqid under Section 11 of the Indian Arbitration Act. ",
+        "bbox": [
+            40,
+            16,
+            961,
+            133
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "31. Additionally, Najam claims that the Award addresses a dispute not covered by the arbitration agreement and that the arbitral procedure did not comply with the agreement, violating fundamental principles of arbitration law. Najamalso asserts that the arbitrator failed to communicate the decision to proceed ex parte against them and made decisions ex aequo et bono and as amiable compositeur without explicit authorization. ",
+        "bbox": [
+            40,
+            146,
+            961,
+            262
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "32. Lastly, Najam challenges the validity of the Subcontract, arguing that it was entered by an individual who lacked the proper authority, and claims that the Award is unreasoned. ",
+        "bbox": [
+            40,
+            275,
+            961,
+            319
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "33. Najam also applied for an interim order to stay the effect, operation, and implementation of the Award until the fi nal disposal of the Petition. ",
+        "bbox": [
+            40,
+            334,
+            959,
+            376
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "34. The proceedings are ongoing. The proceedings were considered at a hearing on 26 September 2024, at which time the Bombay Court adjourned the matter until 24 October 2024. This Court has not been informed whether the hearing scheduled for 24 October 2024 proceeded and, if so, what, if any, orders or directions were made. ",
+        "bbox": [
+            40,
+            390,
+            961,
+            482
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Consolidated Hearing ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            499,
+            247,
+            517
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "35. On 9 August 2024, the Court ordered that the First and Second Committal Applications, the Strikeout Application, and the First and Second Sequestration Applications, together with Naqid’s applications to continue the Freezing Order and for an anti-suit injunction be heard together with Najam’s application to set aside the Enforcement Order and determined following a single hearing (the “Hearing”). ",
+        "bbox": [
+            38,
+            531,
+            961,
+            648
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "36. The Hearing was held in person at the DIFC Courts for 5 days, starting on 7 October 2024. ",
+        "bbox": [
+            38,
+            659,
+            882,
+            680
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Applicable law and procedure ",
+        "bbox": [
+            43,
+            697,
+            324,
+            714
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "37. Najam brings this Set-aside Application under the DIFC Arbitration Law. ",
+        "bbox": [
+            38,
+            728,
+            717,
+            749
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "38. Part 4 of the DIFC Arbitration Law addresses the recognition and enforcement of arbitral awards within the DIFC. Article 42 stipulates that an arbitral award, regardless of its origin, is to be recognised as binding within the DIFC. ",
+        "bbox": [
+            40,
+            762,
+            961,
+            829
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "39. Enforcement requires a written application to the DIFC Court and is subject to Articles 42, 43, and   \n44. ",
+        "bbox": [
+            40,
+            843,
+            963,
+            888
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "40. The DIFC Court must adhere to any applicable treaties the UAE has entered to mutually enforce judgments, orders, or awards. I will return to this provision because it is critical to resolving this application. But fi rst, I will refer to the other provisions of Part 4 because they are the basis of Najam’s application. ",
+        "bbox": [
+            38,
+            900,
+            961,
+            969
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "41. Awards issued by the DIFC Court can be enforced within the DIFC according to the DIFC Arbitration Law and any relevant court rules. Awards recognised by the DIFC Court can be enforced outside the DIFC in line with the Judicial Authority Law, with recognition including ratifi cation for Article 7 purposes of the Judicial Authority Law. ",
+        "bbox": [
+            40,
+            49,
+            961,
+            142
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "42. Article 44 of the DIFC Arbitration Law states the grounds for refusing the recognition or enforcement of an arbitral award by the DIFC Court. It specifi es that recognition or enforcement may be refused if the party against whom the award is invoked can prove certain conditions, such as the incapacity of a party to the arbitration agreement, invalidity of the agreement under applicable law, lack of proper notice or opportunity to present a case, the award addressing issues beyond the scope of the arbitration agreement, or improper composition or procedure of the arbitral tribunal. Additionally, enforcement may be refused if the award is not yet binding, has been set aside or suspended by a relevant court, or if the subject matter is not arbitrable under DIFC laws or enforcement would contravene UAE public policy. ",
+        "bbox": [
+            38,
+            155,
+            963,
+            367
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "43. The DIFC Court may adjourn its decision if an application to set aside or suspend the award is pending in another court and may require security from the party seeking enforcement. ",
+        "bbox": [
+            40,
+            381,
+            959,
+            425
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "44. Section II of RDC Part 43 outlines specifi c procedures and timelines for recognizing and enforcing arbitral awards. Rule 43.70 stipulates that a defendant has 14 days to apply to set aside an order made without notice or a different period if the order is served outside Dubai, as determined by the Court. During this period, the arbitral award cannot be enforced until the period ends or any application made by the defendant within that period is resolved. ",
+        "bbox": [
+            40,
+            438,
+            961,
+            554
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "45. Rule 43.72 details the requirements for an application to set aside an order under Rule 43.70(1). Such an application must comply with RDC Part 23, specify the grounds under Article 44(1) of the DIFC Arbitration Law for setting aside the order, and any grounds under Article 44(2) for adjourning the decision. It must also include written evidence supporting the claims under Article 44 and justifying why the order should be set aside. ",
+        "bbox": [
+            40,
+            568,
+            961,
+            683
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The Set-aside Application ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            700,
+            287,
+            718
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "46. In its Set-aside Application, Najam in accordance with RDC 43.72, stated that it relies on the following grounds under Article 44(1)(a)(ii) and (v) of the DIFC Arbitration Law for this Application: ",
+        "bbox": [
+            42,
+            733,
+            959,
+            776
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) the party against whom the award is invoked, Najam, was not given proper notice of the appointment of the arbitrator in the underlying arbitral proceedings pursuant to which the Enforcement Order was issued; and   \n(b) the Award has not yet become binding on the parties. ",
+        "bbox": [
+            73,
+            789,
+            961,
+            891
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "47. Najam stated that it would provide further particulars in due course with relevant evidence, including an Indian law expert report. ",
+        "bbox": [
+            42,
+            904,
+            959,
+            947
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "48. In its skeleton argument, Najam stated the same two grounds for setting aside the Award. ",
+        "bbox": [
+            42,
+            17,
+            877,
+            36
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "49. First, the Enforcement Order should be set aside because the Award has not yet become binding due to the ongoing Petition before the Bombay Court, under Article 44(1)(v) of the DIFC Arbitration Law. ",
+        "bbox": [
+            40,
+            51,
+            959,
+            117
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "50. Secondly, the Enforcement Order should be set aside because, under Article 44 (1)(ii) of the DIFC Arbitration Law, Najam was not properly notifi ed of the arbitration and the appointment of an arbitrator or was otherwise unable to present its case. By s.21 of the Indian Arbitration Act, arbitral proceedings commence when the respondent receives a request to refer the dispute to arbitration. That critical fi rst step did not take place, rendering the remainder of the arbitral process null. ",
+        "bbox": [
+            40,
+            131,
+            961,
+            247
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The Expert Evidence Application ",
+        "text_level": 1,
+        "bbox": [
+            45,
+            265,
+            349,
+            282
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "51. On 7 June 2024 Najam applied for permission to put in evidence Mr. Nyoka’s expert report in support of the Set-aside Application and to consolidate the application to all the pending applications by the parties in these proceedings (the “Expert Evidence Application”), Najam said that the expert report about Indian arbitration law was required to resolve the Set aside Application. ",
+        "bbox": [
+            40,
+            297,
+            961,
+            388
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Najam’s stated grounds not applicable ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            405,
+            405,
+            423
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "52. Article 24(2) of the DIFC Court Law 2004 provides that where the UAE has entered an applicable Judicial Cooperation Agreement for the mutual enforcement of judgments, orders or awards, the Court of First Instance shall comply with the terms of such Judicial Cooperation Agreement. Article 42(1) of the Arbitration Law provides that for the avoidance of doubt, where the UAE has entered an applicable Judicial Cooperation Agreement for the mutual enforcement of awards the DIFC Court shall comply with the terms of such Judicial Cooperation Agreement. ",
+        "bbox": [
+            38,
+            436,
+            961,
+            577
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "53. The UAE has entered an applicable Judicial Cooperation Agreement - the India – UAE Judicial Cooperation Agreement. Article 2 of the India – UAE Judicial Cooperation Agreement provides that assistance under the Agreement shall apply to, among other things, the execution of arbitral awards. The Award is made under the Indian Arbitration Act, and its seat is in India. ",
+        "bbox": [
+            40,
+            590,
+            961,
+            682
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "54. Article XXV of the India – UAE Judicial Cooperation Agreement stipulates that arbitral awards given in the territory of either Party shall be recognised and enforced in the other Party, subject to the fulfi lment of two conditions. The fi rst is that the award is based on a written agreement of the parties to the dispute to submit to arbitrators for the determination of any specifi c or future dispute arising out of legal relations. The second is that the award is made on matters that are arbitrable according to the law of the state requested to recognise its enforcement unless it is contrary to the public policy of the Requested State. Furthermore, the party requesting the recognition and enforcement of an award must produce a copy of the award, accompanied by a certifi cate from the competent judicial authority in the Requesting State confi rming that the award is executable, along with a certifi ed copy of the agreement between the disputant parties empowering the arbitrators to decide the dispute. ",
+        "bbox": [
+            38,
+            695,
+            961,
+            933
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "55. The fi rst ground of Najam’s application – that Najam was not given proper notice of the appointment of the arbitrator in the arbitral proceedings under which the Enforcement Order was issued – is not a ground under Article XXV. The Court may not decline to enforce an award on that ground. ",
+        "bbox": [
+            40,
+            17,
+            961,
+            109
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "56. Najam’s second ground is that the Award has not yet become binding on the parties. That is not an express ground for declining to enforce an award under the India – UAE Judicial Cooperation Agreement, but Article XXV of the Agreement requires the party seeking the enforcement of the award to produce a copy of the award, accompanied by a certifi cate from the competent judicial authority in the Requesting State confi rming that the award is executable, along with a certifi ed copy of the agreement between the disputant parties empowering the arbitrators to decide the dispute. Both those conditions were satisfi ed by Naqid when it applied for the Enforcement Order. ",
+        "bbox": [
+            38,
+            122,
+            961,
+            286
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "57. Ms Kavalakkat, in her witness statement of 8 March 2024, outlines the procedural aspects for enforcing arbitral awards in India, particularly under the Indian Arbitration Act, as compared to the earlier Arbitration Act of 1940. Ms Kavalakkat's witness statement shows that under the current legal framework, an arbitral award rendered in India is executable as a court decree without needing additional certifi cation or a court judgment. This is a departure from the previous requirement under the 1940 Arbitration Act, where a court's imprimatur was necessary to enforce an award. Ms Kavalakkat explains that under Section 36(1) of the Indian Arbitration Act, once the period for applying to set aside an arbitral award has expired, the award can be enforced in the same manner as a court decree, according to the Code of Civil Procedure, 1908. The Supreme Court of India, in Sundaram Finance Limited v Abdul Samad and Another (2018) 3 SCC 622, affirmed that an arbitral award is executed as a decree by legal fi ction without the need for a civil court to pass a decree. Therefore, Naqid can execute the Award directly in Indian courts as if it were a court decree, eliminating the need for further court certifi cation. ",
+        "bbox": [
+            38,
+            300,
+            961,
+            609
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "58. Therefore, the Award is executable. ",
+        "bbox": [
+            40,
+            623,
+            394,
+            640
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "59. The grounds on which Najam brings this application are not maintainable. ",
+        "bbox": [
+            40,
+            656,
+            731,
+            675
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Additional grounds ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            692,
+            221,
+            709
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "60. Counsel for Najam, Mr. Page, raised additional grounds at the Hearing. ",
+        "bbox": [
+            38,
+            724,
+            714,
+            743
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "61. It is challenging to identify the additional grounds that would allow this Court to annul the Award. Mr. Page highlighted that the Award included a sum for unpaid rent, argued that rental disputes are not subject to arbitration, and asserted that Naqid failed to comply with the subcontract's requirement to provide notice of the arbitrable dispute. ",
+        "bbox": [
+            38,
+            756,
+            961,
+            848
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "62. These additional grounds were not specifi ed in the Set-aside Application, and I will not allow them to be raised as grounds for the application. ",
+        "bbox": [
+            40,
+            863,
+            961,
+            906
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "63. I have referred to RDC Rule 43.72, which requires, amongst other things, that an application to set aside an order under Rule 43.70(1) must specify the grounds under Article 44(1) of the DIFC Arbitration Law for setting aside the order. In my opinion, the rule requires a party seeking to set aside an award under the India – UAE Judicial Cooperation Agreement to specify the grounds of the application. Alternatively, RDC Rule 23.21 requires the applicant to state the grounds of the application. Najam specifi ed its two grounds in its application and in its skeleton argument. It did not refer to the additional grounds. It is not entitled to rely on any additional grounds. ",
+        "bbox": [
+            38,
+            16,
+            961,
+            181
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "64. Further, and in any event, I will not allow Najam to rely on the additional grounds because it would be procedurally unfair to Naqid to do so. Naqid stated when it applied for the Enforcement Order that the recognition and enforcement of the Award is governed by the India – UAE Judicial Cooperation Agreement. Naqid stated in its skeleton argument for the Hearing: ",
+        "bbox": [
+            40,
+            195,
+            963,
+            287
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "“1. an award given in India shall be recognised and enforced in the UAE, providing the two conditions specifi ed in article XXV(1) are fulfi lled;   \n2. both these conditions are fulfi lled since the Award was based on the arbitration agreement in the Subcontract and the Award was made on commercial disputes which are arbitrable in the UAE;   \n3. the two grounds raised by Najam for setting aside the Enforcement Order are raised under article 44 of the DIFC Arbitration Law, which does not apply; and   \n4. consequently, NajamSet-aside Application must be dismissed.” ",
+        "bbox": [
+            63,
+            300,
+            963,
+            516
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "65. Najam did not seek to rely on the additional grounds and argue that they are grounds for setting aside the Award under the India – UAE Judicial Cooperation Agreement until its closing submissions on day fi ve of the Hearing. Najam did not apply to amend its application to rely on those additional grounds. Najam raised those grounds after the evidence was complete and after Naqid had delivered its closing submissions. Naqid had no proper opportunity to answer those additional grounds. ",
+        "bbox": [
+            40,
+            527,
+            963,
+            644
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "66. In any event, none of the additional grounds are grounds for setting aside the Enforcement Order. Mr. Page did not submit that the additional grounds established that the conditions in Article XXV(1) were not fulfi lled. Mr. Page referred to Articles XVIII and XX of the India – UAE Judicial Cooperation Agreement. ",
+        "bbox": [
+            40,
+            658,
+            961,
+            749
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "67. Article XVIII specifi es the jurisdictional rules for the courts of a Contracting Party in cases that do not involve a person's capacity or status or immovable property. The courts have jurisdiction under the following circumstances: ",
+        "bbox": [
+            42,
+            763,
+            961,
+            831
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) If the defendant is domiciled or resides in the state at the time the lawsuit is fi led.   \n(b) If the defendant has a commercial or industrial presence in the state, and the lawsuit is related to that activity.   \n(c) If there is an express or implied agreement stipulating that the contractual obligations in question are to be performed in the state. ",
+        "bbox": [
+            77,
+            844,
+            961,
+            978
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(d) If a non-contractual liability arises from an act committed within the state. (e) If the defendant has expressly or impliedly submitted to the jurisdiction of the state's courts, as long as the state's law allows such submission. ",
+        "bbox": [
+            67,
+            17,
+            961,
+            93
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "68. Additionally, jurisdiction for provisional measures can be established if the courts are deemed competent to hear the main dispute under the provisions of the agreement. It is important to note that Article XVIII does not apply to the enforcement of awards in the UAE or DIFC. ",
+        "bbox": [
+            40,
+            99,
+            961,
+            166
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "69. Article XX sets out circumstances in which a court decree may not be recognised; it does not apply to arbitrable awards. This is apparent from the scheme of the India – UAE Judicial Cooperation Agreement and its terms. The Agreement provides separately for the recognition and enforcement of court decrees and arbitrable awards. Article XX (b) and Article XX (j) refer to circumstances in which a decree can only be recognised or executed in circumstances that do not apply to arbitrable awards. ",
+        "bbox": [
+            40,
+            179,
+            963,
+            296
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "70. The DIFC Court must adhere to the India – UAE Judicial Cooperation Agreement. The Court may only set aside the Award on the grounds set out in the Agreement. Mr. Page has not established that any of the additional grounds are grounds on which the Court, adhering to the Agreement, may not recognise and enforce or may set aside the Award. ",
+        "bbox": [
+            40,
+            309,
+            961,
+            400
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Adjournment of application refused ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            418,
+            374,
+            436
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "71. Najam submitted, alternatively, that the Court should adjourn the Set-aside Application pending the resolution of Najam’s application to the High Court of Bombay to set aside the Award, either under the Court’s power under Article 44(2) of the DIFC Arbitration Law or its case management powers. ",
+        "bbox": [
+            40,
+            450,
+            961,
+            517
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "72. Article 44(2) of the DIFC Arbitration Law provides that if an application for the setting aside or suspension of an award has been made to a court of the state or jurisdiction in which, or under the law of which, that award was made, the DIFC Court may if it considers it proper, adjourn its decision and may also, on the application of the party seeking recognition or enforcement of the award, order the other party to provide appropriate security. ",
+        "bbox": [
+            40,
+            530,
+            961,
+            646
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "73. RDC Rule 43.72 states that an application under Rule 43.70(1) must specify any grounds under Article 44(2) of the Arbitration Law that the applicant believes justify the postponement of the decision to set aside the Order. Additionally, this application must be accompanied by written evidence that the party relies on to convince the Court of the matters referenced in Article 44 of the Arbitration Law. ",
+        "bbox": [
+            40,
+            661,
+            961,
+            752
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "74. Najam’s application did not set out any grounds on which it alleged that the Set-aside Application should be adjourned, nor any evidence in support of an adjournment. ",
+        "bbox": [
+            40,
+            765,
+            961,
+            809
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "75. In its skeleton argument, Najam argued that the Court should exercise caution regarding the premature issuance of enforcement proceedings. Given the ongoing annulment challenge in the arbitral seat, it is appropriate for the Court to either refuse to register the Award or to generally adjourn the matter until the Court in the seat has decided. ",
+        "bbox": [
+            40,
+            824,
+            961,
+            915
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "76. The discretion to adjourn an enforcement proceeding is a wide one. But it must be exercised against the background that an Indian arbitral award is to be enforced in the UAE and the DIFC unless one of the grounds in Article XXIV(1) of the India – UAE Judicial Cooperation Agreement is made out by the party against whom the award is sought to be enforced. The pro-enforcement bias of the India – UAE Judicial Cooperation Agreement and the DIFC Arbitration Law requires that this Court weigh very carefully all relevant factors when considering whether to adjourn an enforcement proceeding. The discretion must be exercised against the obligation of the Court to pay due regard to the objects of the DIFC Arbitration Law and the spirit and intendment of the India – UAE Judicial Cooperation Agreement. ",
+        "bbox": [
+            38,
+            16,
+            961,
+            228
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "77. The Award was made on 1 November 2023, and the Enforcement Order was made on 3 May   \n2024. On 17 May 2024, Najam applied to set aside the Enforcement Order. ",
+        "bbox": [
+            40,
+            243,
+            961,
+            286
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "78. Najam did not apply to the Bombay Court to set aside the Award until 23 July 2024, more than eight months after the Award was made, four months after the Enforcement Order was made, and two months after it had applied to this Court to set aside the Enforcement Order. ",
+        "bbox": [
+            40,
+            300,
+            959,
+            367
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "79. Najam applied to the Bombay Court for an interim order to stay the effect, operation, and implementation of the Award until the fi nal disposal of its petition to set aside the Award on 23 July 2024. Five months have passed since then, and the Court has not been informed that the Bombay Court has seen fi t to stay the enforcement of the Award. ",
+        "bbox": [
+            40,
+            381,
+            961,
+            473
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "80. Najam has not offered to give security and cannot do so. ",
+        "bbox": [
+            42,
+            487,
+            581,
+            505
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "81. Najam is not operating and has no employees; its continued existence is to realise its assets and pay its creditors. Its principal asset, the vessel Niya, has been attached and has either been sold or is being sold by the appropriate authorities in Abu Dhabi. ",
+        "bbox": [
+            40,
+            520,
+            961,
+            587
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "82. Considering the purpose, objectives, and principles of the India – UAE Judicial Cooperation Agreement and the DIFC Arbitration Law, the broader context of Najam’s fi nancial position, and Naqid’s attempts to enforce the Award, Najam’s delay in applying to the Bombay Court to set aside the Award, and the Bombay Court’s failure to take any step to stay the enforcement of the Award, it is not appropriate to exercise the Court’s discretion to adjourn the Set-aside Application. ",
+        "bbox": [
+            40,
+            601,
+            963,
+            717
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The Expert Evidence Application ",
+        "text_level": 1,
+        "bbox": [
+            45,
+            733,
+            349,
+            751
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "83. The Court decided to allow Mr. Nyoka 's expert report and a confl icting report from Naqid to be presented as evidence. Ultimately, there is no need to evaluate the confl icting expert evidence. ",
+        "bbox": [
+            40,
+            765,
+            963,
+            809
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "84. The Court will grant the Expert Evidence Application. There will be no order as to costs concerning the Expert Evidence Application. ",
+        "bbox": [
+            38,
+            824,
+            961,
+            866
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Extension of time ",
+        "bbox": [
+            42,
+            883,
+            206,
+            901
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "85. Najamapplied for additional time to fi le and serve the evidence supporting its Set-aside Application, as well as to hold a case management conference. However, addressing those requests is unnecessary. The Court has already received the evidence submitted by Najam, and the required case conferences have taken place and directions provided. ",
+        "bbox": [
+            40,
+            17,
+            959,
+            109
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "86. Naqid sought penalties for Najam’s failure to comply with fi ling deadlines. ",
+        "bbox": [
+            40,
+            123,
+            729,
+            142
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "87. I have considered the circumstances surrounding the late fi ling and the parties’ submissions. It is not appropriate to impose any sanction. ",
+        "bbox": [
+            40,
+            155,
+            959,
+            199
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Costs ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            216,
+            100,
+            233
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "88. When the Court decides to make an order about costs, the general rule is that the unsuccessful party will be ordered to pay the costs of the successful party. Naqid is the successful party to the Setaside Application. ",
+        "bbox": [
+            40,
+            248,
+            959,
+            315
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "89. An unusual feature of this application is that it was heard as part of a consolidated hearing together with several other substantive applications. Naqid is the unsuccessful party in some of those applications. ",
+        "bbox": [
+            40,
+            329,
+            961,
+            397
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "90. There is no reason why Naqid should not recover the costs of this application on a standard basis. The costs were necessarily incurred, and to order recovery of part only of those costs is contrary to the principle that a successful party recover its costs. There is nothing that justifi es a departure from that principle other than the fact that the applications were heard together, and some part of the legal costs might overlap with the costs of the unsuccessful applications. The order ought, therefore, to allow Naqid its identifi able costs of the Set-aside Application. To the extent that the costs relate to items that are common to the other applications, Naqid should recover a proportion of those costs. The costs of the Hearing should be apportioned. ",
+        "bbox": [
+            40,
+            410,
+            961,
+            599
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "91. For those reasons, Najam should pay the following Naqid costs as assessed or agreed: the costs that wholly relate to the Set-aside Application, one-sixth of the costs that partly relate to the application and partly relate to the other applications and one-sixth of the costs of the Hearing. Those proportions are my assessment of the proportion of the Hearing devoted to the Set-aside Application. ",
+        "bbox": [
+            40,
+            612,
+            961,
+            703
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "92. The costs of the Set-aside Application should be assessed at the same time as the other applications heard at the Hearing. ",
+        "bbox": [
+            40,
+            718,
+            961,
+            760
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            778,
+            151,
+            795
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "93. The Set-aside Application will be dismissed. ",
+        "bbox": [
+            40,
+            810,
+            468,
+            829
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "94. If any party wants to move for an order in respect of costs, they should, within 7 days of the issue of this order, fi le a minute of proposed orders with an outline of submissions not to exceed 5 pages and any supporting witness statement. If either or both parties fi le such a minute, the costs orders will be determined on the papers. If neither party fi les a minute, it will be ordered that the Defendant pay the Claimant’s costs that wholly relate to the Set-aside Application, one-sixth of its costs that partly relate to the application and partly relate to the other applications, and one-sixth of the Claimant’s costs of the Hearing, on the standard basis to be assessed at the same time as the costs of the other applications heard at the Hearing, if not agreed. ",
+        "bbox": [
+            38,
+            843,
+            961,
+            960
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "95. The Expert Evidence Application will be granted. ",
+        "bbox": [
+            40,
+            99,
+            510,
+            117
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "96. There will be no order as to the costs of the Expert Evidence Application. ",
+        "bbox": [
+            35,
+            131,
+            726,
+            151
+        ],
+        "page_idx": 14
+    }
+]

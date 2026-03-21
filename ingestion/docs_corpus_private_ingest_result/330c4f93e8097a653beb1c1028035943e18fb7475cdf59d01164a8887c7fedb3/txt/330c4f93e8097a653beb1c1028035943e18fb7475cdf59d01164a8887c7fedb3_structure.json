@@ -1,0 +1,746 @@
+{
+    "0": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "Law No. (9) of 2004 In respect of The Dubai International Financial Centre ",
+        "level": 1
+    },
+    "1": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "We, Mohammed Bin Rashid Al Maktoum, Ruler of Dubai, ",
+        "level": 2
+    },
+    "2": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "After having reviewed   \nThe Constitution and its amendments; and   \nFederal Law No. (8) of 2004 concerning Financial Free Zones; and   \nFederal Decree No. (35) of 2004 concerning the Establishment of a Financial Free Zone in the Emirate of Dubai; and   \nDubai Law No. (3) of 2002 establishing the Dubai International Financial Centre; and Dubai Law No. (12) of 2004 concerning the Judicial Authority of Dubai International Financial Centre. ",
+        "level": 3
+    },
+    "3": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "Do hereby issue the following Law: ",
+        "level": 3
+    },
+    "4": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "Article (1) ",
+        "level": 2
+    },
+    "5": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "This Law will be cited as \"The Law of the Dubai International Financial Centre No. (9) of 2004\" ",
+        "level": 3
+    },
+    "6": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "Definitions ",
+        "level": 2
+    },
+    "7": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "Article (2) ",
+        "level": 2
+    },
+    "8": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "The following words and expressions, wherever mentioned in this Law, shall have the meaning indicated opposite each of them unless the context implies otherwise: ",
+        "level": 3
+    },
+    "9": {
+        "type": "table",
+        "page_idx": 0,
+        "text": "<table><tr><td>State:</td><td>The United Arab Emirates.</td></tr><tr><td>Emirate:</td><td>The Emirate of Dubai.</td></tr><tr><td>Ruler:</td><td>His Highness the Ruler of Dubai.</td></tr><tr><td>Government:</td><td>The Government of Dubai.</td></tr><tr><td>Centre:</td><td>Dubai International Financial Centre.</td></tr><tr><td>President:</td><td>The President of the Centre.</td></tr><tr><td>Governor:</td><td>The Governor of the Centre.</td></tr><tr><td>Centre&#x27;s Bodies:</td><td>Bodies established pursuant to Article (3) of this Law, and any other entities established by the other Centre&#x27;s</td></tr><tr><td>Higher Board of Directors</td><td>Laws or upon approval of the President. The Higher Board of Directors of the Centre formed pursuant to Article (3) of this Law.</td></tr><tr><td>Centre Authority:</td><td>The Dubai International Financial Centre Authority established pursuant to Article (3) of this Law.</td></tr><tr><td>Financial Services Authority:</td><td>Dubai Financial Services Authority established pursuant to Article (3) of this Law.</td></tr></table>",
+        "level": 3
+    },
+    "10": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Dispute Resolution Authority: ",
+        "level": 4
+    },
+    "11": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "The Dispute Resolution Authority established pursuant to Article (3) of this Law. ",
+        "level": 5
+    },
+    "12": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Centre's Courts: ",
+        "level": 4
+    },
+    "13": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "The Dubai International Financial Centre's Courts established pursuant to the Centre's Laws. ",
+        "level": 5
+    },
+    "14": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Arbitration Institute: ",
+        "level": 4
+    },
+    "15": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "The Dubai International Financial Centre Arbitration Institute established pursuant to the Centre's Laws. ",
+        "level": 5
+    },
+    "16": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Financial Services: ",
+        "level": 4
+    },
+    "17": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Banking and financial activities and services including insurance and reinsurance services, financial markets and financial and monetary brokerage services. ",
+        "level": 5
+    },
+    "18": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Services, Goods, and Products: ",
+        "level": 4
+    },
+    "19": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Includes, without limitation, materials, equipment, instruments, goods and services of whatever type or description. ",
+        "level": 5
+    },
+    "20": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Centre Establishments: ",
+        "level": 4
+    },
+    "21": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Any entity or business established, licensed, registered, or authorised to carry on business or activities in the Centre pursuant to the Centre's Laws, including Licensed Centre Establishments. ",
+        "level": 5
+    },
+    "22": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Licensed Centre Establishments: ",
+        "level": 4
+    },
+    "23": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Any entity or business which is licensed, registered, or authorised by the Financial Services Authority to carry on Financial Services and any other activities in accordance with the Centre's Laws. ",
+        "level": 5
+    },
+    "24": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Centre's Laws: ",
+        "level": 4
+    },
+    "25": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Any laws issued by the Ruler in relation to the Centre. ",
+        "level": 5
+    },
+    "26": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Centre's Regulations: ",
+        "level": 4
+    },
+    "27": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Any rules, regulations, bylaws, or orders relating to the Centre issued by the President or the Centre's Bodies. ",
+        "level": 5
+    },
+    "28": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Payment System: ",
+        "level": 4
+    },
+    "29": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "The mechanisms, procedures, and rules aimed to clear and settle payment orders and any activities and services relating to them. ",
+        "level": 5
+    },
+    "30": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "[as amended by Dubai Law No. 7 of 2014] ",
+        "level": 5
+    },
+    "31": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "The Centre Article (3) ",
+        "level": 2
+    },
+    "32": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "1. The Financial Free Zone, established in the Emirate and named \"Dubai International Financial Centre\", also known as \"DIFC\", shall have financial and administrative independence and shall be attached to the Government. ",
+        "level": 3
+    },
+    "33": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2. The Centre shall have a President appointed by a decree issued by the Ruler. ",
+        "level": 3
+    },
+    "34": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "3. The following bodies shall be established in the Centre: ",
+        "level": 3
+    },
+    "35": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "a. Dubai International Financial Centre Authority; b. Dubai Financial Services Authority; and C. Dispute Resolution Authority. ",
+        "level": 3
+    },
+    "36": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "The Centre shall maintain registers to register companies, transactions on real property and commercial transactions and other transactions including, without limitation, a real property register, mortgages register, and companies register. These registers shall be established and governed pursuant to the Centre's Laws.   \n5The Centre shall have a Higher Board of Directors which shall be chaired by the President, with the membership of persons renowned for their competence and expertise in the fields of financial services, banking, insurance, and capital markets. The members shall be appointed by decree issued by the Ruler. Members of the Higher Board of Directors must include the Governor, the chairmen of the boards of directors of the Centre Authority and Financial Services Authority in addition to the Head of the Dispute Resolution Authority.   \n6.The President shall be responsible for supervising the Centre's Bodies and coordinating between them, including formation of their boards of directors and consultant committees, without affecting the independence of the Centre's Bodies.   \nThe Higher Board of Directors shall convene at the invitation of its chairman at least twice a year and whenever necessary. The President shall have the power to determine the duties and mode of operation of the Board.   \n8The Higher Board of Directors may invite any person it deems appropriate to attend its meetings and may seek the opinion and assistance of any qualified or expert body or person provided that such person shall have no voting rights. ",
+        "level": 3
+    },
+    "37": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "[as amended by Dubai Law No. 7 of 2014] ",
+        "level": 4
+    },
+    "38": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Objectives of the Centre Article (4) ",
+        "level": 2
+    },
+    "39": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "The Centre shall have, without limitation, the following objectives: ",
+        "level": 3
+    },
+    "40": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1. To be a financial centre in the Emirate, based on principles of efficiency, transparency and integrity with a view to making an effective contribution to the international financial services industry;   \n2. To promote the position of the Emirate as a leading international financial centre; and   \n3. To develop the economy of the Emirate. ",
+        "level": 3
+    },
+    "41": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "President Article (5) ",
+        "level": 2
+    },
+    "42": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "In addition to the powers vested in the President by this Law, the President shall have the following duties and powers: ",
+        "level": 3
+    },
+    "43": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "2. To approve the strategies, policies and objectives of the Centre. To approve and submit the draft Centre's Laws to the Ruler for issuance.   \n3. To issue the Centre's Regulations considered by the President proper for realisation of the objectives of the Centre.   \n4. To appoint, remove and replace the chairman and members of the board of directors of the Centre Authority and to specify their duties, the terms of their service and their remuneration pursuant to the Centre's Laws and the Centre's Regulations.   \n5. To appoint, remove and replace the chairman and members of the board of directors of the Financial Services Authority and to specify their duties, the terms of their service and their remuneration pursuant to the Centre's Laws and the Centre's Regulations.   \n6. To establish any bodies, departments or boards with the aim to realise the objectives of the Centre, to specify their powers and duties and to cancel, merge and restructure any of them in a manner that realises the objectives of the Centre.   \n7. To perform any action he considers necessary to ensure proper management of the Centre.   \n8. To approve the annual budgets of the Centre's Bodies.   \n9. To establish advisory committees to provide support and advice, including a special committee to review legislative proposals from the Centre's Bodies. The President shall specify the duties, method of holding the meetings and method of operation of these committees and shall specify the remuneration of their members. ",
+        "level": 3
+    },
+    "44": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "Governor Article (5) bis ",
+        "level": 2
+    },
+    "45": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "1. The Governor shall be appointed and removed by decree issued by the Ruler upon proposal of the President.   \n2. The President shall specify the conditions of service, employment benefits and financial entitlements of the Governor.   \n3. Without prejudice to the independence of the Centre's Bodies pursuant to the Centre's Laws and the Centre's Regulations, the Governor shall have the following duties and powers: a. To propose strategies, policies and objectives relating to the Centre and to submit them to the Higher Board of Directors for adoption, and to follow up their implementation. b. To establish specialized committees and work teams for providing the necessary consultancy for realisation of the objectives of the Centre. c. To enter into agreements, contracts and memoranda of understanding with third parties in and outside of the State, in order to realise the objectives and to regulate the operations of the Centre, in consultation with the Centre's Bodies. d. To appoint, as he deems appropriate, experts and specialists on the conditions he deems appropriate to provide support and advice. e. To perform any other duties or powers assigned to him by the President except the duties and powers vested in the President. ",
+        "level": 3
+    },
+    "46": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "4. The Governor may not occupy simultaneously with his position as Governor any other position and shall not carry on any activity which may conflict with the objectives and policies of the Centre and this restriction shall not include performance of the duties relating to any position or post to which he is assigned or appointed by the Ruler or the President. ",
+        "level": 3
+    },
+    "47": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "Centre Authority Article (6) ",
+        "level": 2
+    },
+    "48": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "1. The Centre Authority shall have separate legal personality and may sue and be sued in this capacity.   \n2. The Centre Authority shall carry out its duties without interference from any of the other Centre's Bodies and is responsible for any matter assigned to it pursuant to the Centre's Laws and the Centre's Regulations.   \n3. The Centre Authority shall have an independent budget, and the Government shall allocate to the Centre Authority the necessary funds for exercising its duties and powers independently from other Centre's Bodies.   \n4. The Centre Authority shall have a board of directors who shall undertake supervision of the functions and activities of the Centre Authority, and who shall be responsible before the President for the functions of the Centre Authority. The board of directors shall, in addition to the duties and powers assigned to it by the Centre's Laws and subject to their provisions, undertake the following:   \na. To review and adopt strategies, policies and objectives relating to the Centre, excluding those over which other Centre's Bodies have exclusive jurisdiction under the Centre's Laws.   \nb. To prepare and submit to the President reports on the implementation of the strategies, policies and objectives of the Centre referred to in item (a) of this paragraph.   \nc. To propose and submit o the President the draft Centre's Laws falling within the jurisdiction of the Centre Authority.   \nd. To provide for public comment on the draft Centre's Laws and the Centre's Regulations falling within the jurisdiction of the Centre Authority.   \ne. To approve and issue the Centre's Regulations falling within the jurisdiction of the Centre Authority.   \nf. Upon approval of the President, to establish ancillary bodies and establishments to the Centre Authority, to specify their duties, and to delegate to them any of the powers of the Centre Authority identified by the Centre's Laws and the Centre's Regulations.   \ng. To approve acquisition, ownership, sale and lease of movable or immovable property including securities, to invest in and outside the Centre for realising the objectives of the Centre in accordance with the Centre's Laws and the Centre's Regulations, and to establish representative offices outside the State for promotion of the objectives, operations and various activities of the Centre.   \nh. To establish procedures and controls for the operation of bank accounts of the Centre Authority. Upon approval of the President, to obtain loans and financial facilities necessary for the implementation of the Centre Authority operations and to provide assets, equities and entitlements of the Centre Authority in securing such loans and financial facilities.   \ni. l pu oula we into contracts with third parties.   \nj. To review and approve financial statements and accounts of the Centre Authority, and to appoint auditors for the Centre Authority and to determine their fees.   \nk. To approve and submit to the President for approval the annual budget of the Centre Authority.   \n1. To approve fees and other financial charges received by the Centre Authority for services provided by it.   \nm. To appoint and remove the chief executive officer of the Centre Authority and to determine his duties, powers and remuneration, and to approve appointment of the executive staff members and to determine their remuneration upon proposal of the chief executive officer.   \nn. To delegate any of its powers provided by this Law to any employee of the Centre Authority.   \nO. To delegate any of the duties or powers of the Centre Authority to any government body in the Emirate or any of the other Centre's Bodies excluding the Centre's Courts, and to accept a delegation of duties or powers from any of the Centre's Bodies, excluding the Centre's Courts. ",
+        "level": 3
+    },
+    "49": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "5. The Centre Authority shall have a chief executive officer who shall have, subject to the Centre's Laws, the following duties and powers: ",
+        "level": 3
+    },
+    "50": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "a. To propose to, and submit for adoption by, the board of directors of the Centre Authority, the strategies, policies and objectives of the Centre, except for the matters that relate to other Centre's Bodies pursuant to the Centre's Laws, and to follow up their implementation.   \nb. To prepare final accounts and the draft annual budget of the Centre Authority and to submit them to the board of directors for approval.   \nc. To issue the procedures and standards for implementation of the strategies, policies and objectives of the Centre Authority adopted by the board of directors of the Centre Authority and to follow up their implementation.   \nd. To propose fees and other financial charges received by the Centre Authority in consideration of the services offered by it and to submit the same to the board of directors of the Centre Authority for approval, and to follow up collection of such fees and charges.   \ne. To agree with the Financial Services Authority on a consultation process concerning the Centre's Laws and the Centre's Regulations.   \nf. To provide infrastructure, buildings, administrative and municipal services, security, transportation, information telecommunication technology and any other services necessary for realisation of the objectives of the Centre.   \ng. To supervise and monitor the employees and delegates of the Centre Authority.   \nh. To monitor and supervise the Centre Establishments licensed, registered or authorised by the Centre Authority and to impose penalties on them, as provided by the Centre's Laws and the Centre's Regulations.   \ni. To develop relationships with the other free zones and with third parties in and outside the Emirate, for realisation of the objectives of the Centre Authority and regulation of its operations.   \nj. To facilitate operation of the Centre Establishments as per the Centre's Laws and the Centre's Regulations.   \nk. To provide all services to the Centre Establishments and to third parties having relationship with the Centre pursuant to the Centre's Laws and the Centre's Regulations.   \n1. To open and operate bank accounts for the Centre Authority pursuant to the powers vested in him in this respect by the board of directors of the Centre Authority.   \nm. To appoint and employ natural and legal persons in accordance with the Centre's Laws and the Centre's Regulations and the controls ",
+        "level": 3
+    },
+    "51": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "established by the board of directors of the Centre Authority in this respect. ",
+        "level": 4
+    },
+    "52": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "n. To perform any other duties or powers which may be delegated to him by the board of directors of the Centre Authority or which may be vested in him pursuant to the Centre's Laws. ",
+        "level": 4
+    },
+    "53": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "6. The Centre Authority shall keep confidential the information classified as confidential pursuant to the Centre's Laws and the Centre's Regulations which may be received by or disclosed to the Centre Authority or which may come to its notice in performance of its duties. Such information shall not be disclosed to third parties except in the cases permitted by the Centre's Laws and the Centre's Regulations. ",
+        "level": 3
+    },
+    "54": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "7. The Centre Authority is the entity in charge of establishing, regulating and developing the Payment System in the Centre and the board of directors of the Centre Authority may for this purpose: ",
+        "level": 3
+    },
+    "55": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "a. Issue the Centre's Regulations relating to the Payment System;   \nb. Make strategies and policies relating to development and operation of the Payment System and the methods necessary for the same and supervise its implementation;   \nc. License and register companies and establishments necessary for operation of the Payment System;   \nd. Carry out any other duties considered proper by the Centre Authority for operation of the Payment System pursuant to the prevailing international standards and regulations.   \ne. Agree with the Central Bank of the State on the Central Bank being delegated in respect of the duties or powers relating to the Payment System. ",
+        "level": 4
+    },
+    "56": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "The Financial Services Authority Article (7) ",
+        "level": 2
+    },
+    "57": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "1. The Dubai Financial Services Authority shall have separate legal personality and may sue and be sued in such capacity. ",
+        "level": 3
+    },
+    "58": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "The Financial Services Authority is the body solely responsible for the regulation of Financial Services in the Centre, excluding the Payment System, and for the regulation of activities related thereto, and it is responsible for any matter which falls within its jurisdiction pursuant to the Centre's Laws and the Centre's Regulations. ",
+        "level": 3
+    },
+    "59": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "3. The Financial Services Authority shall carry out its duties without interference from the other Centre's Bodies and is accountable directly to the President. ",
+        "level": 3
+    },
+    "60": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "4. The Financial Services Authority shall have an independent budget and the Government shall allocate to the Financial Services Authority the necessary funds for exercising its duties and powers independently from the other Centre's Bodies. ",
+        "level": 3
+    },
+    "61": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "5. The Financial Services Authority shall have a board of directors who shall undertake supervision of the duties and activities of the Financial Services Authority and who shall be responsible before the President. The members of the board of directors may be removed only by reason of their gross negligence, incapacity or misconduct in performance of their duties under the Centre's Laws. The board of directors shall carry out the duties and powers assigned to it under the Centre's Laws and the Centre's Regulations and in addition, subject to the Centre's Laws and the Centre's Regulations, it shall undertake the following: ",
+        "level": 3
+    },
+    "62": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "a. To appoint and remove the chief executive officer, to determine his duties and remuneration and to identify the structure, duties and conditions of service of the executive staff members of the Financial Services Authority.   \nb. To determine the infrastructure, buildings, administrative services and any other services necessary for the realisation of the objectives o the Financial Services Authority.   \nC. Tomake and adopt the strategies, policies and objectives relating o regulation of Financial Services, and any other activities pursuant to the Centre's Laws.   \nd. To prepare and submit to the President the necessary reports concerning implementation of the strategies, policies and objectives of the Financial Services Authority.   \ne. To propose and submit to the President the draft Centre's Laws cornng eulation Fincal Srvices n htivi ea to them and any other matter within the jurisdiction of the Financial Services Authority.   \nf. To approve and issue the Centre's Regulations concerning regulation of Financial Services and the activities relating to them, and concerning any other matter which may be within the jurisdiction of the Financial Services Authority pursuant to the Centre's Laws.   \ng. To provide for public comment on the draft Centre's Laws and the Centre's Regulations falling within the jurisdiction of the Financial Services Authority.   \nh. To supervise and monitor the performance of the chief executive officer of the Financial Services Authority.   \ni. Upon approval of the President, to establish ancillary bodies or establishments to the Financial Services Authority, to identify their duties and to delegate to them any of the powers vested in the Financial Services Authority by the Centre's Laws and the Centre's Regulations.   \nj. To review and approve financial statements and accounts of the Financial Services Authority and to appoint auditors for the Financial Services Authority and determine their fees.   \nk. To adopt and submit to the President for approval the annual budget of the Financial Services Authority.   \n1. To approve fees and other financial charges for services provided by the Financial Services Authority.   \nm. To establish controls and procedures concerning the bank accounts of the Financial Services Authority. Upon approval of the President, to obtain loans and financial facilities necessary for implementation of the operations of the Financial Services Authority and to provide assets, rights and entitlements of the Financial Services Authority as   \nn into contracts with third parties.   \n0. To delegate any of its powers provided by this Law to any employee of the Financial Services Authority.   \np. To delegate any of the duties and powers of the Financial Services Authority to the other Centre's Bodies, excluding the Centre's Courts, and to accept a delegation of duties or powers from any of the Centre's Bodies. ",
+        "level": 4
+    },
+    "63": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "6. The Financial Services Authority shall have a chief executive officer who shall undertake, subject to the Centre's Laws, the following duties and powers: ",
+        "level": 3
+    },
+    "64": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "a. To propose to, and submit for adoption by, the board of directors of the Financial Services Authority the strategies, policies and objectives of the Financial Services Authority, and to follow up the implementation of what has been adopted.   \nb. To prepare the draft financial statements and accounts and annual budget of the Financial Services Authority and to submit them to the board of directors for approval.   \nc. To propose fees and other financial charges received by the Financial Services Authority for services provided by it and to refer the same to the board of directors of the Financial Services Authority for approval.   \nd. To license, authorise and register the Licensed Centre Establishments in accordance with the Centre's Laws and the Centre's Regulations.   \ne. To monitor and supervise the Licensed Centre Establishments and to impose penalties on them, as provided by the Centre's Laws and the Centre's Regulations.   \nf. To supervise and monitor the employees and delegates of the Financial Services Authority.   \ng. To collect fees and financial charges charged for provision of services by the Financial Services Authority.   \nh. To open and operate the bank accounts for the Financial Services Authority pursuant to the powers vested in him in this respect by the board of directors of the Financial Services Authority.   \ni. To perform any duties which may be delegated to him by the board of directors of the Financial Services Authority or any powers which may be vested in him by the Centre's Laws.   \nj. To agree with the Centre Authority on a consultation process concerning the Centre's Laws and the Centre's Regulations.   \nk. To enter into contracts and agreements and to acquire and dispose of movable properties pursuant to the Centre's Laws.   \n1. To appoint and employ any natural or legal persons on the terms and conditions he considers appropriate for assisting him in carrying out his duties and powers. ",
+        "level": 4
+    },
+    "65": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "7. The Financial Services Authority shall keep confidential the information classified as confidential pursuant to the Centre's Laws and the Centre's Regulations which may be received by or disclosed to the Financial Services Authority or which may come to its notice in performance of its duties. Such information shall not be disclosed to third parties except in the cases permitted by the Centre's Laws and the Centre's Regulations. ",
+        "level": 3
+    },
+    "66": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Dispute Resolution Authority ",
+        "level": 2
+    },
+    "67": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Article (8) ",
+        "level": 2
+    },
+    "68": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "First: The Dispute Resolution Authority: ",
+        "level": 3
+    },
+    "69": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "1. The Dispute Resolution Authority shall be comprised of: ",
+        "level": 3
+    },
+    "70": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "b. the Cente's sitand ",
+        "level": 4
+    },
+    "71": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "c. any other tribunals or ancillary bodies established in accordance with Article 8(5)(b) of this Law. ",
+        "level": 4
+    },
+    "72": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "2. The Dispute Resolution Authority shall have separate legal personality and may sue and be sued in this capacity. ",
+        "level": 3
+    },
+    "73": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "3. The Dispute Resolution Authority shall carry out its duties and powers without interference from any of the other Centre's Bodies, and is responsible for any matter assigned to it pursuant to the Centre's Laws and the Centre's Regulations. ",
+        "level": 3
+    },
+    "74": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "4. The Dispute Resolution Authority shall have an independent and consolidated budget that includes the Centre's Courts budget, the Arbitration Institute budget and the budget of any other tribunals or ancillary bodies that may be established in accordance with Article 8(5)(b) of this Law. The Government shall allocate to the Dispute Resolution Authority the necessary funds independently from the other Centre's Bodies. ",
+        "level": 3
+    },
+    "75": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "5.The Chief Justice of the Centre's Courts shall be the Head of the Dispute Resolution Authority and shall be responsible for its administration. For this purpose, the Chief Justice of the Centre's Courts shall have the following powers and duties: ",
+        "level": 3
+    },
+    "76": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "a. preparing and submitting to the President the necessary reports concerning implementation of the strategies, policies, and objectives of the Dispute Resolution Authority;   \nb. subject to the approval of the President, establishing ancillary tribunals and establishments of the Dispute Resolution Authority, setting their duties and powers, and delegating to them any of the duties and powers of the Dispute Resolution Authority provided for by the Centre's Laws and the Centre's Regulations;   \nC. opening and operating bank accounts for the Dispute Resolution Authority and establishing procedures and controls for the operation of those bank accounts;   \nd. reviewing and approving financial statements and accounts of the Dispute Resolution Authority, and appointing auditors for the Dispute Resolution Authority and determining their fees;   \ne. approving the annual budget of the Dispute Resolution Authority and submitting it to the President for final approval; and   \nf. appointing any natural or legal persons in accordance with the terms and conditions he deems appropriate to assist the Dispute Resolution Authority in carrying out its duties and powers. ",
+        "level": 4
+    },
+    "77": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "6. The Dispute Resolution Authority may form an Advisory Committee, comprised of persons known for their competence and expertise in the areas of law and dispute resolution. The Advisory Committee shall be appointed by a resolution of the President upon the recommendation of the Chief Justice of the Centre's Courts and of the Board of Trustees of the Arbitration Institute. The Head of the Dispute Resolution Authority shall determine the duties, powers, and mode of operation of the Advisory Committee. ",
+        "level": 3
+    },
+    "78": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "Second: The Centre's Courts ",
+        "level": 3
+    },
+    "79": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "1. The Centre's Courts shall have separate legal personality, and may sue and be sued in this capacity.   \n2. The Centre's Courts shall have an independent budget and the Government shall allocate to the Centre's Courts the funds required to enable them to exercise their duties and powers independently from the Centre's Bodies.   \n3. The Centre's Courts shall have a Chief Justice and one or more Deputy Chief Justices known for their competence and expertise, and who shall be appointed by a decree issued by the Ruler.   \n4. The functions of the Centre's Courts shall be determined in accordance with the Centre's Laws, and they shall carry out their duties and powers pursuant to the Centre's Laws and the Centre's Regulations.   \n5. In addition to the duties and powers stated in any of the Centre laws and the Centre's Regulations, the Chief Justice of the Centre's Courts shall have the following duties and powers: a. to approve and issue the Centre's Regulations relating to the Centre's Courts; b. to prepare and approve the strategies, policies, and objectives of the Centre's Courts, and to prepare and submit to the President the necessary reports on implementation of these strategies, policies, and objectives; C. to approve the fees and charges for the services provided by the Centre's Courts; d. to establish the procedures and controls regulating the powers of entering into contracts with third parties and opening and operating bank accounts of the Centre's Courts; e. to appoint any natural or legal person the Chief Justice deems appropriate under the terms considered proper by him to enable the Centre's Courts to exercise their powers and to perform their duties. This excludes the judges of the Centre's Courts who shall be appointed by a decree issued by the Ruler; and f. to review and approve the financial statements and accounts of the Centre's Courts and to appoint auditors to the Centre's Courts and determine their fees.   \n6. The Courts of the Emirate shall have jurisdiction on crimes committed within the Centre.   \n7. The Centre's Courts shall have exclusive jurisdiction to interpret the Centre's ",
+        "level": 3
+    },
+    "80": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "Laws and the Centre's Regulations. ",
+        "level": 4
+    },
+    "81": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "Third: Arbitration Institute ",
+        "level": 3
+    },
+    "82": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "1. The Arbitration Institute shall have separate legal personality and may sue and be sued in this capacity. ",
+        "level": 3
+    },
+    "83": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "2. The Arbitration Institute shall have an independent budget and the Government shall allocate to the Arbitration Institute the necessary funds to enable it to perform its duties and powers independently from the Centre's Bodies. ",
+        "level": 3
+    },
+    "84": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "3. The Arbitration Institute shall perform its functions independently, in accordance with the Centre's Laws and the Constitution of the Arbitration Institute, which is promulgated by a resolution of the President. The duties and powers of the Head of the Dispute Resolution Authority in relation to the Arbitration Institute shall be limited to those set out in this Law and in the Constitution of the Arbitration Institute. ",
+        "level": 3
+    },
+    "85": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "4. The Arbitration Institute shall have a Board of Trustees comprised of a Chairperson and a number of members, including the Chief Executive of the Arbitration Institute, all of whom shall be independent of the Centre's Courts and all appointed by the Head of the Dispute Resolution Authority. ",
+        "level": 3
+    },
+    "86": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "5. The Board of Trustees shall have all the duties and powers required for the achievement of the objectives of the Arbitration Institute. In addition to the duties and powers assigned to it by the Centre's Laws and the Constitution of the Arbitration Institute, the Board of Trustees may engage in the following: ",
+        "level": 3
+    },
+    "87": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "a. the promotion of the Arbitration Institute as a hub for the settlement of domestic and international disputes, and of disputes arising out of treaties, by arbitration, mediation, and other forms of alternative dispute resolution mechanisms (ADR);   \nb. the preparation and issuance of rules and procedures required for regulating the administration of arbitration, mediation, and other forms of ADR;   \nc. the hosting of conferences, seminars, lectures, and other events relating to arbitration, mediation, and other forms of ADR;   \nd. the publication of books, journals, articles, and papers on arbitration, mediation, and other forms of ADR;   \ne. the provision of courses and accreditation for arbitrators, mediators, and other persons concerned with arbitration, mediation, and other forms of ADR ; and   \nf. entering into co-operation and joint venture agreements with any local, regional, or international centre, society or organisation specialized in arbitration and ADR.   \ng. review and approval of the financial statements and accounts of the Arbitration Institute and appointment of auditors and determining their fees.   \n6. The Board of Trustees may open and operate bank accounts for the Arbitration Institute, and shall establish procedures and controls for the operation of those bank accounts.   \n7. Any contracting party, located inside or outside the Centre, may contract for the services of the Arbitration Institute. ",
+        "level": 4
+    },
+    "88": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "[as amended by Dubai Law No. 7 of 2014] ",
+        "level": 4
+    },
+    "89": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "Licensed Centre Establishments Article (9) ",
+        "level": 2
+    },
+    "90": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "Licensed Centre Establishments may carry on financial and banking businesses, including Islamic financing and business, and other activities, as permitted by their licenses or registration, including the following: ",
+        "level": 3
+    },
+    "91": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "1. Financial and banking services including the business of investment and commercial banks, financing companies, wholesale trading and electronic banking.   \n2. Insurance, re-insurance and insurance brokerage services including property and casualty insurance and other kinds of insurance and any other related services.   \n3. The trading of, and advising on, securities, commodities and derivatives, and other related financial services.   \n4. Money management services, investment services and investment fund services for the purpose of financing projects and providing capital for companies and establishments in all fields of investment.   \nPension funds, investment funds and trust services. Brokerage, clearing, settlement and custody services.   \n7. Investment services for all business and activities carried on in the Centre.   \n8. Legal, auditing and accounting, and any other services ancillary to financial and banking businesses and activities.   \n9. Supporting, and assisting works and services and classification services and all forms of information services for financial and banking businesses and activities. ",
+        "level": 3
+    },
+    "92": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "Centre Establishments Article (10) ",
+        "level": 2
+    },
+    "93": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "Centre Establishments shall carry out their activities in accordance with the Centre's Laws, Centre's Regulations and the licenses issued to them. Centre Establishments may be located in the Emirate outside the Centre for a period not exceeding four years from the date of the establishment of the Centre and in accordance with the conditions and restrictions determined by the Centre Authority and, in the case of Licensed Centre Establishments, the Financial Services Authority. For the purposes of this Article, practicing such activities and business outside the Centre shall be deemed as if conducted within the Centre, and shall be subject to the Centre's Laws and the Centre's Regulations. ",
+        "level": 3
+    },
+    "94": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "Centre Activities Article (11) ",
+        "level": 2
+    },
+    "95": {
+        "type": "text",
+        "page_idx": 12,
+        "text": "Subject to the terms of Article 12 of this Law, the Centre's Laws and the Centre's Regulations, the Centre Authority may provide and deal in all kinds of services, products and goods from all sources whether local or foreign. ",
+        "level": 3
+    },
+    "96": {
+        "type": "text",
+        "page_idx": 13,
+        "text": "Prohibited Services and Goods Article (12) ",
+        "level": 2
+    },
+    "97": {
+        "type": "text",
+        "page_idx": 13,
+        "text": "The Centre Authority shall prepare a list of services, products and goods prohibited in the Centre that may include, without limitation, the following: ",
+        "level": 3
+    },
+    "98": {
+        "type": "text",
+        "page_idx": 13,
+        "text": "1. Services, products and goods contradictory to the Centre's Laws and the Centre's Regulations.   \n2. Services, products and goods that are prohibited by the laws applicable in the Emirate. Products and goods carrying inscriptions, drawings, trademarks or signs considered to contradict religious teachings and beliefs or public morals.   \n4. Any service or activity resulting in illegal competition. ",
+        "level": 3
+    },
+    "99": {
+        "type": "text",
+        "page_idx": 13,
+        "text": "Laws Applicable in the Centre Article (13) ",
+        "level": 2
+    },
+    "100": {
+        "type": "text",
+        "page_idx": 13,
+        "text": "1. The Centre's Bodies and Centre Establishments shall carry on its commercial activities in accordance with the Centre's Laws and the Centre's Regulations. ",
+        "level": 3
+    },
+    "101": {
+        "type": "text",
+        "page_idx": 13,
+        "text": "2. The Centre, the Centre's Bodies, the Centre Establishments, and their employees and their delegates shall not be governed, in relation to matters within the jurisdiction of the Centre, by the laws of the Emirate and the regulations and resolutions of any local government body, except as may be provided by a special provision in such laws, regulations or resolutions that they shall apply in the Centre. ",
+        "level": 3
+    },
+    "102": {
+        "type": "text",
+        "page_idx": 13,
+        "text": "3. The Governor, the Centre's Bodies, the members of the boards of directors, the employees appointed by the President, the Governor or the Centre's Bodies, and their delegates, shall not be liable to third parties for any act or omission committed in relation to carrying out their duties and powers identified by the Centre's Laws and the Centre's Regulations, unless it is established that such act or omission is committed in bad faith. ",
+        "level": 3
+    },
+    "103": {
+        "type": "text",
+        "page_idx": 13,
+        "text": "4. The Centre's Bodies may, for the realisation of their objectives, develop relationships, cooperate and coordinate with third parties in and outside the Emirate and may to that end enter into agreements, contracts and memoranda of understanding. ",
+        "level": 3
+    },
+    "104": {
+        "type": "text",
+        "page_idx": 13,
+        "text": "Tax Relief Article (14) ",
+        "level": 2
+    },
+    "105": {
+        "type": "text",
+        "page_idx": 13,
+        "text": "The Centre's Bodies and Centre Establishments and their employees shall be subject to a zero rate of tax for 50 (fifty) years from the date of enactment of this Law, including the income tax relating to their operations inside the Centre. The zero rate of tax will also extend to transfers of assets or profits or salaries in any kind of currency to any party outside the Centre for 50 (fifty) years from the date of enactment of this Law. It is permitted to renew this period for a similar period upon issuance of a resolution by the Ruler. ",
+        "level": 3
+    },
+    "106": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "Further Relief Article (15) ",
+        "level": 2
+    },
+    "107": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "1. Moneys and activities of the Centre's Bodies and Centre Establishments shall not be subject to any nationalisation procedures or any restrictions in regard to their personal ownership.   \n2. All companies incorporated within the Centre may be fully owned by persons or entities which are not nationals of or domiciled in the State. ",
+        "level": 3
+    },
+    "108": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "The Centre's Employees Article (16) ",
+        "level": 2
+    },
+    "109": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "The Centre's Bodies and Centre Establishments may employ or use any person provided that they shall not be nationals of countries boycotted by the State. ",
+        "level": 3
+    },
+    "110": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "Liabilities Article (17) ",
+        "level": 2
+    },
+    "111": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "The Government and the President shall not be liable for any obligations arising out of the operation of the Centre or the exercise by them of any power, duty or function under this Law or the Centre's Laws and the Centre's Regulations. ",
+        "level": 3
+    },
+    "112": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "Customs Duties Article (18) ",
+        "level": 2
+    },
+    "113": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "The Centre Bodies and Centre Establishments shall be exempt from custom duties on all products and goods imported by them for the purpose of their works in the Centre unless such goods are imported for trade. ",
+        "level": 3
+    },
+    "114": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "Concluding Provisions Article (19) ",
+        "level": 2
+    },
+    "115": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "As from the date of enactment of this Law the Centre Authority shall acquire and assume all the assets and rights of the Dubai International Financial Centre Authority established under Law No. (3) of 2002, and the Centre Authority shall assume all the liabilities of the Dubai International Finance Centre Authority referred to above. ",
+        "level": 3
+    },
+    "116": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "Article (20) ",
+        "level": 2
+    },
+    "117": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "Any text in any other Law to the extent that it contradicts this Law shall be repealed. ",
+        "level": 3
+    },
+    "118": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "Article (21) ",
+        "level": 2
+    },
+    "119": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "This law shall replace Law no.(3of 2002 establishing the Dubai International Financial Centre. ",
+        "level": 3
+    },
+    "120": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "Article (22) ",
+        "level": 2
+    },
+    "121": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "This Law shall come into effect upon signature, and shall be published in the Official Gazette. ",
+        "level": 3
+    },
+    "122": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "Mohammed Bin Rashid Al Maktoum ",
+        "level": 2
+    },
+    "123": {
+        "type": "text",
+        "page_idx": 14,
+        "text": "Ruler of Dubai ",
+        "level": 2
+    }
+}

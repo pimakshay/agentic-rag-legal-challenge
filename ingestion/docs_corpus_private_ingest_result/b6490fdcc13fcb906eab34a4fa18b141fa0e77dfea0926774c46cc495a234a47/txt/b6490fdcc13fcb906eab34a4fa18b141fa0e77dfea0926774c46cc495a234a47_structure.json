@@ -1,0 +1,632 @@
+{
+    "0": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "Dubai International Financial Centre ",
+        "level": 1
+    },
+    "1": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "CONSULTATION PAPER NO. 4 ",
+        "level": 2
+    },
+    "2": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "May 2019 ",
+        "level": 3
+    },
+    "3": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "level": 1
+    },
+    "4": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "CONSULTATION PAPER NO. 4 PROPOSED PRESCRIBED COMPANY REGULATIONS ",
+        "level": 1
+    },
+    "5": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Why are we issuing this paper? ",
+        "level": 2
+    },
+    "6": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "1. The Dubai International Financial Centre Authority (“DIFCA”) proposes to enact new Prescribed Company Regulations to consolidate, replace and expand the Special Purpose Company Regulations (the “Current Regulations”) and the Intermediate Special Purpose Company regime approved by the Board of the DIFCA on 19 September 2016 (the “ISPV Regime”). This Consultation Paper No. 4 of 2019 (“Consultation Paper”) seeks public comments on the proposed new Prescribed Company Regulations (the “Proposed Regulations”). ",
+        "level": 3
+    },
+    "7": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Who should read this paper? ",
+        "level": 2
+    },
+    "8": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2. This Consultation Paper would be of interest to persons conducting or proposing to conduct business in the DIFC. In particular: ",
+        "level": 3
+    },
+    "9": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "(a) Registered Persons;   \n(b) shareholders, directors, partners, officers, senior executive officers and employees of Registered Persons;   \n(c) Corporate Service Providers; and   \n(d) legal advisors to any of the above. ",
+        "level": 4
+    },
+    "10": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "How to provide comments ",
+        "level": 2
+    },
+    "11": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "3. All comments should be provided to the person specified below: ",
+        "level": 3
+    },
+    "12": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates   \nor e-mailed to: consultation@difc.ae ",
+        "level": 4
+    },
+    "13": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "4. You may choose to identify the organisation you represent in your comments. ",
+        "level": 3
+    },
+    "14": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "5. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "level": 3
+    },
+    "15": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "level": 1
+    },
+    "16": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2 ",
+        "level": 5
+    },
+    "17": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "What happens next? ",
+        "level": 2
+    },
+    "18": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "6. The deadline for providing comments on the proposals in this Consultation Paper is 7 June 2019.   \n7. Once we receive your comments, we will consider if any further refinements are required to the Proposed Regulations. Once DIFCA considers the Proposed Regulations to be in a suitable form, it will be enacted as a new DIFC Regulations to come in to force on a date specified and published.   \n8. The Proposed Regulations are in draft form only. You should not act on them until the Proposed Regulations are formally enacted. We will issue a notice on our website when this happens. ",
+        "level": 3
+    },
+    "19": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Defined terms ",
+        "level": 2
+    },
+    "20": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "9. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase and are defined in the Proposed Regulations. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "level": 3
+    },
+    "21": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Background ",
+        "level": 2
+    },
+    "22": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "10. Part 11 of the Companies Law DIFC Law No. 5 of 2018 (“Companies Law”) provides for the incorporation of, or conversion of existing companies into, prescribed types of companies (“Prescribed Companies”) to which the new Companies Law regime will apply. Specifically Article 132 of the Companies Law provides: ",
+        "level": 3
+    },
+    "23": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "“Incorporation of prescribed types of Company (1) A company may be incorporated as, or an existing Company may be converted to, a type of Company as specified in this Part or prescribed under the Regulations where such a type of Company is desirable in the interests of the DIFC. ",
+        "level": 4
+    },
+    "24": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "(2) The Board of Directors of the DIFCA may make Regulations: ",
+        "level": 4
+    },
+    "25": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "(a) prescribing: (i) such a type of Company; (ii) the circumstances in which such a Company may be incorporated or an existing Company may be converted, including any requirements for approval by another regulatory authority; ",
+        "level": 4
+    },
+    "26": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "level": 1
+    },
+    "27": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "3 ",
+        "level": 5
+    },
+    "28": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(iii) any requirements or restrictions in relation to such a Company’s articles of association or its constitution generally; ",
+        "level": 4
+    },
+    "29": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(iv) forms and procedures for the incorporation and administration of such a Company; and ",
+        "level": 4
+    },
+    "30": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(v) fees applicable to such a Company. ",
+        "level": 4
+    },
+    "31": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(b) extending, excluding, waiving or modifying the application of provisions of this Law, the Regulations or any other Legislation administered by the Registrar, with the exception of Part 1, Part 2 and Part 14 of this Law and Part 5 of the DIFC Operating Law, where considered necessary or desirable to facilitate the incorporation of, conversion to, and management and functions of, such a Company. ",
+        "level": 4
+    },
+    "32": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "Except where otherwise provided in the Regulations, this Law shall apply to a Company established pursuant to this Article.” ",
+        "level": 3
+    },
+    "33": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "11. Regulations have thus far been made under Part 11 of the Companies Law (and Part 10 of the former Companies Law DIFC Law No. 2 of 2009) in respect of three (3) types of Companies – Protected Cell Companies, Investment Companies and Special Purpose Companies. The Regulations in respect of Protected Cell Companies and Investment Companies were updated in 2018 which turned the DIFCA’s focus onto the Special Purpose Companies and the ISPV Regime. ",
+        "level": 3
+    },
+    "34": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "12. In addition, the new Operating Law (the “Operating Law”), Operating Regulations (the “Operating Regulations”) and the Ultimate Beneficial Ownership Regulations (the “UBO Regulations”) enacted in 2018 contain general provisions which apply to all DIFC entities that duplicate certain provisions of the Current Regulations. The opportunity will be taken to remove these duplications. ",
+        "level": 3
+    },
+    "35": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "Key Changes proposed ",
+        "level": 2
+    },
+    "36": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "13. The key changes in the Proposed Regulations include the following: ",
+        "level": 3
+    },
+    "37": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(a) expanding the qualifying requirements of persons who may have access to establishing Prescribed Companies under Part 11 of the Companies Law, as opposed to what was possible under the Current Regulations and the ISPV Regime; ",
+        "level": 4
+    },
+    "38": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(b) expanding the potential role of Corporate Service Providers in the establishment and annual reporting disclosures of Prescribed Companies; ",
+        "level": 4
+    },
+    "39": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(c) providing for specific reporting and disclosure requirements; ",
+        "level": 4
+    },
+    "40": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(d) consolidating and, in the case of intermediate special purpose vehicles, reducing the fees payable to the Registrar; and ",
+        "level": 4
+    },
+    "41": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(e) miscellaneous amendments. ",
+        "level": 4
+    },
+    "42": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "4 ",
+        "level": 5
+    },
+    "43": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "level": 1
+    },
+    "44": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Expanding the qualifying requirements ",
+        "level": 2
+    },
+    "45": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "14. The Current Regulations allow for a Special Purpose Company to be established in the DIFC for the purposes of a particular structured finance transaction (a Transaction) for the benefit of one party (the Initiator) in the context of certain stated Exempt Activities, including: ",
+        "level": 3
+    },
+    "46": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) the acquisition, holding and disposal of assets with and for the purpose of a Transaction;   \n(b) the obtaining of any type of financing;   \n(c) the granting of any type of security interest over assets;   \n(d) the providing of any indemnity or similar support for the benefit of shareholder;   \n(e) the entering into any type of hedging arrangements, in connection with and for the purpose of a Transaction;   \n(f) the financing of the Initiator or another Special Purpose Company;   \n(g) the acting as trustee or agent for any participant in the Transaction; ",
+        "level": 4
+    },
+    "47": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "15. Under the Current Regulations any person, could apply to establish a Special Purpose Company in the DIFC for the purposes set out above, without having a substantive presence in the Centre. In the Proposed Regulations the definition of what constitutes a Transaction (now called a ‘Structured Financing’) is much broader and the purposes for which a Prescribed Company can be established (referred to as ‘Qualifying Purposes’) have also been expanded to include Aviation Structures and Family Holding Structures. ",
+        "level": 3
+    },
+    "48": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "16. The DIFC, from its inception strived to be an onshore jurisdiction of substance, and has thus far shied away from allowing persons to establish offshore style special purpose vehicles in the DIFC without also having a substantive presence in the Centre, with the exception of Special Purpose Companies under the Current Regulations. However, the additional Qualifying Purposes have been added primarily for policy reasons to cater for the needs of new and existing DIFC entities to create: ",
+        "level": 3
+    },
+    "49": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) Aviation Structures - related to aviation financing and leasing in order to support Dubai’s vision to be an aviation hub in the Middle East; and   \n(b) Family Holding Structures – to consolidate the holdings of specific family members in a Family Office, Holding Company or Proprietary Investment Company in the DIFC. A separate Consultation Paper has been issued concurrently with this Consultation Paper on the proposed new Family Office Regulations which exempts Family Offices ",
+        "level": 4
+    },
+    "50": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "level": 1
+    },
+    "51": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "5 ",
+        "level": 5
+    },
+    "52": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "from being physically present in the DIFC if they have a substantial presence in the UAE. ",
+        "level": 4
+    },
+    "53": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "17. The same logic was also followed in respect of the qualifying applicants found under the ISPV Regime which permitted Single Family Offices, Holding Companies, Proprietary Investment Companies and DFSA regulated Fund Managers, already present in the DIFC, to also create intermediate special purpose companies in the Centre for the purpose of holding assets. The Proposed Regulations expand the number of Qualifying Applicants to also include: ",
+        "level": 3
+    },
+    "54": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(a) Fintech Entities, Foundations and Private Trust Companies that are already present in the DIFC;   \n(b) Authorised Firms and Funds (regulated by the DFSA or another financial services regulator from a Recognised Jurisdiction specified in the Proposed Regulations);   \n(c) Government or Government related entities in the UAE; and/or   \n(d) any entity wholly owned by any one or more of the above. ",
+        "level": 4
+    },
+    "55": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "18. Once again, this does not represent a material change of direction, as in most cases (except for Government Entities and Authorised Firms and Funds regulated elsewhere) the requirement is still that the Qualifying Applicants must already be physically present in the DIFC to make use of the regime suggested under the Proposed Regulations. These exceptions are also proposed on the basis that: ",
+        "level": 3
+    },
+    "56": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(a) Government Entities in the UAE (wherever they are based in the UAE) should be supported on the basis of a variety of current government initiatives that are assisting in diversifying and strengthening the UAE’s economy and in any event necessarily meet any reasonable view of substance; and   \n(b) substance related concerns are not the primary concern when dealing with Authorised Firms and Funds that are established and regulated in what are essentially Tier 1 jurisdictions with very high levels of regulation and requirements relating to substance. ",
+        "level": 4
+    },
+    "57": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "19. A key element in respect of Qualifying Applicants is that they (or a combination of Qualifying Applicants) should be in Control of the Prescribed Company established in the DIFC. The definition of “Control” in the Proposed Regulations is derived from the well-known definition of control from section 1124 of the UK’s Corporation Tax Act 2010 that deals with control (directly or indirectly) from a variety of angles, inclusive of holding shares, some form of voting power, or as a result of powers conferred by the Articles of Association or other document of the Prescribed Company or any other body corporate. The motivation for relying on the above definition was primarily for its broad acceptance as a general definition of control from a contracts drafting perspective, as well as to provide for certainty and allow for a fair amount of English Law precedent to be taken into consideration in the interpretation of Control. ",
+        "level": 3
+    },
+    "58": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "level": 1
+    },
+    "59": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "6 ",
+        "level": 5
+    },
+    "60": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Q1. Do you foresee any difficulties arising from the proposed expansion of the Qualifying Purposes and Qualifying Applicants that may establish a Prescribed Company? If so, how should they be addressed?   \nQ2. Do you agree with the expansion of what amounted to a Transaction within the context of an Exempt Activity under the Current Regulations to the expanded definition of a Structured Financing under the Proposed Regulations?   \nQ3. Are there any specific Qualifying Purposes or Qualifying Applicants that should in your opinion not be in the Proposed Regulations? If so, what are these?   \nQ4. Do you think the Qualifying Purposes and/or Qualifying Applicants should be expanded even further? If so, can you please specify these.   \nQ5. What are your views on the requirements and definition of Control? ",
+        "level": 2
+    },
+    "61": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Expanding the role of Corporate Service Providers ",
+        "level": 2
+    },
+    "62": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "20. The Proposed Regulations (in Regulations 3.3.2 and 4.3.4) seek to expand the potential role that Corporate Service providers may play in: ",
+        "level": 3
+    },
+    "63": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) filing documents or paying fees on behalf of Prescribed Companies;   \n(b) performing assessments or checks under Relevant Laws to ensure that Prescribed Companies Adhere to AML Requirements and Ultimate Beneficial Ownership (“UBO”) Regulations and provide certifications in this regard to the Registrar; and   \n(c) file reports, disclosures or confirmations on behalf of Prescribed Companies. ",
+        "level": 4
+    },
+    "64": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "21. In doing so, the Registrar (in Regulation 3.3.3) may in good faith rely on certifications provided by a Corporate Service Provider and take certain actions against a Corporate Service Provider if it fails to comply with its duties to the Registrar in accordance with agreed arrangements and AML and UBO Requirements of relevant legislation. ",
+        "level": 3
+    },
+    "65": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "22. In placing reliance on Corporate Service Providers to do certain assessments, confirmations and checks and make filings on behalf of applicants, the DIFCA seeks to follow trends in other jurisdictions where the majority of the interaction between the equivalent of the ",
+        "level": 3
+    },
+    "66": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "level": 1
+    },
+    "67": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "7 ",
+        "level": 5
+    },
+    "68": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Registrar of Companies (eg companies house or a company registration function) and filings takes place digitally with incorporation agents or registered agents. Also, reliance will be placed on the regulated status of Corporate Service Providers (especially from an AML related perspective) to ensure that they will perform all AML and UBO related assessments and checks properly. ",
+        "level": 4
+    },
+    "69": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "23. At the same time, the DIFCA is also aware that by relying on Corporate Service Providers to do some of the verification work that falls within the remit of the Registrar, care has been taken not to expand the potential liability of Corporate Service Providers beyond what is reasonable in the circumstances. As a consequence Regulations 3.3.3 and 4.3.5 make it very clear that a Corporate Service Provider’s liability for acting in breach of its duties under applicable law and/or any arrangement entered into with the Registrar is limited to what is provided for in Regulation 3.3.4, namely: ",
+        "level": 3
+    },
+    "70": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(a) revoking any arrangement with the Corporate Service Provider; (b) informing the DFSA, where relevant; and (c) informing law enforcement agencies where relevant. ",
+        "level": 4
+    },
+    "71": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "24. It should also be noted from Regulation 3.3.2 requires an “arrangement” to be put in place between the Registrar and a Corporate Service Provider. It is anticipated that the Registrar will either: ",
+        "level": 3
+    },
+    "72": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(a) enter into ad hoc agreements with specific Corporate Service Providers to fulfil certain duties in accordance with the Proposed Regulations; or   \n(b) issue general guidance to Corporate Service Providers on what requirements they need to meet to fulfil certain functions in accordance with the Proposed Regulations. ",
+        "level": 4
+    },
+    "73": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "25. The Proposed Regulations also do not include matters related to lodgement of documents and compliance with administrative requirements (as is the case with the Current Regulations) as these are now dealt with in the Operating Law and Operating Regulations. ",
+        "level": 3
+    },
+    "74": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Q6. What are your views on the Regulations allowing for the possibility of Corporate Service Providers making filings and providing certifications in respect of applicants?   \nQ7. Do you think the Registrar should be able to rely on certifications made by Corporate Service Providers, given their regulatory status with the DFSA? ",
+        "level": 2
+    },
+    "75": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "level": 1
+    },
+    "76": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "8 ",
+        "level": 5
+    },
+    "77": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Q8. Do you think the Regulations spell out clearly that Corporate Service Providers’ obligations and potential liability are limited to the actions that may be taken by the Registrar in Regulation 3.3.4? If not, how might they be improved? ",
+        "level": 2
+    },
+    "78": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "Specific reporting and disclosure requirements ",
+        "level": 2
+    },
+    "79": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "26. The Proposed Regulations classify Prescribed Companies as Small Private Companies and thus determines their basic reporting and disclosure requirements under the Relevant Laws, inclusive of Confirmation Statements. Prescribed Companies are proposed to also have an additional confirmation (in Regulation 4.3.1) in that it either: ",
+        "level": 3
+    },
+    "80": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(a) continues to be Controlled by one (1) or more Qualifying Applicants; or (b) continues to serve its Qualifying Purpose. ",
+        "level": 4
+    },
+    "81": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "27. The classification of a Prescribed Company as a Small Private Company also means that they would benefit from the exemption under Article 124(6) of the Companies Law 2018 to have their accounts audited and filed with the Registrar. ",
+        "level": 3
+    },
+    "82": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "28. Prescribed Companies that have a Structured Financing as its purpose (see Regulation 4.3.2) but do not have an Authorised Firm as a Transaction Party are also proposed to make additional confirmations as to the nature and purpose of their transaction to ensure that: ",
+        "level": 3
+    },
+    "83": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(a) it does not circumvent foreign ownership restrictions;   \n(b) it does not change the nationality of a shareholder or interest holder to avoid foreign investor requirements; or   \n(c) it does not avoid the imposition of any tax or duty as a consequence of the UAE nationality of the Prescribed Company. ",
+        "level": 4
+    },
+    "84": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "29. These confirmations will be provided by the Initiator and Directors of the Prescribed Company at application and then repeated annually by the Directors with each Confirmation Statement that is filed. The additional confirmations and obligations on the part of the Initiator and the Directors of such Prescribed Companies have been introduced to ensure that DIFC entities created for Structured Financings are not being used for any purposes that may be illegal or damage the reputation of the DIFC. However, these additional confirmations are restricted to instances where an Authorised Firm is not a Transaction Party, as DIFCA was of the view that there will be sufficient oversight in this regard from Authorised Firms to ensure that nothing untoward is done in this regard. ",
+        "level": 3
+    },
+    "85": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "level": 1
+    },
+    "86": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "9 ",
+        "level": 5
+    },
+    "87": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "Q9. Do you agree with the Small Private Company classification of Prescribed Companies and the reporting and disclosure requirements that this entails under the Relevant Legislation?   \nQ10. What are your views on the confirmations requested from Prescribed Companies in addition to those under the Small Private Company regime?   \nQ11. Do you agree with the additional confirmations requested from Initiators and Directors (in the latter case as an ongoing obligation) of Prescribed Companies that have a Structured Financing as its Qualifying Purpose in instances where an Authorised Firm is not involved as a Transaction Party? ",
+        "level": 2
+    },
+    "88": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "Miscellaneous ",
+        "level": 2
+    },
+    "89": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "30. The Proposed Regulations also have the flowing miscellaneous features: ",
+        "level": 3
+    },
+    "90": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(a) The requirement in the Current Regulations that a Special Purpose Company’s Corporate Service Provider should provide the majority of directors on the board of the Special Purpose Company has been removed in the Proposed Regulations. ",
+        "level": 4
+    },
+    "91": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(b) The requirement in the Current Regulations that a Special Purpose Company should have “Special Purpose Company” or the abbreviation “SPC” at the end of its name has been removed. in line with the requirement for Private Companies under the Relevant Laws. (See Regulation 3.4) ",
+        "level": 4
+    },
+    "92": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(c) A Prescribed Company’s registered office in the DIFC shall be either the Qualifying Applicant’s registered office in the DIFC or, in the case of Prescribed Companies with a Qualifying Purpose, the registered office in the DIFC of its Corporate Service Provider. (See Regulation 4.1.1) ",
+        "level": 4
+    },
+    "93": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(d) Prescribed Companies have been exempted from the requirements of Article 13(3) of the Operating Law and Regulation 2.1.4 of the Companies Regulations (both dealing with conducting and establishment of operations in the DIFC). (See Regulation 4.2) ",
+        "level": 4
+    },
+    "94": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(e) Prescribed Companies will now receive Licences, which was not the case in respect of Special Purpose Companies, but those related to Qualifying Purposes will have restricted Licences. (See Regulations 3.5.2, 3.5.3 and 3.5.4) ",
+        "level": 4
+    },
+    "95": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(f) The Registrar will need to follow Decision-Making Procedures in instances where it seeks to revoke a Prescribed Company’s status. (See Regulation 4.4.1) ",
+        "level": 4
+    },
+    "96": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(g) The incorporation and annual Licence fees have been consolidated and reduced to $\\$ 100$ and $\\$ 1,000$ respectively. (See Appendix 1) ",
+        "level": 4
+    },
+    "97": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "level": 1
+    },
+    "98": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "10 ",
+        "level": 5
+    },
+    "99": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "Q12. Do you have any issues, proposed amendments or other suggestions in respect of any of the miscellaneous changes proposed?   \nQ13. Are there any other issues, not included in the Proposed Regulations the subject of this Consultation Paper, which warrant attention? If so, what are they, and why, and how, should they be addressed?? ",
+        "level": 2
+    },
+    "100": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "Legislative Proposal ",
+        "level": 2
+    },
+    "101": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "31. This legislative proposal contains the following: ",
+        "level": 3
+    },
+    "102": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "(a) the Proposed Prescribed Companies Regulations (at Annex A);   \n(b) the Current Special Purpose Companies Regulations (at Annex B);   \n(c) a summary of the Board Paper setting out the requirements of the ISPV Regime (at Annex C)   \n(d) a table of comments to provide your views and comments on the consultation paper (at Annex D). ",
+        "level": 4
+    },
+    "103": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "level": 1
+    },
+    "104": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "11 ",
+        "level": 5
+    }
+}

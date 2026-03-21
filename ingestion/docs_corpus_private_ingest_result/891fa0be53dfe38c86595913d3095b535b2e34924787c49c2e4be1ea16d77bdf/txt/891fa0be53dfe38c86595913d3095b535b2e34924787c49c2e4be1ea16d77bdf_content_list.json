@@ -1,0 +1,1301 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            395,
+            349,
+            612,
+            397
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 1 ",
+        "text_level": 1,
+        "bbox": [
+            207,
+            548,
+            801,
+            583
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "February 2023 ",
+        "bbox": [
+            405,
+            597,
+            607,
+            621
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Venture Studio Regulations ",
+        "bbox": [
+            80,
+            647,
+            930,
+            733
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 1 ",
+        "text_level": 1,
+        "bbox": [
+            343,
+            67,
+            666,
+            85
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            323,
+            92,
+            690,
+            111
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Why are we issuing this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            127,
+            358,
+            144
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The Dubai International Financial Centre Authority (“DIFCA”) proposes to enact new Venture Studio Regulations (the “Proposed Regulations”) to establish the first global legal framework for the regulation of Venture Studios. The Proposed Regulations seek to enable, enhance and promote Venture Studios from within the DIFC. This Consultation Paper No. 1 of 2023 (“Consultation Paper”) seeks public comments on the Proposed Regulations. ",
+        "bbox": [
+            95,
+            157,
+            922,
+            268
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Who should read this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            288,
+            338,
+            306
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. This Consultation Paper would be of interest to persons conducting or proposing to conduct business in the DIFC. In particular: ",
+        "bbox": [
+            92,
+            320,
+            922,
+            361
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a. venture studios, co-founder and catalyst studios;   \nb. venture capital firms and other investors;   \nc. entrepreneurs and business founders;   \nd. Corporate Service Providers; and e. legal advisors to any of the above. ",
+        "bbox": [
+            153,
+            380,
+            604,
+            546
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How to provide comments ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            568,
+            314,
+            584
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. All comments should be provided to the person specified below: ",
+        "bbox": [
+            90,
+            599,
+            688,
+            617
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates   \nor e-mailed to: consultation@difc.ae ",
+        "bbox": [
+            153,
+            636,
+            484,
+            767
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. You may choose to identify the organisation you represent in your comments. ",
+        "bbox": [
+            87,
+            786,
+            799,
+            804
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "bbox": [
+            92,
+            823,
+            919,
+            863
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            611,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "What happens next? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            71,
+            269,
+            86
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. The deadline for providing comments on the proposals in this Consultation Paper is 19 March 2023. ",
+        "bbox": [
+            92,
+            102,
+            919,
+            141
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. Once we receive your comments, we will consider if any further refinements are required to the Proposed Regulations. Once DIFCA considers the Proposed Regulations to be in a suitable form, they will be enacted as new DIFC Regulations to come in to force on a date specified and published. ",
+        "bbox": [
+            92,
+            160,
+            922,
+            247
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8. The Proposed Regulations are in draft form only. You should not act on them until they are formally enacted. We will issue a notice on our website when this happens. ",
+        "bbox": [
+            89,
+            264,
+            917,
+            307
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            328,
+            215,
+            344
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase, or are defined in the Proposed Regulations. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "bbox": [
+            92,
+            359,
+            922,
+            446
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            469,
+            198,
+            485
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. In April 2022, the DIFCA announced the launch of the first global “Venture Studio Launchpad” to assist with the growth of the DIFC’s financial ecosystem (the link to press release can be accessed here: Link). In particular, the DIFCA aims to be a growth partner and business enabler to venture studios, allowing them to set up and scale from the DIFC. In doing so, the DIFCA also further supports the growth of start-up businesses in and from the Centre. ",
+        "bbox": [
+            94,
+            507,
+            922,
+            616
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11. The Proposed Regulations, therefore, provide the legal and regulatory framework under which venture studios, and similar arrangements, and any “spin-off” entities formed by venture studios, can establish and operate in the DIFC. ",
+        "bbox": [
+            94,
+            633,
+            920,
+            697
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "12. By way of high-level overview, the venture studio model under the Proposed Regulations enables venture studios to establish a company in the DIFC that acts as both a holding and operating vehicle (a “Venture Studio”), licensed to incubate new business ideas (each a “Venture”) and, if they reach a minimum viable product (“MVP”) stage, to convert the Ventures to newly incorporated Venture Studio entities (each a “Venture Studio Company”). ",
+        "bbox": [
+            95,
+            716,
+            920,
+            825
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            611,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            890,
+            934,
+            904,
+            945
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "13. The Proposed Regulations are issued pursuant to Article 132 (Incorporation of prescribed types of company) of the DIFC Companies Law, No. 5 of 2018 (“Companies Law”), which provides for the incorporation of, or conversion of existing companies into, prescribed types of companies. Regulations have thus far been issued pursuant to Article 132 of the Companies Law in respect of three types of company: ",
+        "bbox": [
+            95,
+            66,
+            920,
+            175
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) Protected Cell Companies;   \n(b) Investment Companies; and   \n(c) Prescribed Companies (a form of special purpose company that may be established in the DIFC by Qualifying Applicants or for a Qualifying Purpose). ",
+        "bbox": [
+            151,
+            193,
+            920,
+            286
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14. Venture Studios and Venture Studio Companies will also be deemed to be a prescribed type of company under Article 132 of the Companies Law, i.e. regulated under the Proposed Regulations in respect of certain obligations, benefits, exemptions or fee concessions but otherwise subject to the provisions of Companies Law. ",
+        "bbox": [
+            94,
+            295,
+            920,
+            382
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key features of the Proposed Regulations ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            404,
+            444,
+            422
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15. The key aspects of the proposal include the: ",
+        "bbox": [
+            94,
+            444,
+            523,
+            461
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) qualifying requirements for applicants wishing to establish a Venture Studio;   \n(b) permitted activities of a Venture Studio;   \n(c) legal status of Ventures;   \n(d) sponsorship of Entrepreneurs by Venture Studios;   \n(e) conversion of successful Ventures into Venture Studio Companies, or otherwise their termination;   \n(f) ongoing obligations of a Venture Studio in respect of Venture Studio Companies; (g) requirements applicable for an entity to maintain its Venture Studio Company status; (h) registered office requirements of Venture Studios and Venture Studio Companies; (i) reporting and disclosure requirements of Venture Studios and Venture Studio Companies;   \n(j) revocation of status of a Venture Studio or Venture Studio Company licence; and (k) other miscellaneous features. ",
+        "bbox": [
+            151,
+            478,
+            920,
+            823
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Qualifying requirements for a Venture Studio ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            836,
+            469,
+            852
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "16. In order to establish a Venture Studio, an applicant must satisfy the Registrar that the Venture Studio will be Controlled by a Qualifying Applicant. ",
+        "bbox": [
+            94,
+            866,
+            919,
+            908
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            890,
+            935,
+            902,
+            945
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            611,
+            43,
+            915,
+            59
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "17. A Qualifying Applicant is defined as: ",
+        "bbox": [
+            94,
+            67,
+            456,
+            84
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“any person(s) that can satisfy the Registrar that it has sufficient experience and resources to conduct venture building as a business.” ",
+        "bbox": [
+            144,
+            103,
+            919,
+            136
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "18. The reason for implementing a Qualifying Applicant requirement is owing to the level of experience required by a Venture Studio to effectively carry out the legal, governance and compliance functions on behalf of itself, the Ventures that it sponsors (see Regulation 3.3 of the Proposed Regulations and paragraph 23 below for further details) and the Venture Studio Companies that it incorporates (see Regulation 3.5.2(b) of the Proposed Regulations and paragraph 30 below for further details). It is also the DIFCA’s view that these activities require sufficient resources. ",
+        "bbox": [
+            94,
+            147,
+            920,
+            300
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q1. What are your views on the criteria for being deemed a Qualifying Applicant? What level of resources do you consider appropriate for the Venture Studio activity? ",
+        "bbox": [
+            92,
+            323,
+            920,
+            364
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q2. Do you think any other criteria is necessary or desirable? ",
+        "bbox": [
+            94,
+            381,
+            671,
+            400
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Permitted activities of a Venture Studio ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            445,
+            420,
+            461
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "19. As indicated at paragraph 12 above, a Venture Studio is intended to act as both: (i) an operating vehicle to incubate and develop business ideas in the form of Ventures; and (ii) a holding vehicle for holding shares or other interests in successful Ventures that it has converted into Venture Studio Companies. This is reflected at Regulation 3.2.1. of the Proposed Regulations. ",
+        "bbox": [
+            94,
+            476,
+            920,
+            584
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "20. Additionally, unless permitted otherwise by the Registrar, a Venture Studio is only permitted to sponsor twenty (20) Ventures and have responsibility for ten (10) Venture Studio Companies at any one time (see further comments at paragraph 30 below in respect of a Venture Studio’s responsibilities in respect of a Venture Studio Company). The reason for this is to ensure that a Venture Studio can maintain, and provide adequate, legal, compliance and governance support to the relevant Ventures and Venture Studio Companies. Further, from a practical perspective, we understand that, on an annual basis, Venture Studios typically do not incubate more than twenty different business ideas, nor convert more than ten such business ideas into corporate entities. ",
+        "bbox": [
+            92,
+            603,
+            920,
+            801
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q3. Do you agree with the limit on the number of Ventures and Venture Studio Companies that a Venture Studio can sponsor and incorporate at any one time? If not, please provide a detailed explanation for your views. ",
+        "bbox": [
+            92,
+            824,
+            919,
+            887
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            611,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            946
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Legal status of Ventures ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            100,
+            299,
+            117
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. Regulation 3.3 of the Proposed Regulations provides that a Venture must be sponsored by a Venture Studio through the filing of an application and Venture Sponsorship Agreement with the Registrar. The Venture Studio may then apply for a commercial permission in respect of the Venture and sponsor Entrepreneurs for UAE residency purposes to develop the Venture (see from paragraph 24 below for further comments with regard to visa sponsorship). ",
+        "bbox": [
+            92,
+            130,
+            920,
+            241
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "22. A Venture is a business or business idea that is being developed to see if it can reach MVP stage, but that may also be unsuccessful and terminated. It is therefore considered undesirable for Ventures to go through an establishment, and potential wind-up process, during this early stage of business inception. Consequently, a Venture is not established as an incorporated entity but instead is sponsored pursuant to a commercial permission issued to the Venture Studio for the development of the Venture’s business idea. The life cycle of a Venture is anticipated to be relatively short, with the assessment of a Venture’s feasibility (and therefore whether it will be converted into a Venture Studio Company) typically taking place within six to 12 months. Accordingly, under Regulation 3.4, a commercial permission is issued for one year only, extendable for one further year at the Registrar’s sole discretion. ",
+        "bbox": [
+            94,
+            257,
+            919,
+            479
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "23. Additionally, pursuant to Regulation 3.3.3, the Venture is not deemed to have separate legal personality from the sponsoring Venture Studio, and during the term of sponsorship the Venture Studio is responsible for: ",
+        "bbox": [
+            92,
+            497,
+            919,
+            561
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a. ensuring the Venture adheres to the requirements of Applicable Laws or a commercial permission; and   \nb. performing the terms and conditions of any Capital Raising for the Venture and any other contracts or arrangements that the Venture may enter into with third parties.   \nQ4. Do you agree that a commercial permission should only be issued for one (1) year in respect of a Venture? If not, please provide detailed reasons.   \nQ5. Do you foresee any issues with the unincorporated nature of the Venture and the proposed legal and regulatory responsibility of the Venture Studio? If so, please provide detailed responses. ",
+        "bbox": [
+            151,
+            579,
+            919,
+            681
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            611,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Sponsorship of Entrepreneurs and Ventures by a Venture Studio ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            70,
+            634,
+            87
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "24. In terms of staffing and visa requirements, the expectation is that Venture Studios will have their own permanent employees engaged in the running of the Venture Studio and who, to varying degrees, may also be involved with the development of Ventures. Such employees will be subject to the usual employment requirements under the DIFC Employment Law. ",
+        "bbox": [
+            94,
+            102,
+            920,
+            187
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "25. Additionally, Venture Studios will need to be able to obtain residency visas for Entrepreneurs engaged in developing the Ventures. Whilst Entrepreneurs may be hired as employees of the Venture Studio (falling within the scope of the DIFC Employment Law), the DIFCA recognises the practical need for Venture Studios to hire Entrepreneurs on a short time basis and solely for the purpose of developing a particular Venture. Therefore, Entrepreneurs may be: ",
+        "bbox": [
+            94,
+            205,
+            920,
+            336
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) sponsored for UAE residency purposes by the Venture Studio pursuant to a Venture Sponsorship Agreement that must be filed with the Registrar (see Regulation 3.3.1 of the Proposed Regulations); and   \n(b) hired as consultants or contractors for services (falling outside of the scope of the DIFC Employment Law) by the Venture Studio (see Regulation 3.3.6 of the Proposed Regulations). ",
+        "bbox": [
+            151,
+            355,
+            920,
+            501
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "26. Venture Studios are also restricted from hiring more than five (5) Entrepreneurs per Venture (see Regulation 3.3.2(b)). ",
+        "bbox": [
+            94,
+            519,
+            919,
+            560
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "27. To the extent a Venture is successful and converted to a Venture Studio Company, the visas may be transferred to the Venture Studio Company, whereupon the Entrepreneurs must become sponsored by that entity. If this is on a permanent basis, then the Entrepreneurs should be hired as Employees falling within the scope of the DIFC Employment Law. Alternatively, if the Venture is not successful, then the relevant Entrepreneurs’ visas must be cancelled. Pursuant to Regulation 3.4.4 of the Proposed Regulations, the Venture Studio must also notify the Registrar of the expiration or termination of the Venture Sponsorship Agreement, as applicable. ",
+        "bbox": [
+            92,
+            578,
+            920,
+            755
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Q6. Do you foresee any circumstances where a Venture would require more than five (5) Entrepreneurs working with it towards MVP stage? If so, what do you consider an appropriate maximum number of Entrepreneurs per Venture and why?   \nQ7. Do you consider that any other arrangements for sponsoring Entrepreneurs are required? ",
+        "bbox": [
+            92,
+            776,
+            920,
+            899
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            611,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conversion of successful Ventures into Venture Studio Companies, or otherwise their termination ",
+        "text_level": 1,
+        "bbox": [
+            97,
+            70,
+            912,
+            87
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "28. Where a Venture has been successfully developed to the point where the product or service is ready for market, the Venture Studio may “convert” or incorporate the Venture into a Venture Studio Company (see Regulation 3.5.1 of the Proposed Regulations). Whilst subsequent share transfers may take place to enable investment into the Venture Studio Company and/or reflect any agreement regarding share ownership with an Entrepreneur/founder, DIFCA is aware that Venture Studios wish to convert successful Ventures into Venture Studio Companies as quickly as possible. Therefore, to streamline incorporation and compliance requirements, establishment by the Venture Studio is deemed the most efficient way of achieving this objective. ",
+        "bbox": [
+            94,
+            100,
+            920,
+            300
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "29. Regulation 3.4 provides that in the event that the Venture is unsuccessful, the Venture Studio must terminate both the Venture Sponsorship Agreement (and notify the Registrar of this) and the residency visa of each Entrepreneur identified in the agreement. The Venture Studio must then cease to work with and develop the Venture any further. ",
+        "bbox": [
+            92,
+            318,
+            920,
+            406
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Q8. Do you agree that Venture Studios should act as the sole applicant (and initially the sole shareholder) of Venture Studio Companies? If not, please provide a detailed explanation. ",
+        "bbox": [
+            92,
+            426,
+            920,
+            489
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ongoing obligations of a Venture Studio in respect of Venture Studio Companies ",
+        "text_level": 1,
+        "bbox": [
+            85,
+            526,
+            759,
+            543
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "30. Owing to the start-up nature of Venture Studio Companies, Venture Studios have an ongoing role in helping to develop the business of Venture Studio Companies and also to provide the benefit of its experience in terms of growing the business, meeting compliance and regulatory standards and implementing proper governance. Therefore, pursuant to Regulation 3.5.2(b), a Venture Studio must also undertake to, or satisfy, the Registrar that during the Start-up Period of any Venture Studio Company it has established (or in respect of any subsidiary that the Venture Studio Company may establish in the DIFC), that such entity: ",
+        "bbox": [
+            95,
+            558,
+            922,
+            712
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) adheres to all AML and UBO Requirements and other requirements of the Relevant Laws;   \n(b) carries out all compliance, governance and regulatory obligations, filings or other requirements pursuant to any requirements of Applicable Law; and   \n(c) complies with the requirements of Regulation 3.6.1 setting out certain restrictions on Venture Studio Companies (see paragraph 33 below for further details in this regard). ",
+        "bbox": [
+            163,
+            730,
+            920,
+            912
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            611,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "31. The Registrar may in good faith rely on certifications provided by a Venture Studio and take certain actions against a Venture Studio if it fails to comply with these duties, including: i) revoking the Venture Studio’s status; or ii) informing the DFSA or any other law enforcement authority as may be applicable (see Regulation 3.5.4 of the Proposed Regulations). ",
+        "bbox": [
+            94,
+            66,
+            920,
+            153
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Q9. Do you agree that a Venture Studio should have compliance and regulatory responsibility for Venture Studio Companies during the start-up period? If not, please provide a detailed explanation. ",
+        "bbox": [
+            95,
+            173,
+            920,
+            222
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Requirements applicable for an entity to maintain its Venture Studio Company status ",
+        "text_level": 1,
+        "bbox": [
+            87,
+            258,
+            791,
+            276
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "32. Owing to a Venture Studio Company’s unique characteristics - its start-up nature, oversight by a Venture Studio during its Start-up Period and the benefits available to Venture Studio Companies (e.g. shared office space, reduced fees and disclosure requirements) - certain restrictions apply to the way in which a Venture Studio Company may be constituted, governed and operated. ",
+        "bbox": [
+            94,
+            289,
+            920,
+            399
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "33. In particular, pursuant to Regulation 3.6.1: “a Venture Studio Company shall: ",
+        "bbox": [
+            89,
+            418,
+            794,
+            435
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) have a term not exceeding the Start-up Period;   \n(b) have no more than ten (10) shareholders;   \n(c) have no more than twenty (20) Employees; and   \n(d) not undertake any Capital Raisings that are in aggregate in excess of ten million United States Dollar (USD 10,000,000).” ",
+        "bbox": [
+            153,
+            453,
+            922,
+            576
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "34. A Venture Studio Company may apply to the Registrar for an exemption in relation to these restrictions, with any such exemption being granted at the Registrar’s sole discretion. ",
+        "bbox": [
+            94,
+            586,
+            920,
+            628
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "35. The restrictions relate to the trigger points that would, in DIFCA’s view, indicate that a Venture Studio Company is no longer in need of, or should no longer benefit from, its Venture Studio Company status. For example, Capital Rasing in excess of USD 10,000,000 or an excess of ten shareholders or 20 employees, would suggest that a Venture Studio Company has, or should have, become sophisticated and/or large enough to re-licence as a non-prescribed form of company under the DIFC Companies Law. Similarly, the Start-up Period of twentyfour months has been specified on the basis that a Venture Studio Company should within two years be sufficiently established to no longer require Venture Studio oversight. ",
+        "bbox": [
+            102,
+            644,
+            920,
+            823
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            611,
+            43,
+            915,
+            59
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "36. Upon the expiry of a Venture Studio Company’s Start-up Period (i.e. a period of 24 months from the date of its incorporation, and any extension to that period that may be granted by the Registrar on an exemption basis under Regulation 3.6.2), the Venture Studio will automatically convert to a Private Company, i.e. it will lose its Venture Studio Company status and be required to adhere to all the requirements under the Companies Law and other DIFC legislation (see Regulation 3.7). ",
+        "bbox": [
+            94,
+            66,
+            919,
+            197
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "37. In the event that a Venture Studio Company no longer complies with the requirements set out at Regulation 3.6.1(b), (c) or (d) of the proposed regulations (relating to the employee, shareholder and capital raising limits), and where no applicable exemption has been granted, either: ",
+        "bbox": [
+            92,
+            214,
+            920,
+            300
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) a Venture Studio Company may apply to the Registrar to change its status to that of a Private Company; or (b) the Registrar may revoke a Venture Studio Company’s status. ",
+        "bbox": [
+            151,
+            320,
+            919,
+            383
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Q10. Do you agree with the length of the Start-up Period? If not, how long do you consider appropriate and why?   \nQ11. Do you agree with the threshold on Capital Raising? If not, what level of Capital Raising do you consider appropriate for a Venture Studio Company and why?   \nQ12. Do you have any other comments in relation to the restrictions described in paragraph 33 above and set out at Regulation 3.6.1 of the Proposed Regulations? If so, please provide a detailed explanation.   \nQ13. Are there any other restrictions that you think should be included in the list? If so, please provide an explanation. ",
+        "bbox": [
+            92,
+            397,
+            922,
+            578
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Registered office requirements of Venture Studios and Venture Studio Companies ",
+        "text_level": 1,
+        "bbox": [
+            87,
+            612,
+            771,
+            630
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "38. A Venture Studio is required to comply with Article 13 of the DIFC Operating Law by taking a registered office in the DIFC. During the Start-up Period, and provided it has not changed or had its status revoked pursuant to Regulations 4.4.3 and 4.4.4, a Venture Studio Company may comply with Article 13 by sharing the registered office space of the Venture Studio that established it. ",
+        "bbox": [
+            94,
+            644,
+            922,
+            752
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "39. Upon expiration of the Start-up Period (or in circumstances where it has applied to have it Venture Studio Company status changed or had its status revoked), the Venture Studio Company is required to take its own premises in the DIFC in order to comply with Article 13 of the Operating Law. ",
+        "bbox": [
+            92,
+            770,
+            920,
+            857
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Q14. Do you have any comments with regards to the provisions dealing with office sharing arrangements under the Proposed Regulations? ",
+        "bbox": [
+            90,
+            880,
+            914,
+            920
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            888,
+            934,
+            907,
+            945
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            611,
+            43,
+            915,
+            59
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Reporting and disclosure requirements of Venture Studios and Venture Studio Companies ",
+        "text_level": 1,
+        "bbox": [
+            87,
+            70,
+            836,
+            87
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "40. The Proposed Regulations require the Venture Studio to maintain and prepare Accounting Records in accordance with the DIFC Companies Law, whereas Venture Studio Companies must maintain Accounting Records in accordance with the DIFC Companies Law but are exempt from the requirement to file its accounts with the Registrar or have them audited. ",
+        "bbox": [
+            94,
+            100,
+            920,
+            187
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "41. Venture Studios are also required to comply with the usual confirmation requirements as they apply to a Company under DIFC laws, in respect of themselves and any Venture Studio Company that it establishes during that entity’s Start-up Period (including in circumstances where the Start-up Period may have been extended by the Registrar). Additionally, the Venture Studio must provide the following confirmations: ",
+        "bbox": [
+            94,
+            205,
+            920,
+            314
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) that it continues to be Controlled by one or more Qualifying Applicants;   \n(b) details about the Ventures it has sponsored during the relevant reporting period, including how many have been converted into Venture Studio Companies or have otherwise failed to be converted;   \n(c) details of each Venture Studio Company for which it has responsibility pursuant to Regulation 3.5.2(b); and   \n(d) that it, as a Venture Studio, is in compliance with Regulation 3.5.2(b). ",
+        "bbox": [
+            151,
+            332,
+            919,
+            484
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Q15. What are your views on the confirmations requested from a Venture Studio in relation to itself and the Venture Studio Companies that it is responsible for under the Proposed Regulations? ",
+        "bbox": [
+            92,
+            498,
+            919,
+            578
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Revocation or change of status ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            610,
+            356,
+            625
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "42. Regulation 4.4. of the Proposed Regulations deals with circumstances where the Registrar may revoke the status of a Venture Studio or Venture Studio Company (or where a Venture Studio Company may apply to have its status changed). ",
+        "bbox": [
+            94,
+            640,
+            920,
+            705
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "43. Where a Venture Studio ceases to be controlled by one or more Qualifying Applicants, or is in material or continuous breach of the Regulations, the Registrar may revoke the Venture Studio’s status. In such circumstances, the entity will cease to be a Venture Studio and no longer be entitled to sponsor Ventures and Entrepreneurs or establish Venture Studio Companies. The Venture Studio must also apply to the Registrar, to change the status of any existing Venture Studio Companies or otherwise initiate their wind-up. ",
+        "bbox": [
+            94,
+            722,
+            920,
+            853
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            611,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "11 ",
+        "bbox": [
+            888,
+            934,
+            905,
+            945
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "44. As noted at paragraph 39(a) above, where a Venture Studio Company no longer complies with the operating and restrictions set out under Regulation 3.6. of the Proposed Regulations, the Registrar may revoke its status, or it may apply to have its status changed. ",
+        "bbox": [
+            94,
+            67,
+            919,
+            130
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Q16. Are there any other circumstances where it may be appropriate for the Registrar to revoke the status of a Venture Studio or Venture Studio Company? If so, please specify. ",
+        "bbox": [
+            92,
+            150,
+            920,
+            212
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Other miscellaneous features ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            238,
+            341,
+            255
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "45. The Proposed Regulations also have the following miscellaneous features: ",
+        "bbox": [
+            92,
+            270,
+            771,
+            288
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) A Venture Studio or a Venture Studio Company may not provide Financial Services unless it is appropriately regulated by the DFSA (see Regulation 3.7).   \n(b) In recognition that a Venture Studio Company is a start-up that may not succeed, and therefore to facilitate its liquidation, it may either apply for a voluntary wind-up pursuant to the Insolvency Law or to have its license suspended and then to be struck-off pursuant to Article 32(5) of the Operating Law (see Regulation 3.6.4).   \n(c) Venture Studio’s and Venture Studio Companies must comply with the naming requirements under the Relevant Laws. Additionally Venture Studio’s must include the words “Venture Studio”, “Venture Builder” or “Venture Builder Studio” in their registered or trade name (see Regulation 3.8).   \n(d) The Registrar will need to follow Decision-Making Procedures in instances where it seeks to revoke a Prescribed Company’s status (see Regulation 4.4).   \n(e) Reduced registration and incorporation fees apply to Venture Studio Companies (see Appendix 1 of the Proposed Regulations).   \nQ17. Do you have any issues, proposed amendments or other suggestions in respect of any of the miscellaneous changes proposed?   \nQ18. Are there any other issues, not included in the Proposed Regulations the subject of this Consultation Paper, which warrant attention? If so, what are they, and why, and how should they be addressed? ",
+        "bbox": [
+            139,
+            305,
+            920,
+            577
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Legislative proposal ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            745,
+            265,
+            762
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "46. This legislative proposal contains the following: ",
+        "bbox": [
+            94,
+            776,
+            548,
+            794
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) the Proposed Regulations (at Annex A); and   \n(b) a table of comments to provide your views and comments on the consultation paper (at Annex B). ",
+        "bbox": [
+            146,
+            813,
+            919,
+            876
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "12 ",
+        "bbox": [
+            888,
+            934,
+            907,
+            945
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "VENTURE STUDIO REGULATIONS ",
+        "bbox": [
+            611,
+            43,
+            915,
+            59
+        ],
+        "page_idx": 11
+    }
+]

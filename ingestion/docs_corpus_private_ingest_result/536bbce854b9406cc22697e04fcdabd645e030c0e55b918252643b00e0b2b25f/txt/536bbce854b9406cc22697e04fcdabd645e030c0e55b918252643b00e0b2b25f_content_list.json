@@ -1,0 +1,2726 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            394,
+            318,
+            610,
+            365
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAWDIFC LAW NO. 9 OF 2005",
+        "text_level": 1,
+        "bbox": [
+            221,
+            504,
+            778,
+            581
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Consolidated Version (March 2024) ",
+        "bbox": [
+            423,
+            610,
+            574,
+            641
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As amended by DIFC Laws Amendment Law DIFC Law No. 3 of 2024 ",
+        "bbox": [
+            396,
+            659,
+            601,
+            706
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC Laws Amendment Law DIFC Law No. 2 of 2022 ",
+        "bbox": [
+            396,
+            724,
+            601,
+            755
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            447,
+            66,
+            552,
+            81
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 1: GENERAL.. ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            97,
+            885,
+            110
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Title and repeal .. 1   \n2. Legislative authority . 1   \n3. Application of the Law ..... ........................................................................................ .1   \n4. Date of enactment ..... ...................................................................................................   \n5. Commencement .   \n6. Interpretation...... ",
+        "bbox": [
+            107,
+            112,
+            885,
+            193
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 2: APPLICATION . ",
+        "text_level": 1,
+        "bbox": [
+            97,
+            206,
+            887,
+            219
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7. Application... 2 ",
+        "bbox": [
+            99,
+            222,
+            884,
+            235
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 3: TRANSFERS OF PROPERTY .",
+        "text_level": 1,
+        "bbox": [
+            102,
+            248,
+            887,
+            261
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8. General rule as to transfers of title to property. ..3   \n9. Gifts .... ..3   \n10. Partially effective transfers .. ............................................ ..3   \n11. Digital Assets ... ..3   \n12. Transfer subject to subsisting adverse property interest ... ...4   \n13. Transfer of Money, Financial Collateral, Financial Property, Negotiable Instrument or Negotiable   \nDocument subject to subsisting adverse property interest ...... .....4   \n14. Transfer of Property subject to a Security Right.. ...4   \n15. Application of this Part .. ...4 ",
+        "bbox": [
+            107,
+            263,
+            887,
+            385
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 4: RIGHTS OF PARTIES .... ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            399,
+            887,
+            413
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "16. Unpaid transferor defined . .5   \n17. Unpaid transferor's rights . .5   \n18. Specific performance .... .5 ",
+        "bbox": [
+            109,
+            414,
+            885,
+            454
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 5: INVESTMENT TRANSACTIONS - GENERAL. .6 ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            467,
+            885,
+            482
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "19. Transfer authority.... ....6   \n20. Control ... ...6   \n21. No requirements for writing. ...7 ",
+        "bbox": [
+            109,
+            483,
+            887,
+            523
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 6: TRANSFER OF INVESTMENTS . .8 ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            536,
+            885,
+            551
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "22. Efficacy of endorsement or instruction . ...8   \n23. Effect of issuer's restriction on transfer on securities... .8   \n24. Purchaser's right to requisites for registration of transfer. ..8 ",
+        "bbox": [
+            105,
+            552,
+            887,
+            592
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 7: INVESTMENT ENTITLEMENTS. ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            605,
+            887,
+            619
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "25. Acquisition and disposition of investment entitlements..................................................................... ....9   \n26. Rights in investment entitlements ... ....................................................................... ...9   \n27. Exercise of rights . ........................................................ ..10   \n28. Authority, timing, conditionality, reversals ..... ..10   \n29. Prohibition of higher-tier attachment .... ............................. ....11   \n30. Duty of investment intermediary to hold and maintain sufficient investments . ..11   \n31. Investments and certain money claims to be allocated to account holders and not part of investment   \nintermediary's insolvent estate .. ...12   \n32. Effect of insufficiency on account holders’ rights . .12   \n33. Right of transfer against an insolvent investment intermediary (revindication) . ......... ..13   \n34. Insolvency of clearing and settlement intermediaries or Authorised Market Institutions...................... ....13   \n35. Instructions. .13   \n36. 37. Position of issuers of investments .Set-off and netting......................... ............................................................................................... ...13...14   \n38. Enforcement... ..14 ",
+        "bbox": [
+            107,
+            622,
+            887,
+            826
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 8: REGULATIONS. 15 ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            838,
+            885,
+            851
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Regulations ..... ",
+        "bbox": [
+            146,
+            855,
+            857,
+            866
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 1..... ..16 ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            881,
+            887,
+            894
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            492,
+            942,
+            502,
+            954
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 1: GENERAL ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            66,
+            262,
+            81
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Title This Law may be cited as the “Personal Property Law 2005\". ",
+        "bbox": [
+            168,
+            96,
+            583,
+            138
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Legislative authority ",
+        "text_level": 1,
+        "bbox": [
+            169,
+            153,
+            321,
+            167
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This Law is made by the Ruler of Dubai. ",
+        "bbox": [
+            169,
+            181,
+            445,
+            194
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Application of the Law ",
+        "text_level": 1,
+        "bbox": [
+            169,
+            210,
+            336,
+            224
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This Law applies in the jurisdiction of the DIFC. ",
+        "bbox": [
+            171,
+            238,
+            500,
+            252
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Date of enactment ",
+        "text_level": 1,
+        "bbox": [
+            169,
+            267,
+            304,
+            280
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This Law is enacted on the date specified in the Enactment Notice in respect of this Law. ",
+        "bbox": [
+            168,
+            295,
+            771,
+            309
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Commencement ",
+        "text_level": 1,
+        "bbox": [
+            168,
+            324,
+            289,
+            338
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This Law comes into force on the date specified in the Enactment Notice in respect of this Law. ",
+        "bbox": [
+            168,
+            352,
+            816,
+            366
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Interpretation ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            381,
+            275,
+            395
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Schedule 1 contains: ",
+        "bbox": [
+            169,
+            409,
+            310,
+            423
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) interpretative provisions which apply to the Law; and (b) a list of defined terms used in the Law. ",
+        "bbox": [
+            163,
+            437,
+            591,
+            480
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            495,
+            933,
+            505,
+            942
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PART 2: APPLICATION ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            80,
+            297,
+            96
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7. Application ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            110,
+            257,
+            124
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Unless stated otherwise in this Law, this Law applies to any property other than real property, regardless of whether such property is capable of being owned or transferred under the laws of any other jurisdiction. ",
+        "bbox": [
+            166,
+            138,
+            895,
+            167
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PART 3: TRANSFERS OF PROPERTY",
+        "text_level": 1,
+        "bbox": [
+            109,
+            66,
+            403,
+            81
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8. General rule as to transfers of title to property ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            96,
+            504,
+            110
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) Where there is a consensual transfer of property, title is transferred to the transferee at such time as the transferor and the transferee mutually intend it to be transferred.   \n(2) For the purpose of ascertaining the intention of the transferor and the transferee regard shall be had to the terms of any contract or other agreement or arrangements between the transferor and the transferee, the conduct of the transferor and the transferee and the circumstances of the case.   \n(3) Where both the transferor and the transferee intend that title to property should pass but intend it to pass at a different times (or, if there are multiple transferors and transferees, where there are differences of intention as to time between transferors or transferees), title passes at the last of the intended times, and until that time no title passes.   \n(4) A purported transfer is ineffective without the consent of the transferee. Such consent may be explicit or implied, and may be given immediately or retrospectively.   \n(5) Where a person (“A”) intends to transfer property to another (“B”) without the knowledge or consent of B, when B discovers the attempted transfer he may accept it, and if he does so title to the property will be transferred to him as if he had intended the property to be transferred on the same date as A. However if A has rescinded such a transfer at any time prior to B’s discovery then B cannot subsequently accept the transfer.   \n(6) Title to property may not cease to exist, and once a person acquires title to property he remains the owner of it until the property is either transferred or destroyed.   \n(7) A person may abandon property if he intends that any person who appropriates it may become owner of it at the time of appropriation. However, until such an appropriation is made he remains the owner of the property. ",
+        "bbox": [
+            157,
+            124,
+            894,
+            509
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "9. Gifts ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            523,
+            208,
+            538
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Where property is transferred by one person to another by way of gift, it is presumed that the intention of the parties is that title to the property should be transferred to the transferee unless a contrary intention can be proved. ",
+        "bbox": [
+            168,
+            552,
+            892,
+            595
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10. Partially effective transfers ",
+        "text_level": 1,
+        "bbox": [
+            110,
+            609,
+            366,
+            623
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) Where property is transferred by a person who is not its owner, and who does not transfer it under the authority or with the consent of the owner, the transferee acquires no better title to the property than the transferor had .   \n(2) Where a transferee enters into a transfer of property as described in Article 10(1) in circumstances where, as a direct result of anything said or done by the owner, he believes in good faith that the transferor either is the owner or is acting under the authority or with the consent of the owner, the transferee acquires the title which he would have acquired had the transferor been so acting.   \n(3) Where there is a contract for the sale of unascertained property no title to the property is transferred to the transferee unless and until the property is ascertained.   \n(4) Where by a contract of sale the transferor purports to effect a present sale of future property, the contract operates as an agreement to sell the proper. ",
+        "bbox": [
+            152,
+            636,
+            894,
+            837
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "11. Digital Assets ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            851,
+            270,
+            865
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) Article 8 to 10 of this Law shall not apply to Digital Assets. ",
+        "bbox": [
+            166,
+            880,
+            633,
+            894
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            494,
+            944,
+            505,
+            954
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2) General rules as to title and transfer of title of Digital Assets shall be determined by Part 3 of the Digital Assets law. ",
+        "bbox": [
+            159,
+            67,
+            892,
+            96
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "12. Transfer subject to subsisting adverse property interest ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            110,
+            571,
+            124
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Articles 10 and 14 of this Law, an innocent transferee of: ",
+        "bbox": [
+            161,
+            137,
+            687,
+            153
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) the legal title in property takes free of all interests in the property, whether legal or equitable;   \n(b) the equitable interest in property takes free of all interests in the property save those that are superior to that equitable interest. ",
+        "bbox": [
+            228,
+            166,
+            892,
+            238
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) For the purposes of Article 12(1), a transferee of property is an innocent transferee of that property if the transferee has received the property in good faith, for value and without notice of a third party property interest. ",
+        "bbox": [
+            157,
+            252,
+            892,
+            295
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3) For the purpose of Article 12(2), a transferee has notice of a third party property interest if the transferee knows or ought reasonably to know that another person has an interest in the property that conflicts with the interest the transferee seeks to purchase. ",
+        "bbox": [
+            156,
+            308,
+            890,
+            352
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4) This Article 12 shall not apply to a transfer of Money, Financial Collateral, Negotiable Instrument or Negotiable Document (which includes such property that is also a Digital Asset). ",
+        "bbox": [
+            166,
+            365,
+            890,
+            395
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "13. Transfer of Money, Financial Collateral, Financial Property, Negotiable Instrument or Negotiable Document subject to subsisting adverse property interest ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            408,
+            889,
+            438
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) This Article 13 applies to the transfer of a property interest in Money, Financial Collateral, Negotiable Instrument or Negotiable Document (which includes such property that is also a Digital Asset). ",
+        "bbox": [
+            168,
+            451,
+            892,
+            495
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) Subject to Article 14 of this Law, an innocent transferee of: ",
+        "bbox": [
+            166,
+            508,
+            630,
+            523
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) the legal title in such property takes free of all interests in the property, whether legal or equitable; and   \n(b) the equitable interest in such property takes free of all interests in the property save those that are superior to that equitable interest. ",
+        "bbox": [
+            228,
+            536,
+            890,
+            609
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3) For the purpose of Article 13(2), a transferee of such property is an innocent transferee of that property unless: ",
+        "bbox": [
+            159,
+            623,
+            894,
+            652
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) the transferee does not give value, or   \n(b) the transferee gives value, but has actual knowledge of the third party property interest, or has knowledge of facts indicating a significant risk that the third party property interest exists and deliberately avoids making inquiries that a reasonable person in the transferee’s position would make which would establish the existence of the third party property interest. ",
+        "bbox": [
+            226,
+            665,
+            892,
+            766
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "14. Transfer of property subject to a Security Right ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            780,
+            517,
+            794
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The circumstances under which a transferee of title to property takes free of a Security Right is determined by the Law of Security. ",
+        "bbox": [
+            166,
+            807,
+            890,
+            837
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "15. Application of this Part ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            851,
+            341,
+            865
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This Part is subject to the provisions of Parts 5 and 6. ",
+        "bbox": [
+            169,
+            880,
+            529,
+            894
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            494,
+            944,
+            505,
+            954
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PART 4: RIGHTS OF PARTIES ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            66,
+            351,
+            81
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "16. Unpaid transferor defined ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            96,
+            361,
+            110
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) The transferor of property is an unpaid transferor within the meaning of thisLaw: ",
+        "bbox": [
+            161,
+            123,
+            778,
+            138
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) when he has entered into a contract of sale in respect of the property and the whole of the price has not been paid or tendered;   \n(b) when a bill of exchange or other Negotiable Instrument has been received as conditional payment, and the condition on which it was received has not been fulfilled by reason of the dishonour of the instrument or otherwise. ",
+        "bbox": [
+            228,
+            152,
+            892,
+            238
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this Part of this Law, 'transferor' includes any person who is in the position of a transferor, as, for instance, an agent of the transferor to whom a bill of lading has been endorsed, or a consignor or agent who has himself paid (or is directly responsible for) the price. ",
+        "bbox": [
+            196,
+            252,
+            889,
+            295
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "17. Unpaid transferor's rights ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            309,
+            359,
+            324
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to this and any other law, notwithstanding that title to the property may have passed to the transferee, the unpaid transferor of property, as such, has by implication of law: ",
+        "bbox": [
+            156,
+            338,
+            894,
+            366
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) a lien on the property or right to retain it for the price while he is in possession of it;   \n(b) in the case of the insolvency of the transferee, a right of stopping the property in transit after he has parted with the possession of it; and   \n(c) a right of re-sale as limited by this Law. ",
+        "bbox": [
+            228,
+            380,
+            892,
+            467
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2) Where title to the property has not passed to the transferee, the unpaid transferor has (in addition to his other remedies) a right of withholding delivery similar to and coextensive with his rights of lien or retention and stoppage in transit where title has passed to the transferee. ",
+        "bbox": [
+            169,
+            480,
+            892,
+            523
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "18. Specific performance ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            538,
+            324,
+            552
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) In any action for a failure to perform any legal obligation to deliver property the Court may, if it thinks fit, on the plaintiff's application, by its judgement or decree direct that the contract shall be performed specifically, without giving the defendant the option of retaining the property on payment of damages. ",
+        "bbox": [
+            168,
+            566,
+            892,
+            623
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2) The plaintiff's application may be made at any time before judgement or decree. ",
+        "bbox": [
+            168,
+            636,
+            766,
+            653
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3) The judgement or decree may be unconditional, or on such terms and conditions as to damages, payment of the price and otherwise as seem just to the Court. ",
+        "bbox": [
+            159,
+            666,
+            890,
+            695
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            30,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            494,
+            944,
+            505,
+            954
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PART 5: INVESTMENT TRANSACTIONS - GENERAL ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            66,
+            524,
+            81
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "19. Transfer authority ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            96,
+            305,
+            110
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) A person who has the necessary authority and documentation to procure a transfer of title to an investment has transfer authority.   \n(2) In respect of bearer investments, any person having physical possession of the bearer investment has transfer authority.   \n(3) In respect of bills of exchange and investments transferred by endorsement, a person has transfer authority if he has authority to endorse the bill or investment to a third party.   \n(4) In respect of registered investments, a person has transfer authority if he is in possession of, or has authority to execute, an instruction to the relevant registrar to register the investments in the name of a transferee.   \n(5) In respect of any investments held in a investment account, a person has transfer authority if he is entitled to give the investment intermediary an entitlementorder. ",
+        "bbox": [
+            166,
+            123,
+            892,
+            338
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "20. Control ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            352,
+            228,
+            366
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) A person has \"control\" of a bearer security in physical form if the physical form of the security is delivered to him, and retains such control whilst he retains possession of the physical form of the security. ",
+        "bbox": [
+            164,
+            381,
+            890,
+            423
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2) A person has \"control\" of an investment in registered form when he is registered as the owner of the security or has transfer authority in respect of it. ",
+        "bbox": [
+            159,
+            437,
+            894,
+            466
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3) A person has \"control\" of an uncertificated investment if: ",
+        "bbox": [
+            168,
+            480,
+            615,
+            495
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) the uncertificated investment is held in an investment account in his name; or (b) the issuer has agreed that it will comply with instructions originated by or on behalf of the purchaser without further consent by the registered owner. ",
+        "bbox": [
+            228,
+            508,
+            892,
+            566
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4) A person has \"control\" of an investment entitlement if: ",
+        "bbox": [
+            168,
+            580,
+            600,
+            595
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) the person becomes the entitlement holder; or (b) the relevant investment intermediary has agreed that it will comply with instructions originated by the person without further consent by the entitlement holder. ",
+        "bbox": [
+            228,
+            609,
+            892,
+            666
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(5) If an interest in an investment entitlement is granted by the entitlement holder to the entitlement holder's own investment intermediary, the investment intermediary has control. ",
+        "bbox": [
+            163,
+            680,
+            892,
+            709
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(6) A person who has satisfied the requirements of Article 20(3)(b) or 20(4)(b) has control even if the registered owner in the case of Article 20(3)(b) or the entitlement holder in the case of Article 20(4)(b) retains the right to make substitutions for the uncertificated security or investment entitlement, to originate instructions to the issuer or investment intermediary, or otherwise to deal with the uncertificated security or investment entitlement. ",
+        "bbox": [
+            168,
+            722,
+            892,
+            794
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(7) An issuer or an investment intermediary may not enter into an agreement of the kind described in Article 20(3)(b) or 20(4)(b) without the consent of the registered owner or entitlement holder, but an issuer or an investment intermediary is not required to enter into such an agreement even though the registered owner or entitlement holder so directs. An issuer or investment intermediary that has entered into such an agreement is not required to confirm the existence of the agreement to another party unless requested to do so by the registered owner or entitlement holder. ",
+        "bbox": [
+            168,
+            808,
+            892,
+            894
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            494,
+            945,
+            505,
+            954
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "21. No requirements for writing ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            67,
+            374,
+            81
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Where parties to an agreement, or subject to the Business Rules of an Authorised Market Institution, have provided that records of holdings or entitlements, contracts for purchase or sale or instructions for debit or credit relating to investments, investment entitlements, or assets held in an investment account may be made otherwise than in writing, the absence of signed writing or record authenticated by a party against whom enforcement is sought will not invalidate the enforceability of the holding, entitlement, contract or instruction provided it was created or transmitted in accordance with the agreement or Business Rules.\\ ",
+        "bbox": [
+            169,
+            96,
+            892,
+            180
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PART 6: TRANSFER OF INVESTMENTS ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            66,
+            423,
+            81
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "22. Efficacy of endorsement or instruction (1) An endorsement or instruction is effective if: ",
+        "bbox": [
+            107,
+            96,
+            440,
+            110
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) it is made by a person having the right to transfer authority;   \n(b) it is made by a person having transfer authority as an agent including, in the case of an instruction or entitlement order, a person who has control under Article 20(3)(b) or 20(4)(b); or   \n(c) the person having the right to transfer the investment is precluded from asserting its ineffectiveness. ",
+        "bbox": [
+            228,
+            152,
+            892,
+            267
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2) An endorsement or instruction is effective even if the person making it has failed to comply with any condition or requirement relating to his power to do so, including any law requiring the obtaining of Court approval of the transaction; or the representative's action in making the endorsement, instruction, or entitlement order or using the proceeds of the transaction is otherwise a breach of duty. ",
+        "bbox": [
+            168,
+            281,
+            892,
+            352
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3) If an investment is registered in the name of or specially endorsed to a person described as a representative, or if an investment account is maintained in the name of a person described as a representative, an endorsement or instruction made by the person is effective even though the person is no longer serving in the described capacity. ",
+        "bbox": [
+            168,
+            366,
+            892,
+            423
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4) Effectiveness of an endorsement, instruction, or entitlement order is determined as of the date the endorsement or instruction is made, and an effective endorsement or instruction does not become ineffective by reason of any later change of circumstances. ",
+        "bbox": [
+            163,
+            438,
+            890,
+            480
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "23. Effect of issuer's restriction on transfer on securities ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            495,
+            546,
+            509
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A restriction on transfer of a security imposed by the issuer shall be regarded as a third party property interest, and shall be ineffective against any person other than a person who had actual knowledge of such third party property interest or knowledge of facts sufficient to indicate that there is a significant probability that the third party property interest exists and deliberately avoids making inquiries that a reasonable person in his position would make which would establish the existence of the third party property interest unless: ",
+        "bbox": [
+            168,
+            523,
+            892,
+            595
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) the security is certificated and the restriction is noted conspicuously on the security certificate; or (b) the security is uncertificated and the registered owner has been notified of the restriction. ",
+        "bbox": [
+            166,
+            609,
+            887,
+            653
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "24. Purchaser's right to requisites for registration of transfer ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            666,
+            583,
+            680
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Unless otherwise agreed, the transferor of a security on due demand shall supply the purchaser with proof of authority to transfer or with any transfer authority which may be necessary to obtain registration of the transfer of the security, but if the transfer is not for value, a transferor need not comply unless the purchaser pays the necessary expenses. If the transferor fails within a reasonable time to comply with the demand, then without prejudice to any other right or remedy available to the transferee, he may reject or rescind the transfer. ",
+        "bbox": [
+            168,
+            694,
+            892,
+            780
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            494,
+            944,
+            505,
+            954
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PART 7: INVESTMENT ENTITLEMENTS ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            66,
+            431,
+            81
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "25. Acquisition and disposition of investment entitlements ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            96,
+            559,
+            110
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) An investment entitlement is acquired by an account holder by the credit of the entitlement to that account holder’s investment account.   \n(2) No further step or operation is necessary to render the acquisition of an investment entitlement effective against third parties.   \n(3) An investment entitlement is disposed by an account holder by the debit of the entitlement to that account holder’s investment account.   \n(4) Without prejudice to any requirement that no credit or debit be made without a corresponding debit or credit, a debit or credit of an entitlement to an investment account is not ineffective because it is not possible to identify an investment account to which a corresponding credit or debit has been made.   \n(5) Debits and credits to investment accounts in respect of investments of the same description may be effected on a net basis.   \n(6) This Article does not preclude any other method provided by law for acquisition and disposition of investment entitlements. ",
+        "bbox": [
+            166,
+            124,
+            894,
+            395
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "26. Rights in investment entitlements ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            409,
+            411,
+            423
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) The credit of an investment entitlement to an investment account confers on the account holder: ",
+        "bbox": [
+            161,
+            438,
+            877,
+            452
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) subject to Article 26(2), the right to receive and exercise the rights attached to the investment, including without limitation dividends, interest and other distributions and voting rights;   \n(b) the right, by instructions to the relevant intermediary, to cause the investment entitlement (or part thereof) to be debited to the investment account and credited to an investment account of another account holder (whether with the relevant intermediary or another investment intermediary) or to be delivered into the possession or control of a Secured Creditor;   \n(c) the right, by instructions to the relevant intermediary, to cause the investment entitlement (or part thereof) to be debited to the investment account and   \n(d) credited to the account holder’s investment account with another investment intermediary;   \n(e) the right, by instructions to the relevant intermediary, to withdraw investments so as to be held by the account holder otherwise than through an investment account, to the extent permitted by law under which the investments are constituted, the terms of the investment and the account agreement; and   \n(f) such other rights as may be conferred by law or regulation applicable to investment accounts and investment intermediaries. ",
+        "bbox": [
+            220,
+            465,
+            892,
+            779
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2) Credit to an investment account of an account holder who is acting in the capacity of investment intermediary with respect to the entitlement only conveys the rights in Article 26(1)(a) if that account holder, or another investment intermediary through which, directly or indirectly, it holds the relevant investment entitlement is entitled to those rights against the issuer under the terms and laws pursuant to which the investments are constituted. ",
+        "bbox": [
+            169,
+            794,
+            890,
+            865
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3) Without prejudice to Article 36 and Article 37, the rights referred to in Article 26(1): ",
+        "bbox": [
+            166,
+            878,
+            798,
+            894
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) are effective against the relevant intermediary and third parties; and (b) may be enforced against the relevant investment intermediary and, subject to the terms and laws pursuant to which the investments are constituted, the issuer of the relevant investments. ",
+        "bbox": [
+            226,
+            908,
+            749,
+            922
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            494,
+            944,
+            505,
+            954
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "27. Exercise of rights ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            124,
+            297,
+            138
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Article 27(2) and (3), an investment intermediary must take appropriate measures to enable its account holders to receive and exercise the rights specified in Article 26(1). ",
+        "bbox": [
+            164,
+            152,
+            892,
+            181
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2) To the extent that the rights referred to in Article 26(1) are dependent on the actions of the relevant intermediary, the account holder is not entitled to any such right to the extent that giving effect to the right: ",
+        "bbox": [
+            168,
+            194,
+            892,
+            238
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) is not within the power of the relevant intermediary;   \n(b) would require the relevant intermediary to act in a manner that is not permitted by any applicable law or by the terms of the relevant investments;   \n(c) would require the relevant intermediary to establish an investment account with another investment intermediary; or   \n(d) is waived by the account holder by agreement with the relevant intermediary. ",
+        "bbox": [
+            226,
+            251,
+            892,
+            382
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(3) Any obligation of the relevant intermediary in respect of the rights of the account holder under Article 26(1) shall be satisfied if the relevant intermediary acts with respect to that obligation: ",
+        "bbox": [
+            163,
+            394,
+            894,
+            423
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) if an Authorised Market Institution, in accordance with its Business Rules;   \n(b) if an authorised firm, in accordance with the account agreement or, if there is no account agreement, in accordance with reasonable commercial standards;   \n(c) in accordance with any other agreement between the account holder and the relevant intermediary; or   \n(d) by placing the account holder in a position to exercise any relevant right directly. ",
+        "bbox": [
+            226,
+            435,
+            892,
+            567
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "28. Authority, timing, conditionality, reversals ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            580,
+            478,
+            595
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) A debit or credit of an entitlement to an investment account is not effective unless the relevant intermediary is authorised to make that debit, credit or designating entry: ",
+        "bbox": [
+            159,
+            609,
+            892,
+            637
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) by the account holder; or   \n(b) by: (i) an investment intermediary; or (ii) an Authorised Market Institution, ",
+        "bbox": [
+            228,
+            652,
+            579,
+            752
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "administering entitlements with the authority of the account holder or pursuant to the Business Rules of an Authorised Market Institution. ",
+        "bbox": [
+            285,
+            766,
+            889,
+            794
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2) Except as otherwise provided by the Business Rules of an Authorised Market Institution, a debit or credit of investment entitlements to an investment account takes effect when it is made. ",
+        "bbox": [
+            164,
+            807,
+            890,
+            837
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(3) A debit or credit of an investment entitlement which is made conditionally under the terms of an account agreement or the Business Rules of an Authorised Market Institution or by operation of law is effective against third parties when, and only when, the condition is satisfied. ",
+        "bbox": [
+            163,
+            850,
+            892,
+            894
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            30,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "An account agreement, the Business Rules of an Authorised Market Institution or DIFC law may provide that a debit or credit of an investment entitlement is liable to be reversed. ",
+        "bbox": [
+            205,
+            67,
+            892,
+            96
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(5) Notwithstanding Article 28(4), if: ",
+        "bbox": [
+            168,
+            110,
+            457,
+            124
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) an investment entitlement has been credited to an investment account of an account holder in circumstances such that the credit is not effective or is liable to be reversed; and   \n(b) before that credit has been reversed, the investments are credited to the account of a third party under a further disposition, ",
+        "bbox": [
+            230,
+            137,
+            890,
+            210
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "the fact that the initial credit was made in circumstances such that it is not effective or is liable to be reversed does not make the further credit ineffective against the person making the further disposition, the relevant intermediary or third parties unless: ",
+        "bbox": [
+            230,
+            224,
+            892,
+            267
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(i) the further credit is made conditionally and the condition is not satisfied;   \n(ii) the credit was made to a person having knowledge, at the time it was made, that it is made as a result of the further disposition and that the further disposition is made in the circumstances described. A person has knowledge for the purpose of this Article 28 if he has actual knowledge or has knowledge of facts sufficient to indicate that there is a significant risk and deliberately avoids making inquiries that a reasonable person in his position would make that would establish the facts of the case; or   \n(iii) the further disposition is made by way of gift or otherwise gratuitously. ",
+        "bbox": [
+            277,
+            281,
+            892,
+            439
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "29. Prohibition of higher-tier attachment ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            451,
+            438,
+            466
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) No attachment of or in respect of an investment entitlement of an account holder shall be granted or made against the issuer of the relevant investment or any investment intermediary other than the relevant intermediary. ",
+        "bbox": [
+            159,
+            480,
+            894,
+            523
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) In this Article, “attachment” means any judicial, administrative or other act or process for enforcing or satisfying a judgement, award or other judicial, arbitral, administrative or other decision against or in respect of the account holder or for freezing, restricting or impounding property of the account holder in order to ensure the ability to satisfy or enforce any future such judgement, award or decision. ",
+        "bbox": [
+            168,
+            536,
+            892,
+            608
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "30. Duty of investment intermediary to hold and maintain sufficient investments (1) An investment intermediary may not: ",
+        "bbox": [
+            105,
+            622,
+            705,
+            637
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) make any credit of an investment to an investment account maintained by it; or (b) dispose of an investment held by it or credited to an investment account which it holds with another investment intermediary ",
+        "bbox": [
+            220,
+            679,
+            892,
+            737
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "if upon that credit or disposition becoming effective there would not be sufficient investments of the same description held by it or credited to investment accounts which it holds with another investment intermediary. ",
+        "bbox": [
+            228,
+            751,
+            890,
+            794
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) If at any time sufficient investments of any description are not held by an investment intermediary or credited to investment accounts maintained which it maintains with another investment intermediary, it must take such action as is required to ensure that sufficient investments of that description are so held or credited. ",
+        "bbox": [
+            169,
+            807,
+            892,
+            865
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(3) For purposes of this Article, “sufficient investments” of any description means investments of an aggregate number or amount at least equal to the aggregate number or amount of investments of that description credited to the investment accounts maintained by the investment intermediary. ",
+        "bbox": [
+            169,
+            880,
+            892,
+            922
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(4) Article 30(2) is without prejudice to: ",
+        "bbox": [
+            168,
+            67,
+            478,
+            81
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) any provision of DIFC law;   \n(b) any provision of the Business Rules of an Authorised Market Institution; or   \n(c) subject to DIFC law, any account agreement relating to the allocation of the cost of ensuring compliance with the requirements of that paragraph. ",
+        "bbox": [
+            228,
+            95,
+            880,
+            182
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(5) The fact that a credit or disposition is made in contravention of Article 30(1) does not render the credit or disposition ineffective, but: ",
+        "bbox": [
+            154,
+            195,
+            894,
+            224
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) the investment intermediary must comply with Article 30(2); and (b) this paragraph does not affect any liability of the investment intermediary to compensate an account holder for any loss arising from the contravention. ",
+        "bbox": [
+            208,
+            237,
+            892,
+            295
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "31. Investments and certain money claims to be allocated to account holders and not part of investment intermediary's insolvent estate ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            309,
+            890,
+            338
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) Investments held by an investment intermediary or credited to investment accounts held by an investment intermediary with another investment intermediary shall be allocated to the rights of account holders of that investment intermediary to the extent necessary to ensure that the aggregate number or amount of the investments or claims of that description so allocated is equal to the aggregate number or amount of such ",
+        "bbox": [
+            168,
+            351,
+            892,
+            423
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": ") investments or claims credited to investment accounts maintained by the investment intermediary. ",
+        "bbox": [
+            188,
+            437,
+            887,
+            452
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(3) Investments allocated under Article 31(1) shall not form part of the property of an investment intermediary available for distribution among or realisation for the benefit of its creditors in the event of an insolvency proceeding in respect of the investment intermediary or be otherwise subject to claims of creditors of the investment intermediary. ",
+        "bbox": [
+            168,
+            466,
+            890,
+            522
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The allocation required by Article 31(1) shall be effected by the arrangements of the investment intermediary or, in the absence of such arrangements, by operation of DIFC law. ",
+        "bbox": [
+            193,
+            536,
+            890,
+            566
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "32. Effect of insufficiency on account holders’ rights ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            579,
+            519,
+            595
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) If the aggregate number or amount of investments held by an investment intermediary or credited to an investment account that it holds with another investment intermediary is less than the aggregate number or amount of investments of that description credited to investment accounts, then the shortfall: ",
+        "bbox": [
+            169,
+            609,
+            892,
+            665
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) where the investment intermediary is an Authorised Market Institution whose Business Rules make provision for the allocation of the shortfall, shall be allocated in the manner so provided by such Business Rules; and   \n(b) subject to Article 32(1)(a), shall be allocated among the account holders to whose investment accounts the assets or investments of the relevant description are credited, in proportion to the respective numbers or amounts of assets or investments so credited. ",
+        "bbox": [
+            223,
+            679,
+            892,
+            780
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) In any allocation required under Article 32(1)(b) no account shall be taken of: ",
+        "bbox": [
+            166,
+            793,
+            752,
+            808
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) the origin of, or any past dealings in, any investments held by the investment intermediary or credited to investment accounts held by the investment intermediary with another investment intermediary; or   \n(b) the order in which or time at which any investments are credited or debited to the respective investment accounts of account holders. ",
+        "bbox": [
+            223,
+            823,
+            892,
+            909
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "33. Right of transfer against an insolvent investment intermediary (revindication) ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            67,
+            729,
+            81
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) The rights of an account holder constituted by the credit to an investment account under Article 25 are effective against a receiver or liquidator in any insolvency proceedings in respect of the relevant intermediary. ",
+        "bbox": [
+            166,
+            96,
+            894,
+            138
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) In the event of the insolvency of a relevant intermediary, the account holder may instruct the transfer or registration of investments or investment entitlements or transfer of money claims to which Article 32(1)(b) applies, and such an instruction shall be enforceable against a receiver or liquidator. ",
+        "bbox": [
+            168,
+            152,
+            892,
+            210
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "34. Insolvency of clearing and settlement intermediaries or Authorised Market Institutions ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            223,
+            796,
+            238
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) Any provision of the Business Rules of an Authorised Market Institution relating to the finality of acquisitions or dispositions effected pursuant to such Business Rules:shall, to the extent of any inconsistency with any other applicable law or regulation, prevail in respect of determining claims to investment entitlements subject to the control of the Authorised Market Institution; and ",
+        "bbox": [
+            168,
+            251,
+            892,
+            309
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) shall have effect and prevail over any applicable law of insolvency notwithstanding the commencement of an insolvency proceeding in respect of the Authorised Market Institution or any party to a contract for the acquisition or disposal of an investment or investment entitlement to which such Business Rules apply. ",
+        "bbox": [
+            168,
+            324,
+            892,
+            381
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "35. Instructions ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            395,
+            258,
+            408
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Article 35(2), an investment intermediary is neither bound nor entitled to give effect to any instructions with respect to an investment entitlement of an account holder given by any person other than that account holder or his agent. ",
+        "bbox": [
+            168,
+            423,
+            892,
+            466
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) Article 35(1) is subject to: ",
+        "bbox": [
+            169,
+            480,
+            406,
+            495
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) the provisions of the account agreement, any other agreement between the account holder and the relevant intermediary, or any other agreement entered into by the relevant intermediary with the consent of the account holder;   \n(b) the rights of any person (including the investment intermediary) who holds a Security Right that is effective against third parties;   \n(c) any judgment, award, order or decision of a court, tribunal or other judicial or administrative authority of competent jurisdiction;   \n(d) any mandatory provision of law or any mandatory regulation; and   \n(e) where the investment intermediary is an Authorised Market Institution, the Business Rules of the Authorised Market Institution. ",
+        "bbox": [
+            226,
+            509,
+            892,
+            709
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "36. Position of issuers of investments ",
+        "bbox": [
+            109,
+            723,
+            408,
+            737
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) Any law or regulation of the Companies Law, and any provision of the terms of issue of investments constituted under the Companies Law, which would prevent the holding of investment entitlements with an investment intermediary or the effective exercise by an account holder of rights in respect of investment entitlements shall be modified to the extent required to make possible the holding of such investments with an investment intermediary and the effective exercise of such rights. ",
+        "bbox": [
+            168,
+            751,
+            892,
+            823
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) Without limiting the generality of the forgoing, this Article 36 applies in particular to any provision: ",
+        "bbox": [
+            166,
+            836,
+            889,
+            851
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) which restricts the ability of a holder of investments to exercise voting or other rights in different ways in respect of different parts of a holding of investments of the same description; ",
+        "bbox": [
+            221,
+            865,
+            889,
+            908
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(i) which does not include adequate provision for making available to account holders holding investment entitlements, or to investment intermediaries for transmission to such account holders copies of notices, accounts, circulars and other materials addressed by the issuer to holders of such investment entitlements; and ",
+        "bbox": [
+            290,
+            67,
+            890,
+            138
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(ii) means of exercising the rights attached to the investments either in person or through a proxy or other representative; ",
+        "bbox": [
+            275,
+            152,
+            889,
+            181
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "which prohibits or fails to recognise the holding of investments by a person acting in the capacity of investment intermediary; ",
+        "bbox": [
+            267,
+            195,
+            887,
+            224
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "under which recognition of the holding of investments by an investment intermediary or the exercise of rights by an account holder holding investment entitlements to such investments is conditional on the maintenance of records in a particular medium; ",
+        "bbox": [
+            263,
+            237,
+            892,
+            281
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(d) which imposes restrictions on the holding of investments or the exercise of rights attached to investments by reference to the identity, status, residence, nationality, domicile or other characteristics or circumstances of any person acting in the capacity of investment intermediary. ",
+        "bbox": [
+            230,
+            294,
+            890,
+            352
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(3) Subject to Article 36(1) and (2), nothing in this Article makes an issuer of investments bound by, or compels such an issuer to recognise, a right or interest of any person in or in respect of such investments if the issuer is not bound by or compelled to recognise that right or investments under the law under which the investments are constituted and the terms of the investments. ",
+        "bbox": [
+            169,
+            366,
+            892,
+            423
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "37. Set-off and netting ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            438,
+            304,
+            451
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) As between an account holder who holds investment entitlements for its own account and the issuer of those investments, the fact that the account holder holds the investments with an investment intermediary shall not of itself, in any insolvency proceeding in respect of the issuer, preclude the existence or prevent the exercise of any rights of set-off which would have existed and been exercisable if the account holder had held the investments otherwise than through an investment intermediary. ",
+        "bbox": [
+            168,
+            466,
+            892,
+            552
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(2) Netting of entitlements and rights to investments or entitlements as provided in agreements between parties or between investment intermediaries and account holders or in the Business Rules of an Authorised Market Institution shall be enforceable. ",
+        "bbox": [
+            156,
+            566,
+            892,
+            609
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(3) Close-out netting as provided in termination provisions of agreements or the Business Rules of an Authorised Market Institution shall be enforceable according to the terms of the agreement or Business Rules applicable. ",
+        "bbox": [
+            166,
+            622,
+            892,
+            666
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "38. Enforcement ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            680,
+            265,
+            694
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Except as otherwise provided by law or regulation, an investment entitlement may be enforced only against the relevant intermediary. ",
+        "bbox": [
+            164,
+            709,
+            892,
+            737
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            889,
+            57
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "PART 8: REGULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            67,
+            304,
+            80
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "39. Regulations ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            96,
+            258,
+            109
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The Board of Directors of the DIFC, either directly or through authority delegated to the DFSA, may make Regulations clarifying, implementing, extending, waiving or modifying the application of the provisions of this Law in relation to the holding of investments or interests or entitlements in investments. ",
+        "bbox": [
+            169,
+            124,
+            892,
+            166
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 1 ",
+        "text_level": 1,
+        "bbox": [
+            445,
+            66,
+            552,
+            80
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1. Rules of interpretation ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            96,
+            334,
+            110
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(1) In this Law, a reference to: ",
+        "bbox": [
+            109,
+            124,
+            352,
+            138
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) a statutory provision includes a reference to the statutory provision as amended or re-enacted from time to time;   \n(b) a person includes any natural person, body corporate or body unincorporate, including a company, partnership, unincorporated association, government or state;   \n(c) an obligation to publish or cause to be published a particular document shall, unless expressly provided otherwise in this Law, include publishing or causing to be published in printed or electronic form;   \n(d) a day shall refer to a business day, being a calendar day, excluding Saturdays, Sundays and official public holidays;   \n(e) a calendar year shall mean a year of the Gregorian calendar;   \n(f) the masculine gender includes the feminine;   \n(g) “dollars” or “ $\\mathbf { \\vec { \\nabla } } \\Phi ^ { , , }$ is a reference to United States Dollars unless the contrary intention appears; and   \n(h) “good faith” within the meaning of this Law refers to an action or omission undertaken honestly, whether it is done negligently or not. ",
+        "bbox": [
+            166,
+            152,
+            894,
+            453
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(2) The headings in the Law shall not affect its interpretation. ",
+        "bbox": [
+            107,
+            465,
+            561,
+            480
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "2. References to legislation ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            495,
+            346,
+            509
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "References to legislation in the Law shall be construed in accordance with the following provisions: ",
+        "bbox": [
+            161,
+            523,
+            843,
+            538
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) Federal Law is law made by the federal government of the United Arab Emirates;   \n(b) Dubai Law is law made by the Ruler, as applicable in the Emirate of Dubai;   \n(c) DIFC Law is law made by the Ruler (including, by way of example, the Law), as applicable in the DIFC;and   \n(d) the Law is the Personal Property Law 2005 made by the Ruler. ",
+        "bbox": [
+            166,
+            551,
+            892,
+            667
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "3. Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            680,
+            273,
+            694
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In the Law, unless the context indicates otherwise, the defined terms listed below shall have the corresponding meanings: ",
+        "bbox": [
+            157,
+            709,
+            890,
+            736
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/93705c61d790df0bd388fb6ad616597fe213256a6671e65a48e0581d456ff19d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Term</td><td colspan=\"1\" rowspan=\"1\">Definition</td></tr><tr><td colspan=\"1\" rowspan=\"1\">account holder</td><td colspan=\"1\" rowspan=\"1\">a person in whose name an investment intermediary maintains an investmentaccount, whether that person is acting for his own account or for others (includingin the capacity of investment intermediary).</td></tr><tr><td colspan=\"1\" rowspan=\"1\">action</td><td colspan=\"1\" rowspan=\"1\">includes counterclaim and set-off.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Authorised Market Institution</td><td colspan=\"1\" rowspan=\"1\">a person who is licensed by the DFSA in relation to the carrying on of one ormore Financial Services prescribed pursuant to Article 42(1)(b) of the RegulatoryLaw 2004, or a person who is licensed in another jurisdiction to carry on one ormore Financial Services.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">or more Financial Services prescribed pursuant to Article 42(1)(a) of theRegulatory Law 2004, or a person who holds a licence in another jurisdiction tocarry on one or more Financial Services.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">bearer security</td><td colspan=\"1\" rowspan=\"1\">a security which by its terms is payable to the bearer of the security certificate,and includes any certificate which has been generally endorsed.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Business Rules</td><td colspan=\"1\" rowspan=\"1\">rules of an Authorised Market Institution governing the conduct of its businessand which are in accordance with the laws and regulations applicable to theconduct of its business.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">certificated investment</td><td colspan=\"1\" rowspan=\"1\">an investment (other than a future or option) whose existence is embodied in aphysical certificate.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">contract of sale</td><td colspan=\"1\" rowspan=\"1\">includes an agreement to sell as well as a sale.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">control</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to it in Article 20.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Court</td><td colspan=\"1\" rowspan=\"1\">the DIFC Court as established under Dubai Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">delivery</td><td colspan=\"1\" rowspan=\"1\">voluntary transfer of possession from one person to another and includes any actof separation by which property becomes unconditionally appropriated to acontract, and in the context of a Digital Asset, means a change of control underArticle 10 of the Digital Assets Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DFSA</td><td colspan=\"1\" rowspan=\"1\">the Dubai Financial Services Authority.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC</td><td colspan=\"1\" rowspan=\"1\">the Dubai International Financial Centre, established under Dubai Law</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Digital Asset</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in the Digital Assets Law</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Digital Assets Law</td><td colspan=\"1\" rowspan=\"1\">means the Financial Collateral Digital Assets Law DIFC Law No. 2 of 2024</td></tr><tr><td colspan=\"1\" rowspan=\"1\">endorsement</td><td colspan=\"1\" rowspan=\"1\">a signature that alone or accompanied by other words is made on a security or ona separate document for the purpose of assigning, transferring, or redeeming thesecurity or underlying property or granting a power to assign, transfer or redeemthe security or underlying property.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">entitlement holder</td><td colspan=\"1\" rowspan=\"1\">has the meaning prescribed in the Rules made under the Regulatory Law 2004.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Financial Collateral</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in the Law of Security.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Financial Property</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in the Law of Security.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Financial Service</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in the Rules made under Article 41 of the Regulatory Law2004.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">future</td><td colspan=\"1\" rowspan=\"1\">has the meaning prescribed in the Rules made under the Regulatory Law2004.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">instruction</td><td colspan=\"1\" rowspan=\"1\">a notification which directs that the transfer of the investment be registered or thatthe investment be redeemed.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">investment</td><td colspan=\"1\" rowspan=\"1\">has the meaning prescribed in the Rules made under the Regulatory Law 2004provided that:(a)   Negotiable Instruments; and(b)  commodities (and rights and interest in commodities)traded on an Authorised Market Institution shall be investments for the purpose ofthis Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">investment account</td><td colspan=\"1\" rowspan=\"1\">safekeeping of assets by way of custody, collateral or margin. An investmentaccount includes investments and investment entitlements, and cash provided asmargin in connection with the clearing and settlement operations of an AuthorisedMarket Institution.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">investment entitlement</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in the Law of Security.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">investment intermediary</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in the Law of Security.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Law</td><td colspan=\"1\" rowspan=\"1\">the Personal Property Law 2005.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Law of Security</td><td colspan=\"1\" rowspan=\"1\">the Law of Security DIFC Law No. 4 of 2024.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Liquidator</td><td colspan=\"1\" rowspan=\"1\">any person acting in a capacity as liquidator of a person, whether under theInsolvency Law or otherwise.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Money</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in the Law of Security.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Negotiable Instrument</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in the Law of Obligations DIFC Law No. 5 of 2005.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Negotiable Document</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in the Law of Security.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">property</td><td colspan=\"1\" rowspan=\"1\">anything which is capable of being owned and transferred and as the contextrequires denotes either the property itself or title to the property</td></tr><tr><td colspan=\"1\" rowspan=\"1\">purchaser</td><td colspan=\"1\" rowspan=\"1\">a person who has acquired or is in the process of acquiring title (whethercontingent or absolute) to any property other than as a recipient of a gratuitous orother voluntary transfer.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">real property</td><td colspan=\"1\" rowspan=\"1\">any right or interest in land.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">receiver</td><td colspan=\"1\" rowspan=\"1\">any person acting in a capacity as receiver of a person, whether under theInsolvency Law or otherwise.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">registered form</td><td colspan=\"1\" rowspan=\"1\">as applied to a certificated security, means a form in which a transfer of thesecurity may be registered upon books maintained for that purpose by or on behalfof the issuer.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Regulatory Law</td><td colspan=\"1\" rowspan=\"1\">the Regulatory Law 2004.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">relevant intermediary</td><td colspan=\"1\" rowspan=\"1\">with respect to an account holder, an investment intermediary who maintains aninvestment account for the account holder.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Ruler</td><td colspan=\"1\" rowspan=\"1\">the ruler of the Emirate of Dubai.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Rules</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in Article 2 of Schedule 1 of the Regulatory Law 2004.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">sale</td><td colspan=\"1\" rowspan=\"1\">includes an agreement as well as a sale and delivery.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Schedule</td><td colspan=\"1\" rowspan=\"1\">a schedule to the Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Secured Creditor</td><td colspan=\"1\" rowspan=\"1\">has the meaning set out in the Law of Security.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">security</td><td colspan=\"1\" rowspan=\"1\">has the meaning prescribed in the Rules made under the Regulatory Law 2004.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Security Agreement</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in the Law of Security.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Security Right</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in the Law of Security.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">share</td><td colspan=\"1\" rowspan=\"1\">has the meaning prescribed in the Rules made under the Regulatory Law 2004</td></tr><tr><td colspan=\"1\" rowspan=\"1\">third party property interest</td><td colspan=\"1\" rowspan=\"1\">an interest in any property which could be asserted adversely to the interest of apurchaser of that property; this includes both property rights in existence at thetime of purchase and property rights which may arise, by operation of law orjudicial decision.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">transfer</td><td colspan=\"1\" rowspan=\"1\">in respect of property, a transfer of title to property.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">transfer authority</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to it in Article 19 and shall include the \"right\" to transfertitle.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">transferee</td><td colspan=\"1\" rowspan=\"1\">in respect of property, a person who seeks to have title to property transferred tohimself, and includes a buyer.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">transferor</td><td colspan=\"1\" rowspan=\"1\">in respect of property, a person who seeks to transfer title to that property toanother, whether or not he owns such property at the time of the transfer, andincludes a seller.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">uncertificated investment</td><td colspan=\"1\" rowspan=\"1\">an investment that is not represented by a certificate.</td></tr></table>",
+        "bbox": [
+            117,
+            736,
+            899,
+            904
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            890,
+            57
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "16 ",
+        "bbox": [
+            492,
+            944,
+            509,
+            956
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "18 ",
+        "bbox": [
+            490,
+            944,
+            509,
+            956
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "CONFIDENTIAL ",
+        "bbox": [
+            31,
+            19,
+            134,
+            29
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "PERSONAL PROPERTY LAW",
+        "bbox": [
+            631,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 20
+    }
+]
