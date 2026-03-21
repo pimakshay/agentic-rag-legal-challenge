@@ -1,0 +1,2853 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            423,
+            387,
+            630,
+            438
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "text_level": 1,
+        "bbox": [
+            148,
+            523,
+            851,
+            593
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC LAW NO. 6 OF 2005 ",
+        "bbox": [
+            263,
+            606,
+            735,
+            638
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Consolidated Version (March 2024) ",
+        "bbox": [
+            426,
+            670,
+            571,
+            702
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As amended by ",
+        "bbox": [
+            447,
+            722,
+            550,
+            737
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC Laws Amendment Law DIFC Law No. 3 of 2024 ",
+        "bbox": [
+            400,
+            756,
+            598,
+            789
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC Laws Amendment Law DIFC Law No. 2 of 2022 ",
+        "bbox": [
+            400,
+            809,
+            598,
+            842
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            436,
+            78,
+            529,
+            93
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 1: GENERAL . ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            107,
+            893,
+            121
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Title ... Legislative Authority 1 Application of the Law... 1 4. Date of enactment .... 1 5. Commencement . 6. Interpretation..... ",
+        "bbox": [
+            102,
+            122,
+            893,
+            208
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 2: IMPLIED TERMS IN CONTRACTS... ",
+        "text_level": 1,
+        "bbox": [
+            101,
+            224,
+            897,
+            238
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7. Scope of this part.... 2 ",
+        "bbox": [
+            99,
+            242,
+            890,
+            256
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1: SALE OR SUPPLY OF PROPERTY .",
+        "text_level": 1,
+        "bbox": [
+            98,
+            270,
+            892,
+            285
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8. Application. . 2   \n9. Implied terms about title . . 2   \n10. Implied terms where sale or supply is by description . . 3   \n11. Implied terms about quality or fitness . . 3   \n12. Sale or supply by sample.... . 4 ",
+        "bbox": [
+            102,
+            286,
+            895,
+            359
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 2: CONTRACTS FOR THE HIRE OF PROPERTY.",
+        "text_level": 1,
+        "bbox": [
+            102,
+            375,
+            893,
+            388
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "13. Implied terms about right to transfer possession.. ... 4   \n14. Implied terms where hire is by description .. 4   \n15. Implied terms about quality or fitness .. . 5   \n16. Implied terms where hire is by sample. . 5 ",
+        "bbox": [
+            104,
+            390,
+            897,
+            448
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 3: CONTRACTS FOR THE SUPPLY OF SERVICES 6 ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            463,
+            895,
+            478
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "17. Implied term about care and skill. ... 6   \n18. Implied term about time for performance . 6   \n19. Relation to other remedies . ... 6 ",
+        "bbox": [
+            104,
+            479,
+            897,
+            522
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 4: OTHER TERMS RELATING TO TRANSFER OF PROPERTY.. 6",
+        "text_level": 1,
+        "bbox": [
+            102,
+            537,
+            897,
+            553
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "20. Conformity with the contract . .................................................................................... ....... 6   \n21. Property must be ascertained... ..................................................................................................... 6   \n22. Passing of risk . ......................................................................... .... 7   \n23. Undivided shares in property forming part of a bulk .   \n24. Deemed consent by co-owner to dealings in bulk property ................................................................................. 7   \n25. Rules about delivery......   \n26. Delivery of wrong quantity .....   \n27. Delivery to carrier ...... ................................................................................. 9   \n28. Transferee’s right of examining the property .................. .............................................................................. 9   \n29. Acceptance... ............................................. .... 9   \n30. Delivery of property otherwise than in conformity with the contract . ............................................................. 9 ",
+        "bbox": [
+            102,
+            554,
+            897,
+            713
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 5: AUCTIONS .10 ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            728,
+            895,
+            743
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "31. Auction sales ..... ....10   \n32. Rights enforceable by action. ...10   \n33. Savings: rules of law ..... ...10   \n34. Exclusion of implied terms . ...10 ",
+        "bbox": [
+            102,
+            746,
+            897,
+            803
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 3: UNFAIR TERMS ..... ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            818,
+            893,
+            832
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "35. Application.. ..11   \n36. Scope..... ..................................................................................................................... ....11   \n37. Negligence liability ...... .............................................................................................................................. ......12   \n38. Liability arising in contract ............................................................................................................................ ...12   \n39. Sale, supply and hire .... ................................................................................................................................ ...12   \n40. The ‘reasonableness’ test .............................................................................................................................. ......12 ",
+        "bbox": [
+            102,
+            834,
+            895,
+            921
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            338,
+            45,
+            892,
+            60
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            493,
+            939,
+            503,
+            952
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "41. Varieties of exemption clause .......... ..13 ",
+        "bbox": [
+            106,
+            73,
+            897,
+            89
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 1 ... .14 ",
+        "bbox": [
+            106,
+            103,
+            897,
+            118
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 2 ................ ..18 ",
+        "bbox": [
+            107,
+            121,
+            897,
+            135
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ii ",
+        "bbox": [
+            491,
+            940,
+            504,
+            952
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            336,
+            44,
+            893,
+            60
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PART 1: GENERAL ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            88,
+            253,
+            104
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Title This Law may be cited as \"The Implied Terms in Contracts and Unfair Terms Law 2005\". ",
+        "bbox": [
+            161,
+            119,
+            756,
+            166
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Legislative Authority ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            180,
+            313,
+            195
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law is made by the Ruler of Dubai. ",
+        "bbox": [
+            163,
+            210,
+            431,
+            226
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Application of the Law ",
+        "text_level": 1,
+        "bbox": [
+            165,
+            241,
+            325,
+            256
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law applies in the jurisdiction of the Dubai International Financial Centre. ",
+        "bbox": [
+            161,
+            271,
+            686,
+            286
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. Date of enactment ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            301,
+            294,
+            316
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law is enacted on the date specified in the Enactment Notice in respect of this Law. ",
+        "bbox": [
+            161,
+            332,
+            746,
+            347
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Commencement ",
+        "text_level": 1,
+        "bbox": [
+            161,
+            362,
+            279,
+            377
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law comes into force on the date specified in the Enactment Notice in respect of this Law. ",
+        "bbox": [
+            158,
+            392,
+            790,
+            409
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. Interpretation ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            422,
+            266,
+            438
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Schedule 1 contains: ",
+        "bbox": [
+            163,
+            453,
+            300,
+            468
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) interpretative provisions which apply to the Law; and (b) interpretative provisions which apply to this Law; and (c) a list of defined terms used in this Law. ",
+        "bbox": [
+            161,
+            483,
+            576,
+            560
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            338,
+            45,
+            893,
+            60
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            493,
+            940,
+            503,
+            952
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PART 2: IMPLIED TERMS IN CONTRACTS ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            88,
+            436,
+            104
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7. Scope of this part ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            119,
+            287,
+            136
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) This Part applies to any contract governed by the law of the DIFC, subject to Articles 7(2) and 7(3). ",
+        "bbox": [
+            156,
+            148,
+            877,
+            166
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2) This Part does not apply to: ",
+        "bbox": [
+            163,
+            180,
+            405,
+            195
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) any contract so far as it relates to real estate; ",
+        "bbox": [
+            220,
+            210,
+            575,
+            227
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(b) any contract so far as it relates: ",
+        "bbox": [
+            218,
+            241,
+            486,
+            256
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(i) to the formation or dissolution of a body corporate or unincorporated association; or ",
+        "bbox": [
+            282,
+            271,
+            893,
+            286
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(ii) to its constitution or the rights or obligations of its members or partners; or ",
+        "bbox": [
+            276,
+            301,
+            836,
+            318
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(c) any contract so far as it relates to the creation or transfer of securities or of any right or interest in securities. ",
+        "bbox": [
+            202,
+            332,
+            895,
+            362
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3) A provision of this Part implying a term may be excluded by contrary agreement in accordance with Article 34. ",
+        "bbox": [
+            160,
+            377,
+            895,
+            407
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1 – SALE OR SUPPLY OF PROPERTY",
+        "text_level": 1,
+        "bbox": [
+            104,
+            421,
+            473,
+            438
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8. Application ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            453,
+            248,
+            468
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This Chapter applies to contracts for the transfer of property. ",
+        "bbox": [
+            163,
+            483,
+            563,
+            500
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "9. Implied terms about title ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            513,
+            339,
+            529
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) In a contracts for the transfer of property, other than one to which Article 9(3) applies, there is an implied term on the part of the transferor that he has a right to transfer title to the property, and in the case of an agreement to transfer he will have such a right at the time when the property is to pass. ",
+        "bbox": [
+            161,
+            544,
+            897,
+            589
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In a contract of transfer, other than one to which Article 9(3) applies, there is also an implied term that:   \n(a) the property is free, and will remain free until the time when the property is to pass, from any third party property right not disclosed or known to the transferee before the contract is made; and   \n(b) the transferee will enjoy quiet possession of the property except so far as it may be disturbed by the owner or other person entitled to the benefit of any third party property right so disclosed or known. ",
+        "bbox": [
+            217,
+            607,
+            892,
+            708
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3) This Article 9(3) applies to a contract of transfer in the case of which there appears from the contract or is to be inferred from its circumstances an intention that the transferor should transfer only such title as he or a third person may have. ",
+        "bbox": [
+            161,
+            724,
+            895,
+            770
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4) In a contract to which Article 9(3) applies there is an implied term that all third party property rights known to the transferor and not known to the transferee have been disclosed to the transferee before the contract is made. ",
+        "bbox": [
+            161,
+            785,
+            895,
+            830
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(5) In a contract to which Article 9(3) applies there is also an implied term that none of the following will disturb the transferee’s quiet possession of the property: ",
+        "bbox": [
+            158,
+            845,
+            893,
+            877
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) the transferor; ",
+        "bbox": [
+            222,
+            892,
+            375,
+            906
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            338,
+            45,
+            892,
+            60
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            493,
+            940,
+            504,
+            952
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(b) in a case where the parties to the contract intend that the transferor should transfer only such title as a third person may have, that person;   \n(c) anyone claiming through or under the transferor or that third person otherwise than under a third party property right disclosed or known to the transferee before the contract is made. ",
+        "bbox": [
+            218,
+            74,
+            895,
+            151
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "10. Implied terms where sale or supply is by description ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            165,
+            531,
+            181
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) Where there is a contracts for the transfer of property by description, there is an implied term that the property will correspond with the description.   \n(2) If the contract of transfer is by sample as well as by description it is not sufficient that the bulk of the property corresponds with the sample if the property does not also correspond with the description.   \n(3) A contract of transfer of property is not prevented from being a contract of transfer by description by reason only that the property is selected by the transferee.   \n(4) A contract is not prevented from falling within Article 10(1) by reason only that, being exposed for supply, the property is selected by the transferee. ",
+        "bbox": [
+            161,
+            195,
+            895,
+            363
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "11. Implied terms about quality or fitness ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            377,
+            429,
+            393
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) Except as provided by this Article 11 and Article 12 (Sale or supply by sample) and subject to any other law, there is no implied term about the quality or fitness for any particular purpose of property supplied under a contract of transfer. ",
+        "bbox": [
+            155,
+            407,
+            893,
+            454
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) Where the transferor transfers property in the course of a business under a contract of transfer, there is an implied term that the property supplied under the contract is of satisfactory quality. ",
+        "bbox": [
+            158,
+            468,
+            893,
+            500
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3) For the purposes of this Part, property is of satisfactory quality if it meets the standard that a reasonable person would regard as satisfactory, taking account of any description of the property, the price (if relevant) and all the other relevant circumstances. ",
+        "bbox": [
+            156,
+            513,
+            895,
+            559
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4) For the purposes of this Part, the quality of property includes its state and condition and the following (among others) are in appropriate cases aspects of the quality of property: ",
+        "bbox": [
+            160,
+            574,
+            893,
+            606
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) fitness for all the purposes for which property of the kind in question is commonly supplied;   \n(b) appearance and finish;   \n(c) freedom from minor defects;   \n(d) safety; and (e) durability. ",
+        "bbox": [
+            212,
+            618,
+            890,
+            757
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(5) The term implied by Article 11(2) does not extend to any matter making the quality of property unsatisfactory: ",
+        "bbox": [
+            161,
+            772,
+            895,
+            803
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) which is specifically drawn to the transferee’s attention before the contract is made;   \n(b) where the transferee examines the property before the contract is made, which that examination ought to reveal; or   \n(c) in the case of a contract for sale by sample, which would have been apparent on a reasonable examination of the sample. ",
+        "bbox": [
+            220,
+            816,
+            893,
+            924
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            338,
+            45,
+            893,
+            60
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            493,
+            940,
+            504,
+            952
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(6) Where the transferor transfers property in the course of a business and the transferee, expressly or by implication, has made known to the transferor in the course of negotiations any particular purpose for which the property is being bought, there is an implied term that the property supplied under the contract is reasonably fit for that purpose, whether or not that is a purpose for which such property is commonly supplied, except where the circumstances show that the transferee does not rely, or that it is unreasonable for him to rely, on the skill or judgment of the transferor. ",
+        "bbox": [
+            161,
+            74,
+            893,
+            166
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(7) This Article 11 applies to a sale by a person who in the course of a business is acting as agent for another as it applies to a sale by a principal in the course of a business. ",
+        "bbox": [
+            155,
+            180,
+            892,
+            212
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "12. Sale or supply by sample ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            226,
+            339,
+            241
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) A contract of transfer is a contract of transfer by sample where there is an express or implied term to that effect in the contract. ",
+        "bbox": [
+            148,
+            256,
+            897,
+            286
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2) In the case of a contract of transfer by sample there is an implied term: ",
+        "bbox": [
+            156,
+            301,
+            687,
+            318
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) that the bulk will correspond with the sample in quality; and   \n(b) that the property will be free from any defect, making its quality unsatisfactory, which would not be apparent on reasonable examination of the sample. ",
+        "bbox": [
+            191,
+            329,
+            897,
+            393
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 2 – CONTRACTS FOR THE HIRE OF PROPERTY",
+        "text_level": 1,
+        "bbox": [
+            104,
+            406,
+            560,
+            422
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "13. Implied terms about right to transfer possession ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            438,
+            500,
+            453
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) In a contract for the hire of property there is an implied term on the part of the transferor of the property hired that in the case of a hire he has a right to transfer possession of the property by way of hire for the period of the hire and in the case of an agreement to hire he will have such a right at the time of the hire. ",
+        "bbox": [
+            161,
+            468,
+            893,
+            529
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2) In a contract for the hire of property there is also an implied term that the transferee will enjoy quiet possession of the property for the period of the hire except so far as the possession may be disturbed by the owner or other person entitled to the benefit of any charge or encumbrance disclosed or known to the transferee before the contract is made. ",
+        "bbox": [
+            161,
+            544,
+            895,
+            604
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3) This Article 13 does not affect the right of the transferor to repossess the property under an express or implied term of the contract. ",
+        "bbox": [
+            163,
+            619,
+            893,
+            650
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "14. Implied terms where hire is by description ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            665,
+            460,
+            681
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) This Article 14 applies where, under a contract for the hire of property, the transferor hires out or agrees to hire out the property by description.   \n(2) In such a case there is an implied term that the property will correspond with the description.   \n(3) If under the contract the transferor hires out or agrees to hire out the property by reference to a sample as well as a description it is not sufficient that the bulk of the property corresponds with the sample if the property does not also correspond with the description.   \n(4) A contract is not prevented from falling within Article 14(1) by reason only that, being exposed for supply, the property is selected by the transferee. ",
+        "bbox": [
+            153,
+            695,
+            898,
+            863
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            338,
+            45,
+            892,
+            60
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            493,
+            940,
+            504,
+            952
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "15. Implied terms about quality or fitness ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            74,
+            429,
+            89
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) Except as provided by this Article 15 and Article 16 (Implied terms where hire is by sample) and subject to the provisions of any other law, there is no implied term about the quality or fitness for any particular purpose of property hired out under a contract for the hire of property. ",
+        "bbox": [
+            161,
+            104,
+            895,
+            150
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2) Where, under such a contract, the transferor hires out property in the course of a business, there is an implied term that the property supplied under the contract is of satisfactory quality. ",
+        "bbox": [
+            156,
+            165,
+            893,
+            195
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3) For the purposes of this Article 15 and Article 16 (Implied terms where hire is by sample), property is of satisfactory quality if it meets the standard that a reasonable person would regard as satisfactory, taking account of any description of the property, the consideration for the hire (if relevant) and all the other relevant circumstances. ",
+        "bbox": [
+            161,
+            210,
+            893,
+            271
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4) For the purposes of this Article 15, the quality of property includes its state and condition and the following (among others) are in appropriate cases aspects of the quality of property: ",
+        "bbox": [
+            158,
+            286,
+            893,
+            318
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) fitness for all the purposes for which property of the kind in question is commonly supplied;   \n(b) appearance and finish;   \n(c) freedom from minor defects;   \n(d) safety; and (e) durability. ",
+        "bbox": [
+            215,
+            332,
+            888,
+            469
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(5) The term implied by Article 15(2) does not extend to any matter making the quality of the property unsatisfactory: ",
+        "bbox": [
+            160,
+            483,
+            893,
+            513
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) which is specifically drawn to the transferee’s attention before the contract is made;   \n(b) where the transferee examines the property before the contract is made, which that examination ought to reveal; or   \n(c) where the property is hired out by reference to a sample, which would have been apparent on a reasonable examination of the sample. ",
+        "bbox": [
+            220,
+            529,
+            893,
+            636
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(6) Where, under a contract for the hire of property, the transferor hires out the property in the course of a business and the transferee, expressly or by implication, has made known to the transferor in the course of negotiations any particular purpose for which the property is being hired there is an implied term that the property supplied under the contract is reasonably fit for that purpose, whether or not that is a purpose for which such property is commonly supplied, except where the circumstances show that the transferee does not rely, or that it is unreasonable for him to rely, on the skill or judgment of the transferor. ",
+        "bbox": [
+            161,
+            650,
+            895,
+            756
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(7) This Article 15 applies to a hire by a person who in the course of a business is acting as agent for another as it applies to a hire by a principal in the course of a business. ",
+        "bbox": [
+            156,
+            771,
+            893,
+            803
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "16. Implied terms where hire is by sample ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            816,
+            433,
+            833
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) This Article 16 applies where, under a contract for the hire of property, the transferor transfers or agrees to transfer the property by reference to a sample. ",
+        "bbox": [
+            156,
+            847,
+            893,
+            878
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2) In such a case there is an implied term: ",
+        "bbox": [
+            160,
+            892,
+            477,
+            909
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            493,
+            940,
+            504,
+            952
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            338,
+            45,
+            893,
+            60
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) that the bulk will correspond with the sample in quality; and   \n(b) that the transferee will have a reasonable opportunity of comparing the bulk with the sample; and   \n(c) that the property will be free from any defect making its quality unsatisfactory which would not be apparent on reasonable examination of the sample. ",
+        "bbox": [
+            220,
+            73,
+            893,
+            181
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For the purposes of this Article 16 a transferor hires out or agrees to hire out property by reference to a sample where there is an express or implied term to that effect in the contract concerned. ",
+        "bbox": [
+            194,
+            195,
+            895,
+            227
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 3 – CONTRACTS FOR THE SUPPLY OF SERVICES ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            239,
+            575,
+            256
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "17. Implied term about care and skill ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            271,
+            398,
+            286
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In a contract for the supply of a service where the supplier is acting in the course of a business, there is an implied term that the supplier will carry out the service with reasonable care and skill. ",
+        "bbox": [
+            161,
+            301,
+            895,
+            332
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "18. Implied term about time for performance ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            347,
+            455,
+            362
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) Where, under a contract for the supply of a service by a supplier acting in the course of a business, the time for the service to be carried out is not fixed by the contract, left to be fixed in a manner agreed by the contract or determined by the course of dealing between the parties, there is an implied term that the supplier will carry out the service within a reasonable time. ",
+        "bbox": [
+            161,
+            377,
+            897,
+            438
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2) What is a reasonable time is a question of fact. ",
+        "bbox": [
+            163,
+            452,
+            529,
+            468
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 4 – OTHER TERMS RELATING TO TRANSFER OF PROPERTY",
+        "text_level": 1,
+        "bbox": [
+            102,
+            482,
+            666,
+            498
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "19. Relation to other remedies ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            513,
+            351,
+            529
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) If the transferee requires the transferor to repair or replace the property the transferee must not act under Article 19(2) until he has given the transferor a reasonable time in which to repair or replace (as the case may be) the property. ",
+        "bbox": [
+            161,
+            544,
+            895,
+            590
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2) The transferee acts under this Article 19 if: ",
+        "bbox": [
+            161,
+            604,
+            504,
+            621
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) he rejects the property and terminates the contract for breach of term; and (b) he requires the property to be replaced or repaired (as the case may be). ",
+        "bbox": [
+            220,
+            635,
+            764,
+            681
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "20. Conformity with the contract ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            695,
+            370,
+            710
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Property does not conform to a contract for the sale, supply or transfer of property if: ",
+        "bbox": [
+            161,
+            726,
+            722,
+            742
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) there is, in relation to the property, a breach of an express or implied term of the contract; or   \n(b) installation of the property forms part of the contract for the transfer of property, and the property was installed by the transferor, or under his responsibility, in breach of the term implied by Article 17 (Implied term about care and skill). ",
+        "bbox": [
+            161,
+            756,
+            897,
+            833
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "21. Property must be ascertained ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            847,
+            370,
+            862
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Subject to Article 23 (Undivided shares in property forming part of a bulk), where there is a contract for the sale of unascertained property no title in the property is transferred to the transferee unless and until the property is ascertained, save that this Article 21 shall not apply if the property is a Digital Asset. ",
+        "bbox": [
+            161,
+            877,
+            895,
+            924
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            336,
+            45,
+            893,
+            60
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            493,
+            940,
+            504,
+            952
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "22. Passing of risk ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            74,
+            267,
+            89
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) Property remains at the transferor’s risk until the property in it is transferred to the transferee, but when the property in it is transferred to the transferee the property is at the transferee’s risk whether delivery has been made or not.   \n(2) But where delivery has been delayed through the fault of either transferee or transferor the property is at the risk of the party at fault as regards any loss which might not have occurred but for such fault.   \n(3) Nothing in this Article 22 affects the duties or liabilities of either transferor or transferee as a bailee of the property of the other party. ",
+        "bbox": [
+            145,
+            104,
+            895,
+            242
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "23. Undivided shares in property forming part of a bulk ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            256,
+            531,
+            272
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) This Article 23 applies to a contract for the sale of a specified quantity of unascertained property if the following terms are met: ",
+        "bbox": [
+            151,
+            286,
+            895,
+            316
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) the property or some of it forms part of a bulk which is identified either in the contract or by subsequent agreement between the parties;   \n(b) the transferee has paid the price for some or all of the property which is the subject of the contract and which forms part of the bulk; and   \n(c) the property is not a Digital Asset ",
+        "bbox": [
+            220,
+            332,
+            893,
+            439
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2) Where this Article 23 applies, then as soon as the terms specified in paragraphs (a) and (b) of Article 23(1) are met or at such later time as the parties may agree: ",
+        "bbox": [
+            165,
+            453,
+            893,
+            484
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) property in an undivided share in the bulk is transferred to the transferee; and (b) the transferee becomes an owner in common of the bulk. ",
+        "bbox": [
+            215,
+            497,
+            790,
+            544
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3) Subject to Article 23(4), the undivided share of a transferee in a bulk at any time is such share as the quantity of property paid for and due to the transferee out of the bulk bears to the quantity of property in the bulk at that time. ",
+        "bbox": [
+            165,
+            559,
+            892,
+            604
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4) Where the aggregate of the undivided shares of transferees in a bulk determined under Article 23(3) would at any time exceed the whole of the bulk at that time, the undivided share in the bulk of each transferee is reduced proportionately so that the aggregate of the undivided shares is equal to the whole bulk. ",
+        "bbox": [
+            161,
+            619,
+            895,
+            680
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(5) Where a transferee has paid the price for only some of the property due to him out of a bulk, any delivery to the transferee out of the bulk is ascribed in the first place to the property in respect of which payment has been made. ",
+        "bbox": [
+            160,
+            695,
+            892,
+            741
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(6) For the purposes of this Article 23 payment of part of the price for any property is treated as payment for a corresponding part of the property. ",
+        "bbox": [
+            166,
+            756,
+            893,
+            787
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "24. Deemed consent by co-owner to dealings in bulk property ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            801,
+            565,
+            818
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Subject to Article 24(4), a person who has become an owner in common of a bulk by virtue of Article 23 (Undivided shares in property forming part of a bulk) is conclusively presumed to have agreed to: ",
+        "bbox": [
+            186,
+            832,
+            893,
+            863
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) any delivery of property out of the bulk to any other owner in common of the bulk, being property which is due to him under his contract; ",
+        "bbox": [
+            214,
+            877,
+            895,
+            909
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            338,
+            45,
+            892,
+            60
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            493,
+            940,
+            503,
+            952
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(b) any dealing with or removal, delivery or disposal of property in the bulk by any other person who is an owner in common of the bulk in so far as the property falls within that co-owner’s undivided share in the bulk at the time of the dealing, removal, delivery or disposal. ",
+        "bbox": [
+            218,
+            74,
+            895,
+            119
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2) No cause of action accrues to anyone against a person by reason of that person having acted in accordance with paragraph (a) or (b) of Article 24(1) in reliance on any agreement presumed to have been given under that Article 24(1). ",
+        "bbox": [
+            165,
+            135,
+            893,
+            181
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3) Nothing in this Article 24: ",
+        "bbox": [
+            165,
+            195,
+            397,
+            210
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) imposes an obligation on a transferee of property out of a bulk to compensate any other buyer of property out of that bulk for any shortfall in the property received by that other buyer;   \n(b) affects any contractual arrangement between transferees of property out of a bulk for adjustments between themselves; or   \n(c) affects the rights of any transferee under his contract. ",
+        "bbox": [
+            220,
+            224,
+            893,
+            333
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(4) This Article 24 shall not apply to property that is a Digital Asset. ",
+        "bbox": [
+            155,
+            347,
+            647,
+            363
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "25. Rules about delivery ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            377,
+            308,
+            392
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) Whether it is for the transferee to take possession of the property or for the transferor to send it to the transferee is a question depending in each case on the contract, express or implied, between the parties.   \n(2) Apart from any such contract, express or implied, the place of delivery is the transferor’s place of business if he has one, and if not, his residence.   \n(3) Where under the contract of sale or supply the transferor is bound to send the property to the transferee, but no time for sending it is fixed, the transferor is bound to send it within a reasonable time and at a reasonable hour.   \n(4) Where the property at the time of sale is in the possession of a third person, there is no delivery by transferor to transferee unless and until the third person acknowledges to the transferee that he holds the property on his behalf; but nothing in this Article 25 affects the operation of the issue or transfer of any document or instrument of title to property.   \n(5) The expenses of and incidental to putting the property into a deliverable state must be borne by the transferor. ",
+        "bbox": [
+            150,
+            405,
+            895,
+            665
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "26. Delivery of wrong quantity ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            680,
+            354,
+            695
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) Where the transferor delivers to the transferee a quantity of property less than he contracted to transfer, the transferee may reject it.   \n(2) Where the transferor delivers to the transferee a quantity of property larger than he contracted to transfer, the transferee may accept the property included in the contract and reject the rest, or he may reject the whole.   \n(3) Where the transferor delivers to the transferee a quantity of property larger than he contracted to transfer and the transferee accepts the whole of the property so delivered he must pay for it at the contract rate.   \n(4) This Article 26 is subject to any usage of trade, special agreement, or course of dealing between the parties. ",
+        "bbox": [
+            150,
+            710,
+            895,
+            893
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            338,
+            45,
+            892,
+            60
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            493,
+            940,
+            504,
+            952
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "27. Delivery to carrier ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            74,
+            295,
+            89
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) Where, in pursuance of a contract of sale or supply, the transferor is authorised or required to send the property to the transferee, delivery of the property to a carrier (whether named by the transferee or not) for the purpose of transmission to the transferee is presumed to be a delivery of the property to the transferee. ",
+        "bbox": [
+            161,
+            104,
+            895,
+            165
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2) Unless otherwise authorised by the transferee, the transferor must make such contract with the carrier on behalf of the transferee as may be reasonable having regard to the nature of the property and the other circumstances of the case; and if the transferor omits to do so, and the property is lost or damaged in course of transit, the transferee may decline to treat the delivery to the carrier as a delivery to himself or may hold the transferor responsible in damages. ",
+        "bbox": [
+            161,
+            180,
+            895,
+            256
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "28. Transferee’s right of examining the property ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            271,
+            478,
+            286
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "When the transferor tenders delivery of property to the transferee, he must give the transferee on request a reasonable opportunity of examining the property for the purpose of ascertaining whether it is in conformity with the contract and, in the case of a contract for sale or supply by sample, of comparing the bulk with the sample. ",
+        "bbox": [
+            163,
+            301,
+            893,
+            347
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "29. Acceptance ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            362,
+            246,
+            377
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Article 29(2) the transferee is deemed to have accepted the property: ",
+        "bbox": [
+            156,
+            392,
+            743,
+            409
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) when he intimates to the transferor that he has accepted it; or   \n(b) when the property has been delivered to him and he does any act in relation to it which is inconsistent with the ownership of the transferor. ",
+        "bbox": [
+            220,
+            421,
+            893,
+            484
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2) Where property is delivered to the transferee, and he has not previously examined it, he is not deemed to have accepted it under Article 29(1) until he has had a reasonable opportunity of examining it for the purpose: ",
+        "bbox": [
+            163,
+            498,
+            895,
+            544
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) of ascertaining whether it is in conformity with the contract; and (b) in the case of a contract for sale or supply by sample, of comparing the bulk with the sample. ",
+        "bbox": [
+            218,
+            559,
+            892,
+            606
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(3) The transferee is also deemed to have accepted the property when after the lapse of a reasonable time he retains the property without intimating to the transferor that he has rejected it. ",
+        "bbox": [
+            160,
+            619,
+            892,
+            651
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "30. Delivery of property otherwise than in conformity with the contract ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            665,
+            637,
+            681
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) For the purposes of this Article 30, property is affected by a breach if by reason of the breach it is not in conformity with the contract.   \n(2) A transferee may reject property affected by a breach until he accepts it, but not after he has accepted it.   \n(3) Where property affected by a breach is delivered to the transferee, and he rejects it, he is not bound to return it to the transferor, but it may instead inform the transferor that he refuses to accept it.   \n(4) If the transferee: (a) has the right to reject the property by reason of a breach on the part of the transferor that affects some or all of it, but ",
+        "bbox": [
+            151,
+            695,
+            895,
+            893
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            338,
+            45,
+            892,
+            60
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            493,
+            940,
+            504,
+            952
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(b) accepts some of the property, including, where there is any property unaffected by the breach, all such property, ",
+        "bbox": [
+            207,
+            74,
+            893,
+            104
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "he does not by accepting it lose his right to reject the rest. ",
+        "bbox": [
+            161,
+            119,
+            542,
+            136
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 5 – AUCTIONS ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            148,
+            302,
+            165
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "31. Auction sales ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            180,
+            258,
+            195
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) Where property is put up for sale by auction in lots, each lot is deemed to be the subject of a separate contract of sale or supply.   \n(2) A sale by auction is complete when the auctioneer announces its completion by the fall of the hammer, or in other customary manner; and until the announcement is made any bidder may retract his bid.   \n(3) A sale by auction may be notified to be subject to a reserve, and a right to bid may also be reserved expressly by or on behalf of the transferor.   \n(4) Where a sale by auction is not notified to be subject to a right to bid by or on behalf of the transferor, it is not lawful for the transferor to bid himself or to employ any person to bid at the sale, or for the auctioneer knowingly to take any bid from the transferor or any such person.   \n(5) A sale contravening Article 31(4) may be treated as fraudulent by the transferee.   \n(6) Where, in respect of a sale by auction, a right to bid is expressly reserved (but not otherwise) the transferor or any one person on his behalf may bid at the auction. ",
+        "bbox": [
+            160,
+            209,
+            895,
+            469
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "32. Rights enforceable by action ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            483,
+            364,
+            498
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Where a right, duty or liability is established by this Part, it may (unless otherwise provided by this Part) be enforced by action. ",
+        "bbox": [
+            156,
+            513,
+            893,
+            544
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "33. Savings: rules of law ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            559,
+            310,
+            574
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) The Insolvency Law and any legislation made thereunder relating to contracts apply to those contracts, notwithstanding anything in this Part.   \n(2) The provisions of the other Parts of this Law, and of the Contract Law and the Law of Obligations, except in so far as they are inconsistent with the provisions of this Part, apply to contracts for the transfer of property.   \n(3) The provisions of this Part about contracts of sale do not apply to a transaction in the form of a contract of sale or supply which is intended to operate by way of security. ",
+        "bbox": [
+            161,
+            589,
+            895,
+            727
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "34. Exclusion of implied terms ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            741,
+            352,
+            756
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) Where a right, duty or liability would arise under a contract by virtue of this Part, it may (subject to Article 34(2) and Part 3 (Unfair Terms) be negatived or varied by express agreement, or by the course of dealing between the parties, or by such usage as binds both parties to the contract.   \n(2) An express term does not negative a term implied by this Part unless inconsistent with it.   \n(3) Nothing in this Part prejudices any rule of law which imposes on a contracting party a duty, or implies a term, stricter than that imposed under this Part. ",
+        "bbox": [
+            156,
+            771,
+            895,
+            893
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            338,
+            45,
+            892,
+            60
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "PART 3: UNFAIR TERMS ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            73,
+            299,
+            89
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "35. Application ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            104,
+            248,
+            121
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) Insofar as it relates to liability in contract, this Part applies to any contract governed by the law of the DIFC.   \n(2) Insofar as it relates to any other liability, this Part applies to any liability arising from, or in relation to, an act or omission in the DIFC. ",
+        "bbox": [
+            161,
+            133,
+            893,
+            212
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "36. Scope ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            226,
+            207,
+            241
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) This Part does not apply to: ",
+        "bbox": [
+            165,
+            256,
+            405,
+            272
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) any contract of insurance (including a contract to pay an annuity on human life);   \n(b) any contract so far as it relates to real estate;   \n(c) any contract so far as it relates to the creation, transfer or termination of a right or interest in any intellectual property, unless a Digital Asset is Constitutively Linked to or evidences that right or interest to any intellectual property; ",
+        "bbox": [
+            207,
+            286,
+            898,
+            393
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(d) any contract so far as it relates: ",
+        "bbox": [
+            220,
+            407,
+            486,
+            422
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(i) to the formation or dissolution of a body corporate or unincorporated association; or (ii) to its constitution or the rights or obligations of its members or partners; ",
+        "bbox": [
+            279,
+            438,
+            893,
+            484
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(e) any contract so far as it relates to the creation or transfer of securities or of any right or interest in securities, unless the securities are Digital Assets or a Digital Asset is Constitutively Linked to or evidences that right or interest in securities; ",
+        "bbox": [
+            227,
+            498,
+            897,
+            544
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "a contract of employment, except in favour of the employee; or (g) a contract whose characteristics are the following: ",
+        "bbox": [
+            277,
+            559,
+            696,
+            575
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(i) either it is a contract of sale or supply of property or it is one under or in pursuance of which the possession or ownership of property passes save that “property” in this article excludes property that is a Digital Asset); and   \n(ii) it is made by parties whose places of business are in the territories of different jurisdictions. ",
+        "bbox": [
+            272,
+            619,
+            895,
+            712
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) A contract falls within Article 36(1)(g)(i) only if: ",
+        "bbox": [
+            163,
+            726,
+            545,
+            742
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) the property in question is, at the time of the conclusion of the contract, in the course of carriage, or will be carried, from the territory of one jurisdiction to the territory of another;   \n(b) the acts constituting the offer and acceptance have been done in the territories of different jurisdictions; or   \n(c) the contract provides for the property to be delivered to the territory of a jurisdiction other than that within whose territory those acts were done. ",
+        "bbox": [
+            220,
+            756,
+            895,
+            878
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            336,
+            45,
+            893,
+            60
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "37. Negligence liability ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            74,
+            299,
+            90
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) A person cannot by reference to any contract term or to a notice given to persons generally or to particular persons exclude or restrict his liability for death or personal injury resulting from negligence.   \n(2) In the case of other loss or damage, a person cannot so exclude or restrict his liability for negligence except in so far as the term or notice satisfies the requirement of reasonableness.   \n(3) Where a contract term or notice purports to exclude or restrict liability for negligence a person’s agreement to or awareness of it is not of itself to be taken as indicating his voluntary acceptance of any risk. ",
+        "bbox": [
+            161,
+            104,
+            893,
+            241
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "38. Liability arising in contract ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            256,
+            357,
+            271
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) This Article applies as between contracting parties where one of them (Party A) deals on the other’s (Party B’s) written standard terms of business. ",
+        "bbox": [
+            155,
+            286,
+            893,
+            318
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) As against that party (Party A), the other (Party B) cannot by reference to any contract term: ",
+        "bbox": [
+            173,
+            332,
+            826,
+            348
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) when himself in breach of contract, exclude or restrict any liability of his in respect of the breach; or   \n(b) claim to be entitled:   \n(i) to render a contractual performance substantially different from that which was reasonably expected of him, or   \n(ii) in respect of the whole or any part of his contractual obligation, to render no performance at all, ",
+        "bbox": [
+            207,
+            361,
+            895,
+            422
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(c) compel that party (Party A) to seek legal recourse only by way of arbitration, except in so far as (in any of the cases mentioned above in this subsection) the contract term satisfies the requirement of reasonableness. ",
+        "bbox": [
+            218,
+            529,
+            789,
+            545
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "39. Sale, supply and hire ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            604,
+            312,
+            621
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) Liability for breach of the obligations arising from Article 9 (Implied undertakings as to title) cannot be excluded or restricted by reference to any contract term.   \n(2) Liability for breach of the obligations arising from Articles 10 to 18 cannot be excluded or restricted by reference to any contract term except in so far as the term satisfies the requirement of reasonableness. ",
+        "bbox": [
+            147,
+            635,
+            895,
+            712
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "40. The ‘reasonableness’ test ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            726,
+            339,
+            741
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) In relation to a contract term, the requirement of reasonableness for the purposes of this Law is that the term shall have been a fair and reasonable one to be included having regard to the circumstances which were, or ought reasonably to have been, known to or in the contemplation of the parties when the contract was made. ",
+        "bbox": [
+            161,
+            756,
+            897,
+            816
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) In determining whether a contract term satisfies the requirement of reasonableness, regard shall be had in particular to the matters specified in Schedule 2 to this Law; but this Article 40 does not prevent the Court or an arbitrator from holding, in accordance with any rule of law, that a term which purports to exclude or restrict any relevant liability is not a term of the contract. ",
+        "bbox": [
+            161,
+            832,
+            897,
+            892
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            338,
+            45,
+            893,
+            60
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3) In relation to a notice (not being a notice having contractual effect), the requirement of reasonableness under this Law is that it should be fair and reasonable to allow reliance on it, having regard to all the circumstances obtaining when the liability arose or (but for the notice) would have arisen. ",
+        "bbox": [
+            161,
+            74,
+            895,
+            119
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(4) Where by reference to a contract term or notice a person seeks to restrict liability to a specified sum of money, and the question arises (under this or any other law) whether the term or notice satisfies the requirement of reasonableness, regard shall be had in particular (but without prejudice to Article 40(2) in the case of contract terms) to: ",
+        "bbox": [
+            161,
+            135,
+            893,
+            195
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) the resources which he could expect to be available to him for the purpose of meeting the liability should it arise; and   \n(b) how far it was open to him to cover himself by insurance. ",
+        "bbox": [
+            220,
+            210,
+            893,
+            272
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "41. Varieties of exemption clause ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            286,
+            369,
+            301
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) To the extent that this Part prevents the exclusion or restriction of any liability it also prevents: ",
+        "bbox": [
+            156,
+            315,
+            843,
+            332
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) making the liability or its enforcement subject to restrictive or onerous conditions; (b) excluding or restricting any right or remedy in respect of the liability, or subjecting a person to any prejudice in consequence of his pursuing any such right or remedy; and (c) excluding or restricting rules of evidence or procedure, ",
+        "bbox": [
+            207,
+            345,
+            897,
+            439
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "and (to that extent) Articles 37 (Negligence liability) and 39 (Sale, supply and hire) also prevent excluding or restricting liability by reference to terms and notices which exclude or restrict the relevant obligation or duty. ",
+        "bbox": [
+            222,
+            452,
+            895,
+            498
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(2) An agreement in writing to submit present or future differences to arbitration is not to be treated under this Part as excluding or restricting any liability. ",
+        "bbox": [
+            158,
+            513,
+            892,
+            545
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            338,
+            45,
+            893,
+            60
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 1 ",
+        "text_level": 1,
+        "bbox": [
+            444,
+            74,
+            550,
+            89
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "1. Rules of interpretation ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            104,
+            325,
+            119
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(1) In this Law, a reference to: ",
+        "bbox": [
+            166,
+            135,
+            401,
+            150
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(a) a statutory provision includes a reference to the statutory provision as amended or re-enacted from time to time; ",
+        "bbox": [
+            205,
+            164,
+            897,
+            195
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(b) a person includes (i) a natural person or a body corporate; and (ii) a reference to a government, state, state agency, company, partnership or unincorporated association; ",
+        "bbox": [
+            220,
+            210,
+            397,
+            227
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(c) an obligation to publish or cause to be published a particular document shall, unless expressly provided otherwise in this Law, include publishing or causing to be published in printed or electronic form; ",
+        "bbox": [
+            218,
+            316,
+            897,
+            362
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(d) a day shall refer to a business day, being a calendar day, excluding Saturdays, Sundays and official public holidays; ",
+        "bbox": [
+            215,
+            377,
+            893,
+            409
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(e) a calendar year shall mean a year of the Gregorian calendar; ",
+        "bbox": [
+            218,
+            422,
+            676,
+            439
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(f) the masculine gender includes the feminine. ",
+        "bbox": [
+            222,
+            452,
+            571,
+            469
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(2) The headings in this Law shall not affect its interpretation. ",
+        "bbox": [
+            166,
+            483,
+            606,
+            500
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(3) References in this Law to a body corporate include a body corporate incorporated outside DIFC. ",
+        "bbox": [
+            169,
+            513,
+            856,
+            530
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(4) A reference in this Law to a Part, Article or Schedule by number only, and without further identification, is a reference to the Part, Article or Schedule of that number in this Law. ",
+        "bbox": [
+            161,
+            544,
+            892,
+            575
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(5) A reference in an Article or other division of this Law to a paragraph, sub-paragraph or Article by number or letter only, and without further identification, is a reference to the paragraph, sub-paragraph or Article of that number or letter contained in the Article or other division of this Law in which that reference occurs. ",
+        "bbox": [
+            161,
+            589,
+            897,
+            650
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(6) Unless the context otherwise requires, where this Law refers to an enactment, the reference is to that enactment as amended from time to time, and includes a reference to that enactment as extended or applied by or under another enactment, including any other provision of that enactment. ",
+        "bbox": [
+            161,
+            665,
+            897,
+            712
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(7) References to this Law to a writing, filing, instrument or certificate include any mode of communication that preserves a record of the information contained therein and is capable of being reproduced in tangible form, including electronic means. ",
+        "bbox": [
+            163,
+            726,
+            897,
+            772
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(8) A thing is deemed to be done in good faith within the meaning of this Law when it is in fact done honestly, whether it is done negligently or not. ",
+        "bbox": [
+            165,
+            786,
+            892,
+            818
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(9) Property is in a deliverable state within the meaning of this Law when it is in such a state that the transferee would under the contract be bound to take delivery of it. ",
+        "bbox": [
+            161,
+            832,
+            892,
+            863
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            336,
+            44,
+            893,
+            60
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "2. Legislation in the DIFC ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            88,
+            331,
+            104
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "References to legislation and Guidance in the Law shall be construed in accordance with the following provisions: ",
+        "bbox": [
+            156,
+            119,
+            841,
+            150
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) Federal Law is law made by the federal government of the United Arab Emirates;   \n(b) Dubai Law is law made by the government of the Emirate of Dubai;   \n(c) DIFC Law is law made by the President under Dubai Law (including, by way of example, the Law);   \n(d) the Contract Law is The Contract Law, DIFC Law No. 6 of 2004, made by the Ruler under Dubai Law;   \n(e) the Companies Law is The Companies Law, DIFC Law No. 5 of 2018, made by the Ruler under Dubai Law;   \n(f) the Regulations are legislation made by the Board of Directors of the DIFCA under the Law and are binding in nature;   \n(g) Guidance is indicative and non-binding and may comprise any standard or code of practice issued by the Board of Directors of the DIFCA which has not been incorporated into the Regulations. ",
+        "bbox": [
+            160,
+            162,
+            895,
+            409
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "3. Defined Terms ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            422,
+            269,
+            438
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In the Law, unless the context indicates otherwise, the defined terms listed below shall have the corresponding meanings. ",
+        "bbox": [
+            161,
+            453,
+            887,
+            482
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/3794cf5a2739f508fc1941e11fa8713a0d261e795e750c506f21d49a935b98a4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Term</td><td colspan=\"1\" rowspan=\"1\">Definition</td></tr><tr><td colspan=\"1\" rowspan=\"1\">action</td><td colspan=\"1\" rowspan=\"1\">Includes counterclaim and set-off.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">bailee</td><td colspan=\"1\" rowspan=\"1\">In relation to a contract for the hire of property means (depending on thecontext) a person to whom the property is hired out under the contract, ora person to whom it is to be so hired out, or a person to whom the rightsunder the contract of either of those persons have passed.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Board of Directors of theDIFCA</td><td colspan=\"1\" rowspan=\"1\">The governing body of the DIFCA.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">bulk</td><td colspan=\"1\" rowspan=\"1\">A mass or collection of property of the same kind which:(a) iis contained in a defined space or area; and(b)   is such that any property in the bulk is interchangeable with anyother property therein of the same number or quantity.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">business</td><td colspan=\"1\" rowspan=\"1\">Includes any business including a profession and the activities of anygovernment department or local or public authority.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Constitutively Linked</td><td colspan=\"1\" rowspan=\"1\">A Digital Asset is Constitutively Linked with another asset where theDigital Asset confers a right to the (other) asset, and where the right to theother asset can only be transferred if the conditions under Article 12 or 13of the Digital Assets Law are satisfied.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">contract for the hire ofproperty</td><td colspan=\"1\" rowspan=\"1\">A contract under which one person:(a)hires out; or(b) agrees to hire out;property to another and a contract within sub-paragraph (b) is an'agreement to hire'.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">contract for the supply of aservice</td><td colspan=\"1\" rowspan=\"1\">A contract under which a person (\"the supplier\") agrees to carry out aservice, other than a contract of employment, whether or not property isalso transferred or to be transferred, or hired out or to be hired out under</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">the contract.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">contract of transfer or contractfor the transfer of property</td><td colspan=\"1\" rowspan=\"1\">A contract by which the transferor transfers or agrees to transfer the titlein property to the transferee, and an agreement to transfer becomes atransfer when the time elapses or the terms are fulfilled subject to whichthe title in the property is to be transferred.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Court</td><td colspan=\"1\" rowspan=\"1\">Any court within the DIFC Courts, established under Dubai Law No. 12of 2004.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">delivery</td><td colspan=\"1\" rowspan=\"1\">Voluntary transfer of possession from one person to another except that inrelation to Articles 23 (Undivided shares in property forming part of abulk) and 24 (Deemed consent by co- owners to dealings in bulkproperty), it includes such appropriation of property to the contract asresults in title in the property being transferred to the transferee.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC</td><td colspan=\"1\" rowspan=\"1\">The Dubai International Financial Centre.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFCA</td><td colspan=\"1\" rowspan=\"1\">The DIFC Authority created under Dubai Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Digital Asset</td><td colspan=\"1\" rowspan=\"1\">Has the meaning given in Article 8 of the Digital Assets Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Digital Assets Law</td><td colspan=\"1\" rowspan=\"1\">The Digital Assets Law DIFC Law No. 2 of 2024.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">document</td><td colspan=\"1\" rowspan=\"1\">Includes summons, notice, statement, return, account, order and otherlegal process, and registers.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Insolvency Law</td><td colspan=\"1\" rowspan=\"1\">The Insolvency Law DIFC Law No. 1 of 2019.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Law</td><td colspan=\"1\" rowspan=\"1\">The Implied Terms in Contracts and Unfair Terms Law, DIFC Law No.6of 2005.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Law of Obligations</td><td colspan=\"1\" rowspan=\"1\">The Law of Obligations DIFC Law No. 5 of 2005.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">person</td><td colspan=\"1\" rowspan=\"1\">Has the meaning given in Article 1 of Schedule 1 to this Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">possession</td><td colspan=\"1\" rowspan=\"1\">In relation to \"possession\" of a Digital Asset, references in this Law topossession\" denote Control within the meaning of Article 10 of theDigital Assets Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">president</td><td colspan=\"1\" rowspan=\"1\">President of the DIFC.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">printed</td><td colspan=\"1\" rowspan=\"1\">Includes typewritten and photocopied versions of a printed or typewrittendocument.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">property</td><td colspan=\"1\" rowspan=\"1\">Includes all property other than real property, things in action and money.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">records</td><td colspan=\"1\" rowspan=\"1\">Documents and other records however stored.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">repair</td><td colspan=\"1\" rowspan=\"1\">In cases where there is a lack of conformity in property, to bring theproperty into conformity with the contract.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Ruler</td><td colspan=\"1\" rowspan=\"1\">the ruler of the Emirate of Dubai.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">securities</td><td colspan=\"1\" rowspan=\"1\">Has the meaning set out in the Markets Law, DIFC Law No. DIFC LawNo. 1 of 2012.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">supplier</td><td colspan=\"1\" rowspan=\"1\">In relation to a contract for the supply of a service, the person who agreesto carry out a service.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">third party property interest</td><td colspan=\"1\" rowspan=\"1\">An interest in any property which could be asserted adversely to theinterest of a purchaser of that property.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">transfer</td><td colspan=\"1\" rowspan=\"1\">A transfer of property by way of a sale or supply under contract.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">transferee</td><td colspan=\"1\" rowspan=\"1\">A person to whom property is transferred or to be transferred undercontract, or a person to whom the rights under the contract of either ofthose persons have passed.</td></tr><tr><td>transferor</td><td>In relation to a contract for the transfer of property, means (depending on the context) a person who transfers the title in the property under the contract, or a person who agrees to do so, or a person to whom the duties under the contract of either of those persons have passed.</td></tr><tr><td>year</td><td>A calendar year having the meaning given in Article 1 of Schedule 1 to the Law.</td></tr></table>",
+        "bbox": [
+            160,
+            481,
+            872,
+            914
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            338,
+            45,
+            893,
+            60
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            338,
+            45,
+            893,
+            60
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            338,
+            45,
+            893,
+            60
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 2 GUIDELINES FOR APPLICATION OF REASONABLENESS TEST ",
+        "text_level": 1,
+        "bbox": [
+            250,
+            73,
+            745,
+            104
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "1. Article 40 (the reasonableness test) ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            119,
+            408,
+            135
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The matters to which regard is to be had in particular for the purposes of the requirement of reasonableness are any of the following which appear to be relevant: ",
+        "bbox": [
+            160,
+            150,
+            893,
+            180
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(a) the strength of the bargaining positions of the parties relative to each other, taking into account (among other things) alternative means by which the customer’s requirements could have been met;   \n(b) whether the customer received an inducement to agree to the term, or in accepting it had an opportunity of entering into a similar contract with other persons, but without having to accept a similar term;   \n(c) whether the customer knew or ought reasonably to have known of the existence and extent of the term (having regard, among other things, to any custom of the trade and any previous course of dealing between the parties);   \n(d) where the term excludes or restricts any relevant liability if some condition is not complied with, whether it was reasonable at the time of the contract to expect that compliance with that condition would be practicable;   \n(e) whether the goods were manufactured, processed or adapted to the special order of the customer. ",
+        "bbox": [
+            160,
+            194,
+            893,
+            424
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "THE IMPLIED TERMS IN CONTRACTS AND UNFAIR TERMS LAW ",
+        "bbox": [
+            336,
+            45,
+            893,
+            60
+        ],
+        "page_idx": 20
+    }
+]

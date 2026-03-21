@@ -1,0 +1,1692 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            390,
+            337,
+            606,
+            384
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ELECTRONIC TRANSACTIONS LAW DIFC LAW No. 2 of 2017 ",
+        "text_level": 1,
+        "bbox": [
+            154,
+            508,
+            846,
+            590
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC Laws Amendment Law DIFC Law No. 2 of 2022 ",
+        "bbox": [
+            397,
+            758,
+            602,
+            787
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Consolidated Version (March 2022) As amended by ",
+        "bbox": [
+            425,
+            676,
+            575,
+            747
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            459,
+            111,
+            557,
+            125
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 1: GENERAL . ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            131,
+            915,
+            147
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Title and repeal...   \n2. Legislative Authority.. 2   \n3. Application of the Law.. 2   \n4. Date of enactment...   \nCommencement..   \n6. Interpretation ..   \n7. Purpose of the Law.. 2 ",
+        "bbox": [
+            121,
+            154,
+            917,
+            295
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 2: EXCLUSIONS .. ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            300,
+            912,
+            315
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8. Excluded matters . 3   \n9. Exclusion or modification by the parties. ",
+        "bbox": [
+            124,
+            321,
+            912,
+            359
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 3: ELECTRONIC RECORDS. ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            364,
+            914,
+            380
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "10. Legal recognition of Electronic Records . 4   \n11. Requirement for writing .. 4   \n12. Provision of Information in writing and presentation of Records . 4   \n13. Retention of Electronic Records. 4   \n14. Admissibility of Electronic Records in evidence . 5 ",
+        "bbox": [
+            122,
+            385,
+            917,
+            485
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 4: ELECTRONIC CONTRACTS .... ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            491,
+            914,
+            507
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "15. Legal recognition of electronic contracts ... ... 6   \n16. Formation and validity of contracts via Electronic Communications . ... 6   \n17. Effectiveness between parties.. .. 6   \n18. Invitation to make offer .. .. 6   \n19. Use of automated message systems for contract formation. . 6   \n20. Time and place of despatch and receipt.. . 6 ",
+        "bbox": [
+            122,
+            513,
+            919,
+            634
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 5: ELECTRONIC SIGNATURES.. .. 8 ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            640,
+            915,
+            654
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "21. Legal recognition of Electronic Signatures .... ... 8   \n22. Validity of Electronic Signatures . .. 8   \n23. Attribution and effect of Electronic Signature.... .. 8   \n24. Admissibility of Electronic Signatures in evidence.. . 8 ",
+        "bbox": [
+            122,
+            661,
+            917,
+            739
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Part 6: SUPPLEMENTARY REGULATIONS. ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            745,
+            910,
+            760
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "25. Regulations.. ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            767,
+            910,
+            781
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Schedule 1..... 10 ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            787,
+            912,
+            802
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Schedule 2... 12 ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            807,
+            912,
+            823
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "bbox": [
+            592,
+            71,
+            914,
+            87
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            508,
+            937,
+            520,
+            948
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 1: GENERAL ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            111,
+            265,
+            125
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Title and repeal ",
+        "text_level": 1,
+        "bbox": [
+            175,
+            141,
+            291,
+            155
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This Law may be cited as the “Electronic Transactions Law, DIFC Law No. 2 of 2017\". ",
+        "bbox": [
+            173,
+            168,
+            769,
+            184
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Legislative Authority ",
+        "text_level": 1,
+        "bbox": [
+            127,
+            198,
+            331,
+            212
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This Law is made by the Ruler of Dubai. ",
+        "bbox": [
+            175,
+            226,
+            451,
+            241
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. Application of the Law ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            255,
+            341,
+            269
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This Law applies in the jurisdiction of the Dubai International Financial Centre. ",
+        "bbox": [
+            173,
+            283,
+            713,
+            299
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. Date of enactment ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            312,
+            308,
+            326
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This Law is enacted on the date specified in the Enactment Notice in respect of this Law. ",
+        "bbox": [
+            171,
+            339,
+            776,
+            355
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Commencement ",
+        "text_level": 1,
+        "bbox": [
+            134,
+            369,
+            296,
+            383
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This Law comes into force on the date specified in the Enactment Notice in respect of this Law. ",
+        "bbox": [
+            175,
+            397,
+            821,
+            412
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Interpretation ",
+        "text_level": 1,
+        "bbox": [
+            141,
+            426,
+            279,
+            440
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Schedule 1 contains interpretative provisions which apply to this Law and a list of defined terms used in this Law. ",
+        "bbox": [
+            170,
+            454,
+            915,
+            483
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. Purpose of the Law ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            497,
+            316,
+            511
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The purpose of this Law is: ",
+        "bbox": [
+            175,
+            526,
+            360,
+            540
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) to facilitate electronic transactions in DIFC, to eliminate barriers to electronic transactions resulting from uncertainties over writing and signature requirements, and to promote the development of the legal and business infrastructure necessary to implement secure electronic transactions in DIFC; and   \n(b) to help to establish uniformity of rules, regulations and standards in DIFC regarding the authentication and integrity of electronic records. ",
+        "bbox": [
+            164,
+            553,
+            915,
+            641
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "bbox": [
+            592,
+            71,
+            915,
+            87
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            508,
+            937,
+            520,
+            947
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PART 2: EXCLUSIONS ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            125,
+            294,
+            141
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8. Excluded matters ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            155,
+            304,
+            169
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) The provisions of Parts 3, 4 and 5 of this Law shall not apply to any provision set out in any other DIFC law requiring writing or signatures in any of the matters specified in Schedule 2.   \n(2) The Board of Directors may, without limiting powers conferred upon it elsewhere under the Law, make Regulations extending, waiving or modifying the list of matters specified in Schedule 2. ",
+        "bbox": [
+            159,
+            182,
+            919,
+            256
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9. Exclusion or modification by the parties ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            269,
+            466,
+            283
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) The parties to a contract may exclude the application of this Law or derogate from or vary the effect of any of its provisions, except as otherwise provided in this Law. ",
+        "bbox": [
+            164,
+            296,
+            912,
+            326
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2) Without prejudice to Article 9(1), nothing in this Law shall prevent the parties to a contract or transaction from: ",
+        "bbox": [
+            170,
+            339,
+            914,
+            369
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) excluding the use of Electronic Records, Electronic Communications or Electronic Signatures in the contract or transaction by agreement; or   \n(b) imposing additional requirements as to the form or authentication of the contract or transaction by agreement. ",
+        "bbox": [
+            215,
+            383,
+            915,
+            454
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "bbox": [
+            592,
+            71,
+            914,
+            87
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            508,
+            937,
+            520,
+            948
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PART 3: ELECTRONIC RECORDS ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            125,
+            385,
+            141
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10. Legal recognition of Electronic Records ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            155,
+            462,
+            169
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Information shall not be denied legal effect, validity or enforceability solely on the ground that it is in the form of an Electronic Record. ",
+        "bbox": [
+            164,
+            184,
+            912,
+            212
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "11. Requirement for writing ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            226,
+            355,
+            241
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Where any provision set out in any other DIFC law requires Information to be written or in writing, or provides for certain consequences if Information is not written or in writing, an Electronic Record satisfies that provision set out in the other DIFC law if it preserves a record of the Information contained therein and is capable of being reproduced in tangible form. ",
+        "bbox": [
+            175,
+            255,
+            914,
+            312
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12. Provision of Information in writing and presentation of Records ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            326,
+            636,
+            340
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) If parties have agreed to conduct a transaction by Electronic means and a provision set out in any other DIFC law requires a person to provide, send, or deliver Information in writing to another person, the requirement is satisfied if the Information is provided, sent, or delivered, as the case may be, in an Electronic Communication capable of retention by the Addressee at the time of receipt. An Electronic Communication is not capable of retention by the Addressee if the Originator or the Originator’s Information System inhibits the ability of the Addressee to reproduce in tangible form or retain the Electronic Communication. ",
+        "bbox": [
+            173,
+            355,
+            917,
+            454
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2) If a provision set out in any other DIFC law other than this Law requires a Record (i) to be posted or displayed in a certain manner, (ii) to be sent, communicated, or transmitted by a specified method, or (iii) to contain information in a certain form, the following rules apply: ",
+        "bbox": [
+            175,
+            469,
+            915,
+            511
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) the Record must be posted or displayed in the manner specified in the other law; (b) except as otherwise provided in Article 12(4)(b), the Record must be sent, communicated, or transmitted by the method specified in the other law; and (c) the Record must contain the Information in the form specified in the other law. ",
+        "bbox": [
+            215,
+            524,
+            917,
+            612
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3) If an Originator inhibits the ability of an Addressee to reproduce in tangible form or retain an Electronic Record, the Electronic Record is not enforceable against the Addressee. ",
+        "bbox": [
+            170,
+            625,
+            919,
+            654
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4) The requirements of this Article may not be varied by agreement, but: ",
+        "bbox": [
+            171,
+            668,
+            708,
+            684
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) to the extent a DIFC law other than this Law requires Information to be provided, sent, or delivered in writing but permits that requirement to be varied by agreement, the requirement under Article 12(1) that the Information be in the form of an Electronic Record capable of retention may also be varied by agreement; and ",
+        "bbox": [
+            232,
+            697,
+            915,
+            754
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(b) a requirement under a DIFC law other than this Law to send, communicate, or transmit a Record by post may be varied by agreement to the extent permitted by the other law. ",
+        "bbox": [
+            235,
+            767,
+            915,
+            798
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "13. Retention of Electronic Records ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            811,
+            407,
+            825
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) Where a provision set out in any other DIFC law requires any Record or Information to be retained, or provides for certain consequences if it is not retained, that requirement is satisfied by retaining the Record or Information in the form of an Electronic Record if the following conditions are satisfied: ",
+        "bbox": [
+            175,
+            839,
+            914,
+            882
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) the Electronic Record preserves a record of the Information contained therein and is capable of being reproduced in tangible form; ",
+        "bbox": [
+            227,
+            896,
+            914,
+            925
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "bbox": [
+            592,
+            71,
+            914,
+            87
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            508,
+            937,
+            520,
+            947
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(b) the Electronic Record is retained in the format in which it was originally created, generated, sent, communicated, or received, or in a format which can be demonstrated to accurately replicate the Information originally created, generated, sent, communicated, or received; ",
+        "bbox": [
+            234,
+            112,
+            915,
+            155
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(c) such information, if any, as enables the identification of the origin and destination of an Electronic Record, any party that generated, sent, communicated or received the Electronic Record, or the date and time thereof, is retained; and ",
+        "bbox": [
+            223,
+            168,
+            915,
+            213
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(d) any additional requirements relating to the retention of such Electronic Records specified by the Centre Body which has supervision over the requirement for the retention of such records are complied with. ",
+        "bbox": [
+            227,
+            225,
+            917,
+            269
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) An obligation to retain any Record or Information in accordance with Article 13(1) shall not extend to any information the sole purpose of which is to enable the Electronic Record to be sent or received. ",
+        "bbox": [
+            171,
+            283,
+            914,
+            312
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3) A person may satisfy the requirement referred to in Article 13(1) by using the services of any other person, if the conditions in paragraphs (a) to (d) of Article 13(1) are complied with. ",
+        "bbox": [
+            170,
+            326,
+            914,
+            355
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4) If a provision set out in any other DIFC law requires a Record to be presented or retained in its original form, or provides for certain consequences if the record is not presented or retained in its original form, that provision set out in the other DIFC law is satisfied by an Electronic Record retained in accordance with Article 13(1) unless a DIFC law enacted, amended or re-enacted after the commencement date of this Law specifically prohibits the use of an Electronic Record for the specified purpose. ",
+        "bbox": [
+            173,
+            369,
+            917,
+            454
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(5) If a provision set out in any other DIFC law requires the retention of a cheque, that requirement is satisfied by retention of an Electronic Record of the information on the front and back of the cheque in accordance with Article 13(1). ",
+        "bbox": [
+            173,
+            467,
+            915,
+            511
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(6) A Record retained as an Electronic Record in accordance with Article 13(1) satisfies any DIFC law requiring a person to retain a record for evidentiary, audit, or like purposes unless a DIFC law enacted, amended or re-enacted after the commencement date of this Law specifically prohibits the use of an Electronic Record for the specified purpose. ",
+        "bbox": [
+            173,
+            526,
+            914,
+            583
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This Article does not preclude a Centre Body from specifying additional requirements for the retention of a Record subject to the relevant Centre Body’s jurisdiction. ",
+        "bbox": [
+            217,
+            587,
+            907,
+            616
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "14. Admissibility of Electronic Records in evidence ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            629,
+            513,
+            644
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In any proceedings before the Court, evidence of a Record may not be excluded solely because it is in Electronic form. ",
+        "bbox": [
+            170,
+            659,
+            914,
+            686
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "bbox": [
+            592,
+            72,
+            914,
+            86
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            508,
+            937,
+            520,
+            948
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PART 4: ELECTRONIC CONTRACTS ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            125,
+            407,
+            141
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "15. Legal recognition of electronic contracts ",
+        "bbox": [
+            111,
+            155,
+            468,
+            169
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A contract may not be denied legal effect or enforceability solely because an Electronic Record was used in its formation. ",
+        "bbox": [
+            170,
+            182,
+            915,
+            212
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "16. Formation and validity of contracts via Electronic Communications ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            225,
+            663,
+            241
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) For the avoidance of doubt, in the context of the formation of contracts, an offer and the acceptance of an offer may be expressed by means of Electronic Communications.   \n(2) Where an Electronic Communication is used in the formation of a contract, that contract shall not be denied validity or enforceability solely on the ground that an Electronic Communication was used for that purpose. ",
+        "bbox": [
+            149,
+            254,
+            917,
+            340
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "17. Effectiveness between parties ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            353,
+            388,
+            369
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As between the Originator and the Addressee of an Electronic Communication, a declaration of intent or other statement shall not be denied legal effect, validity or enforceability solely on the ground that it is in the form of an Electronic Communication. ",
+        "bbox": [
+            175,
+            383,
+            914,
+            426
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "18. Invitation to make offer ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            440,
+            348,
+            454
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A proposal to conclude a contract made through one or more Electronic Communications which is not addressed to one or more specific parties, but is generally accessible to parties making use of Information Systems, including a proposal that makes use of interactive applications for the placement of orders through such Information Systems, is to be considered as an invitation to make offers, unless it clearly indicates the intention of the party making the proposal to be bound in case of acceptance. ",
+        "bbox": [
+            175,
+            469,
+            915,
+            540
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "19. Use of automated message systems for contract formation ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            554,
+            590,
+            568
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A contract formed by the interaction of an automated message system and a natural person, or by the interaction of automated message systems, shall not be denied validity or enforceability solely on the ground that no natural person reviewed or intervened in each of the individual actions carried out by the automated message systems or the resulting contract. ",
+        "bbox": [
+            175,
+            583,
+            914,
+            640
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "20. Time and place of despatch and receipt ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            654,
+            457,
+            668
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Unless otherwise agreed between the Originator and the Addressee, the time of despatch of an Electronic Communication is: ",
+        "bbox": [
+            186,
+            682,
+            917,
+            711
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) the time when it leaves an Information System under the control of the Originator or of the party who sent it on behalf of the Originator; or   \n(b) if the Electronic Communication has not left an Information System under the control of the Originator or of the party who sent it on behalf of the Originator, the time when the Electronic Communication is received. ",
+        "bbox": [
+            232,
+            724,
+            914,
+            811
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2) Unless otherwise agreed between the Originator and the Addressee, the time of receipt of an Electronic Communication is the time when the Electronic Communication becomes capable of being retrieved by the Addressee at an electronic address designated by the Addressee. ",
+        "bbox": [
+            176,
+            825,
+            917,
+            868
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3) Unless otherwise agreed between the Originator and the Addressee, the time of receipt of an Electronic Communication at an electronic address that has not been designated by the Addressee is the time when the Electronic Communication becomes capable of being retrieved by the Addressee at that address and the Addressee becomes aware that the Electronic Communication has been sent to that address. ",
+        "bbox": [
+            175,
+            882,
+            914,
+            925
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "bbox": [
+            592,
+            71,
+            914,
+            87
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            508,
+            937,
+            520,
+            948
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4) For the purposes of Article 20(3), an Electronic Communication is presumed to be capable of being retrieved by the Addressee when it reaches the electronic address of the Addressee. ",
+        "bbox": [
+            164,
+            155,
+            915,
+            184
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(5) Unless otherwise agreed between the Originator and the Addressee, an Electronic Communication is deemed to be despatched at the place where the Originator has its place of business and is deemed to be received at the place where the Addressee has its place of business. ",
+        "bbox": [
+            173,
+            197,
+            917,
+            241
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(6) Articles 20(2), 20(3) and 20(4) shall apply notwithstanding that the place where the Information System supporting an electronic address is located may be different from the place where the Electronic Communication is deemed to be received under Article 20(5). ",
+        "bbox": [
+            166,
+            255,
+            914,
+            298
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "bbox": [
+            592,
+            72,
+            914,
+            86
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            510,
+            937,
+            520,
+            947
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PART 5: ELECTRONIC SIGNATURES ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            125,
+            412,
+            141
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "21. Legal recognition of Electronic Signatures ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            155,
+            481,
+            171
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Where any provision set out in any other DIFC law requires the signature of any person, or provides for certain consequences if a document or a record is not signed, that provision set out in the other DIFC law is satisfied if an Electronic Signature is used. ",
+        "bbox": [
+            175,
+            182,
+            914,
+            226
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "22. Validity of Electronic Signatures ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            241,
+            412,
+            255
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "An Electronic Signature is deemed to identify the relevant person and to indicate that person’s intention in respect of the Information contained in the Electronic Record provided that the type of Electronic Signature used is: ",
+        "bbox": [
+            175,
+            269,
+            914,
+            311
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) as reliable as appropriate for the purpose for which the document or record was generated or communicated, in the light of all the circumstances, including any relevant agreement; or   \n(b) proven in fact to have fulfilled the functions described in paragraph (a), by itself or together with further evidence. ",
+        "bbox": [
+            171,
+            325,
+            915,
+            397
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "23. Attribution and effect of Electronic Signature ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            412,
+            505,
+            426
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) An Electronic Signature is attributable to a person if it was the act of the person. The act of the person may be shown in any manner, including a showing of the efficacy of any security procedure applied to determine the person to which the electronic record or electronic signature was attributable.   \n(2) The effect of an Electronic Signature attributed to a person under Article 23(1) is determined from the context and surrounding circumstances at the time of its creation, execution, or adoption, including the parties’ agreement, if any, and otherwise as provided by law. ",
+        "bbox": [
+            158,
+            439,
+            917,
+            540
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "24. Admissibility of Electronic Signatures in evidence ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            553,
+            535,
+            568
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In any proceedings before the Court, evidence of a signature may not be excluded solely because it is in Electronic form. ",
+        "bbox": [
+            170,
+            583,
+            914,
+            611
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "bbox": [
+            592,
+            71,
+            914,
+            87
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            508,
+            937,
+            520,
+            948
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PART 6: SUPPLEMENTARY REGULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            125,
+            464,
+            141
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "25. Regulations ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            155,
+            262,
+            169
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) The Board of Directors may make Regulations under the Law in respect of any matters related to the application of the Law. ",
+        "bbox": [
+            163,
+            182,
+            914,
+            212
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2) Where the Board of Directors issues a standard or code of practice, it may incorporate such a standard or code into the Regulations by reference and in such circumstances, except to the extent that the Regulations otherwise provide, a person who is subject to the provisions of any such standard or code shall comply with such provisions as if they were provisions of the Regulations. ",
+        "bbox": [
+            175,
+            225,
+            915,
+            283
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3) Where any legislation made for the purpose of this Law purports to be made in exercise of a particular power or powers, it shall be taken also to be made in the exercise of all powers under which it may be made. ",
+        "bbox": [
+            173,
+            298,
+            917,
+            340
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4) The Board of Directors shall publish draft Regulations by means of a notice under Article 25(5). ",
+        "bbox": [
+            168,
+            353,
+            888,
+            370
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(5) The notice of draft Regulations shall include the following: ",
+        "bbox": [
+            171,
+            382,
+            638,
+            397
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) the draft text of the Regulations;   \n(b) a statement of the substance and purpose of the material provisions of the draft Regulations; and   \n(c) a summary of the draft Regulations. ",
+        "bbox": [
+            234,
+            410,
+            915,
+            498
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(6) Upon publication of a notice under Article 25(6), the Board of Directors shall invite interested persons to make representations with respect to the draft Regulations within a period of at least thirty (30) days after the publication, or within such period as the Board of Directors may otherwise determine. ",
+        "bbox": [
+            175,
+            511,
+            915,
+            555
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(7) Article 25(4), Article 25(5) and Article 25(6) shall not apply if the Board of Directors concludes that any delay likely to arise under such Articles is prejudicial to the interests of the DIFC. ",
+        "bbox": [
+            178,
+            568,
+            914,
+            598
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(8) Any period of time during which the Board of Directors invites interested persons to make representations with respect to draft Regulations prior to Article 25 coming into effect shall be deemed to count as part or all of the period referred to in Article 25(6). ",
+        "bbox": [
+            173,
+            611,
+            915,
+            654
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "bbox": [
+            592,
+            72,
+            914,
+            87
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            508,
+            937,
+            520,
+            948
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 1 ",
+        "text_level": 1,
+        "bbox": [
+            459,
+            125,
+            567,
+            141
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1. Rules of interpretation ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            155,
+            341,
+            169
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) In this Law, unless otherwise provided, a reference to: ",
+        "bbox": [
+            173,
+            184,
+            604,
+            198
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) a statutory provision includes a reference to the statutory provision as amended or re-enacted from time to time;   \n(b) company, partnership, unincorporated association, government or state;   \n(c) a calendar year shall mean a year of the Gregorian calendar;   \n(d) a day shall refer to a business day, being a calendar day, excluding Saturdays, Sundays and official public holidays;   \n(e) a reference to the masculine gender includes the feminine and vice versa; and   \n(f) where relevant, the singular shall include the plural and vice versa. ",
+        "bbox": [
+            234,
+            211,
+            917,
+            399
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2) The headings in this Law shall not affect its interpretation. ",
+        "bbox": [
+            173,
+            412,
+            631,
+            427
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3) References in this Law to a body corporate include a body corporate incorporated outside DIFC. ",
+        "bbox": [
+            181,
+            439,
+            887,
+            454
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(4) A reference in this Law to a Part, Article or Schedule by number only, and without further identification, is a reference to the Part, Article or Schedule of that number in this Law. ",
+        "bbox": [
+            168,
+            467,
+            914,
+            497
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(5) A reference in an Article or other division of this Law to a paragraph, sub-paragraph or Article by number or letter only, and without further identification, is a reference to the paragraph, sub-paragraph or Article or other division of this Law in which that reference occurs. ",
+        "bbox": [
+            173,
+            511,
+            917,
+            554
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2. Legislation in DIFC ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            568,
+            319,
+            583
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References to legislation in the Law shall be construed in accordance with the following provisions: ",
+        "bbox": [
+            170,
+            597,
+            851,
+            611
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) Federal Law is law made by the federal government of the UAE;   \n(b) Dubai Law is law made by the Ruler, as applicable in the Emirate of Dubai;   \n(c) DIFC Law is law made by the Ruler (including, by way of example, the Law), as applicable in the DIFC, and (insofar as applicable) the rules set out in the DFSA Rulebook;   \n(d) the Law is the Electronic Transactions Law, DIFC Law No. 2 of 2017 made by the Ruler. ",
+        "bbox": [
+            171,
+            624,
+            917,
+            741
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "bbox": [
+            592,
+            71,
+            914,
+            87
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3. Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            127,
+            279,
+            141
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the Law, unless the context indicates otherwise, the defined terms listed below shall have the corresponding meanings: ",
+        "bbox": [
+            166,
+            155,
+            974,
+            184
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/6949de923fc66cb7c9243e4d1bdb140a5181f78732149d8e351d852e7b15462d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Term</td><td rowspan=1 colspan=1>Definition</td></tr><tr><td rowspan=1 colspan=1>Addressee</td><td rowspan=1 colspan=1>in relation to an Electronic Communication, a party who is intended bythe Originator to receive the Electronic Communication, but does notinclude a party acting as an intermediary with respect to that ElectronicCommunication.</td></tr><tr><td rowspan=1 colspan=1>Board of Directors</td><td rowspan=1 colspan=1>the governing body of DIFCA.</td></tr><tr><td rowspan=1 colspan=1>Centre Body</td><td rowspan=1 colspan=1>has the meaning given in Dubai Law No. 9 of 2004 (as repealed and substitutedby Dubai Law No. (5) of 2021).</td></tr><tr><td rowspan=1 colspan=1>Court</td><td rowspan=1 colspan=1>the DIFC Court as established under Dubai Law.</td></tr><tr><td rowspan=1 colspan=1>DFSA</td><td rowspan=1 colspan=1>the Dubai Financial Services Authority.</td></tr><tr><td rowspan=1 colspan=1>DFSA Rulebook</td><td rowspan=1 colspan=1>the rulebook applicable to DFSA-regulated entities as made and published bythe DFSA from time to time.</td></tr><tr><td rowspan=1 colspan=1>DIFC</td><td rowspan=1 colspan=1>the Dubai International Finance Centre.</td></tr><tr><td rowspan=1 colspan=1>DIFCA</td><td rowspan=1 colspan=1>the DIFC Authority as established under Dubai law.</td></tr><tr><td rowspan=1 colspan=1>Law</td><td rowspan=1 colspan=1>the Electronic Transactions Law, DIFC Law No. 2 of 2017.</td></tr><tr><td rowspan=1 colspan=1>Electronic</td><td rowspan=1 colspan=1>relating to technology having electrical, digital, magnetic, wireless, optical,electromagnetic, or similar capabilities.</td></tr><tr><td rowspan=1 colspan=1>Electronic Communication</td><td rowspan=1 colspan=1>any communication made by means of Electronic Records.</td></tr><tr><td rowspan=1 colspan=1>Electronic Record</td><td rowspan=1 colspan=1>a Record created, generated, sent, communicated, received or stored byElectronic means.</td></tr><tr><td rowspan=1 colspan=1>Electronic Signature</td><td rowspan=1 colspan=1>an Electronic sound, symbol or process attached to or logically associated with aRecord and executed or adopted by a person with the intent to sign the Record.</td></tr><tr><td rowspan=1 colspan=1>Information</td><td rowspan=1 colspan=1>data, text, images, sounds, codes, computer programs, software, databases, orthe like.</td></tr><tr><td rowspan=1 colspan=1>Information System</td><td rowspan=1 colspan=1>a system for generating, sending, receiving, storing or otherwise processingElectronic Records.</td></tr><tr><td rowspan=1 colspan=1>Originator</td><td rowspan=1 colspan=1>in relation to an Electronic Communication, a party by whom, or on whosebehalf, the Electronic Communication has been sent or generated prior to storage,if any, but it does not include a party acting as an intermediary with respect tothat Electronic Communication.</td></tr><tr><td rowspan=1 colspan=1>Record</td><td rowspan=1 colspan=1>Information that is inscribed on a tangible medium or that is stored in anElectronic or other medium and is retrievable in perceivable form.</td></tr><tr><td rowspan=1 colspan=1>Regulations</td><td rowspan=1 colspan=1>legislation made by the Board of Directors under the Law, which are binding innature.</td></tr><tr><td rowspan=1 colspan=1>UAE</td><td rowspan=1 colspan=1>the United Arab Emirates.</td></tr></table>",
+        "bbox": [
+            151,
+            198,
+            964,
+            932
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "bbox": [
+            651,
+            72,
+            974,
+            87
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "11 ",
+        "bbox": [
+            533,
+            937,
+            553,
+            948
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 2 ",
+        "text_level": 1,
+        "bbox": [
+            459,
+            125,
+            569,
+            141
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1. Matters excluded by Article 8 ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            155,
+            390,
+            169
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Parts 3, 4 and 5 of this Law shall not apply to the following matters. ",
+        "bbox": [
+            171,
+            182,
+            636,
+            198
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) The creation, performance or enforcement of a power of attorney.   \n(b) The creation, performance or enforcement of a declaration of trust (with the exception of implied, constructive and resulting trusts) and any provision in the Trust Law 2018 (DIFC Law No. 4 of 2018, as amended) requiring Information to be written or in writing.   \n(c) The creation and execution of wills, codicils or testamentary trusts.   \n(d) The creation, execution and use of affidavits or affirmations as evidence in court proceedings pursuant to rule 29 of the Rules of the Dubai International Financial Centre Courts 2014. ",
+        "bbox": [
+            171,
+            211,
+            917,
+            355
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ELECTRONIC TRANSACTIONS LAW ",
+        "bbox": [
+            592,
+            72,
+            914,
+            87
+        ],
+        "page_idx": 12
+    }
+]

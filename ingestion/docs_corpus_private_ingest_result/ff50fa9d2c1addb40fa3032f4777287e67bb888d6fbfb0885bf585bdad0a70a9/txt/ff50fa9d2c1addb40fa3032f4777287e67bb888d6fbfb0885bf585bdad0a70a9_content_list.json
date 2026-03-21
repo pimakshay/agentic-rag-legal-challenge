@@ -1,0 +1,720 @@
+[
+    {
+        "type": "text",
+        "text": "Dubai International Financial Centre ",
+        "text_level": 1,
+        "bbox": [
+            299,
+            340,
+            782,
+            471
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 5 ",
+        "bbox": [
+            207,
+            549,
+            804,
+            584
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "May 2019 ",
+        "bbox": [
+            436,
+            598,
+            577,
+            622
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FAMILY OFFICE REGULATIONS ",
+        "bbox": [
+            198,
+            675,
+            814,
+            710
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 5 ",
+        "text_level": 1,
+        "bbox": [
+            343,
+            89,
+            666,
+            108
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PROPOSALS RELATING TO NEW FAMILY OFFICE REGULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            154,
+            112,
+            855,
+            134
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Why are we issuing this paper? ",
+        "bbox": [
+            94,
+            149,
+            358,
+            167
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The Dubai International Financial Centre Authority (“DIFCA”) proposes to replace its current Single Family Office Regulations which were enacted in 2008 (the “Current Regulations”) with a new Regulations to update the current Regulations to take into account the enhanced regulatory arrangements in the DIFC and the recommendations of the DIFC Wealth Management Review. This Consultation Paper No. 5 of 2019 (“Consultation Paper”) seeks public comments on the proposed new Family Office Regulations (the “Proposed Regulations”). ",
+        "bbox": [
+            99,
+            179,
+            922,
+            333
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Who should read this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            356,
+            336,
+            374
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. This Consultation Paper would be of interest to existing Single Family Offices in the DIFC under current Regulations, persons wishing to establish Family Offices in the DIFC and families or entities operating inside or outside the DIFC who are looking for an attractive base to establish Family Offices In particular: ",
+        "bbox": [
+            92,
+            387,
+            920,
+            473
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a. Single Family Offices b. family businesses; c. legal advisors; d. accounting advisers; e. wealth managers; and f. Corporate Service Providers. ",
+        "bbox": [
+            153,
+            491,
+            441,
+            694
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How to provide comments ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            717,
+            314,
+            733
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. All comments should be provided to the person specified below: ",
+        "bbox": [
+            90,
+            748,
+            690,
+            766
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates   \nor e-mailed to: consultation@difc.ae ",
+        "bbox": [
+            154,
+            785,
+            484,
+            915
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FAMILY OFFICE REGULATIONS ",
+        "bbox": [
+            631,
+            43,
+            915,
+            58
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. You may choose to identify the organisation you represent in your comments. 5. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "bbox": [
+            92,
+            87,
+            920,
+            167
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "What happens next? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            188,
+            269,
+            206
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. The deadline for providing comments on the proposals in this Consultation Paper is 7 June 2019.   \n7. Once we receive your comments, we will consider if any further refinements are required to the Proposed Regulations. Once DIFCA considers the Proposed Regulations to be in a suitable form, it will be enacted as new DIFC Regulations to come into force on a date specified and published.   \n8. The Proposed Regulations is in draft form only. You should not act on it until the Proposed Regulations is formally enacted. We will issue a notice on our website when this happens. ",
+        "bbox": [
+            89,
+            219,
+            927,
+            428
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            447,
+            215,
+            463
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase and are defined in the Proposed Regulations. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "bbox": [
+            92,
+            477,
+            922,
+            565
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            586,
+            198,
+            604
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. The DIFCA has proposed to enact new Family Office Regulations to replace the Current Regulations.   \n11. Since enactment of the Current Regulations, there have been significant changes in both the DIFC’s regulatory structure, the wealth management environment, and the DIFC’s understanding of the requirements of the families who may wish to utilise the platform offered by the Centre.   \n12. In particular, the proposed enactment of the new DIFC Operating Law (the “DIFC Operating Law”), DIFC Operating Regulations (the “DIFC Operating Regulations”) and the proposed Ultimate Beneficial Ownership Regulations (the “UBO Regulations”) contain general provisions which apply to all DIFC entities that duplicate many of the provisions of the Current Regulations. In addition the Trust Law (which also provides a vehicle for family business operations) was re-enacted with substantial modifications as DIFC Law No.4 of 2018. ",
+        "bbox": [
+            89,
+            623,
+            922,
+            922
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FAMILY OFFICE REGULATIONS ",
+        "bbox": [
+            631,
+            43,
+            915,
+            59
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "13. The Proposed Regulations: ",
+        "bbox": [
+            95,
+            131,
+            383,
+            148
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a. clarify the legal structure of a Family Office;   \nb. allow a Family Office to serve multiple Single Families;   \nc. maintain the existing concept of a Single Family with some clarifications;   \nd. clarify Reporting Obligations;   \ne. adopt the conclusions of the Wealth Management Review as to the minimum asset requirements for a SFO (in addition to the existing minimum asset requirements);   \nf. eliminate, for families with a substantial presence within the UAE, the requirement to operate from premises in the DIFC; and   \ng. miscellaneous amendments. ",
+        "bbox": [
+            151,
+            166,
+            922,
+            445
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14. Other aspects of the proposal include: ",
+        "bbox": [
+            95,
+            463,
+            473,
+            480
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) incorporation of the Decision Making Procedures in the Operating Law for certain regulatory activities of the Registrar;   \n(b) protection of the confidentiality of ownership information supplied to the Registrar;   \n(c) substitution of the new Confirmation Statement provisions of the Operating Regulations for the reporting arrangements under the Current Regulations; and   \n(d) empowerment of the Registrar to prescribe any necessary forms rather than specifying them in the Regulations; ",
+        "bbox": [
+            153,
+            498,
+            920,
+            650
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Family Offices Legal Structure ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            666,
+            348,
+            682
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15. The Current Regulations do not clearly identify the legal relationships involved in a Family Office. The Proposed Regulations make clear that a Family Office is a Registered Person as defined in the DIFC Operating Law which is a company, foundation or partnership that has been recognised by the Registrar as a Family Office (an “FO Recognised Person”), and the disclosure and reporting obligations apply to that person. ",
+        "bbox": [
+            95,
+            697,
+            920,
+            806
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "16. Because all DIFC Registered Persons must now supply UBO information, the previous requirement to identify UBOs in respect of SFOs has been deleted. That information will now be supplied in accordance with the UBO Regulations, in the same format as applies to all Registered Persons. ",
+        "bbox": [
+            95,
+            824,
+            919,
+            909
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FAMILY OFFICE REGULATIONS ",
+        "bbox": [
+            631,
+            42,
+            915,
+            58
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            944
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key Changes proposed ",
+        "bbox": [
+            94,
+            89,
+            929,
+            118
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "17. An existing Single Family Office under the current Regulations or a proposed new Family Office may apply to be recognised as a Family Office if it meets the requirements of the Proposed Regulations. ",
+        "bbox": [
+            94,
+            87,
+            920,
+            152
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "18. A Family Office under the Proposed Regulations may provide services to more than one (1) Single Family (as defined in the Proposed Regulations) as long as the proposed arrangement is a cost sharing arrangement between the Single Families concerned. ",
+        "bbox": [
+            94,
+            169,
+            920,
+            235
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q1. Is the proposed characterisation of the legal arrangements associated with a SFO appropriate? If not, how could it be improved?   \nQ2. Should there be additional requirements in relation to the identification of Single Family Members beyond those contemplated in the Proposed Regulations?   \nQ3. Do you agree with the expansion of Single Family Offices under the Current Regulations to allow a Family Office to serve more than one Single Family? ",
+        "bbox": [
+            85,
+            254,
+            924,
+            415
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Single Family Requirements ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            440,
+            341,
+            457
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "19. The Proposed Regulations maintain the current definition of a Single Family: the lineal descendants of a common ancestor of 3 generations at the time of the application. Spouses, widows, widowers, adopted and ex-nuptial children are included in the group. For clarity, a living individual in the Single Family must be specified in relation to whom the nominated common ancestor meets the requirements of a 3 generation connection – the remaining members of the Single Family are then defined by reference to their relationship to that common ancestor. ",
+        "bbox": [
+            94,
+            471,
+            920,
+            624
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "20. The Proposed Regulations, in line with the recommendations of the Wealth Management Review, add an additional basis for recognition as an SFO: a threshold of $\\cup \\ S \\$ 50$ million net assets in addition to the existing requirement for $\\cup \\ S \\$ 10$ million in liquid assets. ",
+        "bbox": [
+            92,
+            643,
+            920,
+            707
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q4. Is the current definition of a Single Family as refined adequate or appropriate? If not, how could it be improved?   \nQ5. What provision, if any, should be made for any variation of the requirements for a Single Family Office approved by the Registrar as part of the initial application?   \nQ6. Is the altered threshold for recognition as a SFO appropriate? Will it present any undesirable results given that in general company accounts other than those for SFOs and small private companies will be required to be disclosed? ",
+        "bbox": [
+            87,
+            728,
+            922,
+            910
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "FAMILY OFFICE REGULATIONS ",
+        "bbox": [
+            631,
+            43,
+            915,
+            59
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            890,
+            934,
+            904,
+            945
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Reporting and Confidentiality of information ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            108,
+            459,
+            124
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. The Proposed Regulations substitute the Confirmation Statement process under the DIFC Operating Law for the existing requirement for a Family Office to lodge an annual return. Under this process the Registrar will send a prepopulated statement to the SFO Registered Person responsible for the Family Office for confirmation or correction and return to him. ",
+        "bbox": [
+            92,
+            138,
+            920,
+            225
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "22. Information supplied to the Registrar pursuant to disclosure requirements in relation to ownership of a Family Office will not be placed by him on a public register, without the consent of the Family Office. ",
+        "bbox": [
+            92,
+            242,
+            920,
+            306
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "23. Whilst a Family Office must maintain accounts in accordance with its applicable Prescribed Law, its accounts need not be audited or filed with the Registrar. ",
+        "bbox": [
+            92,
+            324,
+            920,
+            365
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Q7. Are the proposed arrangements for reporting of information appropriate and adequate? If not, what changes should be made?   \nQ8. Are the proposed arrangements for confidentiality of information supplied appropriate and adequate? If not, what changes should be made? ",
+        "bbox": [
+            84,
+            385,
+            920,
+            488
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Operating outside the DIFC ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            530,
+            326,
+            547
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "24. Consistently with the recommendations of the Wealth Management Review, the Proposed Regulations exempt a Family Office from the requirement to maintain premises in the DIFC if the Registered Person or each Single Family it represents has a substantial presence in the UAE and appoints a Corporate Services Provider in the DIFC as its registered agent. Such a presence elsewhere may require regulatory approvals elsewhere which the DIFC cannot provide, although by reason of Regulation 8 of the Operating Regulations the Registrar may be in a position to facilitate the application for such approvals. ",
+        "bbox": [
+            94,
+            561,
+            922,
+            716
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Q9. Are there any issues which arise in connection with operations by Registered Persons outside the DIFC which could usefully be addressed in the Proposed Regulations which are not? ",
+        "bbox": [
+            92,
+            736,
+            920,
+            799
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Miscellaneous enhancements ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            825,
+            345,
+            842
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "25. Minor changes to the Regulations include: ",
+        "bbox": [
+            94,
+            857,
+            508,
+            875
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) empowering the Registrar to determine the forms to be used; ",
+        "bbox": [
+            151,
+            893,
+            720,
+            912
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FAMILY OFFICE REGULATIONS ",
+        "bbox": [
+            631,
+            42,
+            915,
+            59
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            890,
+            934,
+            904,
+            945
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(b) requiring the Decision Making Procedures in the operating regulations to be followed if it is proposed to cease recognition of a Registered Person as an SFO (consistently with the usual practice of the DIFC in relation to applications for registration, these will not apply to rejected applications for recognition or variation); and   \n(c) modernising the language used. ",
+        "bbox": [
+            153,
+            87,
+            919,
+            181
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Q10. Do you have any other comments or suggestions for improvement of the Proposed Regulations? ",
+        "bbox": [
+            95,
+            194,
+            922,
+            235
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Legislative Proposal ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            260,
+            277,
+            276
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "26. This legislative proposal contains the following: ",
+        "bbox": [
+            94,
+            290,
+            548,
+            307
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) the Proposed Regulations (at Annex A);   \n(b) the Current Regulations (at Annex B);   \n(c) a comparison of the Current Regulations and the Proposed Regulations (at Annex C);   \n(d) a table of comments to provide your views and comments on the consultation paper (at Annex D). ",
+        "bbox": [
+            138,
+            326,
+            922,
+            448
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FAMILY OFFICE REGULATIONS ",
+        "bbox": [
+            631,
+            43,
+            915,
+            58
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            944
+        ],
+        "page_idx": 6
+    }
+]

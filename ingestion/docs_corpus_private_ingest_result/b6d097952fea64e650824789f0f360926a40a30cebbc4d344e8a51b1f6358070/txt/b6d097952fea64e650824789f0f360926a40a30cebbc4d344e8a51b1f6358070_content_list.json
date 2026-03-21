@@ -1,0 +1,2325 @@
+[
+    {
+        "type": "text",
+        "text": "(1) Sandra Holding Ltd (2) Nuri Musaed Al Saleh v (1) Fawzi Musaed Al Saleh (2) Ahmed Fawzi Al Saleh (3) Yasmine Fawzi Al Saleh (4) Farah El Merabi [2023] DIFC CA 003 ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            170,
+            936,
+            254
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SEPTEMBER 06, 2023 COURT OF APPEAL - JUDGMENTS ",
+        "bbox": [
+            42,
+            258,
+            556,
+            275
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claim No: CA 003/2023 ",
+        "bbox": [
+            741,
+            312,
+            959,
+            331
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IN THE DUBAI INTERNATIONAL FINANCIAL CENTRECOURTS ",
+        "bbox": [
+            205,
+            348,
+            794,
+            367
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the name of His Highness Sheikh Mohammad Bin Rashid Al Maktoum, Ruler of Dubai ",
+        "bbox": [
+            62,
+            384,
+            912,
+            403
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IN THE COURT OF APPEAL ",
+        "bbox": [
+            42,
+            419,
+            304,
+            438
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BEFORE CHIEF JUSTICE ZAKI AZMI, H.E. DEPUTY CHIEF JUSTICE ALI AL MADHANI, ANDJUSTICE LORD ANGUS GLENNIE",
+        "bbox": [
+            40,
+            454,
+            959,
+            500
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BETWEEN ",
+        "bbox": [
+            40,
+            516,
+            146,
+            533
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1) SANDRA HOLDING LTD (2) NURI MUSAED AL SALEH ",
+        "bbox": [
+            359,
+            551,
+            638,
+            596
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claimants/ Respondents ",
+        "bbox": [
+            736,
+            612,
+            959,
+            629
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "bbox": [
+            480,
+            645,
+            519,
+            661
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1) FAWZI MUSAED AL SALEH (2) AHMED FAWZI AL SALEH (3) YASMINE FAWZI AL SALEH (4) FARAH EL MERABI ",
+        "bbox": [
+            354,
+            678,
+            647,
+            778
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Defendants/ Appellants ",
+        "bbox": [
+            747,
+            794,
+            957,
+            810
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hearing : 10 May 2023 – 11 May 2023 ",
+        "bbox": [
+            47,
+            853,
+            433,
+            889
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/eeaa86a76d561039198073c8fbf263c4dfc8bfabe4f6d40c53c6237cb309660d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Counsel :</td><td>Mr James Leabeater KC instructed by Messrs. BSA Ahmad Bin Hezeem &amp; Associates LLP appeared on behalf of the Defendants/Appellants Mr Harris Bor instructed by Messrs. Trowers and Hamlins LLP appeared on behalf of the Claimants/Respondents</td></tr><tr><td>Judgment :</td><td>6 September 2023</td></tr></table>",
+        "bbox": [
+            43,
+            17,
+            947,
+            203
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "JUDGMENT OF THE COURT OF APPEAL ",
+        "text_level": 1,
+        "bbox": [
+            304,
+            259,
+            694,
+            279
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UPON the Worldwide Freezing Orders of Justice Sir Jeremy Cooke dated 10 November 2021 and 30 November 2021 (the “Order” or “Disclosure Order”) ",
+        "bbox": [
+            42,
+            322,
+            961,
+            366
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the contempt of court Order of Justice Sir Jeremy Cooke dated 25 November 2022 (the “Contempt Order”) ",
+        "bbox": [
+            40,
+            381,
+            963,
+            426
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Defendant’s second Appeal Notice dated 16 December 2022 seeking permission to appeal the Order (the “Permission Application”) ",
+        "bbox": [
+            40,
+            442,
+            963,
+            486
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON Orders of Chief Justice Zaki Azmi dated 9 February 2023 granting the Permission Application ",
+        "bbox": [
+            40,
+            501,
+            961,
+            545
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Appellants’ Application No. CA-003-2023/1 dated 11 January 2023 seeking permission to rely upon a supplementary skeleton argument exceeding 25 pages in length ",
+        "bbox": [
+            40,
+            561,
+            963,
+            605
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON hearing counsel for the Appellants and counsel for the Respondents at an appeal hearing held on 10 May and 11 May 2023 (the “Hearing”) ",
+        "bbox": [
+            40,
+            621,
+            963,
+            664
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON considering the Dubai Judicial Authority Law No. 12 of 2004 as amended by Law No.16 of 2004 (the “JAL”) ",
+        "bbox": [
+            40,
+            681,
+            963,
+            725
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND UPON reviewing the relevant submissions made in the case fi le and the documents referred to in the course of the Hearing ",
+        "bbox": [
+            40,
+            740,
+            963,
+            784
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IT IS HEREBY ORDERED THAT: ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            800,
+            337,
+            819
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The Appeal is allowed. ",
+        "bbox": [
+            43,
+            834,
+            270,
+            852
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. The Order is set aside. ",
+        "bbox": [
+            42,
+            868,
+            270,
+            885
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. The Appellants succeed on their grounds of appeal that the DIFC Courts does not have jurisdiction to grant the Worldwide Freezing Order against the Appellants. ",
+        "bbox": [
+            36,
+            900,
+            963,
+            944
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. The Contempt of Court Order is set aside based on the lack of jurisdiction. ",
+        "bbox": [
+            36,
+            957,
+            727,
+            976
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. This Court will hear submissions on costs submissions on another date to be fi xed by the Registry. ",
+        "bbox": [
+            47,
+            17,
+            949,
+            36
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. Any application for an inquiry as to damages relating to the Respondents’ cross-undertaking in damages shall be fi led before the Court of First Instance. ",
+        "bbox": [
+            38,
+            52,
+            957,
+            93
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Issued by:   \nDelvin Sumo   \nAssistant Registrar   \nDate of issue: 6 September 2023   \nAt: 10am ",
+        "bbox": [
+            658,
+            108,
+            959,
+            225
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Chief Justice Zaki Azmi ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            243,
+            263,
+            260
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE OF REASONS ",
+        "text_level": 1,
+        "bbox": [
+            376,
+            278,
+            623,
+            297
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. This is an appeal against the Order of Justice Sir Jeremy Cooke (the “Judge”) granting an ex-parte Worldwide Freezing Order on 10 November 2021 and fi xing a return date for 25 November 2021 (the “WFO”). The Order was granted following an ex parte hearing on 8 November 2021. The main underlying ground of appeal is whether the Judge had the power to grant the WFO which he did, based on the facts before him. ",
+        "bbox": [
+            40,
+            310,
+            961,
+            426
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Following the granting of the interim WFO, the Appellants failed to appear on the return date of 25 November 2021, failed either to challenge the Court’s Order or comply with it and only applied to vacate the WFO nine months after it was granted. At this Appeal, the Respondents submitted that the Court had jurisdiction to make the WFO when it did and thereby the opportunity to argue jurisdiction should be refused in these circumstances since the Appellants decided to ignore the WFO instead of applying to set it aside on time. The Respondents however, proposed that the fi rst preliminary issue that ought to be dealt with was one related to the Judge’s decision on jurisdiction, because if the Court was persuaded and found in favour of the Respondents on this issue the other grounds of appeal would thereby fall away. ",
+        "bbox": [
+            38,
+            441,
+            961,
+            652
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. Therefore, the fi rst issue this judgment will deal with relates to the Court’s jurisdiction to issue the WFO under the circumstances of this case and whether it was within the Judge’s remit to exercise those powers granted to him under Rule 25.24 of the Rules of the DIFC Courts (the “RDC”) to impose a WFO against the Appellants. The second issue to be examined is whether the Judge had made an error in refusing to hear the vacation application. The third issue concerns the Judge’s decision not to consider the Appellants’ vacation application following his ruling on jurisdiction. ",
+        "bbox": [
+            40,
+            665,
+            961,
+            806
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. The legal issues giving rise to this Appeal will be addressed in detail below. The factual issues which are relevant to this Appeal will be fi rst summarised. ",
+        "bbox": [
+            42,
+            819,
+            961,
+            862
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Background to the parties and the dispute ",
+        "bbox": [
+            42,
+            879,
+            440,
+            898
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The procedural history relating to the jurisdiction of this Court in seeking the WFO is complex. The relevant facts are as follows: ",
+        "bbox": [
+            42,
+            912,
+            959,
+            954
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. The Second Respondent, Mr. Nuri Musaed Al Saleh (“Mr. Nuri”), is a member of a wealthy Kuwaiti family. Mr. Nuri is the director and the sole shareholder of the First Respondent, Sandra Holdings Limited (“Sandra Holdings”), an entity established under the laws of the Cayman Islands. Sandra Holdings owns shares on behalf of Mr. Nuri in a Cayman Islands’ registered entity called Universal Enterprises Limited (“UEL”). The First Appellant, Fawzi Musaed Al Saleh (“Mr. Fawzi”) is one of Mr. Nuri’s brothers. The Second and Third Appellants are the children of Mr. Fawzi, and the Fourth Appellant is Mr. Fawzi’s wife. ",
+        "bbox": [
+            40,
+            16,
+            961,
+            181
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. On 12 February 1987, the brothers, Mr. Nuri and Mr. Fawzi, and UEL entered into a shareholder's agreement (the “Shareholder’s Agreement”) governed by the laws of the Cayman Islands and subject to the exclusive jurisdiction of the Cayman Islands and the Commonwealth of Massachusetts as the case may be with respect to the enforcement of any of the provisions of the Shareholder’s Agreement. To date, Mr. Nuri has issued various civil and criminal proceedings around the world against his brothers, including in particular against Mr. Fawzi. ",
+        "bbox": [
+            40,
+            195,
+            963,
+            334
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7. The current dispute arises out of the sale of UEL shares in Seapuit Limited and Metinic Ventures Limited (being the two wholly owned subsidiaries of UEL) to ASPTC, the trustee of the Budhi Trust, which occurred in 2014 and 2015 (the “Seapuit and Metinic Transaction”). The Respondents allege that the First Appellant is in breach of the Shareholder’s Agreement and UEL's Articles of Association in various respects, including, but not limited to, a failure to hold general meetings, a failure to issue fi nancial accounts, and a failure to pay any dividends to the Second Respondent following the sale of UEL's shares and assets. The main cause of action relied on by the Respondents is an allegation of fraud committed by the Appellants during the Seapuit and Metinic Transaction. During the ex-parte hearing on 8 November 2021, counsel for Respondents submitted that Mr. Nuri did not receive any payments out of the Seapuit and Metinic Transaction, in circumstances where he should have done as a result of his position as a minority shareholder of UEL. ",
+        "bbox": [
+            40,
+            348,
+            961,
+            608
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8. The Appellants argue that the agreed consideration from the Seapuit and Metinic Transaction was paid in full to UEL and distributed equally amongst the shareholders in accordance with a signed written agreement. The Appellants submit that, assuming that the Second Respondent’s allegation is based on the lack of distribution of profi ts equally amongst the shareholders, the general position would have been for the Second Respondent to commence proceedings in the Cayman Islands in accordance with the exclusive jurisdiction clause in the Shareholder's Agreement. Instead, as is set out below, the Second Respondent issued proceedings in Kuwait against the Appellants. ",
+        "bbox": [
+            38,
+            621,
+            961,
+            785
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Background to the legal proceedings in Kuwait, France and the US ",
+        "bbox": [
+            42,
+            802,
+            667,
+            821
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The chronological events which are relevant to this Appeal are as follows: ",
+        "bbox": [
+            45,
+            835,
+            699,
+            854
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9. On 16 July 2020, the Cayman Island Courts issued a winding up order appointing two liquidators and ordering the initiation of the dissolution process of UEL. The winding up proceedings were not opposed and UEL was placed into members voluntary liquidation by the Cayman Island Courts with ",
+        "bbox": [
+            40,
+            869,
+            963,
+            936
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Ernest & Young as the offi cial liquidators who are now in control of UEL. On 7 October 2021, the offi cial liquidators applied to have the winding up order recognised in the United States, and this was not opposed. ",
+        "bbox": [
+            42,
+            17,
+            959,
+            85
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10. On 12 August 2021, the Respondents issued a claim against the Appellants in Kuwait (case no.12850/2021) (the “First Kuwaiti Proceedings”). The underlying claim before the Kuwaiti Courts involved allegations of fraud against the Appellants arising from an allegedly unlawful transfer of USD 43,632,372 from UEL’s accounts. The Respondents did not seek to recover any damages on behalf of UEL before the Kuwaiti Courts but instead issued these proceedings to appoint an expert to investigate the validity and propriety of the Seapuit and Metinic Transactions. ",
+        "bbox": [
+            40,
+            98,
+            961,
+            239
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "11. On 4 November 2021, the Respondents fi led with the DIFC Courts an application for a WFO against the Appellants to prevent the dissipation of assets pending the determination of ongoing foreign civil court proceedings commenced in Kuwait (the “WFO Application”). The foreign proceedings referred to were the First Kuwaiti Proceedings. The WFO sought was in respect of the Appellants’ assets up to the value of USD 45,000,000. ",
+        "bbox": [
+            40,
+            252,
+            961,
+            367
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12. The WFO Application was heard ex parte on 8 November 2021. On 10 November 2021, the DIFC Court granted the WFO Application and issued the WFO requiring the Appellants to disclose all of their assets worldwide valued in excess of USD 150,000 within 48 hours of service of the WFO, and to confi rm that information by an affi davit within ten working days. ",
+        "bbox": [
+            40,
+            381,
+            961,
+            473
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "13. On 22 November 2021, the Respondents fi led two applications with the Enforcement Judge at the French Tribunal requesting the enforcement of the WFO (the “French Enforcement Proceedings”). Both applications were successful, and the Respondents were able to obtain an attachment order in France for up to EUR 39.8 million against the Appellants which was renewed on 7 March 2022. A French prosecutor was appointed to investigate the alleged crimes which may have been committed by the Appellants. The Respondents claim that the Appellants did not comply with those obligations and based on that non-compliance, the Respondents commenced contempt of court proceedings in France. On 17 February 2022, the criminal complaint was closed because it was deemed that “the facts or circumstances of the proceedings could not be clearly established by the investigation” and that “the evidence [is] therefore not suffi cient to constitute an offence”. ",
+        "bbox": [
+            40,
+            486,
+            961,
+            722
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "14. On or around 22 November 2021, the Respondents commenced a second Kuwaiti proceedings (case No. 18977/2021), (the “Second Kuwaiti Proceedings”) seeking the appointment of an expert to investigate various fi nancial transfers. The allegations made by the Respondents were in relation to the First Appellant’s mismanagement of UEL. ",
+        "bbox": [
+            40,
+            736,
+            961,
+            827
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "15. On 30 November 2021, the Judge continued the WFO at the return date hearing. In the Respondent’s skeleton argument, they pointed out that the WFO was being sought in support of the French Proceedings in addition to the First Kuwaiti Proceedings. On 30 November 2021, the Judge also made a fi nal and binding costs judgment of USD 250,000 against the Appellants and this order was properly served on the Appellants. ",
+        "bbox": [
+            40,
+            841,
+            963,
+            958
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "16. On 27 December 2021, the Respondents commenced precautionary attachments of the Appellants’ assets in Kuwait in support of the Second Kuwaiti Proceedings (case No.18977/2021). This, however, was rejected by the Kuwaiti Courts. ",
+        "bbox": [
+            42,
+            17,
+            961,
+            85
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "17. On 21 February 2022, the First Kuwaiti Proceedings (case No.12850/2021) were dismissed by the Kuwait Court of First Instance ruling that the lawsuit was “null” and void”. By 20 March 2022, following the dismissal of the First Kuwaiti Proceedings, the First Respondent had issued another fresh proceedings in Kuwait under Claim No. 4701/2022. The Kuwaiti Courts appointed a court expert to ascertain the merit of Mr. Nuri’s allegations. ",
+        "bbox": [
+            40,
+            98,
+            961,
+            215
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "18. On 29 March 2022, the Respondents sought the recognition and enforcement of the WFO before the Massachusetts Court. On 23 May 2022, the Massachusetts Court denied the recognition of the WFO against the Appellants. ",
+        "bbox": [
+            40,
+            228,
+            961,
+            294
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "19. On 27 April 2022, the Second Kuwaiti Proceedings (case No.18977/2021) were dismissed by the Kuwait Court of First Instance. The Respondents say that they have appealed this decision and the matter is currently before the Kuwait Court of Cassation. ",
+        "bbox": [
+            42,
+            309,
+            959,
+            376
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "20. On 28 April 2022, the Respondents fi led a criminal complaint with a civil action for damages before the French Courts against the Appellants on grounds of fraud and the use of “forged documents with intent to defraud, misuse of company property and money laundering”. ",
+        "bbox": [
+            40,
+            390,
+            961,
+            458
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. On 1 August 2022, the Respondents commenced a committal application against the Appellants for failing to comply with the WFO. The Appellants did not seek to purge their contempt by complying, albeit late, with the WFO. ",
+        "bbox": [
+            40,
+            472,
+            961,
+            538
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "22. On 24 August 2022, nine months after the WFO was granted, the Appellants applied to set it aside and to discharge the Disclosure Order on the grounds that the DIFC Court does not have jurisdiction to grant an injunctive order against the Appellants (the “Set Aside Application”). The Judge dismissed the Set Aside Application on the grounds that the Court had jurisdiction and upheld the Contempt of Court Order. ",
+        "bbox": [
+            40,
+            551,
+            961,
+            668
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "23. On the 24 November 2022, the French Prosecuting Authority dismissed the French criminal complaint on the grounds that the French Courts do not have any jurisdiction and no permission has been granted by the French Judge to the Respondents to pursue any further claims. ",
+        "bbox": [
+            40,
+            681,
+            961,
+            750
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "24. On 23 March 2023, the court-appointed expert in the Kuwait Court of First Instance found no evidence and no merit in support of the Respondents’ assertions and, as a result, the case was dismissed by the Kuwait Court of First Instance. Mr. Nuri intends to challenge the fi ndings of the expert. ",
+        "bbox": [
+            38,
+            763,
+            961,
+            854
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "25. On 27 February 2023, the French Court issued a judgment vacating the attachment order in favour of the Respondents. ",
+        "bbox": [
+            40,
+            869,
+            961,
+            912
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "26. The French criminal complaint and the Kuwaiti First and Second Proceedings have therefore been dismissed. To date, the Respondents have been unable to secure a money judgment against the Appellants. The Respondents state that the dismissal of the French Proceedings will be appealed in due course. ",
+        "bbox": [
+            40,
+            17,
+            961,
+            109
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Grounds of Appeal ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            126,
+            220,
+            145
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "27. The fi rst ground of this Appeal relates to the DIFC Court’s jurisdiction, and specifi cally whether there was jurisdiction to make an interim relief order in favour of the Respondents outside the ambit of Article 5A (1) (a) - (d) of the JAL. The parties’ submissions will be listed in detail to demonstrate the way in which the competing contentions have evolved throughout these proceedings. ",
+        "bbox": [
+            40,
+            158,
+            961,
+            249
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "28. The Appellants submit that the WFO should be overturned on six grounds. ",
+        "bbox": [
+            38,
+            263,
+            737,
+            282
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "29. First, the Appellants submit that the DIFC Court does not have jurisdiction to issue a WFO in support of foreign proceedings outside of the gateways in Article 5A (1) of JAL. According to them the Courts’ jurisdiction is primarily derived from Article 5 of JAL and since they do not fall within the scope of Article 5A(1)(a)-(d) the DIFC Court does not have the power to grant the WFO. The Appellants drew on a distinction between the limited statutory jurisdiction of the DIFC Court and other common law courts. They referred to the decision of the Privy Council in Broad Idea International $v$ Convoy Collateral Ltd [2021] UKPC 24, which, they argue, expanded the jurisdiction of common law courts in relation to granting freezing relief orders, but submit that the same analysis could not be followed by the DIFC Courts because, in the context of a limited statutory court like the DIFC Courts, the law should not be expanded in relation to jurisdictional issues on a judge-made basis. According to the Appellants should the DIFC Courts intend to expand its jurisdiction to grant extraterritorial relief orders in favour of foreign proceedings, it must be done by way of statute, unlike sovereign common law courts which have unlimited inherent jurisdictions as it is not possible to have judge-made juridical extensions to the Court’s jurisdiction in the same way as in a court of original, inherent unlimited jurisdiction. ",
+        "bbox": [
+            38,
+            297,
+            961,
+            653
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "30. The Respondents on the other hand contended that the DIFC Courts have jurisdiction, and this had been conferred upon the Court by Article 5A (1)(e) and Article 7(6) of the JAL augmented by Article 22(2) and Article 32 of DIFC Law No. 10 of 2004 (“the Court Law”) which gives the Court wide and unqualifi ed injunctive powers to issue injunction orders in aid of enforcement of foreign judgments. The Respondents argue that the Judge had correctly relied on Article 22(2) of the Court Law in support of his decision in granting the WFO. In support of the Respondents’ contention that the jurisdiction of the Courts is not qualifi ed, they rely on the decision of the former Chief Justice of the DIFC Courts in DNB Bank v Gulf Eyadah Corporation [CA-007-2015] to illustrate the point that in seeking enforcement of a foreign judgment it is not precondition for the purposes of the DIFC Courts’ jurisdiction to establish the existence of assets within the DIFC. ",
+        "bbox": [
+            38,
+            665,
+            961,
+            902
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "31. Second, the Appellants pointed out that the WFO was granted primarily on the basis that there were ongoing proceedings in Kuwait, but the First Kuwaiti Proceedings have now been dismissed based on the fi ndings of the court appointed expert. The Respondents refute the Appellants’ submissions, indicating that although the First Kuwaiti Proceedings have been dismissed, this was as a result of technical diffi culties with the claim and the dismissal was based on erroneous fi ndings of the court appointed expert. The Respondents submit that they have appealed against the expert’s fi ndings due to his failure to interrogate banks or seek information from third parties in reaching his conclusion, and confi rmed that an appeal hearing was scheduled to take place on 25 June 2023. ",
+        "bbox": [
+            38,
+            16,
+            961,
+            205
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "32. Third, the Appellants submit that the DIFC Courts do not have an inherent sovereign jurisdiction. The Courts jurisdiction is derived from the statutory provisions set out in JAL which are clearly circumscribed, in that there is no express provision, rule or regulation which plainly states that the DIFC Courts have jurisdiction beyond the grounds of Article 5A (1) (a) –(d) of JAL. This in contrast to the English Courts in which its statutory power is mandated specifi cally under section 25 of the Civil Jurisdiction and Judgments Act 1982. ",
+        "bbox": [
+            40,
+            218,
+            961,
+            359
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "33. The Respondents reply that the DIFC Courts have a wide and unqualifi ed jurisdiction to make interim orders and give directions as to the conduct of any proceeding in which it considers it appropriate by virtue of Article 32 of the DIFC Court Law. Also, the Judge was correct to fi nd that Article 32 ought to be held materially identical with the effect of Section 37 of the Senior Courts Act 1981 in England, which it gives the Court a general power to make orders and grant injunctions where it is just and convenient to do so. Therefore, the broad and the unqualifi ed provisions of the DIFC Court Law should compel the conclusion that those provisions ought to confer unqualifi ed injunctive powers upon the Courts, similar to those enjoyed historically by the English Courts. ",
+        "bbox": [
+            38,
+            372,
+            963,
+            561
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "34. The Appellants do not dispute that the DIFC Courts have the power to grant injunctions in support of foreign proceedings, which is expressly mandated under Article 32 of the Court Law, and is further elaborated in RDC 25.1 (6), (7) and RDC 25.24. However, to do so, the Appellants maintain their submission that prospective defendants subject to such injunctions ought to be subject to the DIFC Court’s in personam jurisdiction. As the DIFC Courts’ in personam jurisdiction is not predicated on service out of the jurisdiction, but rather is established through the gateways set out in Article 5 of JAL, the Appellants argue that there is no other route to jurisdiction that exists independent of these gateways. It is based on this observation that the Appellants submit that the DIFC Courts does not have the power to grant injunctions in support of foreign proceedings against prospective defendants who are not subject to its in personam jurisdiction. Further, the principle of in personam jurisdiction is a longstanding position in common law and a court will not have the “power to make orders against persons outside its territorial jurisdiction unless authorised by statute”: Waterhouse v Reid [1938] 1 KB 743. It follows from that, that JAL restricts the generality of the Court’s injunctive powers by confi ning its jurisdiction to limited categories. ",
+        "bbox": [
+            38,
+            574,
+            961,
+            907
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "35. The Respondents agree that the principle established in Broad Idea depended on whether the Courts had in personam jurisdiction, which was in the context of the relevant courts’ effi cacy of service or the grant of permission to serve out of the jurisdiction. However, they submit that this type of restriction is not applicable to the DIFC Courts as there are no established procedural constraints relevant to the service of DIFC Courts proceedings outside of the DIFC, and leave is evidently not required (per RDC r.9.53). Therefore, jurisdiction with respect to the DIFC Court will need to be established within the scope of Article 5 of JAL, which the Respondents argue that they have satisfi ed. The Respondents referred to the ruling of Justice Wayne Martin in Lateef v Liela [ARB-017-2020], and relied on paragraph 129 of his decision which deals with the consequences of the effi cacy of order granted subject to effective service. As the Appellants were effectively served with the WFO they had ample opportunity to take part in the proceedings and dispute the DIFC Court jurisdiction. The effective service of the WFO therefore resulted in the Appellants being deemed to have submitted to the DIFC Court jurisdiction by virtue of RDC 12.2 and 12.5 and it is now too late to dispute jurisdiction. ",
+        "bbox": [
+            38,
+            16,
+            963,
+            326
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "36. The Appellants submit that the only possible scenario in which the DIFC Court will have the power to grant interim relief orders against persons outside its territorial jurisdiction is if there is an existing contract in which the DIFC Law is the governing law. Consequently, the proposition made in Lateef concerning the lack of any requirement to seek permission to serve out proceedings would, if correct, give “extraordinary breadth” to the jurisdiction of the DIFC Courts, who would then have substantive jurisdiction to grant interim relief orders over anyone in the world in support of foreign proceedings (subject to effective service). This, the Appellants submit, in the absence of any established parameters, would be an exorbitant jurisdiction; and this was refl ected in the Judge’s decision when granting the WFO when he held that Article 5A(1)(e) of JAL read in combination with RDC 25.1 (6), (7) and 25.24 gives the Court jurisdiction to grant injunction orders in support of foreign proceedings whether or not the defendant against whom the injunction is sought has any connection with the DIFC. The Judge relied on the ruling of the Court of Appeal in Nest Investments v Deloitte & Touche [2018] CA 011 in which the Court of Appeal determined that RDC 20.7 is a regulation made pursuant to Article 5A (1) (e) and the wording of RDC 20.7 has the effect of conferring jurisdiction on the court to join in a third party to an action. The Judge also relied upon his own decision in Jones v Jones [2022] CFI 043 at paragraph 9 to the effect that the combination of Article 5A (1) (e) and RDC 25.24 envisaged the grant of interim remedies where no substantive claim was being made in the DIFC. ",
+        "bbox": [
+            38,
+            340,
+            959,
+            744
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "37. In response to the Appellants’ submissions that Jones and Lateef jurisdiction is impossibly wide, the Respondents argue that the exercise of the jurisdiction is constrained by discretion, and the existence of assets in onshore Dubai (as is contended by the Respondents) would be relevant to the exercise of that discretion due to the conduit jurisdiction. ",
+        "bbox": [
+            40,
+            758,
+            961,
+            848
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "38. Fourth, the Appellants contend that there is no clear evidence linking them to the DIFC: there is no indication that they are residents in the DIFC, nor have agreed to any contract that is subject to the exclusive jurisdiction of the DIFC, nor have registered companies, corporate vehicles or ownership of any other assets in the DIFC. The Respondents dispute the Appellants’ contention that there is no connection to the DIFC Court on the basis that this matter is one of a conduit jurisdiction in the sense that the Respondents envisage that there will be a judgment from a court, possibly Kuwait, that will be enforceable through the DIFC Court and recognisable by the DIFC Court, either through a treaty or other statute. ",
+        "bbox": [
+            40,
+            863,
+            961,
+            979
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "39. Fifth, the Respondents also raised the issue regarding the delay by Appellant to apply to have the WFO vacated within the stipulated time period. As they failed to do so, by virtue of RDC 12.2 and 12.5 the Appellants are deemed to have submitted to the DIFC Courts’ jurisdiction and waived any personal objection to jurisdiction. The Appellants argue that the Respondents’ “deemed to have submitted to the DIFC jurisdiction” argument is without merit and submit that the Judge did not fi nd jurisdiction on this basis, but he in fact made his order on the basis of actual jurisdiction. Further, the Appellants submit that deemed to have submitted to jurisdiction does not create jurisdiction itself, relying on paragraph 12.5.2 of the DIFC Courts Rulebook which states that, “submission cannot by itself confer jurisdiction”. The Appellants argue that a court cannot be given jurisdiction by a deeming provision, which relies upon a failure of one party to challenge jurisdiction within a particular time frame. ",
+        "bbox": [
+            40,
+            98,
+            961,
+            335
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "40. The Appellants agree that a precondition for an application for a freezing injunction is that the Respondents must establish a good arguable case in relation to a substantive claim, and where the quantum of the claim is properly set out. The Appellants argue that there is no good arguable case in this matter and that there never has been. If the Respondents claim is based on an alleged fraud related to the Seapuit and Metinic Transaction, the claim should have been brought in the name of UEL before the Courts of the Cayman Islands in accordance with provision 8 of the Shareholder Agreement. ",
+        "bbox": [
+            40,
+            348,
+            961,
+            512
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "41. The Respondents say that there is a good arguable case, and that the element of international fraud is proven to the good arguable standard. The Respondents also submit that it is too late now to raise those arguments considering that the Appellants have fl outed the WFO and Disclosure Order for nine months and had the opportunity to defend their position earlier. ",
+        "bbox": [
+            40,
+            526,
+            961,
+            618
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "42. Sixth, the Appellants submit that RDC 25.24 is procedural and not substantive, meaning that it shall not purport to give rise on its own to a free-standing jurisdiction, and should not be deemed as expanding the DIFC Court’s exclusive jurisdiction beyond JAL. The Appellants argue that the reasoning in Jones is unpersuasive to the extent that the DIFC Court may invoke the jurisdiction of a substantive claim via Article 5 JAL, but that this does not preclude any such substantive claim from being determined elsewhere if there is an exclusive jurisdiction clause in favour of another court. ",
+        "bbox": [
+            40,
+            631,
+            961,
+            771
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "43. The Respondents disagree with the Appellants’ submission and observe that Article 5(1)(e) read in combination with RDC 25.24 is apt to confer jurisdiction relying by analogy on the Court of Appeal decision in Nest Investment where the Court ruled that RDC 20.7 would be largely redundant if it is not seen as a source of jurisdiction for the purpose of Article 5A(1)(e) of the JAL. ",
+        "bbox": [
+            40,
+            784,
+            961,
+            876
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "44. The Appellants observe that the decision of the Court of Appeal in Nest Investment is distinguishable because RDC 20.7 relates to the joinder of additional parties subject to the Court having substantive jurisdiction to deal with the proceedings to which those parties are joined. The ",
+        "bbox": [
+            40,
+            890,
+            961,
+            958
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Respondents disagree with that observation, submitting that the wording of Article 22(2) of the Court Law read in combination with RDC 25.24 essentially gives the DIFC Court the jurisdiction to make an injunction order as it considers appropriate, and albeit it is accepted by the Respondents that it is a wide term, they argue that the Court’s jurisdiction is not qualifi ed nor constrained in the manner in which the Appellants contend. ",
+        "bbox": [
+            40,
+            17,
+            963,
+            133
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "45. The Appellants argue that RDC 25.24 should not be read as a substantive rule conferring jurisdiction on the DIFC Court to grant interim relief orders as the rule is intended to deal with how the applications are made, and does not purport to give rise to any free-standing jurisdiction. The Appellants observe that if in fact RDC 25.24 was intended to extend the jurisdiction of the DIFC Court it would have contained clearer language to that effect. In support their argument they also rely on the decision of H.E Judge Omar Al Mheiri in Childescu v Gheorghiu [CFI-074-2019] in which Justice Al Mheiri held that there was no self-standing jurisdiction under RDC 25.24. ",
+        "bbox": [
+            38,
+            147,
+            963,
+            311
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "46. During the Hearing, the Appellants submitted that the fact there may be a foreign judgment at some time in the future does not confer power on the DIFC Court to grant injunctions in the meantime. In support of their contention, the Appellants rely on Article 7(6) JAL which requires there to be “judgments, decisions, orders and ratifi ed Arbitral awards rendered outside DIFC by any other court” to enable the Respondents to use the principle of a conduit jurisdiction. Therefore, the Appellants say the conduit enforcement principle under Article 7 JAL only relates to full and fi nal judgments which have already been issued and do not arise in relation to a mere cause of action, which may or may not ripen into a judgment. The Appellants submit that the position of Article 7 JAL is echoed in Article 24 of the Court Law, and it gives no assistance to the Respondents because it makes it clear that the judgment, order, or award must have been issued. Therefore, in the absence of a judgment or an order, the DIFC Court does not have the jurisdiction to grant an interim remedy. They submit that the approach taken by Privy Council in Broad Idea is not available in the DIFC Courts because there are no like-for-like statutory provisions enabling it to properly adopt that approach. ",
+        "bbox": [
+            38,
+            323,
+            961,
+            633
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "47. In response, the Respondents argue that Articles 7(4) - (6) JAL and Article 24 of the Court Law should be interpreted as a source of jurisdiction, referring to the “Enforcement Principle” in the reasoning of Lord Leggatt in Broad Idea in which his Lordship stated that the rationale in granting a freezing injunction is primarily to assist the applicant with a prospective enforcement of a money judgment prior to that judgment being obtained. The Respondents say that if a freezing order cannot be granted in support of foreign proceedings, regimes for the enforcement of judgments and arbitral awards would be undermined. The Respondents also rely on Lord Nicholls in Mercedes Benz AG v Leiduck [1995] UKPC 31, for the proposition that it would be meaningless to limit the interim remedy specifi cally to cases where the judgment is being sought in territorial jurisdiction where the injunction is needed to preserve all assets against which the judgment can be enforced. ",
+        "bbox": [
+            40,
+            645,
+            961,
+            882
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "48. The Respondents argue that the Enforcement Principle established in Broad Idea has been followed subsequently in two DIFC decision in Jones and Lateef, indicating that the foreign proceedings need not have been commenced provided that the DIFC Court is satisfi ed with a suffi cient degree of certainty either that proceedings will be brought in the future or that there is a money judgment from a court capable of enforcement by the Court. The Respondents argue that there does not need to be a cause of action when an applicant is applying for an interim relief order, “the court simply needs to consider and find that there is a prospect of the judgment being given in a foreign jurisdiction. and there can be a process of enforcement against assets\". The Respondents submit that they have ongoing proceedings against the Appellants in Kuwait and France and there is the unchallenged evidence that the Appellants own assets in onshore Dubai. ",
+        "bbox": [
+            40,
+            896,
+            959,
+            964
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "49. The Appellants assert that the Judge’s decision in granting the WFO effectively implies that the DIFC Court may grant injunctions over individuals or companies anywhere in the world in relation to any proceedings even where it has no in personam jurisdiction, extending beyond the principle of Broad Idea and is contrary to the DIFC principles set out in Dhir v Waterfront [2009] CFI 011 and Nest Investment [2018] CA 011. The current WFO would qualify as one exercising exorbitant jurisdiction because it reaches beyond what is internationally acceptable: granting orders over individuals who have no association or link to the DIFC Court. ",
+        "bbox": [
+            40,
+            195,
+            961,
+            359
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "50. The Appellants submit that in granting interim relief orders, the Court ought to settle the question of jurisdiction to safeguard it from exercising exorbitant jurisdiction. In support of their submission, they rely on paragraph 121 of Lord Leggatt’s judgment in Broad Idea in which he states that, “where the court has personal jurisdiction over a party, the court has a power and there is no principle or practice which prevents the exercise of the power to grant a freezing injunction against that party\". The Appellants state that this approach has been given some support in the DIFC Court of Appeal in Dhir, where Justice Michael Hwang found it persuasive in that the Court must agree that the respondent ought to be amenable to the Court’s jurisdiction before an injunction can be granted. ",
+        "bbox": [
+            38,
+            372,
+            961,
+            560
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Discussion and analysis ",
+        "bbox": [
+            45,
+            575,
+            262,
+            592
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "51. Where jurisdiction has been challenged, as here, the burden is on the party seeking recognition of jurisdiction to satisfy the Court that the Court has jurisdiction, according to the gateways set out in Article 5 of the JAL: Gavin v Gaynor [CFI-017-2015]. Let us deal with the jurisdiction argument before moving on to determine if there is a good arguable case. For convenience, Article 5A is reproduced here: ",
+        "bbox": [
+            40,
+            607,
+            963,
+            722
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "“5(A) The Court of First Instance: ",
+        "bbox": [
+            80,
+            737,
+            376,
+            755
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) The Court of First Instance shall have exclusive jurisdiction to hear and determine: ",
+        "bbox": [
+            68,
+            770,
+            848,
+            789
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) Civil or commercial claims and actions to which the DIFC or any DIFC Body, DIFC Establishment or Licensed DIFC Establishment is a party; ",
+        "bbox": [
+            99,
+            802,
+            961,
+            846
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(b) Civil or commercial claims and actions arising out of or relating to a contract or promised contract, whether partly or wholly concluded, fi nalised or performed within DIFC or will be performed or is supposed to be performed within DIFC pursuant to express or implied terms stipulated in the contract; ",
+        "bbox": [
+            115,
+            859,
+            963,
+            951
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(c) Civil or commercial claims and actions arising out of or relating to any incident or transaction which has been wholly or partly performed within DIFC and is related to DIFC activities; ",
+        "bbox": [
+            115,
+            17,
+            959,
+            85
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(d) Appeals against decisions or procedures made by the DIFC Bodies where DIFC Laws and DIFC Regulations permit such appeals; ",
+        "bbox": [
+            115,
+            98,
+            961,
+            142
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(e) Any claim or action over which the Courts have jurisdiction in accordance with DIFC Laws and DIFC Regulations. ",
+        "bbox": [
+            115,
+            155,
+            961,
+            198
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) The Court of First Instance may hear and determine any civil or commercial claims or actions where the parties agree in writing to fi le such claim or action with it whether before or after the dispute arises, provided that such agreement is made pursuant to specifi c, clear and express provisions. ",
+        "bbox": [
+            77,
+            204,
+            961,
+            294
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(3) The Court of First Instance may hear and determine any civil or commercial claims or actions falling within its jurisdiction if the parties agree in writing to submit to the jurisdiction of another court over the claim or action but such court dismisses such claim or action for lack of jurisdiction.” ",
+        "bbox": [
+            75,
+            309,
+            961,
+            376
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "52. The question before this Court is whether the DIFC Courts have jurisdiction to grant the WFO in circumstances where none of the parties fall within the scope of Article 5A (1) (a) – (d) of the JAL, the case does not fall within Article 5A (2) and the only gateway relied on is Article 5A (1)(e). ",
+        "bbox": [
+            40,
+            381,
+            963,
+            449
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "53. There is no express provision or any other DIFC law, rule or regulation which states that the DIFC Courts have jurisdiction to grant injunctions outside the grounds of Article 5A(1)(a)–(d) and 5A (2) of the JAL. The DIFC Courts have a form of territorial jurisdiction over entities based in or licensed in the DIFC, and over contracts performed or partly concluded within the DIFC by virtue of Article 5A(1)(a)– (d). Article 5A (2) and (3) further expand the Courts’ jurisdiction. The DIFC Courts have jurisdiction where parties agree to confer jurisdiction on the Courts by what is normally referred to as the opt-in clause. ",
+        "bbox": [
+            38,
+            462,
+            963,
+            626
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "54. There is another clause of Article 5A (1) which the Respondents relied on and that is Article 5A(1) (e), together with the ruling in Nest Investment which held that RDC 20.7 is a “DIFC Regulation”, for the purposes of that clause. Article 5A(1)(e) confers a source of jurisdiction by way of laws and regulations which by defi nition includes any laws issued by the Ruler in relation to DIFC and any rules, regulations, bylaws or orders relating to DIFC issued by the President or by DIFC Bodies. The basis of the Respondents’ argument is unpersuasive. ",
+        "bbox": [
+            38,
+            639,
+            961,
+            780
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "55. RDC 20.7 and RDC 25.24 will be discussed below and for convenience these Rules are reproduced here (with emphasis added): ",
+        "bbox": [
+            40,
+            794,
+            961,
+            837
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "“20.7 The Court may order a person to be added as a new party if: ",
+        "bbox": [
+            77,
+            851,
+            675,
+            870
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) it is desirable to add the new party so that the Court can resolve all the matters in dispute in the proceedings; or ",
+        "bbox": [
+            77,
+            883,
+            961,
+            927
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) there is an issue involving the new party and an existing party which is connected to the matters in dispute in the proceedings, and it is desirable to add the new party so that the Court can resolve that issue.” ",
+        "bbox": [
+            78,
+            17,
+            959,
+            84
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "“25.24 Where a party wishes to apply for an interim remedy but: ",
+        "bbox": [
+            77,
+            99,
+            652,
+            118
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) the remedy is sought in relation to proceedings which are taking place, or will take place, outside the DIFC ; or ",
+        "bbox": [
+            77,
+            131,
+            961,
+            174
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) the application is made for an order for production of documents or inspection of property before a claim is made; ",
+        "bbox": [
+            78,
+            189,
+            961,
+            231
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "any application must be made in accordance with Part 8” ",
+        "bbox": [
+            75,
+            246,
+            589,
+            265
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "56. The question that arose in Nest Investment was whether or not the Rules of the Court constitute a DIFC Regulations and, if they do, whether they are intended to confer jurisdictional power as opposed to a limited procedural power. The Court concluded and unanimously agreed that Rule 20.7 did indeed confer jurisdiction for the Court to add in any new party to any proceedings. The wording of RDC 20.7 was deemed to be wide enough to confer jurisdiction and give the Court the discretionary power to grant the relevant order if the criteria set out in RDC 20.7 are satisfi ed. It is material to note the words used in RDC 20.7 which are “The Court may order…”. ",
+        "bbox": [
+            40,
+            271,
+            961,
+            434
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "57. At paragraph [39] of Nest Investment, the Judge correctly observed that, “Subparagraph (e) is however, on its face, freestanding, inasmuch as it covers any claim or action where another DIFC Law or DIFC Regulation confers jurisdiction. The words “over which the Courts have jurisdiction in accordance with DIFC Laws and DIFC Regulations” require the relevant Law or Regulation to have the effect of creating jurisdiction, which must always be a question of construction in the light of the particular provision of the Law or Regulation in question, when seen in the context of the statute or regulation as a whole and the purpose which lies behind the provision and the statute.” ",
+        "bbox": [
+            40,
+            448,
+            722,
+            466
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "58. The RDC cannot add nor extend the DIFC Courts’ jurisdictional powers without clear expressive words to confer such powers. The ruling in Nest Investment should not be taken as an indicator that the Court had conclusively determined that all rules in the RDC confer jurisdiction on the DIFC Courts. Instead, one needs to make an assessment on a case-by-case basis to determine their true effects and ascertain if the relevant rule in fact confers jurisdiction. ",
+        "bbox": [
+            40,
+            657,
+            963,
+            774
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "59. Compare the wording of RDC 20.7 to that of RDC 25.24. The wording of RDC 25.24 provides a general power which the Court may exercise when granting an interim remedy in aid of foreign proceedings. The words used in that rule are not meant to confer jurisdiction. Its operation is not forceful enough to confer jurisdiction. By its terms, it operates when a prospective applicant seeks a remedy in support of foreign proceedings. It is procedural in the sense that it deals with how such applications are to be made, namely under Part 8. Rather, the words used in that rule i.e. “Where the party wishes to apply…any application must be made in accordance with Part 8.” indicate that it is merely intended to be procedural. ",
+        "bbox": [
+            38,
+            787,
+            961,
+            976
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "60. The Respondents also placed reliance on RDC 25.1 (6) (a) - (b) and (7), which provide that: ",
+        "bbox": [
+            45,
+            17,
+            897,
+            36
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "“The Court may grant the following interim remedies; ",
+        "bbox": [
+            77,
+            51,
+            552,
+            70
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[…] ",
+        "bbox": [
+            78,
+            84,
+            115,
+            103
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(6) an order (referred to as a ‘freezing order’): ",
+        "bbox": [
+            78,
+            117,
+            490,
+            135
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) restraining a party from removing from the jurisdiction assets located there; or (b) restraining a party from dealing with any assets whether located within the jurisdiction or not; ",
+        "bbox": [
+            107,
+            149,
+            845,
+            168
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(7) an order directing a party to provide information about the location of relevant property or assets or to provide information about relevant property or assets which are or may be the subject of an application for a freezing order;” ",
+        "bbox": [
+            75,
+            240,
+            959,
+            306
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "61. The language of RDC 25.1 (6) and (7) are general powers granted to the Court, and when read in combination with RDC 25.24(1) it is clear that these general powers envisage a prospective claim being issued in a different court in which the DIFC Court would have jurisdiction over that claim, but such jurisdiction must fi rst be derived from any of the gateways in Article 5A. In effect, the interim remedy shall only be granted provided the Court is satisfi ed that the jurisdiction condition has been met by the prospective applicant seeking such relief. ",
+        "bbox": [
+            40,
+            321,
+            961,
+            461
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "62. As suggested by the Appellants, RDC 25.24 should not be read on its own, but rather in parallel and consistent with the gateways of Article 5 of the JAL. The impact of the Judge’s decision in the Court of First Instance would ultimately lead to the prospect of the DIFC Courts having jurisdiction over any foreign proceedings anywhere in the world, whereas in fact the Court’s jurisdiction has been constrained to the circumstances outlined in Article 5 of the JAL and is therefore neither wide nor expansive enough to cover any party around the world under any circumstances. ",
+        "bbox": [
+            40,
+            473,
+            961,
+            613
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "63. The Respondents also relied on Articles 22, 24 and 32 of the Court Law No. 10 of 2004 to support their claim that this Court is empowered with jurisdictions to hear their claim. For convenience, the three Articles are reproduced in toto: ",
+        "bbox": [
+            40,
+            627,
+            961,
+            695
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "“22. Judicial Review and Injunctions ",
+        "bbox": [
+            80,
+            741,
+            405,
+            760
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) The Court of First Instance may hear and determine applications for judicial review of statutory decisions as provided for in DIFC Law or in the Rules of Court. ",
+        "bbox": [
+            114,
+            775,
+            961,
+            818
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) The Court of First Instance may order an injunction restraining a person from engaging in conduct or requiring a person to do an act or thing or other order the Court considers appropriate.” ",
+        "bbox": [
+            114,
+            832,
+            961,
+            898
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "“24. Ratifi cation of Judgments ",
+        "bbox": [
+            80,
+            947,
+            351,
+            965
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) Pursuant to Article 7(4) of the Judicial Authority Law, the Court of First Instance has jurisdiction to ratify any judgment, order or award of any recognised: ",
+        "bbox": [
+            114,
+            17,
+            961,
+            60
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) Foreign court;   \n(b) Courts of Dubai or the United Arab Emirates;   \n(c) Arbitral Award;   \n(d) Foreign Arbitral Award; or   \n(e) Orders for the purposes of any subsequent application for enforcement in the courts of Dubai; ",
+        "bbox": [
+            152,
+            76,
+            966,
+            249
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(2) Where the UAE has entered into an applicable treaty for the mutual enforcement of judgments, orders or awards, the Court of First Instance shall comply with the terms of such treaty.” ",
+        "bbox": [
+            114,
+            263,
+            959,
+            331
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "32. Powers ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            379,
+            184,
+            395
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The DIFC Court has the power to make orders and give directions as to the conduct of any proceedings before the DIFC Court that it considers appropriate, including: ",
+        "bbox": [
+            78,
+            411,
+            957,
+            454
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) orders prescribed by any legislation under DIFC Law;   \n(b) injunctions, including requiring an act to be done;   \n(c) interim or interlocutory orders;   \n(d) orders made without notice to any other party and the circumstances in which such orders are appropriate;   \n(e) contempt orders;   \n(f) orders made in the interests of justice; or   \n(g) referral of matters to the Attorney General of Dubai.” ",
+        "bbox": [
+            114,
+            466,
+            961,
+            708
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "64. These three Articles of the Court Law, as with other Articles of the Court Law, are intended to provide general powers in the creation of the DIFC Courts. Individual provisions of that law are not intended, unless clearly worded, to confer any special powers or jurisdictions on the Court. If one reads through the whole law, one would notice that they are worded in a way to merely express why the DIFC Courts are created. It is very clear that the DIFC Court Law is intended to provide generally the set-up of the Courts and its general jurisdictions and powers. Over and above the DIFC Courts law is the JAL. The Rules of the Dubai International Financial Centre Courts are made by the President and are intended to provide the detailed powers and procedures on how the Courts are to function. They are similar to the civil procedure rules of the English Courts, which in fact they are based on. ",
+        "bbox": [
+            38,
+            714,
+            961,
+            926
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "65. As for the suggestion that the combination of title Article 5A(1)(e) of the JAL read together with Article 24 of the Court Law is to be the basis for jurisdiction: the provisions of the Court Law and the RDC relating to the grant of injunctions and interim relief are not suffi cient to confer wide ranging jurisdiction on the Court, as discussed above. Article 24 of the Court law provides jurisdiction to ratify a judgment, order or award. That is not a source of jurisdiction where there is no judgment or award to ratify. None of the Articles in JAL, the Court Law or the RDC provide the Court with the power to issue injunctions in aid of “anticipatory” foreign judgments. The fact that there may be a judgment in the Kuwaiti Proceedings at some point in the future does not confer power on the DIFC Court to grant an injunction in the meantime. If the Respondents were correct to say that Article 24 conferred DIFC Court jurisdiction over matters which are yet to be decided (on the basis that there may be a judgment sometime in the future), the effect would be that the Court would have exclusive jurisdiction over those matters, which is clearly not the correct application of Article 24 or application of JAL, Court Law or the RDC. ",
+        "bbox": [
+            38,
+            16,
+            961,
+            326
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "66. In respect to the argument that Article 5A(1)(e) when read in combination with Article 32(b) of the Court Law (which provides the Court with the power to grant injunctions if it is considered appropriate), confers powers on the Courts to grant injunctions, as was mentioned earlier the whole Court Law is meant to express the general jurisdiction of the Courts. There must be a valid proceeding before the Court. Article 32(b) states (emphasis added): ",
+        "bbox": [
+            40,
+            338,
+            963,
+            455
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "“The DIFC Court has the power to make orders and give directions as to the conduct of any proceedings before the DIFC Court that it considers appropriate, including: ",
+        "bbox": [
+            77,
+            469,
+            959,
+            512
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[…] ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            526,
+            115,
+            546
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(b) injunctions…” ",
+        "bbox": [
+            78,
+            560,
+            235,
+            577
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "67. With respect to Article 7(4) of the JAL being a basis for the Court’s jurisdiction, the Court of Appeal in DNB Bank [para 97] decided that Article 7(4) to (6) of the JAL can, in combination with Article 5(1) (e) JAL and Article 24 of the Court Law, provide a source of jurisdiction for the enforcement of foreign judgments. However, again this does not provide jurisdiction for an interim relief order in respect of a future or prospective judgment of a foreign court, nor is there any evidence in the Court of Appeal’s reasoning to suggest that the DIFC Courts have the jurisdiction to do so. ",
+        "bbox": [
+            38,
+            592,
+            961,
+            731
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "68. The Respondents placed heavy reliance on Lateef and in turn its application of Broad Idea as the basis for explaining the DIFC Court’s purported jurisdiction to grant interim relief in support of prospective judgments. The decision in Lateef drew heavily on the notion of the “Enforcement Principle” which concluded that injunctions are ancillary to the enforcement of a prospective foreign judgment and shall fall within the Court’s jurisdiction. ",
+        "bbox": [
+            40,
+            745,
+            963,
+            860
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "69. The Court of Appeal is not bound by the CFI decision in Lateef. The decision also did not address the absence of a relevant law which would, in combination with Article 5A(1)(e) of the JAL, ground jurisdiction in those circumstances. The Honourable Justice Wayne Martin suggested in effect that Article 22(2) and 32(b) of the Court Law provided the Court with an unrestricted power to grant injunctive relief and it would require “clear and unequivocal constraints or qualifi cation” to the Court’s powers to decide otherwise. Therefore, he considered that restricting the granting of a freezing order in anticipation of a judgment to be: ",
+        "bbox": [
+            40,
+            873,
+            961,
+            966
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "“(a) contrary to the underlying principle, (b) dramatically undermine the effi cacy of remedy (c) thereby undermine the effi cacy and integrity of the Court’s process not only in the local Court but also in the jurisdiction in which the substantive proceedings are being conducted (d) undermine arrangements between courts in different jurisdiction for the reciprocal enforcement of judgments”. ",
+        "bbox": [
+            75,
+            98,
+            961,
+            190
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "70. Whilst it is important to recognise the underlying principle of a freezing order and when granted its relevance and support to the prospective enforcement of a judgment, the necessary question with which the Court has always being concerned is whether it has jurisdiction under its statute to grant such relief. The question is not whether it should have jurisdiction merely in order to avoid a less corrupt and “perverse” outcome. ",
+        "bbox": [
+            40,
+            204,
+            961,
+            319
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "71. The DIFC Courts have been willing to grant injunctions in support of the enforcement principles in respect of foreign judgments or arbitral awards on the basis that the Court would be acting in its capacity as a conduit jurisdiction. However, the Court does not have any statutory basis to assume jurisdiction by extending the conduit jurisdiction principle to matters which are not within the scope of the DIFC Court. ",
+        "bbox": [
+            40,
+            332,
+            961,
+            449
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "72. It may be helpful to draw a comparison between the present position of the law in the DIFC and that under English Law in relation to granting injunctions in support of potential foreign proceedings. The English Courts have statutory power vested under s.25 of the Civil Jurisdiction and Judgments Act 1982, which confers powers upon the High Court to grant interim relief orders in respect of proceedings which have been or are to be commenced in a “contracting state”. There is no equivalent statutory power available to the DIFC Court. ",
+        "bbox": [
+            40,
+            462,
+            963,
+            601
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "73. In Broad Idea, the Privy Council established jurisdiction by reliance on a personal jurisdiction over the defendant against whom the freezing injunction order was made. In many common law systems, jurisdiction is established once a party has been properly served with the relevant proceedings and therefore generally there are no issues that will arise if the defendant is within the court’s territory. However, where the defendant is outside of the jurisdiction, leave to serve outside must be sought by the applicant. As far as the DIFC Courts is concerned, the need to seek permission to serve outside jurisdiction does not arise. In fact, the notion of needing to seek leave to serve process outside of the DIFC proceedings does not exist, by virtue of RDC 9.53. However, the fact that no permission needs to be obtained to serve process outside the DIFC cannot be read as conferring jurisdiction on the DIFC Courts to hear case like the one before this Court now. The Court’s jurisdiction cannot be established merely on the basis of effective service per se. Again, the danger of that approach would be to imply that anyone properly served outside of the jurisdiction with DIFC proceedings would automatically be subject to the Court’s jurisdiction. ",
+        "bbox": [
+            38,
+            614,
+            961,
+            925
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "74. The principle that in personam jurisdiction in the DIFC Court is not established by way of service was laid in the Court of Appeal’s decision in Akhmedova v Akhmedova [CA-003-2018]. The Court there was concerned with the question of whether enforcement of a foreign judgment could be obtained against a person who was not a party to that judgment. The Court of Appeal dismissed the injunction order on the basis that the Court’s jurisdiction relating to the enforcement of a foreign judgment only extended to enforcement against parties to those judgments. The fi ndings and analysis of the Court of Appeal’s decision on the issue of jurisdiction are aligned with the overall scope of the Court’s jurisdiction. The Court of Appeal recognised that: ",
+        "bbox": [
+            38,
+            16,
+            961,
+            205
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "“…if the legislative intention had been to extend jurisdiction in this way, the legislation would have clearly so provided and in the absence of an amendment to the legislation, the Court does not have jurisdiction over a party […] who is not a party” to a foreign judgment.” ",
+        "bbox": [
+            73,
+            219,
+            959,
+            287
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "75. This is consistent and supportive of the conclusion that the DIFC Court’s jurisdiction should not be interpreted too broadly when it comes to the issue of jurisdiction. ",
+        "bbox": [
+            45,
+            300,
+            961,
+            343
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "76. The Respondents take issue with the Appellants’ timing in raising jurisdictional challenges considering that they were properly served with the WFO and have had ample opportunity to dispute the Court’s jurisdiction. The Respondents argue that in the absence of any challenge to the Court’s jurisdiction at the relevant time, the Court should, relying on RDC 12.5, draw the conclusion that the Appellants are deemed to have submitted to the Court’s jurisdiction based on their failure to raise any of the jurisdictional challenges, which they rely on in this Appeal. Failing to dispute the Court’s jurisdiction within the relevant time is not suffi cient to deem the defendant to have submitted to the Court’s jurisdiction. When the Court is without “jurisdiction” in the context of this Appeal, RDC 12.5 cannot be invoked to support the claim that by failing to challenge jurisdiction under that RDC 12.5, the Respondent is deemed to have accepted the Court’s jurisdiction. There must be drawn a distinction between what perhaps maybe referred to as “prima facie jurisdiction” and “ordinary jurisdiction”. In this Appeal before us, the issue of jurisdiction goes back to interpretation of jurisdiction under the JAL gateways, which for convenience shall be referred to as “prima facie jurisdiction”. The jurisdiction which for convenience is referred to as the “ordinary jurisdiction” is intended to be covered by Part 12 of the RDC. A party seeking to place itself or another party within the DIFC Courts jurisdictions must fi rst clear the hurdle of the gateways under JAL, i.e the “prima facie jurisdiction”. Once that hurdle is cleared the party falls within the “prima facie jurisdiction” of the DIFC Courts and any further challenge of jurisdiction is that which is intended under Part 12 of the RDC i.e the “ordinary jurisdiction”. For example, where the question is whether parties have opt-out to the jurisdiction of DIFC Courts, then it is proper to invoke Part 12 to challenge jurisdiction. There are other examples found in the DIFC Courts Practice before us now by Rupert Reed and Tom Montagu-Smith. According to the same book at page 9…“However, the position appears to remain that submission cannot create jurisdiction unless the acts relied on satisfy the requirement in Article 5(A) (2) for a jurisdiction agreement or otherwise meet the requirements of one of the gateways to jurisdiction.” This is further supported by Hardt & Anor. v DAMAC (DIFC) Company Ltd. & Ors. [2009] CFI 036 and paragraph 11- 133 in Dicey Morris & Collins on the Confl ict of Laws 15th Edition which affi rms that the mere fact of submission to jurisdiction, actual or deemed, is not suffi cient to confer jurisdiction on the court. In Hardt Justice Sir Anthony Colman found that submission to the DIFC Court by defending on the merits or by operation of RDC 12.5 cannot confer jurisdiction on the Court which it did not otherwise have 77. The Respondents claim that considering the DIFC Court’s jurisdiction is unqualifi ed to an extent, the Court should be more willing to grant an injunction where there is an allegation of international fraud relying on the authority of Arcelormittal v Essar Limited & Ors [2019] EWHC 724, where it was stated [at para 73] that, ",
+        "bbox": [
+            38,
+            348,
+            961,
+            989
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "“There was no dispute that this is a good summary of the relevant principles. There are, however, number of matters that I consider to be important in that context. First, as is clear from paragraph [44] of the judgment, Popplewell J. was not considering a case of “international fraud”. Secondly, it is clear from cases such as Republic of Haiti v Duvalier that in cases of international fraud, the English court may be more willing to intervene. In Mobil Cerro Negro Ltd. v Petroleos de Venezuela SA, Walker J. indicated that in cases of international fraud, the court would not look for such strong connecting factor with England as it would in other cases: see in particular paragraphs [86], [119], [120-122] and [155] of the judgment…” ",
+        "bbox": [
+            77,
+            204,
+            963,
+            392
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "78. The Respondents contend that this is a case of fraud with an international element and therefore this principle should apply to this Court. In support of their argument, the Respondents rely on [para 2] of the French civil action, which states that the complaint is for, “fraud in an organised gang, forgery, misuse of corporate assets and money laundering that took place at least in part of the French territory\". ",
+        "bbox": [
+            40,
+            405,
+            963,
+            521
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "79. Before dealing with the “intentional fraud notion”, it might be worth reiterating that the underlying dispute is primarily based on an allegation that the Respondents have a benefi cial interest in a property that was transferred out of UEL pursuant to the Seapuit and Metinic Transaction. The Respondents therefore seek compensation on the grounds that there has been a fraudulent breach of trust committed by the Appellants. ",
+        "bbox": [
+            40,
+            535,
+            961,
+            650
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "80. Whilst the English Courts may be more willing to intervene if an element of fraud is established (and would not therefore look for a strong factor connecting it to England), this position must be distinguished from the Court’s jurisdiction where serious issues must be considered before the Court can grant an injunction relief order and act as international police. The question of jurisdiction must be settled fi rst; the Court cannot restrain the Appellants’ assets if it is not satisfi ed that it has jurisdiction to grant such relief. Therefore, even if the element of fraud is present that will not be suffi cient to trigger the Court’s jurisdiction because of its qualifi ed statutory nature. Equally, it is not enough to have an anticipatory judgment to trigger the Court’s jurisdiction. ",
+        "bbox": [
+            40,
+            664,
+            961,
+            852
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Good arguable case ",
+        "bbox": [
+            45,
+            866,
+            228,
+            884
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "81. The general pre-conditions that must be satisfi ed for the Court to make a freezing injunction were summarised by the former Chief Justice Sir Anthony Evans when delivering the judgment of the Court of Appeal in Ithmar Capital v 8 investment [CA-001-2008]: ",
+        "bbox": [
+            40,
+            898,
+            959,
+            966
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "“[25] …The Applicant must produce evidence which satisfi es the Court: ",
+        "bbox": [
+            77,
+            17,
+            715,
+            36
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(1) that it has a “good arguable case”;   \n(2) that the Defendant has or may have assets which will be available to satisfy the judgment against him, if judgment is given in the Claimant’s favour;   \n(3) that there is a real risk that the judgment will not be satisfi ed by reason of an “unjustifi able” disposal of those assets; and   \n(4) that in all the circumstances it is “just and convenient” to make the Order sought.” ",
+        "bbox": [
+            70,
+            49,
+            966,
+            217
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "82. The Respondents submit that they are entitled to the WFO because, although they have not yet secured a money judgment, they will do so in due course from the Kuwaiti Courts or the French Courts. The Respondents explain that a freezing order is ancillary to a money judgment and seek to bring themselves into the DIFC Jurisdiction through the enforcement gateway of Article 7(4) and Article 7(6). The Appellants reply that there is no reasonable prospect the Respondents will obtain a money judgment based on the lack of a good arguable case, which they say is evident from the dismissal of the Kuwaiti and French Proceedings. ",
+        "bbox": [
+            38,
+            230,
+            963,
+            394
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "83. As I have already set out above [see paragraph 66 et seq], an application to enforce a foreign order in the DIFC Court requires there to be a pre-existing foreign judgment or order pursuant to Article 7 of the JAL. There is no such judgment or order in this matter. However, even if that were not the case and the Court was able to consider the anticipatory conduit jurisdiction as argued by the Respondent, there are insuffi cient evidence that the Respondents have a good arguable case for successfully obtaining a money judgment against the Appellants. ",
+        "bbox": [
+            38,
+            409,
+            961,
+            548
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "84. It is indisputable that the Respondents have been unable to obtain or secure a money judgment order from any of the proceedings which were issued against the Appellants. From the version of facts advanced about the state of proceedings in Kuwait and in France, it does not appear that there are any “viable proceedings on foot” nor any evidence to demonstrate there the existence of a real prospect of obtaining an enforceable judgment. ",
+        "bbox": [
+            40,
+            561,
+            961,
+            677
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "85. It is accepted by the Parties that the grant of injunctive relief involves consideration of a threshold merits test. It is a test that involves assessing the likely prospect of there being an enforceable judgment in the French or Kuwaiti Courts in due course. However, those proceedings involve intense disputes over the relevant factual issues and this Court has no evidence that the claims in France or in Kuwait are likely to be successful. This is supported by the decision of the French Public Prosecutor, who concluded that the criminal claim against the Appellants would be dismissed on various grounds, including the lack of jurisdiction and lack of any evidence on the operation of criminality. Also, in the Kuwaiti Courts, although the initial fi ndings of the court-appointed expert will be challenged by the Respondents in due course, that does not necessarily indicate that the fi ndings of the expert will result in a fi nal monetary judgment enforceable in this Court. ",
+        "bbox": [
+            38,
+            690,
+            961,
+            927
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "86. The DIFC Courts cannot, in these circumstances, proceed on the basis that the factual claim being put forward before the Kuwaiti Court has any reasonable prospect of leading to an enforceable judgment. The same applies to whatever is left of the French proceedings. In these circumstances, the threshold merits test cannot be met and even if the Court is of the view that the Respondents may have just about met the threshold, the Court should further assess whether a WFO is the appropriate remedy, considering the draconian effect of such relief. ",
+        "bbox": [
+            40,
+            17,
+            961,
+            156
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "87. Finally, given the underlying dispute arises out of a breach of the Shareholder’s Agreement, the Court of the Cayman Islands seem the appropriate and natural forum to adjudicate this dispute based on the jurisdictional clause contained in the Shareholder’s Agreement. It is not clear why substantive proceedings were not commenced in the Cayman Islands in the fi rst place. ",
+        "bbox": [
+            40,
+            171,
+            961,
+            262
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "88. Even if jurisdiction had been established under one of the gateways, it would still be necessary for the Respondents to be an actual judgment or award creditor. In the current case, the Respondents cannot be judgment creditor and it is also on that basis the DIFC Court does not have jurisdiction over the Appellants, and the WFO must fail and be dismissed. ",
+        "bbox": [
+            40,
+            275,
+            961,
+            367
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "DIFC jurisdiction and discretionary factors ",
+        "bbox": [
+            42,
+            381,
+            421,
+            399
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "89. Although the decision above is suffi cient to allow the appeal, since many efforts had been put in by parties’ arguments on the remaining jurisdictional and discretionary issues the Court is required to consider when granting a WFO. ",
+        "bbox": [
+            40,
+            414,
+            959,
+            481
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "90. The Appellants assert that even if the Respondents failed to establish that the Court has this wider jurisdiction per se, the Court ought still to consider the proper limits of its jurisdiction when granting extraterritorial orders by reference to international comity. ",
+        "bbox": [
+            40,
+            495,
+            959,
+            562
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "91. The Appellants submit that at the ex-parte hearing the Respondents failed to identify the parameters of the Court’s jurisdiction which the Court should have considered when granting the WFO. As a result of their failure, the Respondents invited the Court to act as though it had no boundaries, which was interpreted to mean that the Court may have jurisdiction to grant the WFO. ",
+        "bbox": [
+            40,
+            577,
+            961,
+            668
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "92. The Appellants argue that an injunction should only be granted against parties that are expected to behave in accordance with their allegiance to the Court granting the injunction, and thus it does not matter that the assets or the activities are based elsewhere globally because there is in personam jurisdiction against the individuals, which is the touchstone upon which it is appropriate to grant the WFO. The freezing order that was sought by the Respondents in this case was of course not limited to assets within the DIFC or onshore Dubai, but rather was a worldwide relief extending to foreign asset. ",
+        "bbox": [
+            38,
+            681,
+            961,
+            822
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "93. The Respondents submit that this particular argument, including the authorities relied on, was not properly put before the Judge, and that the point only goes to the issue of discretion and is in any event wrong. The Respondents put forward that given the nature of the fraud allegation and the evidence of assets, the imposition of the WFO was plainly appropriate. They rely on evidence of a connection to Dubai and extensive evidence of the fact of other proceedings. Finally, the Respondents raise the same point which they have raised previously, namely that it is too late for the Appellants to argue these points now given their failure to appear at the Return Date or set aside the WFO at the relevant time. ",
+        "bbox": [
+            38,
+            835,
+            961,
+            952
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "94. The Appellants submit that the WFO infringes well-established principles identifi ed by Pearson J. in Societe Generale de Paris v Dreyfus Bros [1885] 29 ChD 239 in the exercise of his discretion to grant leave to serve proceedings out of the jurisdiction, where he said that: ",
+        "bbox": [
+            40,
+            98,
+            959,
+            166
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "“…[it] becomes a very serious question, and ought always to be considered a very serious question… whether this court ought to put a foreigner, who owes no allegiance here, to the inconvenience and annoyance of being brought to contest his rights in this country, and there can be no doubt that for an English court to treat as punishable acts of contempt acts done abroad by a foreigner, not subject to the personal jurisdiction of the English court, would wholly and exorbitant to the comity of nations”. ",
+        "bbox": [
+            77,
+            179,
+            961,
+            319
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "95. This Court was also referred to paragraphs 12 to 27 of Popplewell J’s judgment in Credit Suisse Fides Trust SA v Cuoghi [1998] QB 818 (Comm), in which the court considered the important principles relating to the exercise of jurisdiction under section s.25 of the Civil Jurisdiction Act 1982, and the test established in Motorola Credit Corporation v Uzan and others (No.2) (CA) [2004] 1 WLR 113, which guards against the issue of exorbitant jurisdiction. ",
+        "bbox": [
+            40,
+            332,
+            963,
+            449
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "96. In Coughi Lord Millet considered the issue of a party seeking an interim relief order against a defendant who is not resident in the jurisdiction to restrain him from disposing his assets. Lord Millet concluded that it would be most appropriate for that protective measure to be granted by the courts that are best able to make their orders effective, “… in relation to orders taking effect against the assets this means the court of [the? state where the assets are located and in relation to the order in personam\" In other words, a person should generally be seeking interim relif from the court in which the applicant will best be able to ensure that the order is complied with, namely in the jurisdiction in which the defendant lives and where the assets are located. This is not evident nor available in this case, as the Respondents sought an interim relief order against individuals that are not adequately linked or associated to the DIFC, with “tenuous evidence” of any available assets in the DIFC and therefore with little to no certainty if the terms of the order will be complied with. ",
+        "bbox": [
+            40,
+            461,
+            961,
+            722
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "97. Now, turning to the discretionary factors which the Appellants submitted were not considered by the Judge at the ex-parte hearing. As explained above, the jurisdictional issue is the important threshold and because the jurisdictional threshold has not been met in this instance the Respondents cannot therefore be considered as money judgment creditors. As such, the discretionary factors will be dealt with briefl y, and in so doing, reasons will be set out as to why the Respondents would nevertheless fail to meet the requisite threshold. ",
+        "bbox": [
+            38,
+            736,
+            961,
+            876
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "98. The Appellants’ proposition is correct in that when the Court is requested to grant a WFO it needs to take into account the following discretionary factors, as set out in Arcelormittal USA LLC v Essar Steel Limited & Others [2019] EWCH 724 (Comm) [72] ",
+        "bbox": [
+            42,
+            890,
+            961,
+            958
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(a) whether making the order will interfere with the management of the case in the primary court, where the order is inconsistent with an order in the primary court or overlaps within it; ",
+        "bbox": [
+            78,
+            17,
+            961,
+            61
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(b) whether it is the policy in the primary jurisdiction not itself to make Worldwide Freezing Order/Disclosure Order; ",
+        "bbox": [
+            77,
+            74,
+            961,
+            117
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(c) whether there is a danger that the orders made will give rise to disharmony or confusion and/or risk of confl icting or overlapping order in other jurisdiction, in particular the courts of the state; ",
+        "bbox": [
+            77,
+            131,
+            961,
+            175
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(d) whether at the time the order is sought there is likely to be a potential confl ict as to jurisdiction rendering it inappropriate and inexpedient to a WFO; and ",
+        "bbox": [
+            78,
+            189,
+            961,
+            231
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(e) whether, in a case where jurisdiction is resisted and disobedience to be expected, the court will be making the order which it cannot enforce. ",
+        "bbox": [
+            77,
+            246,
+            961,
+            288
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "99. The issue of discretion will only arise if the Court is satisfi ed there is prima facie jurisdiction over the Appellants. Here where the defendant is neither a resident within the jurisdiction nor someone over whom the court has or would assume in personam jurisdiction, the Court would consider granting an injunction which extends to foreign assets only in exceptional circumstances for example: ",
+        "bbox": [
+            42,
+            303,
+            961,
+            395
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(i) Where there is a real connecting link between the subject matter of the measure sought and the territorial jurisdiction of the Court; and/or ",
+        "bbox": [
+            77,
+            409,
+            959,
+            451
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(ii) where the Court is to act as an international policeman in relation to assets abroad which will not be appropriate unless it is practical for an order to be made and unless the order can be enforced in practice. If the order is disobeyed the Court will not make it even if it is within the limits of comity, if there is no effective solution which it could apply if the order were disobeyed, as will often be the case if the defendant has no presence within the jurisdiction. ",
+        "bbox": [
+            77,
+            464,
+            961,
+            581
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "100. However, in this case before us there is insuffi cient connection between the subject matter of the WFO sought and the DIFC. The DIFC Court was requested to intervene and make an order in relation to assets which are located abroad, and it granted relief in circumstances where the evidence suggests the WFO will not be complied with by Appellants who had no real connection to or presence in the Court’s jurisdiction. ",
+        "bbox": [
+            40,
+            594,
+            961,
+            709
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "101. Further, the Court must also be satisfi ed that it is just and expedient to grant such a worldwide relief order which in this case it is not. It is inexpedient to grant a protective measure over assets located outside the Court’s jurisdiction simply on the assumption that the Appellants would take the necessary steps to comply with the order, and therefore it was not appropriate for the Court to grant the WFO when there was a reasonable prospect that it would not be enforced. ",
+        "bbox": [
+            40,
+            724,
+            961,
+            839
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "102. It is also evident that the WFO created some confusion and duplicative proceedings and has not been effective in Kuwait and France. This is clear in the Respondents’ attempt in obtaining a precautionary attachment of assets in support of the Second Kuwaiti Proceedings (case No.19877/2021) which was rejected by the Kuwaiti Court, suggesting that the DIFC Court provided a remedy in support of Kuwaiti Proceedings which the Kuwaiti Courts themselves refused to grant. ",
+        "bbox": [
+            40,
+            852,
+            961,
+            969
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "103. Also, if and to the extent the underlying dispute is related to the Seapuit and Metinic Transaction, the claim would be in the name of UEL, which is under the jurisdiction of the Cayman Islands. Further, if the claim is related to the distribution of dividends by UEL in the Seapuit and Metinic Transaction, there is every reason to believe that would be a dispute under the Shareholders’ Agreement, in the name of Sandra Holdings. ",
+        "bbox": [
+            40,
+            17,
+            961,
+            133
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "104. The above points have not been addressed by the Respondents when seeking the WFO. ",
+        "bbox": [
+            43,
+            147,
+            878,
+            166
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "105. In the context of this case, it is clear that the Appellants have no assets in the DIFC, and they owe no allegiance to the DIFC Court by way of domicile, residence or some other apparent reasons. Neither do they have any other connection with the DIFC Courts upon which the Respondents can claim in personam jurisdiction for the Court to appropriately grant the WFO. ",
+        "bbox": [
+            40,
+            179,
+            961,
+            271
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "106. So even if the Respondent satisfi ed the condition to obtain the prima facie jurisdiction of the DIFC Court, on the facts of this case the discretion issue should be exercised in favour of the Appellant and not the Respondent. ",
+        "bbox": [
+            42,
+            285,
+            959,
+            353
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Limb Two: Vacation Application ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            367,
+            322,
+            386
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "107. Turning to the two procedural issues that have been raised: (i) whether the Judge erred in refusing to hear the Appellants’ vacation application and (ii) whether the Judge’s decision to not consider the Appellants’ vacation application following his ruling on jurisdiction was appropriate. Those two issues are intertwined and will be dealt with together. ",
+        "bbox": [
+            42,
+            399,
+            961,
+            491
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "108. The Appellants acknowledged that they should have acted more promptly but argued that just because the challenge to the WFO was not made within the timeframe does not make the original order correctly issued and valid. The Appellants submit that a failure to comply with the rules of the DIFC Court on the timing of an application to challenge the WFO is outweighed by the injustice of being subject to an order that should not have been made in the fi rst place. Lord Bingham in the English Court of Appeal in Arab Monetary Fund v Hashim and Others [1997] EWCA Civ 1298 considered that the Court should not start with the assumption of not hearing from the party in contempt, but in every case, the Court should consider what the interests of justice require. In Motorola Credit Corporation v Uzan and others [2004] WLR 113 the English Court of Appeal granted the respondents leave to appeal despite there being a large number of different orders that had been fl outed by the respondents in that case. The Court of Appeal in Uzan also found that there, “…was strong evidence of fraud and (b) that each of the Appellants repeatedly flouted large number of the court orders\" and yet the Appellants were stil permitted to advance their submission and having done so, the freezing injunction was overturned on the basis of an inadequate connection with England and Wales. These authorities support the submissions by the Appellants on this point. ",
+        "bbox": [
+            38,
+            506,
+            961,
+            862
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "109. The decision of PWC v Saad Investments Co [2014] 1 WLR 4482 cannot be applicable to our Court, since as discussed earlier the DIFC Courts is not a court of unlimited jurisdiction. In Saad the court held that “an order made by a court of unlimited jurisdiction must be obeyed, unless and until this has been set aside by the court\". [emphasis added] ",
+        "bbox": [
+            42,
+            873,
+            961,
+            966
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "110. The late application made by the Appellants to set aside the WFO had not caused the Respondents any prejudice in comparison to the prejudice that it would cause the Appellants if it were not permitted to challenge the WFO. ",
+        "bbox": [
+            42,
+            17,
+            961,
+            85
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "111. Since the WFO order is now held invalid and issued without jurisdiction, there cannot be a breach of that order and therefore there can be no contempt in failing to comply with such an order. ",
+        "bbox": [
+            40,
+            98,
+            963,
+            142
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "112. For reasons stated in this judgement the WFO will be discharged and the fi ndings of contempt of court will fall away. ",
+        "bbox": [
+            40,
+            155,
+            961,
+            199
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "113. Penalty and consequential orders imposed by the Court for not complying with the WFO are also set aside. ",
+        "bbox": [
+            40,
+            212,
+            961,
+            255
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "114. This Court will hear parties on costs and for that purpose the Registrar will fi x a date. As usual parties are also required to submit submissions on costs. ",
+        "bbox": [
+            40,
+            271,
+            961,
+            313
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "115. Any application for an enquiry as to damages on the respondents’ cross-undertaking in damages must be fi led before the Court of First Instance to deal with. ",
+        "bbox": [
+            40,
+            326,
+            959,
+            370
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "H.E. Deputy Chief Justice Ali Al Madhani: ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            387,
+            428,
+            405
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "I agree and have nothing to add. ",
+        "bbox": [
+            45,
+            420,
+            334,
+            438
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Justice Lord Angus Glennie: ",
+        "bbox": [
+            43,
+            456,
+            307,
+            474
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "I agree and have nothing to add. ",
+        "bbox": [
+            42,
+            489,
+            334,
+            506
+        ],
+        "page_idx": 25
+    }
+]

@@ -1,0 +1,1242 @@
+[
+    {
+        "type": "text",
+        "text": "Dubai International Financial Centre ",
+        "text_level": 1,
+        "bbox": [
+            299,
+            340,
+            781,
+            472
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 1 ",
+        "text_level": 1,
+        "bbox": [
+            207,
+            549,
+            799,
+            584
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "March 2019 ",
+        "bbox": [
+            424,
+            598,
+            590,
+            622
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED NEW INTELLECTUALPROPERTY LAW",
+        "bbox": [
+            178,
+            675,
+            831,
+            743
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 1 ",
+        "text_level": 1,
+        "bbox": [
+            343,
+            66,
+            666,
+            85
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PROPOSALS RELATING TO A NEW INTELLECTUAL PROPERTY LAW",
+        "text_level": 1,
+        "bbox": [
+            139,
+            91,
+            870,
+            111
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Why are we issuing this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            128,
+            358,
+            144
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. This Consultation Paper No. 1 of 2019 (“Consultation Paper”) seeks public comments on the proposal by the Dubai International Financial Centre Authority (“DIFCA”) to issue legislation on the protection and enforcement of intellectual property rights through a new Intellectual Property Law (the Proposed Law). ",
+        "bbox": [
+            94,
+            157,
+            922,
+            244
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Who should read this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            267,
+            336,
+            283
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. This Consultation Paper would be of interest to persons conducting or proposing to conduct business in the DIFC. In particular: ",
+        "bbox": [
+            92,
+            298,
+            920,
+            338
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a. Companies currently operating in the DIFC or intending to operate in the DIFC; b. Parties seeking to enter into transactions with companies in the DIFC; c. Entrepreneurs, start-ups and SMEs looking to join the DIFC Fin-Tech Hive ; and d. legal advisors ",
+        "bbox": [
+            153,
+            356,
+            863,
+            486
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How to provide comments ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            509,
+            314,
+            524
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. All comments should be provided to the person specified below: ",
+        "bbox": [
+            90,
+            540,
+            690,
+            558
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates   \nor e-mailed to: consultation@difc.ae ",
+        "bbox": [
+            153,
+            577,
+            484,
+            707
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. You may choose to identify the organisation you represent in your comments. ",
+        "bbox": [
+            90,
+            726,
+            799,
+            744
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "bbox": [
+            94,
+            762,
+            919,
+            804
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "What happens next? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            826,
+            269,
+            844
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6. The deadline for providing comments on the proposals in this Consultation Paper is 17 April 2019. ",
+        "bbox": [
+            92,
+            857,
+            920,
+            897
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            619,
+            42,
+            917,
+            58
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7. Once we receive your comments, we will consider if any further refinements are required to the Proposed Law. Once DIFCA considers the Proposed Law to be in a suitable form, it will be enacted as a new DIFC law to come in to force on a date specified and published. ",
+        "bbox": [
+            94,
+            66,
+            920,
+            130
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8. The Proposed Law is in draft form only. You should not act on it until the Proposed Law is formally enacted. We will issue a notice on our website when this happens. ",
+        "bbox": [
+            92,
+            148,
+            922,
+            188
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            212,
+            215,
+            228
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase and are defined in the Proposed Law. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "bbox": [
+            92,
+            242,
+            920,
+            328
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            350,
+            198,
+            368
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. Intellectual property rights are increasingly becoming the most important intangible assets of any business. In addition, technology and innovation are the driver for investment in today’s business. In DIFC, the growing interest in technology and innovation in the financial sector, has translated into the recent establishment of the first FinTech related accelerator - FinTech Hive. ",
+        "bbox": [
+            94,
+            389,
+            922,
+            497
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11. Currently there are no laws or regulations within the DIFC that govern intellectual property rights. In the past, a few disputes related to intellectual property rights (particularly related to trademarks and trade names conflicts) has arisen in the DIFC. These disputes were handled by the Companies Registrar. However, with the increased role of technology in the financial sector and the importance of innovation as a driver for development and investment, it is expected that more Intellectual Property (“IP”) disputes will arise within the DIFC in the future. ",
+        "bbox": [
+            94,
+            516,
+            920,
+            648
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "12. The DIFCA has proposed to enact a new law governing the enforcement of intellectual property rights in the DIFC, which will enable DIFC to be a safe environment for creativity and innovation and enable DIFC entities to protect their intellectual property rights within the DIFC. ",
+        "bbox": [
+            95,
+            666,
+            919,
+            730
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "13. In drafting the Proposed Law, we have considered the following UAE Federal Intellectual Property laws and related international treaties, to ensure conformity with the UAE obligations under such treaties, as well as international best practices: ",
+        "bbox": [
+            95,
+            748,
+            919,
+            812
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) the UAE Federal law No. 17 of 2002 regulating and protecting Patents, Industrial Drawings and Designs, and its implementing regulations;   \n(b) the UAE Federal law No. 17 of 2002 regulating Copyright and Related Rights and its implementing regulations;   \n(c) the UAE Federal Law No. 37 of 1992, as amended by Law No. 8 of 2002, and its executive regulations;   \n(d) Paris Convention for the Protection of Industrial Property;   \n(e) WTO Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS Agreement);   \n(f) the ‘GCC Patent Regulation’ (as amended and up-to-date) as adopted by the Gulf Cooperation Council’s Supreme Council during its 13th session held at Abu Dhabi, UAE, in 1992.   \n(g) GCC Trademarks Law;   \n(h) Berne Convention for the Protection of Literary and Artistic Works;   \n(i) WIPO Copyright Treaty;   \n(j) WIPO Performance & Phonograms Treaty; and   \n(k) Arab Agreement on Protection of the Authors. ",
+        "bbox": [
+            153,
+            830,
+            919,
+            908
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            619,
+            42,
+            917,
+            59
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            890,
+            934,
+            904,
+            946
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "14. The Proposed Law covers the following intellectual property rights: Patents, Utility Certificates, Industrial Designs and Drawings, Copyright, Trademarks, Trade Names and Trade Secrets. ",
+        "bbox": [
+            95,
+            389,
+            919,
+            431
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15. The protection of some intellectual property rights, especially Trademarks, Patents, Utility Certificates, Industrial Designs and Drawings, requires national regulatory formalities affording proof of existence of such right in the given country (registration). As the UAE intellectual property laws are in conformity with standards and requirements of international intellectual property treaties, the Proposed Law does not create any IP registries within the DIFC, but recognises such regulatory formalities (trademark registration, patent registration, design registrations, utility certificates) made with the federal authorities and it is given full effect in the DIFC. ",
+        "bbox": [
+            95,
+            448,
+            920,
+            624
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key features of the Proposed Law ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            647,
+            380,
+            665
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "16. The key features of the Proposed Law include the following: ",
+        "bbox": [
+            94,
+            686,
+            651,
+            704
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(l) recognition of the UAE registered Trademarks, Patents, Utility Certificates, Industrial Designs and Drawings – see paragraphs 17-18;   \n(m) the rights afforded to each of the intellectual property rights and the limitations to such protection – see paragraphs 19 – 28;   \n(n) ownership of Patent and Copyright in employment relations – see paragraphs 29-33;   \n(o) appointment of the Commissioner of Intellectual Property who is responsible for the administration of the Proposed Law – see paragraphs 34-38;   \n(p) sanctions and remedies for intellectual property infringement – see paragraph 39-41;   \n(q) jurisdiction of the Commissioner of Intellectual Property and the DIFC Court in IP infringement cases – see paragraph 42; and   \n(r) Miscellaneous provisions. ",
+        "bbox": [
+            153,
+            723,
+            920,
+            904
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            619,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            890,
+            935,
+            902,
+            945
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Recognition of the UAE registered intellectual property rights ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            143,
+            601,
+            161
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "17. The Proposed Law recognizes the UAE registered trademarks, patents, utility certificates and industrial designs and drawings and does not require separate registration in the DIFC.1 The Proposed Law is aligned with the UAE federal laws related to IP, and focuses only on the enforcement of intellectual property rights in the DIFC. ",
+        "bbox": [
+            94,
+            174,
+            920,
+            261
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "18. Notwithstanding the above, and taking into consideration that copyright does not require registration for affording the protection, the Proposed Law recognises any copyright work recorded with the UAE Ministry of Economy. The Proposed Law provides also criteria for the protection of copyright that is consistent with the international treaties as well as the UAE Federal law. ",
+        "bbox": [
+            94,
+            279,
+            920,
+            387
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Q1. The DIFCA does not aim at establishing registries for IP rights within the DIFC, to avoid the lengthy administrative procedures. Do you agree with this approach with respect to the registration of intellectual property rights? If not please provide your comments as to the benefits of having separate registry for the DIFC. ",
+        "bbox": [
+            92,
+            408,
+            920,
+            496
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Protection and limitation to protection of intellectual property rights ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            540,
+            646,
+            558
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "19. The Proposed Law lists the rights conferred to the owner of Patents and Utility Certificates, which includes2 the right to exclude others from exploiting the Invention, as well as the products or the processes subject to the Patent or Utility Certificate. Where the subject matter of a Patent or Utility Certificate is a product, such exploitation shall include using, manufacturing, offering for sale, selling or importing the product. Where the subject matter of a Patent or Utility Certificate is a process or method, the exploitation shall include using, manufacturing, offering for sale, selling or importing the process or method, in addition to the product obtained directly by that process or method. ",
+        "bbox": [
+            95,
+            564,
+            922,
+            739
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "20. The limitation on the protection of Patents and Utility Certificates includes3: ",
+        "bbox": [
+            84,
+            758,
+            769,
+            776
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) exploitation done in good faith, prior to the priority date of the patent within the UAE;   \n(b) exploitation that is done privately and for purposes which are not commercial;   \n(c) exploitation for experimental purposes relating to the subject matter of the invention; and   \n(d) if a patent proved to be invalid for reasons such as lack of novelty, lack of inventiveness, lack of utility or because the patentee has committed fraud or misrepresentation to the patent office while applying for the patent. ",
+        "bbox": [
+            153,
+            795,
+            909,
+            844
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1 See Article 7, 14, 17 & 42 of the Proposed Law. 2 See Article 8 of the Proposed Law 3 See Article 10 of the Proposed Law ",
+        "bbox": [
+            94,
+            885,
+            410,
+            927
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            619,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            890,
+            934,
+            904,
+            946
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "21. Industrial Drawings or Designs according to the Proposed Law4 provides its owner the exclusive right to exclude others from: ",
+        "bbox": [
+            95,
+            171,
+            920,
+            210
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) using the Industrial Drawing or Industrial Design in manufacturing any product;   \n(b) using, selling, or offering for sale any product relating to the Industrial Design or Industrial Drawing;   \n(c) importing any product relating to the Industrial Design or Drawing; or   \n(d) possessing the Industrial Design or Drawing with intention to use, offer for sale or sell the same. ",
+        "bbox": [
+            153,
+            229,
+            919,
+            364
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "22. The limitations provided on the protection for Patents and Utility Certificates shall apply to Industrial Drawings or Designs5. ",
+        "bbox": [
+            95,
+            376,
+            919,
+            416
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "23. The Proposed Law provides for the two different set of rights conferred by copyright and neighbouring rights, which includes moral rights and economic rights. Moral rights include; right of determining the first publication, right of attribution, right to make amendments and right of integrity of the Work6. Economic rights are focused on the exploitation of the Work through any means including licensing, copying, reproduction and other means7. ",
+        "bbox": [
+            94,
+            434,
+            919,
+            545
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "24. Limitation of the rights conferred by copyright, are those covered under the concept of fair use. The proposed Law adopts the fair use concept, as per the UAE Federal laws, international treaties and international best practices 8. Fair use acts have been specified within the Proposed Law and require certain conditions to be implemented. ",
+        "bbox": [
+            94,
+            562,
+            919,
+            648
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "25. The right conferred by trademarks according to the Proposed Law is the right to exclude others from import, export, use, sale, offer for sale, advertising, transit, distribution or use in any manner of goods or services distinguished by an identical or confusingly similar trademark.9 ",
+        "bbox": [
+            94,
+            667,
+            919,
+            730
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 See Article 15 of the Proposed Law 5 See Article 16 of the Proposed Law 6 See Articles 21 & 22 of the Proposed Law. 7 See Articles 23 - 32 of the Proposed Law 8 See Article 34 of the Proposed Law. 9 See Article 45 of the Proposed Law ",
+        "bbox": [
+            92,
+            832,
+            380,
+            915
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            619,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            890,
+            935,
+            902,
+            945
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "26. Limitations on trademark rights in the Proposed Law10, include the following uses as long as they are made in good faith and in accordance with honest practices in commerce: ",
+        "bbox": [
+            90,
+            66,
+            920,
+            106
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) the use that is necessary to indicate the intended purpose of the goods or service;   \n(b) use of the trademark in news reporting and news commentary or parody; or   \n(c) use of a well-known trademark by another person in comparative commercial advertising or promotion to identify the competing goods or services of the owner of the well-known trademark. ",
+        "bbox": [
+            153,
+            125,
+            915,
+            231
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "27. The owner of a Trade Secret has the following rights under the Proposed Law: ",
+        "bbox": [
+            89,
+            243,
+            801,
+            261
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) the right to license, transfer, share, or assign lawful control of such Trade Secret to any person, in lieu of a consideration or otherwise; and (b) the right to prevent any person from misappropriation of such Trade Secret11. ",
+        "bbox": [
+            154,
+            280,
+            917,
+            343
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "28. Limitations to the right of the Trade Secret owner to prevent third party misappropriation are based on international standards and cover the following: ",
+        "bbox": [
+            89,
+            355,
+            920,
+            396
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) discovery of information from public sources;   \n(b) discovery of information as a result of efforts of scientific research, innovation, invention, development, modification and improvement exerted by persons independent of the person lawfully in control of the Trade Secret;   \n(c) acquisition and use of known and available information, which circulates among those, involved in an industrial art or science;   \n(d) discovery of information pursuant to license, transfer, sharing, or assignment of such information; or   \n(e) discovery of information through reverse engineering12. ",
+        "bbox": [
+            153,
+            414,
+            919,
+            611
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Q2. Do you consider that the rights and limitations provided by the Proposed Law are sufficient, or should other rights be introduced? Please list any other rights or limitations that you suggest should be included in the Proposed Law. ",
+        "bbox": [
+            92,
+            625,
+            920,
+            690
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ownership of Patent and Copyright in employment relationship ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            737,
+            617,
+            754
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "29. Ownership of Patent or Copyright in an employment relationship is an important aspect of the Proposed Law. International standards have been adopted in this respect. ",
+        "bbox": [
+            94,
+            761,
+            920,
+            801
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "10 See Article 48 of the Proposed Law 11 See Article 52 of the Proposed Law 12 See Article 54 of the Proposed Law ",
+        "bbox": [
+            94,
+            885,
+            341,
+            927
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            619,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "30. Determining the ownership of a Patent in employment relationship depends on whether the Invention was made within the scope of employment of an inventor employee, pursuant to an employment contract or by an independent party through a contractual work-for-hire. If it is the former, then the owner of the Invention will be the employer, unless agreed otherwise in writing. Article 12(2) of the Proposed Law specifies the criteria that should be met for an invention to be considered as made within the scope of employment. ",
+        "bbox": [
+            94,
+            66,
+            920,
+            197
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "31. If on the other hand, the Invention falls outside the employee’s scope of employment but relates to the employer’s business or professional domain, and has been conceived by the employee using primarily the employer’s resources (such as know-how, documents, tools, premises and other facilities of the employer), the Invention shall belong to the employer, however the employee shall be entitled to a fair compensation13 . The compensation is determined based on the employee’s remuneration, the economic value of the Invention and the benefits that the employer shall gain through the Invention. ",
+        "bbox": [
+            94,
+            214,
+            920,
+            369
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "32. The abovementioned rules of ownership applies in the absence of any agreement between the parties in writing, which specifies otherwise. ",
+        "bbox": [
+            94,
+            387,
+            919,
+            428
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "33. Similarly, the ownership of copyright in an employment relationship is determined based on whether the Work created by the employee is related to the business of the employer or using the experiences, information, instruments or articles of the employer. If so, the economic exploitation rights shall be vested in the employer, otherwise, it is vested in the employee. This rule of ownership applies in the absence of any agreement between the parties in writing, which specifies otherwise.14 ",
+        "bbox": [
+            92,
+            446,
+            920,
+            578
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Q3. Do you agree with this approach in determining the ownership of patent and copyright in an employment relationship? Do you believe that the criteria for employee compensation are sufficient? ",
+        "bbox": [
+            92,
+            599,
+            920,
+            663
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Appointment of the Commissioner of Intellectual Property ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            707,
+            574,
+            724
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "34. Another important aspect of the Proposed Law is the appointment of a Commissioner specialised and experienced in IP to administer and enforce Intellectual Property Legislation issued in the DIFC15. ",
+        "bbox": [
+            94,
+            738,
+            919,
+            801
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "13 See Article 12(3) of the Proposed Law 14 See Article 35 of the Proposed Law 15 See Article 55 of the Proposed Law ",
+        "bbox": [
+            94,
+            889,
+            348,
+            927
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            619,
+            42,
+            917,
+            59
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "35. The aim of appointing the Commissioner of Intellectual Property is to have a specialised administrative body that can administer and enforce the Proposed Law, including the ability to resolve IP related disputes and to impose administrative fines in case of violation to the Proposed Law. ",
+        "bbox": [
+            94,
+            66,
+            919,
+            152
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "36. The DIFCA proposes to have experienced IP practitioners in the different aspects of intellectual property rights to be appointed as necessary by the Commissioner of Intellectual Property. The powers and functions of the Commissioner of Intellectual Property include, but are not limited to: resolving IP disputes arising in the DIFC, imposing fines, recommending and drafting regulations related to the implementation of the Proposed Law, and coordinating with the federal authorities with respect to the enforcement of IP rights16. ",
+        "bbox": [
+            94,
+            171,
+            920,
+            301
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "37. The activities of the Commissioner of Intellectual Property will be funded by the Government of Dubai, based on its approved annual budget as submitted by the Commissioner of Intellectual Property. ",
+        "bbox": [
+            92,
+            320,
+            920,
+            383
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "38. The Commissioner of Intellectual Property may request payment for applications to act on IP disputes, or any other services provided by the Commissioner of Intellectual Property. Such fees will be set out in regulations to be issued under the Proposed Law. ",
+        "bbox": [
+            92,
+            402,
+            919,
+            465
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Q4. Do you agree with the appointment of the Commissioner of Intellectual Property and the Commissioner’s powers? Do you suggest any amendments to the functions or powers of the Commissioner of Intellectual Property? ",
+        "bbox": [
+            92,
+            486,
+            919,
+            551
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Sanctions and remedies ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            586,
+            299,
+            602
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "39. Under the Proposed Law, there are a number of offences for each intellectual property right regulated under the law17. As per the international standards set by international IP treaties, especially the TRIPS Agreement 18, enforcement procedures shall be available to permit effective action against any act of infringement of intellectual property rights. Such procedures shall include expeditious remedies to prevent infringements and/ or prevent damages or potential damages. According to the TRIPS Agreement, the enforcement procedures shall be equitable and fair. ",
+        "bbox": [
+            94,
+            616,
+            922,
+            770
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "16 See Articles 58 and 59 of the Proposed Law 17 See Articles 9, 41, 44, 46, 47, 49 and 53 of the Proposed Law. 18 Trade Related Aspects of Intellectual Property Rights Agreement ",
+        "bbox": [
+            94,
+            874,
+            516,
+            915
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            619,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            890,
+            934,
+            902,
+            945
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "40. In line with the requirements set by the TRIPS Agreement for the enforcement of intellectual property rights, the Proposed Law provides for varied enforcement procedures and remedies, as follows19: ",
+        "bbox": [
+            95,
+            66,
+            917,
+            129
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) administrative powers available to the Commissioner of Intellectual Property include: i. ordering the violator to refrain from the violation and carry out all necessary acts to abide by the Law; ii. request the DIFC Registrar of Companies to temporarily suspend the license of the DIFC entity in violation of the Proposed Law; iii. order confiscation of all materials, goods, tools, machines, equipment, signs, advertisements related to the violation and order the transfer/storage and/or destruction of the same, at the expense of the violator; iv. impose a fine of not less than USD 5,000 and not more than USD 50,000. The maximum fine amounts for each type of violation is set out in the Proposed Law; or v. request the DIFC Registrar of Companies to revoke the license of the violator, or impose double the fines stipulated in the Proposed Law, in cases where there has been repeated infringement. ",
+        "bbox": [
+            146,
+            147,
+            920,
+            502
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(b) Civil Procedures - any party that has been injured as a result of a violation of the Proposed Law may seek injunctions and/or damages from the DIFC Courts. The Proposed Law provides guidance on how damages may be assessed by the Courts, and include the following considerations: ",
+        "bbox": [
+            154,
+            520,
+            919,
+            581
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "i. the loss suffered (including future loss that can be established with a reasonable degree of certainty),   \nii. the value of the intellectual property right infringed; and   \niii. the loss of an opportunity in proportion to the probability of its occurrence20. ",
+        "bbox": [
+            208,
+            593,
+            917,
+            709
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "41. The administrative decisions of the Commissioner of Intellectual Property are subject to review by the DIFC Courts. An appeal can be filed with the DIFC Courts within 15 days from the notification of the relevant parties. ",
+        "bbox": [
+            101,
+            726,
+            920,
+            789
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "19 See Article 65, 66 and Schedule 3 of the Proposed Law 20 See Article 66 of the Proposed Law ",
+        "bbox": [
+            94,
+            900,
+            464,
+            927
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            619,
+            43,
+            917,
+            59
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            888,
+            934,
+            907,
+            945
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Q5. Do you consider the enforcement procedures and the remedies proposed sufficient to act as a deterrent? Do you suggest that any other enforcement procedures or remedies should be included in the Proposed Law? ",
+        "bbox": [
+            94,
+            70,
+            919,
+            133
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Jurisdiction of the Commissioner of Intellectual Property and the DIFC Court ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            169,
+            732,
+            187
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "42. The Proposed Law allows the enforcement of intellectual property rights through two possible forums - the Commissioner of Intellectual Property and the DIFC Courts. The Proposed Law clarifies that there is no conflict between these two jurisdictions, and that the IP right holder has the option to decide which forum to use, based on the remedies the IP holder is seeking21. ",
+        "bbox": [
+            94,
+            200,
+            920,
+            288
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Q6. Do you agree with the distinction between the jurisdiction of the Commissioner of Intellectual Property and the DIFC Court? Do you suggest that further clarification be made on the distinction between or the authority of each body? ",
+        "bbox": [
+            92,
+            308,
+            919,
+            372
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Miscellaneous ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            418,
+            217,
+            432
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Q7. Are there any other issues arising in connection with the Proposed Law which are in your opinion not adequately or appropriately dealt with? ",
+        "bbox": [
+            92,
+            451,
+            922,
+            492
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Legislative Proposal ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            532,
+            276,
+            547
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "43. This legislative proposal contains the following: ",
+        "bbox": [
+            92,
+            561,
+            548,
+            578
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) the Proposed Law (at Annex A);   \n(b) a table of comments to provide your views and comments on the consultation paper (at Annex B). ",
+        "bbox": [
+            141,
+            590,
+            919,
+            653
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            619,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "21 See Article 67 of the Proposed Law ",
+        "bbox": [
+            94,
+            914,
+            340,
+            926
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "11 ",
+        "bbox": [
+            888,
+            935,
+            905,
+            945
+        ],
+        "page_idx": 10
+    }
+]

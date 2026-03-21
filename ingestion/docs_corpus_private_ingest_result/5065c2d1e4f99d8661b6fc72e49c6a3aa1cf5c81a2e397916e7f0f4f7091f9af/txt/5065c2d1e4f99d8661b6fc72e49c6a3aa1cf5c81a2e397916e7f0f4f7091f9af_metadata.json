@@ -1,0 +1,4395 @@
+{
+    "doc_type": "law",
+    "official_title": "Contract Law",
+    "official_title_normalized": "contract law",
+    "short_title": "Contract Law 2004",
+    "short_title_normalized": "contract law 2004",
+    "law_number": "6",
+    "law_year": "2004",
+    "official_citation": "DIFC Law No. 6 of 2004",
+    "official_citation_normalized": "difc law no 6 of 2004",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "March 2024",
+    "amending_laws": [
+        "DIFC Laws Amendment Law DIFC Law No. 3 of 2024",
+        "DIFC Laws Amendment Law DIFC Law No. 2 of 2022"
+    ],
+    "administering_authority": "",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 41,
+    "page_count": 41,
+    "alias_keys": [
+        "Contract Law",
+        "Contract Law 2004",
+        "DIFC Law No. 6 of 2004"
+    ],
+    "article_index": {
+        "Article 1": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 605,
+            "block_end": 608
+        },
+        "Article 7": {
+            "heading": "Choice of governing law and jurisdictions",
+            "article_number": "7",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 56,
+            "block_end": 57
+        },
+        "Article 14": {
+            "heading": "Manner of formation",
+            "article_number": "14",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 78,
+            "block_end": 79
+        },
+        "Article 35": {
+            "heading": "Validity of mere agreement",
+            "article_number": "35",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 135,
+            "block_end": 136
+        },
+        "Article 49": {
+            "heading": "Intention of the parties",
+            "article_number": "49",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 175,
+            "block_end": 176
+        },
+        "Article 56": {
+            "heading": "Express and implied obligations",
+            "article_number": "56",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 197,
+            "block_end": 198
+        },
+        "Article 64": {
+            "heading": "Time of performance",
+            "article_number": "64",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 224,
+            "block_end": 226
+        },
+        "Article 77": {
+            "heading": "Non-performance defined",
+            "article_number": "77",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 264,
+            "block_end": 265
+        },
+        "Article 92": {
+            "heading": "Assignment of rights and obligations",
+            "article_number": "92",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 319,
+            "block_end": 320
+        },
+        "Article 104": {
+            "heading": "Right of third party to enforce contractual term",
+            "article_number": "104",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 369,
+            "block_end": 378
+        },
+        "Article 109": {
+            "heading": "Right to damages",
+            "article_number": "109",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 411,
+            "block_end": 412
+        },
+        "Article 124": {
+            "heading": "Agency; principal; agent",
+            "article_number": "124",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 448,
+            "block_end": 449
+        },
+        "Article 6": {
+            "heading": "Interpretation",
+            "article_number": "6",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 49,
+            "block_end": 55
+        },
+        "Article 8": {
+            "heading": "Freedom of and capacity to contract",
+            "article_number": "8",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 58,
+            "block_end": 63
+        },
+        "Article 8(1)": {
+            "heading": "Freedom of and capacity to contract",
+            "article_number": "8",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 59,
+            "block_end": 59
+        },
+        "Article 8(2)(a)": {
+            "heading": "Freedom of and capacity to contract",
+            "article_number": "8",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 61,
+            "block_end": 61
+        },
+        "Article 8(2)": {
+            "heading": "Freedom of and capacity to contract",
+            "article_number": "8",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 60,
+            "block_end": 61
+        },
+        "Article 8(3)(a)": {
+            "heading": "Freedom of and capacity to contract",
+            "article_number": "8",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 63,
+            "block_end": 63
+        },
+        "Article 8(3)": {
+            "heading": "Freedom of and capacity to contract",
+            "article_number": "8",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 62,
+            "block_end": 63
+        },
+        "Article 9": {
+            "heading": "No form required",
+            "article_number": "9",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 64,
+            "block_end": 65
+        },
+        "Article 10": {
+            "heading": "Binding character of contract",
+            "article_number": "10",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 66,
+            "block_end": 67
+        },
+        "Article 11": {
+            "heading": "Exclusion or modification by the parties",
+            "article_number": "11",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 68,
+            "block_end": 69
+        },
+        "Article 12": {
+            "heading": "Usages and practices",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 70,
+            "block_end": 71
+        },
+        "Article 12(1)": {
+            "heading": "Usages and practices",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 71,
+            "block_end": 71
+        },
+        "Article 13": {
+            "heading": "Notice",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 72,
+            "block_end": 77
+        },
+        "Article 13(1)": {
+            "heading": "Notice",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 73,
+            "block_end": 77
+        },
+        "Article 15": {
+            "heading": "Definition of offer",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 80,
+            "block_end": 81
+        },
+        "Article 16": {
+            "heading": "Withdrawal of offer",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 82,
+            "block_end": 83
+        },
+        "Article 16(1)": {
+            "heading": "Withdrawal of offer",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 83,
+            "block_end": 83
+        },
+        "Article 17": {
+            "heading": "Revocation of offer",
+            "article_number": "17",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 84,
+            "block_end": 87
+        },
+        "Article 17(1)": {
+            "heading": "Revocation of offer",
+            "article_number": "17",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 85,
+            "block_end": 85
+        },
+        "Article 17(2)(a)": {
+            "heading": "Revocation of offer",
+            "article_number": "17",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 87,
+            "block_end": 87
+        },
+        "Article 17(2)": {
+            "heading": "Revocation of offer",
+            "article_number": "17",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 86,
+            "block_end": 87
+        },
+        "Article 18": {
+            "heading": "Rejection of offer",
+            "article_number": "18",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 88,
+            "block_end": 89
+        },
+        "Article 19": {
+            "heading": "Mode of acceptance",
+            "article_number": "19",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 90,
+            "block_end": 91
+        },
+        "Article 19(1)": {
+            "heading": "Mode of acceptance",
+            "article_number": "19",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 91,
+            "block_end": 91
+        },
+        "Article 20": {
+            "heading": "Time of acceptance",
+            "article_number": "20",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 92,
+            "block_end": 93
+        },
+        "Article 21": {
+            "heading": "Acceptance within a fixed period of time",
+            "article_number": "21",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 94,
+            "block_end": 99
+        },
+        "Article 21(1)": {
+            "heading": "Acceptance within a fixed period of time",
+            "article_number": "21",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 95,
+            "block_end": 98
+        },
+        "Article 21(2)": {
+            "heading": "Acceptance within a fixed period of time",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 99,
+            "block_end": 99
+        },
+        "Article 22": {
+            "heading": "Late acceptance; delay in transmission",
+            "article_number": "22",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 100,
+            "block_end": 101
+        },
+        "Article 22(1)": {
+            "heading": "Late acceptance; delay in transmission",
+            "article_number": "22",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 101,
+            "block_end": 101
+        },
+        "Article 23": {
+            "heading": "Withdrawal of acceptance",
+            "article_number": "23",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 102,
+            "block_end": 103
+        },
+        "Article 24": {
+            "heading": "Modified acceptance",
+            "article_number": "24",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 104,
+            "block_end": 105
+        },
+        "Article 24(1)": {
+            "heading": "Modified acceptance",
+            "article_number": "24",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 105,
+            "block_end": 105
+        },
+        "Article 25": {
+            "heading": "Writings in confirmation",
+            "article_number": "25",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 106,
+            "block_end": 107
+        },
+        "Article 26": {
+            "heading": "Conclusion of contract dependent on agreement on specific matters or in a specific form",
+            "article_number": "26",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 108,
+            "block_end": 109
+        },
+        "Article 27": {
+            "heading": "Contract with terms deliberately left open",
+            "article_number": "27",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 110,
+            "block_end": 116
+        },
+        "Article 27(1)": {
+            "heading": "Contract with terms deliberately left open",
+            "article_number": "27",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 111,
+            "block_end": 111
+        },
+        "Article 27(2)(a)": {
+            "heading": "Contract with terms deliberately left open",
+            "article_number": "27",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 113,
+            "block_end": 116
+        },
+        "Article 27(2)": {
+            "heading": "Contract with terms deliberately left open",
+            "article_number": "27",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 112,
+            "block_end": 116
+        },
+        "Article 28": {
+            "heading": "Freedom to negotiate",
+            "article_number": "28",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 117,
+            "block_end": 118
+        },
+        "Article 29": {
+            "heading": "Duty of confidentiality",
+            "article_number": "29",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 119,
+            "block_end": 120
+        },
+        "Article 30": {
+            "heading": "Merger clause",
+            "article_number": "30",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 121,
+            "block_end": 122
+        },
+        "Article 31": {
+            "heading": "Written modification clauses",
+            "article_number": "31",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 123,
+            "block_end": 124
+        },
+        "Article 32": {
+            "heading": "Contracting under standard terms",
+            "article_number": "32",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 125,
+            "block_end": 126
+        },
+        "Article 32(1)": {
+            "heading": "Contracting under standard terms",
+            "article_number": "32",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 126,
+            "block_end": 126
+        },
+        "Article 33": {
+            "heading": "Conflict between standard terms and non-standard terms",
+            "article_number": "33",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 127,
+            "block_end": 128
+        },
+        "Article 34": {
+            "heading": "Battle of forms",
+            "article_number": "34",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 129,
+            "block_end": 134
+        },
+        "Article 36": {
+            "heading": "Initial impossibility",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 137,
+            "block_end": 138
+        },
+        "Article 36(1)": {
+            "heading": "Initial impossibility",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 138,
+            "block_end": 138
+        },
+        "Article 37": {
+            "heading": "Relevant mistake",
+            "article_number": "37",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 139,
+            "block_end": 145
+        },
+        "Article 37(1)(a)": {
+            "heading": "Relevant mistake",
+            "article_number": "37",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 141,
+            "block_end": 141
+        },
+        "Article 37(1)": {
+            "heading": "Relevant mistake",
+            "article_number": "37",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 140,
+            "block_end": 141
+        },
+        "Article 37(2)(a)": {
+            "heading": "Relevant mistake",
+            "article_number": "37",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 143,
+            "block_end": 143
+        },
+        "Article 37(2)": {
+            "heading": "Relevant mistake",
+            "article_number": "37",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 142,
+            "block_end": 143
+        },
+        "Article 37(3)(a)": {
+            "heading": "Relevant mistake",
+            "article_number": "37",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 145,
+            "block_end": 145
+        },
+        "Article 37(3)": {
+            "heading": "Relevant mistake",
+            "article_number": "37",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 144,
+            "block_end": 145
+        },
+        "Article 38": {
+            "heading": "Error in expression or transmission",
+            "article_number": "38",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 146,
+            "block_end": 147
+        },
+        "Article 39": {
+            "heading": "Remedies for non-performance",
+            "article_number": "39",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 148,
+            "block_end": 152
+        },
+        "Article 40": {
+            "heading": "Fraud",
+            "article_number": "40",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 153,
+            "block_end": 154
+        },
+        "Article 41": {
+            "heading": "Threat",
+            "article_number": "41",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 155,
+            "block_end": 156
+        },
+        "Article 42": {
+            "heading": "Confirmation",
+            "article_number": "42",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 157,
+            "block_end": 158
+        },
+        "Article 43": {
+            "heading": "Loss of right to avoid",
+            "article_number": "43",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 159,
+            "block_end": 161
+        },
+        "Article 43(1)": {
+            "heading": "Loss of right to avoid",
+            "article_number": "43",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 160,
+            "block_end": 160
+        },
+        "Article 43(2)": {
+            "heading": "Loss of right to avoid",
+            "article_number": "43",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 161,
+            "block_end": 161
+        },
+        "Article 44": {
+            "heading": "Notice of avoidance",
+            "article_number": "44",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 162,
+            "block_end": 163
+        },
+        "Article 45": {
+            "heading": "Time limits",
+            "article_number": "45",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 164,
+            "block_end": 165
+        },
+        "Article 46": {
+            "heading": "Partial avoidance",
+            "article_number": "46",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 166,
+            "block_end": 167
+        },
+        "Article 47": {
+            "heading": "Retroactive effect of avoidance",
+            "article_number": "47",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 168,
+            "block_end": 169
+        },
+        "Article 47(1)": {
+            "heading": "Retroactive effect of avoidance",
+            "article_number": "47",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 169,
+            "block_end": 169
+        },
+        "Article 48": {
+            "heading": "Mandatory character of the provisions",
+            "article_number": "48",
+            "page_start": 12,
+            "page_end": 13,
+            "block_start": 170,
+            "block_end": 174
+        },
+        "Article 49(1)": {
+            "heading": "Intention of the parties",
+            "article_number": "49",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 176,
+            "block_end": 176
+        },
+        "Article 50": {
+            "heading": "Interpretation of statements and other conduct",
+            "article_number": "50",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 177,
+            "block_end": 178
+        },
+        "Article 50(1)": {
+            "heading": "Interpretation of statements and other conduct",
+            "article_number": "50",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 178,
+            "block_end": 178
+        },
+        "Article 51": {
+            "heading": "Relevant circumstances",
+            "article_number": "51",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 179,
+            "block_end": 181
+        },
+        "Article 52": {
+            "heading": "Reference to contract or statement as a whole",
+            "article_number": "52",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 182,
+            "block_end": 183
+        },
+        "Article 53": {
+            "heading": "All terms to be given effect",
+            "article_number": "53",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 184,
+            "block_end": 185
+        },
+        "Article 54": {
+            "heading": "Interpretation against party responsible",
+            "article_number": "54",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 186,
+            "block_end": 190
+        },
+        "Article 55": {
+            "heading": "Linguistic discrepancies",
+            "article_number": "55",
+            "page_start": 14,
+            "page_end": 15,
+            "block_start": 191,
+            "block_end": 196
+        },
+        "Article 57": {
+            "heading": "Implied obligations",
+            "article_number": "57",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 199,
+            "block_end": 201
+        },
+        "Article 58": {
+            "heading": "Co-operation between the parties",
+            "article_number": "58",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 202,
+            "block_end": 203
+        },
+        "Article 59": {
+            "heading": "Duty to achieve a specific result; duty of best efforts",
+            "article_number": "59",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 204,
+            "block_end": 205
+        },
+        "Article 59(1)": {
+            "heading": "Duty to achieve a specific result; duty of best efforts",
+            "article_number": "59",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 205,
+            "block_end": 205
+        },
+        "Article 60": {
+            "heading": "Determination of kind of duty involved",
+            "article_number": "60",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 206,
+            "block_end": 208
+        },
+        "Article 61": {
+            "heading": "Determination of quality of performance",
+            "article_number": "61",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 209,
+            "block_end": 210
+        },
+        "Article 62": {
+            "heading": "Price determination",
+            "article_number": "62",
+            "page_start": 15,
+            "page_end": 16,
+            "block_start": 211,
+            "block_end": 217
+        },
+        "Article 62(1)": {
+            "heading": "Price determination",
+            "article_number": "62",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 212,
+            "block_end": 212
+        },
+        "Article 62(2)": {
+            "heading": "Price determination",
+            "article_number": "62",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 213,
+            "block_end": 216
+        },
+        "Article 62(3)": {
+            "heading": "Price determination",
+            "article_number": "62",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 217,
+            "block_end": 217
+        },
+        "Article 63": {
+            "heading": "Contract for an indefinite period",
+            "article_number": "63",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 218,
+            "block_end": 223
+        },
+        "Article 65": {
+            "heading": "Performance at one time or in instalments",
+            "article_number": "65",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 227,
+            "block_end": 228
+        },
+        "Article 66": {
+            "heading": "Partial performance",
+            "article_number": "66",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 229,
+            "block_end": 230
+        },
+        "Article 66(1)": {
+            "heading": "Partial performance",
+            "article_number": "66",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 230,
+            "block_end": 230
+        },
+        "Article 67": {
+            "heading": "Order of performance",
+            "article_number": "67",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 231,
+            "block_end": 232
+        },
+        "Article 67(1)": {
+            "heading": "Order of performance",
+            "article_number": "67",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 232,
+            "block_end": 232
+        },
+        "Article 68": {
+            "heading": "Earlier performance",
+            "article_number": "68",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 233,
+            "block_end": 234
+        },
+        "Article 68(1)": {
+            "heading": "Earlier performance",
+            "article_number": "68",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 234,
+            "block_end": 234
+        },
+        "Article 69": {
+            "heading": "Place of performance",
+            "article_number": "69",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 235,
+            "block_end": 241
+        },
+        "Article 69(1)(a)": {
+            "heading": "Place of performance",
+            "article_number": "69",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 237,
+            "block_end": 237
+        },
+        "Article 69(1)": {
+            "heading": "Place of performance",
+            "article_number": "69",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 236,
+            "block_end": 237
+        },
+        "Article 69(2)": {
+            "heading": "Place of performance",
+            "article_number": "69",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 238,
+            "block_end": 241
+        },
+        "Article 70": {
+            "heading": "Payment by cheque or other instrument",
+            "article_number": "70",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 242,
+            "block_end": 243
+        },
+        "Article 70(1)": {
+            "heading": "Payment by cheque or other instrument",
+            "article_number": "70",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 243,
+            "block_end": 243
+        },
+        "Article 71": {
+            "heading": "Payment by funds transfer",
+            "article_number": "71",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 244,
+            "block_end": 245
+        },
+        "Article 72": {
+            "heading": "Currency of payment",
+            "article_number": "72",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 246,
+            "block_end": 248
+        },
+        "Article 72(1)(a)": {
+            "heading": "Currency of payment",
+            "article_number": "72",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 248,
+            "block_end": 248
+        },
+        "Article 72(1)": {
+            "heading": "Currency of payment",
+            "article_number": "72",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 247,
+            "block_end": 248
+        },
+        "Article 73": {
+            "heading": "Currency not expressed",
+            "article_number": "73",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 249,
+            "block_end": 250
+        },
+        "Article 74": {
+            "heading": "Costs of performance",
+            "article_number": "74",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 251,
+            "block_end": 252
+        },
+        "Article 75": {
+            "heading": "Imputation of payments",
+            "article_number": "75",
+            "page_start": 18,
+            "page_end": 19,
+            "block_start": 253,
+            "block_end": 258
+        },
+        "Article 75(1)(a)": {
+            "heading": "Imputation of payments",
+            "article_number": "75",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 258,
+            "block_end": 258
+        },
+        "Article 75(1)": {
+            "heading": "Imputation of payments",
+            "article_number": "75",
+            "page_start": 18,
+            "page_end": 19,
+            "block_start": 254,
+            "block_end": 258
+        },
+        "Article 76": {
+            "heading": "Imputation of non-monetary obligations",
+            "article_number": "76",
+            "page_start": 19,
+            "page_end": 20,
+            "block_start": 259,
+            "block_end": 263
+        },
+        "Article 78": {
+            "heading": "Interference by the other party",
+            "article_number": "78",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 266,
+            "block_end": 267
+        },
+        "Article 79": {
+            "heading": "Withholding performance",
+            "article_number": "79",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 268,
+            "block_end": 269
+        },
+        "Article 79(1)": {
+            "heading": "Withholding performance",
+            "article_number": "79",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 269,
+            "block_end": 269
+        },
+        "Article 80": {
+            "heading": "Cure by non-performing party",
+            "article_number": "80",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 270,
+            "block_end": 274
+        },
+        "Article 80(1)(a)": {
+            "heading": "Cure by non-performing party",
+            "article_number": "80",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 272,
+            "block_end": 272
+        },
+        "Article 80(1)": {
+            "heading": "Cure by non-performing party",
+            "article_number": "80",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 271,
+            "block_end": 272
+        },
+        "Article 80(2)": {
+            "heading": "Cure by non-performing party",
+            "article_number": "80",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 273,
+            "block_end": 273
+        },
+        "Article 80(3)": {
+            "heading": "Cure by non-performing party",
+            "article_number": "80",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 274,
+            "block_end": 274
+        },
+        "Article 81": {
+            "heading": "Additional period for performance",
+            "article_number": "81",
+            "page_start": 20,
+            "page_end": 21,
+            "block_start": 275,
+            "block_end": 281
+        },
+        "Article 81(1)": {
+            "heading": "Additional period for performance",
+            "article_number": "81",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 276,
+            "block_end": 276
+        },
+        "Article 81(2)": {
+            "heading": "Additional period for performance",
+            "article_number": "81",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 277,
+            "block_end": 277
+        },
+        "Article 81(3)": {
+            "heading": "Additional period for performance",
+            "article_number": "81",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 278,
+            "block_end": 280
+        },
+        "Article 81(4)": {
+            "heading": "Additional period for performance",
+            "article_number": "81",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 281,
+            "block_end": 281
+        },
+        "Article 82": {
+            "heading": "Force majeure",
+            "article_number": "82",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 282,
+            "block_end": 283
+        },
+        "Article 82(1)": {
+            "heading": "Force majeure",
+            "article_number": "82",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 283,
+            "block_end": 283
+        },
+        "Article 83": {
+            "heading": "Performance of monetary obligation",
+            "article_number": "83",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 284,
+            "block_end": 285
+        },
+        "Article 84": {
+            "heading": "Performance of non-monetary obligation",
+            "article_number": "84",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 286,
+            "block_end": 288
+        },
+        "Article 85": {
+            "heading": "Repair and replacement of defective performance",
+            "article_number": "85",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 289,
+            "block_end": 290
+        },
+        "Article 86": {
+            "heading": "Right to terminate the contract",
+            "article_number": "86",
+            "page_start": 21,
+            "page_end": 22,
+            "block_start": 291,
+            "block_end": 298
+        },
+        "Article 86(1)": {
+            "heading": "Right to terminate the contract",
+            "article_number": "86",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 292,
+            "block_end": 292
+        },
+        "Article 86(2)(a)": {
+            "heading": "Right to terminate the contract",
+            "article_number": "86",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 294,
+            "block_end": 296
+        },
+        "Article 86(2)(d)": {
+            "heading": "Right to terminate the contract",
+            "article_number": "86",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 297,
+            "block_end": 298
+        },
+        "Article 86(2)": {
+            "heading": "Right to terminate the contract",
+            "article_number": "86",
+            "page_start": 21,
+            "page_end": 22,
+            "block_start": 293,
+            "block_end": 298
+        },
+        "Article 87": {
+            "heading": "Notice of termination",
+            "article_number": "87",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 299,
+            "block_end": 300
+        },
+        "Article 87(1)": {
+            "heading": "Notice of termination",
+            "article_number": "87",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 300,
+            "block_end": 300
+        },
+        "Article 88": {
+            "heading": "Anticipatory non-performance",
+            "article_number": "88",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 301,
+            "block_end": 302
+        },
+        "Article 89": {
+            "heading": "Effects of termination in general",
+            "article_number": "89",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 303,
+            "block_end": 304
+        },
+        "Article 89(1)": {
+            "heading": "Effects of termination in general",
+            "article_number": "89",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 304,
+            "block_end": 304
+        },
+        "Article 90": {
+            "heading": "Restitution",
+            "article_number": "90",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 305,
+            "block_end": 306
+        },
+        "Article 90(1)": {
+            "heading": "Restitution",
+            "article_number": "90",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 306,
+            "block_end": 306
+        },
+        "Article 91": {
+            "heading": "Set-off",
+            "article_number": "91",
+            "page_start": 22,
+            "page_end": 24,
+            "block_start": 307,
+            "block_end": 318
+        },
+        "Article 91(1)": {
+            "heading": "Set-off",
+            "article_number": "91",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 308,
+            "block_end": 308
+        },
+        "Article 91(2)": {
+            "heading": "Set-off",
+            "article_number": "91",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 309,
+            "block_end": 309
+        },
+        "Article 91(3)(a)": {
+            "heading": "Set-off",
+            "article_number": "91",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 311,
+            "block_end": 311
+        },
+        "Article 91(3)": {
+            "heading": "Set-off",
+            "article_number": "91",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 310,
+            "block_end": 311
+        },
+        "Article 91(4)": {
+            "heading": "Set-off",
+            "article_number": "91",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 312,
+            "block_end": 314
+        },
+        "Article 91(5)": {
+            "heading": "Set-off",
+            "article_number": "91",
+            "page_start": 23,
+            "page_end": 24,
+            "block_start": 315,
+            "block_end": 318
+        },
+        "Article 92(1)": {
+            "heading": "Assignment of rights and obligations",
+            "article_number": "92",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 320,
+            "block_end": 320
+        },
+        "Article 93": {
+            "heading": "Assignment of future rights",
+            "article_number": "93",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 321,
+            "block_end": 322
+        },
+        "Article 93(1)": {
+            "heading": "Assignment of future rights",
+            "article_number": "93",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 322,
+            "block_end": 322
+        },
+        "Article 94": {
+            "heading": "Limits on assignments and delegations",
+            "article_number": "94",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 323,
+            "block_end": 328
+        },
+        "Article 94(1)(a)": {
+            "heading": "Limits on assignments and delegations",
+            "article_number": "94",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 325,
+            "block_end": 325
+        },
+        "Article 94(1)": {
+            "heading": "Limits on assignments and delegations",
+            "article_number": "94",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 324,
+            "block_end": 325
+        },
+        "Article 94(2)(a)": {
+            "heading": "Limits on assignments and delegations",
+            "article_number": "94",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 327,
+            "block_end": 328
+        },
+        "Article 94(2)": {
+            "heading": "Limits on assignments and delegations",
+            "article_number": "94",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 326,
+            "block_end": 328
+        },
+        "Article 95": {
+            "heading": "Contractual prohibition of assignment",
+            "article_number": "95",
+            "page_start": 24,
+            "page_end": 25,
+            "block_start": 329,
+            "block_end": 337
+        },
+        "Article 95(1)": {
+            "heading": "Contractual prohibition of assignment",
+            "article_number": "95",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 330,
+            "block_end": 330
+        },
+        "Article 95(2)(a)": {
+            "heading": "Contractual prohibition of assignment",
+            "article_number": "95",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 332,
+            "block_end": 332
+        },
+        "Article 95(2)(i)": {
+            "heading": "Contractual prohibition of assignment",
+            "article_number": "95",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 333,
+            "block_end": 336
+        },
+        "Article 95(2)(b)": {
+            "heading": "Contractual prohibition of assignment",
+            "article_number": "95",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 337,
+            "block_end": 337
+        },
+        "Article 95(2)": {
+            "heading": "Contractual prohibition of assignment",
+            "article_number": "95",
+            "page_start": 24,
+            "page_end": 25,
+            "block_start": 331,
+            "block_end": 337
+        },
+        "Article 96": {
+            "heading": "Interpretation of words of assignment; effect of acceptance of assignment",
+            "article_number": "96",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 338,
+            "block_end": 340
+        },
+        "Article 96(1)": {
+            "heading": "Interpretation of words of assignment; effect of acceptance of assignment",
+            "article_number": "96",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 339,
+            "block_end": 339
+        },
+        "Article 96(2)": {
+            "heading": "Interpretation of words of assignment; effect of acceptance of assignment",
+            "article_number": "96",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 340,
+            "block_end": 340
+        },
+        "Article 97": {
+            "heading": "Contracts to assign in the future, or to transfer proceeds to be received",
+            "article_number": "97",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 341,
+            "block_end": 342
+        },
+        "Article 98": {
+            "heading": "Defences against an assignee",
+            "article_number": "98",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 343,
+            "block_end": 347
+        },
+        "Article 98(1)": {
+            "heading": "Defences against an assignee",
+            "article_number": "98",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 344,
+            "block_end": 344
+        },
+        "Article 98(2)": {
+            "heading": "Defences against an assignee",
+            "article_number": "98",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 345,
+            "block_end": 345
+        },
+        "Article 98(3)": {
+            "heading": "Defences against an assignee",
+            "article_number": "98",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 346,
+            "block_end": 346
+        },
+        "Article 98(4)": {
+            "heading": "Defences against an assignee",
+            "article_number": "98",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 347,
+            "block_end": 347
+        },
+        "Article 99": {
+            "heading": "Discharge of an obligor on assignment",
+            "article_number": "99",
+            "page_start": 25,
+            "page_end": 26,
+            "block_start": 348,
+            "block_end": 357
+        },
+        "Article 99(1)": {
+            "heading": "Discharge of an obligor on assignment",
+            "article_number": "99",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 357,
+            "block_end": 357
+        },
+        "Article 99(2)": {
+            "heading": "Discharge of an obligor on assignment",
+            "article_number": "99",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 350,
+            "block_end": 350
+        },
+        "Article 99(3)": {
+            "heading": "Discharge of an obligor on assignment",
+            "article_number": "99",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 351,
+            "block_end": 351
+        },
+        "Article 99(4)": {
+            "heading": "Discharge of an obligor on assignment",
+            "article_number": "99",
+            "page_start": 25,
+            "page_end": 26,
+            "block_start": 352,
+            "block_end": 356
+        },
+        "Article 101": {
+            "heading": "Substituted contract",
+            "article_number": "101",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 358,
+            "block_end": 359
+        },
+        "Article 101(1)": {
+            "heading": "Substituted contract",
+            "article_number": "101",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 359,
+            "block_end": 359
+        },
+        "Article 102": {
+            "heading": "Novation",
+            "article_number": "102",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 360,
+            "block_end": 361
+        },
+        "Article 103": {
+            "heading": "Accord and satisfaction",
+            "article_number": "103",
+            "page_start": 26,
+            "page_end": 27,
+            "block_start": 362,
+            "block_end": 368
+        },
+        "Article 103(1)": {
+            "heading": "Accord and satisfaction",
+            "article_number": "103",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 363,
+            "block_end": 363
+        },
+        "Article 103(2)": {
+            "heading": "Accord and satisfaction",
+            "article_number": "103",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 364,
+            "block_end": 364
+        },
+        "Article 103(3)": {
+            "heading": "Accord and satisfaction",
+            "article_number": "103",
+            "page_start": 26,
+            "page_end": 27,
+            "block_start": 365,
+            "block_end": 368
+        },
+        "Article 104(1)(a)": {
+            "heading": "Right of third party to enforce contractual term",
+            "article_number": "104",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 371,
+            "block_end": 371
+        },
+        "Article 104(1)": {
+            "heading": "Right of third party to enforce contractual term",
+            "article_number": "104",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 370,
+            "block_end": 371
+        },
+        "Article 104(2)": {
+            "heading": "Right of third party to enforce contractual term",
+            "article_number": "104",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 372,
+            "block_end": 372
+        },
+        "Article 104(3)": {
+            "heading": "Right of third party to enforce contractual term",
+            "article_number": "104",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 373,
+            "block_end": 373
+        },
+        "Article 104(4)": {
+            "heading": "Right of third party to enforce contractual term",
+            "article_number": "104",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 374,
+            "block_end": 374
+        },
+        "Article 104(5)": {
+            "heading": "Right of third party to enforce contractual term",
+            "article_number": "104",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 375,
+            "block_end": 375
+        },
+        "Article 104(6)": {
+            "heading": "Right of third party to enforce contractual term",
+            "article_number": "104",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 376,
+            "block_end": 376
+        },
+        "Article 104(7)(a)": {
+            "heading": "Right of third party to enforce contractual term",
+            "article_number": "104",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 378,
+            "block_end": 378
+        },
+        "Article 104(7)": {
+            "heading": "Right of third party to enforce contractual term",
+            "article_number": "104",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 377,
+            "block_end": 378
+        },
+        "Article 105": {
+            "heading": "Variation and rescission of contract",
+            "article_number": "105",
+            "page_start": 27,
+            "page_end": 28,
+            "block_start": 379,
+            "block_end": 391
+        },
+        "Article 105(1)(a)": {
+            "heading": "Variation and rescission of contract",
+            "article_number": "105",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 381,
+            "block_end": 381
+        },
+        "Article 105(1)": {
+            "heading": "Variation and rescission of contract",
+            "article_number": "105",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 380,
+            "block_end": 381
+        },
+        "Article 105(2)(a)": {
+            "heading": "Variation and rescission of contract",
+            "article_number": "105",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 383,
+            "block_end": 383
+        },
+        "Article 105(2)": {
+            "heading": "Variation and rescission of contract",
+            "article_number": "105",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 382,
+            "block_end": 383
+        },
+        "Article 105(3)(a)": {
+            "heading": "Variation and rescission of contract",
+            "article_number": "105",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 387,
+            "block_end": 387
+        },
+        "Article 105(3)": {
+            "heading": "Variation and rescission of contract",
+            "article_number": "105",
+            "page_start": 27,
+            "page_end": 28,
+            "block_start": 384,
+            "block_end": 387
+        },
+        "Article 105(4)(a)": {
+            "heading": "Variation and rescission of contract",
+            "article_number": "105",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 389,
+            "block_end": 389
+        },
+        "Article 105(4)": {
+            "heading": "Variation and rescission of contract",
+            "article_number": "105",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 388,
+            "block_end": 389
+        },
+        "Article 105(5)": {
+            "heading": "Variation and rescission of contract",
+            "article_number": "105",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 390,
+            "block_end": 391
+        },
+        "Article 106": {
+            "heading": "Defences available to promisor",
+            "article_number": "106",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 392,
+            "block_end": 400
+        },
+        "Article 106(1)": {
+            "heading": "Defences available to promisor",
+            "article_number": "106",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 393,
+            "block_end": 393
+        },
+        "Article 106(2)(a)": {
+            "heading": "Defences available to promisor",
+            "article_number": "106",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 395,
+            "block_end": 395
+        },
+        "Article 106(2)": {
+            "heading": "Defences available to promisor",
+            "article_number": "106",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 394,
+            "block_end": 395
+        },
+        "Article 106(3)(a)": {
+            "heading": "Defences available to promisor",
+            "article_number": "106",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 397,
+            "block_end": 397
+        },
+        "Article 106(3)": {
+            "heading": "Defences available to promisor",
+            "article_number": "106",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 396,
+            "block_end": 397
+        },
+        "Article 106(4)(a)": {
+            "heading": "Defences available to promisor",
+            "article_number": "106",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 399,
+            "block_end": 399
+        },
+        "Article 106(4)": {
+            "heading": "Defences available to promisor",
+            "article_number": "106",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 398,
+            "block_end": 399
+        },
+        "Article 106(5)": {
+            "heading": "Defences available to promisor",
+            "article_number": "106",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 400,
+            "block_end": 400
+        },
+        "Article 107": {
+            "heading": "Enforcement of contract by promisee",
+            "article_number": "107",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 401,
+            "block_end": 402
+        },
+        "Article 108": {
+            "heading": "Protection of promisor from double liability",
+            "article_number": "108",
+            "page_start": 28,
+            "page_end": 30,
+            "block_start": 403,
+            "block_end": 410
+        },
+        "Article 110": {
+            "heading": "Full compensation",
+            "article_number": "110",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 413,
+            "block_end": 414
+        },
+        "Article 111": {
+            "heading": "Measure of damages",
+            "article_number": "111",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 415,
+            "block_end": 417
+        },
+        "Article 112": {
+            "heading": "Certainty of harm",
+            "article_number": "112",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 418,
+            "block_end": 421
+        },
+        "Article 112(1)": {
+            "heading": "Certainty of harm",
+            "article_number": "112",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 419,
+            "block_end": 421
+        },
+        "Article 114": {
+            "heading": "Proof of harm in case of replacement transaction",
+            "article_number": "114",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 422,
+            "block_end": 423
+        },
+        "Article 115": {
+            "heading": "Proof of harm by current price",
+            "article_number": "115",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 424,
+            "block_end": 428
+        },
+        "Article 115(1)": {
+            "heading": "Proof of harm by current price",
+            "article_number": "115",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 425,
+            "block_end": 425
+        },
+        "Article 115(2)": {
+            "heading": "Proof of harm by current price",
+            "article_number": "115",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 426,
+            "block_end": 428
+        },
+        "Article 116": {
+            "heading": "Harm due in part to aggrieved party",
+            "article_number": "116",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 429,
+            "block_end": 430
+        },
+        "Article 117": {
+            "heading": "Mitigation of harm",
+            "article_number": "117",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 431,
+            "block_end": 432
+        },
+        "Article 117(1)": {
+            "heading": "Mitigation of harm",
+            "article_number": "117",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 432,
+            "block_end": 432
+        },
+        "Article 118": {
+            "heading": "Interest for failure to pay Money",
+            "article_number": "118",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 433,
+            "block_end": 434
+        },
+        "Article 118(1)": {
+            "heading": "Interest for failure to pay Money",
+            "article_number": "118",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 434,
+            "block_end": 434
+        },
+        "Article 119": {
+            "heading": "Interest on damages",
+            "article_number": "119",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 435,
+            "block_end": 436
+        },
+        "Article 120": {
+            "heading": "Manner of monetary redress",
+            "article_number": "120",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 437,
+            "block_end": 438
+        },
+        "Article 121": {
+            "heading": "Currency in which to assess damages",
+            "article_number": "121",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 439,
+            "block_end": 440
+        },
+        "Article 122": {
+            "heading": "Agreed payment for non-performance",
+            "article_number": "122",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 441,
+            "block_end": 442
+        },
+        "Article 122(1)": {
+            "heading": "Agreed payment for non-performance",
+            "article_number": "122",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 442,
+            "block_end": 442
+        },
+        "Article 123": {
+            "heading": "Limitation",
+            "article_number": "123",
+            "page_start": 31,
+            "page_end": 32,
+            "block_start": 443,
+            "block_end": 447
+        },
+        "Article 123(1)": {
+            "heading": "Limitation",
+            "article_number": "123",
+            "page_start": 31,
+            "page_end": 32,
+            "block_start": 444,
+            "block_end": 447
+        },
+        "Article 124(1)": {
+            "heading": "Agency; principal; agent",
+            "article_number": "124",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 449,
+            "block_end": 449
+        },
+        "Article 125": {
+            "heading": "General agent; special agent",
+            "article_number": "125",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 450,
+            "block_end": 453
+        },
+        "Article 125(1)": {
+            "heading": "General agent; special agent",
+            "article_number": "125",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 453,
+            "block_end": 453
+        },
+        "Article 127": {
+            "heading": "Consent",
+            "article_number": "127",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 454,
+            "block_end": 455
+        },
+        "Article 128": {
+            "heading": "Authority",
+            "article_number": "128",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 456,
+            "block_end": 457
+        },
+        "Article 129": {
+            "heading": "Creation of authority",
+            "article_number": "129",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 458,
+            "block_end": 459
+        },
+        "Article 130": {
+            "heading": "Apparent authority",
+            "article_number": "130",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 460,
+            "block_end": 461
+        },
+        "Article 131": {
+            "heading": "Creation of apparent authority",
+            "article_number": "131",
+            "page_start": 32,
+            "page_end": 33,
+            "block_start": 462,
+            "block_end": 466
+        },
+        "Article 132": {
+            "heading": "Applicability of rules for interpretation of agreements",
+            "article_number": "132",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 467,
+            "block_end": 468
+        },
+        "Article 133": {
+            "heading": "When incidental authority is inferred",
+            "article_number": "133",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 469,
+            "block_end": 470
+        },
+        "Article 134": {
+            "heading": "Inference that agent is to act only for principal’s benefit",
+            "article_number": "134",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 471,
+            "block_end": 472
+        },
+        "Article 135": {
+            "heading": "General principle of interpretation",
+            "article_number": "135",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 473,
+            "block_end": 474
+        },
+        "Article 136": {
+            "heading": "Duty of care and skill",
+            "article_number": "136",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 475,
+            "block_end": 476
+        },
+        "Article 136(1)": {
+            "heading": "Duty of care and skill",
+            "article_number": "136",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 476,
+            "block_end": 476
+        },
+        "Article 137": {
+            "heading": "Duty of loyalty",
+            "article_number": "137",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 477,
+            "block_end": 478
+        },
+        "Article 138": {
+            "heading": "Duty to account for profits arising out of employment",
+            "article_number": "138",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 479,
+            "block_end": 480
+        },
+        "Article 139": {
+            "heading": "Duty not to act as adverse party without principal's consent",
+            "article_number": "139",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 481,
+            "block_end": 482
+        },
+        "Article 140": {
+            "heading": "Duty not to compete as to subject matter of agency",
+            "article_number": "140",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 483,
+            "block_end": 484
+        },
+        "Article 141": {
+            "heading": "Duty not to act for one with conflicting interests",
+            "article_number": "141",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 485,
+            "block_end": 486
+        },
+        "Article 142": {
+            "heading": "Duty not to use or disclose confidential information",
+            "article_number": "142",
+            "page_start": 33,
+            "page_end": 34,
+            "block_start": 487,
+            "block_end": 491
+        },
+        "Article 143": {
+            "heading": "Period of employment",
+            "article_number": "143",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 492,
+            "block_end": 493
+        },
+        "Article 144": {
+            "heading": "Continuing duties after termination of agency",
+            "article_number": "144",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 494,
+            "block_end": 496
+        },
+        "Article 145": {
+            "heading": "Liability for loss caused",
+            "article_number": "145",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 497,
+            "block_end": 498
+        },
+        "Article 146": {
+            "heading": "Liability for things received in breach of duty of loyalty",
+            "article_number": "146",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 499,
+            "block_end": 500
+        },
+        "Article 147": {
+            "heading": "Liability for use of principal's assets",
+            "article_number": "147",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 501,
+            "block_end": 502
+        },
+        "Article 148": {
+            "heading": "Principal's choice of remedies",
+            "article_number": "148",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 503,
+            "block_end": 507
+        },
+        "Article 148(1)": {
+            "heading": "Principal's choice of remedies",
+            "article_number": "148",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 504,
+            "block_end": 504
+        },
+        "Article 148(2)": {
+            "heading": "Principal's choice of remedies",
+            "article_number": "148",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 505,
+            "block_end": 507
+        },
+        "Article 149": {
+            "heading": "Duty of indemnity",
+            "article_number": "149",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 508,
+            "block_end": 509
+        },
+        "Article 149(1)": {
+            "heading": "Duty of indemnity",
+            "article_number": "149",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 509,
+            "block_end": 509
+        },
+        "Article 150": {
+            "heading": "When duty of indemnity exists",
+            "article_number": "150",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 510,
+            "block_end": 512
+        },
+        "Article 151": {
+            "heading": "When no duty of indemnity",
+            "article_number": "151",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 513,
+            "block_end": 515
+        },
+        "Article 152": {
+            "heading": "Ratification",
+            "article_number": "152",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 516,
+            "block_end": 517
+        },
+        "Article 153": {
+            "heading": "Affirmation",
+            "article_number": "153",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 518,
+            "block_end": 522
+        },
+        "Article 154": {
+            "heading": "What acts can be ratified",
+            "article_number": "154",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 523,
+            "block_end": 524
+        },
+        "Article 155": {
+            "heading": "Purporting to act as agent as a requisite for ratification",
+            "article_number": "155",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 525,
+            "block_end": 526
+        },
+        "Article 156": {
+            "heading": "Who can affirm",
+            "article_number": "156",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 527,
+            "block_end": 530
+        },
+        "Article 158": {
+            "heading": "Effect of ratification",
+            "article_number": "158",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 531,
+            "block_end": 532
+        },
+        "Article 159": {
+            "heading": "Revocation of authority",
+            "article_number": "159",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 533,
+            "block_end": 534
+        },
+        "Article 160": {
+            "heading": "Liability based upon agency principles",
+            "article_number": "160",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 535,
+            "block_end": 537
+        },
+        "Article 161": {
+            "heading": "Liability of disclosed or partially disclosed principal; general rule",
+            "article_number": "161",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 538,
+            "block_end": 541
+        },
+        "Article 163": {
+            "heading": "Unauthorised acts of general agent",
+            "article_number": "163",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 542,
+            "block_end": 545
+        },
+        "Article 164": {
+            "heading": "Unauthorised acts of special agents",
+            "article_number": "164",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 546,
+            "block_end": 550
+        },
+        "Article 165": {
+            "heading": "Rights between third person and agent",
+            "article_number": "165",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 551,
+            "block_end": 552
+        },
+        "Article 166": {
+            "heading": "Defences of principal – in general",
+            "article_number": "166",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 553,
+            "block_end": 556
+        },
+        "Article 168": {
+            "heading": "Acts of general agents",
+            "article_number": "168",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 557,
+            "block_end": 558
+        },
+        "Article 169": {
+            "heading": "Acts of manager appearing to be owner",
+            "article_number": "169",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 559,
+            "block_end": 560
+        },
+        "Article 170": {
+            "heading": "Unauthorised acts of special agents",
+            "article_number": "170",
+            "page_start": 37,
+            "page_end": 38,
+            "block_start": 561,
+            "block_end": 571
+        },
+        "Article 173": {
+            "heading": "Contracts, disclosed agency; general rule",
+            "article_number": "173",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 572,
+            "block_end": 573
+        },
+        "Article 174": {
+            "heading": "Defences of other party",
+            "article_number": "174",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 574,
+            "block_end": 575
+        },
+        "Article 175": {
+            "heading": "Rights between other party and agent",
+            "article_number": "175",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 576,
+            "block_end": 577
+        },
+        "Article 176": {
+            "heading": "Contracts, undisclosed agency; general rule",
+            "article_number": "176",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 578,
+            "block_end": 580
+        },
+        "Article 177": {
+            "heading": "Principal excluded from transaction",
+            "article_number": "177",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 581,
+            "block_end": 583
+        },
+        "Article 178": {
+            "heading": "Rights between other party and agent",
+            "article_number": "178",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 584,
+            "block_end": 588
+        },
+        "Article 178(1)": {
+            "heading": "Rights between other party and agent",
+            "article_number": "178",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 585,
+            "block_end": 585
+        },
+        "Article 178(2)": {
+            "heading": "Rights between other party and agent",
+            "article_number": "178",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 586,
+            "block_end": 588
+        },
+        "Article 179": {
+            "heading": "Defences of other party",
+            "article_number": "179",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 589,
+            "block_end": 591
+        },
+        "Article 180": {
+            "heading": "Status of agent as party to a contract",
+            "article_number": "180",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 592,
+            "block_end": 593
+        },
+        "Article 180(1)": {
+            "heading": "Status of agent as party to a contract",
+            "article_number": "180",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 593,
+            "block_end": 593
+        },
+        "Article 181": {
+            "heading": "Agent who warrants authority",
+            "article_number": "181",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 594,
+            "block_end": 597
+        },
+        "Article 183": {
+            "heading": "Agent surety for principal",
+            "article_number": "183",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 598,
+            "block_end": 599
+        },
+        "Article 184": {
+            "heading": "Election by other party to hold principal; agency undisclosed",
+            "article_number": "184",
+            "page_start": 39,
+            "page_end": 40,
+            "block_start": 600,
+            "block_end": 604
+        },
+        "Article 1(1)(a)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 607,
+            "block_end": 607
+        },
+        "Article 1(1)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 606,
+            "block_end": 607
+        },
+        "Article 1(2)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 608,
+            "block_end": 608
+        },
+        "Article 2": {
+            "heading": "Legislation in the DIFC",
+            "article_number": "2",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 609,
+            "block_end": 611
+        },
+        "Article 3": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 40,
+            "page_end": 41,
+            "block_start": 612,
+            "block_end": 620
+        },
+        "Article 3(1)": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 613,
+            "block_end": 617
+        },
+        "Article 3(2)": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 618,
+            "block_end": 620
+        }
+    },
+    "section_heading_index": {
+        "Title ... 1 2. Legislative Authority. 1 3. Application of the Law.... ........ .................. ................................. 1 4. Date of enactment.... 1 .................................. 5. Commencement.. 6. Interpretation": [
+            {
+                "heading": "Title ... 1 2. Legislative Authority. 1 3. Application of the Law.... ........ .................. ................................. 1 4. Date of enactment.... 1 .................................. 5. Commencement.. 6. Interpretation",
+                "article_number": "1",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 7,
+                "block_end": 8
+            }
+        ],
+        "Choice of governing law and jurisdictions ...... ..... 2 8. Freedom of and capacity to contract . . 2 9. No form required ....... 10. Binding character of contract ... ............................................................................................. ..... 2 11. Exclusion or modification by the parties ................................................................................................. ..... 2 12. Usages and practices .... ....................................................................................... .... 2 13. Notice ... .. 2": [
+            {
+                "heading": "Choice of governing law and jurisdictions ...... ..... 2 8. Freedom of and capacity to contract . . 2 9. No form required ....... 10. Binding character of contract ... ............................................................................................. ..... 2 11. Exclusion or modification by the parties ................................................................................................. ..... 2 12. Usages and practices .... ....................................................................................... .... 2 13. Notice ... .. 2",
+                "article_number": "7",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 9,
+                "block_end": 10
+            }
+        ],
+        "Manner of formation ...... ........................................................................................................... ..... 3 15. Definition of offer ... ...................................................................................................................... .... 3 16. Withdrawal of offer ... ........................................................................................................................ .. 3 17. Revocation of offer........... 18. Rejection of offer ....... 19. Mode of acceptance...... ............................................................................................................................... 3 20. Time of acceptance...... 21. Acceptance within a fixed period of time... 22. Late acceptance; delay in transmission . .................................................................................... .... 4 23. Withdrawal of acceptance ....... 24. Modified acceptance .... 25. Writings in confirmation . ................................................................................................ 4 26. Conclusion of contract dependent on agreement on specific matters or in a specific form.......................... 4 27. Contract with terms deliberately left open . .... 4 28. Freedom to negotiate... ...................................................................................... ..... 5 29. Duty of confidentiality . .......................................................................................... ...... 5 30. 31. Merger clause ............................................................................................................................................... 5Written modification clauses ........................................................................................................................ 5 32. Contracting under standard terms.......... ....................................................................... .... 5 33. Conflict between standard terms and non-standard terms. . 5 34. Battle of forms.... .. 5": [
+            {
+                "heading": "Manner of formation ...... ........................................................................................................... ..... 3 15. Definition of offer ... ...................................................................................................................... .... 3 16. Withdrawal of offer ... ........................................................................................................................ .. 3 17. Revocation of offer........... 18. Rejection of offer ....... 19. Mode of acceptance...... ............................................................................................................................... 3 20. Time of acceptance...... 21. Acceptance within a fixed period of time... 22. Late acceptance; delay in transmission . .................................................................................... .... 4 23. Withdrawal of acceptance ....... 24. Modified acceptance .... 25. Writings in confirmation . ................................................................................................ 4 26. Conclusion of contract dependent on agreement on specific matters or in a specific form.......................... 4 27. Contract with terms deliberately left open . .... 4 28. Freedom to negotiate... ...................................................................................... ..... 5 29. Duty of confidentiality . .......................................................................................... ...... 5 30. 31. Merger clause ............................................................................................................................................... 5Written modification clauses ........................................................................................................................ 5 32. Contracting under standard terms.......... ....................................................................... .... 5 33. Conflict between standard terms and non-standard terms. . 5 34. Battle of forms.... .. 5",
+                "article_number": "14",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 11,
+                "block_end": 12
+            }
+        ],
+        "Validity of mere agreement ...... 36. Initial impossibility . .............................................................................................. .... 6 37. Relevant mistake .... ..................................................................................................... ..... 6 38. Error in expression or transmission ..................................................................................................... ......... 6 39. Remedies for non-performance . ........................................................................................................ ...... 6 40. Fraud ..... 41. Threat. ... ...................................................................................................................... ...... 7 42. Confirmation .. ......................................................................................................................... ..... 7 43. Loss of right to avoid ................................................................................................................................... 7 44. Notice of avoidance... ........................................................................................................................ ...... 7 45. Time limits ...... 46. Partial avoidance . ...... ............................................................................................... ..... 7 47. Retroactive effect of avoidance ... .. 7 48. Mandatory character of the provisions . ... 7": [
+            {
+                "heading": "Validity of mere agreement ...... 36. Initial impossibility . .............................................................................................. .... 6 37. Relevant mistake .... ..................................................................................................... ..... 6 38. Error in expression or transmission ..................................................................................................... ......... 6 39. Remedies for non-performance . ........................................................................................................ ...... 6 40. Fraud ..... 41. Threat. ... ...................................................................................................................... ...... 7 42. Confirmation .. ......................................................................................................................... ..... 7 43. Loss of right to avoid ................................................................................................................................... 7 44. Notice of avoidance... ........................................................................................................................ ...... 7 45. Time limits ...... 46. Partial avoidance . ...... ............................................................................................... ..... 7 47. Retroactive effect of avoidance ... .. 7 48. Mandatory character of the provisions . ... 7",
+                "article_number": "35",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 13,
+                "block_end": 14
+            }
+        ],
+        "Intention of the parties..... ... 8 50. Interpretation of statements and other conduct.. .. 8 51. Relevant circumstances .... . 8 52. Reference to contract or statement as a whole . .. 8 53. All terms to be given effect . .. 8 54. Interpretation against party responsible.. 8 55. Linguistic discrepancies ...... ... 9": [
+            {
+                "heading": "Intention of the parties..... ... 8 50. Interpretation of statements and other conduct.. .. 8 51. Relevant circumstances .... . 8 52. Reference to contract or statement as a whole . .. 8 53. All terms to be given effect . .. 8 54. Interpretation against party responsible.. 8 55. Linguistic discrepancies ...... ... 9",
+                "article_number": "49",
+                "page_start": 2,
+                "page_end": 3,
+                "block_start": 15,
+                "block_end": 18
+            }
+        ],
+        "Express and implied obligations.. . 10 57. Implied obligations... ............................................................................. .. 10 58. Co-operation between the parties ..... .............................................. . 10 59. Duty to achieve a specific result; duty of best efforts . .. 10 60. Determination of kind of duty involved .. . 10 61. Determination of quality of performance . .. 10 62. Price determination ... ............................................................ ... 10 63. Contract for an indefinite period . .... 11": [
+            {
+                "heading": "Express and implied obligations.. . 10 57. Implied obligations... ............................................................................. .. 10 58. Co-operation between the parties ..... .............................................. . 10 59. Duty to achieve a specific result; duty of best efforts . .. 10 60. Determination of kind of duty involved .. . 10 61. Determination of quality of performance . .. 10 62. Price determination ... ............................................................ ... 10 63. Contract for an indefinite period . .... 11",
+                "article_number": "56",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 19,
+                "block_end": 20
+            }
+        ],
+        "Time of performance ..... .................................................................................... 12 65. Performance at one time or in instalments ... .................................................................................. . 12 66. Partial performance .... .................................................................................................. . 12 67. Order of performance ....... .......................................................................................................................... 12 68. Earlier performance.. ............................................................................................ . 12 69. Place of performance.. .................................................................................................. 12 70. Payment by cheque or other instrument . .................................................................................................. 13 71. Payment by funds transfer .......................................................................................................................... 13 72. Currency of payment.... ........................................................................................................... . 13 73. Currency not expressed . 74. Costs of performance .... 75. Imputation of payments....... ................. 76. Imputation of non-monetary obligations .. ............................................................................ .. 14": [
+            {
+                "heading": "Time of performance ..... .................................................................................... 12 65. Performance at one time or in instalments ... .................................................................................. . 12 66. Partial performance .... .................................................................................................. . 12 67. Order of performance ....... .......................................................................................................................... 12 68. Earlier performance.. ............................................................................................ . 12 69. Place of performance.. .................................................................................................. 12 70. Payment by cheque or other instrument . .................................................................................................. 13 71. Payment by funds transfer .......................................................................................................................... 13 72. Currency of payment.... ........................................................................................................... . 13 73. Currency not expressed . 74. Costs of performance .... 75. Imputation of payments....... ................. 76. Imputation of non-monetary obligations .. ............................................................................ .. 14",
+                "article_number": "64",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 21,
+                "block_end": 22
+            }
+        ],
+        "Non-performance defined.. ...................................................................................................... .... 15 78. Interference by the other party ......................................................................................................... . 15 79. Withholding performance........ ................................................................................................................... 15 80. Cure by non-performing party....... ......................................................................................................... . 15 81. Additional period for performance ............................................................................................................. 15 82. Force majeure....... ........................................................................................................ 16 83. Performance of monetary obligation ...... .......................................................................................... .... 16 84. Performance of non-monetary obligation.. 85. Repair and replacement of defective performance ..................................................................................... 16 86. Right to terminate the contract ... ......................................................................................... ... 16 87. Notice of termination ... 88. Anticipatory non-performance ....... ............................................................................................................ 17 89. Effects of termination in general .. ........................................................................................................ .... 17 90. Restitution .. 91. Set-off....... ............................................................................................................ ..... 17": [
+            {
+                "heading": "Non-performance defined.. ...................................................................................................... .... 15 78. Interference by the other party ......................................................................................................... . 15 79. Withholding performance........ ................................................................................................................... 15 80. Cure by non-performing party....... ......................................................................................................... . 15 81. Additional period for performance ............................................................................................................. 15 82. Force majeure....... ........................................................................................................ 16 83. Performance of monetary obligation ...... .......................................................................................... .... 16 84. Performance of non-monetary obligation.. 85. Repair and replacement of defective performance ..................................................................................... 16 86. Right to terminate the contract ... ......................................................................................... ... 16 87. Notice of termination ... 88. Anticipatory non-performance ....... ............................................................................................................ 17 89. Effects of termination in general .. ........................................................................................................ .... 17 90. Restitution .. 91. Set-off....... ............................................................................................................ ..... 17",
+                "article_number": "77",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 23,
+                "block_end": 24
+            }
+        ],
+        "Assignment of rights and obligations ............... .................................................................................. .... 19 93. Assignment of future rights . ................................................................................... 19 94. Limits on assignments and delegations . . 19 95. Contractual prohibition of assignment . .................................. . 19 96. Interpretation of words of assignment; effect of acceptance of assignment ............................................... 20 97. Contracts to assign in the future, or to transfer proceeds to be received . ............................ . 20 98. Defences against an assignee .... .......................................... . 20 99. Discharge of an obligor on assignment . ...... ................. ....................................................................... 20 100. Substituted performance.. ..................................................................................... . 21 101. Substituted contract . .......................................................................................................... .. 21 102. Novation ...... ............................................................................................................. ..... 21 103. Accord and satisfaction . ....................................................................................................... . 21": [
+            {
+                "heading": "Assignment of rights and obligations ............... .................................................................................. .... 19 93. Assignment of future rights . ................................................................................... 19 94. Limits on assignments and delegations . . 19 95. Contractual prohibition of assignment . .................................. . 19 96. Interpretation of words of assignment; effect of acceptance of assignment ............................................... 20 97. Contracts to assign in the future, or to transfer proceeds to be received . ............................ . 20 98. Defences against an assignee .... .......................................... . 20 99. Discharge of an obligor on assignment . ...... ................. ....................................................................... 20 100. Substituted performance.. ..................................................................................... . 21 101. Substituted contract . .......................................................................................................... .. 21 102. Novation ...... ............................................................................................................. ..... 21 103. Accord and satisfaction . ....................................................................................................... . 21",
+                "article_number": "92",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 25,
+                "block_end": 26
+            }
+        ],
+        "Right of third party to enforce contractual term ....... . 22 105. Variation and rescission of contract ...... 22 106. Defences available to promisor . . 23 107. Enforcement of contract by promisee.. 23 108. Protection of promisor from double liability ..... 23": [
+            {
+                "heading": "Right of third party to enforce contractual term ....... . 22 105. Variation and rescission of contract ...... 22 106. Defences available to promisor . . 23 107. Enforcement of contract by promisee.. 23 108. Protection of promisor from double liability ..... 23",
+                "article_number": "104",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 27,
+                "block_end": 30
+            }
+        ],
+        "Right to damages...... ....................................................................... . 25 110. Full compensation ................................................................................................................................ . 25 111. Measure of damages ........................................................................................................................... . 25 112. Certainty of harm ................................................................................................................................... .. 25 113. Foreseeability of harm............................................................................................................................ .... 25 114. Proof of harm in case of replacement transaction . ......................................................................... .. 25 115. Proof of harm by current price . ............................................................................... . 25 116. Harm due in part to aggrieved party. ..................................................................................... ... 26 117. Mitigation of harm . .. ................................................................................................. .... 26 118. Interest for failure to pay Money... ................................................................................................... ... 26 119. Interest on damages..... ....... .............................................................................................................. .... 26 120. Manner of monetary redress ....................................................................................................................... 26 121. Currency in which to assess damages . ....................................................................................... .. 26 122. Agreed payment for non-performance ... . 26 123. Limitation ... .. 26": [
+            {
+                "heading": "Right to damages...... ....................................................................... . 25 110. Full compensation ................................................................................................................................ . 25 111. Measure of damages ........................................................................................................................... . 25 112. Certainty of harm ................................................................................................................................... .. 25 113. Foreseeability of harm............................................................................................................................ .... 25 114. Proof of harm in case of replacement transaction . ......................................................................... .. 25 115. Proof of harm by current price . ............................................................................... . 25 116. Harm due in part to aggrieved party. ..................................................................................... ... 26 117. Mitigation of harm . .. ................................................................................................. .... 26 118. Interest for failure to pay Money... ................................................................................................... ... 26 119. Interest on damages..... ....... .............................................................................................................. .... 26 120. Manner of monetary redress ....................................................................................................................... 26 121. Currency in which to assess damages . ....................................................................................... .. 26 122. Agreed payment for non-performance ... . 26 123. Limitation ... .. 26",
+                "article_number": "109",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 31,
+                "block_end": 32
+            }
+        ],
+        "Agency; principal; agent. ...... .................................................................................................................. 27 125. General agent; special agent.. ...................................... . 27 126. Disclosed principal; partially disclosed principal; undisclosed principal .............................................. ... 27 127. Consent..... ................................................................ ... 27 128. Authority . ................................................................................................................ . 27 129. Creation of authority . ....................................................... . 27 130. Apparent authority.... .................................................................................................. . 27 131. Creation of apparent authority....................... ......................................................................................... ... 27 132. Applicability of rules for interpretation of agreements . ......................................................... . 28 133. When incidental authority is inferred . ............................................................... . 28 134. Inference that agent is to act only for principal’s benefit . .......................................................................... 28 135. General principle of interpretation . .......................................................... . 28 136. Duty of care and skill ...... ..................................................................... . 28 137. Duty of loyalty ....... ............................................................................. 28 138. Duty to account for profits arising out of employment . ........................................................... . 28 139. Duty not to act as adverse party without principal's consent ................................................................. . 28 140. Duty not to compete as to subject matter of agency ....... ............................................................................ 28 141. Duty not to act for one with conflicting interests . ............................................................... . 28 142. Duty not to use or disclose confidential information ............................................................................ . 28 143. Period of employment ..... ............................................................................. ... . 29 144. Continuing duties after termination of agency .... ........................................................................ . 29 145. Liability for loss caused . ................................................................ . 29 146. Liability for things received in breach of duty of loyalty . ................................................................... . 29 147. Liability for use of principal's assets . ................................................................. . 29 148. Principal's choice of remedies ..... ............................................................................... . 29 149. Duty of indemnity . ................................................................................................ . 30 150. When duty of indemnity exists .............................................................................................................. .... 30 151. When no duty of indemnity.... ......................................................................................................... . 30 152. Ratification ... ................................................................................................ . 30 153. Affirmation..... ............................................................................................................. .... 30 154. What acts can be ratified . ............................................................... . 31 155. Purporting to act as agent as a requisite for ratification ....................................................................... .... 31 156. Who can affirm ..... ............................................................................. .... 31 157. Affirmation after rights have crystallised . ................................................................... . 31 158. Effect of ratification ..... ............................................................................. .... 31 159. Revocation of authority... .................................................... .... 31 160. Liability based upon agency principles . ............................................... .. 31 161. Liability of disclosed or partially disclosed principal; general rule.. .................................. .. 31 162. Liability of disclosed or partially disclosed principal; apparent authority ........................................... ... 31 163. Unauthorised acts of general agent.. ........................................ .... 31 164. Unauthorised acts of special agents.. . 32 165. Rights between third person and agent. 32 166. Defences of principal – in general.. ......................................................................................... . 32 167. Undisclosed principal; general rule .. .................................................................................... . 32 168. Acts of general agents . .................................................................. . 32 169. Acts of manager appearing to be owner . ....................................................................................... . 32 170. Unauthorised acts of special agents..... ................................................................ ..... 32 171. Defences of undisclosed principal – in general . ....................................... . 33 172. Power of agent to modify contract before disclosure of principal... .................................................... .. 33 173. Contracts, disclosed agency; general rule . ...................................................... .. 33 174. Defences of other party ...... ............................................................... . 33 175. Rights between other party and agent .... ................................................. . 33 176. Contracts, undisclosed agency; general rule... ............................................................................ . 33 177. Principal excluded from transaction.. ............................................................................................ .. 33 178. Rights between other party and agent . ......................................................................................... . 33 179. Defences of other party . .................................................................................... . 34 180. Status of agent as party to a contract .. ............................................................................................ . 34 181. Agent who warrants authority . ...................................................................... .... 34 182. Defences of agent . ......................................... . 34 183. Agent surety for principal.. .................................................. . 34 184. Election by other party to hold principal; agency undisclosed ................................................................... 34": [
+            {
+                "heading": "Agency; principal; agent. ...... .................................................................................................................. 27 125. General agent; special agent.. ...................................... . 27 126. Disclosed principal; partially disclosed principal; undisclosed principal .............................................. ... 27 127. Consent..... ................................................................ ... 27 128. Authority . ................................................................................................................ . 27 129. Creation of authority . ....................................................... . 27 130. Apparent authority.... .................................................................................................. . 27 131. Creation of apparent authority....................... ......................................................................................... ... 27 132. Applicability of rules for interpretation of agreements . ......................................................... . 28 133. When incidental authority is inferred . ............................................................... . 28 134. Inference that agent is to act only for principal’s benefit . .......................................................................... 28 135. General principle of interpretation . .......................................................... . 28 136. Duty of care and skill ...... ..................................................................... . 28 137. Duty of loyalty ....... ............................................................................. 28 138. Duty to account for profits arising out of employment . ........................................................... . 28 139. Duty not to act as adverse party without principal's consent ................................................................. . 28 140. Duty not to compete as to subject matter of agency ....... ............................................................................ 28 141. Duty not to act for one with conflicting interests . ............................................................... . 28 142. Duty not to use or disclose confidential information ............................................................................ . 28 143. Period of employment ..... ............................................................................. ... . 29 144. Continuing duties after termination of agency .... ........................................................................ . 29 145. Liability for loss caused . ................................................................ . 29 146. Liability for things received in breach of duty of loyalty . ................................................................... . 29 147. Liability for use of principal's assets . ................................................................. . 29 148. Principal's choice of remedies ..... ............................................................................... . 29 149. Duty of indemnity . ................................................................................................ . 30 150. When duty of indemnity exists .............................................................................................................. .... 30 151. When no duty of indemnity.... ......................................................................................................... . 30 152. Ratification ... ................................................................................................ . 30 153. Affirmation..... ............................................................................................................. .... 30 154. What acts can be ratified . ............................................................... . 31 155. Purporting to act as agent as a requisite for ratification ....................................................................... .... 31 156. Who can affirm ..... ............................................................................. .... 31 157. Affirmation after rights have crystallised . ................................................................... . 31 158. Effect of ratification ..... ............................................................................. .... 31 159. Revocation of authority... .................................................... .... 31 160. Liability based upon agency principles . ............................................... .. 31 161. Liability of disclosed or partially disclosed principal; general rule.. .................................. .. 31 162. Liability of disclosed or partially disclosed principal; apparent authority ........................................... ... 31 163. Unauthorised acts of general agent.. ........................................ .... 31 164. Unauthorised acts of special agents.. . 32 165. Rights between third person and agent. 32 166. Defences of principal – in general.. ......................................................................................... . 32 167. Undisclosed principal; general rule .. .................................................................................... . 32 168. Acts of general agents . .................................................................. . 32 169. Acts of manager appearing to be owner . ....................................................................................... . 32 170. Unauthorised acts of special agents..... ................................................................ ..... 32 171. Defences of undisclosed principal – in general . ....................................... . 33 172. Power of agent to modify contract before disclosure of principal... .................................................... .. 33 173. Contracts, disclosed agency; general rule . ...................................................... .. 33 174. Defences of other party ...... ............................................................... . 33 175. Rights between other party and agent .... ................................................. . 33 176. Contracts, undisclosed agency; general rule... ............................................................................ . 33 177. Principal excluded from transaction.. ............................................................................................ .. 33 178. Rights between other party and agent . ......................................................................................... . 33 179. Defences of other party . .................................................................................... . 34 180. Status of agent as party to a contract .. ............................................................................................ . 34 181. Agent who warrants authority . ...................................................................... .... 34 182. Defences of agent . ......................................... . 34 183. Agent surety for principal.. .................................................. . 34 184. Election by other party to hold principal; agency undisclosed ................................................................... 34",
+                "article_number": "124",
+                "page_start": 4,
+                "page_end": 6,
+                "block_start": 33,
+                "block_end": 48
+            }
+        ],
+        "Interpretation": [
+            {
+                "heading": "Interpretation",
+                "article_number": "6",
+                "page_start": 6,
+                "page_end": 7,
+                "block_start": 49,
+                "block_end": 55
+            }
+        ],
+        "Choice of governing law and jurisdictions": [
+            {
+                "heading": "Choice of governing law and jurisdictions",
+                "article_number": "7",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 56,
+                "block_end": 57
+            }
+        ],
+        "Freedom of and capacity to contract": [
+            {
+                "heading": "Freedom of and capacity to contract",
+                "article_number": "8",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 58,
+                "block_end": 63
+            }
+        ],
+        "No form required": [
+            {
+                "heading": "No form required",
+                "article_number": "9",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 64,
+                "block_end": 65
+            }
+        ],
+        "Binding character of contract": [
+            {
+                "heading": "Binding character of contract",
+                "article_number": "10",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 66,
+                "block_end": 67
+            }
+        ],
+        "Exclusion or modification by the parties": [
+            {
+                "heading": "Exclusion or modification by the parties",
+                "article_number": "11",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 68,
+                "block_end": 69
+            }
+        ],
+        "Usages and practices": [
+            {
+                "heading": "Usages and practices",
+                "article_number": "12",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 70,
+                "block_end": 71
+            }
+        ],
+        "Notice": [
+            {
+                "heading": "Notice",
+                "article_number": "13",
+                "page_start": 7,
+                "page_end": 8,
+                "block_start": 72,
+                "block_end": 77
+            }
+        ],
+        "Manner of formation": [
+            {
+                "heading": "Manner of formation",
+                "article_number": "14",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 78,
+                "block_end": 79
+            }
+        ],
+        "Definition of offer": [
+            {
+                "heading": "Definition of offer",
+                "article_number": "15",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 80,
+                "block_end": 81
+            }
+        ],
+        "Withdrawal of offer": [
+            {
+                "heading": "Withdrawal of offer",
+                "article_number": "16",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 82,
+                "block_end": 83
+            }
+        ],
+        "Revocation of offer": [
+            {
+                "heading": "Revocation of offer",
+                "article_number": "17",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 84,
+                "block_end": 87
+            }
+        ],
+        "Rejection of offer": [
+            {
+                "heading": "Rejection of offer",
+                "article_number": "18",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 88,
+                "block_end": 89
+            }
+        ],
+        "Mode of acceptance": [
+            {
+                "heading": "Mode of acceptance",
+                "article_number": "19",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 90,
+                "block_end": 91
+            }
+        ],
+        "Time of acceptance": [
+            {
+                "heading": "Time of acceptance",
+                "article_number": "20",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 92,
+                "block_end": 93
+            }
+        ],
+        "Acceptance within a fixed period of time": [
+            {
+                "heading": "Acceptance within a fixed period of time",
+                "article_number": "21",
+                "page_start": 8,
+                "page_end": 9,
+                "block_start": 94,
+                "block_end": 99
+            }
+        ],
+        "Late acceptance; delay in transmission": [
+            {
+                "heading": "Late acceptance; delay in transmission",
+                "article_number": "22",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 100,
+                "block_end": 101
+            }
+        ],
+        "Withdrawal of acceptance": [
+            {
+                "heading": "Withdrawal of acceptance",
+                "article_number": "23",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 102,
+                "block_end": 103
+            }
+        ],
+        "Modified acceptance": [
+            {
+                "heading": "Modified acceptance",
+                "article_number": "24",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 104,
+                "block_end": 105
+            }
+        ],
+        "Writings in confirmation": [
+            {
+                "heading": "Writings in confirmation",
+                "article_number": "25",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 106,
+                "block_end": 107
+            }
+        ],
+        "Conclusion of contract dependent on agreement on specific matters or in a specific form": [
+            {
+                "heading": "Conclusion of contract dependent on agreement on specific matters or in a specific form",
+                "article_number": "26",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 108,
+                "block_end": 109
+            }
+        ],
+        "Contract with terms deliberately left open": [
+            {
+                "heading": "Contract with terms deliberately left open",
+                "article_number": "27",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 110,
+                "block_end": 116
+            }
+        ],
+        "Freedom to negotiate": [
+            {
+                "heading": "Freedom to negotiate",
+                "article_number": "28",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 117,
+                "block_end": 118
+            }
+        ],
+        "Duty of confidentiality": [
+            {
+                "heading": "Duty of confidentiality",
+                "article_number": "29",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 119,
+                "block_end": 120
+            }
+        ],
+        "Merger clause": [
+            {
+                "heading": "Merger clause",
+                "article_number": "30",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 121,
+                "block_end": 122
+            }
+        ],
+        "Written modification clauses": [
+            {
+                "heading": "Written modification clauses",
+                "article_number": "31",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 123,
+                "block_end": 124
+            }
+        ],
+        "Contracting under standard terms": [
+            {
+                "heading": "Contracting under standard terms",
+                "article_number": "32",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 125,
+                "block_end": 126
+            }
+        ],
+        "Conflict between standard terms and non-standard terms": [
+            {
+                "heading": "Conflict between standard terms and non-standard terms",
+                "article_number": "33",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 127,
+                "block_end": 128
+            }
+        ],
+        "Battle of forms": [
+            {
+                "heading": "Battle of forms",
+                "article_number": "34",
+                "page_start": 10,
+                "page_end": 11,
+                "block_start": 129,
+                "block_end": 134
+            }
+        ],
+        "Validity of mere agreement": [
+            {
+                "heading": "Validity of mere agreement",
+                "article_number": "35",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 135,
+                "block_end": 136
+            }
+        ],
+        "Initial impossibility": [
+            {
+                "heading": "Initial impossibility",
+                "article_number": "36",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 137,
+                "block_end": 138
+            }
+        ],
+        "Relevant mistake": [
+            {
+                "heading": "Relevant mistake",
+                "article_number": "37",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 139,
+                "block_end": 145
+            }
+        ],
+        "Error in expression or transmission": [
+            {
+                "heading": "Error in expression or transmission",
+                "article_number": "38",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 146,
+                "block_end": 147
+            }
+        ],
+        "Remedies for non-performance": [
+            {
+                "heading": "Remedies for non-performance",
+                "article_number": "39",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 148,
+                "block_end": 152
+            }
+        ],
+        "Fraud": [
+            {
+                "heading": "Fraud",
+                "article_number": "40",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 153,
+                "block_end": 154
+            }
+        ],
+        "Threat": [
+            {
+                "heading": "Threat",
+                "article_number": "41",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 155,
+                "block_end": 156
+            }
+        ],
+        "Confirmation": [
+            {
+                "heading": "Confirmation",
+                "article_number": "42",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 157,
+                "block_end": 158
+            }
+        ],
+        "Loss of right to avoid": [
+            {
+                "heading": "Loss of right to avoid",
+                "article_number": "43",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 159,
+                "block_end": 161
+            }
+        ],
+        "Notice of avoidance": [
+            {
+                "heading": "Notice of avoidance",
+                "article_number": "44",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 162,
+                "block_end": 163
+            }
+        ],
+        "Time limits": [
+            {
+                "heading": "Time limits",
+                "article_number": "45",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 164,
+                "block_end": 165
+            }
+        ],
+        "Partial avoidance": [
+            {
+                "heading": "Partial avoidance",
+                "article_number": "46",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 166,
+                "block_end": 167
+            }
+        ],
+        "Retroactive effect of avoidance": [
+            {
+                "heading": "Retroactive effect of avoidance",
+                "article_number": "47",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 168,
+                "block_end": 169
+            }
+        ],
+        "Mandatory character of the provisions": [
+            {
+                "heading": "Mandatory character of the provisions",
+                "article_number": "48",
+                "page_start": 12,
+                "page_end": 13,
+                "block_start": 170,
+                "block_end": 174
+            }
+        ],
+        "Intention of the parties": [
+            {
+                "heading": "Intention of the parties",
+                "article_number": "49",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 175,
+                "block_end": 176
+            }
+        ],
+        "Interpretation of statements and other conduct": [
+            {
+                "heading": "Interpretation of statements and other conduct",
+                "article_number": "50",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 177,
+                "block_end": 178
+            }
+        ],
+        "Relevant circumstances": [
+            {
+                "heading": "Relevant circumstances",
+                "article_number": "51",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 179,
+                "block_end": 181
+            }
+        ],
+        "Reference to contract or statement as a whole": [
+            {
+                "heading": "Reference to contract or statement as a whole",
+                "article_number": "52",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 182,
+                "block_end": 183
+            }
+        ],
+        "All terms to be given effect": [
+            {
+                "heading": "All terms to be given effect",
+                "article_number": "53",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 184,
+                "block_end": 185
+            }
+        ],
+        "Interpretation against party responsible": [
+            {
+                "heading": "Interpretation against party responsible",
+                "article_number": "54",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 186,
+                "block_end": 190
+            }
+        ],
+        "Linguistic discrepancies": [
+            {
+                "heading": "Linguistic discrepancies",
+                "article_number": "55",
+                "page_start": 14,
+                "page_end": 15,
+                "block_start": 191,
+                "block_end": 196
+            }
+        ],
+        "Express and implied obligations": [
+            {
+                "heading": "Express and implied obligations",
+                "article_number": "56",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 197,
+                "block_end": 198
+            }
+        ],
+        "Implied obligations": [
+            {
+                "heading": "Implied obligations",
+                "article_number": "57",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 199,
+                "block_end": 201
+            }
+        ],
+        "Co-operation between the parties": [
+            {
+                "heading": "Co-operation between the parties",
+                "article_number": "58",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 202,
+                "block_end": 203
+            }
+        ],
+        "Duty to achieve a specific result; duty of best efforts": [
+            {
+                "heading": "Duty to achieve a specific result; duty of best efforts",
+                "article_number": "59",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 204,
+                "block_end": 205
+            }
+        ],
+        "Determination of kind of duty involved": [
+            {
+                "heading": "Determination of kind of duty involved",
+                "article_number": "60",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 206,
+                "block_end": 208
+            }
+        ],
+        "Determination of quality of performance": [
+            {
+                "heading": "Determination of quality of performance",
+                "article_number": "61",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 209,
+                "block_end": 210
+            }
+        ],
+        "Price determination": [
+            {
+                "heading": "Price determination",
+                "article_number": "62",
+                "page_start": 15,
+                "page_end": 16,
+                "block_start": 211,
+                "block_end": 217
+            }
+        ],
+        "Contract for an indefinite period": [
+            {
+                "heading": "Contract for an indefinite period",
+                "article_number": "63",
+                "page_start": 16,
+                "page_end": 17,
+                "block_start": 218,
+                "block_end": 223
+            }
+        ],
+        "Time of performance": [
+            {
+                "heading": "Time of performance",
+                "article_number": "64",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 224,
+                "block_end": 226
+            }
+        ],
+        "Performance at one time or in instalments": [
+            {
+                "heading": "Performance at one time or in instalments",
+                "article_number": "65",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 227,
+                "block_end": 228
+            }
+        ],
+        "Partial performance": [
+            {
+                "heading": "Partial performance",
+                "article_number": "66",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 229,
+                "block_end": 230
+            }
+        ],
+        "Order of performance": [
+            {
+                "heading": "Order of performance",
+                "article_number": "67",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 231,
+                "block_end": 232
+            }
+        ],
+        "Earlier performance": [
+            {
+                "heading": "Earlier performance",
+                "article_number": "68",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 233,
+                "block_end": 234
+            }
+        ],
+        "Place of performance": [
+            {
+                "heading": "Place of performance",
+                "article_number": "69",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 235,
+                "block_end": 241
+            }
+        ],
+        "Payment by cheque or other instrument": [
+            {
+                "heading": "Payment by cheque or other instrument",
+                "article_number": "70",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 242,
+                "block_end": 243
+            }
+        ],
+        "Payment by funds transfer": [
+            {
+                "heading": "Payment by funds transfer",
+                "article_number": "71",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 244,
+                "block_end": 245
+            }
+        ],
+        "Currency of payment": [
+            {
+                "heading": "Currency of payment",
+                "article_number": "72",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 246,
+                "block_end": 248
+            }
+        ],
+        "Currency not expressed": [
+            {
+                "heading": "Currency not expressed",
+                "article_number": "73",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 249,
+                "block_end": 250
+            }
+        ],
+        "Costs of performance": [
+            {
+                "heading": "Costs of performance",
+                "article_number": "74",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 251,
+                "block_end": 252
+            }
+        ],
+        "Imputation of payments": [
+            {
+                "heading": "Imputation of payments",
+                "article_number": "75",
+                "page_start": 18,
+                "page_end": 19,
+                "block_start": 253,
+                "block_end": 258
+            }
+        ],
+        "Imputation of non-monetary obligations": [
+            {
+                "heading": "Imputation of non-monetary obligations",
+                "article_number": "76",
+                "page_start": 19,
+                "page_end": 20,
+                "block_start": 259,
+                "block_end": 263
+            }
+        ],
+        "Non-performance defined": [
+            {
+                "heading": "Non-performance defined",
+                "article_number": "77",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 264,
+                "block_end": 265
+            }
+        ],
+        "Interference by the other party": [
+            {
+                "heading": "Interference by the other party",
+                "article_number": "78",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 266,
+                "block_end": 267
+            }
+        ],
+        "Withholding performance": [
+            {
+                "heading": "Withholding performance",
+                "article_number": "79",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 268,
+                "block_end": 269
+            }
+        ],
+        "Cure by non-performing party": [
+            {
+                "heading": "Cure by non-performing party",
+                "article_number": "80",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 270,
+                "block_end": 274
+            }
+        ],
+        "Additional period for performance": [
+            {
+                "heading": "Additional period for performance",
+                "article_number": "81",
+                "page_start": 20,
+                "page_end": 21,
+                "block_start": 275,
+                "block_end": 281
+            }
+        ],
+        "Force majeure": [
+            {
+                "heading": "Force majeure",
+                "article_number": "82",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 282,
+                "block_end": 283
+            }
+        ],
+        "Performance of monetary obligation": [
+            {
+                "heading": "Performance of monetary obligation",
+                "article_number": "83",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 284,
+                "block_end": 285
+            }
+        ],
+        "Performance of non-monetary obligation": [
+            {
+                "heading": "Performance of non-monetary obligation",
+                "article_number": "84",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 286,
+                "block_end": 288
+            }
+        ],
+        "Repair and replacement of defective performance": [
+            {
+                "heading": "Repair and replacement of defective performance",
+                "article_number": "85",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 289,
+                "block_end": 290
+            }
+        ],
+        "Right to terminate the contract": [
+            {
+                "heading": "Right to terminate the contract",
+                "article_number": "86",
+                "page_start": 21,
+                "page_end": 22,
+                "block_start": 291,
+                "block_end": 298
+            }
+        ],
+        "Notice of termination": [
+            {
+                "heading": "Notice of termination",
+                "article_number": "87",
+                "page_start": 22,
+                "page_end": 22,
+                "block_start": 299,
+                "block_end": 300
+            }
+        ],
+        "Anticipatory non-performance": [
+            {
+                "heading": "Anticipatory non-performance",
+                "article_number": "88",
+                "page_start": 22,
+                "page_end": 22,
+                "block_start": 301,
+                "block_end": 302
+            }
+        ],
+        "Effects of termination in general": [
+            {
+                "heading": "Effects of termination in general",
+                "article_number": "89",
+                "page_start": 22,
+                "page_end": 22,
+                "block_start": 303,
+                "block_end": 304
+            }
+        ],
+        "Restitution": [
+            {
+                "heading": "Restitution",
+                "article_number": "90",
+                "page_start": 22,
+                "page_end": 22,
+                "block_start": 305,
+                "block_end": 306
+            }
+        ],
+        "Set-off": [
+            {
+                "heading": "Set-off",
+                "article_number": "91",
+                "page_start": 22,
+                "page_end": 24,
+                "block_start": 307,
+                "block_end": 318
+            }
+        ],
+        "Assignment of rights and obligations": [
+            {
+                "heading": "Assignment of rights and obligations",
+                "article_number": "92",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 319,
+                "block_end": 320
+            }
+        ],
+        "Assignment of future rights": [
+            {
+                "heading": "Assignment of future rights",
+                "article_number": "93",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 321,
+                "block_end": 322
+            }
+        ],
+        "Limits on assignments and delegations": [
+            {
+                "heading": "Limits on assignments and delegations",
+                "article_number": "94",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 323,
+                "block_end": 328
+            }
+        ],
+        "Contractual prohibition of assignment": [
+            {
+                "heading": "Contractual prohibition of assignment",
+                "article_number": "95",
+                "page_start": 24,
+                "page_end": 25,
+                "block_start": 329,
+                "block_end": 337
+            }
+        ],
+        "Interpretation of words of assignment; effect of acceptance of assignment": [
+            {
+                "heading": "Interpretation of words of assignment; effect of acceptance of assignment",
+                "article_number": "96",
+                "page_start": 25,
+                "page_end": 25,
+                "block_start": 338,
+                "block_end": 340
+            }
+        ],
+        "Contracts to assign in the future, or to transfer proceeds to be received": [
+            {
+                "heading": "Contracts to assign in the future, or to transfer proceeds to be received",
+                "article_number": "97",
+                "page_start": 25,
+                "page_end": 25,
+                "block_start": 341,
+                "block_end": 342
+            }
+        ],
+        "Defences against an assignee": [
+            {
+                "heading": "Defences against an assignee",
+                "article_number": "98",
+                "page_start": 25,
+                "page_end": 25,
+                "block_start": 343,
+                "block_end": 347
+            }
+        ],
+        "Discharge of an obligor on assignment": [
+            {
+                "heading": "Discharge of an obligor on assignment",
+                "article_number": "99",
+                "page_start": 25,
+                "page_end": 26,
+                "block_start": 348,
+                "block_end": 357
+            }
+        ],
+        "Substituted contract": [
+            {
+                "heading": "Substituted contract",
+                "article_number": "101",
+                "page_start": 26,
+                "page_end": 26,
+                "block_start": 358,
+                "block_end": 359
+            }
+        ],
+        "Novation": [
+            {
+                "heading": "Novation",
+                "article_number": "102",
+                "page_start": 26,
+                "page_end": 26,
+                "block_start": 360,
+                "block_end": 361
+            }
+        ],
+        "Accord and satisfaction": [
+            {
+                "heading": "Accord and satisfaction",
+                "article_number": "103",
+                "page_start": 26,
+                "page_end": 27,
+                "block_start": 362,
+                "block_end": 368
+            }
+        ],
+        "Right of third party to enforce contractual term": [
+            {
+                "heading": "Right of third party to enforce contractual term",
+                "article_number": "104",
+                "page_start": 27,
+                "page_end": 27,
+                "block_start": 369,
+                "block_end": 378
+            }
+        ],
+        "Variation and rescission of contract": [
+            {
+                "heading": "Variation and rescission of contract",
+                "article_number": "105",
+                "page_start": 27,
+                "page_end": 28,
+                "block_start": 379,
+                "block_end": 391
+            }
+        ],
+        "Defences available to promisor": [
+            {
+                "heading": "Defences available to promisor",
+                "article_number": "106",
+                "page_start": 28,
+                "page_end": 28,
+                "block_start": 392,
+                "block_end": 400
+            }
+        ],
+        "Enforcement of contract by promisee": [
+            {
+                "heading": "Enforcement of contract by promisee",
+                "article_number": "107",
+                "page_start": 28,
+                "page_end": 28,
+                "block_start": 401,
+                "block_end": 402
+            }
+        ],
+        "Protection of promisor from double liability": [
+            {
+                "heading": "Protection of promisor from double liability",
+                "article_number": "108",
+                "page_start": 28,
+                "page_end": 30,
+                "block_start": 403,
+                "block_end": 410
+            }
+        ],
+        "Right to damages": [
+            {
+                "heading": "Right to damages",
+                "article_number": "109",
+                "page_start": 30,
+                "page_end": 30,
+                "block_start": 411,
+                "block_end": 412
+            }
+        ],
+        "Full compensation": [
+            {
+                "heading": "Full compensation",
+                "article_number": "110",
+                "page_start": 30,
+                "page_end": 30,
+                "block_start": 413,
+                "block_end": 414
+            }
+        ],
+        "Measure of damages": [
+            {
+                "heading": "Measure of damages",
+                "article_number": "111",
+                "page_start": 30,
+                "page_end": 30,
+                "block_start": 415,
+                "block_end": 417
+            }
+        ],
+        "Certainty of harm": [
+            {
+                "heading": "Certainty of harm",
+                "article_number": "112",
+                "page_start": 30,
+                "page_end": 30,
+                "block_start": 418,
+                "block_end": 421
+            }
+        ],
+        "Proof of harm in case of replacement transaction": [
+            {
+                "heading": "Proof of harm in case of replacement transaction",
+                "article_number": "114",
+                "page_start": 30,
+                "page_end": 30,
+                "block_start": 422,
+                "block_end": 423
+            }
+        ],
+        "Proof of harm by current price": [
+            {
+                "heading": "Proof of harm by current price",
+                "article_number": "115",
+                "page_start": 30,
+                "page_end": 30,
+                "block_start": 424,
+                "block_end": 428
+            }
+        ],
+        "Harm due in part to aggrieved party": [
+            {
+                "heading": "Harm due in part to aggrieved party",
+                "article_number": "116",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 429,
+                "block_end": 430
+            }
+        ],
+        "Mitigation of harm": [
+            {
+                "heading": "Mitigation of harm",
+                "article_number": "117",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 431,
+                "block_end": 432
+            }
+        ],
+        "Interest for failure to pay Money": [
+            {
+                "heading": "Interest for failure to pay Money",
+                "article_number": "118",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 433,
+                "block_end": 434
+            }
+        ],
+        "Interest on damages": [
+            {
+                "heading": "Interest on damages",
+                "article_number": "119",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 435,
+                "block_end": 436
+            }
+        ],
+        "Manner of monetary redress": [
+            {
+                "heading": "Manner of monetary redress",
+                "article_number": "120",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 437,
+                "block_end": 438
+            }
+        ],
+        "Currency in which to assess damages": [
+            {
+                "heading": "Currency in which to assess damages",
+                "article_number": "121",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 439,
+                "block_end": 440
+            }
+        ],
+        "Agreed payment for non-performance": [
+            {
+                "heading": "Agreed payment for non-performance",
+                "article_number": "122",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 441,
+                "block_end": 442
+            }
+        ],
+        "Limitation": [
+            {
+                "heading": "Limitation",
+                "article_number": "123",
+                "page_start": 31,
+                "page_end": 32,
+                "block_start": 443,
+                "block_end": 447
+            }
+        ],
+        "Agency; principal; agent": [
+            {
+                "heading": "Agency; principal; agent",
+                "article_number": "124",
+                "page_start": 32,
+                "page_end": 32,
+                "block_start": 448,
+                "block_end": 449
+            }
+        ],
+        "General agent; special agent": [
+            {
+                "heading": "General agent; special agent",
+                "article_number": "125",
+                "page_start": 32,
+                "page_end": 32,
+                "block_start": 450,
+                "block_end": 453
+            }
+        ],
+        "Consent": [
+            {
+                "heading": "Consent",
+                "article_number": "127",
+                "page_start": 32,
+                "page_end": 32,
+                "block_start": 454,
+                "block_end": 455
+            }
+        ],
+        "Authority": [
+            {
+                "heading": "Authority",
+                "article_number": "128",
+                "page_start": 32,
+                "page_end": 32,
+                "block_start": 456,
+                "block_end": 457
+            }
+        ],
+        "Creation of authority": [
+            {
+                "heading": "Creation of authority",
+                "article_number": "129",
+                "page_start": 32,
+                "page_end": 32,
+                "block_start": 458,
+                "block_end": 459
+            }
+        ],
+        "Apparent authority": [
+            {
+                "heading": "Apparent authority",
+                "article_number": "130",
+                "page_start": 32,
+                "page_end": 32,
+                "block_start": 460,
+                "block_end": 461
+            }
+        ],
+        "Creation of apparent authority": [
+            {
+                "heading": "Creation of apparent authority",
+                "article_number": "131",
+                "page_start": 32,
+                "page_end": 33,
+                "block_start": 462,
+                "block_end": 466
+            }
+        ],
+        "Applicability of rules for interpretation of agreements": [
+            {
+                "heading": "Applicability of rules for interpretation of agreements",
+                "article_number": "132",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 467,
+                "block_end": 468
+            }
+        ],
+        "When incidental authority is inferred": [
+            {
+                "heading": "When incidental authority is inferred",
+                "article_number": "133",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 469,
+                "block_end": 470
+            }
+        ],
+        "Inference that agent is to act only for principal’s benefit": [
+            {
+                "heading": "Inference that agent is to act only for principal’s benefit",
+                "article_number": "134",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 471,
+                "block_end": 472
+            }
+        ],
+        "General principle of interpretation": [
+            {
+                "heading": "General principle of interpretation",
+                "article_number": "135",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 473,
+                "block_end": 474
+            }
+        ],
+        "Duty of care and skill": [
+            {
+                "heading": "Duty of care and skill",
+                "article_number": "136",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 475,
+                "block_end": 476
+            }
+        ],
+        "Duty of loyalty": [
+            {
+                "heading": "Duty of loyalty",
+                "article_number": "137",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 477,
+                "block_end": 478
+            }
+        ],
+        "Duty to account for profits arising out of employment": [
+            {
+                "heading": "Duty to account for profits arising out of employment",
+                "article_number": "138",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 479,
+                "block_end": 480
+            }
+        ],
+        "Duty not to act as adverse party without principal's consent": [
+            {
+                "heading": "Duty not to act as adverse party without principal's consent",
+                "article_number": "139",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 481,
+                "block_end": 482
+            }
+        ],
+        "Duty not to compete as to subject matter of agency": [
+            {
+                "heading": "Duty not to compete as to subject matter of agency",
+                "article_number": "140",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 483,
+                "block_end": 484
+            }
+        ],
+        "Duty not to act for one with conflicting interests": [
+            {
+                "heading": "Duty not to act for one with conflicting interests",
+                "article_number": "141",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 485,
+                "block_end": 486
+            }
+        ],
+        "Duty not to use or disclose confidential information": [
+            {
+                "heading": "Duty not to use or disclose confidential information",
+                "article_number": "142",
+                "page_start": 33,
+                "page_end": 34,
+                "block_start": 487,
+                "block_end": 491
+            }
+        ],
+        "Period of employment": [
+            {
+                "heading": "Period of employment",
+                "article_number": "143",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 492,
+                "block_end": 493
+            }
+        ],
+        "Continuing duties after termination of agency": [
+            {
+                "heading": "Continuing duties after termination of agency",
+                "article_number": "144",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 494,
+                "block_end": 496
+            }
+        ],
+        "Liability for loss caused": [
+            {
+                "heading": "Liability for loss caused",
+                "article_number": "145",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 497,
+                "block_end": 498
+            }
+        ],
+        "Liability for things received in breach of duty of loyalty": [
+            {
+                "heading": "Liability for things received in breach of duty of loyalty",
+                "article_number": "146",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 499,
+                "block_end": 500
+            }
+        ],
+        "Liability for use of principal's assets": [
+            {
+                "heading": "Liability for use of principal's assets",
+                "article_number": "147",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 501,
+                "block_end": 502
+            }
+        ],
+        "Principal's choice of remedies": [
+            {
+                "heading": "Principal's choice of remedies",
+                "article_number": "148",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 503,
+                "block_end": 507
+            }
+        ],
+        "Duty of indemnity": [
+            {
+                "heading": "Duty of indemnity",
+                "article_number": "149",
+                "page_start": 35,
+                "page_end": 35,
+                "block_start": 508,
+                "block_end": 509
+            }
+        ],
+        "When duty of indemnity exists": [
+            {
+                "heading": "When duty of indemnity exists",
+                "article_number": "150",
+                "page_start": 35,
+                "page_end": 35,
+                "block_start": 510,
+                "block_end": 512
+            }
+        ],
+        "When no duty of indemnity": [
+            {
+                "heading": "When no duty of indemnity",
+                "article_number": "151",
+                "page_start": 35,
+                "page_end": 35,
+                "block_start": 513,
+                "block_end": 515
+            }
+        ],
+        "Ratification": [
+            {
+                "heading": "Ratification",
+                "article_number": "152",
+                "page_start": 35,
+                "page_end": 35,
+                "block_start": 516,
+                "block_end": 517
+            }
+        ],
+        "Affirmation": [
+            {
+                "heading": "Affirmation",
+                "article_number": "153",
+                "page_start": 35,
+                "page_end": 35,
+                "block_start": 518,
+                "block_end": 522
+            }
+        ],
+        "What acts can be ratified": [
+            {
+                "heading": "What acts can be ratified",
+                "article_number": "154",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 523,
+                "block_end": 524
+            }
+        ],
+        "Purporting to act as agent as a requisite for ratification": [
+            {
+                "heading": "Purporting to act as agent as a requisite for ratification",
+                "article_number": "155",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 525,
+                "block_end": 526
+            }
+        ],
+        "Who can affirm": [
+            {
+                "heading": "Who can affirm",
+                "article_number": "156",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 527,
+                "block_end": 530
+            }
+        ],
+        "Effect of ratification": [
+            {
+                "heading": "Effect of ratification",
+                "article_number": "158",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 531,
+                "block_end": 532
+            }
+        ],
+        "Revocation of authority": [
+            {
+                "heading": "Revocation of authority",
+                "article_number": "159",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 533,
+                "block_end": 534
+            }
+        ],
+        "Liability based upon agency principles": [
+            {
+                "heading": "Liability based upon agency principles",
+                "article_number": "160",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 535,
+                "block_end": 537
+            }
+        ],
+        "Liability of disclosed or partially disclosed principal; general rule": [
+            {
+                "heading": "Liability of disclosed or partially disclosed principal; general rule",
+                "article_number": "161",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 538,
+                "block_end": 541
+            }
+        ],
+        "Unauthorised acts of general agent": [
+            {
+                "heading": "Unauthorised acts of general agent",
+                "article_number": "163",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 542,
+                "block_end": 545
+            }
+        ],
+        "Unauthorised acts of special agents": [
+            {
+                "heading": "Unauthorised acts of special agents",
+                "article_number": "164",
+                "page_start": 37,
+                "page_end": 37,
+                "block_start": 546,
+                "block_end": 550
+            },
+            {
+                "heading": "Unauthorised acts of special agents",
+                "article_number": "170",
+                "page_start": 37,
+                "page_end": 38,
+                "block_start": 561,
+                "block_end": 571
+            }
+        ],
+        "Rights between third person and agent": [
+            {
+                "heading": "Rights between third person and agent",
+                "article_number": "165",
+                "page_start": 37,
+                "page_end": 37,
+                "block_start": 551,
+                "block_end": 552
+            }
+        ],
+        "Defences of principal – in general": [
+            {
+                "heading": "Defences of principal – in general",
+                "article_number": "166",
+                "page_start": 37,
+                "page_end": 37,
+                "block_start": 553,
+                "block_end": 556
+            }
+        ],
+        "Acts of general agents": [
+            {
+                "heading": "Acts of general agents",
+                "article_number": "168",
+                "page_start": 37,
+                "page_end": 37,
+                "block_start": 557,
+                "block_end": 558
+            }
+        ],
+        "Acts of manager appearing to be owner": [
+            {
+                "heading": "Acts of manager appearing to be owner",
+                "article_number": "169",
+                "page_start": 37,
+                "page_end": 37,
+                "block_start": 559,
+                "block_end": 560
+            }
+        ],
+        "Contracts, disclosed agency; general rule": [
+            {
+                "heading": "Contracts, disclosed agency; general rule",
+                "article_number": "173",
+                "page_start": 38,
+                "page_end": 38,
+                "block_start": 572,
+                "block_end": 573
+            }
+        ],
+        "Defences of other party": [
+            {
+                "heading": "Defences of other party",
+                "article_number": "174",
+                "page_start": 38,
+                "page_end": 38,
+                "block_start": 574,
+                "block_end": 575
+            },
+            {
+                "heading": "Defences of other party",
+                "article_number": "179",
+                "page_start": 39,
+                "page_end": 39,
+                "block_start": 589,
+                "block_end": 591
+            }
+        ],
+        "Rights between other party and agent": [
+            {
+                "heading": "Rights between other party and agent",
+                "article_number": "175",
+                "page_start": 38,
+                "page_end": 38,
+                "block_start": 576,
+                "block_end": 577
+            },
+            {
+                "heading": "Rights between other party and agent",
+                "article_number": "178",
+                "page_start": 38,
+                "page_end": 38,
+                "block_start": 584,
+                "block_end": 588
+            }
+        ],
+        "Contracts, undisclosed agency; general rule": [
+            {
+                "heading": "Contracts, undisclosed agency; general rule",
+                "article_number": "176",
+                "page_start": 38,
+                "page_end": 38,
+                "block_start": 578,
+                "block_end": 580
+            }
+        ],
+        "Principal excluded from transaction": [
+            {
+                "heading": "Principal excluded from transaction",
+                "article_number": "177",
+                "page_start": 38,
+                "page_end": 38,
+                "block_start": 581,
+                "block_end": 583
+            }
+        ],
+        "Status of agent as party to a contract": [
+            {
+                "heading": "Status of agent as party to a contract",
+                "article_number": "180",
+                "page_start": 39,
+                "page_end": 39,
+                "block_start": 592,
+                "block_end": 593
+            }
+        ],
+        "Agent who warrants authority": [
+            {
+                "heading": "Agent who warrants authority",
+                "article_number": "181",
+                "page_start": 39,
+                "page_end": 39,
+                "block_start": 594,
+                "block_end": 597
+            }
+        ],
+        "Agent surety for principal": [
+            {
+                "heading": "Agent surety for principal",
+                "article_number": "183",
+                "page_start": 39,
+                "page_end": 39,
+                "block_start": 598,
+                "block_end": 599
+            }
+        ],
+        "Election by other party to hold principal; agency undisclosed": [
+            {
+                "heading": "Election by other party to hold principal; agency undisclosed",
+                "article_number": "184",
+                "page_start": 39,
+                "page_end": 40,
+                "block_start": 600,
+                "block_end": 604
+            }
+        ],
+        "Rules of interpretation": [
+            {
+                "heading": "Rules of interpretation",
+                "article_number": "1",
+                "page_start": 40,
+                "page_end": 40,
+                "block_start": 605,
+                "block_end": 608
+            }
+        ],
+        "Legislation in the DIFC": [
+            {
+                "heading": "Legislation in the DIFC",
+                "article_number": "2",
+                "page_start": 40,
+                "page_end": 40,
+                "block_start": 609,
+                "block_end": 611
+            }
+        ],
+        "Defined terms": [
+            {
+                "heading": "Defined terms",
+                "article_number": "3",
+                "page_start": 40,
+                "page_end": 41,
+                "block_start": 612,
+                "block_end": 620
+            }
+        ]
+    }
+}

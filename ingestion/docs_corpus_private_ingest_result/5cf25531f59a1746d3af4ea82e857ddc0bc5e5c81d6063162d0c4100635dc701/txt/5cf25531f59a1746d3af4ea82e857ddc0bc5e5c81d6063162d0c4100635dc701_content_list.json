@@ -1,0 +1,559 @@
+[
+    {
+        "type": "text",
+        "text": "TCD 001/2024 Architeriors Interior Design (L.L.C) v Emirates National Investment Co (L.L.C) ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            171,
+            882,
+            224
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SEPTEMBER 23, 2025 TECHNOLOGY AND CONSTRUCTION DIVISION - ORDERS ",
+        "bbox": [
+            43,
+            229,
+            764,
+            247
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claim No: TCD 001/2024 ",
+        "bbox": [
+            726,
+            284,
+            959,
+            302
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS ",
+        "bbox": [
+            218,
+            319,
+            781,
+            338
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IN THE COURT OF FIRST INSTANCE ",
+        "text_level": 1,
+        "bbox": [
+            38,
+            354,
+            388,
+            374
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BETWEEN ",
+        "bbox": [
+            40,
+            388,
+            146,
+            406
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARCHITERIORS INTERIOR DESIGN (L.L.C) ",
+        "bbox": [
+            297,
+            423,
+            700,
+            443
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Claimant ",
+        "bbox": [
+            875,
+            457,
+            959,
+            475
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "bbox": [
+            480,
+            492,
+            517,
+            507
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EMIRATES NATIONAL INVESTMENT CO (L.L.C) ",
+        "bbox": [
+            277,
+            525,
+            722,
+            544
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Defendant ",
+        "text_level": 1,
+        "bbox": [
+            862,
+            560,
+            959,
+            577
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ORDER WITH REASONS OF H.E. JUSTICE ROGER STEWART ",
+        "text_level": 1,
+        "bbox": [
+            210,
+            615,
+            789,
+            636
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UPON the Part 7 Claim Form dated 24 April 2024 (the “Claim”) ",
+        "bbox": [
+            42,
+            680,
+            603,
+            699
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Judgment of H.E. Justice Roger Stewart dated 31 July 2025 (the “Judgment”) ",
+        "bbox": [
+            43,
+            715,
+            885,
+            734
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Order with Reasons of H.E. Justice Roger Stewart dated 22 August 2025 (the “Order”) ",
+        "bbox": [
+            50,
+            751,
+            961,
+            770
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Defendant’s Application No. TCD-001-2024/7 dated 2 September 2025 (the “Application” or “Defendant’s Application”) ",
+        "bbox": [
+            40,
+            787,
+            963,
+            831
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Claimant’s evidence in answer to the Application dated 10 September 2025 ",
+        "bbox": [
+            45,
+            847,
+            865,
+            866
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Defendant’s evidence in reply dated 17 September 2025 ",
+        "bbox": [
+            43,
+            883,
+            699,
+            901
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Defendant serving a skeleton argument on 19 September 2025 ",
+        "bbox": [
+            40,
+            919,
+            756,
+            938
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AND UPON the Claimant providing submissions in respect of the Defendant’s skeleton argument by way of email correspondence dated 22 September 2025 ",
+        "bbox": [
+            40,
+            20,
+            961,
+            64
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AND PURSUANT TO the Rules of the DIFC Courts (the “RDC”) ",
+        "bbox": [
+            42,
+            79,
+            611,
+            99
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IT IS HEREBY ORDERED THAT: ",
+        "text_level": 1,
+        "bbox": [
+            43,
+            115,
+            337,
+            134
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The Defendant’s Application: ",
+        "bbox": [
+            43,
+            149,
+            324,
+            167
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) for an extension of time for fi ling the Appellant’s Notice (including its application for permission to appeal; and (b) For permission to fi le a skeleton argument within 21 days of the Appellant’s Notice; shall be adjourned until the earlier of the date upon the Claimant fi les submissions in opposition to the grant of permission for appeal, or by no later than 4pm on 10 October 2025. ",
+        "bbox": [
+            35,
+            181,
+            963,
+            318
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. The Defendant’s Application for a stay of the Judgment and the Order is refused. ",
+        "bbox": [
+            38,
+            332,
+            786,
+            350
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. The costs of the Application shall be reserved. ",
+        "bbox": [
+            40,
+            365,
+            478,
+            384
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Issued by:   \nDelvin Sumo   \nAssistant Registrar   \nDate of issue: 23 September 2025   \nAt: 12pm ",
+        "bbox": [
+            647,
+            398,
+            959,
+            516
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE OF REASONS ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            532,
+            289,
+            550
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Following a four day trial between 30 June and 3 July 2025, a judgment was given in favour of the Claimant in the sum of AED 2,719,662.58 on 31 July 2025. ",
+        "bbox": [
+            42,
+            564,
+            961,
+            608
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. On 22 August 2025, the Court ordered: ",
+        "bbox": [
+            40,
+            623,
+            416,
+            640
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) the Defendant to pay interest of AED 522,533 to 19 August 2025 and continuing at a daily rate of AED 670.61 until payment; and (b) The Defendant to pay the Claimant’s costs assessed at AED 935,778.83. ",
+        "bbox": [
+            65,
+            655,
+            963,
+            732
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. In the absence of a direction from the Court, any appellant’s notice against the judgment was required to be fi led by 21 August 2025 (RDC 44.10). Further, the Appellant’s Notice was required to include or be accompanied by a skeleton argument unless it was impracticable (RDC 44.29 and 44.30). ",
+        "bbox": [
+            38,
+            745,
+            961,
+            837
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. On 2 September 2025, the Defendant issued an application seeking: ",
+        "bbox": [
+            38,
+            850,
+            680,
+            870
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) An extension of time for fi ling the Appellant’s notice;   \n(b) Permission to fi le the Defendant’s skeleton argument within 21 days of the Appellant’s Notice; and ",
+        "bbox": [
+            75,
+            883,
+            961,
+            959
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(c) A stay of the judgment and the orders dated 31 July 2025 until the appeal is determined by the Court of Appeal. ",
+        "bbox": [
+            75,
+            17,
+            963,
+            60
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. The Application was accompanied by a witness statement dated 2 September 2025 from Sophia Randall which materially: ",
+        "bbox": [
+            45,
+            66,
+            963,
+            109
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) Apologised to the Court for the late Appellant’s Notice;   \n(b) Stated that a decision to appeal had been made on 26 August;   \n(c) Stated that it was the fi rst time the Defendant had been involved in the DIFC Courts;   \n(d) Stated that Mr Yates, the Defendant’s Counsel at trial, had been instructed to settle the Skeleton Argument but was engaged on a trial due to commence on 3 September 2025;   \n(e) Asserted that there would be irremediable prejudice if the stay were not granted as it was likely to be diffi cult if not impossible to recover monies from the Defendant and identifi ed a judgment which had been obtained by Glory, a nominated sub- contractor, which the Defendant asserted had not been paid. ",
+        "bbox": [
+            70,
+            122,
+            964,
+            369
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. On 10 September, the Claimant served a witness statement together with a statement of response with reasons which objected to the Application, asserted that the opposition was tactical and likely prompted by enforcement, that the Defendant might be seeking to dissipate assets and that there was no solid evidence of prejudice. Indemnity costs were also sought. ",
+        "bbox": [
+            40,
+            384,
+            961,
+            475
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. On 17 September, the Defendant fi led a reply witness statement together with responsive submissions which responded to the contentions made by the Claimant. It was said that it was expected that it would be possible to fi le the skeleton argument shortly and prior to the 21 days expected. Reliance was also placed on the failure to pay the judgment in favour of Glory which was said to be AED 1,174,394.14 on 17 June 2025 and the failure to provide management accounts or other evidence of fi nancial standing. ",
+        "bbox": [
+            40,
+            489,
+            961,
+            629
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8. On 19 September 2025, the Defendant served its skeleton argument in support of its application for permission to appeal. ",
+        "bbox": [
+            40,
+            643,
+            963,
+            686
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9. On 22 September 2025, the Claimant sent by email submissions to the effect that service of the skeleton argument was procedurally improper and that the skeleton argument should be ignored. ",
+        "bbox": [
+            38,
+            699,
+            961,
+            744
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            760,
+            147,
+            777
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. There is no dispute but that the Notice of Appeal was fi led late and that a retrospective extension of time is required if the appeal is to succeed. Any Notice should have been fi led by 21 August but was only served on 2 September – that is 12 days late. ",
+        "bbox": [
+            42,
+            793,
+            959,
+            859
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11. Although the parties set out contentions as to the factors which are to be taken into account, one of the most important factors, namely whether there are any real grounds for the appeal, is very diffi cult to evaluate without a skeleton argument. The Notice referred to 3 grounds, all of which are points of fact. ",
+        "bbox": [
+            40,
+            873,
+            961,
+            965
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "12. The skeleton argument was only served on 19 September 2025, being 29 days after it should have been served on 21 August 2025 (and 8 days after it should have been served even with 21 days from when the Notice should have been served). ",
+        "bbox": [
+            42,
+            17,
+            959,
+            85
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "13. By reason of the delay in service of the skeleton, the Claimant has not had the opportunity to make written submissions in opposition to the application for permission pursuant to RDC 44.14. Although the Claimant objects to the skeleton argument, I consider that it is helpful in amplifying the proposed grounds of appeal. The Claimant is entitled, if it wishes, to identify points which the Court should consider in determining whether permission to appeal should be granted. ",
+        "bbox": [
+            40,
+            98,
+            961,
+            215
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14. The Court would want to consider the application for permission to appeal carefully and with the benefi t of the Claimant’s submissions – particularly where the appeal seeks the reconsideration of factual issues and is against a TCD decision after a 4 day trial. At present, the Court considers that, given it is accepted that the appeal raises issues of fact, it is only if there was no evidence to support the challenged conclusions or the conclusions were ones which no reasonable judge could have reached that there is any basis for permission being granted. ",
+        "bbox": [
+            40,
+            228,
+            963,
+            368
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15. If there were an appeal with real prospects of success, it might well be that the requisite permission to proceed out of time would be granted given the length of delay and other matters – in particular the prejudice to the Defendant in not having an appeal considered would outweigh the prejudice to the Claimant caused by the failure to appeal in time. ",
+        "bbox": [
+            40,
+            381,
+            961,
+            473
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "16. In the circumstances, it appears appropriate to adjourn the Application until either the Claimant has fi led submissions in opposition to the application for permission to appeal or the time for doing do has expired. ",
+        "bbox": [
+            42,
+            487,
+            959,
+            554
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "17. At present, I do not consider that a stay is appropriate. Although there is some evidence that the Claimant might be impecunious, the evidence is not strong. Further, the claim was prosecuted by the Claimant to a substantive trial where substantial costs were incurred – indicating the apparent solvency of the Claimant. There is no general right to a stay. Indeed, in general judgments should be enforced pending appeal. The prospects of permission to appeal being granted and the appeal succeeding presently appear unlikely. The failure to apply for permission to appeal within time was entirely due to the fault of the Defendant. To the extent that it is exposed to the risk of enforcement, the Defendant has only itself to blame. In the absence of such an application, the Claimant was entitled to assume that the Judgment was enforceable ",
+        "bbox": [
+            38,
+            568,
+            961,
+            781
+        ],
+        "page_idx": 3
+    }
+]

@@ -1,0 +1,548 @@
+{
+    "0": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "A Dubai International Financial Centre ",
+        "level": 1
+    },
+    "1": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "CONSULTATION PAPER NO. 3 ",
+        "level": 2
+    },
+    "2": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "APRIL 2021 ",
+        "level": 3
+    },
+    "3": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "INTELLECTUAL PROPERTYREGULATIONS",
+        "level": 1
+    },
+    "4": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "Annex 1 ",
+        "level": 2
+    },
+    "5": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "CONSULTATION PAPER NO. 3 ",
+        "level": 2
+    },
+    "6": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PROPOSAL RELATING TO A NEW INTELLECTUAL PROPERTYREGULATIONS",
+        "level": 1
+    },
+    "7": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Why are we issuing this paper? ",
+        "level": 2
+    },
+    "8": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "1. The Dubai International Financial Centre Authority (“DIFCA”) proposes to enact new Intellectual Property Regulations pursuant to the DIFC Intellectual Property Law No. 4 of 2019 (the DIFC IP Law). This Consultation Paper No. 3 of 2021 (“Consultation Paper”) seeks public comments on the proposed new Intellectual Property Regulations (the Proposed Regulations). ",
+        "level": 3
+    },
+    "9": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Who should read this paper? ",
+        "level": 2
+    },
+    "10": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2. This Consultation Paper would be of interest to persons conducting or proposing to conduct business in the DIFC. In particular: ",
+        "level": 3
+    },
+    "11": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "a. Companies currently operating in the DIFC or intending to operate in the DIFC; b. Parties seeking to enter into transactions with companies in the DIFC; c. Entrepreneurs, start-ups and SMEs looking to join the DIFC Fin-Tech Hive; and d. Legal advisors ",
+        "level": 4
+    },
+    "12": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "How to provide comments ",
+        "level": 2
+    },
+    "13": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "3. All comments should be provided to the person specified below: ",
+        "level": 3
+    },
+    "14": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates   \nor e-mailed to: consultation@difc.ae ",
+        "level": 4
+    },
+    "15": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "4. You may choose to identify the organisation you represent in your comments. ",
+        "level": 3
+    },
+    "16": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "5. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "level": 3
+    },
+    "17": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "What happens next? ",
+        "level": 2
+    },
+    "18": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "6. The deadline for providing comments on the proposals in this Consultation Paper is 9 May 2021. ",
+        "level": 3
+    },
+    "19": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "level": 1
+    },
+    "20": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "2 ",
+        "level": 5
+    },
+    "21": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "7. Once we receive your comments, we will consider if any further refinements are required to the Proposed Regulations. Once DIFCA considers the Proposed Regulations to be in a suitable form, it will be enacted as a new DIFC regulation to come in to force on a date specified and published. ",
+        "level": 3
+    },
+    "22": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "8. The Proposed Regulations is in draft form only. You should not act on it until the Proposed Regulations are formally enacted. We will issue a notice on our website when this happens. ",
+        "level": 3
+    },
+    "23": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Defined terms ",
+        "level": 2
+    },
+    "24": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "9. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase and are defined in the Proposed Regulations. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "level": 3
+    },
+    "25": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Background ",
+        "level": 2
+    },
+    "26": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "10. DIFC IP Law was enacted in November 2019, which regulates the enforcement of the intellectual property rights in the DIFC, to enable DIFC entities to protect their intellectual property within the DIFC and to establish DIFC as a safe environment for creativity and innovation. ",
+        "level": 3
+    },
+    "27": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "11. Part 6 of the DIFC IP Law creates the position of the Commissioner of Intellectual Property (the Commissioner) who is responsible for administering and enforcing the DIFC IP Law. The Commissioner has several powers and functions under the DIFC IP Law, including; promoting the DIFC IP Law, coordinating with the UAE local authorities with respect to the enforcement of the DIFC IP Law; receiving and deciding on all complaints filed in connection with the DIFC IP Law; imposing fines for non-compliance with the DIFC IP Law and any related Regulations. ",
+        "level": 3
+    },
+    "28": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "12. The DIFCA plans to enact the Proposed Regulations after consultation with the Commissioner pursuant to Article 60 of the DIFC IP Law, to facilitate the administration and enforcement of the DIFC IP Law. ",
+        "level": 3
+    },
+    "29": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "13. In drafting the Proposed Regulations, we have considered the powers and functions of the Commissioner under the DIFC IP Law, and best practices for administrative bodies to handle complaints related to intellectual property rights. ",
+        "level": 3
+    },
+    "30": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Key features of the Proposed Regulations ",
+        "level": 2
+    },
+    "31": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "14. The key features of the Proposed Regulations include the following: ",
+        "level": 3
+    },
+    "32": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "3 ",
+        "level": 5
+    },
+    "33": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "level": 1
+    },
+    "34": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(a) procedures for filing and processing complaints filed with the Commissioner with respect to the violation of the DIFC IP Law – see paragraphs 15- 20;   \n(b) inspection and investigations to be carried out by the Commissioner – see paragraph 21;   \n(c) establishing a Register of Experts with the Commissioner – see paragraph 22-24;   \n(d) fees and Costs to be incurred during the complaint - see paragraphs 25-27;   \n(e) directions and referring complaints to the DIFC Courts by the Commissioner– see paragraphs 28-29;   \n(f) coordination with the different authorities – see paragraph 30; and   \n(g) miscellaneous provisions. ",
+        "level": 4
+    },
+    "35": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "Procedures for filing and processing complaints ",
+        "level": 2
+    },
+    "36": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "15. The Proposed Regulations set out the process and requirements for filing a complaint with the Commissioner; including the information and documents required to be submitted by a Complainant for the complaint to be acceptable. ",
+        "level": 3
+    },
+    "37": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "16. The Proposed Regulations provide for certain information to be included in a complaint; these include, name, address of Complainant; name and details of the Respondent; the details of the complaint; detailed statement of the alleged facts which the person believes gives rise to the Complaint; and the relief sought by Complainant1. ",
+        "level": 3
+    },
+    "38": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "17. The form of evidences required to be submitted in support of a complaint has not been specified, as parties to a complaint may submit their evidences in any form, including witness evidences. This approach allows more flexibility to the parties to a complaint to support their arguments, taking into consideration the diverse nature of the intellectual property rights2. ",
+        "level": 3
+    },
+    "39": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "18. The Proposed Regulations provide timelines for the submission of documents, notifications and responses by the Respondent or Complainant. Timelines provided can be extended by the Commissioner, if there was proper reasoning for such extension3. ",
+        "level": 3
+    },
+    "40": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "19. The Commissioner may conduct meetings with the parties to a complaint, to allow for further explanation of complaint aspects to allow the Commissioner to issue a direction. ",
+        "level": 3
+    },
+    "41": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "20. The complaint, supporting documents and responses shall all be in English. The Commissioner may request translation of documents that are not in English if required. ",
+        "level": 3
+    },
+    "42": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "1 See Regulations 2.1.2 of the Proposed Regulations 2 See Regulations 2.1.3 of the Proposed Regulations 3 See Regulations 2.1.5, 2.1.6, 2.1.7 & 2.1.9 of the Proposed Regulations ",
+        "level": 5
+    },
+    "43": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "level": 1
+    },
+    "44": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "4 ",
+        "level": 5
+    },
+    "45": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Q1. The DIFC Authority has attempted to make the process of filing a complaint with the Commissioner simple and flexible, while providing the Commissioner with all the procedures required to fully investigate the matter and take appropriate action. Q2. Do you believe that the complaint process and procedures outlined in the Proposed Regulations are sufficient? If not, please provide suggestions to improve or enhance these procedures. ",
+        "level": 4
+    },
+    "46": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Inspections and investigations carried out by the Commissioner ",
+        "level": 2
+    },
+    "47": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "21. Pursuant to Article 66(3) of the DIFC IP Law, the Commissioner must carry out, all reasonable and necessary inspections and investigations to establish a violation of the DIFC IP Law. The Proposed Regulations detail the inspection and investigations that the Commissioner may undertake, which include the following: ",
+        "level": 3
+    },
+    "48": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(a) inspection of the Respondent premises4; ",
+        "level": 4
+    },
+    "49": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "The Proposed Regulations provide details of the procedures for carrying out any inspection, in which the Commissioner may coordinate with the relevant authorities, when required. The inspection may result in seizure of infringing products, machines, tools and equipment used in the infringement. ",
+        "level": 4
+    },
+    "50": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Inspection is a very important process in intellectual property infringement, as it helps in collecting evidence to confirm the infringement and prevents the Respondent from disposing of evidence related to the infringement. Therefore, the Proposed Regulations allow an inspection to be performed without notifying the Respondent. ",
+        "level": 4
+    },
+    "51": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "The Commissioner (or his delegate) shall prepare a detailed report after the inspection is conducted, which would form a part of a complaint file. ",
+        "level": 4
+    },
+    "52": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "If the Commissioner decided to seize any infringing items including goods, machines, materials, tools and equipment found at the Respondent's premises, the Complainant shall arrange for the storage at a storage facility approved by the Commissioner5. ",
+        "level": 4
+    },
+    "53": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(b) appointing experts to provide reports on technical matters or assisting in inspection; ",
+        "level": 4
+    },
+    "54": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "4 See Regulation 2.2.1 -2.2.4 of the Proposed Regulation 5 See Regulation 2.2.8 of the Proposed Regulations ",
+        "level": 5
+    },
+    "55": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "level": 1
+    },
+    "56": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "5 ",
+        "level": 5
+    },
+    "57": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "considering the diverse nature of intellectual property rights and the possibility of complex technical matters being involved, especially in relation to patents, utility certificates, designs and copyright, the Commissioner may require assistance during an inspection6 or a technical opinion to assist in making a decision in relation to a complaint. Accordingly, the Proposed Regulations allow the Commissioner to appoint an expert, as part of the complaint process, who shall provide assistance in inspection or provide a report addressing the specific issues raised by the Commissioner. Please refer to paragraphs 22-24 below for further information. ",
+        "level": 4
+    },
+    "58": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "Q3. Do you believe that the process of inspection and further investigation of a complaint as detailed in the Proposed Regulations are sufficient? Do you have any suggestions in this respect? ",
+        "level": 4
+    },
+    "59": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "Establishing a Register of Experts ",
+        "level": 2
+    },
+    "60": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "22. The Commissioner may appoint an expert as part of the complaint process under the Proposed Regulations, in order to assist the Commissioner to investigate and/or make a direction or decision in relation to a Complaint. In order to facilitate this procedure and allow the Commissioner to appoint experts in a prompt manner, the Proposed Regulations set out a process to enable the Commissioner to establish a register of approved experts in different technical fields7. ",
+        "level": 3
+    },
+    "61": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "23. An expert may be listed in the Register of experts after submitting an application to the Commissioner, along with the prescribed fee. ",
+        "level": 3
+    },
+    "62": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "24. The Commissioner will decide the charges payable to an expert appointed in a complaint, taking into consideration the complexity of the subject matter and the task assigned to the expert. The charges of the expert shall be borne by the Complainant. ",
+        "level": 3
+    },
+    "63": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "Q4. Do you believe that a register of experts is necessary or desirable to assist the Commissioner in making a decision in relation to a complaint?   \nQ5. Do you have any specific suggestions for conditions or requirements relating to the appointment of experts onto the Register of Experts or in relation to the qualifications and experience of the experts? ",
+        "level": 4
+    },
+    "64": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "6 See Regulation 2.2.5 of the Proposed Regulations 7 See Regulation 2.4 of the Proposed Regulations ",
+        "level": 5
+    },
+    "65": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "6 ",
+        "level": 5
+    },
+    "66": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "level": 1
+    },
+    "67": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Fees and costs ",
+        "level": 2
+    },
+    "68": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "25. The Proposed Regulations provide for a list of fees which include filing complaints, carrying out inspections, registering experts. ",
+        "level": 3
+    },
+    "69": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "26. Taking into consideration the possible costs incurred in the process of investigating a complaint, including; inspection, seizure, storage, expert appointment and other costs, the Proposed Regulations require an undertaking to be submitted by the Complainant to cover all costs incurred 8. ",
+        "level": 3
+    },
+    "70": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "27. The cost incurred and covered by the Complainant will be recovered if the complaint is decided in favour of the Complainant. ",
+        "level": 3
+    },
+    "71": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Q6. Do you agree to this approach in requesting an undertaking to cover the cost, as a requirement to accept the complaint? ",
+        "level": 4
+    },
+    "72": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Directions ",
+        "level": 2
+    },
+    "73": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "28. The Proposed Regulations enable the Commissioner to issue various directions and measures to be ordered, which are based on Article 66 of the DIFC IP Law9. The direction can be either: ",
+        "level": 3
+    },
+    "74": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) Accepting the complaint and ordering specific measures10;   \n(b) Rejecting the complaint 11 , where the Commissioner conclude that no violation was committed; or   \n(c) Requesting the parties to refer to the Court12 it is proposed that this option be used where the nature of the complaint is complex or the Commissioner was unable to conclude whether a violation of the law was committed. ",
+        "level": 4
+    },
+    "75": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "29. The Proposed Regulations set out the requirement relating to the issuance of directions and the particulars that must be contained in a direction, including: statement of facts, the measures ordered, the relevant articles of law being violated, cost to be recovered and other particulars. The aim is to ensure that directions are clear and contain all the grounds relied on in issuing a direction, which will assist the Court in reviewing the direction, if required. ",
+        "level": 3
+    },
+    "76": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "8 See Regulation 2.1.3(e) of the Proposed Regulations 9 See Regulation 3 of the Proposed Regulations 10 See Regulation 3.1.1 (a) of the Proposed Regulations 11 See Regulation 3.1.1 (b) of the Proposed Regulations 12 See Regulation 3.1.1 (c) of the Proposed Regulations ",
+        "level": 5
+    },
+    "77": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "level": 1
+    },
+    "78": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "7 ",
+        "level": 5
+    },
+    "79": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Q7. Do you believe that the Proposed Regulations sufficiently cover the particulars to be included in a direction? Do you suggest any amendments to the particulars or additional particulars to be added? ",
+        "level": 4
+    },
+    "80": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Coordination with authorities ",
+        "level": 2
+    },
+    "81": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "30. Enforcement of the intellectual property within the DIFC will require cooperation with the UAE Federal and local authorities responsible for the enforcement of intellectual property. In addition, the Commissioner may require the assistance of various authorities to facilitate his duties to enforce and administer the DIFC IP Law. Therefore, the Proposed Regulations allow the Commissioner to sign agreements or memorandums of understanding with the relevant authorities in the UAE to regulate such cooperation13. ",
+        "level": 3
+    },
+    "82": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Q8. Do you suggest any further aspect of cooperation with authorities to be included in the Proposed Regulations? ",
+        "level": 4
+    },
+    "83": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Miscellaneous ",
+        "level": 2
+    },
+    "84": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Q9. Are there any other issues arising in connection with the Proposed Regulations which are in your opinion not adequately or appropriately dealt with? If so, please provide details. ",
+        "level": 4
+    },
+    "85": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "Legislative Proposal ",
+        "level": 2
+    },
+    "86": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "31. This legislative proposal contains the following: ",
+        "level": 3
+    },
+    "87": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "a. the Proposed Regulations (at Annex A);   \nb. a table of comments to provide your views and comments on the consultation paper (at Annex B). ",
+        "level": 4
+    },
+    "88": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "13 See Regulation 5.1 of the Proposed Regulations ",
+        "level": 5
+    },
+    "89": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "level": 1
+    },
+    "90": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "8 ",
+        "level": 5
+    }
+}

@@ -1,0 +1,3348 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            389,
+            343,
+            605,
+            391
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW DIFC LAW NO. 5 OF 2004 ",
+        "text_level": 1,
+        "bbox": [
+            122,
+            488,
+            878,
+            569
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Consolidated Version No. 2 (March 2022) ",
+        "bbox": [
+            393,
+            629,
+            605,
+            659
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As Amended by ",
+        "bbox": [
+            436,
+            674,
+            559,
+            689
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC Laws Amendment Law DIFC Law No. 2 of 2022 ",
+        "bbox": [
+            386,
+            703,
+            610,
+            734
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DIFC Laws Amendment Law DIFC Law No. 8 of 2018 ",
+        "bbox": [
+            386,
+            750,
+            610,
+            778
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            450,
+            79,
+            546,
+            93
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 1: GENERAL. ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            107,
+            892,
+            120
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Title and Commencement . ... 1   \n2. Legislative authority... 1   \n3. Application of the law ........   \n4. Date of enactment . ....................................................................................................................... .1   \n5. Commencement....... ....................................................................................................................................... 1   \n6. Interpretation ...... ............................................................................................................................   \n7. The Registrar... 1 ",
+        "bbox": [
+            105,
+            122,
+            892,
+            216
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 2: FORMATION AND REGISTRATION ... ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            227,
+            889,
+            241
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8. Method of formation .... ... 2   \n9. Limited Liability Partnership Agreement. .. 2   \n10. Registration .. .. 3   \n11. Effect of registration . .3 ",
+        "bbox": [
+            107,
+            243,
+            892,
+            297
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 3: ADMINISTRATION OF AFFAIRS OF A LIMITED LIABILITY PARTNERSHIP.. .. 4 ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            309,
+            889,
+            323
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "12. Licence .. .. 4   \n13. Conduct of Business in the DIFC. .. 4   \n14. Names, records and registers.. .. 4 ",
+        "bbox": [
+            107,
+            324,
+            892,
+            365
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 4: CORPORATE CAPACITY AND TRANSACTIONS .... ",
+        "text_level": 1,
+        "bbox": [
+            97,
+            375,
+            889,
+            388
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "15. Capacity of Limited Liability Partnership ....   \n16. Transactions entered into prior to corporate existence .................. ",
+        "bbox": [
+            99,
+            391,
+            885,
+            418
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 5: MEMBERS .. ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            429,
+            890,
+            442
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "17. Members..... \\*||||||||||||||||||||||||||||||||||\\* .... 6   \n18. Relationship of Members ....................................................................................................................... ..... 6   \n19. Duties of Members ...... ........ 6   \n20. Members as agents . ....................................................................................... .... 6   \n21. Assumptions in relation to Members... ……………………………………………………………………\\* .... 7   \n22. Ex-Members.... ........................................................................ ... 7   \n23. Designated Members... .................................................................................................. ...... 8   \n24. Registration of membership changes .............................................. ..... 8 ",
+        "bbox": [
+            105,
+            444,
+            894,
+            554
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 6: ACCOUNTS AND AUDIT.. 10 ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            564,
+            889,
+            579
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1 - ACCOUNTS . 10 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            592,
+            887,
+            606
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "25. Maintenance of Accounting Records . . 10   \n26. Financial years . .. 10   \n27. Accounts... . 10   \n28. Provision of copy of accounts to Member.. . 11 ",
+        "bbox": [
+            105,
+            607,
+            894,
+            662
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 2 - AUDITORS . 11 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            675,
+            890,
+            688
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "29. Appointment and removal of auditors...... .......................................................................................... ... 11   \n30. Auditors' report to the Members.. ........................................................................................... . 11   \n31. 32. Auditors' duties and powers .....Resignation of an auditor ......... ................................................................................................... ... 11... 12   \n33. Co-operation with auditors... ........................................................................................... ... 12   \n34. Obligation of Disclosure to the Registrar .. ...................................................................................... .. 13 ",
+        "bbox": [
+            105,
+            690,
+            892,
+            772
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 7: RECOGNISED LIMITED LIABILITY PARTNERSHIPS.. .. 14 ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            783,
+            890,
+            797
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "35. Foreign Limited Liability Partnerships .. .. 14   \n36. Requirements of a Recognised Limited Liability Partnership. .. 14   \n37. Conduct of business in the DIFC . 14   \n38. Maintenance of Accounting Records . .15 ",
+        "bbox": [
+            105,
+            799,
+            892,
+            853
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 8: POWERS AND REMEDIES... 16 ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            864,
+            892,
+            878
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "39. Application of Operating Law... . 16   \n40. Strike off and Restoration . .16 ",
+        "bbox": [
+            99,
+            879,
+            894,
+            907
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            517,
+            41,
+            870,
+            55
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            494,
+            936,
+            504,
+            950
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PART 9: MISCELLANEOUS... 17 ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            78,
+            894,
+            93
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "41. Public Register .... .17   \n42. Power to make Regulations..... .. 17   \n43. Waivers and Modification of Law or Regulations . .17   \n44. Fees ... . 18 ",
+        "bbox": [
+            105,
+            95,
+            894,
+            149
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Schedule 1 .... 19 ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            161,
+            892,
+            173
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Schedule 2...................... 22 ",
+        "bbox": [
+            95,
+            177,
+            895,
+            187
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            515,
+            41,
+            870,
+            57
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ii ",
+        "bbox": [
+            492,
+            938,
+            505,
+            948
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PART 1: GENERAL ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            57,
+            258,
+            71
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. ",
+        "bbox": [
+            105,
+            86,
+            121,
+            99
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Title and Commencement ",
+        "text_level": 1,
+        "bbox": [
+            164,
+            86,
+            354,
+            99
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law may be cited as the “Limited Liability Partnership Law 2004\". ",
+        "bbox": [
+            166,
+            114,
+            657,
+            129
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Legislative authority ",
+        "text_level": 1,
+        "bbox": [
+            166,
+            143,
+            317,
+            156
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law is made by the Ruler of Dubai. ",
+        "bbox": [
+            168,
+            172,
+            443,
+            186
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Application of the law ",
+        "text_level": 1,
+        "bbox": [
+            166,
+            200,
+            327,
+            215
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law applies in the jurisdiction of the Dubai International Financial Centre. ",
+        "bbox": [
+            163,
+            228,
+            705,
+            243
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Date of enactment ",
+        "text_level": 1,
+        "bbox": [
+            164,
+            258,
+            299,
+            271
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law is enacted on the date specified in the Enactment Notice in respect of this Law. ",
+        "bbox": [
+            164,
+            286,
+            768,
+            300
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Commencement ",
+        "text_level": 1,
+        "bbox": [
+            166,
+            315,
+            285,
+            329
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law comes into force on the date specified in the Enactment Notice in respect of this Law. ",
+        "bbox": [
+            166,
+            343,
+            811,
+            357
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. Interpretation ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            372,
+            272,
+            386
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) Schedule 1 contains: ",
+        "bbox": [
+            166,
+            400,
+            368,
+            414
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) interpretative provisions which apply to this Law; and (b) a list of defined terms used in this Law. ",
+        "bbox": [
+            223,
+            428,
+            655,
+            473
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2) Schedule 2 contains Prescribed contraventions. ",
+        "bbox": [
+            166,
+            486,
+            547,
+            500
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7. The Registrar ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            513,
+            268,
+            529
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Law and any legislation made for the purpose of this Law is administered by the Registrar. ",
+        "bbox": [
+            163,
+            543,
+            813,
+            558
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            537,
+            26,
+            895,
+            41
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            494,
+            958,
+            504,
+            969
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PART 2: FORMATION AND REGISTRATION ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            57,
+            458,
+            72
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8. Method of formation ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            86,
+            319,
+            99
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) Any two (2) or more persons may apply for the incorporation of a Limited Liability Partnership in accordance with the terms of the Limited Liability Partnership Agreement, by signing and filing with the Registrar an application for incorporation. ",
+        "bbox": [
+            156,
+            115,
+            894,
+            158
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": ") A Limited Liability Partnership may be incorporated to conduct any lawful business. ",
+        "bbox": [
+            183,
+            171,
+            800,
+            186
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3) The application filed with the Registrar under Article 8(1) shall be signed by the Members and shall set out: ",
+        "bbox": [
+            154,
+            199,
+            895,
+            228
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) the name of the Limited Liability Partnership which must end with the words \"Limited Liability Partnership\";   \n(b) the address of the Limited Liability Partnership’s registered office;   \n(c) the nature of the business to be conducted. It shall be sufficient to state that the purpose of the Limited Liability Partnership is to engage in any lawful act or activity;   \n(d) the name and address of each of the persons who are to be Members of the Limited Liability Partnership on incorporation;   \n(e) the names of those persons who are to be Designated Members or state that every person who from time to time is a Member of the Limited Liability Partnership is a Designated Member; and   \n(f) such other particulars as the Registrar may require. ",
+        "bbox": [
+            223,
+            242,
+            852,
+            487
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "9. Limited Liability Partnership Agreement ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            499,
+            465,
+            514
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) The Limited Liability Partnership Agreement shall be in the English language and shall be Printed and be divided into paragraphs numbered consecutively. ",
+        "bbox": [
+            161,
+            529,
+            894,
+            557
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2) The mutual rights and duties of the Limited Liability Partnership and the Members shall be determined, subject to the terms of the Limited Liability Partnership Agreement, by the following rules: ",
+        "bbox": [
+            166,
+            570,
+            894,
+            613
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) all Members of a Limited Liability Partnership are entitled to share equally in the capital and profits of the Limited Liability Partnership.   \n(b) the Limited Liability Partnership shall indemnify each Member in respect of payments made and personal Liabilities incurred by him:   \n(i) in the ordinary and proper conduct of the business of the Limited Liability Partnership; or   \n(ii) in or about anything necessarily done for the preservation of the business or property of the Limited Liability Partnership. ",
+        "bbox": [
+            220,
+            627,
+            848,
+            700
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(c) every Member may take part in the management of the Limited Liability Partnership. ",
+        "bbox": [
+            221,
+            800,
+            848,
+            828
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "no Member shall be entitled to remuneration for acting in the business or management of the Limited Liability Partnership. ",
+        "bbox": [
+            267,
+            843,
+            847,
+            871
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(e) no person may be introduced as a Member or voluntarily assign an interest in a Limited Liability Partnership without the consent of all existing Members. ",
+        "bbox": [
+            218,
+            884,
+            850,
+            914
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(f) any difference arising as to ordinary matters connected with the business of the Limited Liability Partnership shall be decided by a majority of the Members, but no change may be made in the nature of the business of the Limited Liability Partnership without the consent of all the Members. ",
+        "bbox": [
+            226,
+            58,
+            848,
+            114
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(g) the books and Records of the Limited Liability Partnership shall be made available for inspection at the registered office of the Limited Liability Partnership or at such other place as the Members think fit and every Member of the Limited Liability Partnership may have reasonable access to inspect and copy any of them. ",
+        "bbox": [
+            226,
+            129,
+            848,
+            186
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(h) each Member shall render true accounts and full information of all things affecting the Limited Liability Partnership to any Member or his legal representatives. ",
+        "bbox": [
+            218,
+            199,
+            848,
+            229
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(i) if a Member, without the consent of the Limited Liability Partnership, carries on any business of the same nature as and competing with the Limited Liability Partnership, he shall account for and pay over to the Limited Liability Partnership all profits made by him in that business. ",
+        "bbox": [
+            226,
+            243,
+            848,
+            300
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(j) a Member shall account to the Limited Liability Partnership for any benefit derived by him without the consent of the Limited Liability Partnership from any transaction concerning the Limited Liability Partnership, or from any use by him of the property of the Limited Liability Partnership, name or business connection. ",
+        "bbox": [
+            226,
+            313,
+            848,
+            372
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "10. Registration ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            386,
+            258,
+            400
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) The Registrar may refuse to register a Limited Liability Partnership for such reason as he believes to be proper grounds for refusing such registration.   \n(2) Where the Registrar refuses to register a Limited Liability Partnership he shall not be bound to provide any reason for his refusal and his decision shall not be subject to appeal or review in any court. ",
+        "bbox": [
+            152,
+            413,
+            894,
+            500
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "11. Effect of registration ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            513,
+            317,
+            529
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) On the registration of a Limited Liability Partnership and its Limited Liability Partnership Agreement the Registrar shall: ",
+        "bbox": [
+            159,
+            543,
+            892,
+            571
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) give a certificate that the Limited Liability Partnership is incorporated; and (b) allocate to the Limited Liability Partnership a number, which shall be the Limited Liability Partnership’s registered number. ",
+        "bbox": [
+            225,
+            585,
+            850,
+            643
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) From the date of incorporation mentioned in the certificate of incorporation, the Members shall be a body corporate having the name contained in the certificate of incorporation capable forthwith of exercising all the functions of a Limited Liability Partnership. ",
+        "bbox": [
+            166,
+            657,
+            892,
+            700
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3) A certificate of incorporation is conclusive evidence: ",
+        "bbox": [
+            164,
+            714,
+            584,
+            728
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) of the incorporation of the Limited Liability Partnership; and (b) that the requirements of this Law have been complied with in respect of the registration of the Limited Liability Partnership. ",
+        "bbox": [
+            216,
+            741,
+            850,
+            801
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            494,
+            959,
+            504,
+            970
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PART 3: ADMINISTRATION OF AFFAIRS OF A LIMITED LIABILITY PARTNERSHIP ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            55,
+            774,
+            72
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "12. Licence ",
+        "bbox": [
+            107,
+            86,
+            225,
+            99
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A Limited Liability Partnership shall hold a Licence pursuant to Article 9 of the Operating Law. ",
+        "bbox": [
+            159,
+            114,
+            815,
+            129
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "13. Conduct of Business in the DIFC ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            142,
+            405,
+            158
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A Limited Liability Partnership shall, comply with the requirements of this Law and Part 3 of the Operating Law in respect to the conduct of its business in the DIFC. ",
+        "bbox": [
+            164,
+            172,
+            894,
+            200
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "14. Names, records and registers ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            215,
+            378,
+            229
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) A Limited Liability Partnership may, by resolution, change its name, to a name which is acceptable to the Registrar.   \n(2) Unless otherwise agreed by the Members of the Limited Liability Partnership, all Members are entitled to access any Records, registers or other information of the Limited Liability Partnership. ",
+        "bbox": [
+            151,
+            243,
+            894,
+            315
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            41
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            494,
+            959,
+            504,
+            969
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PART 4: CORPORATE CAPACITY AND TRANSACTIONS ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            57,
+            556,
+            72
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "15. Capacity of Limited Liability Partnership ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            85,
+            468,
+            101
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) A Limited Liability Partnership is a body corporate with a legal personality separate from that of its Members, which is formed by being incorporated under Part 2 of this Law.   \n(2) A Limited Liability Partnership has unlimited capacity.   \n(3) The Members of a Limited Liability Partnership have such liability to contribute to its assets in the event of its being wound up as provided by this Law or the Limited Liability Partnership Agreement. ",
+        "bbox": [
+            164,
+            114,
+            894,
+            229
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "16. Transactions entered into prior to corporate existence ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            243,
+            554,
+            258
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) Where a transaction purports to be entered into by a Limited Liability Partnership, or by a person as agent for a Limited Liability Partnership, at a time when the Limited Liability Partnership has not been formed, then, unless otherwise agreed by the parties to the transaction, the transaction has effect as one entered into by the person purporting to act for the Limited Liability Partnership or as agent for it, and he is personally bound by the transaction and entitled to its benefits. ",
+        "bbox": [
+            164,
+            271,
+            892,
+            343
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2) A Limited Liability Partnership may, within such period as may be specified in the terms of the transaction or if no period is specified, within a reasonable time after it is formed, by act or conduct signifying its intention to be bound thereby, adopt any such transaction and it shall from that time be bound by it and entitled to its benefits and the person who entered into the transaction shall cease to be so bound and entitled. ",
+        "bbox": [
+            164,
+            357,
+            892,
+            429
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PART 5: MEMBERS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            57,
+            263,
+            71
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "17. Members ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            86,
+            236,
+            99
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) In addition to those persons named as Members in the Limited Liability Partnership Agreement, any person may become a Member of a Limited Liability Partnership by and in accordance with an agreement with the existing Members. ",
+        "bbox": [
+            159,
+            115,
+            894,
+            158
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2) A person may cease to be a Member of a Limited Liability Partnership (as well as by death or dissolution) in accordance with an agreement with the other Members or, in the absence of agreement with the other Members as to cessation of membership, by giving reasonable notice to the other Members. ",
+        "bbox": [
+            166,
+            171,
+            892,
+            229
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3) No majority of Members can expel any Member unless a power to do so has been conferred by express agreement between the Members. ",
+        "bbox": [
+            161,
+            243,
+            892,
+            272
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(4) A Member of a Limited Liability Partnership shall not be regarded for any purpose as employed by the Limited Liability Partnership. ",
+        "bbox": [
+            157,
+            285,
+            892,
+            315
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(5) If a Limited Liability Partnership carries on business without having at least two (2) Members and does so for more than 14 days then: ",
+        "bbox": [
+            171,
+            328,
+            892,
+            357
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) the Registrar may strike the Limited Liability Partnership off the register and the Limited Liability Partnership will be dissolved; and ",
+        "bbox": [
+            213,
+            370,
+            850,
+            400
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(b) a person who, for the whole or any part of the period, that it so carries on business after those 14 days: ",
+        "bbox": [
+            208,
+            414,
+            848,
+            443
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(i) is a Member of the Limited Liability Partnership; and (ii) knows that it is carrying on business with less than two Members, is liable (jointly and severally with the Limited Liability Partnership) for the payment of the Limited Liability Partnership's debts contracted during the period or, as the case may be, that part of it. ",
+        "bbox": [
+            280,
+            456,
+            801,
+            501
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "18. Relationship of Members ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            570,
+            351,
+            586
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) Except as far as otherwise provided by this Law or any other law, the mutual rights and duties of the Members of a Limited Liability Partnership, and the mutual rights and duties of a Limited Liability Partnership and its Members, shall be governed by the Limited Liability Partnership Agreement. ",
+        "bbox": [
+            166,
+            600,
+            894,
+            657
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2) A Limited Liability Partnership Agreement made before the incorporation of a Limited Liability Partnership between the persons who subscribe their names to the Limited Liability Partnership Agreement may impose obligations on the Limited Liability Partnership to take effect at any time after its incorporation. ",
+        "bbox": [
+            166,
+            670,
+            892,
+            728
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "19. Duties of Members ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            743,
+            304,
+            757
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A Member of a Limited Liability Partnership in exercising his powers and discharging his duties, shall: ",
+        "bbox": [
+            161,
+            771,
+            862,
+            787
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) act honestly and in good faith with a view to the best interests of the Members and the Limited Liability Partnership; and   \n(b) exercise the care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances. ",
+        "bbox": [
+            163,
+            799,
+            852,
+            872
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "20. Members as agents ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            885,
+            305,
+            900
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) Every Member of a Limited Liability Partnership is the agent of the Limited Liability Partnership. ",
+        "bbox": [
+            141,
+            913,
+            887,
+            929
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            492,
+            959,
+            504,
+            970
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2) But a Limited Liability Partnership is not bound by anything done by a Member in dealing with a person if: ",
+        "bbox": [
+            156,
+            57,
+            895,
+            86
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) the Member in fact has no authority to act for the Limited Liability Partnership by doing that thing; and   \n(b) the person knows that the Member has no authority or does not know or believe him to be a Member of the Limited Liability Partnership. ",
+        "bbox": [
+            226,
+            99,
+            850,
+            172
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3) Where a person has ceased to be a Member of a Limited Liability Partnership, the former Member is to be regarded in relation to any person dealing with the Limited Liability Partnership, as still being a Member of the Limited Liability Partnership unless: ",
+        "bbox": [
+            164,
+            185,
+            894,
+            229
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) the person has notice that the former Member has ceased to be a Member of the Limited Liability Partnership; or   \n(b) notice that the former Member has ceased to be a Member of the Limited Liability Partnership has been delivered to the Registrar. ",
+        "bbox": [
+            225,
+            242,
+            850,
+            315
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4) Where a Member of a Limited Liability Partnership is liable to any person, other than another Member of the Limited Liability Partnership, as a result of a wrongful act or omission of his in the course of the business of the Limited Liability Partnership or with its authority, the Limited Liability Partnership is jointly and severally liable to the same extent as the Member. ",
+        "bbox": [
+            166,
+            329,
+            892,
+            386
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "21. Assumptions in relation to Members ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            400,
+            430,
+            414
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) Subject to Article 21(3), a person dealing with a Limited Liability Partnership is entitled to assume that anyone who appears, from information that is available on a public register of the Registrar, to be a Member of the Limited Liability Partnership: ",
+        "bbox": [
+            178,
+            429,
+            894,
+            472
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) has been duly appointed; and (b) has authority to exercise the powers and perform the duties customarily exercised or performed by a Member of a Limited Liability Partnership. ",
+        "bbox": [
+            225,
+            485,
+            848,
+            543
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2) A Limited Liability Partnership is not entitled to assert in proceedings in relation to dealings of the Limited Liability Partnership that any such assumption is incorrect.   \n(3) A person is not entitled to make an assumption in Article 21(1) if at the time of the dealing he knew or suspected that the assumption was incorrect. ",
+        "bbox": [
+            151,
+            557,
+            894,
+            630
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "22. Ex-Members ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            643,
+            262,
+            657
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) Where a Member of a Limited Liability Partnership has: ",
+        "bbox": [
+            164,
+            670,
+            608,
+            686
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) ceased to be a Member;   \n(b) died;   \n(c) become bankrupt or has been wound up; or   \n(d) assigned the whole or any part of his share in the Limited Liability Partnership absolutely or by way of charge or security; ",
+        "bbox": [
+            225,
+            699,
+            850,
+            815
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "then: ",
+        "bbox": [
+            226,
+            829,
+            262,
+            841
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(e) the former Member (f) his personal representative; (g) his liquidator; or ",
+        "bbox": [
+            225,
+            857,
+            473,
+            931
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            494,
+            958,
+            504,
+            969
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(h) his assignee, ",
+        "bbox": [
+            226,
+            57,
+            374,
+            72
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "as the case may be, may not interfere in the management or administration of any business or affairs of the Limited Liability Partnership. ",
+        "bbox": [
+            223,
+            85,
+            850,
+            115
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2) Article 22(1) does not affect any right to receive an amount from the Limited Liability Partnership in that event. ",
+        "bbox": [
+            159,
+            128,
+            895,
+            158
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "23. Designated Members ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            171,
+            321,
+            186
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) If the Limited Liability Partnership Agreement specifies who are to be Designated Members: ",
+        "bbox": [
+            161,
+            199,
+            857,
+            216
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) they are Designated Members on incorporation; and   \n(b) any Member may become a Designated Member by and in accordance with an agreement with the other Members, ",
+        "bbox": [
+            225,
+            227,
+            850,
+            286
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "and a Member may cease to be a designated Member in accordance with an agreement with the other Members. ",
+        "bbox": [
+            223,
+            300,
+            850,
+            329
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2) There must be at least one Designated Member, and where no Member is appointed, then every Member is a Designated Member. ",
+        "bbox": [
+            164,
+            342,
+            892,
+            372
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3) If the Limited Liability Partnership Agreement states that every person who from time to time is a Member of the Limited Liability Partnership is a Designated Member, every Member is a Designated Member. ",
+        "bbox": [
+            166,
+            385,
+            894,
+            429
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(4) A Limited Liability Partnership may at any time deliver to the Registrar: ",
+        "bbox": [
+            156,
+            442,
+            717,
+            458
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) notice that specified Members are to be Designated Members; or (b) notice that every person who from time to time is a Member of the Limited Liability Partnership is a Designated Member; ",
+        "bbox": [
+            226,
+            470,
+            850,
+            530
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "and once it is delivered, Article 23(1) and Article 23(2) or Article 23(3), shall have effect as if that were stated in the Limited Liability Partnership Agreement. ",
+        "bbox": [
+            223,
+            542,
+            848,
+            571
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(5) A notice delivered under Article 23(4): ",
+        "bbox": [
+            159,
+            586,
+            494,
+            600
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) shall be in a form approved by the Registrar; and   \n(b) shall be signed by a Designated Member of the Limited Liability Partnership or authenticated in a manner approved by the Registrar. ",
+        "bbox": [
+            225,
+            612,
+            850,
+            671
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": ") A person ceases to be a Designated Member if he ceases to be a Member. ",
+        "bbox": [
+            183,
+            684,
+            724,
+            700
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(7) The Designated Members shall have the responsibilities imposed by Articles 25, 27 and 29. ",
+        "bbox": [
+            151,
+            713,
+            843,
+            728
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "24. Registration of membership changes ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            743,
+            431,
+            757
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) A Limited Liability Partnership must ensure that: ",
+        "bbox": [
+            164,
+            771,
+            561,
+            787
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) when a person becomes or ceases to be a Member or Designated Member, notice is delivered to the Registrar within 30 days; and   \n(b) where there is any change in the name or address of a Member, notice is delivered to the Registrar within 30 days. ",
+        "bbox": [
+            226,
+            799,
+            850,
+            872
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2) Where all the Members from time to time of a Limited Liability Partnership are Designated Members, Article 24(1)(a) does not require notice that a person has become or ceased to be a Designated Member as well as a Member. ",
+        "bbox": [
+            166,
+            885,
+            892,
+            928
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            41
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            492,
+            958,
+            504,
+            970
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3) A notice delivered under Article 24(1): ",
+        "bbox": [
+            163,
+            57,
+            492,
+            72
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) shall be in a form approved by the Registrar; and   \n(b) shall be signed by a Designated Member of the Limited Liability Partnership or authenticated in a manner approved by the Registrar, ",
+        "bbox": [
+            225,
+            85,
+            850,
+            143
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "and, if it relates to a person becoming a Member or Designated Member, shall contain a statement that he consents to becoming a Member or Designated Member signed by him or authenticated in a manner approved by the Registrar. ",
+        "bbox": [
+            226,
+            158,
+            848,
+            200
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(4) If a Limited Liability Partnership fails to comply with Article 24(1), the partnership and every Designated Member commits an offence. ",
+        "bbox": [
+            166,
+            214,
+            892,
+            243
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(5) It is a defence for a Designated Member who commits a contravention under Article 24(4) to prove that he took all reasonable steps for securing that Article 24(1) was complied with. ",
+        "bbox": [
+            168,
+            256,
+            894,
+            286
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            492,
+            959,
+            504,
+            969
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "PART 6: ACCOUNTS AND AUDIT ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            57,
+            369,
+            71
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 1 - ACCOUNTS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            85,
+            312,
+            99
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "25. Maintenance of Accounting Records ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            114,
+            430,
+            129
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) This Part does not apply in relation to any Limited Liability Partnership which is an Authorised Firm, Authorised Market Institution, Recognised Body or Recognised Member under the Regulatory Law 2004 or Markets Law 2012. ",
+        "bbox": [
+            164,
+            142,
+            894,
+            185
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) Every Limited Liability Partnership shall keep Accounting Records which are sufficient to show and explain its transactions so as to: ",
+        "bbox": [
+            156,
+            199,
+            892,
+            229
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) disclose with reasonable accuracy the financial position of the Limited Liability Partnership at any time; and   \n(b) enable the Members to ensure that any accounts prepared by the Limited Liability Partnership under this Part comply with the requirements of this Law. ",
+        "bbox": [
+            226,
+            243,
+            848,
+            315
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(3) A Limited Liability Partnership's Accounting Records shall be: ",
+        "bbox": [
+            163,
+            329,
+            653,
+            343
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) kept at such a place within the DIFC as the Members think fit unless specifically Prescribed in the Regulations;   \n(b) preserved by the Limited Liability Partnership for at least six (6) years from the date upon which they were created, or for some other period as may be Prescribed in the Regulations;   \n(c) open to inspection by any Member or auditor of the Limited Liability Partnership at all reasonable times; and   \n(d) otherwise kept and maintained in such manner as may be Prescribed in the Regulations. ",
+        "bbox": [
+            225,
+            356,
+            852,
+            529
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "26. Financial years ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            543,
+            278,
+            557
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) The first financial year of a Limited Liability Partnership starts on the day on which it is incorporated and lasts for twelve (12) months or some other period not exceeding eighteen (18) months as may be determined by the Members.   \n(2) The second and any subsequent financial year shall start at the end of the previous financial year and shall last for twelve (12) months or some other period which is within seven (7) days either shorter or longer than twelve (12) months as may be determined by the Members. ",
+        "bbox": [
+            157,
+            570,
+            894,
+            673
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "27. Accounts ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            686,
+            235,
+            699
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) The Members of every Limited Liability Partnership shall cause accounts to be prepared in relation to each financial year of the Limited Liability Partnership. ",
+        "bbox": [
+            161,
+            714,
+            890,
+            744
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) The accounts shall be prepared in accordance with accounting principles or standards approved by the Registrar or Prescribed in Regulations and shall show a true and fair view of the profit or loss of the Limited Liability Partnership for the period and of the state of the Limited Liability Partnership's affairs at the end of the period and comply with any other requirements of this Law. ",
+        "bbox": [
+            157,
+            756,
+            892,
+            814
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(3) A Limited Liability Partnership's accounts shall be approved by the Members and signed on their behalf by at least one of them. ",
+        "bbox": [
+            161,
+            827,
+            892,
+            857
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(4) Within six (6) months after the end of the financial year, the accounts for that year shall be: ",
+        "bbox": [
+            161,
+            870,
+            843,
+            885
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) prepared and approved by all the Members; and (b) examined and reported upon by an auditor. ",
+        "bbox": [
+            223,
+            900,
+            613,
+            944
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            490,
+            959,
+            509,
+            970
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(5) A Limited Liability Partnership shall file with the Registrar within thirty (30) days after the accounts have been approved by the Members, a copy of the accounts and auditors report. (6) In this Part, references to \"accounts\" are to those prepared in accordance with this Article. ",
+        "bbox": [
+            156,
+            57,
+            895,
+            115
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "28. Provision of copy of accounts to Member ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            129,
+            462,
+            143
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) Any Member of a Limited Liability Partnership is entitled, on written request to be furnished with a copy of the Limited Liability Partnership’s latest audited accounts and auditor’s report without charge.   \n(2) A Limited Liability Partnership shall comply with such a request within seven (7) days. ",
+        "bbox": [
+            161,
+            158,
+            895,
+            230
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER 2 - AUDITORS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            242,
+            305,
+            258
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "29. Appointment and removal of auditors ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            271,
+            440,
+            286
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "A Limited Liability Partnership shall appoint a firm of auditors who shall examine and report in accordance with this Law upon the accounts prepared pursuant to Article 27. ",
+        "bbox": [
+            166,
+            300,
+            892,
+            329
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "30. Auditors' report to the Members ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            343,
+            405,
+            357
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) A Limited Liability Partnership's auditor shall make a report to the Members on the accounts examined by the auditor. ",
+        "bbox": [
+            152,
+            372,
+            894,
+            400
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) The auditor’s report shall state: ",
+        "bbox": [
+            164,
+            414,
+            440,
+            429
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) whether in the auditor’s opinion the accounts have been properly prepared in accordance with this Law;   \n(b) in particular, whether the accounts give a true and fair view of the profit or loss of the Limited Liability Partnership for the financial year and of the state of the Limited Liability Partnership's affairs at the end of the financial year; and   \n(c) any other matter or opinion required under the Regulations. ",
+        "bbox": [
+            225,
+            442,
+            850,
+            558
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "31. Auditors' duties and powers ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            571,
+            371,
+            586
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) A Limited Liability Partnership's auditor shall, in preparing the report in relation to accounts of a Limited Liability Partnership, carry out such investigations as will enable the auditor to form an opinion as to the following matters: ",
+        "bbox": [
+            166,
+            600,
+            894,
+            643
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) whether proper Accounting Records have been kept by the Limited Liability Partnership and proper returns adequate for the audit have been received from branches or offices not visited by the auditor;   \n(b) whether the Limited Liability Partnership's accounts are in agreement with the Accounting Records and returns; and   \n(c) whether the Limited Liability Partnership’s accounts have been prepared in compliance with any applicable accounting standards. ",
+        "bbox": [
+            225,
+            656,
+            850,
+            787
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2) If the auditors are of the opinion that proper Accounting Records have not been kept, or that proper returns adequate for the audit have not been received from branches or offices not visited by the auditor, or if the accounts are not in agreement with the Accounting Records and returns, or that the accounts do not comply with accounting standards, the auditor shall state that fact in the report. ",
+        "bbox": [
+            183,
+            800,
+            892,
+            871
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(3) The auditor has a right of access at all reasonable times to the Limited Liability Partnership's Records, and is entitled to require from the Limited Liability Partnership's Members such information and explanations as the auditor considers necessary for the performance of the duties of the auditor. ",
+        "bbox": [
+            166,
+            885,
+            892,
+            941
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(4) Every auditor is entitled to receive notice of, and attend, any meeting of Members and to be heard on any part of the business of the meeting which concerns the auditor.   \n(5) If the auditor fails to obtain all the information and explanations which, to the best of the auditor’s knowledge and belief are necessary for the purposes of the audit, the auditor shall state that fact in the report. ",
+        "bbox": [
+            152,
+            57,
+            894,
+            143
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "32. Resignation of an auditor ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            158,
+            351,
+            172
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) An auditor of a Limited Liability Partnership may resign from office by depositing a notice in writing to that effect together with a statement under Article 32(2) at the Limited Liability Partnership's registered office; and any such notice operates to bring his term of office to an end on the date on which the notice is deposited, or on such later date as may be specified in it. ",
+        "bbox": [
+            166,
+            185,
+            892,
+            243
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) When an auditor ceases for any reason to hold office the auditor shall deposit at the Limited Liability Partnership's registered office: ",
+        "bbox": [
+            157,
+            258,
+            894,
+            286
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) a statement to the effect that there are no circumstances connected with the ceasing to hold office which the auditor considers should be brought to the notice of the Members or Creditors of the Limited Liability Partnership; or   \n(b) a statement of any circumstances as are mentioned above. ",
+        "bbox": [
+            221,
+            299,
+            850,
+            372
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3) Where a statement under Article 32(2) falls within sub-paragraph (b) of that Article, the Limited Liability Partnership shall within 14 days send a copy of the statement to every Member of the Limited Liability Partnership. ",
+        "bbox": [
+            168,
+            386,
+            892,
+            429
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "33. Co-operation with auditors ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            443,
+            364,
+            457
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) A Member of a Limited Liability Partnership shall not knowingly or recklessly make to the Limited Liability Partnership's auditor, either orally or in writing, a statement which: ",
+        "bbox": [
+            159,
+            470,
+            894,
+            500
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) conveys or purports to convey any information or explanation which the auditor requires, or is entitled to require, as auditor of the Limited Liability Partnership; and ",
+        "bbox": [
+            221,
+            513,
+            850,
+            557
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(b) is either or both: ",
+        "bbox": [
+            226,
+            571,
+            400,
+            586
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(i) false, misleading or deceptive in a material particular; or (ii) is such that it omits information where the omission of such information is likely to mislead or deceive the auditor. ",
+        "bbox": [
+            284,
+            599,
+            852,
+            657
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) A Limited Liability Partnership, or any Member of a Limited Liability Partnership, or any person acting under the direction or authority of such a Limited Liability Partnership or Member, shall not without reasonable excuse engage in conduct, including without limitation the: ",
+        "bbox": [
+            166,
+            671,
+            895,
+            714
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) destruction or concealment of Documents; (b) coercion, manipulation, misleading, or influencing of the auditor; (c) failure to provide access to information or Documents specified by the auditor; or (d) failure to give any information or explanation which the person is able to give; ",
+        "bbox": [
+            216,
+            728,
+            843,
+            829
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where the Limited Liability Partnership, Member or other person knows or ought to know that such conduct could, if successful: ",
+        "bbox": [
+            223,
+            843,
+            847,
+            871
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(e) obstruct the auditor in the exercise of any powers under this Chapter, or (f) result in the rendering of the accounts of the Limited Liability Partnership or the auditor’s report materially misleading. ",
+        "bbox": [
+            225,
+            884,
+            850,
+            942
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "12 ",
+        "bbox": [
+            490,
+            959,
+            509,
+            970
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "34. Obligation of Disclosure to the Registrar ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            57,
+            460,
+            72
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) An auditor shall disclose to the Registrar any material matters concerning the accounts of a Limited Liability Partnership which reasonably tend to show that there has been a failure or a likely failure to comply with any obligation under this Law or Regulations. ",
+        "bbox": [
+            166,
+            86,
+            894,
+            129
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(2) Without limiting the application of Article 34(1) or any other provision of this Law, an auditor does not contravene any duty to which the auditor is subject merely because the auditor gives to the Registrar: ",
+        "bbox": [
+            166,
+            142,
+            894,
+            185
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) a notification as required under Article 34(1); or (b) any other information or opinion; ",
+        "bbox": [
+            221,
+            199,
+            616,
+            243
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "if the auditor is acting in good faith and reasonably believes that the notification, information or opinion is relevant to any functions of the Registrar. ",
+        "bbox": [
+            225,
+            258,
+            847,
+            286
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "PART 7: RECOGNISED LIMITED LIABILITY PARTNERSHIPS ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            57,
+            596,
+            72
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "35. Foreign Limited Liability Partnerships (1) A Foreign Limited Liability Partnership shall not carry on business in the DIFC unless: ",
+        "bbox": [
+            105,
+            85,
+            448,
+            101
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(a) it is registered as a Recognised Limited Liability Partnership under this Part; or   \n(b) it has submitted all necessary Documents and information to be so registered in accordance with the requirements of the Registrar and the application has not been dealt with. ",
+        "bbox": [
+            225,
+            141,
+            852,
+            215
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(2) The Board of Directors of the DIFCA may make Regulations prescribing what comprises ‘carrying on business’ for the purposes of this Part. ",
+        "bbox": [
+            157,
+            228,
+            892,
+            258
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(3) A Foreign Limited Liability Partnership may apply to the Registrar for registration as a Recognised Limited Liability Partnership in such manner as shall be Prescribed in the Regulations. ",
+        "bbox": [
+            166,
+            271,
+            894,
+            313
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "36. Requirements of a Recognised Limited Liability Partnership ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            328,
+            603,
+            343
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(1) A Recognised Limited Liability Partnership shall: ",
+        "bbox": [
+            164,
+            357,
+            564,
+            372
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(a) appoint and retain at all times at least one person who is authorised to accept service of any Document or notice on behalf of the Recognised Limited Liability Partnership and to undertake any other function as may be Prescribed in the Regulations; ",
+        "bbox": [
+            226,
+            385,
+            850,
+            443
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(b) have a principal place of business in the DIFC to which all communications and notices may be addressed; ",
+        "bbox": [
+            220,
+            456,
+            848,
+            486
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(c) hold a Licence pursuant to Article 9 of the Operating Law, unless exempted by the Registrar; and ",
+        "bbox": [
+            223,
+            499,
+            850,
+            529
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(d) file with the Registrar notice of: ",
+        "bbox": [
+            225,
+            543,
+            505,
+            557
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(i) appointment of persons authorised to accept service;   \n(ii) address of the principal place of business in the DIFC;   \n(iii) any change in the name of a Recognised Limited Liability Partnership or details of persons authorised to accept service of any Document on behalf of the Recognised Limited Liability Partnership and the address of its principal place of business in the DIFC; and   \n(iv) any change in the constitution of a Recognised Limited Liability Partnership, by the incoming or outgoing of any partner, ",
+        "bbox": [
+            285,
+            570,
+            850,
+            730
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "in the form and manner required in the Regulations. ",
+        "bbox": [
+            287,
+            743,
+            638,
+            757
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(2) The Board of Directors of the DIFCA may make Regulations: ",
+        "bbox": [
+            166,
+            771,
+            645,
+            787
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(a) prescribing procedures in relation to requirements under this Part; and (b) waiving or modifying any requirements under this Part in relation to different cases or classes of cases. ",
+        "bbox": [
+            225,
+            799,
+            850,
+            857
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "37. Conduct of business in the DIFC ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            871,
+            403,
+            885
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "A Recognised Limited Liability Partnership shall comply with the requirements of this Law and where applicable, Part 3 of the Operating Law, in respect to the conduct of its business in the DIFC. ",
+        "bbox": [
+            166,
+            900,
+            890,
+            928
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "38. Maintenance of Accounting Records ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            57,
+            430,
+            72
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A Recognised Limited Liability Partnership shall keep Accounting Records including underlying Documents which are sufficient to show and explain its transactions so as to: ",
+        "bbox": [
+            201,
+            86,
+            892,
+            115
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) disclose with reasonable accuracy the financial position of the Recognised Limited Liability Partnership at any time; and   \n(b) enable the partners to ensure that any accounts prepared by the Recognised Limited Liability Partnership under this Part comply with the requirements of this Law. ",
+        "bbox": [
+            226,
+            128,
+            850,
+            215
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(2) A Recognised Limited Liability Partnership’s Accounting Records shall be: ",
+        "bbox": [
+            159,
+            228,
+            741,
+            243
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) kept at such place as the partners think fit unless specifically Prescribed in the Regulations;   \n(b) preserved by the Recognised Limited Liability Partnership for at least six (6) years from the date upon which they were created, or for some other period as may be Prescribed in the Regulations;   \n(c) open to inspection by a partner or auditor of the Recognised Limited Liability Partnership at all reasonable times; and   \n(d) otherwise kept and maintained in such manner as may be Prescribed in the Regulations. ",
+        "bbox": [
+            225,
+            256,
+            850,
+            429
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "PART 8: POWERS AND REMEDIES ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            57,
+            383,
+            71
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "39. Application of Operating Law ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            86,
+            386,
+            101
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Part 5 of the Operating Law applies to the Limited Liability Partnership or Recognised Limited Liability Partnership in respect of the powers and remedies of the Registrar. ",
+        "bbox": [
+            163,
+            115,
+            892,
+            142
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "40. Strike off and Restoration ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            156,
+            356,
+            172
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The provision of Articles 32 and 33 of the Operating Law apply to a Limited Liability Partnership and so far as the Law allows, a Recognised Limited Liability Partnership. ",
+        "bbox": [
+            161,
+            185,
+            894,
+            215
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "PART 9: MISCELLANEOUS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            57,
+            324,
+            71
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "41. Public Register ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            85,
+            278,
+            101
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(1) The Registrar shall publish and maintain a register of current and past registrations of Limited Liability Partnerships in such manner as may be Prescribed in the Regulations.   \n(2) The Registrar shall make a reasonably current version of any register maintained under this Article freely available for viewing by the public on the website of the DIFC. ",
+        "bbox": [
+            164,
+            114,
+            894,
+            186
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "42. Power to make Regulations ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            199,
+            366,
+            215
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(1) The Board of Directors of the DIFCA may make Regulations for the purposes of this Law to facilitate the administration of, or further the objects of, this Law. ",
+        "bbox": [
+            159,
+            228,
+            894,
+            258
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(2) Without limiting the generality of Article 42(1), such Regulations may be made in respect of: ",
+        "bbox": [
+            161,
+            271,
+            857,
+            286
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(a) the operation of the Law;   \n(b) forms, procedures and requirements under the Law;   \n(c) the keeping of public registers and databases; and   \n(d) the conduct of the Registrar and his officers, employees and agents in relation to the exercise of powers and performance of functions, including the exercise of discretionary powers and powers to conduct investigations and hearings. ",
+        "bbox": [
+            225,
+            299,
+            852,
+            430
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(3) The Board of Directors of the DIFCA may, without limiting powers conferred upon it elsewhere under the Law, make Regulations extending, waiving or modifying the application of the provisions of Part 7 of this Law in relation to different cases or classes of cases. ",
+        "bbox": [
+            164,
+            443,
+            892,
+            486
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(4) Where the Board of Directors of the DIFCA issues a standard or code of practice, the Board of Directors of the DIFCA may incorporate such a standard or code into the Regulations by reference and in such circumstances, except to the extent that the Regulations otherwise provide, a person who is subject to the provisions of any such standard or code must comply with such provisions as if they were provisions of the Regulations. ",
+        "bbox": [
+            166,
+            499,
+            894,
+            571
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(5) Where any legislation made for the purpose of this Law purports to be made in exercise of a particular power or powers, it shall be taken also to be made in the exercise of all powers under which it may be made. ",
+        "bbox": [
+            166,
+            585,
+            892,
+            629
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "6) Articles 46 and 47 of the Operating Law apply to the making of Regulations under this Law. ",
+        "bbox": [
+            183,
+            642,
+            852,
+            658
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(7) Without limiting the generality of Article 42(1), the Registrar under this Article may: ",
+        "bbox": [
+            161,
+            670,
+            803,
+            687
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(a) make different provision for different cases or circumstances;   \n(b) include supplementary, incidental and consequential provision;   \n(c) be made to facilitate the administration of, or further the purposes of this Law and another law, or other laws; and   \n(d) where made to facilitate the administration of, or further the purposes of another law, require the doing of an act or thing in default of which a fine is payable under that law. ",
+        "bbox": [
+            225,
+            699,
+            850,
+            843
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "43. Waivers and Modification of Law or Regulations ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            857,
+            519,
+            872
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The powers to waive and modify the Operating Law and Regulations contained in Article 60 of the Operating Law, shall apply to this Law and Regulations made thereunder. ",
+        "bbox": [
+            168,
+            885,
+            894,
+            915
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "17 ",
+        "bbox": [
+            490,
+            958,
+            507,
+            970
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "44. Fees ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            57,
+            201,
+            71
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(1) The Board of Directors of the DIFCA may make Regulations requiring the payment to the Registrar of such fees as may be Prescribed in respect of: ",
+        "bbox": [
+            161,
+            86,
+            895,
+            115
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(a) the performance by the Registrar of such functions under this Law as may be specified in the Regulations, including the receipt by him of any Document under this Law which is required to be delivered to him; and   \n(b) the inspection of Documents or other material held by him under this Law. ",
+        "bbox": [
+            221,
+            128,
+            850,
+            200
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(2) The Registrar may charge a fee for any services provided by him otherwise than in pursuance of an obligation imposed on him by this Law. ",
+        "bbox": [
+            163,
+            215,
+            892,
+            243
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(3) Where a fee is provided for or charged under this Article for the performance of an act or duty by the Registrar, no action need be taken by him until the fee is paid, and where the fee is payable on the receipt by him of a Document required to be delivered to him he shall be deemed not to have received it until the fee is paid. ",
+        "bbox": [
+            166,
+            256,
+            892,
+            315
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 1 INTERPRETATION ",
+        "text_level": 1,
+        "bbox": [
+            420,
+            59,
+            578,
+            89
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "1. Rules of interpretation ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            103,
+            332,
+            117
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(1) In the Law, a reference to: ",
+        "bbox": [
+            168,
+            131,
+            408,
+            146
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(a) a statutory provision includes a reference to the statutory provision as amended or reenacted from time to time;   \n(b) a “person” includes any natural person, body corporate or body unincorporate, including a company, partnership, unincorporated association, government or state;   \n(c) an obligation to publish or cause to be published a particular Document shall, unless expressly provided otherwise in the Law, include publishing or causing to be published in Printed or electronic form;   \n(d) a “day” means a calendar day, unless expressly stated otherwise. If an obligation falls on a calendar day which is either a Saturday, Sunday or an official public holiday, the obligation shall take place on the next calendar day which is a business day;   \n(e) a “business day” means a calendar day, excluding Saturdays, Sundays or official public holidays;   \n(f) a “week” shall mean a calendar week or seven (7) days, whichever is applicable in the circumstances;   \n(g) a “month” shall mean a period of thirty (30) days   \n(h) a “year” shall mean a period of three hundred and sixty five (365) days and a “calendar year” shall mean a year of the Gregorian calendar;   \n(i) a reference to the masculine gender includes the feminine and vice versa; and   \n(j) “dollar” or $\\mathbf { \\hat { \\Sigma } } ^ { 6 6 } \\mathbf { \\hat { S } } ^ { 7 }$ is a reference to United States Dollars unless the contrary intention appears. ",
+        "bbox": [
+            213,
+            161,
+            895,
+            575
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(2) The headings in the Law shall not affect its interpretation. ",
+        "bbox": [
+            166,
+            588,
+            616,
+            602
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(3) References in this Law to a body corporate include a body corporate incorporated outside DIFC. ",
+        "bbox": [
+            176,
+            615,
+            878,
+            631
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(4) A reference in this Law to a Part, Article or Schedule by number only, and without further identification, is a reference to the Part, Article or Schedule of that number in this Law. ",
+        "bbox": [
+            161,
+            644,
+            889,
+            674
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(5) A reference in an Article or other division of this Law to a paragraph, sub-paragraph or Article by number or letter only, and without further identification, is a reference to the paragraph, subparagraph or Article of that number or letter contained in the Article or other division of this Law in which that reference occurs. ",
+        "bbox": [
+            166,
+            687,
+            892,
+            745
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(6) Unless the context otherwise requires, where this Law refers to an enactment, the reference is to that enactment as amended from time to time, and includes a reference to that enactment as extended or applied by or under another enactment, including any other provision of that enactment. ",
+        "bbox": [
+            164,
+            759,
+            894,
+            816
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(7) References to this Law to writing, filing, instrument or certificate include any mode of communication that preserves a record of the information contained therein and is capable of being reproduced in tangible form, including electronic means. ",
+        "bbox": [
+            161,
+            831,
+            892,
+            873
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "2. Legislation in the DIFC ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            57,
+            337,
+            72
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "References to legislation and Guidance in the Law shall be construed in accordance with the following provisions: ",
+        "bbox": [
+            164,
+            86,
+            894,
+            114
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(a) Federal Law is law made by the federal government of the United Arab Emirates;   \n(b) Dubai Law is law made by the Ruler, as applicable in the Emirate of Dubai;   \n(c) DIFC Law is law made by the Ruler (including, by way of example, the Law), as applicable in the DIFC;   \n(d) the Law is the Limited Liability Partnership Law, DIFC Law No.5 of 2004, made by the Ruler;   \n(e) the Regulations are legislation made by the Board of Directors of the DIFCA for the purpose of the Law and are binding in nature;   \n(f) Guidance is indicative and non-binding and may comprise (i) guidance made and issued by the Registrar under the Law; and (ii) any standard or code of practice issued by the Board of Directors of the DIFCA which has not been incorporated into the Regulations; and   \n(g) references to “legislation administered by the Registrar” are references to DIFC Law and Regulations conferring functions and powers on the Registrar. ",
+        "bbox": [
+            164,
+            129,
+            894,
+            386
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "3. Defined Terms ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            399,
+            277,
+            414
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "In the Law, unless the context indicates otherwise, the defined terms listed below shall have the corresponding meanings. ",
+        "bbox": [
+            163,
+            429,
+            892,
+            457
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/a0d31368ec81555be5c3658b40f4b7a02a21dd14c86a9c5efbc92e0277a96ce2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Terms</td><td colspan=\"1\" rowspan=\"1\">Definitions</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Accounting Records</td><td colspan=\"1\" rowspan=\"1\">Records and underlying Documents comprising initial and other accountingentries and associated supporting Documents such as:(a) cheques;(b)  Records of electronic funds transfers;(c)  invoices;(d)  contracts;(e)  the general and subsidiary ledgers, journal entries and otheradjustments to the financial statements that are not reflected injournal entries; and(f)  work sheets and spread sheets supporting costs allocations,computations, reconciliations and disclosures.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Auditor</td><td colspan=\"1\" rowspan=\"1\">a person registered by the Registrar as an auditor in accordance with therequirements in Part 4 of the Operating Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Board of Directors of the DIFCA</td><td colspan=\"1\" rowspan=\"1\">the governing body of the DIFCA.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Court</td><td colspan=\"1\" rowspan=\"1\">the DIFC Court as established under Dubai Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Creditors</td><td colspan=\"1\" rowspan=\"1\">includes present, future and contingent creditors.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Designated Member</td><td colspan=\"1\" rowspan=\"1\">the Member responsible for fulfilling specified requirements under thisLaw.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DFSA</td><td colspan=\"1\" rowspan=\"1\">DIFC Financial Services Authority.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC</td><td colspan=\"1\" rowspan=\"1\">the Dubai International Financial Centre.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFCA</td><td colspan=\"1\" rowspan=\"1\">the DIFC Authority established under Dubai Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Document</td><td colspan=\"1\" rowspan=\"1\">includes summons, notice, statement, return, account, order and other legalprocess, and registers.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Financial Services Regulator</td><td colspan=\"1\" rowspan=\"1\">a regulator of financial services activities established in a jurisdiction otherthan the DIFC.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Foreign Limited LiabilityPartnership</td><td colspan=\"1\" rowspan=\"1\">a limited liability partnership incorporated in any jurisdiction other than theDIFC.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Law</td><td colspan=\"1\" rowspan=\"1\">the Limited Liability Partnership Law 2004.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Liabilities</td><td colspan=\"1\" rowspan=\"1\">includes any amount reasonably necessary to be retained for the purpose ofproviding for any liability or loss which is either likely to be incurred orcertain to be incurred but uncertain as to amount or as to the date on whichit will arise.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Licence</td><td colspan=\"1\" rowspan=\"1\">has the meaning given to the term in the Operating Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Limited Liability Partnership</td><td colspan=\"1\" rowspan=\"1\">A limited liability partnership incorporated in the DIFC.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Limited Liability PartnershipAgreement</td><td colspan=\"1\" rowspan=\"1\">an agreement containing the elements set out in Article 9.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Member</td><td colspan=\"1\" rowspan=\"1\">a person named as a Member in the Limited Liability PartnershipAgreement and has the duties under Part 6 of the Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Operating Law</td><td colspan=\"1\" rowspan=\"1\">the Operating Law DIFC Law No. 7 of 2018.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">person</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in Article 1 of this Schedule.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Prescribed</td><td colspan=\"1\" rowspan=\"1\">prescribed by Regulation made by the Registrar.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">President</td><td colspan=\"1\" rowspan=\"1\">the president of the DIFC, appointed by a decree of the Ruler pursuant toDubai Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Printed</td><td colspan=\"1\" rowspan=\"1\">includes typewritten and a photocopying of a printed or typewrittenDocument.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Records</td><td colspan=\"1\" rowspan=\"1\">Documents and other records however stored.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Recognised Limited LiabilityPartnership</td><td colspan=\"1\" rowspan=\"1\">a Limited Liability Partnership registered under Article 36 of the Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Registrar</td><td colspan=\"1\" rowspan=\"1\">the Registrar appointed under the Operating Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Regulations</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in Article 2 of Schedule 1 to the Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Ruler</td><td colspan=\"1\" rowspan=\"1\">the ruler of the Emirate of Dubai.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Schedule</td><td colspan=\"1\" rowspan=\"1\">a schedule to the Law.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Year</td><td colspan=\"1\" rowspan=\"1\">a calendar year having the meaning given in Article 1 of Schedule 1 to theLaw.</td></tr></table>",
+        "bbox": [
+            105,
+            468,
+            894,
+            931
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "20 ",
+        "bbox": [
+            489,
+            959,
+            509,
+            970
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE 2 ",
+        "text_level": 1,
+        "bbox": [
+            443,
+            71,
+            552,
+            85
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/5832e2a940d49eb6d7d7ed9259fa0c9147b6161cc555038922f216b255bb3e3a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Article</td><td rowspan=1 colspan=1>Contravention</td><td rowspan=1 colspan=1>Maximum Fine(USD)</td></tr><tr><td rowspan=1 colspan=1>25(2)</td><td rowspan=1 colspan=1>Failure of Limited Liability Partnership to keep Accounting Records</td><td rowspan=1 colspan=1>$15,000</td></tr><tr><td rowspan=1 colspan=1>25(3)(a) or (b)</td><td rowspan=1 colspan=1>Non-compliant maintenance of Accounting Records</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>25(3)(c)</td><td rowspan=1 colspan=1>Failure to keep Accounting Records open to inspection</td><td rowspan=1 colspan=1>$10,000</td></tr><tr><td rowspan=1 colspan=1>27(1) or (2)</td><td rowspan=1 colspan=1>Failure of Limited Liability Partnership to meet requirements relating toaccounts as required.</td><td rowspan=1 colspan=1>$15,000</td></tr><tr><td rowspan=1 colspan=1>27(3)</td><td rowspan=1 colspan=1>Failure of Members to approve and sign accounts.</td><td rowspan=1 colspan=1>$10,000</td></tr><tr><td rowspan=1 colspan=1>27(4)</td><td rowspan=1 colspan=1>Failure to comply with requirements within six (6) months</td><td rowspan=1 colspan=1>$5,000</td></tr><tr><td rowspan=1 colspan=1>27(5)</td><td rowspan=1 colspan=1>Failure to file accounts as required</td><td rowspan=1 colspan=1>$5,000</td></tr><tr><td rowspan=1 colspan=1>28(1)</td><td rowspan=1 colspan=1>Limited Liability Partnership failing to supply copy of accounts to Member</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>Limited Liability Partnership failing to appoint auditors</td><td rowspan=1 colspan=1>$10,000</td></tr><tr><td rowspan=1 colspan=1>30(1)</td><td rowspan=1 colspan=1>Failure of auditor to make a report as required</td><td rowspan=1 colspan=1>$5,000</td></tr><tr><td rowspan=1 colspan=1>31(1)</td><td rowspan=1 colspan=1>Auditor failing to fulfil duties</td><td rowspan=1 colspan=1>$5,000</td></tr><tr><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>Failure of auditor to comply with resignation requirements</td><td rowspan=1 colspan=1>$5,000</td></tr><tr><td rowspan=1 colspan=1>32(3)</td><td rowspan=1 colspan=1>Limited Liability Partnership failing to send notice of auditor&#x27;s resignation toMembers</td><td rowspan=1 colspan=1>$1,000</td></tr><tr><td rowspan=1 colspan=1>33(1)</td><td rowspan=1 colspan=1>Limited Liability Partnership not co-operating with auditor.</td><td rowspan=1 colspan=1>$5,000</td></tr><tr><td rowspan=1 colspan=1>34(1)</td><td rowspan=1 colspan=1>Limited Liability Partnership or auditor failing to disclose.</td><td rowspan=1 colspan=1>$5,000</td></tr><tr><td rowspan=1 colspan=1>34(2)</td><td rowspan=1 colspan=1>Limited Liability Partnership obstructing auditor.</td><td rowspan=1 colspan=1>$5,000</td></tr><tr><td rowspan=1 colspan=1>38(1)</td><td rowspan=1 colspan=1>Failure of Recognised Limited Liability Partnership to keep AccountingRecords.</td><td rowspan=1 colspan=1>$15,000</td></tr><tr><td rowspan=1 colspan=1>38(2)(a) or (b)</td><td rowspan=1 colspan=1>Non-compliant maintenance of Accounting Records by Recognised LimitedLiability Partnership.</td><td rowspan=1 colspan=1>$2,000</td></tr><tr><td rowspan=1 colspan=1>38(2)(c)</td><td rowspan=1 colspan=1>Failure of Recognised Limited Liability Partnership to keep AccountingRecords open to inspection.</td><td rowspan=1 colspan=1>$1,000</td></tr></table>",
+        "bbox": [
+            89,
+            96,
+            895,
+            613
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "LIMITED LIABILITY PARTNERSHIP LAW ",
+        "bbox": [
+            539,
+            26,
+            895,
+            40
+        ],
+        "page_idx": 24
+    }
+]

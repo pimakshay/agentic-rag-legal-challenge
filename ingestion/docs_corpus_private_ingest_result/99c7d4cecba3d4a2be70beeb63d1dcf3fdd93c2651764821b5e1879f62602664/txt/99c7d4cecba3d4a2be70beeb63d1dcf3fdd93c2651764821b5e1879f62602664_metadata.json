@@ -1,0 +1,930 @@
+{
+    "doc_type": "law",
+    "official_title": "Arbitration Law",
+    "official_title_normalized": "arbitration law",
+    "short_title": "Arbitration Law 2008",
+    "short_title_normalized": "arbitration law 2008",
+    "law_number": "1",
+    "law_year": "2008",
+    "official_citation": "DIFC Law No. 1 of 2008",
+    "official_citation_normalized": "difc law no 1 of 2008",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "December 2013",
+    "amending_laws": [
+        "DIFC Law Amendment Law DIFC Law No. 1 of 2013"
+    ],
+    "administering_authority": "",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 19,
+    "page_count": 19,
+    "alias_keys": [
+        "Arbitration Law",
+        "Arbitration Law 2008",
+        "DIFC Law No. 1 of 2008"
+    ],
+    "article_index": {
+        "Article 7": {
+            "heading": "Scope of application of Law",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 52,
+            "block_end": 58
+        },
+        "Article 8": {
+            "heading": "Receipt of written communications",
+            "article_number": "8",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 59,
+            "block_end": 62
+        },
+        "Article 12": {
+            "heading": "Definition and form of Arbitration Agreement",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 70,
+            "block_end": 78
+        },
+        "Article 16": {
+            "heading": "Number of arbitrators",
+            "article_number": "16",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 86,
+            "block_end": 87
+        },
+        "Article 23": {
+            "heading": "Competence of Arbitral Tribunal to rule on its jurisdiction",
+            "article_number": "23",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 118,
+            "block_end": 123
+        },
+        "Article 25": {
+            "heading": "Equal treatment of parties . .. 8 26. Determination of rules of procedure .. 8 27. Seat of the Arbitration .. ... 8 28. Commencement of arbitral proceedings.. ..... 8 29. Language… .... 8 30. Statements of claim and defence .. ... 9 31. Hearings and written proceedings .. ... 9 32. Default of a party ... .... 9 33. Expert appointed by Arbitral Tribunal . ... 9 34. Court assistance in taking evidence.. 10",
+            "article_number": "25",
+            "page_start": 2,
+            "page_end": 2,
+            "block_start": 20,
+            "block_end": 21
+        },
+        "Article 35": {
+            "heading": "Rules applicable to substance of dispute. . 10 36. Decision making by panel of arbitrators . 10 37. Settlement… .... ..................................................................................... .... 10 38. Form and contents of award . .............................................................. . 10 39. Termination of proceedings ... ........................................................................ . 11 40. Correction and interpretation of award; additional award. ................................................. .. 11",
+            "article_number": "35",
+            "page_start": 2,
+            "page_end": 2,
+            "block_start": 22,
+            "block_end": 23
+        },
+        "Article 41": {
+            "heading": "Application for setting aside as exclusive recourse against arbitral award .. 12",
+            "article_number": "41",
+            "page_start": 2,
+            "page_end": 3,
+            "block_start": 24,
+            "block_end": 28
+        },
+        "Article 42": {
+            "heading": "Recognition and enforcement of awards.. . 13 43. Recognition.. ... 13 44. Grounds for refusing recognition or enforcement .. 13",
+            "article_number": "42",
+            "page_start": 3,
+            "page_end": 4,
+            "block_start": 29,
+            "block_end": 38
+        },
+        "Article 4": {
+            "heading": "Dates of enactment and commencement",
+            "article_number": "4",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 39,
+            "block_end": 42
+        },
+        "Article 5": {
+            "heading": "Repeal of legislation",
+            "article_number": "5",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 43,
+            "block_end": 44
+        },
+        "Article 6": {
+            "heading": "Interpretation",
+            "article_number": "6",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 45,
+            "block_end": 51
+        },
+        "Article 7(1)": {
+            "heading": "Scope of application of Law",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 53,
+            "block_end": 58
+        },
+        "Article 9": {
+            "heading": "Waiver of right to object",
+            "article_number": "9",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 63,
+            "block_end": 64
+        },
+        "Article 10": {
+            "heading": "Extent of court intervention",
+            "article_number": "10",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 65,
+            "block_end": 66
+        },
+        "Article 11": {
+            "heading": "Authority of the DIFC Court to perform functions of arbitration assistance and supervision",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 67,
+            "block_end": 69
+        },
+        "Article 12(1)": {
+            "heading": "Definition and form of Arbitration Agreement",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 71,
+            "block_end": 71
+        },
+        "Article 12(2)(a)": {
+            "heading": "Definition and form of Arbitration Agreement",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 73,
+            "block_end": 73
+        },
+        "Article 12(2)(i)": {
+            "heading": "Definition and form of Arbitration Agreement",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 74,
+            "block_end": 77
+        },
+        "Article 12(2)": {
+            "heading": "Definition and form of Arbitration Agreement",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 72,
+            "block_end": 77
+        },
+        "Article 12(3)": {
+            "heading": "Definition and form of Arbitration Agreement",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 78,
+            "block_end": 78
+        },
+        "Article 13": {
+            "heading": "Arbitration agreement and substantive claim before a Court",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 79,
+            "block_end": 80
+        },
+        "Article 13(1)": {
+            "heading": "Arbitration agreement and substantive claim before a Court",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 80,
+            "block_end": 80
+        },
+        "Article 14": {
+            "heading": "Confidentiality",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 81,
+            "block_end": 82
+        },
+        "Article 15": {
+            "heading": "Arbitration Agreement and interim measures by Court",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 83,
+            "block_end": 85
+        },
+        "Article 16(1)": {
+            "heading": "Number of arbitrators",
+            "article_number": "16",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 87,
+            "block_end": 87
+        },
+        "Article 17": {
+            "heading": "Appointment of arbitrators",
+            "article_number": "17",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 88,
+            "block_end": 99
+        },
+        "Article 17(1)": {
+            "heading": "Appointment of arbitrators",
+            "article_number": "17",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 89,
+            "block_end": 91
+        },
+        "Article 17(3)(b)": {
+            "heading": "Appointment of arbitrators",
+            "article_number": "17",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 93,
+            "block_end": 93
+        },
+        "Article 17(3)(c)": {
+            "heading": "Appointment of arbitrators",
+            "article_number": "17",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 94,
+            "block_end": 94
+        },
+        "Article 17(3)(d)": {
+            "heading": "Appointment of arbitrators",
+            "article_number": "17",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 95,
+            "block_end": 95
+        },
+        "Article 17(3)": {
+            "heading": "Appointment of arbitrators",
+            "article_number": "17",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 92,
+            "block_end": 95
+        },
+        "Article 17(4)(a)": {
+            "heading": "Appointment of arbitrators",
+            "article_number": "17",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 97,
+            "block_end": 98
+        },
+        "Article 17(4)": {
+            "heading": "Appointment of arbitrators",
+            "article_number": "17",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 96,
+            "block_end": 98
+        },
+        "Article 17(5)": {
+            "heading": "Appointment of arbitrators",
+            "article_number": "17",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 99,
+            "block_end": 99
+        },
+        "Article 18": {
+            "heading": "Grounds for challenge",
+            "article_number": "18",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 100,
+            "block_end": 102
+        },
+        "Article 18(1)": {
+            "heading": "Grounds for challenge",
+            "article_number": "18",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 101,
+            "block_end": 101
+        },
+        "Article 18(2)": {
+            "heading": "Grounds for challenge",
+            "article_number": "18",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 102,
+            "block_end": 102
+        },
+        "Article 19": {
+            "heading": "Challenge procedure",
+            "article_number": "19",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 103,
+            "block_end": 107
+        },
+        "Article 19(1)": {
+            "heading": "Challenge procedure",
+            "article_number": "19",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 104,
+            "block_end": 106
+        },
+        "Article 19(3)": {
+            "heading": "Challenge procedure",
+            "article_number": "19",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 107,
+            "block_end": 107
+        },
+        "Article 20": {
+            "heading": "Failure or impossibility to act",
+            "article_number": "20",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 108,
+            "block_end": 110
+        },
+        "Article 20(1)": {
+            "heading": "Failure or impossibility to act",
+            "article_number": "20",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 109,
+            "block_end": 109
+        },
+        "Article 20(2)": {
+            "heading": "Failure or impossibility to act",
+            "article_number": "20",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 110,
+            "block_end": 110
+        },
+        "Article 21": {
+            "heading": "Appointment of substitute arbitrator",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 111,
+            "block_end": 114
+        },
+        "Article 21(1)(a)": {
+            "heading": "Appointment of substitute arbitrator",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 113,
+            "block_end": 113
+        },
+        "Article 21(1)": {
+            "heading": "Appointment of substitute arbitrator",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 112,
+            "block_end": 113
+        },
+        "Article 21(2)": {
+            "heading": "Appointment of substitute arbitrator",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 114,
+            "block_end": 114
+        },
+        "Article 22": {
+            "heading": "Liability of Arbitral Tribunal and others",
+            "article_number": "22",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 115,
+            "block_end": 117
+        },
+        "Article 23(1)": {
+            "heading": "Competence of Arbitral Tribunal to rule on its jurisdiction",
+            "article_number": "23",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 119,
+            "block_end": 121
+        },
+        "Article 23(2)": {
+            "heading": "Competence of Arbitral Tribunal to rule on its jurisdiction",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 122,
+            "block_end": 122
+        },
+        "Article 23(3)": {
+            "heading": "Competence of Arbitral Tribunal to rule on its jurisdiction",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 123,
+            "block_end": 123
+        },
+        "Article 24": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 10,
+            "page_end": 19,
+            "block_start": 124,
+            "block_end": 258
+        },
+        "Article 24(1)(a)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 246,
+            "block_end": 246
+        },
+        "Article 24(1)(b)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 238,
+            "block_end": 238
+        },
+        "Article 24(1)(i)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 239,
+            "block_end": 239
+        },
+        "Article 24(1)(c)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 129,
+            "block_end": 129
+        },
+        "Article 24(1)(d)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 131,
+            "block_end": 131
+        },
+        "Article 24(1)(e)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 132,
+            "block_end": 134
+        },
+        "Article 24(1)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 245,
+            "block_end": 246
+        },
+        "Article 24(2)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 247,
+            "block_end": 247
+        },
+        "Article 24(3)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 248,
+            "block_end": 248
+        },
+        "Article 24(3)(a)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 161,
+            "block_end": 162
+        },
+        "Article 24(4)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 249,
+            "block_end": 249
+        },
+        "Article 24(5)(a)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 187,
+            "block_end": 189
+        },
+        "Article 24(5)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 19,
+            "block_start": 250,
+            "block_end": 258
+        },
+        "Article 24(2)(a)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 209,
+            "block_end": 209
+        },
+        "Article 24(2)(i)(ii)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 211,
+            "block_end": 211
+        },
+        "Article 24(2)(i)(iii)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 212,
+            "block_end": 212
+        },
+        "Article 24(2)(i)(iv)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 213,
+            "block_end": 213
+        },
+        "Article 24(2)(i)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 215,
+            "block_end": 215
+        },
+        "Article 24(2)(b)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 214,
+            "block_end": 214
+        },
+        "Article 24(1)(i)(ii)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 232,
+            "block_end": 232
+        },
+        "Article 24(1)(i)(iii)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 233,
+            "block_end": 233
+        },
+        "Article 24(1)(i)(iv)": {
+            "heading": "Power of Arbitral Tribunal to order interim measures",
+            "article_number": "24",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 234,
+            "block_end": 234
+        }
+    },
+    "section_heading_index": {
+        "Scope of application of Law .... 2": [
+            {
+                "heading": "Scope of application of Law .... 2",
+                "article_number": "7",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 9,
+                "block_end": 11
+            }
+        ],
+        "Receipt of written communications..... ... 3 9. Waiver of right to object . .. 3 10. Extent of court intervention . 3 11. Authority of the DIFC Court to perform functions of arbitration assistance and supervision.............. ... 3": [
+            {
+                "heading": "Receipt of written communications..... ... 3 9. Waiver of right to object . .. 3 10. Extent of court intervention . 3 11. Authority of the DIFC Court to perform functions of arbitration assistance and supervision.............. ... 3",
+                "article_number": "8",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 12,
+                "block_end": 13
+            }
+        ],
+        "Definition and form of Arbitration Agreement .... .. 3 13. Arbitration agreement and substantive claim before a Court . .. 4 14. Confidentiality .... . 4 15. Arbitration Agreement and interim measures by Court . . 4": [
+            {
+                "heading": "Definition and form of Arbitration Agreement .... .. 3 13. Arbitration agreement and substantive claim before a Court . .. 4 14. Confidentiality .... . 4 15. Arbitration Agreement and interim measures by Court . . 4",
+                "article_number": "12",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 14,
+                "block_end": 15
+            }
+        ],
+        "Number of arbitrators... ..... 4 17. Appointment of arbitrators ....... .... 4 18. Grounds for challenge .... ... 5 19. Challenge procedure . ... 5 20. Failure or impossibility to act.. ... 6 21. Appointment of substitute arbitrator ..... ... 6 22. Liability of Arbitral Tribunal and others .............................................. ........... ...... ...... ................................. 6": [
+            {
+                "heading": "Number of arbitrators... ..... 4 17. Appointment of arbitrators ....... .... 4 18. Grounds for challenge .... ... 5 19. Challenge procedure . ... 5 20. Failure or impossibility to act.. ... 6 21. Appointment of substitute arbitrator ..... ... 6 22. Liability of Arbitral Tribunal and others .............................................. ........... ...... ...... ................................. 6",
+                "article_number": "16",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 16,
+                "block_end": 17
+            }
+        ],
+        "Competence of Arbitral Tribunal to rule on its jurisdiction . 6 24. Power of Arbitral Tribunal to order interim measures ..... . 7": [
+            {
+                "heading": "Competence of Arbitral Tribunal to rule on its jurisdiction . 6 24. Power of Arbitral Tribunal to order interim measures ..... . 7",
+                "article_number": "23",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 18,
+                "block_end": 19
+            }
+        ],
+        "Equal treatment of parties . .. 8 26. Determination of rules of procedure .. 8 27. Seat of the Arbitration .. ... 8 28. Commencement of arbitral proceedings.. ..... 8 29. Language… .... 8 30. Statements of claim and defence .. ... 9 31. Hearings and written proceedings .. ... 9 32. Default of a party ... .... 9 33. Expert appointed by Arbitral Tribunal . ... 9 34. Court assistance in taking evidence.. 10": [
+            {
+                "heading": "Equal treatment of parties . .. 8 26. Determination of rules of procedure .. 8 27. Seat of the Arbitration .. ... 8 28. Commencement of arbitral proceedings.. ..... 8 29. Language… .... 8 30. Statements of claim and defence .. ... 9 31. Hearings and written proceedings .. ... 9 32. Default of a party ... .... 9 33. Expert appointed by Arbitral Tribunal . ... 9 34. Court assistance in taking evidence.. 10",
+                "article_number": "25",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 20,
+                "block_end": 21
+            }
+        ],
+        "Rules applicable to substance of dispute. . 10 36. Decision making by panel of arbitrators . 10 37. Settlement… .... ..................................................................................... .... 10 38. Form and contents of award . .............................................................. . 10 39. Termination of proceedings ... ........................................................................ . 11 40. Correction and interpretation of award; additional award. ................................................. .. 11": [
+            {
+                "heading": "Rules applicable to substance of dispute. . 10 36. Decision making by panel of arbitrators . 10 37. Settlement… .... ..................................................................................... .... 10 38. Form and contents of award . .............................................................. . 10 39. Termination of proceedings ... ........................................................................ . 11 40. Correction and interpretation of award; additional award. ................................................. .. 11",
+                "article_number": "35",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 22,
+                "block_end": 23
+            }
+        ],
+        "Application for setting aside as exclusive recourse against arbitral award .. 12": [
+            {
+                "heading": "Application for setting aside as exclusive recourse against arbitral award .. 12",
+                "article_number": "41",
+                "page_start": 2,
+                "page_end": 3,
+                "block_start": 24,
+                "block_end": 28
+            }
+        ],
+        "Recognition and enforcement of awards.. . 13 43. Recognition.. ... 13 44. Grounds for refusing recognition or enforcement .. 13": [
+            {
+                "heading": "Recognition and enforcement of awards.. . 13 43. Recognition.. ... 13 44. Grounds for refusing recognition or enforcement .. 13",
+                "article_number": "42",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 29,
+                "block_end": 38
+            }
+        ],
+        "Dates of enactment and commencement": [
+            {
+                "heading": "Dates of enactment and commencement",
+                "article_number": "4",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 39,
+                "block_end": 42
+            }
+        ],
+        "Repeal of legislation": [
+            {
+                "heading": "Repeal of legislation",
+                "article_number": "5",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 43,
+                "block_end": 44
+            }
+        ],
+        "Interpretation": [
+            {
+                "heading": "Interpretation",
+                "article_number": "6",
+                "page_start": 4,
+                "page_end": 5,
+                "block_start": 45,
+                "block_end": 51
+            }
+        ],
+        "Scope of application of Law": [
+            {
+                "heading": "Scope of application of Law",
+                "article_number": "7",
+                "page_start": 5,
+                "page_end": 6,
+                "block_start": 52,
+                "block_end": 58
+            }
+        ],
+        "Receipt of written communications": [
+            {
+                "heading": "Receipt of written communications",
+                "article_number": "8",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 59,
+                "block_end": 62
+            }
+        ],
+        "Waiver of right to object": [
+            {
+                "heading": "Waiver of right to object",
+                "article_number": "9",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 63,
+                "block_end": 64
+            }
+        ],
+        "Extent of court intervention": [
+            {
+                "heading": "Extent of court intervention",
+                "article_number": "10",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 65,
+                "block_end": 66
+            }
+        ],
+        "Authority of the DIFC Court to perform functions of arbitration assistance and supervision": [
+            {
+                "heading": "Authority of the DIFC Court to perform functions of arbitration assistance and supervision",
+                "article_number": "11",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 67,
+                "block_end": 69
+            }
+        ],
+        "Definition and form of Arbitration Agreement": [
+            {
+                "heading": "Definition and form of Arbitration Agreement",
+                "article_number": "12",
+                "page_start": 6,
+                "page_end": 7,
+                "block_start": 70,
+                "block_end": 78
+            }
+        ],
+        "Arbitration agreement and substantive claim before a Court": [
+            {
+                "heading": "Arbitration agreement and substantive claim before a Court",
+                "article_number": "13",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 79,
+                "block_end": 80
+            }
+        ],
+        "Confidentiality": [
+            {
+                "heading": "Confidentiality",
+                "article_number": "14",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 81,
+                "block_end": 82
+            }
+        ],
+        "Arbitration Agreement and interim measures by Court": [
+            {
+                "heading": "Arbitration Agreement and interim measures by Court",
+                "article_number": "15",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 83,
+                "block_end": 85
+            }
+        ],
+        "Number of arbitrators": [
+            {
+                "heading": "Number of arbitrators",
+                "article_number": "16",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 86,
+                "block_end": 87
+            }
+        ],
+        "Appointment of arbitrators": [
+            {
+                "heading": "Appointment of arbitrators",
+                "article_number": "17",
+                "page_start": 7,
+                "page_end": 8,
+                "block_start": 88,
+                "block_end": 99
+            }
+        ],
+        "Grounds for challenge": [
+            {
+                "heading": "Grounds for challenge",
+                "article_number": "18",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 100,
+                "block_end": 102
+            }
+        ],
+        "Challenge procedure": [
+            {
+                "heading": "Challenge procedure",
+                "article_number": "19",
+                "page_start": 8,
+                "page_end": 9,
+                "block_start": 103,
+                "block_end": 107
+            }
+        ],
+        "Failure or impossibility to act": [
+            {
+                "heading": "Failure or impossibility to act",
+                "article_number": "20",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 108,
+                "block_end": 110
+            }
+        ],
+        "Appointment of substitute arbitrator": [
+            {
+                "heading": "Appointment of substitute arbitrator",
+                "article_number": "21",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 111,
+                "block_end": 114
+            }
+        ],
+        "Liability of Arbitral Tribunal and others": [
+            {
+                "heading": "Liability of Arbitral Tribunal and others",
+                "article_number": "22",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 115,
+                "block_end": 117
+            }
+        ],
+        "Competence of Arbitral Tribunal to rule on its jurisdiction": [
+            {
+                "heading": "Competence of Arbitral Tribunal to rule on its jurisdiction",
+                "article_number": "23",
+                "page_start": 9,
+                "page_end": 10,
+                "block_start": 118,
+                "block_end": 123
+            }
+        ],
+        "Power of Arbitral Tribunal to order interim measures": [
+            {
+                "heading": "Power of Arbitral Tribunal to order interim measures",
+                "article_number": "24",
+                "page_start": 10,
+                "page_end": 19,
+                "block_start": 124,
+                "block_end": 258
+            }
+        ]
+    }
+}

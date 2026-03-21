@@ -1,0 +1,704 @@
+{
+    "0": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "DIFC ",
+        "level": 1
+    },
+    "1": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "LAW RELATING TO THE APPLICATION OF DIFC LAWS ",
+        "level": 1
+    },
+    "2": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "(Amended and Restated) ",
+        "level": 2
+    },
+    "3": {
+        "type": "text",
+        "page_idx": 0,
+        "text": "DIFC LAW NO. 10 of 2005 ",
+        "level": 2
+    },
+    "4": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Contents ",
+        "level": 1
+    },
+    "5": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PART 1: GENERAL. ",
+        "level": 2
+    },
+    "6": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "1. Title ......... ............................................................................................................ ...... 1   \n2. Legislative authority.... .............................................................................................................. .... 1   \n3. Application of the Law................................................................................................................................. 1   \n4. Date of Enactment..... .......................................................................................................................... ... 1   \n5. Commencement .. .............................................................................................................................   \n6. Interpretation ................................................................................................................................................ 1 ",
+        "level": 3
+    },
+    "7": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PART 2: SCOPE .... ",
+        "level": 2
+    },
+    "8": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "7. Limitation on scope....... ",
+        "level": 3
+    },
+    "9": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PART 3: APPLICABLE LAW OF CONTRACTS .... ",
+        "level": 2
+    },
+    "10": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "8. 9. Governing law....... .................................................................... .... 3   \nEffectiveness of express choice of governing law........................................................................................ 3   \n10. Absence of express governing law.. ............................................................................. ... 3   \n11. Agency ..... ............................................................................................ ... 3   \n12. Governing law of right of subrogation ...... ........................................................................................ .. 3 ",
+        "level": 3
+    },
+    "11": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PART 4: SUBMISSION TO JURISDICTION IN CONTRACTS.. ",
+        "level": 2
+    },
+    "12": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "13. Effectiveness of express submission to jurisdiction or arbitration ......... ",
+        "level": 3
+    },
+    "13": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PART 5: PROPERTY..",
+        "level": 2
+    },
+    "14": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "14. Law governing rights in property.... .   \n15. Law governing validity of transfer of property . .5   \n16. Securities and investment entitlements ... .5 ",
+        "level": 3
+    },
+    "15": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "PART 6: TRUSTS ... ",
+        "level": 2
+    },
+    "16": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "17. Recognition of trusts . ",
+        "level": 3
+    },
+    "17": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "Schedule 1: INTERPRETATION ... 8 ",
+        "level": 2
+    },
+    "18": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "LAW RELATING TO THE APPLICATION OF DIFC LAWS ",
+        "level": 1
+    },
+    "19": {
+        "type": "text",
+        "page_idx": 1,
+        "text": "i ",
+        "level": 5
+    },
+    "20": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "PART 1: GENERAL ",
+        "level": 2
+    },
+    "21": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Title This Law may be cited as the “Law Relating to the Application of DIFC Laws 2004\". ",
+        "level": 3
+    },
+    "22": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Legislative authority ",
+        "level": 3
+    },
+    "23": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "This Law is made by the Ruler of Dubai. ",
+        "level": 4
+    },
+    "24": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Application of the Law ",
+        "level": 3
+    },
+    "25": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "This Law applies in the jurisdiction of the Dubai International Financial Centre. ",
+        "level": 4
+    },
+    "26": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Date of Enactment ",
+        "level": 3
+    },
+    "27": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "This Law is enacted on the date specified in the Enactment Notice in respect of this Law. ",
+        "level": 4
+    },
+    "28": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "5. Commencement ",
+        "level": 3
+    },
+    "29": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "This Law comes into force on the date specified in the Enactment Notice in respect of this Law. ",
+        "level": 4
+    },
+    "30": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "6. Interpretation ",
+        "level": 3
+    },
+    "31": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "Schedule 1 contains: ",
+        "level": 4
+    },
+    "32": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "(a) interpretative provisions which apply to this Law; and (b) a list of defined terms used in this Law. ",
+        "level": 5
+    },
+    "33": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "LAW RELATING TO THE APPLICATION OF DIFC LAWS ",
+        "level": 1
+    },
+    "34": {
+        "type": "text",
+        "page_idx": 2,
+        "text": "1 ",
+        "level": 5
+    },
+    "35": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "PART 2: SCOPE ",
+        "level": 2
+    },
+    "36": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "7. Limitation on scope ",
+        "level": 3
+    },
+    "37": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(1) The Law shall not apply to: ",
+        "level": 4
+    },
+    "38": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(a) rights and obligations under negotiable instruments to the extent such rights and obligations arise out of their negotiable character;   \n(b) any question of capacity or authority of natural persons, bodies corporate or other organisations;   \n(c) any question of capacity or authority of an agent not appointed under a contract; or   \n(d) any rights or obligations arising from the creation or winding up of a body corporate or other organisation. ",
+        "level": 5
+    },
+    "39": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "(2) In relation to any matter which under this Law is governed by the law of another jurisdiction, any rule of the law of that jurisdiction applying the law of another jurisdiction in relation to that matter shall be disregarded. ",
+        "level": 4
+    },
+    "40": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "LAW RELATING TO THE APPLICATION OF DIFC LAWS ",
+        "level": 1
+    },
+    "41": {
+        "type": "text",
+        "page_idx": 3,
+        "text": "2 ",
+        "level": 5
+    },
+    "42": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "PART 3: APPLICABLE LAW OF CONTRACTS ",
+        "level": 2
+    },
+    "43": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "8. ",
+        "level": 3
+    },
+    "44": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Governing law ",
+        "level": 3
+    },
+    "45": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "The existence, validity, effect, interpretation and performance of a contract, or any term thereof, including any requirements as to formality, shall be determined by the law which governs it. ",
+        "level": 4
+    },
+    "46": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "9. Effectiveness of express choice of governing law ",
+        "level": 3
+    },
+    "47": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "An express choice of a governing law in a contract shall be effective against all persons affected thereby. ",
+        "level": 4
+    },
+    "48": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "10. Absence of express governing law ",
+        "level": 3
+    },
+    "49": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "If the parties do not specify the governing law of a contract, the contract shall be governed by the law of the DIFC. ",
+        "level": 4
+    },
+    "50": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "11. Agency ",
+        "level": 3
+    },
+    "51": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "(1) Where an agent is appointed under a contract, the capacity and authority of the agent shall be determined by the law which governs the contract.   \n(2) Where an agent contracts on behalf of a principal, the rights and liabilities of the principal as regards third parties shall be governed by the law which governs the contract between the agent and the third party. ",
+        "level": 4
+    },
+    "52": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "12. Governing law of right of subrogation ",
+        "level": 3
+    },
+    "53": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "Where a person (the \"creditor\") has a contractual claim upon another (the \"debtor\"), and a third party has a duty to satisfy the creditor, or has in fact satisfied the creditor in discharge of that duty, the law which governs the contractual claim shall determine what extent to which the third person is entitled to exercise against the debtor the rights which the creditor had against the debtor under the law governing the contractual claim. ",
+        "level": 4
+    },
+    "54": {
+        "type": "text",
+        "page_idx": 4,
+        "text": "LAW RELATING TO THE APPLICATION OF DIFC LAWS ",
+        "level": 1
+    },
+    "55": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "PART 4: SUBMISSION TO JURISDICTION IN CONTRACTS ",
+        "level": 2
+    },
+    "56": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "13. Effectiveness of express submission to jurisdiction or arbitration ",
+        "level": 3
+    },
+    "57": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "(1) A submission to the courts of a jurisdiction in a contract shall be effective.   \n(2) A submission to arbitration in a contract shall be effective. ",
+        "level": 4
+    },
+    "58": {
+        "type": "text",
+        "page_idx": 5,
+        "text": "LAW RELATING TO THE APPLICATION OF DIFC LAWS ",
+        "level": 1
+    },
+    "59": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "PART 5: PROPERTY",
+        "level": 2
+    },
+    "60": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "14. Law governing rights in property ",
+        "level": 3
+    },
+    "61": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "Subject to Article 16, the law of the jurisdiction where property is located governs: ",
+        "level": 4
+    },
+    "62": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) the classification of the property as real property or personal property; and (b) the validity and extent of interests in the property. ",
+        "level": 5
+    },
+    "63": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "15. Law governing validity of transfer of property ",
+        "level": 3
+    },
+    "64": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(1) Subject to Article 16, the law of the jurisdiction where property is located governs: ",
+        "level": 4
+    },
+    "65": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) the validity of transfer of the property;   \n(b) the effect on the proprietary rights of the parties thereto and of those claiming under them in respect thereof. ",
+        "level": 5
+    },
+    "66": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(2) Where property is in transit or its location is not known, the validity of a transfer is governed by the law governing that transfer. ",
+        "level": 4
+    },
+    "67": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "16. Securities and investment entitlements ",
+        "level": 3
+    },
+    "68": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(1) The law of an issuer's jurisdiction governs: ",
+        "level": 4
+    },
+    "69": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) the validity of a security; (b) the rights and duties of the issuer with respect to registration of transfer; (c) the effectiveness of registration of transfer by the issuer; and (d) the validity and extent of any third party property interest in a security. ",
+        "level": 5
+    },
+    "70": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(2) The law of an investment intermediary's jurisdiction governs: ",
+        "level": 4
+    },
+    "71": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(a) acquisition of an investment entitlement from the investment intermediary;   \n(b) the rights and duties of the investment intermediary and account holder arising out of an investment entitlement; and   \n(c) the validity and extent of any third party property interest in an investment entitlement. ",
+        "level": 5
+    },
+    "72": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "(3) The law of the jurisdiction in which a security certificate is located at the time of delivery governs the validity and extent of any third party property interest against a person to whom the security certificate is delivered. ",
+        "level": 4
+    },
+    "73": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "LAW RELATING TO THE APPLICATION OF DIFC LAWS ",
+        "level": 1
+    },
+    "74": {
+        "type": "text",
+        "page_idx": 6,
+        "text": "5 ",
+        "level": 5
+    },
+    "75": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(4) For the purpose of this Article an \"issuer's jurisdiction\" is the jurisdiction under which the issuer of the security is organised or, if permitted by the law of that jurisdiction, the law of another jurisdiction specified by the issuer. ",
+        "level": 4
+    },
+    "76": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(5) For the purposes of this Article an \"investment intermediary's jurisdiction\" is: ",
+        "level": 4
+    },
+    "77": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "(a) the jurisdiction in which the investment account is expressed to be maintained in the agreement governing, if any;   \n(b) if paragraph (a) does not apply, the jurisdiction in which the office identified in an account statement as the office serving the account holder's account is situated; failing which   \n(c) the jurisdiction in which head office of the investment intermediary is situated. ",
+        "level": 5
+    },
+    "78": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "LAW RELATING TO THE APPLICATION OF DIFC LAWS ",
+        "level": 1
+    },
+    "79": {
+        "type": "text",
+        "page_idx": 7,
+        "text": "6 ",
+        "level": 5
+    },
+    "80": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "PART 6: TRUSTS ",
+        "level": 2
+    },
+    "81": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "17. Recognition of trusts ",
+        "level": 3
+    },
+    "82": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(1) A trust which is: ",
+        "level": 4
+    },
+    "83": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(a) expressly constituted under the law of another jurisdiction; or (b) created by the law of another jurisdiction. ",
+        "level": 5
+    },
+    "84": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "shall be recognised as a trust. ",
+        "level": 4
+    },
+    "85": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(2) The existence, validity and interpretation of a trust constituted in accordance with Article 17(1)(a) shall be determined by the law under which the trust is constituted. ",
+        "level": 4
+    },
+    "86": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(3) For the purpose of this Article, the law under which a trust is constituted shall be: ",
+        "level": 4
+    },
+    "87": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "(a) in the case of a trust recognised under Article 17(1)(a) the law set out in the instrument constituting the trust; and   \n(b) in the case of a trust recognised under Article 17(1)(b) the law of the jurisdiction by whose law the trust is created. ",
+        "level": 5
+    },
+    "88": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "LAW RELATING TO THE APPLICATION OF DIFC LAWS ",
+        "level": 1
+    },
+    "89": {
+        "type": "text",
+        "page_idx": 8,
+        "text": "7 ",
+        "level": 5
+    },
+    "90": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "SCHEDULE 1 ",
+        "level": 2
+    },
+    "91": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "INTERPRETATION ",
+        "level": 3
+    },
+    "92": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "1. Rules of interpretation ",
+        "level": 3
+    },
+    "93": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(1) In the Law, a reference to: ",
+        "level": 4
+    },
+    "94": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(a) a statutory provision includes a reference to the statutory provision as amended or re-enacted from time to time;   \n(b) a person includes any natural person, body corporate or body unincorporate, including a company, partnership, unincorporated association, government or state; or   \n(b) a calendar year shall mean a year of the Gregorian calendar. ",
+        "level": 5
+    },
+    "95": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(2) The headings in the Law shall not affect its interpretation. ",
+        "level": 4
+    },
+    "96": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "2. Legislation in the DIFC ",
+        "level": 3
+    },
+    "97": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "References to legislation in the Law shall be construed in accordance with the following provisions: ",
+        "level": 4
+    },
+    "98": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "(a) Federal Law is law made by the federal government of the United Arab Emirates;   \n(b) Dubai Law is law made by the Ruler, as applicable in the Emirate of Dubai;   \n(c) DIFC Law is law made by the Ruler (including, by way of example, the Law), as applicable in the DIFC; and   \n(d) the Law is the law relating to the Application of DIFC Laws, DIFC Law No.4 of 2004 made by the Ruler. ",
+        "level": 5
+    },
+    "99": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "3. Defined terms ",
+        "level": 3
+    },
+    "100": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "In the Law, unless the context indicates otherwise, the defined terms listed below shall have the corresponding meanings: ",
+        "level": 4
+    },
+    "101": {
+        "type": "table",
+        "page_idx": 9,
+        "text": "<table><tr><td colspan=\"1\" rowspan=\"1\">Term</td><td colspan=\"1\" rowspan=\"1\">Definition</td></tr><tr><td colspan=\"1\" rowspan=\"1\">account holder</td><td colspan=\"1\" rowspan=\"1\">a person in whose name an investment intermediary maintains aninvestment account, whether that person is acting for his own accountor for others (including in the capacity of investment intermediary)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">bank</td><td colspan=\"1\" rowspan=\"1\">a person who in the ordinary course of business receives deposits orother repayable sums from the public</td></tr><tr><td colspan=\"1\" rowspan=\"1\">commodity account</td><td colspan=\"1\" rowspan=\"1\">an account maintained by a commodity broker in which a commoditycontract is carried for a commodity customer</td></tr><tr><td colspan=\"1\" rowspan=\"1\">commodity</td><td colspan=\"1\" rowspan=\"1\">a commodity futures contract, an option on a commodity</td></tr><tr><td colspan=\"1\" rowspan=\"1\">contract</td><td colspan=\"1\" rowspan=\"1\">futures contract, or a commodity option</td></tr><tr><td colspan=\"1\" rowspan=\"1\">commoditycustomer</td><td colspan=\"1\" rowspan=\"1\">a person for which a commodity broker carries a commodity contracton its books</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC</td><td colspan=\"1\" rowspan=\"1\">the Dubai International Financial Centre</td></tr><tr><td colspan=\"1\" rowspan=\"1\">entitlement holder</td><td colspan=\"1\" rowspan=\"1\">a person who has an investment entitlement against an investmentintermediary</td></tr><tr><td colspan=\"1\" rowspan=\"1\">intangible</td><td colspan=\"1\" rowspan=\"1\">a thing other than a tangible thing</td></tr><tr><td colspan=\"1\" rowspan=\"1\">investment</td><td colspan=\"1\" rowspan=\"1\">has the meaning prescribed in the Rules made under the RegulatoryLaw 2004</td></tr><tr><td colspan=\"1\" rowspan=\"1\">investment account</td><td colspan=\"1\" rowspan=\"1\">an account created between a person and an investment intermediaryfor the safekeeping of assets by way of custody, collateral or margin.</td></tr><tr><td colspan=\"1\" rowspan=\"1\">investmentintermediary</td><td colspan=\"1\" rowspan=\"1\">a person who in the ordinary course of his business transactsinvestments or holds investments by way of custody or security</td></tr><tr><td colspan=\"1\" rowspan=\"1\">jurisdiction</td><td colspan=\"1\" rowspan=\"1\">includes the jurisdiction of the DIFC unless the context otherwiseprovides</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Law</td><td colspan=\"1\" rowspan=\"1\">the Law Relating to the Application of DIFC Laws 2004</td></tr><tr><td colspan=\"1\" rowspan=\"1\">personal property</td><td colspan=\"1\" rowspan=\"1\">any property other than real property</td></tr><tr><td colspan=\"1\" rowspan=\"1\">purchaser</td><td colspan=\"1\" rowspan=\"1\">a person who has acquired or is in the process of acquiring title(whether contingent or absolute) to any property other than as arecipient of a gift or other voluntary transfer</td></tr><tr><td colspan=\"1\" rowspan=\"1\">real property</td><td colspan=\"1\" rowspan=\"1\">any right or interest in land</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Ruler</td><td colspan=\"1\" rowspan=\"1\">the ruler of the Emirate of Dubai</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Rules</td><td colspan=\"1\" rowspan=\"1\">has the meaning given in Article 2 of Schedule 1 of the RegulatoryLaw 2004</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Schedule</td><td colspan=\"1\" rowspan=\"1\">a schedule to the Law</td></tr><tr><td colspan=\"1\" rowspan=\"1\">security</td><td colspan=\"1\" rowspan=\"1\">has the meaning prescribed in the Rules made under the RegulatoryLaw 2004</td></tr><tr><td colspan=\"1\" rowspan=\"1\">security certificate</td><td colspan=\"1\" rowspan=\"1\">a certificate representing a security, the delivery of which is capable oftransferring title to that security</td></tr><tr><td colspan=\"1\" rowspan=\"1\">security interest</td><td colspan=\"1\" rowspan=\"1\">an interest in personal property which secures payment or performanceof an obligation</td></tr><tr><td colspan=\"1\" rowspan=\"1\">investmententitlement</td><td colspan=\"1\" rowspan=\"1\">the rights of an entitlement holder with respect to an investmentcredited to his account</td></tr><tr><td>trust</td><td>the legal relationship created by a settler which assets are placed under the control of a trustee for the benefit of a beneficiary or for a specific purpose</td></tr></table>",
+        "level": 5
+    },
+    "102": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "LAW RELATING TO THE APPLICATION OF DIFC LAWS ",
+        "level": 1
+    },
+    "103": {
+        "type": "text",
+        "page_idx": 9,
+        "text": "8 ",
+        "level": 5
+    },
+    "104": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "LAW RELATING TO THE APPLICATION OF DIFC LAWS ",
+        "level": 1
+    },
+    "105": {
+        "type": "text",
+        "page_idx": 10,
+        "text": "9 ",
+        "level": 5
+    },
+    "106": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "4. Location ",
+        "level": 3
+    },
+    "107": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "(1) For the purpose of Part 5 of the Law, the location of property shall be determined in accordance with this paragraph. ",
+        "level": 4
+    },
+    "108": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "(2) Subject to paragraphs 4(3), (4) and (5), location means: ",
+        "level": 4
+    },
+    "109": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "(a) in relation to a tangible thing, the jurisdiction in which the tangible thing is; and   \n(b) in relation to an intangible, the jurisdiction in which the right to the intangible can be enforced or recovered. ",
+        "level": 5
+    },
+    "110": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "(3) The location of a merchant ship or aircraft is the jurisdiction in which it is registered. ",
+        "level": 4
+    },
+    "111": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "(4) The location of a debt held in a bank is: ",
+        "level": 4
+    },
+    "112": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "(a) the jurisdiction in which the deposit account is expressed in the agreement to be maintained, if any;   \n(b) if paragraph (a) does not apply, the jurisdiction in which the office identified in an account statement as the office serving the customer's account is situated; failing which   \n(c) the jurisdiction in which the head office of the bank is situated. ",
+        "level": 5
+    },
+    "113": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "(5) The location of a commodity account is: ",
+        "level": 4
+    },
+    "114": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "(a) the jurisdiction in which the commodity account is expressed to be maintained in the agreement governing the relationship between the commodity broker and the commodity customer, if any;   \n(b) if paragraph (a) does not apply, the jurisdiction in which the office identified in an account statement as the office serving the commodity customer's account is situated; failing which   \n(c) the jurisdiction in which the head office of the commodity broker is situated. ",
+        "level": 5
+    },
+    "115": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "LAW RELATING TO THE APPLICATION OF DIFC LAWS ",
+        "level": 1
+    },
+    "116": {
+        "type": "text",
+        "page_idx": 11,
+        "text": "10 ",
+        "level": 5
+    }
+}

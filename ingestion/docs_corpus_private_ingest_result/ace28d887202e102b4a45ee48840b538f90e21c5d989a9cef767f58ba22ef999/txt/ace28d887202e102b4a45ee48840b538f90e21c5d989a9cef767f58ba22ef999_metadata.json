@@ -1,0 +1,1597 @@
+{
+    "doc_type": "law",
+    "official_title": "Law of Damages and Remedies",
+    "official_title_normalized": "law of damages and remedies",
+    "short_title": "Law of Damages and Remedies 2005",
+    "short_title_normalized": "law of damages and remedies 2005",
+    "law_number": "7",
+    "law_year": "2005",
+    "official_citation": "DIFC Law No. 7 of 2005",
+    "official_citation_normalized": "difc law no 7 of 2005",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "March 2024",
+    "amending_laws": [
+        "As amended by DIFC Laws Amendment Law DIFC Law No. 3 of 2024",
+        "DIFC Laws Amendment Law DIFC Law No. 2 of 2022"
+    ],
+    "administering_authority": "",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 18,
+    "page_count": 18,
+    "alias_keys": [
+        "DIFC Law No. 7 of 2005",
+        "Law of Damages and Remedies",
+        "Law of Damages and Remedies 2005"
+    ],
+    "article_index": {
+        "Article 1": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 221,
+            "block_end": 223
+        },
+        "Article 7": {
+            "heading": "Application.. .......................................................................................................................... ... 1",
+            "article_number": "7",
+            "page_start": 2,
+            "page_end": 2,
+            "block_start": 9,
+            "block_end": 9
+        },
+        "Article 8": {
+            "heading": "Right to damages",
+            "article_number": "8",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 44,
+            "block_end": 45
+        },
+        "Article 23": {
+            "heading": "Right to damages",
+            "article_number": "23",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 83,
+            "block_end": 84
+        },
+        "Article 42": {
+            "heading": "Powers of the Court",
+            "article_number": "42",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 190,
+            "block_end": 194
+        },
+        "Article 48": {
+            "heading": "Right to restitution",
+            "article_number": "48",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 215,
+            "block_end": 216
+        },
+        "Article 4": {
+            "heading": "Date of enactment",
+            "article_number": "4",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 32,
+            "block_end": 35
+        },
+        "Article 6": {
+            "heading": "Interpretation",
+            "article_number": "6",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 36,
+            "block_end": 43
+        },
+        "Article 9": {
+            "heading": "Full compensation",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 46,
+            "block_end": 47
+        },
+        "Article 10": {
+            "heading": "Measure of damages",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 48,
+            "block_end": 50
+        },
+        "Article 11": {
+            "heading": "Certainty of harm",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 51,
+            "block_end": 52
+        },
+        "Article 11(1)": {
+            "heading": "Certainty of harm",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 52,
+            "block_end": 52
+        },
+        "Article 12": {
+            "heading": "Foreseeability of harm",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 53,
+            "block_end": 54
+        },
+        "Article 13": {
+            "heading": "Proof of harm in case of replacement transaction",
+            "article_number": "13",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 55,
+            "block_end": 56
+        },
+        "Article 14": {
+            "heading": "Proof of loss by current price",
+            "article_number": "14",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 57,
+            "block_end": 60
+        },
+        "Article 14(1)": {
+            "heading": "Proof of loss by current price",
+            "article_number": "14",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 58,
+            "block_end": 59
+        },
+        "Article 14(2)": {
+            "heading": "Proof of loss by current price",
+            "article_number": "14",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 60,
+            "block_end": 60
+        },
+        "Article 15": {
+            "heading": "Loss due in part to aggrieved party",
+            "article_number": "15",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 61,
+            "block_end": 62
+        },
+        "Article 16": {
+            "heading": "Mitigation of loss",
+            "article_number": "16",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 63,
+            "block_end": 64
+        },
+        "Article 16(1)": {
+            "heading": "Mitigation of loss",
+            "article_number": "16",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 64,
+            "block_end": 64
+        },
+        "Article 17": {
+            "heading": "Interest for failure to pay Money",
+            "article_number": "17",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 65,
+            "block_end": 66
+        },
+        "Article 17(1)": {
+            "heading": "Interest for failure to pay Money",
+            "article_number": "17",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 66,
+            "block_end": 66
+        },
+        "Article 18": {
+            "heading": "Interest on damages",
+            "article_number": "18",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 67,
+            "block_end": 68
+        },
+        "Article 19": {
+            "heading": "Manner of monetary redress",
+            "article_number": "19",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 69,
+            "block_end": 70
+        },
+        "Article 20": {
+            "heading": "Currency in which to assess damages",
+            "article_number": "20",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 71,
+            "block_end": 72
+        },
+        "Article 21": {
+            "heading": "Agreed payment for non-performance",
+            "article_number": "21",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 73,
+            "block_end": 77
+        },
+        "Article 21(1)": {
+            "heading": "Agreed payment for non-performance",
+            "article_number": "21",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 74,
+            "block_end": 74
+        },
+        "Article 21(2)": {
+            "heading": "Agreed payment for non-performance",
+            "article_number": "21",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 75,
+            "block_end": 77
+        },
+        "Article 22": {
+            "heading": "Limitation",
+            "article_number": "22",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 78,
+            "block_end": 82
+        },
+        "Article 22(1)": {
+            "heading": "Limitation",
+            "article_number": "22",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 79,
+            "block_end": 82
+        },
+        "Article 24": {
+            "heading": "Full Compensation",
+            "article_number": "24",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 85,
+            "block_end": 86
+        },
+        "Article 25": {
+            "heading": "Measure of damages",
+            "article_number": "25",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 87,
+            "block_end": 88
+        },
+        "Article 26": {
+            "heading": "Special cases",
+            "article_number": "26",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 89,
+            "block_end": 90
+        },
+        "Article 26(1)": {
+            "heading": "Special cases",
+            "article_number": "26",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 90,
+            "block_end": 90
+        },
+        "Article 27": {
+            "heading": "Certainty of loss",
+            "article_number": "27",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 91,
+            "block_end": 92
+        },
+        "Article 27(1)": {
+            "heading": "Certainty of loss",
+            "article_number": "27",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 92,
+            "block_end": 92
+        },
+        "Article 28": {
+            "heading": "Forseeability of harm",
+            "article_number": "28",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 93,
+            "block_end": 98
+        },
+        "Article 28(1)": {
+            "heading": "Forseeability of harm",
+            "article_number": "28",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 94,
+            "block_end": 94
+        },
+        "Article 28(2)(a)": {
+            "heading": "Forseeability of harm",
+            "article_number": "28",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 96,
+            "block_end": 98
+        },
+        "Article 28(2)": {
+            "heading": "Forseeability of harm",
+            "article_number": "28",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 95,
+            "block_end": 98
+        },
+        "Article 29": {
+            "heading": "Loss due in part to injured party",
+            "article_number": "29",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 99,
+            "block_end": 101
+        },
+        "Article 29(1)": {
+            "heading": "Loss due in part to injured party",
+            "article_number": "29",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 100,
+            "block_end": 100
+        },
+        "Article 29(2)": {
+            "heading": "Loss due in part to injured party",
+            "article_number": "29",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 101,
+            "block_end": 101
+        },
+        "Article 30": {
+            "heading": "Mitigation of loss",
+            "article_number": "30",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 102,
+            "block_end": 103
+        },
+        "Article 30(1)": {
+            "heading": "Mitigation of loss",
+            "article_number": "30",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 103,
+            "block_end": 103
+        },
+        "Article 31": {
+            "heading": "Prohibition of double recovery",
+            "article_number": "31",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 104,
+            "block_end": 105
+        },
+        "Article 32": {
+            "heading": "Interest on damages",
+            "article_number": "32",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 106,
+            "block_end": 107
+        },
+        "Article 33": {
+            "heading": "Manner of monetary redress",
+            "article_number": "33",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 108,
+            "block_end": 112
+        },
+        "Article 34": {
+            "heading": "Remedies stipulated under this Law",
+            "article_number": "34",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 113,
+            "block_end": 114
+        },
+        "Article 35": {
+            "heading": "Other orders",
+            "article_number": "35",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 115,
+            "block_end": 121
+        },
+        "Article 35(1)": {
+            "heading": "Other orders",
+            "article_number": "35",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 117,
+            "block_end": 117
+        },
+        "Article 35(2)(a)": {
+            "heading": "Other orders",
+            "article_number": "35",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 119,
+            "block_end": 119
+        },
+        "Article 35(2)": {
+            "heading": "Other orders",
+            "article_number": "35",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 118,
+            "block_end": 119
+        },
+        "Article 35(3)": {
+            "heading": "Other orders",
+            "article_number": "35",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 120,
+            "block_end": 121
+        },
+        "Article 36": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 10,
+            "page_end": 12,
+            "block_start": 122,
+            "block_end": 145
+        },
+        "Article 36(1)(a)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 126,
+            "block_end": 126
+        },
+        "Article 36(1)(b)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 127,
+            "block_end": 127
+        },
+        "Article 36(1)(c)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 128,
+            "block_end": 128
+        },
+        "Article 36(1)(i)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 132,
+            "block_end": 132
+        },
+        "Article 36(1)(d)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 130,
+            "block_end": 130
+        },
+        "Article 36(1)(e)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 131,
+            "block_end": 131
+        },
+        "Article 36(1)(f)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 133,
+            "block_end": 133
+        },
+        "Article 36(1)(g)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 134,
+            "block_end": 134
+        },
+        "Article 36(1)(h)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 135,
+            "block_end": 136
+        },
+        "Article 36(1)(j)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 137,
+            "block_end": 137
+        },
+        "Article 36(1)(k)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 138,
+            "block_end": 138
+        },
+        "Article 36(1)(l)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 139,
+            "block_end": 139
+        },
+        "Article 36(1)(m)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 140,
+            "block_end": 140
+        },
+        "Article 36(1)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 123,
+            "block_end": 140
+        },
+        "Article 36(2)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 141,
+            "block_end": 141
+        },
+        "Article 36(3)": {
+            "heading": "Orders for interim remedies",
+            "article_number": "36",
+            "page_start": 11,
+            "page_end": 12,
+            "block_start": 142,
+            "block_end": 145
+        },
+        "Article 37": {
+            "heading": "Declarations",
+            "article_number": "37",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 146,
+            "block_end": 147
+        },
+        "Article 38": {
+            "heading": "Injunctions",
+            "article_number": "38",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 148,
+            "block_end": 151
+        },
+        "Article 38(1)(a)": {
+            "heading": "Injunctions",
+            "article_number": "38",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 150,
+            "block_end": 150
+        },
+        "Article 38(1)": {
+            "heading": "Injunctions",
+            "article_number": "38",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 149,
+            "block_end": 150
+        },
+        "Article 38(2)": {
+            "heading": "Injunctions",
+            "article_number": "38",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 151,
+            "block_end": 151
+        },
+        "Article 39": {
+            "heading": "Specific Performance",
+            "article_number": "39",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 152,
+            "block_end": 156
+        },
+        "Article 39(1)(a)": {
+            "heading": "Specific Performance",
+            "article_number": "39",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 154,
+            "block_end": 154
+        },
+        "Article 39(1)": {
+            "heading": "Specific Performance",
+            "article_number": "39",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 153,
+            "block_end": 154
+        },
+        "Article 39(2)": {
+            "heading": "Specific Performance",
+            "article_number": "39",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 155,
+            "block_end": 156
+        },
+        "Article 40": {
+            "heading": "Damages as additional or substitute remedy",
+            "article_number": "40",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 157,
+            "block_end": 159
+        },
+        "Article 40(1)": {
+            "heading": "Damages as additional or substitute remedy",
+            "article_number": "40",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 158,
+            "block_end": 158
+        },
+        "Article 40(2)": {
+            "heading": "Damages as additional or substitute remedy",
+            "article_number": "40",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 159,
+            "block_end": 159
+        },
+        "Article 41": {
+            "heading": "Accounts",
+            "article_number": "41",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 160,
+            "block_end": 161
+        },
+        "Article 41(1)": {
+            "heading": "Accounts",
+            "article_number": "41",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 161,
+            "block_end": 161
+        },
+        "Article 41A": {
+            "heading": "Recission",
+            "article_number": "41A",
+            "page_start": 12,
+            "page_end": 13,
+            "block_start": 162,
+            "block_end": 170
+        },
+        "Article 41A(1)(a)": {
+            "heading": "Recission",
+            "article_number": "41A",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 166,
+            "block_end": 166
+        },
+        "Article 41A(1)": {
+            "heading": "Recission",
+            "article_number": "41A",
+            "page_start": 12,
+            "page_end": 13,
+            "block_start": 163,
+            "block_end": 166
+        },
+        "Article 41A(2)": {
+            "heading": "Recission",
+            "article_number": "41A",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 167,
+            "block_end": 167
+        },
+        "Article 41A(3)(a)": {
+            "heading": "Recission",
+            "article_number": "41A",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 169,
+            "block_end": 169
+        },
+        "Article 41A(3)": {
+            "heading": "Recission",
+            "article_number": "41A",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 168,
+            "block_end": 169
+        },
+        "Article 41A(4)": {
+            "heading": "Recission",
+            "article_number": "41A",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 170,
+            "block_end": 170
+        },
+        "Article 41B": {
+            "heading": "Rectification",
+            "article_number": "41B",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 171,
+            "block_end": 184
+        },
+        "Article 41B(1)": {
+            "heading": "Rectification",
+            "article_number": "41B",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 172,
+            "block_end": 172
+        },
+        "Article 41B(2)(a)": {
+            "heading": "Rectification",
+            "article_number": "41B",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 174,
+            "block_end": 174
+        },
+        "Article 41B(2)": {
+            "heading": "Rectification",
+            "article_number": "41B",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 173,
+            "block_end": 174
+        },
+        "Article 41B(3)(a)": {
+            "heading": "Rectification",
+            "article_number": "41B",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 176,
+            "block_end": 176
+        },
+        "Article 41B(3)(i)": {
+            "heading": "Rectification",
+            "article_number": "41B",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 177,
+            "block_end": 177
+        },
+        "Article 41B(3)(b)": {
+            "heading": "Rectification",
+            "article_number": "41B",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 178,
+            "block_end": 180
+        },
+        "Article 41B(3)(c)": {
+            "heading": "Rectification",
+            "article_number": "41B",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 181,
+            "block_end": 181
+        },
+        "Article 41B(3)": {
+            "heading": "Rectification",
+            "article_number": "41B",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 175,
+            "block_end": 181
+        },
+        "Article 41B(4)(a)": {
+            "heading": "Rectification",
+            "article_number": "41B",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 183,
+            "block_end": 183
+        },
+        "Article 41B(4)": {
+            "heading": "Rectification",
+            "article_number": "41B",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 182,
+            "block_end": 183
+        },
+        "Article 41B(5)": {
+            "heading": "Rectification",
+            "article_number": "41B",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 184,
+            "block_end": 184
+        },
+        "Article 41C": {
+            "heading": "Action for the agreed sum",
+            "article_number": "41C",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 185,
+            "block_end": 189
+        },
+        "Article 41C(1)(a)": {
+            "heading": "Action for the agreed sum",
+            "article_number": "41C",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 187,
+            "block_end": 187
+        },
+        "Article 41C(1)": {
+            "heading": "Action for the agreed sum",
+            "article_number": "41C",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 186,
+            "block_end": 187
+        },
+        "Article 41C(2)": {
+            "heading": "Action for the agreed sum",
+            "article_number": "41C",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 188,
+            "block_end": 189
+        },
+        "Article 42(1)(a)": {
+            "heading": "Powers of the Court",
+            "article_number": "42",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 192,
+            "block_end": 192
+        },
+        "Article 42(1)": {
+            "heading": "Powers of the Court",
+            "article_number": "42",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 191,
+            "block_end": 192
+        },
+        "Article 42(2)": {
+            "heading": "Powers of the Court",
+            "article_number": "42",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 193,
+            "block_end": 194
+        },
+        "Article 43": {
+            "heading": "Charging Orders",
+            "article_number": "43",
+            "page_start": 14,
+            "page_end": 15,
+            "block_start": 195,
+            "block_end": 200
+        },
+        "Article 43(1)(a)": {
+            "heading": "Charging Orders",
+            "article_number": "43",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 197,
+            "block_end": 199
+        },
+        "Article 43(1)": {
+            "heading": "Charging Orders",
+            "article_number": "43",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 196,
+            "block_end": 199
+        },
+        "Article 43(2)": {
+            "heading": "Charging Orders",
+            "article_number": "43",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 200,
+            "block_end": 200
+        },
+        "Article 44": {
+            "heading": "Attachment of Future Assets",
+            "article_number": "44",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 201,
+            "block_end": 202
+        },
+        "Article 44(1)": {
+            "heading": "Attachment of Future Assets",
+            "article_number": "44",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 202,
+            "block_end": 202
+        },
+        "Article 45": {
+            "heading": "Execution against Assets",
+            "article_number": "45",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 203,
+            "block_end": 207
+        },
+        "Article 45(1)": {
+            "heading": "Execution against Assets",
+            "article_number": "45",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 204,
+            "block_end": 204
+        },
+        "Article 45(2)(a)": {
+            "heading": "Execution against Assets",
+            "article_number": "45",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 206,
+            "block_end": 206
+        },
+        "Article 45(2)": {
+            "heading": "Execution against Assets",
+            "article_number": "45",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 205,
+            "block_end": 206
+        },
+        "Article 45(3)": {
+            "heading": "Execution against Assets",
+            "article_number": "45",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 207,
+            "block_end": 207
+        },
+        "Article 46": {
+            "heading": "Appointment of a Receiver",
+            "article_number": "46",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 208,
+            "block_end": 209
+        },
+        "Article 47": {
+            "heading": "Examination of Judgment Debtor",
+            "article_number": "47",
+            "page_start": 15,
+            "page_end": 16,
+            "block_start": 210,
+            "block_end": 214
+        },
+        "Article 49": {
+            "heading": "Damages in lieu of restitution",
+            "article_number": "49",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 217,
+            "block_end": 220
+        },
+        "Article 2": {
+            "heading": "Legislation in the DIFC",
+            "article_number": "2",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 224,
+            "block_end": 226
+        },
+        "Article 3": {
+            "heading": "Defined Terms",
+            "article_number": "3",
+            "page_start": 17,
+            "page_end": 18,
+            "block_start": 227,
+            "block_end": 232
+        }
+    },
+    "section_heading_index": {
+        "Title .... 1 2. Legislative Authority . .1 3. Application of the Law...... ................................................................................................................. ... 1 4. Date of enactment .... .......................................................................................................... .1 5. Commencement . 1 6. Interpretation....... .... 1": [
+            {
+                "heading": "Title .... 1 2. Legislative Authority . .1 3. Application of the Law...... ................................................................................................................. ... 1 4. Date of enactment .... .......................................................................................................... .1 5. Commencement . 1 6. Interpretation....... .... 1",
+                "article_number": "1",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 7,
+                "block_end": 8
+            }
+        ],
+        "Application.. .......................................................................................................................... ... 1": [
+            {
+                "heading": "Application.. .......................................................................................................................... ... 1",
+                "article_number": "7",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 9,
+                "block_end": 9
+            }
+        ],
+        "Right to damages........ ..................................................................................................................... ..... 1 9. Full compensation ... ................................................................................................................. .1 10. Measure of damages.................................................................................................................................. ..... 2 11. Certainty of harm ..... ........................................................................................................................ .... 2 12. Foreseeability of harm.......................... ............................................................................................... .... 2 13. Proof of harm in case of replacement transaction . ................................................................................ .2 14. Proof of loss by current price .. ......................................................................... .. 2 15. Loss due in part to aggrieved party . ...................................................................................................... .... 3 16. Mitigation of loss ...... ..... 17. Interest for failure to pay Money.. .................................................................................................. ... 3 18. Interest on damages..... .................................................................................................... .. 3 19. Manner of monetary redress.... ........................................................................................... .... 3 20. Currency in which to assess damages . ................................................................................................ .... 3 21. Agreed payment for non-performance ................................................................................................... ... 3 22. Limitation... .5": [
+            {
+                "heading": "Right to damages........ ..................................................................................................................... ..... 1 9. Full compensation ... ................................................................................................................. .1 10. Measure of damages.................................................................................................................................. ..... 2 11. Certainty of harm ..... ........................................................................................................................ .... 2 12. Foreseeability of harm.......................... ............................................................................................... .... 2 13. Proof of harm in case of replacement transaction . ................................................................................ .2 14. Proof of loss by current price .. ......................................................................... .. 2 15. Loss due in part to aggrieved party . ...................................................................................................... .... 3 16. Mitigation of loss ...... ..... 17. Interest for failure to pay Money.. .................................................................................................. ... 3 18. Interest on damages..... .................................................................................................... .. 3 19. Manner of monetary redress.... ........................................................................................... .... 3 20. Currency in which to assess damages . ................................................................................................ .... 3 21. Agreed payment for non-performance ................................................................................................... ... 3 22. Limitation... .5",
+                "article_number": "8",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 10,
+                "block_end": 11
+            }
+        ],
+        "Right to damages....... ..................................................................................................................... ..... 5 24. Full Compensation .... ....................................................................................................................... .... 5 25. Measure of damages.. .............................................................................................................. .. 5 26. Special cases .. .................................................................................................................... ... 5 27. Certainty of loss ...... 28. Forseeability of harm .... 29. Loss due in part to injured party..................................................................................................................... 6 30. Mitigation of loss ....... .................................................................................................................... 6 31. Prohibition of double recovery.. ...................................................................................................... .... 6 32. Interest on damages.... ............................................................................................................. ..... 6 33. Manner of monetary redress........................................................................................................................... 6": [
+            {
+                "heading": "Right to damages....... ..................................................................................................................... ..... 5 24. Full Compensation .... ....................................................................................................................... .... 5 25. Measure of damages.. .............................................................................................................. .. 5 26. Special cases .. .................................................................................................................... ... 5 27. Certainty of loss ...... 28. Forseeability of harm .... 29. Loss due in part to injured party..................................................................................................................... 6 30. Mitigation of loss ....... .................................................................................................................... 6 31. Prohibition of double recovery.. ...................................................................................................... .... 6 32. Interest on damages.... ............................................................................................................. ..... 6 33. Manner of monetary redress........................................................................................................................... 6",
+                "article_number": "23",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 12,
+                "block_end": 18
+            }
+        ],
+        "Powers of the Court.... ..11 43. Charging Orders... ..11 44. Attachment of Future Assets . ..12 45. Execution against Assets... .12 46. Appointment of a Receiver .. .12 47. Examination of Judgment Debtor.. .12": [
+            {
+                "heading": "Powers of the Court.... ..11 43. Charging Orders... ..11 44. Attachment of Future Assets . ..12 45. Execution against Assets... .12 46. Appointment of a Receiver .. .12 47. Examination of Judgment Debtor.. .12",
+                "article_number": "42",
+                "page_start": 2,
+                "page_end": 3,
+                "block_start": 19,
+                "block_end": 21
+            }
+        ],
+        "Right to restitution . ..13 49. Damages in lieu of restitution . .13": [
+            {
+                "heading": "Right to restitution . ..13 49. Damages in lieu of restitution . .13",
+                "article_number": "48",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 22,
+                "block_end": 31
+            }
+        ],
+        "Date of enactment": [
+            {
+                "heading": "Date of enactment",
+                "article_number": "4",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 32,
+                "block_end": 35
+            }
+        ],
+        "Interpretation": [
+            {
+                "heading": "Interpretation",
+                "article_number": "6",
+                "page_start": 4,
+                "page_end": 5,
+                "block_start": 36,
+                "block_end": 43
+            }
+        ],
+        "Right to damages": [
+            {
+                "heading": "Right to damages",
+                "article_number": "8",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 44,
+                "block_end": 45
+            },
+            {
+                "heading": "Right to damages",
+                "article_number": "23",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 83,
+                "block_end": 84
+            }
+        ],
+        "Full compensation": [
+            {
+                "heading": "Full compensation",
+                "article_number": "9",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 46,
+                "block_end": 47
+            }
+        ],
+        "Measure of damages": [
+            {
+                "heading": "Measure of damages",
+                "article_number": "10",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 48,
+                "block_end": 50
+            },
+            {
+                "heading": "Measure of damages",
+                "article_number": "25",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 87,
+                "block_end": 88
+            }
+        ],
+        "Certainty of harm": [
+            {
+                "heading": "Certainty of harm",
+                "article_number": "11",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 51,
+                "block_end": 52
+            }
+        ],
+        "Foreseeability of harm": [
+            {
+                "heading": "Foreseeability of harm",
+                "article_number": "12",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 53,
+                "block_end": 54
+            }
+        ],
+        "Proof of harm in case of replacement transaction": [
+            {
+                "heading": "Proof of harm in case of replacement transaction",
+                "article_number": "13",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 55,
+                "block_end": 56
+            }
+        ],
+        "Proof of loss by current price": [
+            {
+                "heading": "Proof of loss by current price",
+                "article_number": "14",
+                "page_start": 5,
+                "page_end": 6,
+                "block_start": 57,
+                "block_end": 60
+            }
+        ],
+        "Loss due in part to aggrieved party": [
+            {
+                "heading": "Loss due in part to aggrieved party",
+                "article_number": "15",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 61,
+                "block_end": 62
+            }
+        ],
+        "Mitigation of loss": [
+            {
+                "heading": "Mitigation of loss",
+                "article_number": "16",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 63,
+                "block_end": 64
+            },
+            {
+                "heading": "Mitigation of loss",
+                "article_number": "30",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 102,
+                "block_end": 103
+            }
+        ],
+        "Interest for failure to pay Money": [
+            {
+                "heading": "Interest for failure to pay Money",
+                "article_number": "17",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 65,
+                "block_end": 66
+            }
+        ],
+        "Interest on damages": [
+            {
+                "heading": "Interest on damages",
+                "article_number": "18",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 67,
+                "block_end": 68
+            },
+            {
+                "heading": "Interest on damages",
+                "article_number": "32",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 106,
+                "block_end": 107
+            }
+        ],
+        "Manner of monetary redress": [
+            {
+                "heading": "Manner of monetary redress",
+                "article_number": "19",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 69,
+                "block_end": 70
+            },
+            {
+                "heading": "Manner of monetary redress",
+                "article_number": "33",
+                "page_start": 9,
+                "page_end": 10,
+                "block_start": 108,
+                "block_end": 112
+            }
+        ],
+        "Currency in which to assess damages": [
+            {
+                "heading": "Currency in which to assess damages",
+                "article_number": "20",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 71,
+                "block_end": 72
+            }
+        ],
+        "Agreed payment for non-performance": [
+            {
+                "heading": "Agreed payment for non-performance",
+                "article_number": "21",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 73,
+                "block_end": 77
+            }
+        ],
+        "Limitation": [
+            {
+                "heading": "Limitation",
+                "article_number": "22",
+                "page_start": 7,
+                "page_end": 8,
+                "block_start": 78,
+                "block_end": 82
+            }
+        ],
+        "Full Compensation": [
+            {
+                "heading": "Full Compensation",
+                "article_number": "24",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 85,
+                "block_end": 86
+            }
+        ],
+        "Special cases": [
+            {
+                "heading": "Special cases",
+                "article_number": "26",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 89,
+                "block_end": 90
+            }
+        ],
+        "Certainty of loss": [
+            {
+                "heading": "Certainty of loss",
+                "article_number": "27",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 91,
+                "block_end": 92
+            }
+        ],
+        "Forseeability of harm": [
+            {
+                "heading": "Forseeability of harm",
+                "article_number": "28",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 93,
+                "block_end": 98
+            }
+        ],
+        "Loss due in part to injured party": [
+            {
+                "heading": "Loss due in part to injured party",
+                "article_number": "29",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 99,
+                "block_end": 101
+            }
+        ],
+        "Prohibition of double recovery": [
+            {
+                "heading": "Prohibition of double recovery",
+                "article_number": "31",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 104,
+                "block_end": 105
+            }
+        ],
+        "Remedies stipulated under this Law": [
+            {
+                "heading": "Remedies stipulated under this Law",
+                "article_number": "34",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 113,
+                "block_end": 114
+            }
+        ],
+        "Other orders": [
+            {
+                "heading": "Other orders",
+                "article_number": "35",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 115,
+                "block_end": 121
+            }
+        ],
+        "Orders for interim remedies": [
+            {
+                "heading": "Orders for interim remedies",
+                "article_number": "36",
+                "page_start": 10,
+                "page_end": 12,
+                "block_start": 122,
+                "block_end": 145
+            }
+        ],
+        "Declarations": [
+            {
+                "heading": "Declarations",
+                "article_number": "37",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 146,
+                "block_end": 147
+            }
+        ],
+        "Injunctions": [
+            {
+                "heading": "Injunctions",
+                "article_number": "38",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 148,
+                "block_end": 151
+            }
+        ],
+        "Specific Performance": [
+            {
+                "heading": "Specific Performance",
+                "article_number": "39",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 152,
+                "block_end": 156
+            }
+        ],
+        "Damages as additional or substitute remedy": [
+            {
+                "heading": "Damages as additional or substitute remedy",
+                "article_number": "40",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 157,
+                "block_end": 159
+            }
+        ],
+        "Accounts": [
+            {
+                "heading": "Accounts",
+                "article_number": "41",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 160,
+                "block_end": 161
+            }
+        ],
+        "Recission": [
+            {
+                "heading": "Recission",
+                "article_number": "41A",
+                "page_start": 12,
+                "page_end": 13,
+                "block_start": 162,
+                "block_end": 170
+            }
+        ],
+        "Rectification": [
+            {
+                "heading": "Rectification",
+                "article_number": "41B",
+                "page_start": 13,
+                "page_end": 14,
+                "block_start": 171,
+                "block_end": 184
+            }
+        ],
+        "Action for the agreed sum": [
+            {
+                "heading": "Action for the agreed sum",
+                "article_number": "41C",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 185,
+                "block_end": 189
+            }
+        ],
+        "Powers of the Court": [
+            {
+                "heading": "Powers of the Court",
+                "article_number": "42",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 190,
+                "block_end": 194
+            }
+        ],
+        "Charging Orders": [
+            {
+                "heading": "Charging Orders",
+                "article_number": "43",
+                "page_start": 14,
+                "page_end": 15,
+                "block_start": 195,
+                "block_end": 200
+            }
+        ],
+        "Attachment of Future Assets": [
+            {
+                "heading": "Attachment of Future Assets",
+                "article_number": "44",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 201,
+                "block_end": 202
+            }
+        ],
+        "Execution against Assets": [
+            {
+                "heading": "Execution against Assets",
+                "article_number": "45",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 203,
+                "block_end": 207
+            }
+        ],
+        "Appointment of a Receiver": [
+            {
+                "heading": "Appointment of a Receiver",
+                "article_number": "46",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 208,
+                "block_end": 209
+            }
+        ],
+        "Examination of Judgment Debtor": [
+            {
+                "heading": "Examination of Judgment Debtor",
+                "article_number": "47",
+                "page_start": 15,
+                "page_end": 16,
+                "block_start": 210,
+                "block_end": 214
+            }
+        ],
+        "Right to restitution": [
+            {
+                "heading": "Right to restitution",
+                "article_number": "48",
+                "page_start": 16,
+                "page_end": 16,
+                "block_start": 215,
+                "block_end": 216
+            }
+        ],
+        "Damages in lieu of restitution": [
+            {
+                "heading": "Damages in lieu of restitution",
+                "article_number": "49",
+                "page_start": 16,
+                "page_end": 17,
+                "block_start": 217,
+                "block_end": 220
+            }
+        ],
+        "Rules of interpretation": [
+            {
+                "heading": "Rules of interpretation",
+                "article_number": "1",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 221,
+                "block_end": 223
+            }
+        ],
+        "Legislation in the DIFC": [
+            {
+                "heading": "Legislation in the DIFC",
+                "article_number": "2",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 224,
+                "block_end": 226
+            }
+        ],
+        "Defined Terms": [
+            {
+                "heading": "Defined Terms",
+                "article_number": "3",
+                "page_start": 17,
+                "page_end": 18,
+                "block_start": 227,
+                "block_end": 232
+            }
+        ]
+    }
+}

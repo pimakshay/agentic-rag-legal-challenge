@@ -1,0 +1,3637 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            386,
+            367,
+            601,
+            414
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            154,
+            499,
+            833,
+            565
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Consolidated Version No. 2 ",
+        "bbox": [
+            329,
+            626,
+            658,
+            648
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In force on 30 July 2020 ",
+        "bbox": [
+            347,
+            662,
+            642,
+            684
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TABLE OF CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            401,
+            87,
+            603,
+            105
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "APPLICATION AND INTERPRETATION...... .... 1 ",
+        "bbox": [
+            104,
+            131,
+            897,
+            149
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SECTION I: GENERAL REPORTING REQUIREMENTS.. ",
+        "bbox": [
+            102,
+            161,
+            895,
+            178
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SECTION II: GENERAL DUE DILIGENCE REQUIREMENTS .. ... 2 ",
+        "bbox": [
+            105,
+            190,
+            897,
+            206
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SECTION III: DUE DILIGENCE FOR PRE-EXISTING INDIVIDUAL ACCOUNTS .. .. 3 ",
+        "bbox": [
+            102,
+            219,
+            897,
+            236
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SECTION IV: DUE DILIGENCE FOR NEW INDIVIDUAL ACCOUNTS...... .... 6",
+        "bbox": [
+            102,
+            247,
+            897,
+            263
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SECTION V: DUE DILIGENCE FOR PRE-EXISTING ENTITY ACCOUNTS .. ... 7 ",
+        "bbox": [
+            102,
+            275,
+            897,
+            293
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SECTION VI: DUE DILIGENCE FOR NEW ENTITY ACCOUNTS .. .. 8 ",
+        "bbox": [
+            102,
+            305,
+            899,
+            322
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SECTION VII: SPECIAL DUE DILIGENCE RULES ....... ..... 9 ",
+        "bbox": [
+            100,
+            335,
+            897,
+            350
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SECTION VIII: DEFINED TERMS ... 12 ",
+        "bbox": [
+            102,
+            362,
+            895,
+            376
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SECTION IX: COMPLEMENTARY REPORTING AND DUE DILIGENCE RULES FOR FINANCIAL ACCOUNT INFORMATION....... ..... 22 ",
+        "bbox": [
+            104,
+            388,
+            897,
+            419
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ANNEX 1 – ADDITIONAL DEFINITIONS . 24 ",
+        "bbox": [
+            107,
+            434,
+            897,
+            449
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            894,
+            57
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            494,
+            950,
+            504,
+            960
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Board of Directors of the DIFCA, in the exercise of the powers conferred on them by Article 9 of the Common Reporting Standard Law, hereby makes these Regulations. ",
+        "bbox": [
+            102,
+            73,
+            897,
+            102
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "APPLICATION AND INTERPRETATION ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            115,
+            425,
+            130
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. These Regulations include any annexes thereto and may be cited as the Common Reporting Standard Regulations 2018. ",
+        "bbox": [
+            102,
+            145,
+            895,
+            173
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. These Regulations apply to: ",
+        "bbox": [
+            107,
+            187,
+            357,
+            203
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) any Reporting Financial Institution subject to the supervision of the Relevant Authority under the Law;   \n(b) any Account Holder of a Reportable Account held with a Reporting Financial Institution subject to the supervision of the Relevant Authority under the Law; and   \n(c) any other person to whom a provision is specified to apply. ",
+        "bbox": [
+            164,
+            216,
+            894,
+            317
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. Defined terms are identified throughout these Regulations (inclusive of those in Section VIII) by the capitalisation of the initial letter of a word or phrase. Any capitalised term not otherwise defined in these Regulations or Schedule 1 to the Law will have the meaning as set forth in the Common Reporting Standard or, failing that, the meaning it has under the applicable laws of the DIFC at that time. ",
+        "bbox": [
+            107,
+            330,
+            894,
+            387
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. For the purpose of the Law and these Regulations, any explanatory material made and published by the OECD for the purpose of assisting with the interpretation of the Common Reporting Standard, inclusive of any commentary and frequently asked questions published by the OECD in respect thereof, is an integral part of the Common Reporting Standard and accordingly applies for the purposes of the automatic exchange of financial account information. ",
+        "bbox": [
+            107,
+            401,
+            894,
+            473
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SECTION I: GENERAL REPORTING REQUIREMENTS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            486,
+            537,
+            502
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A. Subject to paragraphs C through E, each Reporting Financial Institution must collect and report to the UAE Competent Authority (directly or indirectly via the Relevant Authority) the following information with respect to each Reportable Account of such Reporting Financial Institution: ",
+        "bbox": [
+            107,
+            516,
+            894,
+            558
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) the name, address, jurisdiction(s) of residence, TIN(s) and date and place of birth (in the case of an individual) of each Reportable Person that is an Account Holder of the account and, in the case of any Entity that is an Account Holder and that, after application of the due diligence procedures consistent with Sections V, VI and VII, is identified as having one or more Controlling Persons that is a Reportable Person, the name, address, jurisdiction(s) of residence and TIN(s) of the Entity and the name, address, jurisdiction(s) of residence, TIN(s) and date and place of birth of each Reportable Person; ",
+        "bbox": [
+            163,
+            573,
+            894,
+            674
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(b) the account number (or functional equivalent in the absence of an account number); ",
+        "bbox": [
+            159,
+            687,
+            794,
+            702
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(c) the name and identifying number (if any) of the Reporting Financial Institution; ",
+        "bbox": [
+            159,
+            715,
+            769,
+            731
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(d) the account balance or value (including, in the case of a Cash Value Insurance Contract or Annuity Contract, the Cash Value or surrender value) as of the end of the relevant calendar year or, if the account was closed during such year, the closure of the account; ",
+        "bbox": [
+            156,
+            744,
+            895,
+            788
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(e) in the case of any Custodial Account: ",
+        "bbox": [
+            161,
+            801,
+            484,
+            815
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(i) the total gross amount of interest, the total gross amount of dividends, and the total gross amount of other income generated with respect to the assets held in the account, in each case paid or credited to the account (or with respect to the account) during the calendar year; and ",
+        "bbox": [
+            226,
+            831,
+            894,
+            888
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            494,
+            944,
+            504,
+            954
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(ii) the total gross proceeds from the sale or redemption of Financial Assets paid or credited to the account during the calendar year with respect to which the Reporting Financial Institution acted as a custodian, broker, nominee, or otherwise as an agent for the Account Holder; ",
+        "bbox": [
+            225,
+            73,
+            894,
+            130
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(f) in the case of any Depository Account, the total gross amount of interest paid or credited to the account during the calendar year; and ",
+        "bbox": [
+            156,
+            145,
+            892,
+            173
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(g) in the case of any account not described in subparagraph A(5) or (6), the total gross amount paid or credited to the Account Holder with respect to the account during the calendar year with respect to which the Reporting Financial Institution is the obligor or debtor, including the aggregate amount ",
+        "bbox": [
+            168,
+            187,
+            892,
+            244
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "of any redemption payments made to the Account Holder during the calendar year.   \nB. The information reported must identify the currency in which each amount is denominated.   \nC. Notwithstanding subparagraph A(1), with respect to each Reportable Account that is a Pre-existing Account or with respect to each Financial Account that is opened prior to becoming a Reportable Account, the TIN(s) or date of birth is not required to be reported if such TIN(s) or date of birth is not in the records of the Reporting Financial Institution and is not otherwise required to be collected by such Reporting Financial Institution under domestic law. However, a Reporting Financial Institution is required to use reasonable efforts to obtain the TIN(s) and date of birth with respect to Pre-existing Accounts by the end of the second calendar year following the year in which Pre-existing Accounts were identified as Reportable Accounts.   \nD. Notwithstanding subparagraph A(1), the TIN is not required to be reported if (i) a TIN is not issued by the relevant Reportable Jurisdiction or (ii) the domestic law of the relevant Reportable Jurisdiction does not require the collection of the TIN issued by such Jurisdiction.   \nE. Notwithstanding subparagraph A(1), the place of birth is not required to be reported unless the Reporting Financial Institution is otherwise required to obtain and report it under any law of the DIFC and it is available in the electronically searchable data maintained by the Reporting Financial Institution.   \nF. Each Reporting Financial Institution must file an information return with the Relevant Authority containing the information described in paragraph A on or before $3 0 ^ { \\mathrm { t h } }$ June of the year following the calendar year to which the return relates.   \nG. If a Reporting Financial Institution applies the due diligence procedures described in Sections V, VI and VII for a calendar year and no Financial Account is identified as a Reportable Account, the institution shall file an information return, which provides that the institution maintains no such Reportable Accounts in respect of that year, with the Relevant Authority on or before $3 0 ^ { \\mathrm { t h } }$ June of the year following the calendar year to which the return relates.   \nH. Each Reporting Financial Institution must retain the records of the steps undertaken and any evidence relied upon related to these Regulations, electronically or otherwise, for a period of no less than six (6) years after the end of the period within which the Reporting Financial Institution must report the information required to be reported under these Regulations. ",
+        "bbox": [
+            94,
+            233,
+            895,
+            722
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SECTION II: GENERAL DUE DILIGENCE REQUIREMENTS",
+        "text_level": 1,
+        "bbox": [
+            105,
+            730,
+            578,
+            744
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A. A Reporting Financial Institution must establish, maintain and document the due diligence procedures set out in Sections II through VII that are designed to identify Reportable Accounts maintained by the Reporting Financial Institution.   \nB. An account is treated as a Reportable Account beginning as of the date it is identified as such pursuant to the due diligence procedures in Sections II through VII and, unless otherwise provided, information with respect to a Reportable Account must be reported annually in the calendar year following the year to which the information relates.   \nC. The balance or value of an account is determined as of the last day of the calendar year.   \nD. Where a balance or value threshold is to be determined as of the last day of a calendar year, the relevant balance or value must be determined as of the last day of the reporting period that ends with or within that calendar year.   \nE. A Reporting Financial Institution may use a service provider to fulfil the reporting and due diligence obligations imposed on such Reporting Financial Institution, but these obligations shall remain the responsibility of the Reporting Financial Institutions.   \nF. A Reporting Financial Institution may apply: (a) the due diligence procedures for New Accounts to all Pre-existing Accounts or with respect to any clearly identified group of Pre-existing Accounts, and the rules otherwise applicable to Pre-existing Accounts continue to apply; and (b) the due diligence procedures for High Value Accounts to Lower Value Accounts. ",
+        "bbox": [
+            104,
+            758,
+            894,
+            902
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            494,
+            944,
+            505,
+            954
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SECTION III: DUE DILIGENCE FOR PRE-EXISTING INDIVIDUAL ACCOUNTS",
+        "text_level": 1,
+        "bbox": [
+            107,
+            300,
+            727,
+            316
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The following procedures apply with respect to Pre-existing Individual Accounts: ",
+        "bbox": [
+            109,
+            330,
+            658,
+            344
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A. Accounts Not Required to be Reviewed, Identified, or Reported ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            359,
+            625,
+            374
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A Pre-existing Individual Account that is a Cash Value Insurance Contract or an Annuity Contract is not required to be reviewed, identified or reported, provided the Reporting Financial Institution is effectively prevented by law from selling such Contracts to residents of a Reportable Jurisdiction. ",
+        "bbox": [
+            161,
+            387,
+            897,
+            430
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "B. Lower Value Accounts ",
+        "text_level": 1,
+        "bbox": [
+            110,
+            444,
+            334,
+            458
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The following procedures apply with respect to Lower Value Accounts: ",
+        "bbox": [
+            166,
+            473,
+            652,
+            488
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. Residence Address ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            501,
+            304,
+            516
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "If the Reporting Financial Institution has in its records a current residence address for the individual Account Holder based on Documentary Evidence, the Reporting Financial Institution may treat the individual Account Holder as being a resident for tax purposes of the jurisdiction in which the address is located for purposes of determining whether such individual Account Holder is a Reportable Person. ",
+        "bbox": [
+            168,
+            530,
+            892,
+            587
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2. Electronic Record Search ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            601,
+            352,
+            615
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "If the Reporting Financial Institution does not rely on a current residence address for the individual Account Holder based on Documentary Evidence as set forth in subparagraph B(1), the Reporting Financial Institution must review electronically searchable data maintained by the Reporting Financial Institution for any of the following indicia and apply subparagraphs B(3) to (6): ",
+        "bbox": [
+            166,
+            630,
+            894,
+            687
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) identification of the Account Holder as a resident of a Reportable Jurisdiction;   \n(b) current mailing or residence address (including a post office box) in a Reportable Jurisdiction;   \n(c) one or more telephone numbers in a Reportable Jurisdiction and no telephone number in the jurisdiction of the Reporting Financial Institution;   \n(d) standing instructions (other than with respect to a Depository Account) to transfer funds to an account maintained in a Reportable Jurisdiction;   \n(e) currently effective power of attorney or signatory authority granted to a person with an address in a Reportable Jurisdiction; or   \n(f) a “hold mail” instruction or “in-care-of” address in a Reportable Jurisdiction if the Reporting Financial Institution does not have any other address on file for the Account Holder. ",
+        "bbox": [
+            159,
+            699,
+            895,
+            916
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. If none of the indicia listed in subparagraph B(2) are discovered in the electronic search, then no further action is required until there is a change in circumstances that results in one or more indicia being associated with the account, or the account becomes a High Value Account. ",
+        "bbox": [
+            105,
+            87,
+            892,
+            130
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. If any of the indicia listed in subparagraph B(2)(a) through (e) are discovered in the electronic search, or if there is a change in circumstances that results in one or more indicia being associated with the account, then the Reporting Financial Institution must treat the Account Holder as a resident for tax purposes of each Reportable Jurisdiction for which an indicium is identified, unless it elects to apply subparagraph B(6) and one of the exceptions in that subparagraph applies with respect to that account. ",
+        "bbox": [
+            105,
+            145,
+            894,
+            216
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5. If a “hold mail” instruction or “in-care-of” address is discovered in the electronic search and no other address and none of the other indicia listed in subparagraph B(2)(a) through (e) are identified for the Account Holder, the Reporting Financial Institution must, in the order most appropriate to the circumstances, apply the paper record search described in subparagraph C(2), or seek to obtain from the Account Holder a self-certification or Documentary Evidence to establish the residence(s) for tax purposes of such Account Holder. If the paper search fails to establish an indicium and the attempt to obtain the self-certification or Documentary Evidence is not successful, the Reporting Financial Institution must report the account as an undocumented account to the Relevant Authority. ",
+        "bbox": [
+            107,
+            230,
+            894,
+            344
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6. Notwithstanding a finding of indicia under subparagraph B(2), a Reporting Financial Institution is not required to treat an Account Holder as a resident of a Reportable Jurisdiction if: ",
+        "bbox": [
+            100,
+            359,
+            892,
+            387
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) the Account Holder information contains a current mailing or residence address in the Reportable Jurisdiction, one or more telephone numbers in the Reportable Jurisdiction (and no telephone number in the jurisdiction of the Reporting Financial Institution) or standing instructions (with respect to Financial Accounts other than Depository Accounts) to transfer funds to an account maintained in a Reportable Jurisdiction, and the Reporting Financial Institution obtains, or has previously reviewed and maintains, a record of: ",
+        "bbox": [
+            166,
+            401,
+            894,
+            488
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(i) a self-certification from the Account Holder of the jurisdiction(s) of residence of such Account Holder that does not include such Reportable Jurisdiction; and   \n(ii) Documentary Evidence establishing the Account Holder's residence for tax purposes other than such Reportable Jurisdiction; ",
+        "bbox": [
+            226,
+            501,
+            894,
+            574
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(b) the Account Holder information contains a currently effective power of attorney or signatory authority granted to a person with an address in the Reportable Jurisdiction, and the Reporting Financial Institution obtains, or has previously reviewed and maintains, a record of: ",
+        "bbox": [
+            168,
+            587,
+            892,
+            631
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(i) a self-certification from the Account Holder of the jurisdiction(s) of residence of such Account Holder that does not include such Reportable Jurisdiction; or   \n(ii) Documentary Evidence establishing the Account Holder's residence for tax purposes other than such Reportable Jurisdiction. ",
+        "bbox": [
+            226,
+            644,
+            894,
+            717
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C. Enhanced Review Procedures for High Value Accounts ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            730,
+            566,
+            745
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The following enhanced review procedures apply with respect to High Value Accounts: ",
+        "bbox": [
+            168,
+            758,
+            759,
+            774
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. Electronic Record Search ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            787,
+            352,
+            801
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "With respect to High Value Accounts, the Reporting Financial Institution must review electronically searchable data maintained by the Reporting Financial Institution for any of the indicia described in subparagraph B(2). ",
+        "bbox": [
+            164,
+            815,
+            892,
+            858
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. Paper Record Search ",
+        "bbox": [
+            109,
+            872,
+            322,
+            888
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            494,
+            944,
+            505,
+            954
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "If the Reporting Financial Institution's electronically searchable databases include fields for, and capture all of the information described in, subparagraph C(3), then a further paper record search is not required. If the electronic databases do not capture all of this information, then with respect to a High Value Account, the Reporting Financial Institution must also review the current customer master file and, to the extent not contained in the current customer master file, the following documents associated with the account and obtained by the Reporting Financial Institution within the last five (5) years for any of the indicia described in subparagraph B(2): ",
+        "bbox": [
+            166,
+            73,
+            894,
+            173
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) the most recent Documentary Evidence collected with respect to the account;   \n(b) the most recent account opening contract or documentation;   \n(c) the most recent documentation obtained by the Reporting Financial Institution pursuant to AML/KYC Procedures or for other regulatory purposes;   \n(d) any power of attorney or signature authority forms currently in effect; and   \n(e) any standing instructions (other than with respect to a Depository Account) to transfer funds currently in effect. ",
+        "bbox": [
+            166,
+            187,
+            894,
+            344
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. Exception To The Extent Databases Contain Sufficient Information ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            359,
+            653,
+            374
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A Reporting Financial Institution is not required to perform the paper record search described in subparagraph C(2) to the extent the Reporting Financial Institution's electronically searchable information includes the following: ",
+        "bbox": [
+            166,
+            387,
+            894,
+            431
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) the Account Holder's residence status;   \n(b) the Account Holder's residence address and mailing address currently on file with the Reporting Financial Institution;   \n(c) the Account Holder's telephone number(s) currently on file, if any, with the Reporting Financial Institution;   \n(d) in the case of Financial Accounts other than Depository Accounts, whether there are standing instructions to transfer funds in the account to another account (including an account at another branch of the Reporting Financial Institution or another Financial Institution);   \n(e) whether there is a current “in-care-of” address or “hold mail” instruction for the Account Holder; and   \n(f) whether there is any power of attorney or signatory authority for the account. ",
+        "bbox": [
+            164,
+            443,
+            894,
+            674
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Relationship Manager Inquiry for Actual Knowledge ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            687,
+            552,
+            702
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In addition to the electronic and paper record searches described in subparagraphs C(1) and (2), the Reporting Financial Institution must treat as a Reportable Account any High Value Account assigned to a relationship manager (including any Financial Accounts aggregated with that High Value Account) if the relationship manager has actual knowledge that the account is held by a resident for tax purposes in a Reportable Jurisdiction. ",
+        "bbox": [
+            168,
+            715,
+            894,
+            787
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5. Effect of Finding Indicia ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            801,
+            346,
+            815
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) If none of the indicia listed in subparagraph B(2) are discovered in the enhanced review of High Value Accounts described in paragraph C, and the account is not identified as held by a resident for tax purposes in a Reportable Jurisdiction in accordance with subparagraph C(4), then further action is not required until there is a change in circumstances that results in one or more indicia being associated with the account. ",
+        "bbox": [
+            166,
+            829,
+            892,
+            901
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(b) If any of the indicia listed in subparagraphs B(2)(a) through (e) are discovered in the enhanced review of High Value Accounts described in paragraph C, or if there is a subsequent change in circumstances that results in one or more indicia being associated with the account, then the Reporting Financial Institution must treat the Account Holder as a resident for tax purposes of each Reportable Jurisdiction for which an indicium is identified unless it elects to apply subparagraph B(6) and one of the exceptions in that subparagraph applies with respect to that account. ",
+        "bbox": [
+            166,
+            73,
+            892,
+            160
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(c) If a “hold mail” instruction or “in-care-of” address is discovered in the enhanced review of High Value Accounts described in paragraph C, and no other address and none of the other indicia listed in subparagraphs B(2)(a) through (e) are identified for the Account Holder, the Reporting Financial Institution must obtain from such Account Holder a self-certification or Documentary Evidence to establish the residence(s) for tax purposes of the Account Holder. If the Reporting Financial Institution cannot obtain such self-certification or Documentary Evidence, it must report the account as an undocumented account to the Relevant Authority. ",
+        "bbox": [
+            164,
+            173,
+            892,
+            273
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6. If a Pre-existing Individual Account is not a High Value Account as of 31 December 2016, but becomes a High Value Account as of the last day of a subsequent calendar year, the Reporting Financial Institution must complete the enhanced review procedures described in paragraph C with respect to such account within the calendar year following the year in which the account becomes a High Value Account. If based on this review such account is identified as a Reportable Account, the Reporting Financial Institution must report the required information about such account with respect to the year in which it is identified as a Reportable Account and subsequent years on an annual basis, unless the Account Holder ceases to be a Reportable Person. ",
+        "bbox": [
+            105,
+            287,
+            894,
+            401
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7. Once a Reporting Financial Institution applies the enhanced review procedures described in paragraph C to a High Value Account, the Reporting Financial Institution is not required to re-apply such procedures, other than the relationship manager inquiry described in subparagraph C(4), to the same High Value Account in any subsequent year unless the account is undocumented where the Reporting Financial Institution should re-apply them annually until such account ceases to be undocumented. ",
+        "bbox": [
+            105,
+            416,
+            894,
+            487
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8. If there is a change in circumstances with respect to a High Value Account that results in one or more indicia described in subparagraph B(2) being associated with the account, then the Reporting Financial Institution must treat the account as a Reportable Account with respect to each Reportable Jurisdiction for which an indicium is identified unless it elects to apply subparagraph B(6) and one of the exceptions in that subparagraph applies with respect to that account. ",
+        "bbox": [
+            105,
+            501,
+            894,
+            573
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "9. A Reporting Financial Institution must implement procedures to ensure that a relationship manager identifies any change in circumstances of an account. For example, if a relationship manager is notified that the Account Holder has a new mailing address in a Reportable Jurisdiction, the Reporting Financial Institution is required to treat the new address as a change in circumstances and, if it elects to apply subparagraph B(6), is required to obtain the appropriate documentation from the Account Holder.   \nD. Review of Pre-existing High Value Individual Accounts must be completed by 31 December 2017 and review of Pre-existing Lower Value Individual Accounts must be completed by 31 December 2018.   \nE. Any Pre-existing Individual Account that has been identified as a Reportable Account under this Section must be treated as a Reportable Account in all subsequent years, unless the Account Holder ceases to be a Reportable Person. ",
+        "bbox": [
+            105,
+            587,
+            894,
+            758
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SECTION IV: DUE DILIGENCE FOR NEW INDIVIDUAL ACCOUNTS",
+        "text_level": 1,
+        "bbox": [
+            107,
+            772,
+            643,
+            787
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The following procedures apply with respect to New Individual Accounts: ",
+        "bbox": [
+            107,
+            801,
+            608,
+            815
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A. With respect to New Individual Accounts, upon account opening, the Reporting Financial Institution must obtain a self-certification, which may be part of the account opening documentation, that allows the Reporting Financial Institution to determine the Account Holder's residence(s) for tax purposes and confirm the reasonableness of such self-certification based on the information obtained by the Reporting Financial Institution in connection with the opening of the account, including any documentation collected pursuant to AML/KYC Procedures. ",
+        "bbox": [
+            107,
+            829,
+            894,
+            915
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            494,
+            945,
+            505,
+            954
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "B. If the self-certification establishes that the Account Holder is resident for tax purposes in a Reportable Jurisdiction, the Reporting Financial Institution must treat the account as a Reportable Account and the selfcertification must also include the Account Holder's TIN with respect to such Reportable Jurisdiction (subject to paragraph D of Section I) and date of birth.   \nC. If there is a change in circumstances with respect to a New Individual Account that causes the Reporting Financial Institution to know, or have reason to know, that the original self-certification is incorrect or unreliable, the Reporting Financial Institution cannot rely on the original self-certification and must obtain a valid self-certification that establishes the residence(s) for tax purposes of the Account Holder. ",
+        "bbox": [
+            105,
+            87,
+            894,
+            217
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SECTION V: DUE DILIGENCE FOR PRE-EXISTING ENTITY ACCOUNTS",
+        "text_level": 1,
+        "bbox": [
+            107,
+            230,
+            678,
+            246
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The following procedures apply with respect to Pre-existing Entity Accounts: ",
+        "bbox": [
+            107,
+            259,
+            631,
+            273
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A. Entity Accounts Not Required to Be Reviewed, Identified or Reported ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            287,
+            670,
+            302
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Unless the Reporting Financial Institution elects otherwise, either with respect to all Pre-existing Entity Accounts or, separately, with respect to any clearly identified group of such accounts, a Pre-existing Entity Account with an aggregate account balance or value that does not exceed USD250,000 as of 31 December 2016 is not required to be reviewed, identified, or reported as a Reportable Account until the aggregate account balance or value exceeds that amount as of the last day of any subsequent calendar year. ",
+        "bbox": [
+            168,
+            316,
+            894,
+            387
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "B. Entity Accounts Subject to Review ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            401,
+            416,
+            416
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A Pre-existing Entity Account that has an aggregate account balance or value that exceeds USD250,000 as of 31 December 2016, and a Pre-existing Entity Account that does not exceed USD250,000 as of 31 December 2016 but the aggregate account balance or value of which exceeds USD250,000 as of the last day of any subsequent calendar year, must be reviewed in accordance with the procedures set forth in paragraph C. ",
+        "bbox": [
+            166,
+            430,
+            892,
+            500
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "C. Review Procedures for Identifying Entity Accounts With Respect to Which Reporting Is Required ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            516,
+            872,
+            531
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For Pre-existing Entity Accounts described in paragraph B, a Reporting Financial Institution must apply the following review procedures: ",
+        "bbox": [
+            166,
+            544,
+            890,
+            573
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1. Determine the Residence of the Entity ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            587,
+            442,
+            601
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) Review information maintained for regulatory or customer relationship purposes (including information collected pursuant to AML/KYC Procedures) to determine the Account Holder’s residence. For this purpose, information indicating that the Account Holder’s residence includes a place of incorporation or organisation, or an address in a Reportable Jurisdiction. ",
+        "bbox": [
+            166,
+            617,
+            894,
+            673
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(b) If the information indicates that the Account Holder is a Reportable Person, the Reporting Financial Institution must treat the account as a Reportable Account unless it obtains a self-certification from the Account Holder, or reasonably determines based on information in its possession or that is publicly available, that the Account Holder is not a Reportable Person. ",
+        "bbox": [
+            166,
+            687,
+            894,
+            744
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2. Determine the Residence of the Controlling Persons of a Passive NFE ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            758,
+            663,
+            772
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "With respect to an Account Holder of a Pre-existing Entity Account (including an Entity that is a Reportable Person), the Reporting Financial Institution must determine whether the Account Holder is a Passive NFE with one or more Controlling Persons and determine the residence of such Controlling Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the Reporting Financial Institution must follow the guidance in subparagraphs C(2)(a) through (c) in the order most appropriate under the circumstances. ",
+        "bbox": [
+            166,
+            787,
+            894,
+            873
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) Determining whether the Account Holder is a Passive NFE ",
+        "bbox": [
+            164,
+            887,
+            650,
+            901
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            494,
+            944,
+            504,
+            954
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Financial Institution must obtain a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in subparagraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution. ",
+        "bbox": [
+            228,
+            73,
+            892,
+            159
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(b) Determining the Controlling Persons of an Account Holder ",
+        "text_level": 1,
+        "bbox": [
+            161,
+            173,
+            652,
+            187
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For the purposes of determining the Controlling Persons of an Account Holder, a Reporting Financial Institution may rely on information collected and maintained pursuant to AML/KYC Procedures. ",
+        "bbox": [
+            228,
+            202,
+            892,
+            244
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(c) Determining the residence of a Controlling Person of a Passive NFE ",
+        "text_level": 1,
+        "bbox": [
+            154,
+            259,
+            714,
+            273
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For the purposes of determining the residence of a Controlling Person of a Passive NFE, a Reporting Financial Institution may rely on: ",
+        "bbox": [
+            228,
+            287,
+            892,
+            316
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(i) information collected and maintained pursuant to AML/KYC Procedures in the case of a Pre-existing Entity Account held by one or more NFEs with an aggregate account balance or value that does not exceed USD1,000,000; or   \n(ii) a self-certification from the Account Holder or such Controlling Person of the jurisdiction(s) in which the Controlling Person is resident for tax purposes. If a selfcertification is not provided, the Reporting Financial Institution will establish such residence(s) by applying the procedures described in paragraph C of Section III. ",
+        "bbox": [
+            213,
+            330,
+            895,
+            445
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "D. Timing of Review and Additional Procedures Applicable to Pre-existing Entity Accounts ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            458,
+            803,
+            474
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Review of Pre-existing Entity Accounts with an aggregate account balance or value that exceeds USD250,000 as of 31 December 2016, must be completed by 31 December 2018. ",
+        "bbox": [
+            136,
+            487,
+            895,
+            516
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2. Review of Pre-existing Entity Accounts with an aggregate account balance or value that does not exceed USD250,000 as of 31 December 2016, but exceeds USD250,000 as of 31 December of a subsequent year, must be completed within the calendar year following the year in which the aggregate account balance or value exceeds USD250,000. ",
+        "bbox": [
+            105,
+            530,
+            895,
+            587
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3. If there is a change in circumstances with respect to a Pre-existing Entity Account that causes the Reporting Financial Institution to know, or have reason to know, that the self-certification or other documentation associated with an account is incorrect or unreliable, the Reporting Financial Institution must re-determine the status of the account in accordance with the procedures set forth in paragraph C. ",
+        "bbox": [
+            107,
+            601,
+            894,
+            658
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SECTION VI: DUE DILIGENCE FOR NEW ENTITY ACCOUNTS ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            671,
+            605,
+            687
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The following procedures apply with respect to New Entity Accounts: ",
+        "bbox": [
+            107,
+            701,
+            581,
+            717
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A. Review Procedures for Identifying Entity Accounts With Respect to Which Reporting Is Required ",
+        "bbox": [
+            110,
+            730,
+            873,
+            745
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For New Entity Accounts, a Reporting Financial Institution must apply the following review procedures: ",
+        "bbox": [
+            139,
+            758,
+            872,
+            774
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1. Determine the Residence of the Entity ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            787,
+            442,
+            801
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) Obtain a self-certification, which may be part of the account opening documentation, that allows the Reporting Financial Institution to determine the Account Holder's residence(s) for tax purposes and confirm the reasonableness of such self-certification based on the information obtained by the Reporting Financial Institution in connection with the opening of the account, including any documentation collected pursuant to AML/KYC Procedures. If the Entity certifies that it has no residence for tax purposes, the Reporting Financial Institution may rely on the address of the principal office of the Entity to determine the residence of the Account Holder. ",
+        "bbox": [
+            166,
+            816,
+            892,
+            915
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            494,
+            944,
+            504,
+            954
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(b) If the self-certification indicates that the Account Holder is resident in a Reportable Jurisdiction, the Reporting Financial Institution must treat the account as a Reportable Account, unless it reasonably determines based on information in its possession or that is publicly available that the Account Holder is not a Reportable Person with respect to such Reportable Jurisdiction. ",
+        "bbox": [
+            166,
+            87,
+            892,
+            145
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2. Determine the Residence of the Controlling Persons of a Passive NFE ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            159,
+            663,
+            173
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "With respect to an Account Holder of a New Entity Account (including an Entity that is a Reportable Person), the Reporting Financial Institution must determine whether the Account Holder is a Passive NFE with one or more Controlling Persons and determine the residence of such Reportable Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the Reporting Financial Institution must follow the guidance in subparagraphs A(2)(a) through (c) in the order most appropriate under the circumstances. ",
+        "bbox": [
+            166,
+            187,
+            894,
+            273
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) Determining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Financial Institution must rely on a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in subparagraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.   \n(b) Determining the Controlling Persons of an Account Holder. For purposes of determining the Controlling Persons of an Account Holder, a Reporting Financial Institution may rely on information collected and maintained pursuant to AML/KYC Procedures.   \n(c) Determining the residence of a Controlling Person of a Passive NFE. For purposes of determining the residence of a Controlling Person of a Passive NFE, a Reporting Financial Institution may rely on a self-certification from the Account Holder or such Controlling Person. ",
+        "bbox": [
+            156,
+            286,
+            895,
+            487
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SECTION VII: SPECIAL DUE DILIGENCE RULES",
+        "text_level": 1,
+        "bbox": [
+            105,
+            500,
+            497,
+            516
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The following additional rules apply in implementing the due diligence procedures described above: ",
+        "bbox": [
+            104,
+            530,
+            784,
+            545
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A. Reliance on Self-Certifications and Documentary Evidence ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            558,
+            591,
+            574
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A Reporting Financial Institution may not rely on a self-certification or Documentary Evidence if the Reporting Financial Institution knows or has reason to know that the self-certification or Documentary Evidence is incorrect or unreliable. ",
+        "bbox": [
+            159,
+            587,
+            895,
+            630
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "B. Change of Participating Jurisdictions during current reporting period ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            644,
+            673,
+            659
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A Reporting Financial Institution may apply the due diligence procedures for Pre-Existing Accounts, even if such accounts were opened after 1 January 2016, if there is a change of the Participating Jurisdictions with regard to a reporting period prior to the reporting date. ",
+        "bbox": [
+            159,
+            673,
+            894,
+            717
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "C. Alternative Procedures for Financial Accounts held by Individual Beneficiaries of a Cash Value Insurance Contract or an Annuity Contract and for a Group Cash Value Insurance Contract or Group Annuity Contract ",
+        "bbox": [
+            107,
+            730,
+            892,
+            772
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A Reporting Financial Institution may presume that an individual beneficiary (other than the owner) of a Cash Value Insurance Contract or an Annuity Contract receiving a death benefit is not a Reportable Person and may treat such Financial Account as other than a Reportable Account unless the Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person. A Reporting Financial Institution has reason to know that a beneficiary of a Cash Value Insurance Contract or an Annuity Contract is a Reportable Person if the information collected by the Reporting Financial Institution and associated with the beneficiary contains indicia as described in paragraph B of Section III. If a Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person, the Reporting Financial Institution must follow the procedures in paragraph B of Section III. ",
+        "bbox": [
+            166,
+            787,
+            892,
+            916
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            494,
+            944,
+            505,
+            954
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A Reporting Financial Institution may treat a Financial Account that is a member's interest in a Group Cash Value Insurance Contract or Group Annuity Contract as a Financial Account that is not a Reportable Account until the date on which an amount is payable to the employee/certificate holder or beneficiary, if the Financial Account that is a member's interest in a Group Cash Value Insurance Contract or Group Annuity Contract meets the following requirements: ",
+        "bbox": [
+            166,
+            87,
+            894,
+            160
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) the Group Cash Value Insurance Contract or Group Annuity Contract is issued to an employer and covers 25 or more employees/certificate holders;   \n(b) the employee/certificate holders are entitled to receive any contract value related to their interests and to name beneficiaries for the benefit payable upon the employee's death; and   \n(c) the aggregate amount payable to any employee/certificate holder or beneficiary does not exceed USD1,000,000. ",
+        "bbox": [
+            166,
+            172,
+            894,
+            287
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The term “Group Cash Value Insurance Contract” means a Cash Value Insurance Contract that (i) provides coverage on individuals who are affiliated through an employer, trade association, labour union, or other association or group; and (ii) charges a premium for each member of the group (or member of a class within the group) that is determined without regard to the individual health characteristics other than age, gender, and smoking habits of the member (or class of members) of the group. ",
+        "bbox": [
+            166,
+            302,
+            894,
+            373
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The term “Group Annuity Contract” means an Annuity Contract under which the obligees are individuals who are affiliated through an employer, trade association, labour union, or other association or group. ",
+        "bbox": [
+            166,
+            387,
+            892,
+            416
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "D. Account Balance Aggregation and Currency Rules ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            430,
+            532,
+            444
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Aggregation of Individual Accounts ",
+        "text_level": 1,
+        "bbox": [
+            157,
+            458,
+            425,
+            473
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For purposes of determining the aggregate balance or value of Financial Accounts held by an individual, a Reporting Financial Institution is required to aggregate all Financial Accounts maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution's computerised systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this subparagraph. ",
+        "bbox": [
+            168,
+            487,
+            894,
+            588
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2. Aggregation of Entity Accounts ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            601,
+            396,
+            617
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For purposes of determining the aggregate balance or value of Financial Accounts held by an Entity, a Reporting Financial Institution is required to take into account all Financial Accounts that are maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution's computerised systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this subparagraph. ",
+        "bbox": [
+            166,
+            630,
+            894,
+            730
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3. Special Aggregation Rule Applicable to Relationship Managers ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            744,
+            621,
+            759
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For purposes of determining the aggregate balance or value of Financial Accounts held by a person to determine whether a Financial Account is a High Value Account, a Reporting Financial Institution is also required, in the case of any Financial Accounts that a relationship manager knows, or has reason to know, are directly or indirectly owned, controlled, or established (other than in a fiduciary capacity) by the same person, to aggregate all such accounts. ",
+        "bbox": [
+            166,
+            772,
+            894,
+            844
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4. Amounts Read to Include Equivalent in Other Currencies ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            858,
+            584,
+            873
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) All dollar amounts in these Regulations are in US dollars and shall be read to include equivalent amounts in other currencies. ",
+        "bbox": [
+            157,
+            887,
+            890,
+            915
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(b) In determining the balance or value of an account denominated in a currency (other than US dollars) for the purposes of these Regulations, the Financial Institution shall convert the relevant US dollars threshold amount described in these Regulations into the other currency by reference to the spot rate of exchange on the date for which the Financial Institution is determining the threshold amounts, except for the AED/USD conversions for which the official fixed exchange rate applies. ",
+        "bbox": [
+            166,
+            87,
+            892,
+            159
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5. Accounts with negative balance ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            173,
+            396,
+            187
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "An account with a balance or value that is negative is deemed to have a balance or value equal to nil. ",
+        "bbox": [
+            163,
+            202,
+            847,
+            216
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "SECTION VIII: DEFINED TERMS ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            230,
+            369,
+            244
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The following terms have the meanings set forth below: ",
+        "bbox": [
+            107,
+            259,
+            485,
+            273
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A. Reporting Financial Institution ",
+        "bbox": [
+            109,
+            287,
+            394,
+            302
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1. The term “Reporting Financial Institution” means any DIFC Financial Institution that is not a Non-Reporting Financial Institution. The term “DIFC Financial Institution” means: (i) any Financial Institution that is resident in the DIFC, but excludes any branch of that Financial Institution that is located outside of the DIFC; and (ii) any branch of a Financial Institution that is not resident in the DIFC, if that branch is located in the DIFC. ",
+        "bbox": [
+            107,
+            316,
+            894,
+            387
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2. The term “Participating Jurisdiction Financial Institution” means (i) any Financial Institution that is resident in a Participating Jurisdiction, but excludes any branch of that Financial Institution that is located outside such Participating Jurisdiction; and (ii) any branch of a Financial Institution that is not resident in a Participating Jurisdiction, if that branch is located in such Participating Jurisdiction. ",
+        "bbox": [
+            107,
+            401,
+            894,
+            460
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3. The term “Financial Institution” means a Custodial Institution, a Depository Institution, an Investment Entity, or a Specified Insurance Company. ",
+        "bbox": [
+            97,
+            473,
+            892,
+            502
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4. The term “Custodial Institution” means any Entity that holds, as a substantial portion of its business, Financial Assets for the account of others. An Entity holds Financial Assets for the account of others as a substantial portion of its business if the Entity's gross income attributable to the holding of Financial Assets and related financial services equals or exceeds $2 0 \\%$ of the Entity's gross income during the shorter of: (i) the three-year period that ends on 31 December prior to the year in which the determination is being made; or (ii) the period during which the Entity has been in existence. ",
+        "bbox": [
+            107,
+            516,
+            894,
+            601
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5. The term “Depository Institution” means any Entity that accepts deposits in the ordinary course of a banking or similar business. ",
+        "bbox": [
+            102,
+            615,
+            892,
+            644
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6. The term “Investment Entity” means any Entity: ",
+        "bbox": [
+            105,
+            658,
+            504,
+            674
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) that primarily conducts as a business one or more of the following activities or operations for or on behalf of a customer: ",
+        "bbox": [
+            159,
+            687,
+            892,
+            715
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(i) trading in money market instruments (cheques, bills, certificates of deposit, derivatives, etc.); foreign exchange; exchange, interest rate and index instruments; transferable securities; or commodity futures trading;   \n(ii) individual and collective portfolio management; or   \n(iii) otherwise investing, administering, or managing Financial Assets or money on behalf of other persons; or ",
+        "bbox": [
+            220,
+            730,
+            894,
+            845
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(b) the gross income of which is primarily attributable to investing, reinvesting, or trading in Financial Assets, if the Entity is managed by another Entity that is a Depository Institution, a Custodial Institution, a Specified Insurance Company, or an Investment Entity described in subparagraph A(6)(a). ",
+        "bbox": [
+            166,
+            858,
+            892,
+            915
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "An Entity is treated as primarily conducting as a business one or more of the activities described in subparagraph A(6)(a), or an Entity's gross income is primarily attributable to investing, reinvesting, or trading in Financial Assets for the purposes of subparagraph A(6)(b), if the Entity's gross income attributable to the relevant activities equals or exceeds $5 0 \\%$ of the Entity's gross income during the shorter of: (i) the three-year period ending on 31 December of the year preceding the year in which the determination is made; or (ii) the period during which the Entity has been in existence. The term “Investment Entity” does not include an Entity that is an Active NFE because that Entity meets any of the criteria in subparagraphs D(9)(d) through (g). ",
+        "bbox": [
+            168,
+            87,
+            894,
+            203
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This paragraph shall be interpreted in a manner consistent with similar language set forth in the definition of “financial institution” in the Financial Action Task Force Recommendations. ",
+        "bbox": [
+            164,
+            216,
+            892,
+            244
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "7. The term “Financial Asset” includes a security (for example, a share of stock in a corporation; partnership or beneficial ownership interest in a widely held or publicly traded partnership or trust; note, bond, debenture, or other evidence of indebtedness), partnership interest, commodity, swap (for example, interest rate swaps, currency swaps, basis swaps, interest rate caps, interest rate floors, commodity swaps, equity swaps, equity index swaps, and similar agreements), Insurance Contract or Annuity Contract, or any interest (including a futures or forward contract or option) in a security, partnership interest, commodity, swap, Insurance Contract, or Annuity Contract. The term “Financial Asset” does not include a non-debt, direct interest in real property. ",
+        "bbox": [
+            110,
+            259,
+            894,
+            374
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "8. The term “Specified Insurance Company” means any Entity that is an insurance company (or the holding company of an insurance company) which issues, or is obligated to make payments with respect to, a Cash Value Insurance Contract or an Annuity Contract. ",
+        "bbox": [
+            107,
+            387,
+            892,
+            430
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "B. Non-Reporting Financial Institution ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            444,
+            430,
+            458
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1. The term “Non-Reporting Financial Institution” means any Financial Institution that is: ",
+        "bbox": [
+            100,
+            473,
+            774,
+            488
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) a Governmental Entity, International Organisation or Central Bank, other than with respect to a payment that is derived from an obligation held in connection with a commercial financial activity of a type engaged in by a Specified Insurance Company, Custodial Institution, or Depository Institution; ",
+        "bbox": [
+            166,
+            501,
+            894,
+            558
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(b) a Broad Participation Retirement Fund; a Narrow Participation Retirement Fund; a Pension Fund of a Governmental Entity, International Organisation or Central Bank; or a Qualified Credit Card Issuer; ",
+        "bbox": [
+            161,
+            573,
+            895,
+            615
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(c) any other Entity that presents a low risk of being used to evade tax, has substantially similar characteristics to any of the Entities described in subparagraphs B(1)(a) and (b), and is included in the list of Non-Reporting Financial Institutions referred to in Annex 1 of these Regulations, provided that the status of such Entity as a Non-Reporting Financial Institution does not frustrate the purposes of these Regulations; ",
+        "bbox": [
+            164,
+            630,
+            895,
+            701
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(d) an Exempt Collective Investment Vehicle; or ",
+        "bbox": [
+            168,
+            715,
+            534,
+            730
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(e) a trust to the extent that the trustee of the trust is a Reporting Financial Institution and reports all information required to be reported pursuant to Section I with respect to all Reportable Accounts of the trust. ",
+        "bbox": [
+            154,
+            744,
+            895,
+            787
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2. The term “Governmental Entity” means the government of a jurisdiction, any political subdivision of a jurisdiction (which, for the avoidance of doubt, includes a state, province, county, or municipality), or any wholly owned agency or instrumentality of a jurisdiction or of any one or more of the foregoing (each, a “Governmental Entity”). This category is comprised of the integral parts, controlled entities, and political subdivisions of a jurisdiction. ",
+        "bbox": [
+            109,
+            801,
+            894,
+            872
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) An “integral part” of a jurisdiction means any person, organisation, agency, bureau, fund, instrumentality, or other body, however designated, that constitutes a governing authority of a jurisdiction. The net earnings of the governing authority must be credited to its own account or to other accounts of the jurisdiction, with no portion inuring to the benefit of any private person. An integral part does not include any individual who is a sovereign, official, or administrator acting in a private or personal capacity. ",
+        "bbox": [
+            159,
+            887,
+            892,
+            916
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(b) A “controlled entity” means an Entity which is separate in form from the jurisdiction or that otherwise constitutes a separate juridical entity, provided that: ",
+        "bbox": [
+            159,
+            145,
+            890,
+            173
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(i) the Entity is wholly owned and controlled by one or more Governmental Entities directly or through one or more controlled entities;   \n(ii) the Entity's net earnings are credited to its own account or to the accounts of one or more Governmental Entities, with no portion of its income inuring to the benefit of any private person; and   \n(iii) the Entity's assets vest in one or more Governmental Entities upon dissolution. ",
+        "bbox": [
+            226,
+            187,
+            892,
+            303
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(c) Income does not inure to the benefit of private persons if such persons are the intended beneficiaries of a governmental programme, and the programme activities are performed for the general public with respect to the common welfare or relate to the administration of some phase of government. Notwithstanding the foregoing, however, income is considered to inure to the benefit of private persons if the income is derived from the use of a Governmental Entity to conduct a commercial business, such as a commercial banking business, that provides financial services to private persons. ",
+        "bbox": [
+            166,
+            316,
+            892,
+            401
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3. The term “International Organisation” means any international organisation or wholly owned agency or instrumentality thereof. This category includes any intergovernmental organisation (including a supranational organisation) (i) that is comprised primarily of governments; (ii) that has in effect a headquarters or substantially similar agreement with the jurisdiction; and (iii) the income of which does not inure to the benefit of private persons. ",
+        "bbox": [
+            107,
+            416,
+            894,
+            487
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4. The term “Central Bank” means an institution that is by law or government sanction the principal authority, other than the government of the jurisdiction itself, issuing instruments intended to circulate as currency. Such an institution may include an instrumentality that is separate from the government of the jurisdiction, whether or not owned in whole or in part by the jurisdiction. ",
+        "bbox": [
+            107,
+            501,
+            892,
+            558
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5. The term “Broad Participation Retirement Fund” means a fund established to provide retirement, disability, or death benefits, or any combination thereof, to beneficiaries who are current or former employees (or persons designated by such employees) of one or more employers in consideration for services rendered, provided that the fund: ",
+        "bbox": [
+            107,
+            573,
+            892,
+            631
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) does not have a single beneficiary with a right to more than $5 \\%$ of the fund's assets; (b) is subject to government regulation and provides information reporting to the tax authorities; and (c) satisfies at least one of the following requirements: ",
+        "bbox": [
+            166,
+            644,
+            887,
+            717
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(i) the fund is generally exempt from tax on investment income, or taxation of such income is deferred or taxed at a reduced rate, due to its status as a retirement or pension plan;   \n(ii) the fund receives at least $5 0 \\%$ of its total contributions (other than transfers of assets from other plans described in subparagraphs B(5) through (7) or from retirement and pension accounts described in subparagraph C(17)(a)) from the sponsoring employers;   \n(iii) distributions or withdrawals from the fund are allowed only upon the occurrence of specified events related to retirement, disability, or death (except rollover distributions to other retirement funds described in subparagraphs B(5) through (7) or retirement and pension accounts described in subparagraph C(17)(a)), or penalties apply to distributions or withdrawals made before such specified events; or ",
+        "bbox": [
+            206,
+            730,
+            894,
+            888
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(iv) contributions (other than certain permitted make-up contributions) by employees to the fund are limited by reference to earned income of the employee or may not exceed USD50,000 annually, applying the rules set forth in paragraph D of Section VII for account aggregation and currency translation. ",
+        "bbox": [
+            225,
+            73,
+            894,
+            130
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6. The term “Narrow Participation Retirement Fund” means a fund established to provide retirement, disability, or death benefits to beneficiaries who are current or former employees (or persons designated by such employees) of one or more employers in consideration for services rendered, provided that: ",
+        "bbox": [
+            110,
+            145,
+            894,
+            187
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) the fund has fewer than 50 participants;   \n(b) the fund is sponsored by one or more employers that are not Investment Entities or Passive NFEs;   \n(c) the employee and employer contributions to the fund (other than transfers of assets from retirement and pension accounts described in subparagraph C(17)(a)) are limited by reference to earned income and compensation of the employee, respectively;   \n(d) participants that are not residents of the jurisdiction in which the fund is established are not entitled to more than $2 0 \\%$ of the fund's assets; and   \n(e) the fund is subject to government regulation and provides information reporting to the tax authorities. ",
+        "bbox": [
+            164,
+            200,
+            894,
+            387
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "7. The term “Pension Fund of a Governmental Entity, International Organisation or Central Bank” means a fund established by a Governmental Entity, International Organisation or Central Bank to provide retirement, disability, or death benefits to beneficiaries or participants who are current or former employees (or persons designated by such employees), or who are not current or former employees, if the benefits provided to such beneficiaries or participants are in consideration of personal services performed for the Governmental Entity, International Organisation or Central Bank. ",
+        "bbox": [
+            109,
+            401,
+            894,
+            488
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "8. The term “Qualified Credit Card Issuer” means a Financial Institution satisfying the following requirements: ",
+        "bbox": [
+            99,
+            501,
+            892,
+            531
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) the Financial Institution is a Financial Institution solely because it is an issuer of credit cards that accepts deposits only when a customer makes a payment in excess of a balance due with respect to the card and the overpayment is not immediately returned to the customer; and   \n(b) beginning on or before 1 January 2018, the Financial Institution implements policies and procedures either to prevent a customer from making an overpayment in excess of USD50,000, or to ensure that any customer overpayment in excess of that amount is refunded to the customer within 60 days, in each case applying the rules set forth in paragraph D of Section VII for account aggregation and currency translation. For this purpose, a customer overpayment does not refer to credit balances to the extent of disputed charges but does include credit balances resulting from merchandise returns. ",
+        "bbox": [
+            159,
+            544,
+            894,
+            687
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "9. The term “Exempt Collective Investment Vehicle” means an Investment Entity that is regulated as a collective investment vehicle, provided that all of the interests in the collective investment vehicle are held by or through individuals or Entities that are not Reportable Persons, except a Passive NFE with Controlling Persons who are Reportable Persons. ",
+        "bbox": [
+            105,
+            701,
+            894,
+            758
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "C. Financial Account ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            759,
+            300,
+            772
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "1. The term “Financial Account” means an account maintained by a Financial Institution, and includes a Depository Account, a Custodial Account and: ",
+        "bbox": [
+            102,
+            787,
+            894,
+            815
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) in the case of an Investment Entity, any Equity Interest or debt interest in the Financial Institution. Notwithstanding the foregoing, the term “Financial Account” does not include any Equity Interest or debt interest in an Entity that is an Investment Entity solely because it (i) renders investment advice to, and acts on behalf of, or (ii) manages portfolios for, and acts on behalf of, a customer for the purpose of investing, managing, or administering Financial Assets deposited in the name of the customer with a Financial Institution other than such Entity; ",
+        "bbox": [
+            166,
+            829,
+            894,
+            916
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(b) in the case of a Financial Institution not described in subparagraph C(1)(a), any Equity Interest or debt interest in the Financial Institution, if the class of interests was established with the purpose of avoiding reporting in accordance with Section I; and ",
+        "bbox": [
+            166,
+            87,
+            894,
+            130
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(c) any Cash Value Insurance Contract and any Annuity Contract issued or maintained by a Financial Institution, other than a non-investment-linked, non-transferable immediate life annuity that is issued to an individual and monetises a pension or disability benefit provided under an account that is an Excluded Account. ",
+        "bbox": [
+            166,
+            145,
+            892,
+            200
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The term “Financial Account” does not include any account that is an Excluded Account. ",
+        "bbox": [
+            137,
+            203,
+            769,
+            216
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The term “Depository Account” includes any commercial, checking, savings, time, or thrift account, or an account that is evidenced by a certificate of deposit, thrift certificate, investment certificate, certificate of indebtedness, or other similar instrument maintained by a Financial Institution in the ordinary course of a banking or similar business. A Depository Account also includes an amount held by an insurance company pursuant to a guaranteed investment contract or similar agreement to pay or credit interest thereon. ",
+        "bbox": [
+            119,
+            216,
+            894,
+            288
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "3. The term “Custodial Account” means an account (other than an Insurance Contract or Annuity Contract) which holds one or more Financial Assets for the benefit of another person. ",
+        "bbox": [
+            100,
+            302,
+            892,
+            330
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4. The term “Equity Interest” means, in the case of a partnership that is a Financial Institution, either a capital or profits interest in the partnership. In the case of a trust that is a Financial Institution, an Equity Interest is considered to be held by any person treated as a settlor or beneficiary of all or a portion of the trust, or any other natural person exercising ultimate effective control over the trust. A Reportable Person will be treated as being a beneficiary of a trust if such Reportable Person has the right to receive directly or indirectly (for example, through a nominee) a mandatory distribution or may receive, directly or indirectly, a discretionary distribution from the trust. ",
+        "bbox": [
+            107,
+            344,
+            894,
+            444
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "5. The term “Insurance Contract” means a contract (other than an Annuity Contract) under which the issuer agrees to pay an amount upon the occurrence of a specified contingency involving mortality, morbidity, accident, liability, or property risk. ",
+        "bbox": [
+            107,
+            458,
+            892,
+            502
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6. The term “Annuity Contract” means a contract under which the issuer agrees to make payments for a period of time determined in whole or in part by reference to the life expectancy of one or more individuals. The term also includes a contract that is considered to be an Annuity Contract in accordance with the law, regulation, or practice of the jurisdiction in which the contract was issued, and under which the issuer agrees to make payments for a term of years. ",
+        "bbox": [
+            107,
+            516,
+            894,
+            588
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "7. The term “Cash Value Insurance Contract” means an Insurance Contract (other than an indemnity reinsurance contract between two insurance companies) that has a Cash Value. ",
+        "bbox": [
+            100,
+            601,
+            890,
+            631
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "8. The term “Cash Value” means the greater of (i) the amount that the policyholder is entitled to receive upon surrender or termination of the contract (determined without reduction for any surrender charge or policy loan); and (ii) the amount the policyholder can borrow under or with regard to the contract. Notwithstanding the foregoing, the term “Cash Value” does not include an amount payable under an Insurance Contract: ",
+        "bbox": [
+            107,
+            644,
+            894,
+            702
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "solely by reason of the death of an individual insured under a life insurance contract; ",
+        "bbox": [
+            191,
+            715,
+            800,
+            730
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(b) as a personal injury or sickness benefit or other benefit providing indemnification of an economic loss incurred upon the occurrence of the event insured against; ",
+        "bbox": [
+            152,
+            744,
+            892,
+            774
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(c) as a refund of a previously paid premium (less cost of insurance charges whether or not actually imposed) under an Insurance Contract (other than an investment-linked life insurance or annuity contract) due to cancellation or termination of the contract, decrease in risk exposure during the effective period of the contract, or arising from the correction of a posting or similar error with regard to the premium for the contract; ",
+        "bbox": [
+            168,
+            787,
+            894,
+            858
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(d) as a policyholder dividend (other than a termination dividend) provided that the dividend relates to an Insurance Contract under which the only benefits payable are described in subparagraph C(8)(b); or ",
+        "bbox": [
+            166,
+            872,
+            894,
+            915
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(e) as a return of an advance premium or premium deposit for an Insurance Contract for which the premium is payable at least annually if the amount of the advance premium or premium deposit does not exceed the next annual premium that will be payable under the contract. ",
+        "bbox": [
+            164,
+            87,
+            894,
+            130
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "9. The term “Pre-existing Account” means: ",
+        "bbox": [
+            104,
+            145,
+            452,
+            160
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) a Financial Account maintained by a Reporting Financial Institution as of 31 December 2016; ",
+        "bbox": [
+            159,
+            173,
+            863,
+            187
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(b) any Financial Account of an Account Holder, regardless of the date such Financial Account was opened, if: ",
+        "bbox": [
+            157,
+            202,
+            892,
+            230
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(i) the Account Holder also holds with the Reporting Financial Institution (or with a Related Entity within the same jurisdiction as the Reporting Financial Institution) a Financial Account that is a Pre-existing Account under subparagraph C(9)(a); ",
+        "bbox": [
+            226,
+            244,
+            892,
+            287
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(ii) the Reporting Financial Institution (and, as applicable, the Related Entity within the same jurisdiction as the Reporting Financial Institution) treats both of the aforementioned Financial Accounts, and any other Financial Accounts of the Account Holder that are treated as Pre-existing Accounts under this subparagraph, as a single Financial Account for purposes of satisfying the standards of knowledge requirements described in paragraph A of Section VII, and for purposes of determining the balance or value of any of the Financial Accounts when applying any of the account thresholds; ",
+        "bbox": [
+            226,
+            302,
+            894,
+            401
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(iii) with respect to a Financial Account that is subject to AML/KYC Procedures, the Reporting Financial Institution is permitted to satisfy such AML/KYC Procedures for the Financial Account by relying upon the AML/KYC Procedures performed for the Pre-existing Account described in subparagraph C(9)(a); and the opening of the Financial Account does not require the provision of new, additional or amended customer information by the Account Holder other than for the purposes of this Regulation. ",
+        "bbox": [
+            228,
+            416,
+            894,
+            501
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "10. The term “New Account” means a Financial Account maintained by a Reporting Financial Institution opened on or after 1 January 2017 unless it is treated as a Pre-existing Account under subparagraph C(9)(b). ",
+        "bbox": [
+            105,
+            516,
+            892,
+            545
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1. The term “Pre-existing Individual Account” means a Pre-existing Account held by one or more individuals. ",
+        "bbox": [
+            115,
+            558,
+            892,
+            574
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The term “New Individual Account” means a New Account held by one or more individuals. ",
+        "bbox": [
+            124,
+            587,
+            803,
+            601
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "13. The term “Pre-existing Entity Account” means a Pre-existing Account held by one or more Entities. ",
+        "bbox": [
+            109,
+            615,
+            853,
+            631
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "14. The term “Lower Value Account” means a Pre-existing Individual Account with an aggregate balance or value as of 31 December 2016 that does not exceed USD1,000,000. ",
+        "bbox": [
+            115,
+            644,
+            894,
+            674
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The term “High Value Account” means a Pre-existing Individual Account with an aggregate balance or value that exceeds USD1,000,000 as of 31 December 2016, or 31 December of any subsequent year. ",
+        "bbox": [
+            151,
+            687,
+            897,
+            717
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "16. The term “New Entity Account” means a New Account held by one or more Entities. ",
+        "bbox": [
+            104,
+            730,
+            749,
+            745
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "17. The term “Excluded Account” means any of the following accounts: ",
+        "bbox": [
+            107,
+            758,
+            638,
+            772
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(a) a retirement or pension account that satisfies the following requirements: ",
+        "bbox": [
+            156,
+            787,
+            721,
+            802
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(i) the account is subject to regulation as a personal retirement account or is part of a registered or regulated retirement or pension plan for the provision of retirement or pension benefits (including disability or death benefits);   \n(ii) the account is tax-favoured (i.e., contributions to the account that would otherwise be subject to tax are deductible or excluded from the gross income of the Account Holder or ",
+        "bbox": [
+            218,
+            815,
+            895,
+            901
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "taxed at a reduced rate, or taxation of investment income from the account is deferred or taxed at a reduced rate); ",
+        "bbox": [
+            287,
+            74,
+            894,
+            102
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(iii) information reporting is required to the tax authorities with respect to the account; ",
+        "bbox": [
+            218,
+            116,
+            843,
+            131
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(iv) withdrawals are conditioned on reaching a specified retirement age, disability, or death, or penalties apply to withdrawals made before such specified events; and ",
+        "bbox": [
+            220,
+            145,
+            895,
+            173
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(v) either (i) annual contributions are limited to USD50,000 or less; or (ii) there is a maximum lifetime contribution limit to the account of USD1,000,000 or less, in each case applying the rules set forth in paragraph D of Section VII for account aggregation and currency translation. ",
+        "bbox": [
+            213,
+            187,
+            894,
+            244
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "A Financial Account that otherwise satisfies the requirement of subparagraph C(17)(a)(v) will not fail to satisfy such requirement solely because such Financial Account may receive assets or funds transferred from one or more Financial Accounts that meet the requirements of subparagraph C(17)(a) or (b) or from one or more retirement or pension funds that meet the requirements of any of subparagraphs B(5) through (7); ",
+        "bbox": [
+            289,
+            259,
+            892,
+            331
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(b) an account that satisfies the following requirements: ",
+        "bbox": [
+            168,
+            344,
+            581,
+            359
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(i) the account is subject to regulation as an investment vehicle for purposes other than for retirement and is regularly traded on an established securities market, or the account is subject to regulation as a savings vehicle for purposes other than for retirement; ",
+        "bbox": [
+            226,
+            373,
+            892,
+            416
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(ii) the account is tax-favoured (i.e., contributions to the account that would otherwise be subject to tax are deductible or excluded from the gross income of the Account Holder or taxed at a reduced rate, or taxation of investment income from the account is deferred or taxed at a reduced rate); ",
+        "bbox": [
+            226,
+            430,
+            892,
+            487
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(iii) withdrawals are conditioned on meeting specific criteria related to the purpose of the investment or savings account (for example, the provision of educational or medical benefits), or penalties apply to withdrawals made before such criteria are met; and ",
+        "bbox": [
+            223,
+            501,
+            892,
+            545
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(iv) annual contributions are limited to USD50,000 or less, applying the rules set forth in paragraph D of Section VII for account aggregation and currency translation. ",
+        "bbox": [
+            221,
+            558,
+            892,
+            588
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "A Financial Account that otherwise satisfies the requirement of subparagraph C(17)(b)(iv) will not fail to satisfy such requirement solely because such Financial Account may receive assets or funds transferred from one or more Financial Accounts that meet the requirements of subparagraph C(17)(a) or (b) or from one or more retirement or pension funds that meet the requirements of any of subparagraphs B(5) through (7); ",
+        "bbox": [
+            289,
+            601,
+            892,
+            673
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "a life insurance contract with a coverage period that will end before the insured individual attains age 90, provided that the contract satisfies the following requirements: ",
+        "bbox": [
+            226,
+            674,
+            890,
+            701
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(i) periodic premiums, which do not decrease over time, are payable at least annually during the period the contract is in existence or until the insured attains age 90, whichever is shorter;   \n(ii) the contract has no contract value that any person can access (by withdrawal, loan, or otherwise) without terminating the contract;   \n(iii) the amount (other than a death benefit) payable upon cancellation or termination of the contract cannot exceed the aggregate premiums paid for the contract, less the sum of mortality, morbidity, and expense charges (whether or not actually imposed) for the period or periods of the contract's existence and any amounts paid prior to the cancellation or termination of the contract; and   \n(iv) the contract is not held by a transferee for value; ",
+        "bbox": [
+            223,
+            717,
+            894,
+            916
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "an account that is held solely by an estate if the documentation for such account includes a copy of the deceased's will or death certificate; ",
+        "bbox": [
+            225,
+            87,
+            892,
+            116
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "an account established in connection with any of the following: ",
+        "bbox": [
+            226,
+            130,
+            657,
+            145
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(i) a court order or judgment;   \n(ii) a sale, exchange, or lease of real or personal property, provided that the account satisfies the following requirements:   \nA. the account is funded solely with a down payment, earnest money, deposit in an amount appropriate to secure an obligation directly related to the transaction, or a similar payment, or is funded with a Financial Asset that is deposited in the account in connection with the sale, exchange, or lease of the property,   \nB. the account is established and used solely to secure the obligation of the purchaser to pay the purchase price for the property, the seller to pay any contingent liability, or the lessor or lessee to pay for any damages relating to the leased property as agreed under the lease,   \nC. the assets of the account, including the income earned thereon, will be paid or otherwise distributed for the benefit of the purchaser, seller, lessor, or lessee (including to satisfy such person's obligation) when the property is sold, exchanged, or surrendered, or the lease terminates,   \nD. the account is not a margin or similar account established in connection with a sale or exchange of a Financial Asset, and   \nE. the account is not associated with an account described in subparagraph C(17)(f);   \nF. an obligation of a Financial Institution servicing a loan secured by real property to set aside a portion of a payment solely to facilitate the payment of taxes or insurance related to the real property at a later time;   \nG. an obligation of a Financial Institution solely to facilitate the payment of taxes at a later time; ",
+        "bbox": [
+            211,
+            159,
+            894,
+            216
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(f) a Depository Account that satisfies the following requirements: ",
+        "bbox": [
+            161,
+            615,
+            657,
+            631
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(i) the account exists solely because a customer makes a payment in excess of a balance due with respect to a credit card or other revolving credit facility and the overpayment is not immediately returned to the customer; and   \n(ii) beginning on or before 1 January 2017, the Financial Institution implements policies and procedures either to prevent a customer from making an overpayment in excess of USD50,000, or to ensure that any customer overpayment in excess of that amount is refunded to the customer within 60 days, in each case applying the rules set forth in paragraph D of Section VII for currency translation. For this purpose, a customer overpayment does not refer to credit balances to the extent of disputed charges but does include credit balances resulting from merchandise returns; ",
+        "bbox": [
+            221,
+            644,
+            894,
+            802
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(g) any other account that presents a low risk of being used to evade tax, has substantially similar characteristics to any of the accounts described in subparagraphs C(17)(a) through (f), and is included in the list of Excluded Accounts referred to in Annex 1 of these Regulations, provided that the status of such account as an Excluded Account does not frustrate the purposes of these Regulations. ",
+        "bbox": [
+            166,
+            815,
+            894,
+            887
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "D. Reportable Account ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            73,
+            314,
+            87
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "1. The term “Reportable Account” means a Financial Account that is maintained by a Reporting Financial Institution and is held by one or more Reportable Persons or by a Passive NFE with one or more Controlling Persons that is a Reportable Person, provided it has been identified as such pursuant to the due diligence procedures described in Sections II through VII. ",
+        "bbox": [
+            107,
+            102,
+            894,
+            159
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "2. The term “Reportable Person” means a Reportable Jurisdiction Person other than: (i) a corporation the stock of which is regularly traded on one or more established securities markets; (ii) any corporation that is a Related Entity of a corporation described in clause (i); (iii) a Governmental Entity; (iv) an International Organisation; (v) a Central Bank; or (vi) a Financial Institution. ",
+        "bbox": [
+            105,
+            173,
+            892,
+            230
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3. The term “Reportable Jurisdiction Person” means an individual or Entity that is resident in a Reportable Jurisdiction under the tax laws of such jurisdiction, or an estate of a decedent that was a resident of a Reportable Jurisdiction. For this purpose, an Entity such as a partnership, limited liability partnership or similar legal arrangement, which has no residence for tax purposes shall be treated as resident in the jurisdiction in which its place of effective management is situated. ",
+        "bbox": [
+            107,
+            244,
+            894,
+            316
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4. The term “Reportable Jurisdiction” means: ",
+        "bbox": [
+            105,
+            330,
+            472,
+            344
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(a) for the purposes of applying Section I of these Regulations, a jurisdiction other than the United States of America or the United Arab Emirates; and   \n(b) for the purposes of applying the due diligence procedures described in Section II to VII of these Regulations, a jurisdiction other than the United States of America. ",
+        "bbox": [
+            166,
+            359,
+            892,
+            431
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "5. The term “Participating Jurisdiction” means a jurisdiction which is identified in Annex 1 to these Regulations. ",
+        "bbox": [
+            99,
+            444,
+            890,
+            473
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "6. The term “Controlling Persons” means the natural persons who exercise control over an Entity. In the case of a trust, that term means the settlor(s), the trustees(s), the protectors(s) (if any), the beneficiary(ies) or class(es) of beneficiaries, and any other natural persons(s) exercising ultimate effective control over the trust, and in the case of a legal arrangement other than a trust, such term means persons in equivalent or similar positions. The term “Controlling Persons” must be interpreted in a manner consistent with the Financial Action Task Force Recommendations. ",
+        "bbox": [
+            105,
+            487,
+            894,
+            573
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "7. The term “NFE” means any Entity that is not a Financial Institution. ",
+        "bbox": [
+            105,
+            587,
+            630,
+            601
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The term “Passive NFE” means any: (i) NFE that is not an Active NFE; or (ii) an Investment Entity described in subparagraph A(6)(b) that is not a Participating Jurisdiction Financial Institution. ",
+        "bbox": [
+            132,
+            615,
+            892,
+            644
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "9. The term “Active NFE” means any NFE that meets any of the following criteria: ",
+        "bbox": [
+            112,
+            658,
+            715,
+            674
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(a) less than $5 0 \\%$ of the NFE's gross income for the preceding calendar year is passive income and less than $5 0 \\%$ of the assets held by the NFE during the preceding calendar year are assets that produce or are held for the production of passive income; ",
+        "bbox": [
+            156,
+            687,
+            895,
+            730
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(b) the stock of the NFE is regularly traded on an established securities market or the NFE is a Related Entity of an Entity the stock of which is regularly traded on an established securities market; ",
+        "bbox": [
+            154,
+            744,
+            895,
+            772
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(c) the NFE is a Governmental Entity, an International Organisation, a Central Bank, or an Entity wholly owned by one or more of the foregoing; ",
+        "bbox": [
+            157,
+            787,
+            894,
+            816
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(d) substantially all of the activities of the NFE consist of holding (in whole or in part) the outstanding stock of, or providing financing and services to, one or more subsidiaries that engage in trades or businesses other than the business of a Financial Institution, except that an Entity does not qualify for this status if the Entity functions (or holds itself out) as an investment fund, such as a private equity fund, venture capital fund, leveraged buyout fund, or any investment vehicle whose purpose is to acquire or fund companies and then hold interests in those companies as capital assets for investment purposes; ",
+        "bbox": [
+            168,
+            829,
+            892,
+            901
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(e) the NFE is not yet operating a business and has no prior operating history, but is investing capital into assets with the intent to operate a business other than that of a Financial Institution, provided that the NFE does not qualify for this exception after the date that is 24 months after the date of the initial organisation of the NFE; ",
+        "bbox": [
+            168,
+            116,
+            892,
+            173
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(f) the NFE was not a Financial Institution in the past five (5) years, and is in the process of liquidating its assets or is reorganising with the intent to continue or recommence operations in a business other than that of a Financial Institution; ",
+        "bbox": [
+            168,
+            187,
+            892,
+            230
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "the NFE primarily engages in financing and hedging transactions with, or for, Related Entities that are not Financial Institutions, and does not provide financing or hedging services to any Entity that is not a Related Entity, provided that the group of any such Related Entities is primarily engaged in a business other than that of a Financial Institution; or ",
+        "bbox": [
+            226,
+            244,
+            892,
+            302
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "the NFE meets all of the following requirements: ",
+        "bbox": [
+            208,
+            316,
+            559,
+            330
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(i) it is established and operated in its jurisdiction of residence exclusively for religious, charitable, scientific, artistic, cultural, athletic, or educational purposes; or it is established and operated in its jurisdiction of residence and it is a professional organisation, business league, chamber of commerce, labour organisation, agricultural or horticultural organisation, civic league or an organisation operated exclusively for the promotion of social welfare; ",
+        "bbox": [
+            226,
+            344,
+            892,
+            430
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(ii) it is exempt from income tax in its jurisdiction of residence; ",
+        "bbox": [
+            225,
+            444,
+            692,
+            460
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(iii) it has no shareholders or members who have a proprietary or beneficial interest in its income or assets; ",
+        "bbox": [
+            221,
+            474,
+            892,
+            501
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(iv) the applicable laws of the NFE's jurisdiction of residence or the NFE's formation documents do not permit any income or assets of the NFE to be distributed to, or applied for the benefit of, a private person or non-charitable Entity other than pursuant to the conduct of the NFE's charitable activities, or as payment of reasonable compensation for services rendered, or as payment representing the fair market value of property which the NFE has purchased; and ",
+        "bbox": [
+            226,
+            516,
+            892,
+            601
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(v) the applicable laws of the NFE's jurisdiction of residence or the NFE's formation documents require that, upon the NFE's liquidation or dissolution, all of its assets be distributed to a Governmental Entity or other non-profit organisation, or escheat to the government of the NFE's jurisdiction of residence or any political subdivision thereof. ",
+        "bbox": [
+            226,
+            615,
+            892,
+            673
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "E. Miscellaneous ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            674,
+            270,
+            687
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The term “Account Holder” means the person listed or identified as the holder of a Financial Account by the Financial Institution that maintains the Financial Account. A person, other than a Financial Institution, holding a Financial Account for the benefit or account of another person as agent, custodian, nominee, signatory, investment advisor, or intermediary, is not treated as holding the account for purposes of these Regulations, and such other person is treated as holding the Financial Account. In the case of a Cash Value Insurance Contract or an Annuity Contract, the Account Holder is any person entitled to access the Cash Value or change the beneficiary of the contract. If no person can access the Cash Value or change the beneficiary, the Account Holder is any person named as the owner in the contract and any person with a vested entitlement to payment under the terms of the contract. Upon the maturity of a Cash Value Insurance Contract or an Annuity Contract, each person entitled to receive a payment under the contract is treated as an Account Holder. ",
+        "bbox": [
+            121,
+            701,
+            892,
+            858
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "2. The term “AML/KYC Procedures” means the customer due diligence procedures of a Reporting Financial Institution pursuant to the anti-money laundering or similar requirements to which such Reporting Financial Institution is subject under domestic law. ",
+        "bbox": [
+            107,
+            872,
+            894,
+            915
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "To the extent the AML/KYC Procedures: ",
+        "bbox": [
+            168,
+            87,
+            462,
+            102
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(a) do not require the collection of certain documentation as set out in these Regulations, the Reporting Financial Institution is required to collect such documentation that will enable it to comply with these Regulations; and   \n(b) contain definitions different to those in these Regulations, the definitions and interpretation for the purpose of these Regulations shall prevail. ",
+        "bbox": [
+            166,
+            116,
+            894,
+            203
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "3. The term “Entity” means a legal person or a legal arrangement, such as a corporation, partnership, trust, or foundation. ",
+        "bbox": [
+            100,
+            216,
+            894,
+            246
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4. An Entity is a “Related Entity” of another Entity if: ",
+        "bbox": [
+            105,
+            259,
+            524,
+            274
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(a) either Entity controls the other Entity;   \n(b) the two Entities are under common control; or   \n(c) the two Entities are Investment Entities as described in subparagraph A(6)(b), that are under common management, and such management fulfils the due diligence obligations of such Investment Entities. ",
+        "bbox": [
+            166,
+            287,
+            894,
+            387
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "For this purpose “control” includes direct or indirect ownership of more than $5 0 \\%$ of the vote and value in an Entity. ",
+        "bbox": [
+            159,
+            401,
+            894,
+            430
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The term “TIN” means Taxpayer Identification Number (or functional equivalent in the absence of a Taxpayer Identification Number). ",
+        "bbox": [
+            115,
+            444,
+            895,
+            473
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "6. The term “Documentary Evidence” includes any of the following: ",
+        "bbox": [
+            104,
+            487,
+            623,
+            502
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(a) a certificate of residence issued by an authorised government body (for example, a government or agency thereof, or a municipality) of the jurisdiction in which the payee claims to be a resident;   \n(b) with respect to an individual, any valid identification issued by an authorised government body (for example, a government or agency thereof, or a municipality), that includes the individual's name and is typically used for identification purposes;   \n(c) with respect to an Entity, any official documentation issued by an authorised government body (for example, a government or agency thereof, or a municipality) that includes the name of the Entity and either the address of its principal office in the jurisdiction in which it claims to be a resident or the jurisdiction in which the Entity was incorporated or organised;   \n(d) any audited financial statement, third-party credit report, bankruptcy filing, or securities regulator's report. ",
+        "bbox": [
+            161,
+            516,
+            895,
+            717
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "With respect to a Pre-existing Entity Account, Reporting Financial Institutions may use as Documentary Evidence any classification in the Reporting Financial Institution's records with respect to the Account Holder that was determined based on a standardised industry coding system, that was recorded by the Reporting Financial Institution consistent with its normal business practices for purposes of AML/KYC Procedures or another regulatory purposes (other than for tax purposes) and that was implemented by the Reporting Financial Institution prior to the date used to classify the Financial Account as a Pre-existing Account, provided that the Reporting Financial Institution does not know or does not have reason to know that such classification is incorrect or unreliable. The term “standardised industry coding system” means a coding system used to classify establishments by business type for purposes other than tax purposes. ",
+        "bbox": [
+            166,
+            730,
+            894,
+            858
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "SECTION IX: COMPLEMENTARY REPORTING AND DUE DILIGENCE RULES FOR FINANCIAL ACCOUNT INFORMATION ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            72,
+            867,
+            102
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "A. Change in circumstances ",
+        "bbox": [
+            107,
+            116,
+            351,
+            130
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "1. A “change in circumstances” includes any change that results in the addition of information relevant to a person's status or otherwise conflicts with such person's status. In addition, a change in circumstances includes any change or addition of information to the Account Holder's account (including the addition, substitution, or other change of an Account Holder) or any change or addition of information to any account associated with such account (applying the account aggregation rules described in subparagraphs D(1) through (3) of Section VII) if such change or addition of information affects the status of the Account Holder. ",
+        "bbox": [
+            107,
+            145,
+            894,
+            230
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "2. If a Reporting Financial Institution has relied on the residence address test described in subparagraph B(1) of Section III and there is a change in circumstances that causes the Reporting Financial Institution to know or have reason to know that the original Documentary Evidence (or other equivalent documentation) is incorrect or unreliable, the Reporting Financial Institution must, by the later of the last day of the relevant calendar year, or 90 calendar days following the notice or discovery of such change in circumstances, obtain a self-certification and new Documentary Evidence to establish the residence(s) for tax purposes of the Account Holder. If the Reporting Financial Institution cannot obtain the self-certification and new Documentary Evidence by such date, the Reporting Financial Institution must treat the Account Holder as resident of the jurisdiction in which the Account Holder claimed to be resident in the original self-certificate and the jurisdiction in which the Account holder may be resident as a result of the change in circumstances. ",
+        "bbox": [
+            107,
+            244,
+            894,
+            387
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "B. Self-certification for New Entity Accounts ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            401,
+            470,
+            416
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "With respect to New Entity Accounts, for the purposes of determining whether a Controlling Person of a Passive NFE is a Reportable Person, a Reporting Financial Institution may only rely on a self-certification from either the Account Holder or the Controlling Person. ",
+        "bbox": [
+            161,
+            417,
+            894,
+            460
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "C. Residence of a Financial Institution ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            473,
+            425,
+            487
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "1. A Financial Institution is “resident” in a Participating Jurisdiction if it is subject to the jurisdiction of such Participating Jurisdiction in that the Participating Jurisdiction is able to enforce reporting by the Financial Institution). ",
+        "bbox": [
+            107,
+            501,
+            894,
+            544
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "2. In the case of a trust that is a Financial Institution (irrespective of whether it is resident for tax purposes in a Participating Jurisdiction), the trust is considered to be subject to the jurisdiction of a Participating Jurisdiction if one or more of its trustees are resident in such jurisdiction except if the trust reports all the information required to be reported under these Regulations with respect to Reportable Accounts maintained by the trust to another Participating Jurisdiction because it is resident for tax purposes in such other jurisdiction. ",
+        "bbox": [
+            107,
+            558,
+            894,
+            644
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "3. Where a Financial Institution (other than a trust) does not have a residence for tax purposes (for example, because it is treated as fiscally transparent, or it is located in a jurisdiction that does not have an income tax), it is considered to be subject to the jurisdiction of a Participating Jurisdiction and it is, thus, a Participating Jurisdiction Financial Institution if: ",
+        "bbox": [
+            107,
+            658,
+            894,
+            715
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(a) it is incorporated under the laws of the Participating Jurisdiction;   \n(b) it has its place of management (including effective management) in the Participating Jurisdiction; or   \n(c) it is subject to financial supervision in the Participating Jurisdiction. ",
+        "bbox": [
+            166,
+            730,
+            892,
+            816
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "4. Where a Financial Institution (other than a trust) is resident in two or more Participating Jurisdiction, such Financial Institution will be subject to the reporting and due diligence obligations of the Participating Jurisdiction in which it maintains the Financial Account(s). ",
+        "bbox": [
+            105,
+            829,
+            894,
+            873
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "D. Account maintained ",
+        "bbox": [
+            105,
+            887,
+            314,
+            901
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "In general, an account would be considered to be maintained by a Financial Institution as follows: ",
+        "bbox": [
+            161,
+            87,
+            826,
+            102
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(a) in the case of a Custodial Account, by the Financial Institution that holds custody over the assets in the account (including a Financial Institution that holds assets in street name for an Account Holder in such institution);   \n(b) in the case of a Depository Account, by the Financial Institution that is obligated to make payments with respect to the account (excluding an agent of a Financial Institution regardless of whether such agent is a Financial Institution);   \n(c) in the case of any Equity Interest or debt interest in a Financial Institution that constitutes a Financial Account, by such Financial Institution;   \n(d) in the case of a Cash Value Insurance Contract or an Annuity Contract, by the Financial Institution that is obligated to make payments with respect to the contract. ",
+        "bbox": [
+            166,
+            115,
+            895,
+            303
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "E. Entities that are Passive NFEs ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            316,
+            386,
+            330
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "For the purpose of subparagraph D(3) of Section VIII, a legal person or a legal arrangement is considered “similar” to a partnership and a limited liability partnership where it is not treated as a taxable unit in a Participating Jurisdiction under the tax laws of such jurisdiction. However, in order to avoid duplicate reporting (given the wide scope of the term “Controlling Persons” in the case of trusts), a trust that is a Passive NFE may not be considered a similar legal arrangement. ",
+        "bbox": [
+            166,
+            344,
+            894,
+            416
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "F. Address of Entity's principal office ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            430,
+            420,
+            444
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "1. One of the requirements described in subparagraph E(6)(c) of Section VIII is that, with respect to an Entity, the official documentation includes either the address of the Entity's principal office in a jurisdiction in which it claims to be a resident or a jurisdiction in which the Entity was incorporated or organised. The address of the Entity's principal office is generally the place in which its place of effective management is situated. ",
+        "bbox": [
+            107,
+            458,
+            894,
+            516
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "2. The address of a Financial Institution with which the Entity maintains an account, a post office box, or an address used solely for mailing purposes is not the address of the Entity's principal office unless such address is the only address used by the Entity and appears as the Entity's registered address in the Entity's organisational documents. ",
+        "bbox": [
+            107,
+            530,
+            894,
+            587
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "3. An address that is provided subject to instructions to hold all mail to that address is not the address of the Entity's principal office. ",
+        "bbox": [
+            100,
+            601,
+            890,
+            631
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "23 ",
+        "bbox": [
+            490,
+            944,
+            509,
+            954
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "ANNEX 1 – ADDITIONAL DEFINITIONS ",
+        "text_level": 1,
+        "bbox": [
+            342,
+            86,
+            657,
+            103
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "For purposes of the application of the Law and these Regulations in the DIFC, unless the context indicates otherwise, the defined terms listed below shall have the corresponding meanings: ",
+        "bbox": [
+            102,
+            130,
+            895,
+            160
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "1. Non-Reporting Financial Institutions means the following non-reporting financial institutions: None.   \n2. Excluded Accounts means for the purposes of the subparagraph C(17)(g) of Section VIII of these Regulations, the following are excluded accounts: None.   \n3. Participating Jurisdictions means for the purposes of these Regulations, the list of Participating Jurisdictions, which is published on the webpage of the UAE Competent Authority. ",
+        "bbox": [
+            102,
+            172,
+            897,
+            331
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "COMMON REPORTING STANDARD REGULATIONS ",
+        "bbox": [
+            438,
+            42,
+            894,
+            57
+        ],
+        "page_idx": 25
+    }
+]

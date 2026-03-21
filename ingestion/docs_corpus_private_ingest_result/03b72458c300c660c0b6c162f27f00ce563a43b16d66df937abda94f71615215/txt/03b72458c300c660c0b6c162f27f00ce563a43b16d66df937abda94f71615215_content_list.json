@@ -1,0 +1,128 @@
+[
+    {
+        "type": "text",
+        "text": "ENF 005/2011 - Order ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            172,
+            349,
+            195
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FEBRUARY 15, 2011 ENFORCEMENT,ORDERS ",
+        "bbox": [
+            40,
+            200,
+            462,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Enforcement No: 005/2011 THE JUDICIAL AUTHORITY OF THE DUBAI INTERNATIONAL FINANCIAL CENTRE IN THE COURT OF FIRST INSTANCE BETWEEN ",
+        "bbox": [
+            40,
+            254,
+            860,
+            299
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/83f00ba0b3494bc18ccd32dc1e1983ddca67fe64bafbf6359fca50187b82d4dd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>(1) HUSSAIN AI AWLAQI(2) ANDREW CLOUT</td><td>Judgment Creditor</td></tr><tr><td>And KHURAM HUSSAIN</td><td>Judgment Debtor</td></tr></table>",
+        "bbox": [
+            43,
+            303,
+            670,
+            382
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ORDER UPON reading the application for an Order requiring the Judgment Debtor to attend the ",
+        "bbox": [
+            52,
+            409,
+            905,
+            428
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Court; IT IS ORDERED THAT: ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            434,
+            312,
+            451
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Mr. Khuram Hussain must attend the DIFC Courts at 10am on Tuesday, 08 March 2011. ",
+        "bbox": [
+            72,
+            457,
+            892,
+            478
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. At that time, Mr. Khuram Hussain to produce any or all of the following: ",
+        "bbox": [
+            72,
+            499,
+            734,
+            518
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a. Bank account statements   \nb. Contracts of Employment   \nc. Tax returns   \nd. Certifi cates of Title to all real property worldwide with any mortgage documentation e. List of all assets with details of any charges or liens. ",
+        "bbox": [
+            114,
+            521,
+            884,
+            620
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. At that time, Mr. Khuram Hussain shall answer on oath such questions as the Court may require. ",
+        "bbox": [
+            67,
+            643,
+            892,
+            681
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Issued by Mark Beer Registrar Date of Issue: 15 February 2011 At: 12pm ",
+        "bbox": [
+            50,
+            687,
+            710,
+            706
+        ],
+        "page_idx": 0
+    }
+]

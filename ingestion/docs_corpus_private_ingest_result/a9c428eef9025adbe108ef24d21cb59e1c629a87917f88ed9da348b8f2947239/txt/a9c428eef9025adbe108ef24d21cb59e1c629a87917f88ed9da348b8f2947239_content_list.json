@@ -1,0 +1,555 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            389,
+            269,
+            605,
+            317
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HOTEL OPERATING REGULATIONS(HOR)",
+        "text_level": 1,
+        "bbox": [
+            154,
+            389,
+            843,
+            458
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Concerning Hotel Establishments and Hotel Operators in the Dubai International Financial Centre ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            553,
+            892,
+            653
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            452,
+            61,
+            547,
+            76
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The contents of this module are divided into the following chapters, sections and appendices: ",
+        "bbox": [
+            159,
+            93,
+            793,
+            110
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Application and Interpretation .   \n2. Definitions ..   \n3. Prohibition ........   \n4. Classification of a Hotel Establishment .   \n5. Licensing ........   \n6. Fines..   \n7. Entertainment Events...   \n8. Hotel Operational Fee ......   \n9. Sales Fee ... 6   \n10. Inspection Powers..... ",
+        "bbox": [
+            102,
+            138,
+            895,
+            421
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Schedule ............ ",
+        "bbox": [
+            99,
+            429,
+            892,
+            444
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HOTEL OPERATING REGULATIONS",
+        "bbox": [
+            564,
+            16,
+            892,
+            30
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            494,
+            970,
+            504,
+            983
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "These Regulations are made by the Board of Directors of the DIFC Authority pursuant to its powers under Article 6(4)(e) of Law no. (9) of 2004 in respect of the Dubai International Financial Centre on 19 June 2011. ",
+        "bbox": [
+            109,
+            97,
+            836,
+            125
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Application and Interpretation ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            138,
+            378,
+            153
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 These Regulations apply to Hotel Establishments and Hotel Operators in the DIFC in relation to their classification, licensing and operation.   \n1.2 Defined terms are identified throughout these Regulations by the capitalisation of the initial letter of a word or phrase. Where capitalisation of the initial letter is not used, an expression has its natural meaning. ",
+        "bbox": [
+            146,
+            176,
+            831,
+            261
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Definitions ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            273,
+            235,
+            287
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The following defined terms have the meaning given below: ",
+        "bbox": [
+            154,
+            301,
+            563,
+            315
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1dd8d129b12628b686bedfef915c8b42e6a264f0738d4295172285a4542cff23.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Classification</td><td colspan=\"1\" rowspan=\"1\">Means the rating assigned to a Hotel Establishment pursuant tothe rating system used by the Classifier</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Classifier</td><td colspan=\"1\" rowspan=\"1\">DTCM or any other body appointed by the DIFC Authorityfrom time to time under these Regulations</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Court</td><td colspan=\"1\" rowspan=\"1\">The DIFC Court as established under Dubai Law</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC</td><td colspan=\"1\" rowspan=\"1\">Dubai International Financial Centre</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC Authority</td><td colspan=\"1\" rowspan=\"1\">Means the     Dubai International    FinancialCentre Authority</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DIFC Laws</td><td colspan=\"1\" rowspan=\"1\">DIFC Law is made by the Ruler as applicable in the DIFC</td></tr><tr><td colspan=\"1\" rowspan=\"1\">DTCM</td><td colspan=\"1\" rowspan=\"1\">Means the Department of Tourism and Commercial Marketingof Dubai</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Entertainment Event</td><td colspan=\"1\" rowspan=\"1\">Any event which includes singing, music, or dance</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Government Services</td><td colspan=\"1\" rowspan=\"1\">Means  the  Government    Services   Office oftheGovernment of Dubai at the DIFC</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Hotel</td><td colspan=\"1\" rowspan=\"1\">Means a building or a part of a building which incorporates notless than ten (10) bedrooms available for board and lodgingservices against a financial consideration</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Hotel Apartments</td><td colspan=\"1\" rowspan=\"1\">Means a building comprising not less than eight serviced andfurnished villas or apartments leased to clients on a daily,weekly or monthly basis. Hotel Apartments do not necessarilyprovide food and beverage services</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Hotel Establishment</td><td colspan=\"1\" rowspan=\"1\">Means a Hotel or Hotel Apartment, or both, established withinthe DIFC jurisdiction</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Hotel Management Licence</td><td colspan=\"1\" rowspan=\"1\">Means a license granted to a Hotel Operator pursuant to DIFCAOperating Regulations</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Hotel Operator</td><td colspan=\"1\" rowspan=\"1\">Means the entity responsible for operating and managing aHotel Establishment pursuant to a Hotel Management Licenceincluding an applicant for such a licence</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Operational Fee</td><td colspan=\"1\" rowspan=\"1\">Means a fee payable by a Hotel Operator in accordance withthese Regulations</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Outlet</td><td colspan=\"1\" rowspan=\"1\">Means a separate outlet within the premises of a HotelEstablishments operated and managed by third parties</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Regulations</td><td colspan=\"1\" rowspan=\"1\">Means these Hotel Operating Regulations</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Sales Fee</td><td colspan=\"1\" rowspan=\"1\">Means a fee payable by a Hotel Operator in accordance withthese Regulations</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Schedule</td><td colspan=\"1\" rowspan=\"1\">A schedule to the Regulations</td></tr><tr><td>Total Monthly Sales</td><td>Means the total monthly sales of rooms, apartments, restaurants, nightclubs and any other activity licensed to serve alcohol including desert safaris and boat cruises calculated in accordance with applicable accounting standards</td></tr></table>",
+        "bbox": [
+            107,
+            325,
+            912,
+            918
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HOTEL OPERATING REGULATIONS",
+        "bbox": [
+            566,
+            58,
+            892,
+            72
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            500,
+            967,
+            510,
+            977
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HOTEL OPERATING REGULATIONS",
+        "bbox": [
+            564,
+            58,
+            892,
+            72
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Prohibition ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            87,
+            238,
+            102
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A Hotel Establishment must not be operated in the DIFC unless it is duly classified and a Hotel Operating Licence has been granted to a Hotel Operator for the purposes of operating the Hotel Establishment in accordance with these Regulations and any other relevant DIFC laws and regulations. ",
+        "bbox": [
+            152,
+            115,
+            855,
+            156
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Guidance ",
+        "text_level": 1,
+        "bbox": [
+            154,
+            171,
+            226,
+            182
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The applicable DIFC laws and regulations may include the DIFC Companies Law 2009, the DIFC Company Regulations (COR), the DIFC Partnership laws and regulations, and the DIFCA Operating Regulations (OR). ",
+        "bbox": [
+            156,
+            184,
+            855,
+            225
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. Classification of a Hotel Establishment ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            238,
+            435,
+            252
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1 A Hotel Establishment must be classified by the Classifier who will determine the Classification of the Hotel Establishment in accordance with its own rules and regulations.   \n4.2 The Hotel Establishment will be subject to regular inspections by the Classifier for the purposes of ensuring that the classification remains accurate.   \n4.3 A Hotel Operator must comply with applicable Classification rules and regulations of the Classifier in order to ensure that the Classification of Hotel Establishment remains accurate.   \n4.4 A contravention by a Hotel Operator of applicable Classification regulations will constitute a contravention of these Regulations.   \n4.5 The DIFC Authority may appoint any entity it deems appropriate as the Classifier.   \n4.6 The DIFC Authority must notify in writing the Hotel Operator who is the appointed Classifier. ",
+        "bbox": [
+            152,
+            266,
+            857,
+            476
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. Licensing ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            488,
+            226,
+            502
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1 A Hotel Operator must apply for a Hotel Management Licence in the manner prescribed in the DIFCA Operating Regulations.   \n5.2 Where an Outlet is operated within the premises of the Hotel Establishment, the operator of such Outlet is required to obtain a separate licence in accordance with applicable DIFC laws and regulations. ",
+        "bbox": [
+            144,
+            515,
+            853,
+            599
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "HOTEL OPERATING REGULATIONS",
+        "bbox": [
+            566,
+            58,
+            892,
+            72
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            500,
+            967,
+            510,
+            977
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6. Fines ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            87,
+            196,
+            102
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6.1 If a Hotel Establishment or a Hotel Operator fails to comply with any requirement prescribed by these Regulations, it commits a contravention.   \n6.2 Where a contravention has been committed, the DIFC Authority may impose a fine by way of a written notice as prescribed in the Schedule.   \n6.3 A fine must be paid within 30 days of the imposition of the fine unless the Hotel Operator takes such action as may be prescribed in the notice or in the Regulations to remove his liability to pay the fine.   \n6.4 The Court may order, on application of the DIFC Authority, the recovery as a debt due so much of a fine is not paid in accordance with Regulation 6.3. ",
+        "bbox": [
+            152,
+            114,
+            857,
+            281
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7. Entertainment Events ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            293,
+            314,
+            307
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7.1 A Hotel Operator must notify in writing and in advance the DIFC Authority of any Entertainment Events it wishes to hold in its premises or elsewhere in the DIFC.   \n7.2 Should the DIFC Authority wish to object to an Entertainment Event or impose any conditions or restrictions, it must do so within two weeks of the notification being received or one week prior to the Entertainment Event taking place whichever is the earliest.   \n7.3 The DIFC Authority, or its delegate, may inspect the Entertainment Event. ",
+        "bbox": [
+            149,
+            321,
+            857,
+            433
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "8. Hotel Operational Fee ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            445,
+            317,
+            460
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "8.1 A Hotel Operator must pay the DIFC Authority an Operational Fee in the manner set out below: ",
+        "bbox": [
+            151,
+            473,
+            853,
+            501
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b521cc6280c94c1b4ac4377447479bab111db294c0dd9bada52d4ab5d1344d0c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Hotel Classification</td><td rowspan=1 colspan=1>Per Annum/Roomfee</td></tr><tr><td rowspan=1 colspan=1>5 Star</td><td rowspan=1 colspan=1>1000 AED</td></tr><tr><td rowspan=1 colspan=1>4 Star</td><td rowspan=1 colspan=1>750 AED</td></tr><tr><td rowspan=1 colspan=1>Hotel Apartment</td><td rowspan=1 colspan=1>750 AED</td></tr></table>",
+        "bbox": [
+            305,
+            514,
+            689,
+            597
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "HOTEL OPERATING REGULATIONS",
+        "bbox": [
+            566,
+            58,
+            892,
+            72
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            500,
+            967,
+            510,
+            977
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "8.2 The number of rooms in any Hotel Establishment is determined by the Classifier.   \n8.3 The Operational Fee may be paid by the Hotel Operator to the DIFC Authority on either an annual or pro-rata quarterly basis in advance as preferred by the Hotel Operator.   \n8.4 The Operational Fee will apply to the Hotel Operator upon granting of the Hotel Management Licence.   \n8.5 In the event of closure of any rooms of a Hotel Establishment the DIFC Authority must inspect the Hotel Establishment and, in consultation with the Hotel Operator, determine a revised number of rooms for the Hotel Establishment. The Operational Fee will only apply to the rooms which are operational. ",
+        "bbox": [
+            151,
+            92,
+            857,
+            258
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "9. Sales Fee ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            273,
+            223,
+            286
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "9.1 The Hotel Operator must pay the DIFC Authority a Sales Fee calculated on the basis of $( 1 0 \\% )$ ) of the Total Monthly Sales.   \n9.2 The Sales Fee must be paid on or before the sixteenth day of the next month.   \n9.3 The Hotel Operator must identify the Sales Fee on all contract or invoices issued to guests or visitors under the description of “DIFC Fee”.   \n9.4 The DIFC Authority may vary the categories of goods or services prescribed in Regulation 10.1 to which the Sales Fee applies by way of a written notice. ",
+        "bbox": [
+            151,
+            299,
+            855,
+            439
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "10. Inspection Powers ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            451,
+            289,
+            465
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The DIFC Authority, or delegate, may enter the premises of the Hotel Establishment during business hours for the purposes of inspecting the activities or the books and records of the Hotel Operator in order to verify that the Hotel Operator is complying with the requirements prescribed in these Regulations. ",
+        "bbox": [
+            151,
+            479,
+            855,
+            521
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "HOTEL OPERATING REGULATIONS",
+        "bbox": [
+            566,
+            58,
+            892,
+            72
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            500,
+            967,
+            510,
+            977
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE ",
+        "text_level": 1,
+        "bbox": [
+            450,
+            100,
+            547,
+            115
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/a03d28169882c8ac634d3f9aff28722fc2e39cabf4393d66d57019d5ec333d80.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=2>Contraventions with fines stipulated</td></tr><tr><td rowspan=1 colspan=1>Contravention</td><td rowspan=1 colspan=1>Fines</td></tr><tr><td rowspan=1 colspan=1>Regulation 4.4 - Failure to comply with a requirement ofthe Classifier in relation to the Classification of a HotelEstablishment</td><td rowspan=1 colspan=1>A fine up to maximum of AED 20,000</td></tr><tr><td rowspan=1 colspan=1>Regulation 7.1 - Failure to notify the DIFC Authority ofan Entertainment Event</td><td rowspan=1 colspan=1>A fine up to a maximum of AED 20,000</td></tr><tr><td rowspan=1 colspan=1>Regulation 7.2 - Failure to comply with an objection ora condition or restriction imposed by the DIFCAuthority in relation to an Entertainment Event</td><td rowspan=1 colspan=1>A fine up to a maximum of AED 20,000</td></tr><tr><td rowspan=1 colspan=1>Regulation 8.3  Failure to pay the Hotel OperationalFee within the prescribed time</td><td rowspan=1 colspan=1>a     A fine of AED 1000 or 10% of the value of the unpaidOperational Fee whichever is higher up to a maximum ofAED 50,000, for each month of delay from the date whenthe obligation came into forceb)    In case the contravention is repeated, AED 1000 or 40% ofthe value of the unpaid Operational Fee whichever is higherup to a maximum of AED 50,000 for each month of delayfrom the date when the obligation came into force</td></tr><tr><td rowspan=1 colspan=1>Regulation 9.2 - Failure to pay the Sales Fee within theprescribed time</td><td rowspan=1 colspan=1>a     A fine of AED 1000 or 10% of the value of the unpaid SalesFee whichever is higher up to a maximum of AED 50,000for each month of delay from the date when the obligationcame into forceb)    In case the contravention is repeated, AED 1000 or 40% ofthe value of the unpaid Sales Fee whichever is higher up toa maximum of AED 50,000 for each month of delay fromthe date when the obligation came into force</td></tr></table>",
+        "bbox": [
+            94,
+            127,
+            961,
+            541
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "HOTEL OPERATING REGULATIONS",
+        "bbox": [
+            566,
+            58,
+            892,
+            72
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            500,
+            967,
+            510,
+            977
+        ],
+        "page_idx": 7
+    }
+]

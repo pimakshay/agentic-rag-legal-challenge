@@ -1,0 +1,4337 @@
+{
+    "doc_type": "law",
+    "official_title": "Data Protection Law",
+    "official_title_normalized": "data protection law",
+    "short_title": "Data Protection Law 2020",
+    "short_title_normalized": "data protection law 2020",
+    "law_number": "5",
+    "law_year": "2020",
+    "official_citation": "DIFC Law No. 5 of 2020",
+    "official_citation_normalized": "difc law no 5 of 2020",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "July 2025",
+    "amending_laws": [
+        "DIFC Laws Amendment Law No. 1 of 2025",
+        "DIFC Laws Amendment Law DIFC Law No. 2 of 2022"
+    ],
+    "administering_authority": "DIFCA",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 54,
+    "page_count": 54,
+    "alias_keys": [
+        "Data Protection Law",
+        "DIFC Law No. 5 of 2020",
+        "Data Protection Law 2020"
+    ],
+    "article_index": {
+        "Article 1": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 48,
+            "page_end": 48,
+            "block_start": 603,
+            "block_end": 610
+        },
+        "Article 14": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 120,
+            "block_end": 140
+        },
+        "Article 26": {
+            "heading": "Transfers out of the DIFC: adequate level of protection",
+            "article_number": "26",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 256,
+            "block_end": 264
+        },
+        "Article 29": {
+            "heading": "Providing information where Personal Data has been obtained from the Data Subject",
+            "article_number": "29",
+            "page_start": 24,
+            "page_end": 25,
+            "block_start": 305,
+            "block_end": 313
+        },
+        "Article 32": {
+            "heading": "Right to withdraw consent",
+            "article_number": "32",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 331,
+            "block_end": 334
+        },
+        "Article 33": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 27,
+            "page_end": 29,
+            "block_start": 335,
+            "block_end": 363
+        },
+        "Article 41": {
+            "heading": "Notification of Personal Data Breaches to the Commissioner",
+            "article_number": "41",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 412,
+            "block_end": 419
+        },
+        "Article 43": {
+            "heading": "Appointment of the Commissioner",
+            "article_number": "43",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 428,
+            "block_end": 429
+        },
+        "Article 59": {
+            "heading": "Directions",
+            "article_number": "59",
+            "page_start": 43,
+            "page_end": 44,
+            "block_start": 532,
+            "block_end": 547
+        },
+        "Article 65": {
+            "heading": "General exemptions",
+            "article_number": "65",
+            "page_start": 47,
+            "page_end": 48,
+            "block_start": 591,
+            "block_end": 602
+        },
+        "Article 1(1)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 48,
+            "page_end": 48,
+            "block_start": 604,
+            "block_end": 605
+        },
+        "Article 1(2)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 48,
+            "page_end": 48,
+            "block_start": 606,
+            "block_end": 607
+        },
+        "Article 1(3)": {
+            "heading": "Title and repeal",
+            "article_number": "1",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 39,
+            "block_end": 39
+        },
+        "Article 1(4)(a)": {
+            "heading": "Title and repeal",
+            "article_number": "1",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 41,
+            "block_end": 42
+        },
+        "Article 1(4)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 48,
+            "page_end": 48,
+            "block_start": 608,
+            "block_end": 610
+        },
+        "Article 1(5)": {
+            "heading": "Title and repeal",
+            "article_number": "1",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 43,
+            "block_end": 43
+        },
+        "Article 1(6)": {
+            "heading": "Title and repeal",
+            "article_number": "1",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 44,
+            "block_end": 44
+        },
+        "Article 2": {
+            "heading": "Legislation in the DIFC",
+            "article_number": "2",
+            "page_start": 49,
+            "page_end": 49,
+            "block_start": 611,
+            "block_end": 613
+        },
+        "Article 5": {
+            "heading": "Purpose of this Law",
+            "article_number": "5",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 52,
+            "block_end": 56
+        },
+        "Article 6": {
+            "heading": "Application of the Law",
+            "article_number": "6",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 57,
+            "block_end": 66
+        },
+        "Article 6(1)": {
+            "heading": "Application of the Law",
+            "article_number": "6",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 58,
+            "block_end": 58
+        },
+        "Article 6(2)(a)": {
+            "heading": "Application of the Law",
+            "article_number": "6",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 60,
+            "block_end": 60
+        },
+        "Article 6(2)": {
+            "heading": "Application of the Law",
+            "article_number": "6",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 59,
+            "block_end": 60
+        },
+        "Article 6(3)(a)": {
+            "heading": "Application of the Law",
+            "article_number": "6",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 62,
+            "block_end": 62
+        },
+        "Article 6(3)": {
+            "heading": "Application of the Law",
+            "article_number": "6",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 61,
+            "block_end": 62
+        },
+        "Article 6(4)": {
+            "heading": "Application of the Law",
+            "article_number": "6",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 63,
+            "block_end": 63
+        },
+        "Article 6(5)(a)": {
+            "heading": "Application of the Law",
+            "article_number": "6",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 65,
+            "block_end": 66
+        },
+        "Article 6(5)": {
+            "heading": "Application of the Law",
+            "article_number": "6",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 64,
+            "block_end": 66
+        },
+        "Article 7": {
+            "heading": "Schedules",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 67,
+            "block_end": 70
+        },
+        "Article 7(1)(a)": {
+            "heading": "Schedules",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 69,
+            "block_end": 69
+        },
+        "Article 7(1)": {
+            "heading": "Schedules",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 68,
+            "block_end": 69
+        },
+        "Article 7(2)": {
+            "heading": "Schedules",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 70,
+            "block_end": 70
+        },
+        "Article 8": {
+            "heading": "Administration of the Law",
+            "article_number": "8",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 71,
+            "block_end": 76
+        },
+        "Article 9": {
+            "heading": "General requirements",
+            "article_number": "9",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 77,
+            "block_end": 80
+        },
+        "Article 9(1)(a)": {
+            "heading": "General requirements",
+            "article_number": "9",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 79,
+            "block_end": 79
+        },
+        "Article 9(1)": {
+            "heading": "General requirements",
+            "article_number": "9",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 78,
+            "block_end": 79
+        },
+        "Article 9(2)": {
+            "heading": "General requirements",
+            "article_number": "9",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 80,
+            "block_end": 80
+        },
+        "Article 10": {
+            "heading": "Lawfulness of Processing",
+            "article_number": "10",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 81,
+            "block_end": 87
+        },
+        "Article 11": {
+            "heading": "Processing of Special Categories of Personal Data",
+            "article_number": "11",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 88,
+            "block_end": 99
+        },
+        "Article 12": {
+            "heading": "Consent",
+            "article_number": "12",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 100,
+            "block_end": 116
+        },
+        "Article 12(1)": {
+            "heading": "Consent",
+            "article_number": "12",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 101,
+            "block_end": 101
+        },
+        "Article 12(2)": {
+            "heading": "Consent",
+            "article_number": "12",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 102,
+            "block_end": 102
+        },
+        "Article 12(3)": {
+            "heading": "Consent",
+            "article_number": "12",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 103,
+            "block_end": 103
+        },
+        "Article 12(4)": {
+            "heading": "Consent",
+            "article_number": "12",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 104,
+            "block_end": 104
+        },
+        "Article 12(5)": {
+            "heading": "Consent",
+            "article_number": "12",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 105,
+            "block_end": 105
+        },
+        "Article 12(6)": {
+            "heading": "Consent",
+            "article_number": "12",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 106,
+            "block_end": 106
+        },
+        "Article 12(7)": {
+            "heading": "Consent",
+            "article_number": "12",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 107,
+            "block_end": 109
+        },
+        "Article 12(8)": {
+            "heading": "Consent",
+            "article_number": "12",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 110,
+            "block_end": 110
+        },
+        "Article 12(9)": {
+            "heading": "Consent",
+            "article_number": "12",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 111,
+            "block_end": 111
+        },
+        "Article 12(10)": {
+            "heading": "Consent",
+            "article_number": "12",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 112,
+            "block_end": 112
+        },
+        "Article 12(11)(a)": {
+            "heading": "Consent",
+            "article_number": "12",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 114,
+            "block_end": 115
+        },
+        "Article 12(11)": {
+            "heading": "Consent",
+            "article_number": "12",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 113,
+            "block_end": 115
+        },
+        "Article 12(12)": {
+            "heading": "Consent",
+            "article_number": "12",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 116,
+            "block_end": 116
+        },
+        "Article 13": {
+            "heading": "Legitimate interests",
+            "article_number": "13",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 117,
+            "block_end": 119
+        },
+        "Article 13(1)": {
+            "heading": "Legitimate interests",
+            "article_number": "13",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 118,
+            "block_end": 119
+        },
+        "Article 14(1)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 121,
+            "block_end": 121
+        },
+        "Article 14(2)(a)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 123,
+            "block_end": 123
+        },
+        "Article 14(2)(i)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 126,
+            "block_end": 129
+        },
+        "Article 14(2)(b)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 125,
+            "block_end": 125
+        },
+        "Article 14(2)(i)(ii)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 129,
+            "block_end": 129
+        },
+        "Article 14(2)(c)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 130,
+            "block_end": 130
+        },
+        "Article 14(2)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 122,
+            "block_end": 130
+        },
+        "Article 14(3)(i)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 132,
+            "block_end": 132
+        },
+        "Article 14(3)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 131,
+            "block_end": 132
+        },
+        "Article 14(4)(a)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 134,
+            "block_end": 134
+        },
+        "Article 14(4)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 133,
+            "block_end": 134
+        },
+        "Article 14(5)(a)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 136,
+            "block_end": 136
+        },
+        "Article 14(5)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 135,
+            "block_end": 136
+        },
+        "Article 14(6)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 137,
+            "block_end": 138
+        },
+        "Article 14(8)(a)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 140,
+            "block_end": 140
+        },
+        "Article 14(8)": {
+            "heading": "Accountability and notification",
+            "article_number": "14",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 139,
+            "block_end": 140
+        },
+        "Article 15": {
+            "heading": "Records of Processing activities",
+            "article_number": "15",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 141,
+            "block_end": 147
+        },
+        "Article 15(1)(a)": {
+            "heading": "Records of Processing activities",
+            "article_number": "15",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 143,
+            "block_end": 145
+        },
+        "Article 15(1)": {
+            "heading": "Records of Processing activities",
+            "article_number": "15",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 142,
+            "block_end": 145
+        },
+        "Article 15(2)": {
+            "heading": "Records of Processing activities",
+            "article_number": "15",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 146,
+            "block_end": 146
+        },
+        "Article 15(3)": {
+            "heading": "Records of Processing activities",
+            "article_number": "15",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 147,
+            "block_end": 147
+        },
+        "Article 16": {
+            "heading": "Designation of the DPO",
+            "article_number": "16",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 148,
+            "block_end": 159
+        },
+        "Article 16(1)": {
+            "heading": "Designation of the DPO",
+            "article_number": "16",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 149,
+            "block_end": 149
+        },
+        "Article 16(2)(a)": {
+            "heading": "Designation of the DPO",
+            "article_number": "16",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 151,
+            "block_end": 151
+        },
+        "Article 16(2)": {
+            "heading": "Designation of the DPO",
+            "article_number": "16",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 150,
+            "block_end": 151
+        },
+        "Article 16(3)": {
+            "heading": "Designation of the DPO",
+            "article_number": "16",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 152,
+            "block_end": 152
+        },
+        "Article 16(4)": {
+            "heading": "Designation of the DPO",
+            "article_number": "16",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 153,
+            "block_end": 153
+        },
+        "Article 16(5)": {
+            "heading": "Designation of the DPO",
+            "article_number": "16",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 154,
+            "block_end": 154
+        },
+        "Article 16(6)": {
+            "heading": "Designation of the DPO",
+            "article_number": "16",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 155,
+            "block_end": 155
+        },
+        "Article 16(7)": {
+            "heading": "Designation of the DPO",
+            "article_number": "16",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 156,
+            "block_end": 156
+        },
+        "Article 16(8)": {
+            "heading": "Designation of the DPO",
+            "article_number": "16",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 157,
+            "block_end": 159
+        },
+        "Article 17": {
+            "heading": "The DPO: competencies and status",
+            "article_number": "17",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 160,
+            "block_end": 165
+        },
+        "Article 17(1)": {
+            "heading": "The DPO: competencies and status",
+            "article_number": "17",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 161,
+            "block_end": 161
+        },
+        "Article 17(2)(a)": {
+            "heading": "The DPO: competencies and status",
+            "article_number": "17",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 163,
+            "block_end": 163
+        },
+        "Article 17(2)": {
+            "heading": "The DPO: competencies and status",
+            "article_number": "17",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 162,
+            "block_end": 163
+        },
+        "Article 17(3)": {
+            "heading": "The DPO: competencies and status",
+            "article_number": "17",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 164,
+            "block_end": 164
+        },
+        "Article 17(4)": {
+            "heading": "The DPO: competencies and status",
+            "article_number": "17",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 165,
+            "block_end": 165
+        },
+        "Article 18": {
+            "heading": "Role and tasks of the DPO",
+            "article_number": "18",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 166,
+            "block_end": 174
+        },
+        "Article 18(1)(a)": {
+            "heading": "Role and tasks of the DPO",
+            "article_number": "18",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 168,
+            "block_end": 168
+        },
+        "Article 18(1)": {
+            "heading": "Role and tasks of the DPO",
+            "article_number": "18",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 167,
+            "block_end": 168
+        },
+        "Article 18(2)": {
+            "heading": "Role and tasks of the DPO",
+            "article_number": "18",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 169,
+            "block_end": 169
+        },
+        "Article 18(3)(a)": {
+            "heading": "Role and tasks of the DPO",
+            "article_number": "18",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 171,
+            "block_end": 171
+        },
+        "Article 18(3)(i)": {
+            "heading": "Role and tasks of the DPO",
+            "article_number": "18",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 172,
+            "block_end": 174
+        },
+        "Article 18(3)": {
+            "heading": "Role and tasks of the DPO",
+            "article_number": "18",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 170,
+            "block_end": 174
+        },
+        "Article 19": {
+            "heading": "DPO Controller assessment",
+            "article_number": "19",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 175,
+            "block_end": 176
+        },
+        "Article 19(1)": {
+            "heading": "DPO Controller assessment",
+            "article_number": "19",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 176,
+            "block_end": 176
+        },
+        "Article 20": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 177,
+            "block_end": 195
+        },
+        "Article 20(1)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 178,
+            "block_end": 178
+        },
+        "Article 20(2)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 179,
+            "block_end": 179
+        },
+        "Article 20(3)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 180,
+            "block_end": 180
+        },
+        "Article 20(4)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 181,
+            "block_end": 181
+        },
+        "Article 20(5)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 182,
+            "block_end": 182
+        },
+        "Article 20(6)(a)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 184,
+            "block_end": 185
+        },
+        "Article 20(6)(i)(ii)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 187,
+            "block_end": 187
+        },
+        "Article 20(6)(i)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 186,
+            "block_end": 188
+        },
+        "Article 20(6)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 183,
+            "block_end": 188
+        },
+        "Article 20(7)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 189,
+            "block_end": 189
+        },
+        "Article 20(8)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 190,
+            "block_end": 190
+        },
+        "Article 20(9)(a)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 192,
+            "block_end": 192
+        },
+        "Article 20(9)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 191,
+            "block_end": 192
+        },
+        "Article 20(10)(a)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 194,
+            "block_end": 194
+        },
+        "Article 20(10)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 193,
+            "block_end": 194
+        },
+        "Article 20(11)": {
+            "heading": "Data protection impact assessment",
+            "article_number": "20",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 195,
+            "block_end": 195
+        },
+        "Article 21": {
+            "heading": "Prior consultation",
+            "article_number": "21",
+            "page_start": 14,
+            "page_end": 15,
+            "block_start": 196,
+            "block_end": 208
+        },
+        "Article 21(1)": {
+            "heading": "Prior consultation",
+            "article_number": "21",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 197,
+            "block_end": 197
+        },
+        "Article 21(2)": {
+            "heading": "Prior consultation",
+            "article_number": "21",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 198,
+            "block_end": 199
+        },
+        "Article 21(3)": {
+            "heading": "Prior consultation",
+            "article_number": "21",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 200,
+            "block_end": 200
+        },
+        "Article 21(4)": {
+            "heading": "Prior consultation",
+            "article_number": "21",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 201,
+            "block_end": 201
+        },
+        "Article 21(5)": {
+            "heading": "Prior consultation",
+            "article_number": "21",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 202,
+            "block_end": 202
+        },
+        "Article 21(6)": {
+            "heading": "Prior consultation",
+            "article_number": "21",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 203,
+            "block_end": 203
+        },
+        "Article 21(7)": {
+            "heading": "Prior consultation",
+            "article_number": "21",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 204,
+            "block_end": 205
+        },
+        "Article 21(9)(a)": {
+            "heading": "Prior consultation",
+            "article_number": "21",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 207,
+            "block_end": 207
+        },
+        "Article 21(9)": {
+            "heading": "Prior consultation",
+            "article_number": "21",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 206,
+            "block_end": 207
+        },
+        "Article 21(10)": {
+            "heading": "Prior consultation",
+            "article_number": "21",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 208,
+            "block_end": 208
+        },
+        "Article 22": {
+            "heading": "Cessation of Processing",
+            "article_number": "22",
+            "page_start": 15,
+            "page_end": 17,
+            "block_start": 209,
+            "block_end": 224
+        },
+        "Article 22(1)(a)": {
+            "heading": "Cessation of Processing",
+            "article_number": "22",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 211,
+            "block_end": 213
+        },
+        "Article 22(1)(b)": {
+            "heading": "Cessation of Processing",
+            "article_number": "22",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 214,
+            "block_end": 214
+        },
+        "Article 22(1)": {
+            "heading": "Cessation of Processing",
+            "article_number": "22",
+            "page_start": 15,
+            "page_end": 16,
+            "block_start": 210,
+            "block_end": 214
+        },
+        "Article 22(2)": {
+            "heading": "Cessation of Processing",
+            "article_number": "22",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 215,
+            "block_end": 215
+        },
+        "Article 22(3)(a)": {
+            "heading": "Cessation of Processing",
+            "article_number": "22",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 217,
+            "block_end": 217
+        },
+        "Article 22(3)": {
+            "heading": "Cessation of Processing",
+            "article_number": "22",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 216,
+            "block_end": 217
+        },
+        "Article 22(4)(a)": {
+            "heading": "Cessation of Processing",
+            "article_number": "22",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 219,
+            "block_end": 219
+        },
+        "Article 22(4)": {
+            "heading": "Cessation of Processing",
+            "article_number": "22",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 218,
+            "block_end": 219
+        },
+        "Article 22(5)": {
+            "heading": "Cessation of Processing",
+            "article_number": "22",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 220,
+            "block_end": 220
+        },
+        "Article 22(6)": {
+            "heading": "Cessation of Processing",
+            "article_number": "22",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 221,
+            "block_end": 224
+        },
+        "Article 23": {
+            "heading": "Joint Controllers",
+            "article_number": "23",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 225,
+            "block_end": 227
+        },
+        "Article 23(1)": {
+            "heading": "Joint Controllers",
+            "article_number": "23",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 226,
+            "block_end": 227
+        },
+        "Article 24": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 17,
+            "page_end": 19,
+            "block_start": 228,
+            "block_end": 251
+        },
+        "Article 24(1)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 229,
+            "block_end": 229
+        },
+        "Article 24(2)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 230,
+            "block_end": 230
+        },
+        "Article 24(3)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 231,
+            "block_end": 231
+        },
+        "Article 24(4)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 232,
+            "block_end": 232
+        },
+        "Article 24(5)(a)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 248,
+            "block_end": 248
+        },
+        "Article 24(5)(i)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 237,
+            "block_end": 238
+        },
+        "Article 24(5)(i)(ii)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 238,
+            "block_end": 238
+        },
+        "Article 24(5)(a)(iii)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 240,
+            "block_end": 240
+        },
+        "Article 24(5)(a)(iv)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 241,
+            "block_end": 241
+        },
+        "Article 24(5)(v)(vi)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 243,
+            "block_end": 243
+        },
+        "Article 24(5)(v)(vii)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 244,
+            "block_end": 244
+        },
+        "Article 24(5)(v)(viii)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 245,
+            "block_end": 245
+        },
+        "Article 24(5)(v)(ix)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 246,
+            "block_end": 246
+        },
+        "Article 24(5)(v)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 242,
+            "block_end": 246
+        },
+        "Article 24(5)(x)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 247,
+            "block_end": 247
+        },
+        "Article 24(5)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 17,
+            "page_end": 18,
+            "block_start": 233,
+            "block_end": 248
+        },
+        "Article 24(6)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 249,
+            "block_end": 250
+        },
+        "Article 24(7)": {
+            "heading": "Processors and Sub-processors",
+            "article_number": "24",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 251,
+            "block_end": 251
+        },
+        "Article 25": {
+            "heading": "Confidentiality",
+            "article_number": "25",
+            "page_start": 19,
+            "page_end": 20,
+            "block_start": 252,
+            "block_end": 255
+        },
+        "Article 26(1)(a)": {
+            "heading": "Transfers out of the DIFC: adequate level of protection",
+            "article_number": "26",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 258,
+            "block_end": 258
+        },
+        "Article 26(1)": {
+            "heading": "Transfers out of the DIFC: adequate level of protection",
+            "article_number": "26",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 257,
+            "block_end": 258
+        },
+        "Article 26(2)(a)": {
+            "heading": "Transfers out of the DIFC: adequate level of protection",
+            "article_number": "26",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 260,
+            "block_end": 260
+        },
+        "Article 26(2)": {
+            "heading": "Transfers out of the DIFC: adequate level of protection",
+            "article_number": "26",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 259,
+            "block_end": 260
+        },
+        "Article 26(3)": {
+            "heading": "Transfers out of the DIFC: adequate level of protection",
+            "article_number": "26",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 261,
+            "block_end": 261
+        },
+        "Article 26(4)": {
+            "heading": "Transfers out of the DIFC: adequate level of protection",
+            "article_number": "26",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 262,
+            "block_end": 262
+        },
+        "Article 26(5)": {
+            "heading": "Transfers out of the DIFC: adequate level of protection",
+            "article_number": "26",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 263,
+            "block_end": 263
+        },
+        "Article 26(6)": {
+            "heading": "Transfers out of the DIFC: adequate level of protection",
+            "article_number": "26",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 264,
+            "block_end": 264
+        },
+        "Article 27": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 20,
+            "page_end": 23,
+            "block_start": 265,
+            "block_end": 296
+        },
+        "Article 27(1)(a)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 267,
+            "block_end": 268
+        },
+        "Article 27(1)(b)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 269,
+            "block_end": 269
+        },
+        "Article 27(1)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 20,
+            "page_end": 21,
+            "block_start": 266,
+            "block_end": 269
+        },
+        "Article 27(2)(a)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 271,
+            "block_end": 271
+        },
+        "Article 27(2)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 270,
+            "block_end": 271
+        },
+        "Article 27(3)(c)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 273,
+            "block_end": 273
+        },
+        "Article 27(3)(d)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 274,
+            "block_end": 274
+        },
+        "Article 27(3)(e)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 275,
+            "block_end": 275
+        },
+        "Article 27(3)(f)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 276,
+            "block_end": 276
+        },
+        "Article 27(3)(g)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 277,
+            "block_end": 277
+        },
+        "Article 27(3)(h)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 278,
+            "block_end": 278
+        },
+        "Article 27(3)(i)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 21,
+            "page_end": 22,
+            "block_start": 281,
+            "block_end": 283
+        },
+        "Article 27(3)(i)(ii)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 283,
+            "block_end": 283
+        },
+        "Article 27(3)(j)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 284,
+            "block_end": 284
+        },
+        "Article 27(3)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 21,
+            "page_end": 22,
+            "block_start": 272,
+            "block_end": 284
+        },
+        "Article 27(4)(a)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 286,
+            "block_end": 286
+        },
+        "Article 27(4)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 285,
+            "block_end": 286
+        },
+        "Article 27(5)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 287,
+            "block_end": 288
+        },
+        "Article 27(7)(a)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 290,
+            "block_end": 290
+        },
+        "Article 27(7)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 289,
+            "block_end": 290
+        },
+        "Article 27(8)(i)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 292,
+            "block_end": 293
+        },
+        "Article 27(8)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 291,
+            "block_end": 293
+        },
+        "Article 27(9)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 294,
+            "block_end": 294
+        },
+        "Article 27(10)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 295,
+            "block_end": 295
+        },
+        "Article 27(11)": {
+            "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+            "article_number": "27",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 296,
+            "block_end": 296
+        },
+        "Article 28": {
+            "heading": "Data sharing",
+            "article_number": "28",
+            "page_start": 23,
+            "page_end": 24,
+            "block_start": 297,
+            "block_end": 304
+        },
+        "Article 28(1)(a)": {
+            "heading": "Data sharing",
+            "article_number": "28",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 299,
+            "block_end": 299
+        },
+        "Article 28(1)": {
+            "heading": "Data sharing",
+            "article_number": "28",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 298,
+            "block_end": 299
+        },
+        "Article 28(2)": {
+            "heading": "Data sharing",
+            "article_number": "28",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 300,
+            "block_end": 300
+        },
+        "Article 28(3)": {
+            "heading": "Data sharing",
+            "article_number": "28",
+            "page_start": 23,
+            "page_end": 24,
+            "block_start": 301,
+            "block_end": 304
+        },
+        "Article 29(1)(a)": {
+            "heading": "Providing information where Personal Data has been obtained from the Data Subject",
+            "article_number": "29",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 307,
+            "block_end": 307
+        },
+        "Article 29(1)(h)": {
+            "heading": "Providing information where Personal Data has been obtained from the Data Subject",
+            "article_number": "29",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 308,
+            "block_end": 308
+        },
+        "Article 29(1)(i)(ix)": {
+            "heading": "Providing information where Personal Data has been obtained from the Data Subject",
+            "article_number": "29",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 311,
+            "block_end": 311
+        },
+        "Article 29(1)(i)": {
+            "heading": "Providing information where Personal Data has been obtained from the Data Subject",
+            "article_number": "29",
+            "page_start": 24,
+            "page_end": 25,
+            "block_start": 309,
+            "block_end": 311
+        },
+        "Article 29(1)": {
+            "heading": "Providing information where Personal Data has been obtained from the Data Subject",
+            "article_number": "29",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 312,
+            "block_end": 312
+        },
+        "Article 29(2)": {
+            "heading": "Providing information where Personal Data has been obtained from the Data Subject",
+            "article_number": "29",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 313,
+            "block_end": 313
+        },
+        "Article 30": {
+            "heading": "Providing Information where Personal Data has not been obtained from the Data Subject",
+            "article_number": "30",
+            "page_start": 25,
+            "page_end": 26,
+            "block_start": 314,
+            "block_end": 324
+        },
+        "Article 30(1)(a)": {
+            "heading": "Providing Information where Personal Data has not been obtained from the Data Subject",
+            "article_number": "30",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 316,
+            "block_end": 316
+        },
+        "Article 30(1)(g)": {
+            "heading": "Providing Information where Personal Data has not been obtained from the Data Subject",
+            "article_number": "30",
+            "page_start": 25,
+            "page_end": 25,
+            "block_start": 317,
+            "block_end": 317
+        },
+        "Article 30(1)(i)(vii)": {
+            "heading": "Providing Information where Personal Data has not been obtained from the Data Subject",
+            "article_number": "30",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 320,
+            "block_end": 320
+        },
+        "Article 30(1)(i)": {
+            "heading": "Providing Information where Personal Data has not been obtained from the Data Subject",
+            "article_number": "30",
+            "page_start": 25,
+            "page_end": 26,
+            "block_start": 318,
+            "block_end": 320
+        },
+        "Article 30(1)": {
+            "heading": "Providing Information where Personal Data has not been obtained from the Data Subject",
+            "article_number": "30",
+            "page_start": 25,
+            "page_end": 26,
+            "block_start": 315,
+            "block_end": 320
+        },
+        "Article 30(2)(a)": {
+            "heading": "Providing Information where Personal Data has not been obtained from the Data Subject",
+            "article_number": "30",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 322,
+            "block_end": 322
+        },
+        "Article 30(2)": {
+            "heading": "Providing Information where Personal Data has not been obtained from the Data Subject",
+            "article_number": "30",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 321,
+            "block_end": 322
+        },
+        "Article 30(3)(a)": {
+            "heading": "Providing Information where Personal Data has not been obtained from the Data Subject",
+            "article_number": "30",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 324,
+            "block_end": 324
+        },
+        "Article 30(3)": {
+            "heading": "Providing Information where Personal Data has not been obtained from the Data Subject",
+            "article_number": "30",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 323,
+            "block_end": 324
+        },
+        "Article 31": {
+            "heading": "Nature of Processing information",
+            "article_number": "31",
+            "page_start": 26,
+            "page_end": 27,
+            "block_start": 325,
+            "block_end": 330
+        },
+        "Article 31(1)": {
+            "heading": "Nature of Processing information",
+            "article_number": "31",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 326,
+            "block_end": 326
+        },
+        "Article 31(2)": {
+            "heading": "Nature of Processing information",
+            "article_number": "31",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 327,
+            "block_end": 327
+        },
+        "Article 31(3)": {
+            "heading": "Nature of Processing information",
+            "article_number": "31",
+            "page_start": 26,
+            "page_end": 27,
+            "block_start": 328,
+            "block_end": 330
+        },
+        "Article 32(1)": {
+            "heading": "Right to withdraw consent",
+            "article_number": "32",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 332,
+            "block_end": 332
+        },
+        "Article 32(2)": {
+            "heading": "Right to withdraw consent",
+            "article_number": "32",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 333,
+            "block_end": 333
+        },
+        "Article 32(3)": {
+            "heading": "Right to withdraw consent",
+            "article_number": "32",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 334,
+            "block_end": 334
+        },
+        "Article 33(1)(a)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 337,
+            "block_end": 337
+        },
+        "Article 33(1)(b)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 338,
+            "block_end": 338
+        },
+        "Article 33(1)(c)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 339,
+            "block_end": 339
+        },
+        "Article 33(1)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 336,
+            "block_end": 339
+        },
+        "Article 33(2)(a)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 341,
+            "block_end": 341
+        },
+        "Article 33(2)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 340,
+            "block_end": 341
+        },
+        "Article 33(3)(a)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 343,
+            "block_end": 344
+        },
+        "Article 33(3)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 342,
+            "block_end": 344
+        },
+        "Article 33(4)(a)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 346,
+            "block_end": 346
+        },
+        "Article 33(4)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 345,
+            "block_end": 346
+        },
+        "Article 33(5)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 347,
+            "block_end": 347
+        },
+        "Article 33(6)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 348,
+            "block_end": 348
+        },
+        "Article 33(7)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 349,
+            "block_end": 349
+        },
+        "Article 33(8)(a)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 351,
+            "block_end": 351
+        },
+        "Article 33(8)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 350,
+            "block_end": 351
+        },
+        "Article 33(9)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 352,
+            "block_end": 352
+        },
+        "Article 33(10)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 353,
+            "block_end": 353
+        },
+        "Article 33(11)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 354,
+            "block_end": 354
+        },
+        "Article 33(12)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 355,
+            "block_end": 355
+        },
+        "Article 33(13)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 356,
+            "block_end": 357
+        },
+        "Article 33(14)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 358,
+            "block_end": 358
+        },
+        "Article 33(15)(a)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 360,
+            "block_end": 360
+        },
+        "Article 33(15)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 359,
+            "block_end": 360
+        },
+        "Article 33(16)(a)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 362,
+            "block_end": 362
+        },
+        "Article 33(16)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 361,
+            "block_end": 362
+        },
+        "Article 33(17)": {
+            "heading": "Rights to access, rectification and erasure of Personal Data",
+            "article_number": "33",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 363,
+            "block_end": 363
+        },
+        "Article 34": {
+            "heading": "Right to object to Processing",
+            "article_number": "34",
+            "page_start": 29,
+            "page_end": 30,
+            "block_start": 364,
+            "block_end": 373
+        },
+        "Article 34(1)(a)": {
+            "heading": "Right to object to Processing",
+            "article_number": "34",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 366,
+            "block_end": 366
+        },
+        "Article 34(1)(i)": {
+            "heading": "Right to object to Processing",
+            "article_number": "34",
+            "page_start": 29,
+            "page_end": 30,
+            "block_start": 367,
+            "block_end": 371
+        },
+        "Article 34(1)": {
+            "heading": "Right to object to Processing",
+            "article_number": "34",
+            "page_start": 29,
+            "page_end": 30,
+            "block_start": 365,
+            "block_end": 371
+        },
+        "Article 34(3)": {
+            "heading": "Right to object to Processing",
+            "article_number": "34",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 372,
+            "block_end": 372
+        },
+        "Article 34(4)": {
+            "heading": "Right to object to Processing",
+            "article_number": "34",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 373,
+            "block_end": 373
+        },
+        "Article 35": {
+            "heading": "Right to restriction of Processing",
+            "article_number": "35",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 374,
+            "block_end": 379
+        },
+        "Article 35(1)(a)": {
+            "heading": "Right to restriction of Processing",
+            "article_number": "35",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 376,
+            "block_end": 376
+        },
+        "Article 35(1)": {
+            "heading": "Right to restriction of Processing",
+            "article_number": "35",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 375,
+            "block_end": 376
+        },
+        "Article 35(2)": {
+            "heading": "Right to restriction of Processing",
+            "article_number": "35",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 377,
+            "block_end": 377
+        },
+        "Article 35(3)(a)": {
+            "heading": "Right to restriction of Processing",
+            "article_number": "35",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 379,
+            "block_end": 379
+        },
+        "Article 35(3)": {
+            "heading": "Right to restriction of Processing",
+            "article_number": "35",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 378,
+            "block_end": 379
+        },
+        "Article 36": {
+            "heading": "Controller's obligation to notify",
+            "article_number": "36",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 380,
+            "block_end": 381
+        },
+        "Article 37": {
+            "heading": "Right to data portability",
+            "article_number": "37",
+            "page_start": 30,
+            "page_end": 31,
+            "block_start": 382,
+            "block_end": 388
+        },
+        "Article 37(1)(a)": {
+            "heading": "Right to data portability",
+            "article_number": "37",
+            "page_start": 30,
+            "page_end": 30,
+            "block_start": 384,
+            "block_end": 385
+        },
+        "Article 37(1)(b)": {
+            "heading": "Right to data portability",
+            "article_number": "37",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 386,
+            "block_end": 386
+        },
+        "Article 37(1)": {
+            "heading": "Right to data portability",
+            "article_number": "37",
+            "page_start": 30,
+            "page_end": 31,
+            "block_start": 383,
+            "block_end": 386
+        },
+        "Article 37(2)": {
+            "heading": "Right to data portability",
+            "article_number": "37",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 387,
+            "block_end": 387
+        },
+        "Article 37(3)": {
+            "heading": "Right to data portability",
+            "article_number": "37",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 388,
+            "block_end": 388
+        },
+        "Article 38": {
+            "heading": "Automated individual decision-making, including Profiling",
+            "article_number": "38",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 389,
+            "block_end": 397
+        },
+        "Article 38(1)": {
+            "heading": "Automated individual decision-making, including Profiling",
+            "article_number": "38",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 390,
+            "block_end": 390
+        },
+        "Article 38(2)(a)": {
+            "heading": "Automated individual decision-making, including Profiling",
+            "article_number": "38",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 392,
+            "block_end": 392
+        },
+        "Article 38(2)": {
+            "heading": "Automated individual decision-making, including Profiling",
+            "article_number": "38",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 391,
+            "block_end": 392
+        },
+        "Article 38(3)": {
+            "heading": "Automated individual decision-making, including Profiling",
+            "article_number": "38",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 393,
+            "block_end": 394
+        },
+        "Article 38(5)": {
+            "heading": "Automated individual decision-making, including Profiling",
+            "article_number": "38",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 395,
+            "block_end": 395
+        },
+        "Article 38(6)(a)": {
+            "heading": "Automated individual decision-making, including Profiling",
+            "article_number": "38",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 397,
+            "block_end": 397
+        },
+        "Article 38(6)": {
+            "heading": "Automated individual decision-making, including Profiling",
+            "article_number": "38",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 396,
+            "block_end": 397
+        },
+        "Article 39": {
+            "heading": "Non-discrimination",
+            "article_number": "39",
+            "page_start": 31,
+            "page_end": 32,
+            "block_start": 398,
+            "block_end": 407
+        },
+        "Article 39(1)(a)": {
+            "heading": "Non-discrimination",
+            "article_number": "39",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 400,
+            "block_end": 402
+        },
+        "Article 39(1)(d)": {
+            "heading": "Non-discrimination",
+            "article_number": "39",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 403,
+            "block_end": 403
+        },
+        "Article 39(1)": {
+            "heading": "Non-discrimination",
+            "article_number": "39",
+            "page_start": 31,
+            "page_end": 32,
+            "block_start": 399,
+            "block_end": 403
+        },
+        "Article 39(2)": {
+            "heading": "Non-discrimination",
+            "article_number": "39",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 404,
+            "block_end": 404
+        },
+        "Article 39(3)(a)": {
+            "heading": "Non-discrimination",
+            "article_number": "39",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 406,
+            "block_end": 406
+        },
+        "Article 39(3)": {
+            "heading": "Non-discrimination",
+            "article_number": "39",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 405,
+            "block_end": 406
+        },
+        "Article 39(4)": {
+            "heading": "Non-discrimination",
+            "article_number": "39",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 407,
+            "block_end": 407
+        },
+        "Article 40": {
+            "heading": "Methods of exercising Data Subject rights",
+            "article_number": "40",
+            "page_start": 32,
+            "page_end": 33,
+            "block_start": 408,
+            "block_end": 411
+        },
+        "Article 41(1)": {
+            "heading": "Notification of Personal Data Breaches to the Commissioner",
+            "article_number": "41",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 413,
+            "block_end": 413
+        },
+        "Article 41(2)": {
+            "heading": "Notification of Personal Data Breaches to the Commissioner",
+            "article_number": "41",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 414,
+            "block_end": 414
+        },
+        "Article 41(3)": {
+            "heading": "Notification of Personal Data Breaches to the Commissioner",
+            "article_number": "41",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 415,
+            "block_end": 415
+        },
+        "Article 41(4)(a)": {
+            "heading": "Notification of Personal Data Breaches to the Commissioner",
+            "article_number": "41",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 417,
+            "block_end": 417
+        },
+        "Article 41(4)": {
+            "heading": "Notification of Personal Data Breaches to the Commissioner",
+            "article_number": "41",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 416,
+            "block_end": 417
+        },
+        "Article 41(5)": {
+            "heading": "Notification of Personal Data Breaches to the Commissioner",
+            "article_number": "41",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 418,
+            "block_end": 418
+        },
+        "Article 41(6)": {
+            "heading": "Notification of Personal Data Breaches to the Commissioner",
+            "article_number": "41",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 419,
+            "block_end": 419
+        },
+        "Article 42": {
+            "heading": "Notification of Personal Data Breaches to a Data Subject",
+            "article_number": "42",
+            "page_start": 33,
+            "page_end": 34,
+            "block_start": 420,
+            "block_end": 427
+        },
+        "Article 42(1)": {
+            "heading": "Notification of Personal Data Breaches to a Data Subject",
+            "article_number": "42",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 421,
+            "block_end": 421
+        },
+        "Article 42(2)": {
+            "heading": "Notification of Personal Data Breaches to a Data Subject",
+            "article_number": "42",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 422,
+            "block_end": 422
+        },
+        "Article 42(3)": {
+            "heading": "Notification of Personal Data Breaches to a Data Subject",
+            "article_number": "42",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 423,
+            "block_end": 423
+        },
+        "Article 42(4)": {
+            "heading": "Notification of Personal Data Breaches to a Data Subject",
+            "article_number": "42",
+            "page_start": 33,
+            "page_end": 34,
+            "block_start": 424,
+            "block_end": 427
+        },
+        "Article 43(1)": {
+            "heading": "Appointment of the Commissioner",
+            "article_number": "43",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 429,
+            "block_end": 429
+        },
+        "Article 44": {
+            "heading": "Removal of the Commissioner",
+            "article_number": "44",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 430,
+            "block_end": 431
+        },
+        "Article 44(1)": {
+            "heading": "Removal of the Commissioner",
+            "article_number": "44",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 431,
+            "block_end": 431
+        },
+        "Article 45": {
+            "heading": "Resignation of the Commissioner",
+            "article_number": "45",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 432,
+            "block_end": 433
+        },
+        "Article 45(1)": {
+            "heading": "Resignation of the Commissioner",
+            "article_number": "45",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 433,
+            "block_end": 433
+        },
+        "Article 46": {
+            "heading": "Powers, functions and objectives of the Commissioner",
+            "article_number": "46",
+            "page_start": 34,
+            "page_end": 36,
+            "block_start": 434,
+            "block_end": 458
+        },
+        "Article 46(1)": {
+            "heading": "Powers, functions and objectives of the Commissioner",
+            "article_number": "46",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 435,
+            "block_end": 435
+        },
+        "Article 46(2)(a)": {
+            "heading": "Powers, functions and objectives of the Commissioner",
+            "article_number": "46",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 437,
+            "block_end": 438
+        },
+        "Article 46(2)": {
+            "heading": "Powers, functions and objectives of the Commissioner",
+            "article_number": "46",
+            "page_start": 34,
+            "page_end": 34,
+            "block_start": 436,
+            "block_end": 438
+        },
+        "Article 46(3)(a)": {
+            "heading": "Powers, functions and objectives of the Commissioner",
+            "article_number": "46",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 440,
+            "block_end": 440
+        },
+        "Article 46(3)(b)": {
+            "heading": "Powers, functions and objectives of the Commissioner",
+            "article_number": "46",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 441,
+            "block_end": 441
+        },
+        "Article 46(3)(c)": {
+            "heading": "Powers, functions and objectives of the Commissioner",
+            "article_number": "46",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 442,
+            "block_end": 443
+        },
+        "Article 46(3)(e)": {
+            "heading": "Powers, functions and objectives of the Commissioner",
+            "article_number": "46",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 444,
+            "block_end": 445
+        },
+        "Article 46(3)(g)": {
+            "heading": "Powers, functions and objectives of the Commissioner",
+            "article_number": "46",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 446,
+            "block_end": 447
+        },
+        "Article 46(3)(i)": {
+            "heading": "Powers, functions and objectives of the Commissioner",
+            "article_number": "46",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 449,
+            "block_end": 452
+        },
+        "Article 46(3)(m)": {
+            "heading": "Powers, functions and objectives of the Commissioner",
+            "article_number": "46",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 453,
+            "block_end": 453
+        },
+        "Article 46(3)(n)": {
+            "heading": "Powers, functions and objectives of the Commissioner",
+            "article_number": "46",
+            "page_start": 35,
+            "page_end": 35,
+            "block_start": 454,
+            "block_end": 455
+        },
+        "Article 46(3)(o)": {
+            "heading": "Powers, functions and objectives of the Commissioner",
+            "article_number": "46",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 456,
+            "block_end": 456
+        },
+        "Article 46(3)": {
+            "heading": "Powers, functions and objectives of the Commissioner",
+            "article_number": "46",
+            "page_start": 35,
+            "page_end": 36,
+            "block_start": 439,
+            "block_end": 456
+        },
+        "Article 46(4)": {
+            "heading": "Powers, functions and objectives of the Commissioner",
+            "article_number": "46",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 457,
+            "block_end": 458
+        },
+        "Article 47": {
+            "heading": "Delegation of powers and establishment of advisory committee",
+            "article_number": "47",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 459,
+            "block_end": 465
+        },
+        "Article 47(1)": {
+            "heading": "Delegation of powers and establishment of advisory committee",
+            "article_number": "47",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 460,
+            "block_end": 460
+        },
+        "Article 47(2)": {
+            "heading": "Delegation of powers and establishment of advisory committee",
+            "article_number": "47",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 461,
+            "block_end": 461
+        },
+        "Article 47(3)(a)": {
+            "heading": "Delegation of powers and establishment of advisory committee",
+            "article_number": "47",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 463,
+            "block_end": 463
+        },
+        "Article 47(3)": {
+            "heading": "Delegation of powers and establishment of advisory committee",
+            "article_number": "47",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 462,
+            "block_end": 463
+        },
+        "Article 47(4)": {
+            "heading": "Delegation of powers and establishment of advisory committee",
+            "article_number": "47",
+            "page_start": 36,
+            "page_end": 36,
+            "block_start": 464,
+            "block_end": 465
+        },
+        "Article 48": {
+            "heading": "Codes of conduct",
+            "article_number": "48",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 466,
+            "block_end": 473
+        },
+        "Article 48(1)": {
+            "heading": "Codes of conduct",
+            "article_number": "48",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 467,
+            "block_end": 467
+        },
+        "Article 48(2)(a)": {
+            "heading": "Codes of conduct",
+            "article_number": "48",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 469,
+            "block_end": 469
+        },
+        "Article 48(2)": {
+            "heading": "Codes of conduct",
+            "article_number": "48",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 468,
+            "block_end": 469
+        },
+        "Article 48(3)": {
+            "heading": "Codes of conduct",
+            "article_number": "48",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 470,
+            "block_end": 470
+        },
+        "Article 48(4)": {
+            "heading": "Codes of conduct",
+            "article_number": "48",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 471,
+            "block_end": 471
+        },
+        "Article 48(5)": {
+            "heading": "Codes of conduct",
+            "article_number": "48",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 472,
+            "block_end": 472
+        },
+        "Article 48(6)": {
+            "heading": "Codes of conduct",
+            "article_number": "48",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 473,
+            "block_end": 473
+        },
+        "Article 49": {
+            "heading": "Monitoring of approved codes of conduct",
+            "article_number": "49",
+            "page_start": 37,
+            "page_end": 38,
+            "block_start": 474,
+            "block_end": 480
+        },
+        "Article 49(1)": {
+            "heading": "Monitoring of approved codes of conduct",
+            "article_number": "49",
+            "page_start": 37,
+            "page_end": 37,
+            "block_start": 475,
+            "block_end": 476
+        },
+        "Article 49(2)(a)": {
+            "heading": "Monitoring of approved codes of conduct",
+            "article_number": "49",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 478,
+            "block_end": 478
+        },
+        "Article 49(2)": {
+            "heading": "Monitoring of approved codes of conduct",
+            "article_number": "49",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 477,
+            "block_end": 478
+        },
+        "Article 49(3)": {
+            "heading": "Monitoring of approved codes of conduct",
+            "article_number": "49",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 479,
+            "block_end": 479
+        },
+        "Article 49(4)": {
+            "heading": "Monitoring of approved codes of conduct",
+            "article_number": "49",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 480,
+            "block_end": 480
+        },
+        "Article 50": {
+            "heading": "Certification schemes",
+            "article_number": "50",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 481,
+            "block_end": 482
+        },
+        "Article 50(1)": {
+            "heading": "Certification schemes",
+            "article_number": "50",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 482,
+            "block_end": 482
+        },
+        "Article 51": {
+            "heading": "Certification and Accreditation",
+            "article_number": "51",
+            "page_start": 38,
+            "page_end": 39,
+            "block_start": 483,
+            "block_end": 494
+        },
+        "Article 51(1)": {
+            "heading": "Certification and Accreditation",
+            "article_number": "51",
+            "page_start": 38,
+            "page_end": 38,
+            "block_start": 484,
+            "block_end": 484
+        },
+        "Article 51(2)(a)": {
+            "heading": "Certification and Accreditation",
+            "article_number": "51",
+            "page_start": 38,
+            "page_end": 39,
+            "block_start": 486,
+            "block_end": 488
+        },
+        "Article 51(2)(d)": {
+            "heading": "Certification and Accreditation",
+            "article_number": "51",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 489,
+            "block_end": 489
+        },
+        "Article 51(2)(e)": {
+            "heading": "Certification and Accreditation",
+            "article_number": "51",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 490,
+            "block_end": 490
+        },
+        "Article 51(2)": {
+            "heading": "Certification and Accreditation",
+            "article_number": "51",
+            "page_start": 38,
+            "page_end": 39,
+            "block_start": 485,
+            "block_end": 490
+        },
+        "Article 51(3)": {
+            "heading": "Certification and Accreditation",
+            "article_number": "51",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 491,
+            "block_end": 491
+        },
+        "Article 51(4)": {
+            "heading": "Certification and Accreditation",
+            "article_number": "51",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 492,
+            "block_end": 492
+        },
+        "Article 51(5)": {
+            "heading": "Certification and Accreditation",
+            "article_number": "51",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 493,
+            "block_end": 493
+        },
+        "Article 51(6)": {
+            "heading": "Certification and Accreditation",
+            "article_number": "51",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 494,
+            "block_end": 494
+        },
+        "Article 52": {
+            "heading": "Production of information",
+            "article_number": "52",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 495,
+            "block_end": 499
+        },
+        "Article 52(1)(a)": {
+            "heading": "Production of information",
+            "article_number": "52",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 497,
+            "block_end": 497
+        },
+        "Article 52(1)": {
+            "heading": "Production of information",
+            "article_number": "52",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 496,
+            "block_end": 497
+        },
+        "Article 52(2)": {
+            "heading": "Production of information",
+            "article_number": "52",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 498,
+            "block_end": 498
+        },
+        "Article 52(3)": {
+            "heading": "Production of information",
+            "article_number": "52",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 499,
+            "block_end": 499
+        },
+        "Article 53": {
+            "heading": "Regulations",
+            "article_number": "53",
+            "page_start": 39,
+            "page_end": 40,
+            "block_start": 500,
+            "block_end": 511
+        },
+        "Article 53(1)(a)": {
+            "heading": "Regulations",
+            "article_number": "53",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 502,
+            "block_end": 503
+        },
+        "Article 53(1)": {
+            "heading": "Regulations",
+            "article_number": "53",
+            "page_start": 39,
+            "page_end": 39,
+            "block_start": 501,
+            "block_end": 503
+        },
+        "Article 53(2)(a)": {
+            "heading": "Regulations",
+            "article_number": "53",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 505,
+            "block_end": 505
+        },
+        "Article 53(2)": {
+            "heading": "Regulations",
+            "article_number": "53",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 504,
+            "block_end": 505
+        },
+        "Article 53(3)": {
+            "heading": "Regulations",
+            "article_number": "53",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 506,
+            "block_end": 506
+        },
+        "Article 53(4)": {
+            "heading": "Regulations",
+            "article_number": "53",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 507,
+            "block_end": 507
+        },
+        "Article 53(5)(a)": {
+            "heading": "Regulations",
+            "article_number": "53",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 509,
+            "block_end": 509
+        },
+        "Article 53(5)": {
+            "heading": "Regulations",
+            "article_number": "53",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 508,
+            "block_end": 509
+        },
+        "Article 53(6)": {
+            "heading": "Regulations",
+            "article_number": "53",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 510,
+            "block_end": 511
+        },
+        "Article 54": {
+            "heading": "Funding",
+            "article_number": "54",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 512,
+            "block_end": 513
+        },
+        "Article 55": {
+            "heading": "Annual budget of the Commissioner",
+            "article_number": "55",
+            "page_start": 40,
+            "page_end": 41,
+            "block_start": 514,
+            "block_end": 520
+        },
+        "Article 55(1)": {
+            "heading": "Annual budget of the Commissioner",
+            "article_number": "55",
+            "page_start": 40,
+            "page_end": 40,
+            "block_start": 515,
+            "block_end": 516
+        },
+        "Article 55(2)": {
+            "heading": "Annual budget of the Commissioner",
+            "article_number": "55",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 517,
+            "block_end": 517
+        },
+        "Article 55(3)(a)": {
+            "heading": "Annual budget of the Commissioner",
+            "article_number": "55",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 519,
+            "block_end": 519
+        },
+        "Article 55(3)": {
+            "heading": "Annual budget of the Commissioner",
+            "article_number": "55",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 518,
+            "block_end": 519
+        },
+        "Article 55(4)": {
+            "heading": "Annual budget of the Commissioner",
+            "article_number": "55",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 520,
+            "block_end": 520
+        },
+        "Article 56": {
+            "heading": "Accounts",
+            "article_number": "56",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 521,
+            "block_end": 522
+        },
+        "Article 56(1)": {
+            "heading": "Accounts",
+            "article_number": "56",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 522,
+            "block_end": 522
+        },
+        "Article 57": {
+            "heading": "Audit of Commissioner",
+            "article_number": "57",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 523,
+            "block_end": 524
+        },
+        "Article 57(1)": {
+            "heading": "Audit of Commissioner",
+            "article_number": "57",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 524,
+            "block_end": 524
+        },
+        "Article 58": {
+            "heading": "Annual report",
+            "article_number": "58",
+            "page_start": 41,
+            "page_end": 43,
+            "block_start": 525,
+            "block_end": 531
+        },
+        "Article 58(1)": {
+            "heading": "Annual report",
+            "article_number": "58",
+            "page_start": 41,
+            "page_end": 41,
+            "block_start": 526,
+            "block_end": 528
+        },
+        "Article 58(2)": {
+            "heading": "Annual report",
+            "article_number": "58",
+            "page_start": 42,
+            "page_end": 43,
+            "block_start": 529,
+            "block_end": 531
+        },
+        "Article 59(1)(a)": {
+            "heading": "Directions",
+            "article_number": "59",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 534,
+            "block_end": 534
+        },
+        "Article 59(1)": {
+            "heading": "Directions",
+            "article_number": "59",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 533,
+            "block_end": 534
+        },
+        "Article 59(2)": {
+            "heading": "Directions",
+            "article_number": "59",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 535,
+            "block_end": 535
+        },
+        "Article 59(3)(a)": {
+            "heading": "Directions",
+            "article_number": "59",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 537,
+            "block_end": 537
+        },
+        "Article 59(3)": {
+            "heading": "Directions",
+            "article_number": "59",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 536,
+            "block_end": 537
+        },
+        "Article 59(4)(a)": {
+            "heading": "Directions",
+            "article_number": "59",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 539,
+            "block_end": 539
+        },
+        "Article 59(4)": {
+            "heading": "Directions",
+            "article_number": "59",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 538,
+            "block_end": 539
+        },
+        "Article 59(5)(a)": {
+            "heading": "Directions",
+            "article_number": "59",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 541,
+            "block_end": 541
+        },
+        "Article 59(5)": {
+            "heading": "Directions",
+            "article_number": "59",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 540,
+            "block_end": 541
+        },
+        "Article 59(6)": {
+            "heading": "Directions",
+            "article_number": "59",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 542,
+            "block_end": 542
+        },
+        "Article 59(7)": {
+            "heading": "Directions",
+            "article_number": "59",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 543,
+            "block_end": 543
+        },
+        "Article 59(8)": {
+            "heading": "Directions",
+            "article_number": "59",
+            "page_start": 43,
+            "page_end": 43,
+            "block_start": 544,
+            "block_end": 546
+        },
+        "Article 59(9)": {
+            "heading": "Directions",
+            "article_number": "59",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 547,
+            "block_end": 547
+        },
+        "Article 60": {
+            "heading": "Lodging complaints and mediation",
+            "article_number": "60",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 548,
+            "block_end": 553
+        },
+        "Article 60(1)": {
+            "heading": "Lodging complaints and mediation",
+            "article_number": "60",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 549,
+            "block_end": 549
+        },
+        "Article 60(2)": {
+            "heading": "Lodging complaints and mediation",
+            "article_number": "60",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 550,
+            "block_end": 550
+        },
+        "Article 60(3)": {
+            "heading": "Lodging complaints and mediation",
+            "article_number": "60",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 551,
+            "block_end": 551
+        },
+        "Article 60(4)": {
+            "heading": "Lodging complaints and mediation",
+            "article_number": "60",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 552,
+            "block_end": 552
+        },
+        "Article 60(5)": {
+            "heading": "Lodging complaints and mediation",
+            "article_number": "60",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 553,
+            "block_end": 553
+        },
+        "Article 61": {
+            "heading": "General contravention",
+            "article_number": "61",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 554,
+            "block_end": 556
+        },
+        "Article 61(1)(a)": {
+            "heading": "General contravention",
+            "article_number": "61",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 556,
+            "block_end": 556
+        },
+        "Article 61(1)": {
+            "heading": "General contravention",
+            "article_number": "61",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 555,
+            "block_end": 556
+        },
+        "Article 62": {
+            "heading": "Imposition of fines",
+            "article_number": "62",
+            "page_start": 44,
+            "page_end": 45,
+            "block_start": 557,
+            "block_end": 567
+        },
+        "Article 62(1)": {
+            "heading": "Imposition of fines",
+            "article_number": "62",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 558,
+            "block_end": 558
+        },
+        "Article 62(2)": {
+            "heading": "Imposition of fines",
+            "article_number": "62",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 559,
+            "block_end": 559
+        },
+        "Article 62(3)": {
+            "heading": "Imposition of fines",
+            "article_number": "62",
+            "page_start": 44,
+            "page_end": 44,
+            "block_start": 560,
+            "block_end": 561
+        },
+        "Article 62(4)": {
+            "heading": "Imposition of fines",
+            "article_number": "62",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 562,
+            "block_end": 562
+        },
+        "Article 62(5)": {
+            "heading": "Imposition of fines",
+            "article_number": "62",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 563,
+            "block_end": 563
+        },
+        "Article 62(6)": {
+            "heading": "Imposition of fines",
+            "article_number": "62",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 564,
+            "block_end": 564
+        },
+        "Article 62(7)(a)": {
+            "heading": "Imposition of fines",
+            "article_number": "62",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 566,
+            "block_end": 566
+        },
+        "Article 62(7)": {
+            "heading": "Imposition of fines",
+            "article_number": "62",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 565,
+            "block_end": 566
+        },
+        "Article 62(8)": {
+            "heading": "Imposition of fines",
+            "article_number": "62",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 567,
+            "block_end": 567
+        },
+        "Article 63": {
+            "heading": "Application to the Court",
+            "article_number": "63",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 568,
+            "block_end": 575
+        },
+        "Article 63(1)": {
+            "heading": "Application to the Court",
+            "article_number": "63",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 569,
+            "block_end": 569
+        },
+        "Article 63(2)": {
+            "heading": "Application to the Court",
+            "article_number": "63",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 570,
+            "block_end": 570
+        },
+        "Article 63(3)": {
+            "heading": "Application to the Court",
+            "article_number": "63",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 571,
+            "block_end": 571
+        },
+        "Article 63(4)": {
+            "heading": "Application to the Court",
+            "article_number": "63",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 572,
+            "block_end": 572
+        },
+        "Article 63(5)(a)": {
+            "heading": "Application to the Court",
+            "article_number": "63",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 574,
+            "block_end": 575
+        },
+        "Article 63(5)": {
+            "heading": "Application to the Court",
+            "article_number": "63",
+            "page_start": 45,
+            "page_end": 45,
+            "block_start": 573,
+            "block_end": 575
+        },
+        "Article 64": {
+            "heading": "Principles of Liability",
+            "article_number": "64",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 576,
+            "block_end": 579
+        },
+        "Article 64(1)": {
+            "heading": "Principles of Liability",
+            "article_number": "64",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 577,
+            "block_end": 577
+        },
+        "Article 64(2)": {
+            "heading": "Principles of Liability",
+            "article_number": "64",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 578,
+            "block_end": 578
+        },
+        "Article 64(3)": {
+            "heading": "Principles of Liability",
+            "article_number": "64",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 579,
+            "block_end": 579
+        },
+        "Article 64A": {
+            "heading": "Private Right of Action",
+            "article_number": "64A",
+            "page_start": 46,
+            "page_end": 47,
+            "block_start": 580,
+            "block_end": 590
+        },
+        "Article 64A(1)": {
+            "heading": "Private Right of Action",
+            "article_number": "64A",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 581,
+            "block_end": 581
+        },
+        "Article 64A(2)": {
+            "heading": "Private Right of Action",
+            "article_number": "64A",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 582,
+            "block_end": 582
+        },
+        "Article 64A(3)(a)": {
+            "heading": "Private Right of Action",
+            "article_number": "64A",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 584,
+            "block_end": 584
+        },
+        "Article 64A(3)(c)": {
+            "heading": "Private Right of Action",
+            "article_number": "64A",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 585,
+            "block_end": 585
+        },
+        "Article 64A(3)(i)": {
+            "heading": "Private Right of Action",
+            "article_number": "64A",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 586,
+            "block_end": 586
+        },
+        "Article 64A(3)": {
+            "heading": "Private Right of Action",
+            "article_number": "64A",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 583,
+            "block_end": 586
+        },
+        "Article 64A(4)": {
+            "heading": "Private Right of Action",
+            "article_number": "64A",
+            "page_start": 46,
+            "page_end": 46,
+            "block_start": 587,
+            "block_end": 587
+        },
+        "Article 64A(5)": {
+            "heading": "Private Right of Action",
+            "article_number": "64A",
+            "page_start": 46,
+            "page_end": 47,
+            "block_start": 588,
+            "block_end": 590
+        },
+        "Article 65(1)": {
+            "heading": "General exemptions",
+            "article_number": "65",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 592,
+            "block_end": 592
+        },
+        "Article 65(2)(a)": {
+            "heading": "General exemptions",
+            "article_number": "65",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 594,
+            "block_end": 594
+        },
+        "Article 65(2)(b)": {
+            "heading": "General exemptions",
+            "article_number": "65",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 595,
+            "block_end": 595
+        },
+        "Article 65(2)(c)": {
+            "heading": "General exemptions",
+            "article_number": "65",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 596,
+            "block_end": 596
+        },
+        "Article 65(2)": {
+            "heading": "General exemptions",
+            "article_number": "65",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 593,
+            "block_end": 596
+        },
+        "Article 65(3)(a)": {
+            "heading": "General exemptions",
+            "article_number": "65",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 598,
+            "block_end": 598
+        },
+        "Article 65(3)": {
+            "heading": "General exemptions",
+            "article_number": "65",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 597,
+            "block_end": 598
+        },
+        "Article 65(4)": {
+            "heading": "General exemptions",
+            "article_number": "65",
+            "page_start": 47,
+            "page_end": 47,
+            "block_start": 599,
+            "block_end": 599
+        },
+        "Article 65(5)": {
+            "heading": "General exemptions",
+            "article_number": "65",
+            "page_start": 47,
+            "page_end": 48,
+            "block_start": 600,
+            "block_end": 602
+        },
+        "Article 1(1)(a)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 48,
+            "page_end": 48,
+            "block_start": 605,
+            "block_end": 605
+        },
+        "Article 3": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 49,
+            "page_end": 54,
+            "block_start": 614,
+            "block_end": 629
+        }
+    },
+    "section_heading_index": {
+        "Title and repeal . 1 2. Legislative authority . . 1 3. Date of enactment.. . 1 4. Commencement .. 1 5. Purpose of this Law . . 1 6. Application of the Law. . 2 7. Schedules.. . 2 8. Administration of the Law. . 2": [
+            {
+                "heading": "Title and repeal . 1 2. Legislative authority . . 1 3. Date of enactment.. . 1 4. Commencement .. 1 5. Purpose of this Law . . 1 6. Application of the Law. . 2 7. Schedules.. . 2 8. Administration of the Law. . 2",
+                "article_number": "1",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 7,
+                "block_end": 10
+            }
+        ],
+        "Accountability and notification ... ............................................................ ... 6 15. Records of Processing activities... .... 7 16. Designation of the DPO . ..................................................................................... .... 8 17. The DPO: competencies and status.. .......................................................................................... ... 9 18. Role and tasks of the DPO..... ..... 9 19. DPO Controller assessment ............................................................................................................. 10 20. Data protection impact assessment ................................................................................................... 10 21. Prior consultation ........ 22. Cessation of Processing.. .......................................................................................... .. 12": [
+            {
+                "heading": "Accountability and notification ... ............................................................ ... 6 15. Records of Processing activities... .... 7 16. Designation of the DPO . ..................................................................................... .... 8 17. The DPO: competencies and status.. .......................................................................................... ... 9 18. Role and tasks of the DPO..... ..... 9 19. DPO Controller assessment ............................................................................................................. 10 20. Data protection impact assessment ................................................................................................... 10 21. Prior consultation ........ 22. Cessation of Processing.. .......................................................................................... .. 12",
+                "article_number": "14",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 11,
+                "block_end": 14
+            }
+        ],
+        "Transfers out of the DIFC: adequate level of protection . ..... 17 27. Transfers out of the DIFC in the absence of an adequate level of protection. .17 28. Data sharing ...... .. 20": [
+            {
+                "heading": "Transfers out of the DIFC: adequate level of protection . ..... 17 27. Transfers out of the DIFC in the absence of an adequate level of protection. .17 28. Data sharing ...... .. 20",
+                "article_number": "26",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 15,
+                "block_end": 16
+            }
+        ],
+        "Providing information where Personal Data has been obtained from the Data Subject ..... .21 30. Providing Information where Personal Data has not been obtained from the Data Subject. . 22 31. Nature of Processing information.. . 23": [
+            {
+                "heading": "Providing information where Personal Data has been obtained from the Data Subject ..... .21 30. Providing Information where Personal Data has not been obtained from the Data Subject. . 22 31. Nature of Processing information.. . 23",
+                "article_number": "29",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 17,
+                "block_end": 18
+            }
+        ],
+        "Right to withdraw consent... .24": [
+            {
+                "heading": "Right to withdraw consent... .24",
+                "article_number": "32",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 19,
+                "block_end": 21
+            }
+        ],
+        "Rights to access, rectification and erasure of Personal Data ... . 24 34. Right to object to Processing ...... .26 35. Right to restriction of Processing .27 36. Controller's obligation to notify . .27 37. Right to data portability . .27 38. Automated individual decision-making, including Profiling . .28 39. Non-discrimination... . 28 40. Methods of exercising Data Subject rights . .. 29": [
+            {
+                "heading": "Rights to access, rectification and erasure of Personal Data ... . 24 34. Right to object to Processing ...... .26 35. Right to restriction of Processing .27 36. Controller's obligation to notify . .27 37. Right to data portability . .27 38. Automated individual decision-making, including Profiling . .28 39. Non-discrimination... . 28 40. Methods of exercising Data Subject rights . .. 29",
+                "article_number": "33",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 22,
+                "block_end": 23
+            }
+        ],
+        "Notification of Personal Data Breaches to the Commissioner . . 30 42. Notification of Personal Data Breaches to a Data Subject.. . 30": [
+            {
+                "heading": "Notification of Personal Data Breaches to the Commissioner . . 30 42. Notification of Personal Data Breaches to a Data Subject.. . 30",
+                "article_number": "41",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 24,
+                "block_end": 25
+            }
+        ],
+        "Appointment of the Commissioner.. .31 44. Removal of the Commissioner. .31 45. Resignation of the Commissioner..... .31 46. Powers, functions and objectives of the Commissioner . .31 47. Delegation of powers and establishment of advisory committee. .33 48. Codes of conduct.. . 34 49. Monitoring of approved codes of conduct . .34 50. Certification schemes.. .35 51. Certification and Accreditation . 35 52. Production of information .36 53. Regulations ... . 36 54. Funding ... .. 37 55. Annual budget of the Commissioner . 37 56. Accounts.. .38 57. Audit of Commissioner .. . 38 58. Annual report . . 38": [
+            {
+                "heading": "Appointment of the Commissioner.. .31 44. Removal of the Commissioner. .31 45. Resignation of the Commissioner..... .31 46. Powers, functions and objectives of the Commissioner . .31 47. Delegation of powers and establishment of advisory committee. .33 48. Codes of conduct.. . 34 49. Monitoring of approved codes of conduct . .34 50. Certification schemes.. .35 51. Certification and Accreditation . 35 52. Production of information .36 53. Regulations ... . 36 54. Funding ... .. 37 55. Annual budget of the Commissioner . 37 56. Accounts.. .38 57. Audit of Commissioner .. . 38 58. Annual report . . 38",
+                "article_number": "43",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 26,
+                "block_end": 27
+            }
+        ],
+        "Directions .. .. 40 60. Lodging complaints and mediation... .. 41 61. General contravention . .. 41 62. Imposition of fines.. .. 41 63. Application to the Court .. .. 42 64. Principles of Liability .... . 43 64A. Private Right of Action . .. 43": [
+            {
+                "heading": "Directions .. .. 40 60. Lodging complaints and mediation... .. 41 61. General contravention . .. 41 62. Imposition of fines.. .. 41 63. Application to the Court .. .. 42 64. Principles of Liability .... . 43 64A. Private Right of Action . .. 43",
+                "article_number": "59",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 28,
+                "block_end": 29
+            }
+        ],
+        "General exemptions .. . 44": [
+            {
+                "heading": "General exemptions .. . 44",
+                "article_number": "65",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 30,
+                "block_end": 35
+            }
+        ],
+        "Title and repeal": [
+            {
+                "heading": "Title and repeal",
+                "article_number": "1",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 36,
+                "block_end": 44
+            }
+        ],
+        "Legislative authority": [
+            {
+                "heading": "Legislative authority",
+                "article_number": "2",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 45,
+                "block_end": 51
+            }
+        ],
+        "Purpose of this Law": [
+            {
+                "heading": "Purpose of this Law",
+                "article_number": "5",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 52,
+                "block_end": 56
+            }
+        ],
+        "Application of the Law": [
+            {
+                "heading": "Application of the Law",
+                "article_number": "6",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 57,
+                "block_end": 66
+            }
+        ],
+        "Schedules": [
+            {
+                "heading": "Schedules",
+                "article_number": "7",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 67,
+                "block_end": 70
+            }
+        ],
+        "Administration of the Law": [
+            {
+                "heading": "Administration of the Law",
+                "article_number": "8",
+                "page_start": 5,
+                "page_end": 6,
+                "block_start": 71,
+                "block_end": 76
+            }
+        ],
+        "General requirements": [
+            {
+                "heading": "General requirements",
+                "article_number": "9",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 77,
+                "block_end": 80
+            }
+        ],
+        "Lawfulness of Processing": [
+            {
+                "heading": "Lawfulness of Processing",
+                "article_number": "10",
+                "page_start": 6,
+                "page_end": 7,
+                "block_start": 81,
+                "block_end": 87
+            }
+        ],
+        "Processing of Special Categories of Personal Data": [
+            {
+                "heading": "Processing of Special Categories of Personal Data",
+                "article_number": "11",
+                "page_start": 7,
+                "page_end": 8,
+                "block_start": 88,
+                "block_end": 99
+            }
+        ],
+        "Consent": [
+            {
+                "heading": "Consent",
+                "article_number": "12",
+                "page_start": 8,
+                "page_end": 9,
+                "block_start": 100,
+                "block_end": 116
+            }
+        ],
+        "Legitimate interests": [
+            {
+                "heading": "Legitimate interests",
+                "article_number": "13",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 117,
+                "block_end": 119
+            }
+        ],
+        "Accountability and notification": [
+            {
+                "heading": "Accountability and notification",
+                "article_number": "14",
+                "page_start": 9,
+                "page_end": 10,
+                "block_start": 120,
+                "block_end": 140
+            }
+        ],
+        "Records of Processing activities": [
+            {
+                "heading": "Records of Processing activities",
+                "article_number": "15",
+                "page_start": 10,
+                "page_end": 11,
+                "block_start": 141,
+                "block_end": 147
+            }
+        ],
+        "Designation of the DPO": [
+            {
+                "heading": "Designation of the DPO",
+                "article_number": "16",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 148,
+                "block_end": 159
+            }
+        ],
+        "The DPO: competencies and status": [
+            {
+                "heading": "The DPO: competencies and status",
+                "article_number": "17",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 160,
+                "block_end": 165
+            }
+        ],
+        "Role and tasks of the DPO": [
+            {
+                "heading": "Role and tasks of the DPO",
+                "article_number": "18",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 166,
+                "block_end": 174
+            }
+        ],
+        "DPO Controller assessment": [
+            {
+                "heading": "DPO Controller assessment",
+                "article_number": "19",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 175,
+                "block_end": 176
+            }
+        ],
+        "Data protection impact assessment": [
+            {
+                "heading": "Data protection impact assessment",
+                "article_number": "20",
+                "page_start": 13,
+                "page_end": 14,
+                "block_start": 177,
+                "block_end": 195
+            }
+        ],
+        "Prior consultation": [
+            {
+                "heading": "Prior consultation",
+                "article_number": "21",
+                "page_start": 14,
+                "page_end": 15,
+                "block_start": 196,
+                "block_end": 208
+            }
+        ],
+        "Cessation of Processing": [
+            {
+                "heading": "Cessation of Processing",
+                "article_number": "22",
+                "page_start": 15,
+                "page_end": 17,
+                "block_start": 209,
+                "block_end": 224
+            }
+        ],
+        "Joint Controllers": [
+            {
+                "heading": "Joint Controllers",
+                "article_number": "23",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 225,
+                "block_end": 227
+            }
+        ],
+        "Processors and Sub-processors": [
+            {
+                "heading": "Processors and Sub-processors",
+                "article_number": "24",
+                "page_start": 17,
+                "page_end": 19,
+                "block_start": 228,
+                "block_end": 251
+            }
+        ],
+        "Confidentiality": [
+            {
+                "heading": "Confidentiality",
+                "article_number": "25",
+                "page_start": 19,
+                "page_end": 20,
+                "block_start": 252,
+                "block_end": 255
+            }
+        ],
+        "Transfers out of the DIFC: adequate level of protection": [
+            {
+                "heading": "Transfers out of the DIFC: adequate level of protection",
+                "article_number": "26",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 256,
+                "block_end": 264
+            }
+        ],
+        "Transfers out of the DIFC in the absence of an adequate level of protection": [
+            {
+                "heading": "Transfers out of the DIFC in the absence of an adequate level of protection",
+                "article_number": "27",
+                "page_start": 20,
+                "page_end": 23,
+                "block_start": 265,
+                "block_end": 296
+            }
+        ],
+        "Data sharing": [
+            {
+                "heading": "Data sharing",
+                "article_number": "28",
+                "page_start": 23,
+                "page_end": 24,
+                "block_start": 297,
+                "block_end": 304
+            }
+        ],
+        "Providing information where Personal Data has been obtained from the Data Subject": [
+            {
+                "heading": "Providing information where Personal Data has been obtained from the Data Subject",
+                "article_number": "29",
+                "page_start": 24,
+                "page_end": 25,
+                "block_start": 305,
+                "block_end": 313
+            }
+        ],
+        "Providing Information where Personal Data has not been obtained from the Data Subject": [
+            {
+                "heading": "Providing Information where Personal Data has not been obtained from the Data Subject",
+                "article_number": "30",
+                "page_start": 25,
+                "page_end": 26,
+                "block_start": 314,
+                "block_end": 324
+            }
+        ],
+        "Nature of Processing information": [
+            {
+                "heading": "Nature of Processing information",
+                "article_number": "31",
+                "page_start": 26,
+                "page_end": 27,
+                "block_start": 325,
+                "block_end": 330
+            }
+        ],
+        "Right to withdraw consent": [
+            {
+                "heading": "Right to withdraw consent",
+                "article_number": "32",
+                "page_start": 27,
+                "page_end": 27,
+                "block_start": 331,
+                "block_end": 334
+            }
+        ],
+        "Rights to access, rectification and erasure of Personal Data": [
+            {
+                "heading": "Rights to access, rectification and erasure of Personal Data",
+                "article_number": "33",
+                "page_start": 27,
+                "page_end": 29,
+                "block_start": 335,
+                "block_end": 363
+            }
+        ],
+        "Right to object to Processing": [
+            {
+                "heading": "Right to object to Processing",
+                "article_number": "34",
+                "page_start": 29,
+                "page_end": 30,
+                "block_start": 364,
+                "block_end": 373
+            }
+        ],
+        "Right to restriction of Processing": [
+            {
+                "heading": "Right to restriction of Processing",
+                "article_number": "35",
+                "page_start": 30,
+                "page_end": 30,
+                "block_start": 374,
+                "block_end": 379
+            }
+        ],
+        "Controller's obligation to notify": [
+            {
+                "heading": "Controller's obligation to notify",
+                "article_number": "36",
+                "page_start": 30,
+                "page_end": 30,
+                "block_start": 380,
+                "block_end": 381
+            }
+        ],
+        "Right to data portability": [
+            {
+                "heading": "Right to data portability",
+                "article_number": "37",
+                "page_start": 30,
+                "page_end": 31,
+                "block_start": 382,
+                "block_end": 388
+            }
+        ],
+        "Automated individual decision-making, including Profiling": [
+            {
+                "heading": "Automated individual decision-making, including Profiling",
+                "article_number": "38",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 389,
+                "block_end": 397
+            }
+        ],
+        "Non-discrimination": [
+            {
+                "heading": "Non-discrimination",
+                "article_number": "39",
+                "page_start": 31,
+                "page_end": 32,
+                "block_start": 398,
+                "block_end": 407
+            }
+        ],
+        "Methods of exercising Data Subject rights": [
+            {
+                "heading": "Methods of exercising Data Subject rights",
+                "article_number": "40",
+                "page_start": 32,
+                "page_end": 33,
+                "block_start": 408,
+                "block_end": 411
+            }
+        ],
+        "Notification of Personal Data Breaches to the Commissioner": [
+            {
+                "heading": "Notification of Personal Data Breaches to the Commissioner",
+                "article_number": "41",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 412,
+                "block_end": 419
+            }
+        ],
+        "Notification of Personal Data Breaches to a Data Subject": [
+            {
+                "heading": "Notification of Personal Data Breaches to a Data Subject",
+                "article_number": "42",
+                "page_start": 33,
+                "page_end": 34,
+                "block_start": 420,
+                "block_end": 427
+            }
+        ],
+        "Appointment of the Commissioner": [
+            {
+                "heading": "Appointment of the Commissioner",
+                "article_number": "43",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 428,
+                "block_end": 429
+            }
+        ],
+        "Removal of the Commissioner": [
+            {
+                "heading": "Removal of the Commissioner",
+                "article_number": "44",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 430,
+                "block_end": 431
+            }
+        ],
+        "Resignation of the Commissioner": [
+            {
+                "heading": "Resignation of the Commissioner",
+                "article_number": "45",
+                "page_start": 34,
+                "page_end": 34,
+                "block_start": 432,
+                "block_end": 433
+            }
+        ],
+        "Powers, functions and objectives of the Commissioner": [
+            {
+                "heading": "Powers, functions and objectives of the Commissioner",
+                "article_number": "46",
+                "page_start": 34,
+                "page_end": 36,
+                "block_start": 434,
+                "block_end": 458
+            }
+        ],
+        "Delegation of powers and establishment of advisory committee": [
+            {
+                "heading": "Delegation of powers and establishment of advisory committee",
+                "article_number": "47",
+                "page_start": 36,
+                "page_end": 36,
+                "block_start": 459,
+                "block_end": 465
+            }
+        ],
+        "Codes of conduct": [
+            {
+                "heading": "Codes of conduct",
+                "article_number": "48",
+                "page_start": 37,
+                "page_end": 37,
+                "block_start": 466,
+                "block_end": 473
+            }
+        ],
+        "Monitoring of approved codes of conduct": [
+            {
+                "heading": "Monitoring of approved codes of conduct",
+                "article_number": "49",
+                "page_start": 37,
+                "page_end": 38,
+                "block_start": 474,
+                "block_end": 480
+            }
+        ],
+        "Certification schemes": [
+            {
+                "heading": "Certification schemes",
+                "article_number": "50",
+                "page_start": 38,
+                "page_end": 38,
+                "block_start": 481,
+                "block_end": 482
+            }
+        ],
+        "Certification and Accreditation": [
+            {
+                "heading": "Certification and Accreditation",
+                "article_number": "51",
+                "page_start": 38,
+                "page_end": 39,
+                "block_start": 483,
+                "block_end": 494
+            }
+        ],
+        "Production of information": [
+            {
+                "heading": "Production of information",
+                "article_number": "52",
+                "page_start": 39,
+                "page_end": 39,
+                "block_start": 495,
+                "block_end": 499
+            }
+        ],
+        "Regulations": [
+            {
+                "heading": "Regulations",
+                "article_number": "53",
+                "page_start": 39,
+                "page_end": 40,
+                "block_start": 500,
+                "block_end": 511
+            }
+        ],
+        "Funding": [
+            {
+                "heading": "Funding",
+                "article_number": "54",
+                "page_start": 40,
+                "page_end": 40,
+                "block_start": 512,
+                "block_end": 513
+            }
+        ],
+        "Annual budget of the Commissioner": [
+            {
+                "heading": "Annual budget of the Commissioner",
+                "article_number": "55",
+                "page_start": 40,
+                "page_end": 41,
+                "block_start": 514,
+                "block_end": 520
+            }
+        ],
+        "Accounts": [
+            {
+                "heading": "Accounts",
+                "article_number": "56",
+                "page_start": 41,
+                "page_end": 41,
+                "block_start": 521,
+                "block_end": 522
+            }
+        ],
+        "Audit of Commissioner": [
+            {
+                "heading": "Audit of Commissioner",
+                "article_number": "57",
+                "page_start": 41,
+                "page_end": 41,
+                "block_start": 523,
+                "block_end": 524
+            }
+        ],
+        "Annual report": [
+            {
+                "heading": "Annual report",
+                "article_number": "58",
+                "page_start": 41,
+                "page_end": 43,
+                "block_start": 525,
+                "block_end": 531
+            }
+        ],
+        "Directions": [
+            {
+                "heading": "Directions",
+                "article_number": "59",
+                "page_start": 43,
+                "page_end": 44,
+                "block_start": 532,
+                "block_end": 547
+            }
+        ],
+        "Lodging complaints and mediation": [
+            {
+                "heading": "Lodging complaints and mediation",
+                "article_number": "60",
+                "page_start": 44,
+                "page_end": 44,
+                "block_start": 548,
+                "block_end": 553
+            }
+        ],
+        "General contravention": [
+            {
+                "heading": "General contravention",
+                "article_number": "61",
+                "page_start": 44,
+                "page_end": 44,
+                "block_start": 554,
+                "block_end": 556
+            }
+        ],
+        "Imposition of fines": [
+            {
+                "heading": "Imposition of fines",
+                "article_number": "62",
+                "page_start": 44,
+                "page_end": 45,
+                "block_start": 557,
+                "block_end": 567
+            }
+        ],
+        "Application to the Court": [
+            {
+                "heading": "Application to the Court",
+                "article_number": "63",
+                "page_start": 45,
+                "page_end": 45,
+                "block_start": 568,
+                "block_end": 575
+            }
+        ],
+        "Principles of Liability": [
+            {
+                "heading": "Principles of Liability",
+                "article_number": "64",
+                "page_start": 46,
+                "page_end": 46,
+                "block_start": 576,
+                "block_end": 579
+            }
+        ],
+        "Private Right of Action": [
+            {
+                "heading": "Private Right of Action",
+                "article_number": "64A",
+                "page_start": 46,
+                "page_end": 47,
+                "block_start": 580,
+                "block_end": 590
+            }
+        ],
+        "General exemptions": [
+            {
+                "heading": "General exemptions",
+                "article_number": "65",
+                "page_start": 47,
+                "page_end": 48,
+                "block_start": 591,
+                "block_end": 602
+            }
+        ],
+        "Rules of interpretation": [
+            {
+                "heading": "Rules of interpretation",
+                "article_number": "1",
+                "page_start": 48,
+                "page_end": 48,
+                "block_start": 603,
+                "block_end": 610
+            }
+        ],
+        "Legislation in the DIFC": [
+            {
+                "heading": "Legislation in the DIFC",
+                "article_number": "2",
+                "page_start": 49,
+                "page_end": 49,
+                "block_start": 611,
+                "block_end": 613
+            }
+        ],
+        "Defined terms": [
+            {
+                "heading": "Defined terms",
+                "article_number": "3",
+                "page_start": 49,
+                "page_end": 54,
+                "block_start": 614,
+                "block_end": 629
+            }
+        ]
+    }
+}

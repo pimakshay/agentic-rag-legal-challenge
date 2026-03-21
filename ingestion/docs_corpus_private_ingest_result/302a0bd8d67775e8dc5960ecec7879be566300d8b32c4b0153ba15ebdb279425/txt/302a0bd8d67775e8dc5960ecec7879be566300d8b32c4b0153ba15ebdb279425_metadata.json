@@ -1,0 +1,1803 @@
+{
+    "doc_type": "law",
+    "official_title": "General Partnership Law",
+    "official_title_normalized": "general partnership law",
+    "short_title": "General Partnership Law 2004",
+    "short_title_normalized": "general partnership law 2004",
+    "law_number": "11",
+    "law_year": "2004",
+    "official_citation": "DIFC Law No. 11 of 2004",
+    "official_citation_normalized": "difc law no 11 of 2004",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "March 2022",
+    "amending_laws": [
+        "DIFC Law Amendment Law DIFC Law No.2 of 2022",
+        "DIFC Law Amendment Law DIFC Law No.8 of 2018"
+    ],
+    "administering_authority": "Registrar",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 23,
+    "page_count": 23,
+    "alias_keys": [
+        "DIFC Law No. 11 of 2004",
+        "General Partnership Law",
+        "General Partnership Law 2004"
+    ],
+    "article_index": {
+        "Article 1": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 273,
+            "block_end": 278
+        },
+        "Article 8": {
+            "heading": "Definition of and meaning of General Partnership",
+            "article_number": "8",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 66,
+            "block_end": 67
+        },
+        "Article 15": {
+            "heading": "Licence",
+            "article_number": "15",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 101,
+            "block_end": 102
+        },
+        "Article 21": {
+            "heading": "Accountability of Partners",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 126,
+            "block_end": 128
+        },
+        "Article 23": {
+            "heading": "Power of Partner to bind the General Partnership",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 138,
+            "block_end": 142
+        },
+        "Article 28": {
+            "heading": "Liability of Partners",
+            "article_number": "28",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 152,
+            "block_end": 155
+        },
+        "Article 35": {
+            "heading": "Variation by consent of terms of General Partnership",
+            "article_number": "35",
+            "page_start": 11,
+            "page_end": 12,
+            "block_start": 171,
+            "block_end": 175
+        },
+        "Article 36": {
+            "heading": "General Partnership Property",
+            "article_number": "36",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 176,
+            "block_end": 178
+        },
+        "Article 39": {
+            "heading": "Strike off and Restoration",
+            "article_number": "39",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 191,
+            "block_end": 192
+        },
+        "Article 44": {
+            "heading": "Removal of a Partner",
+            "article_number": "44",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 207,
+            "block_end": 208
+        },
+        "Article 48": {
+            "heading": "Rights of persons dealing with General Partnership",
+            "article_number": "48",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 220,
+            "block_end": 222
+        },
+        "Article 49": {
+            "heading": "Continuing authority of Partners for purposes of winding up",
+            "article_number": "49",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 223,
+            "block_end": 224
+        },
+        "Article 53": {
+            "heading": "Right of\\` outgoing Partner in certain cases to share profits made after dissolution",
+            "article_number": "53",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 237,
+            "block_end": 238
+        },
+        "Article 57": {
+            "heading": "Application of Operating Law",
+            "article_number": "57",
+            "page_start": 17,
+            "page_end": 18,
+            "block_start": 248,
+            "block_end": 251
+        },
+        "Article 58": {
+            "heading": "Power to make Regulations",
+            "article_number": "58",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 252,
+            "block_end": 259
+        },
+        "Article 6": {
+            "heading": "Schedules",
+            "article_number": "6",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 57,
+            "block_end": 60
+        },
+        "Article 6(1)(a)": {
+            "heading": "Schedules",
+            "article_number": "6",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 59,
+            "block_end": 59
+        },
+        "Article 6(1)": {
+            "heading": "Schedules",
+            "article_number": "6",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 58,
+            "block_end": 59
+        },
+        "Article 6(2)": {
+            "heading": "Schedules",
+            "article_number": "6",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 60,
+            "block_end": 60
+        },
+        "Article 7": {
+            "heading": "Administration of the Law",
+            "article_number": "7",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 61,
+            "block_end": 65
+        },
+        "Article 9": {
+            "heading": "Prohibition",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 68,
+            "block_end": 70
+        },
+        "Article 10": {
+            "heading": "General Partnership agreement",
+            "article_number": "10",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 71,
+            "block_end": 72
+        },
+        "Article 11": {
+            "heading": "Presumptions for the existence of a General Partnership",
+            "article_number": "11",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 73,
+            "block_end": 75
+        },
+        "Article 12": {
+            "heading": "Registration",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 76,
+            "block_end": 85
+        },
+        "Article 12(1)": {
+            "heading": "Registration",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 77,
+            "block_end": 77
+        },
+        "Article 12(2)(a)": {
+            "heading": "Registration",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 79,
+            "block_end": 79
+        },
+        "Article 12(2)": {
+            "heading": "Registration",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 78,
+            "block_end": 79
+        },
+        "Article 12(3)": {
+            "heading": "Registration",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 80,
+            "block_end": 80
+        },
+        "Article 12(4)": {
+            "heading": "Registration",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 81,
+            "block_end": 81
+        },
+        "Article 12(5)": {
+            "heading": "Registration",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 82,
+            "block_end": 82
+        },
+        "Article 12(6)": {
+            "heading": "Registration",
+            "article_number": "12",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 83,
+            "block_end": 85
+        },
+        "Article 13": {
+            "heading": "Recognised Partnership",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 86,
+            "block_end": 92
+        },
+        "Article 13(1)": {
+            "heading": "Recognised Partnership",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 87,
+            "block_end": 87
+        },
+        "Article 13(2)(a)": {
+            "heading": "Recognised Partnership",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 89,
+            "block_end": 89
+        },
+        "Article 13(2)": {
+            "heading": "Recognised Partnership",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 88,
+            "block_end": 89
+        },
+        "Article 13(3)": {
+            "heading": "Recognised Partnership",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 90,
+            "block_end": 91
+        },
+        "Article 13(5)": {
+            "heading": "Recognised Partnership",
+            "article_number": "13",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 92,
+            "block_end": 92
+        },
+        "Article 14": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "14",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 93,
+            "block_end": 100
+        },
+        "Article 14(1)(a)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "14",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 95,
+            "block_end": 95
+        },
+        "Article 14(1)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "14",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 94,
+            "block_end": 95
+        },
+        "Article 14(2)(a)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "14",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 97,
+            "block_end": 100
+        },
+        "Article 14(2)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "14",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 96,
+            "block_end": 100
+        },
+        "Article 16": {
+            "heading": "Conduct of Business in the DIFC",
+            "article_number": "16",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 103,
+            "block_end": 104
+        },
+        "Article 17": {
+            "heading": "Management of the General Partnership",
+            "article_number": "17",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 105,
+            "block_end": 107
+        },
+        "Article 18": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "18",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 108,
+            "block_end": 112
+        },
+        "Article 18(1)(a)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "18",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 110,
+            "block_end": 110
+        },
+        "Article 18(1)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "18",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 109,
+            "block_end": 110
+        },
+        "Article 18(2)(a)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "18",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 112,
+            "block_end": 112
+        },
+        "Article 18(2)": {
+            "heading": "Maintenance of Accounting Records",
+            "article_number": "18",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 111,
+            "block_end": 112
+        },
+        "Article 19": {
+            "heading": "Accounts",
+            "article_number": "19",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 113,
+            "block_end": 120
+        },
+        "Article 19(1)": {
+            "heading": "Accounts",
+            "article_number": "19",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 114,
+            "block_end": 114
+        },
+        "Article 19(2)(a)": {
+            "heading": "Accounts",
+            "article_number": "19",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 116,
+            "block_end": 118
+        },
+        "Article 19(2)(b)": {
+            "heading": "Accounts",
+            "article_number": "19",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 119,
+            "block_end": 119
+        },
+        "Article 19(2)": {
+            "heading": "Accounts",
+            "article_number": "19",
+            "page_start": 7,
+            "page_end": 8,
+            "block_start": 115,
+            "block_end": 119
+        },
+        "Article 19(3)": {
+            "heading": "Accounts",
+            "article_number": "19",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 120,
+            "block_end": 120
+        },
+        "Article 20": {
+            "heading": "Records",
+            "article_number": "20",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 121,
+            "block_end": 125
+        },
+        "Article 21(1)": {
+            "heading": "Accountability of Partners",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 127,
+            "block_end": 127
+        },
+        "Article 21(2)": {
+            "heading": "Accountability of Partners",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 128,
+            "block_end": 128
+        },
+        "Article 22": {
+            "heading": "Duty of Partner not to compete with General Partnership",
+            "article_number": "22",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 129,
+            "block_end": 137
+        },
+        "Article 22(1)": {
+            "heading": "Duty of Partner not to compete with General Partnership",
+            "article_number": "22",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 130,
+            "block_end": 130
+        },
+        "Article 22(2)(a)": {
+            "heading": "Duty of Partner not to compete with General Partnership",
+            "article_number": "22",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 132,
+            "block_end": 137
+        },
+        "Article 22(2)": {
+            "heading": "Duty of Partner not to compete with General Partnership",
+            "article_number": "22",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 131,
+            "block_end": 137
+        },
+        "Article 23(1)": {
+            "heading": "Power of Partner to bind the General Partnership",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 139,
+            "block_end": 139
+        },
+        "Article 23(2)(a)": {
+            "heading": "Power of Partner to bind the General Partnership",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 141,
+            "block_end": 141
+        },
+        "Article 23(2)": {
+            "heading": "Power of Partner to bind the General Partnership",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 140,
+            "block_end": 141
+        },
+        "Article 23(3)": {
+            "heading": "Power of Partner to bind the General Partnership",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 142,
+            "block_end": 142
+        },
+        "Article 24": {
+            "heading": "Legal person",
+            "article_number": "24",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 143,
+            "block_end": 144
+        },
+        "Article 24(1)": {
+            "heading": "Legal person",
+            "article_number": "24",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 144,
+            "block_end": 144
+        },
+        "Article 25": {
+            "heading": "Partners bound by acts on behalf of General Partnership",
+            "article_number": "25",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 145,
+            "block_end": 146
+        },
+        "Article 26": {
+            "heading": "Partner using resources of General Partnership for private purposes",
+            "article_number": "26",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 147,
+            "block_end": 148
+        },
+        "Article 27": {
+            "heading": "Indemnification",
+            "article_number": "27",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 149,
+            "block_end": 151
+        },
+        "Article 28(1)": {
+            "heading": "Liability of Partners",
+            "article_number": "28",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 153,
+            "block_end": 153
+        },
+        "Article 28(2)": {
+            "heading": "Liability of Partners",
+            "article_number": "28",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 154,
+            "block_end": 155
+        },
+        "Article 29": {
+            "heading": "Liability of the General Partnership",
+            "article_number": "29",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 156,
+            "block_end": 157
+        },
+        "Article 30": {
+            "heading": "Safe keeping of money and property",
+            "article_number": "30",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 158,
+            "block_end": 159
+        },
+        "Article 31": {
+            "heading": "Misapplication of money or property",
+            "article_number": "31",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 160,
+            "block_end": 163
+        },
+        "Article 32": {
+            "heading": "Admissions and representations of Partners",
+            "article_number": "32",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 164,
+            "block_end": 165
+        },
+        "Article 33": {
+            "heading": "Notice to Partner",
+            "article_number": "33",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 166,
+            "block_end": 167
+        },
+        "Article 34": {
+            "heading": "Liabilities of incoming and outgoing Partners",
+            "article_number": "34",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 168,
+            "block_end": 170
+        },
+        "Article 34(1)": {
+            "heading": "Liabilities of incoming and outgoing Partners",
+            "article_number": "34",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 169,
+            "block_end": 170
+        },
+        "Article 37": {
+            "heading": "Judgment debt procedure against a Partner",
+            "article_number": "37",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 179,
+            "block_end": 180
+        },
+        "Article 38": {
+            "heading": "Rules in relation to interest",
+            "article_number": "38",
+            "page_start": 12,
+            "page_end": 13,
+            "block_start": 181,
+            "block_end": 190
+        },
+        "Article 39A": {
+            "heading": "Dissolution by expiration or notice",
+            "article_number": "39A",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 193,
+            "block_end": 194
+        },
+        "Article 39A(1)": {
+            "heading": "Dissolution by expiration or notice",
+            "article_number": "39A",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 194,
+            "block_end": 194
+        },
+        "Article 40": {
+            "heading": "Dissolution by bankruptcy, death or charge",
+            "article_number": "40",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 195,
+            "block_end": 196
+        },
+        "Article 40(1)": {
+            "heading": "Dissolution by bankruptcy, death or charge",
+            "article_number": "40",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 196,
+            "block_end": 196
+        },
+        "Article 41": {
+            "heading": "Dissolution by illegality of General Partnership",
+            "article_number": "41",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 197,
+            "block_end": 198
+        },
+        "Article 42": {
+            "heading": "Protection of creditors",
+            "article_number": "42",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 199,
+            "block_end": 200
+        },
+        "Article 42(1)": {
+            "heading": "Protection of creditors",
+            "article_number": "42",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 200,
+            "block_end": 200
+        },
+        "Article 43": {
+            "heading": "Dissolution by the Court",
+            "article_number": "43",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 201,
+            "block_end": 206
+        },
+        "Article 44(1)": {
+            "heading": "Removal of a Partner",
+            "article_number": "44",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 208,
+            "block_end": 208
+        },
+        "Article 45": {
+            "heading": "Outgoing Partners",
+            "article_number": "45",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 209,
+            "block_end": 211
+        },
+        "Article 45(1)": {
+            "heading": "Outgoing Partners",
+            "article_number": "45",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 210,
+            "block_end": 210
+        },
+        "Article 45(2)": {
+            "heading": "Outgoing Partners",
+            "article_number": "45",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 211,
+            "block_end": 211
+        },
+        "Article 46": {
+            "heading": "Where continuance of old terms is presumed",
+            "article_number": "46",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 212,
+            "block_end": 214
+        },
+        "Article 46(1)": {
+            "heading": "Where continuance of old terms is presumed",
+            "article_number": "46",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 213,
+            "block_end": 213
+        },
+        "Article 46(2)": {
+            "heading": "Where continuance of old terms is presumed",
+            "article_number": "46",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 214,
+            "block_end": 214
+        },
+        "Article 47": {
+            "heading": "Rights of assignee of share in General Partnership",
+            "article_number": "47",
+            "page_start": 14,
+            "page_end": 15,
+            "block_start": 215,
+            "block_end": 219
+        },
+        "Article 47(1)(a)": {
+            "heading": "Rights of assignee of share in General Partnership",
+            "article_number": "47",
+            "page_start": 14,
+            "page_end": 15,
+            "block_start": 217,
+            "block_end": 219
+        },
+        "Article 47(1)": {
+            "heading": "Rights of assignee of share in General Partnership",
+            "article_number": "47",
+            "page_start": 14,
+            "page_end": 15,
+            "block_start": 216,
+            "block_end": 219
+        },
+        "Article 48(1)": {
+            "heading": "Rights of persons dealing with General Partnership",
+            "article_number": "48",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 221,
+            "block_end": 222
+        },
+        "Article 50": {
+            "heading": "Rights of Partners as to application of General Partnership Property",
+            "article_number": "50",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 225,
+            "block_end": 229
+        },
+        "Article 51": {
+            "heading": "Apportionment of premium on premature dissolution",
+            "article_number": "51",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 230,
+            "block_end": 231
+        },
+        "Article 52": {
+            "heading": "Rights where General Partnership is dissolved for fraud or misrepresentations",
+            "article_number": "52",
+            "page_start": 15,
+            "page_end": 16,
+            "block_start": 232,
+            "block_end": 236
+        },
+        "Article 54": {
+            "heading": "Outgoing or deceased Partner’s share to be a debt",
+            "article_number": "54",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 239,
+            "block_end": 240
+        },
+        "Article 55": {
+            "heading": "Distribution of assets on final settlement of accounts",
+            "article_number": "55",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 241,
+            "block_end": 243
+        },
+        "Article 56": {
+            "heading": "Postponement of rights of person in case of insolvency",
+            "article_number": "56",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 244,
+            "block_end": 247
+        },
+        "Article 58(1)": {
+            "heading": "Power to make Regulations",
+            "article_number": "58",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 253,
+            "block_end": 253
+        },
+        "Article 58(2)(a)": {
+            "heading": "Power to make Regulations",
+            "article_number": "58",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 255,
+            "block_end": 255
+        },
+        "Article 58(2)": {
+            "heading": "Power to make Regulations",
+            "article_number": "58",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 254,
+            "block_end": 255
+        },
+        "Article 58(3)": {
+            "heading": "Power to make Regulations",
+            "article_number": "58",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 256,
+            "block_end": 257
+        },
+        "Article 58(5)(a)": {
+            "heading": "Power to make Regulations",
+            "article_number": "58",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 259,
+            "block_end": 259
+        },
+        "Article 58(5)": {
+            "heading": "Power to make Regulations",
+            "article_number": "58",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 258,
+            "block_end": 259
+        },
+        "Article 59": {
+            "heading": "Waivers and Modification of the Regulations",
+            "article_number": "59",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 260,
+            "block_end": 261
+        },
+        "Article 60": {
+            "heading": "Public Register",
+            "article_number": "60",
+            "page_start": 18,
+            "page_end": 19,
+            "block_start": 262,
+            "block_end": 265
+        },
+        "Article 60(1)": {
+            "heading": "Public Register",
+            "article_number": "60",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 263,
+            "block_end": 264
+        },
+        "Article 60(3)": {
+            "heading": "Public Register",
+            "article_number": "60",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 265,
+            "block_end": 265
+        },
+        "Article 61": {
+            "heading": "Fees",
+            "article_number": "61",
+            "page_start": 19,
+            "page_end": 20,
+            "block_start": 266,
+            "block_end": 272
+        },
+        "Article 61(1)(a)": {
+            "heading": "Fees",
+            "article_number": "61",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 268,
+            "block_end": 268
+        },
+        "Article 61(1)": {
+            "heading": "Fees",
+            "article_number": "61",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 267,
+            "block_end": 268
+        },
+        "Article 61(2)": {
+            "heading": "Fees",
+            "article_number": "61",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 269,
+            "block_end": 269
+        },
+        "Article 61(3)": {
+            "heading": "Fees",
+            "article_number": "61",
+            "page_start": 19,
+            "page_end": 20,
+            "block_start": 270,
+            "block_end": 272
+        },
+        "Article 1(1)(a)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 275,
+            "block_end": 275
+        },
+        "Article 1(1)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 274,
+            "block_end": 275
+        },
+        "Article 1(2)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 276,
+            "block_end": 276
+        },
+        "Article 1(3)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 277,
+            "block_end": 278
+        },
+        "Article 2": {
+            "heading": "Legislation in the DIFC",
+            "article_number": "2",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 279,
+            "block_end": 281
+        },
+        "Article 3": {
+            "heading": "Defined Terms",
+            "article_number": "3",
+            "page_start": 21,
+            "page_end": 23,
+            "block_start": 282,
+            "block_end": 290
+        }
+    },
+    "section_heading_index": {
+        "2. Title....... ...... 1 Legislative Authority .... ................................................................................................................. .. 1 3. Application of the Law ...................................................................................................................................... 1 4. Date of enactment .. 5. Commencement ................................................................................................................................................. 1 6. Schedules .......................... ................................................................................................................................. 1 7. Administration of the Law ... ................................................................................................................ . 1": [
+            {
+                "heading": "2. Title....... ...... 1 Legislative Authority .... ................................................................................................................. .. 1 3. Application of the Law ...................................................................................................................................... 1 4. Date of enactment .. 5. Commencement ................................................................................................................................................. 1 6. Schedules .......................... ................................................................................................................................. 1 7. Administration of the Law ... ................................................................................................................ . 1",
+                "article_number": "1",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 9,
+                "block_end": 10
+            }
+        ],
+        "Definition of and meaning of General Partnership . .. 2 9. Prohibition . .. 2 10. General Partnership agreement . . 2 11. Presumptions for the existence of a General Partnership.. . 2 12. Registration... .. 2 13. Recognised Partnership.. 3 14. Maintenance of Accounting Records. 3": [
+            {
+                "heading": "Definition of and meaning of General Partnership . .. 2 9. Prohibition . .. 2 10. General Partnership agreement . . 2 11. Presumptions for the existence of a General Partnership.. . 2 12. Registration... .. 2 13. Recognised Partnership.. 3 14. Maintenance of Accounting Records. 3",
+                "article_number": "8",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 11,
+                "block_end": 12
+            }
+        ],
+        "Licence.. .... 4 16. Conduct of Business in the DIFC . ....................................................................................... ... 4 17. Management of the General Partnership.. .................................................................................. .... 4 18. Maintenance of Accounting Records...... ... 4 19. Accounts .. .. 4 20. Records ..... .... 5": [
+            {
+                "heading": "Licence.. .... 4 16. Conduct of Business in the DIFC . ....................................................................................... ... 4 17. Management of the General Partnership.. .................................................................................. .... 4 18. Maintenance of Accounting Records...... ... 4 19. Accounts .. .. 4 20. Records ..... .... 5",
+                "article_number": "15",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 13,
+                "block_end": 14
+            }
+        ],
+        "Accountability of Partners .. 6 22. Duty of Partner not to compete with General Partnership . 6": [
+            {
+                "heading": "Accountability of Partners .. 6 22. Duty of Partner not to compete with General Partnership . 6",
+                "article_number": "21",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 15,
+                "block_end": 17
+            }
+        ],
+        "Power of Partner to bind the General Partnership. . 7 24. Legal person . . 7 25. Partners bound by acts on behalf of General Partnership .. 7 26. Partner using resources of General Partnership for private purposes . . 7 27. Indemnification.. . 7": [
+            {
+                "heading": "Power of Partner to bind the General Partnership. . 7 24. Legal person . . 7 25. Partners bound by acts on behalf of General Partnership .. 7 26. Partner using resources of General Partnership for private purposes . . 7 27. Indemnification.. . 7",
+                "article_number": "23",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 18,
+                "block_end": 19
+            }
+        ],
+        "Liability of Partners ........ ...... 7 29. Liability of the General Partnership.. ... 8 30. Safe keeping of money and property . 31. Misapplication of money or property ................................................................................................ ...... 8 32. Admissions and representations of Partners . 33. Notice to Partner .. ...................................................................................... ... 8 34. Liabilities of incoming and outgoing Partners . .................................................................................... ...... 8": [
+            {
+                "heading": "Liability of Partners ........ ...... 7 29. Liability of the General Partnership.. ... 8 30. Safe keeping of money and property . 31. Misapplication of money or property ................................................................................................ ...... 8 32. Admissions and representations of Partners . 33. Notice to Partner .. ...................................................................................... ... 8 34. Liabilities of incoming and outgoing Partners . .................................................................................... ...... 8",
+                "article_number": "28",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 20,
+                "block_end": 21
+            }
+        ],
+        "Variation by consent of terms of General Partnership . 8": [
+            {
+                "heading": "Variation by consent of terms of General Partnership . 8",
+                "article_number": "35",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 22,
+                "block_end": 23
+            }
+        ],
+        "General Partnership Property.... .. 9 37. Judgment debt procedure against a Partner.. .. 9 38. Rules in relation to interest ... ... 9": [
+            {
+                "heading": "General Partnership Property.... .. 9 37. Judgment debt procedure against a Partner.. .. 9 38. Rules in relation to interest ... ... 9",
+                "article_number": "36",
+                "page_start": 2,
+                "page_end": 3,
+                "block_start": 24,
+                "block_end": 28
+            }
+        ],
+        "Strike off and Restoration . 10 39A. Dissolution by expiration or notice..... ................................................................................ . 10 40. Dissolution by bankruptcy, death or charge....... .................................................................................... .... 10 41. Dissolution by illegality of General Partnership ...... ................................................................................. . 10 42. Protection of creditors... ............................................................................ 10 43. Dissolution by the Court ... ............................................................................. .... 10": [
+            {
+                "heading": "Strike off and Restoration . 10 39A. Dissolution by expiration or notice..... ................................................................................ . 10 40. Dissolution by bankruptcy, death or charge....... .................................................................................... .... 10 41. Dissolution by illegality of General Partnership ...... ................................................................................. . 10 42. Protection of creditors... ............................................................................ 10 43. Dissolution by the Court ... ............................................................................. .... 10",
+                "article_number": "39",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 29,
+                "block_end": 30
+            }
+        ],
+        "Removal of a Partner ...... . 11 45. Outgoing Partners ... . 11 46. Where continuance of old terms is presumed . . 11 47. Rights of assignee of share in General Partnership. . 11": [
+            {
+                "heading": "Removal of a Partner ...... . 11 45. Outgoing Partners ... . 11 46. Where continuance of old terms is presumed . . 11 47. Rights of assignee of share in General Partnership. . 11",
+                "article_number": "44",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 31,
+                "block_end": 32
+            }
+        ],
+        "Rights of persons dealing with General Partnership . . 12": [
+            {
+                "heading": "Rights of persons dealing with General Partnership . . 12",
+                "article_number": "48",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 33,
+                "block_end": 34
+            }
+        ],
+        "Continuing authority of Partners for purposes of winding up... . 12 50. Rights of Partners as to application of General Partnership Property ... . 12 51. Apportionment of premium on premature dissolution.. 12 52. Rights where General Partnership is dissolved for fraud or misrepresentations.. . 12": [
+            {
+                "heading": "Continuing authority of Partners for purposes of winding up... . 12 50. Rights of Partners as to application of General Partnership Property ... . 12 51. Apportionment of premium on premature dissolution.. 12 52. Rights where General Partnership is dissolved for fraud or misrepresentations.. . 12",
+                "article_number": "49",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 35,
+                "block_end": 36
+            }
+        ],
+        "Right of\\` outgoing Partner in certain cases to share profits made after dissolution . . 13 54. Outgoing or deceased Partner’s share to be a debt . . 13 55. Distribution of assets on final settlement of accounts... 13 56. Postponement of rights of person in case of insolvency . . 13": [
+            {
+                "heading": "Right of\\` outgoing Partner in certain cases to share profits made after dissolution . . 13 54. Outgoing or deceased Partner’s share to be a debt . . 13 55. Distribution of assets on final settlement of accounts... 13 56. Postponement of rights of person in case of insolvency . . 13",
+                "article_number": "53",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 37,
+                "block_end": 38
+            }
+        ],
+        "Application of Operating Law ..... .. 14": [
+            {
+                "heading": "Application of Operating Law ..... .. 14",
+                "article_number": "57",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 39,
+                "block_end": 40
+            }
+        ],
+        "Power to make Regulations ...... . 15 59. Waivers and Modification of the Regulations . . 15 60. Public Register. . 15 61. Fees.. . 16": [
+            {
+                "heading": "Power to make Regulations ...... . 15 59. Waivers and Modification of the Regulations . . 15 60. Public Register. . 15 61. Fees.. . 16",
+                "article_number": "58",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 41,
+                "block_end": 56
+            }
+        ],
+        "Schedules": [
+            {
+                "heading": "Schedules",
+                "article_number": "6",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 57,
+                "block_end": 60
+            }
+        ],
+        "Administration of the Law": [
+            {
+                "heading": "Administration of the Law",
+                "article_number": "7",
+                "page_start": 4,
+                "page_end": 5,
+                "block_start": 61,
+                "block_end": 65
+            }
+        ],
+        "Definition of and meaning of General Partnership": [
+            {
+                "heading": "Definition of and meaning of General Partnership",
+                "article_number": "8",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 66,
+                "block_end": 67
+            }
+        ],
+        "Prohibition": [
+            {
+                "heading": "Prohibition",
+                "article_number": "9",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 68,
+                "block_end": 70
+            }
+        ],
+        "General Partnership agreement": [
+            {
+                "heading": "General Partnership agreement",
+                "article_number": "10",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 71,
+                "block_end": 72
+            }
+        ],
+        "Presumptions for the existence of a General Partnership": [
+            {
+                "heading": "Presumptions for the existence of a General Partnership",
+                "article_number": "11",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 73,
+                "block_end": 75
+            }
+        ],
+        "Registration": [
+            {
+                "heading": "Registration",
+                "article_number": "12",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 76,
+                "block_end": 85
+            }
+        ],
+        "Recognised Partnership": [
+            {
+                "heading": "Recognised Partnership",
+                "article_number": "13",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 86,
+                "block_end": 92
+            }
+        ],
+        "Maintenance of Accounting Records": [
+            {
+                "heading": "Maintenance of Accounting Records",
+                "article_number": "14",
+                "page_start": 6,
+                "page_end": 7,
+                "block_start": 93,
+                "block_end": 100
+            },
+            {
+                "heading": "Maintenance of Accounting Records",
+                "article_number": "18",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 108,
+                "block_end": 112
+            }
+        ],
+        "Licence": [
+            {
+                "heading": "Licence",
+                "article_number": "15",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 101,
+                "block_end": 102
+            }
+        ],
+        "Conduct of Business in the DIFC": [
+            {
+                "heading": "Conduct of Business in the DIFC",
+                "article_number": "16",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 103,
+                "block_end": 104
+            }
+        ],
+        "Management of the General Partnership": [
+            {
+                "heading": "Management of the General Partnership",
+                "article_number": "17",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 105,
+                "block_end": 107
+            }
+        ],
+        "Accounts": [
+            {
+                "heading": "Accounts",
+                "article_number": "19",
+                "page_start": 7,
+                "page_end": 8,
+                "block_start": 113,
+                "block_end": 120
+            }
+        ],
+        "Records": [
+            {
+                "heading": "Records",
+                "article_number": "20",
+                "page_start": 8,
+                "page_end": 9,
+                "block_start": 121,
+                "block_end": 125
+            }
+        ],
+        "Accountability of Partners": [
+            {
+                "heading": "Accountability of Partners",
+                "article_number": "21",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 126,
+                "block_end": 128
+            }
+        ],
+        "Duty of Partner not to compete with General Partnership": [
+            {
+                "heading": "Duty of Partner not to compete with General Partnership",
+                "article_number": "22",
+                "page_start": 9,
+                "page_end": 10,
+                "block_start": 129,
+                "block_end": 137
+            }
+        ],
+        "Power of Partner to bind the General Partnership": [
+            {
+                "heading": "Power of Partner to bind the General Partnership",
+                "article_number": "23",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 138,
+                "block_end": 142
+            }
+        ],
+        "Legal person": [
+            {
+                "heading": "Legal person",
+                "article_number": "24",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 143,
+                "block_end": 144
+            }
+        ],
+        "Partners bound by acts on behalf of General Partnership": [
+            {
+                "heading": "Partners bound by acts on behalf of General Partnership",
+                "article_number": "25",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 145,
+                "block_end": 146
+            }
+        ],
+        "Partner using resources of General Partnership for private purposes": [
+            {
+                "heading": "Partner using resources of General Partnership for private purposes",
+                "article_number": "26",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 147,
+                "block_end": 148
+            }
+        ],
+        "Indemnification": [
+            {
+                "heading": "Indemnification",
+                "article_number": "27",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 149,
+                "block_end": 151
+            }
+        ],
+        "Liability of Partners": [
+            {
+                "heading": "Liability of Partners",
+                "article_number": "28",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 152,
+                "block_end": 155
+            }
+        ],
+        "Liability of the General Partnership": [
+            {
+                "heading": "Liability of the General Partnership",
+                "article_number": "29",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 156,
+                "block_end": 157
+            }
+        ],
+        "Safe keeping of money and property": [
+            {
+                "heading": "Safe keeping of money and property",
+                "article_number": "30",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 158,
+                "block_end": 159
+            }
+        ],
+        "Misapplication of money or property": [
+            {
+                "heading": "Misapplication of money or property",
+                "article_number": "31",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 160,
+                "block_end": 163
+            }
+        ],
+        "Admissions and representations of Partners": [
+            {
+                "heading": "Admissions and representations of Partners",
+                "article_number": "32",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 164,
+                "block_end": 165
+            }
+        ],
+        "Notice to Partner": [
+            {
+                "heading": "Notice to Partner",
+                "article_number": "33",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 166,
+                "block_end": 167
+            }
+        ],
+        "Liabilities of incoming and outgoing Partners": [
+            {
+                "heading": "Liabilities of incoming and outgoing Partners",
+                "article_number": "34",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 168,
+                "block_end": 170
+            }
+        ],
+        "Variation by consent of terms of General Partnership": [
+            {
+                "heading": "Variation by consent of terms of General Partnership",
+                "article_number": "35",
+                "page_start": 11,
+                "page_end": 12,
+                "block_start": 171,
+                "block_end": 175
+            }
+        ],
+        "General Partnership Property": [
+            {
+                "heading": "General Partnership Property",
+                "article_number": "36",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 176,
+                "block_end": 178
+            }
+        ],
+        "Judgment debt procedure against a Partner": [
+            {
+                "heading": "Judgment debt procedure against a Partner",
+                "article_number": "37",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 179,
+                "block_end": 180
+            }
+        ],
+        "Rules in relation to interest": [
+            {
+                "heading": "Rules in relation to interest",
+                "article_number": "38",
+                "page_start": 12,
+                "page_end": 13,
+                "block_start": 181,
+                "block_end": 190
+            }
+        ],
+        "Strike off and Restoration": [
+            {
+                "heading": "Strike off and Restoration",
+                "article_number": "39",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 191,
+                "block_end": 192
+            }
+        ],
+        "Dissolution by expiration or notice": [
+            {
+                "heading": "Dissolution by expiration or notice",
+                "article_number": "39A",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 193,
+                "block_end": 194
+            }
+        ],
+        "Dissolution by bankruptcy, death or charge": [
+            {
+                "heading": "Dissolution by bankruptcy, death or charge",
+                "article_number": "40",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 195,
+                "block_end": 196
+            }
+        ],
+        "Dissolution by illegality of General Partnership": [
+            {
+                "heading": "Dissolution by illegality of General Partnership",
+                "article_number": "41",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 197,
+                "block_end": 198
+            }
+        ],
+        "Protection of creditors": [
+            {
+                "heading": "Protection of creditors",
+                "article_number": "42",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 199,
+                "block_end": 200
+            }
+        ],
+        "Dissolution by the Court": [
+            {
+                "heading": "Dissolution by the Court",
+                "article_number": "43",
+                "page_start": 13,
+                "page_end": 14,
+                "block_start": 201,
+                "block_end": 206
+            }
+        ],
+        "Removal of a Partner": [
+            {
+                "heading": "Removal of a Partner",
+                "article_number": "44",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 207,
+                "block_end": 208
+            }
+        ],
+        "Outgoing Partners": [
+            {
+                "heading": "Outgoing Partners",
+                "article_number": "45",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 209,
+                "block_end": 211
+            }
+        ],
+        "Where continuance of old terms is presumed": [
+            {
+                "heading": "Where continuance of old terms is presumed",
+                "article_number": "46",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 212,
+                "block_end": 214
+            }
+        ],
+        "Rights of assignee of share in General Partnership": [
+            {
+                "heading": "Rights of assignee of share in General Partnership",
+                "article_number": "47",
+                "page_start": 14,
+                "page_end": 15,
+                "block_start": 215,
+                "block_end": 219
+            }
+        ],
+        "Rights of persons dealing with General Partnership": [
+            {
+                "heading": "Rights of persons dealing with General Partnership",
+                "article_number": "48",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 220,
+                "block_end": 222
+            }
+        ],
+        "Continuing authority of Partners for purposes of winding up": [
+            {
+                "heading": "Continuing authority of Partners for purposes of winding up",
+                "article_number": "49",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 223,
+                "block_end": 224
+            }
+        ],
+        "Rights of Partners as to application of General Partnership Property": [
+            {
+                "heading": "Rights of Partners as to application of General Partnership Property",
+                "article_number": "50",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 225,
+                "block_end": 229
+            }
+        ],
+        "Apportionment of premium on premature dissolution": [
+            {
+                "heading": "Apportionment of premium on premature dissolution",
+                "article_number": "51",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 230,
+                "block_end": 231
+            }
+        ],
+        "Rights where General Partnership is dissolved for fraud or misrepresentations": [
+            {
+                "heading": "Rights where General Partnership is dissolved for fraud or misrepresentations",
+                "article_number": "52",
+                "page_start": 15,
+                "page_end": 16,
+                "block_start": 232,
+                "block_end": 236
+            }
+        ],
+        "Right of\\` outgoing Partner in certain cases to share profits made after dissolution": [
+            {
+                "heading": "Right of\\` outgoing Partner in certain cases to share profits made after dissolution",
+                "article_number": "53",
+                "page_start": 16,
+                "page_end": 16,
+                "block_start": 237,
+                "block_end": 238
+            }
+        ],
+        "Outgoing or deceased Partner’s share to be a debt": [
+            {
+                "heading": "Outgoing or deceased Partner’s share to be a debt",
+                "article_number": "54",
+                "page_start": 16,
+                "page_end": 16,
+                "block_start": 239,
+                "block_end": 240
+            }
+        ],
+        "Distribution of assets on final settlement of accounts": [
+            {
+                "heading": "Distribution of assets on final settlement of accounts",
+                "article_number": "55",
+                "page_start": 16,
+                "page_end": 16,
+                "block_start": 241,
+                "block_end": 243
+            }
+        ],
+        "Postponement of rights of person in case of insolvency": [
+            {
+                "heading": "Postponement of rights of person in case of insolvency",
+                "article_number": "56",
+                "page_start": 16,
+                "page_end": 17,
+                "block_start": 244,
+                "block_end": 247
+            }
+        ],
+        "Application of Operating Law": [
+            {
+                "heading": "Application of Operating Law",
+                "article_number": "57",
+                "page_start": 17,
+                "page_end": 18,
+                "block_start": 248,
+                "block_end": 251
+            }
+        ],
+        "Power to make Regulations": [
+            {
+                "heading": "Power to make Regulations",
+                "article_number": "58",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 252,
+                "block_end": 259
+            }
+        ],
+        "Waivers and Modification of the Regulations": [
+            {
+                "heading": "Waivers and Modification of the Regulations",
+                "article_number": "59",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 260,
+                "block_end": 261
+            }
+        ],
+        "Public Register": [
+            {
+                "heading": "Public Register",
+                "article_number": "60",
+                "page_start": 18,
+                "page_end": 19,
+                "block_start": 262,
+                "block_end": 265
+            }
+        ],
+        "Fees": [
+            {
+                "heading": "Fees",
+                "article_number": "61",
+                "page_start": 19,
+                "page_end": 20,
+                "block_start": 266,
+                "block_end": 272
+            }
+        ],
+        "Rules of interpretation": [
+            {
+                "heading": "Rules of interpretation",
+                "article_number": "1",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 273,
+                "block_end": 278
+            }
+        ],
+        "Legislation in the DIFC": [
+            {
+                "heading": "Legislation in the DIFC",
+                "article_number": "2",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 279,
+                "block_end": 281
+            }
+        ],
+        "Defined Terms": [
+            {
+                "heading": "Defined Terms",
+                "article_number": "3",
+                "page_start": 21,
+                "page_end": 23,
+                "block_start": 282,
+                "block_end": 290
+            }
+        ]
+    }
+}

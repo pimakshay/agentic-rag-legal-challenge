@@ -1,0 +1,2020 @@
+[
+    {
+        "type": "text",
+        "text": "Dubai International Financial Centre ",
+        "text_level": 1,
+        "bbox": [
+            299,
+            371,
+            781,
+            503
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 1 March 2017 ",
+        "bbox": [
+            210,
+            580,
+            796,
+            654
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED COMPANIES LAW DIFC LAW NO 3. OF 2017 ",
+        "bbox": [
+            212,
+            699,
+            799,
+            773
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 1 ",
+        "text_level": 1,
+        "bbox": [
+            345,
+            78,
+            664,
+            98
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PROPOSALS RELATING TO A NEW COMPANIES LAW ",
+        "text_level": 1,
+        "bbox": [
+            220,
+            103,
+            791,
+            123
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Why are we issuing this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            156,
+            358,
+            173
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The Dubai International Financial Centre Authority (“DIFCA”) proposes to enhance the current Companies Law regime (found in the Companies Law, DIFC Law No. 2 of 2009 (the “Current Law”) and the Companies Regulations 1 ) to bring that regime in line with international best practice. In doing so, we have taken into account specific factors relating to the Dubai International Financial Centre (“DIFC”) and the need to provide an appropriate regulatory environment for companies to do business in or from the DIFC. This Consultation Paper No. 1 (“Consultation Paper”) seeks public comments on the proposed new Companies Law (the “Proposed Law”). ",
+        "bbox": [
+            95,
+            186,
+            920,
+            363
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. In addition to the provisions relating to DIFC incorporated companies and foreign companies, the Proposed Law also contains provisions relating to the powers of the Registrar of Companies, including those relating to other legislation administered by him (such as the partnership laws2, the Non Profit Incorporated Organisations Law, DIFC Law No. 6 of 2012 and their related regulations). ",
+        "bbox": [
+            92,
+            381,
+            920,
+            490
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. At this stage, the current legislative proposal does not include a draft of the new Companies Regulations that will be issued pursuant to the Proposed Law. DIFCA proposes to seek public comment on the proposed draft of the new Companies Regulations following consideration of public comments on the Proposed Law. ",
+        "bbox": [
+            94,
+            508,
+            920,
+            595
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Who should read this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            617,
+            336,
+            634
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. This Consultation Paper would be of interest to persons conducting or proposing to conduct business in the DIFC. In particular: ",
+        "bbox": [
+            94,
+            648,
+            811,
+            688
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) Companies;   \n(b) Recognised Companies (i.e. foreign companies undertaking business activities from a place of business in the DIFC);   \n(c) partnerships incorporated or registered under any legislation administered by the Registrar;   \n(d) officers and employees of Companies and Recognised Companies, such as directors, company secretaries, compliance officers, partners, senior executive officers of companies and partnerships;   \n(e) shareholders and creditors of companies;   \n(f) legal advisors;   \n(g) auditors undertaking company audits; and   \n(h) persons conducting commercial activities in or from the DIFC. ",
+        "bbox": [
+            154,
+            707,
+            919,
+            786
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The DIFC enacted its first Companies Law and Companies Regulations in 2004, which governs the formation, registration and administration of companies in the DIFC. In 2006, the DIFC repealed and substituted the 2004 Companies Law and Regulations with the Companies Law, DIFC Law No. 3 of 2006. In 2009 the DIFC enacted the Current Law and the Companies Regulations replacing the 2006 Companies Law and Regulations. ",
+        "bbox": [
+            94,
+            823,
+            917,
+            894
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Limited Liability Partnership Law, DIFC Law No. 5 of 2004; General Partnership Laws, DIFC Law No. 11 of 2004; and Limited Partnership Law, DIFC Law No. 4 of 2006. ",
+        "bbox": [
+            97,
+            906,
+            914,
+            934
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            890,
+            954,
+            902,
+            964
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How to provide comments ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            371,
+            314,
+            387
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. DIFCA invites interested parties to provide their views and comments on the issues outlined in the Consultation Paper, using the table of comments provided in Annex E. ",
+        "bbox": [
+            104,
+            402,
+            920,
+            444
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. All comments should be provided to the person specified below: ",
+        "bbox": [
+            87,
+            461,
+            688,
+            479
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates   \nor e-mailed to: consultation@difc.ae ",
+        "bbox": [
+            153,
+            497,
+            483,
+            629
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. You may choose to identify the organisation you represent in your comments. ",
+        "bbox": [
+            89,
+            648,
+            799,
+            666
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "bbox": [
+            94,
+            685,
+            920,
+            725
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "What happens next? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            748,
+            269,
+            764
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9. The deadline for providing comments on the proposals in this Consultation Paper is 19 June 2017. ",
+        "bbox": [
+            87,
+            779,
+            917,
+            819
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. Once we receive your comments, we will consider if any further refinements are required to the Proposed Law annexed to this Consultation Paper at Annex A. Once DIFCA considers the Proposed Law to be in a suitable form, it will be enacted as a new DIFC law to come in to force on a date specified and published. ",
+        "bbox": [
+            94,
+            838,
+            922,
+            925
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            890,
+            953,
+            904,
+            965
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11. The Proposed Law is in draft form only. You should not act on it until the Proposed Law is formally enacted. We will issue a notice on our website when this happens. ",
+        "bbox": [
+            94,
+            78,
+            919,
+            119
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            142,
+            215,
+            157
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "12. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase and are defined in the Proposed Law. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "bbox": [
+            94,
+            172,
+            920,
+            258
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            281,
+            198,
+            299
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "13. The proposal to replace the Current Law with the Proposed Law stems from a comprehensive review of the Current Law. In undertaking that review, we considered international best practice and comparable models in other jurisdictions, focusing specifically on the United Kingdom (“UK”) and Jersey, which the current regime is substantially premised. ",
+        "bbox": [
+            94,
+            312,
+            920,
+            421
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14. We also considered the standards set by international standard setting bodies, such as the Organisation for Economic Co-operation and Development (“OECD”) and Financial Action Task Force on Money Laundering (“FATF”), so far as they are relevant to the DIFC or have an impact on the companies in the DIFC. The Proposed Law attempts to balance the needs of the DIFC to provide flexibility and proportionate regulation that enable businesses in the DIFC to thrive, while also safeguarding the integrity and reputation of the DIFC as a global financial centre. ",
+        "bbox": [
+            94,
+            439,
+            920,
+            592
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key changes proposed ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            609,
+            291,
+            625
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15. The Proposed Law contains significant enhancements and refinements to the current regime to promote better shareholder and creditor protection, whilst also providing greater certainty and flexibility for companies. The key aspects of the proposals include: ",
+        "bbox": [
+            95,
+            640,
+            920,
+            703
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) a new classification of companies – see paragraphs 16 – 25;   \n(b) enhanced directors’ duties – see paragraphs 26 – 30;   \n(c) new mergers and schemes of arrangements provisions – see paragraphs 31 – 33;   \n(d) enhancements to company accounting and audit requirements – see paragraphs 34 – 37;   \n(e) enhancements to the Registrar’s powers – see paragraphs 38 – 53;   \n(f) disclosure of beneficial ownership of companies – see paragraphs 54 – 56; ",
+        "bbox": [
+            151,
+            720,
+            919,
+            947
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            890,
+            954,
+            904,
+            964
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(g) whistle-blower protection – see paragraphs 57 – 59; and (h) miscellaneous enhancement – see paragraph 60. ",
+        "bbox": [
+            153,
+            78,
+            686,
+            134
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The proposed new classification of Companies as Public and Private Companies ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            149,
+            782,
+            166
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "16. The Current Law does not draw a distinction between public and private companies, which is a standard practice internationally.3 Instead, it has 3 types of companies: ",
+        "bbox": [
+            95,
+            180,
+            920,
+            222
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) Companies Limited by Shares;   \n(b) Limited Liability Companies (LLCs); and   \n(c) Recognised Companies (i.e. foreign companies undertaking business activities from a place of business in the DIFC). ",
+        "bbox": [
+            153,
+            238,
+            920,
+            355
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "17. Under the Proposed Law, we propose to distinguish between: ",
+        "bbox": [
+            94,
+            372,
+            670,
+            390
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) Public Companies;   \n(b) Private Companies; and   \n(c) Recognised Companies, i.e. companies registered outside the DIFC but have a place of business (a branch) in the DIFC (which are the same as under the current regime noted under paragraph 16(c) above). ",
+        "bbox": [
+            153,
+            408,
+            920,
+            546
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Public & Private Company distinction ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            564,
+            430,
+            583
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "18. Both Public and Private Companies have separate legal personality from their shareholders, and have the liability of their shareholders limited to the nominal value of the shares for which they have subscribed. ",
+        "bbox": [
+            94,
+            600,
+            919,
+            665
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "19. Under the Proposed Law, the defining features of a Public Company, which distinguishes it from a Private Company, are that a Public Company: ",
+        "bbox": [
+            95,
+            684,
+            920,
+            724
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) could offer its shares to the public; and (b) could have any number of shareholders. ",
+        "bbox": [
+            153,
+            743,
+            538,
+            798
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In contrast, a Private Company is prohibited from offering its shares to the public (instead, it could only seek subscription through a private placement of shares),4 and could only have a maximum of fifty (50) shareholders. ",
+        "bbox": [
+            154,
+            815,
+            919,
+            880
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            42,
+            917,
+            58
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 For example, the United Kingdom, Australia, Hong Kong, Singapore and Jersey. ",
+        "bbox": [
+            94,
+            918,
+            718,
+            935
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            890,
+            953,
+            904,
+            965
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "20. The rationale for introducing the ‘public’ and ‘private’ distinction is to provide a proportionate level of regulation, as is the common practice in most jurisdictions, so that a Public Company, which is permitted to seek investment from the public, attracts a more stringent level of regulation than Private Companies, which do not solicit public investments, and are companies with a smaller number of equity (share) holders. Accordingly, a Public Company is required to: ",
+        "bbox": [
+            94,
+            78,
+            919,
+            209
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) have at least 2 directors and a company secretary, in contrast to a Private Company which is required to have only one director and is not required to have a company secretary;   \n(b) hold an Annual General Meeting every year, in contrast to a Private Company which is not so required;   \n(c) have more stringent audit and reporting relating to its annual accounts (see paragraph 33 below);   \n(d) have more stringent controls relating to the issue of shares for non-cash consideration, compared to Private Companies;5   \n(e) comply with an outright prohibition against providing financial assistance to any person to acquire shares in the company, which does not apply to a Private Company, unless it is a subsidiary of a Public Company; 6   \n(f) comply with more stringent procedures for reduction of its share capital, than Private Companies; and 7   \n(g) have an annual directors’ report setting out, among other things, the performance of the company during the year, which must be included in the company’s annual report, 8 which Private Companies are not required to have. ",
+        "bbox": [
+            146,
+            228,
+            922,
+            694
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. This distinction provides greater business flexibility for companies to do business, so that they can choose the level of regulation which would most suit the activities of the company, whilst providing investors and creditors of Public Companies, a higher level of transparency and accountability by those managing the affairs of such companies, especially their directors.9 ",
+        "bbox": [
+            94,
+            711,
+            917,
+            751
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 A private placement differs from a Public Offer in that the former is made privately to persons known to initial subscribers or existing shareholders, whereas a Public Offer involves an offering which is made to the public at large. Such an offer would generally require a prospectus. In relation to Public Companies, DIFCA proposes to rely on the prospectus regime applicable to listed companies established in the DIFC, which is administered by the Dubai Financial Services Authority. This would be reflected in the Companies Regulations which are being developed. 5 See Articles 45 and 46 of the Proposed Law. 6 See Article 63 of the Proposed Law. 7 See Chapter 7 of Part 6 of the Proposed Law, which contains more detailed and comprehensive provisions than under the Current Law relating to reduction of share capital, in line with the UK regime. 8 See Article 133 of the Proposed Law. ",
+        "bbox": [
+            92,
+            782,
+            914,
+            934
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            890,
+            954,
+            902,
+            964
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Retention of the current Recognised Companies regime ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            160,
+            594,
+            178
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "22. We propose to retain the current Recognised Companies regime under the Proposed Law. Recognised Companies are foreign companies which are permitted to conduct business activities from a place of business in the DIFC (i.e. to have a branch office in the DIFC), whilst remaining substantially regulated under the regime in their home jurisdiction. This provides greater flexibility for foreign companies to do business in or from the DIFC, without having to establish a separate subsidiary in the DIFC. Existing Recognised Companies will be grandfathered into the new regime, and the applicable requirements would continue to be substantially the same as under the Current Law.10 ",
+        "bbox": [
+            95,
+            197,
+            920,
+            372
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Proposed removal of Limited Liability Companies ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            391,
+            538,
+            409
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "23. The Proposed Law proposes to remove Limited Liability Companies (“LLC”s). LLCs, like companies limited by shares, have limited liability and separate legal personality, however, they do not necessarily have their members’ rights represented by securities (e.g. stocks or shares) issued by the company. ",
+        "bbox": [
+            94,
+            428,
+            920,
+            514
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "24. LLCs were introduced to cater for small limited liability companies which wished to conduct their business under a lighter regime than applicable to Companies Limited by Shares. We propose to remove the LLC regime as it would become redundant due to a number of reasons: ",
+        "bbox": [
+            94,
+            533,
+            920,
+            617
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) First, the Limited Liability Partnership (“LLP”) Law already caters to the needs of small business of the type generally conducted by LLCs, where partners have limited liability and the right to participate in the business of the partnership;   \n(b) Secondly and more importantly, the Proposed Law provides for the establishment of Private Companies, which:   \n(i) attract a lighter regulatory regime than Public Companies, with even lighter accounting and reporting requirements, if the company is a ‘small Private’ Company;11   \n(ii) substantially mirror the requirements currently applicable to LLCs, with a few exceptions.12 ",
+        "bbox": [
+            148,
+            636,
+            920,
+            761
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "9 However, directors’ duties under the Proposed Law apply to both Public Companies and Private Companies. 10 See Part 12 of the Proposed Law. ",
+        "bbox": [
+            94,
+            891,
+            836,
+            934
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            892,
+            953,
+            902,
+            964
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Transitional Arrangements for LLCs ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            219,
+            417,
+            237
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "25. To ensure a smooth transition for existing LLCs into the new regime, appropriate transitional arrangements will be included in the new Companies Regulations. These arrangements will provide flexibility for existing LLCs to convert to Public or Private Companies (or become LLPs if needed), depending on whether they meet the relevant criteria for such companies, through a grandfathering scheme, with minimum procedures to be followed by existing LLCs, as they are existing DIFC companies. ",
+        "bbox": [
+            94,
+            256,
+            920,
+            388
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Q1. Do you have any concerns about the proposed reclassification of companies into Public and Private Companies? If so, what are they, and how should they be addressed?   \nQ2. Are there any issues or concerns to be addressed relating to Recognised Companies? If so, what are they, and how should they be addressed?   \nQ3. Do you have any concerns about the proposed abolition of Limited Liability Companies? If so, what are they, and how should they be addressed?   \nQ4. Are there any issues that need to be addressed relating to the transition of existing LLCs into the new regime as Public or Private Companies? If so, what are they, and how should they be addressed? ",
+        "bbox": [
+            89,
+            406,
+            924,
+            674
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Enhanced directors’ duties ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            722,
+            319,
+            737
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "26. The proposed directors’ duties, reflecting the UK provisions, significantly expand the current regime and include seven discrete aspects: ",
+        "bbox": [
+            92,
+            752,
+            919,
+            792
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) the duty to act within powers conferred by the company’s constituent documents;13 ",
+        "bbox": [
+            151,
+            811,
+            900,
+            830
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "11 See paragraph 36(b)(b) of the Proposed Law. 12 For example, LLC’s can appoint Managers, whereas a Private Company needs at least one director to manage its business, with the flexibility to appoint as many directors as needed – with directors’ duties attaching to them. ",
+        "bbox": [
+            94,
+            877,
+            887,
+            934
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            890,
+            954,
+            902,
+            964
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(b) the duty to promote the success of the company;14   \n(c) the duty to exercise independent judgement;15   \n(d) the duty to exercise reasonable care, skill and diligence;16   \n(e) the duty to avoid conflicts of interests;17   \n(f) the duty not to accept gifts from third parties capable of creating a conflict of interest;18 and   \n(g) the duty to declare interest in a proposed or existing transaction or arrangement.19 ",
+        "bbox": [
+            153,
+            78,
+            924,
+            304
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "27. The above duties are owed by the directors of a company to the company itself. The company, its shareholders or creditors, or the DIFC Registrar of Companies (the Registrar), can initiate court proceedings against any director contravening one or more of those duties, and the court has wide power to make appropriate orders, including remedial, compensatory and punitive orders. ",
+        "bbox": [
+            92,
+            321,
+            919,
+            429
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "28. The proposed approach relating to enforcement of directors’ duties is the same as under the Current Law, which is to leave it to the court through private action, rather than the Registrar having to use its administrative powers to enforce those duties (note the Registrar itself in certain cases could apply to the court for appropriate relief).20 This approach is adopted because it is consistent with the approach adopted in many jurisdictions, which recognises that given the complexity of issues that can arise, a court is better equipped to address such matters than a corporate regulator. ",
+        "bbox": [
+            92,
+            448,
+            920,
+            602
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "29. The proposed directors’ duties expand the current regime by providing more discrete duties applicable to directors when managing affairs of a company, which, in combination, provide a comprehensive suite. Each duty is separate, and in any given situation more than one duty can apply,21 with the necessary corollary that each duty can also be enforced alone, or in conjunction with any other applicable duties. As these directors’ duties closely follow the UK regime, the UK jurisprudence relating to the interpretation of these duties could be resorted to, if needed. ",
+        "bbox": [
+            94,
+            621,
+            920,
+            775
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "13 Article 77 of the Proposed Law. 14 Article 78 of the Proposed Law. 15 Article 79 of the Proposed Law. 16 Article 80 of the Proposed Law. 17 Article 81 of the Proposed Law. 18 Article 82 of the Proposed Law. 19 Article 83 of the Proposed Law. 20 See for example, Article 92 of the Proposed Law. 21 Article 76(3) of the Proposed Law. ",
+        "bbox": [
+            92,
+            808,
+            488,
+            935
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            890,
+            954,
+            904,
+            964
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "30. There are some aspects of other countries’ provisions which we have not included in the Proposed Law, mainly to ensure that the simplicity and ease of administration of the DIFC Companies Law regime is maintained in the Proposed Law. For example: ",
+        "bbox": [
+            94,
+            78,
+            919,
+            142
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) the concept of ‘shadow directors’ – found in the UK regime,22 which extends some of the directors’ duties to individuals on whose directions or instructions the directors of the company are accustomed to act. We did not think it necessary to include this concept expressly, given that not many jurisdictions use it and the complexities its inclusion would create for the DIFC regime; ",
+        "bbox": [
+            153,
+            160,
+            919,
+            269
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(b) the ‘business judgement’ rule – which is found under the US and Australian regimes. This rule acts as a defence against allegations that directors have breached their directors’ duties, by creating a statutory presumption that directors of companies have acted on an informed basis, in good faith and in the honest belief that the decisions they made (or action they took) was in the best interest of the corporation and its shareholders. A court will not substitute its own judgement, over that of the judgement of the directors (or the board), even though in hind sight, the decision proves not to be the right or most advantageous decision for the company and its shareholders; and ",
+        "bbox": [
+            151,
+            287,
+            920,
+            485
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(c) the ‘corporate director’ concept – which is found under the UK regime, which allows both individuals and corporations to act as directors. ",
+        "bbox": [
+            146,
+            504,
+            914,
+            546
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Q5. Are there any concerns in relation to the proposed directors’ duties? If so, what are they, and how should they be addressed?   \nQ6. Do you have any concerns about our approach not to include in the Proposed Law the concept of ‘shadow directors’, the ‘business judgement rule’ and the provisions for corporate directors? If so, what are they, and how should they be addressed?   \nQ7. Are there any other aspects relating to directors’ duties which should also be included in the Proposed Law? What are they, and why should they be included? ",
+        "bbox": [
+            124,
+            566,
+            927,
+            773
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "22 Section 251 of the UK Companies Act 2006. ",
+        "bbox": [
+            94,
+            919,
+            451,
+            934
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            893,
+            953,
+            912,
+            964
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "New mergers and schemes of arrangements provisions ",
+        "bbox": [
+            90,
+            811,
+            557,
+            830
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "31. The proposed merger provisions 23 are modelled on the Jersey regime, which are less detailed than under the UK regime, and considered more appropriate for the DIFC given the stage of development of the DIFC markets. They provide for Public Companies established in the DIFC to merge with other companies, including those established in jurisdictions outside the DIFC. ",
+        "bbox": [
+            94,
+            77,
+            919,
+            186
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "32. The proposed provisions, dealing with compromises and arrangements (e.g. company reconstructions),24 are also modelled on the Jersey regime for similar reasons. However, unlike the proposed merger provisions, the proposed provisions for compromises and arrangements apply to both Public and Private Companies.25 ",
+        "bbox": [
+            94,
+            205,
+            919,
+            290
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "33. Both sets of proposed provisions provide a balanced approach to regulating mergers and schemes of arrangements, with proportionate regulation of such activities for DIFC companies. ",
+        "bbox": [
+            94,
+            309,
+            919,
+            372
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Q8. Should the proposed merger provisions only apply to Public Companies? If so, what are your reasons?   \nQ9. Are there any concerns relating to the proposed merger provisions? If so, what are they, and how should they be addressed?   \nQ10. Are there any concerns relating to the proposed compromises and arrangements provisions? What are they and how should they be addressed? ",
+        "bbox": [
+            127,
+            394,
+            922,
+            555
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Enhancements relating to company accounting and audit requirements ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            595,
+            685,
+            612
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "34. The Proposed Law retains the current regime relating to company accounts, reporting and audit requirements substantially in the same form, with one significant enhancement. Subject to that enhancement, all Companies registered in the DIFC under the Proposed Law, i.e. both Public and Private, continue to be subject to the requirements to: ",
+        "bbox": [
+            94,
+            625,
+            920,
+            712
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) prepare annual accounts in accordance with accepted international financial reporting standards prescribed or approved by the Registrar;   \n(b) have such accounts approved by its directors and examined and reported by an auditor within six months of the end of the company’s financial year; ",
+        "bbox": [
+            153,
+            730,
+            919,
+            831
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "23 See Articles 113 – 126 of the Proposed Law.(check numbering as some provisions are to move to regulations) 24 See Articles 124 – 126 of the Proposed Law. 25 If a reconstruction involves a merger with a Public Company, the proposed new merger provisions would apply. ",
+        "bbox": [
+            92,
+            863,
+            897,
+            935
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(c) send copies of the audited annual accounts to every shareholder; and (d) file a copy of the accounts and the auditor’s report with the Registrar. ",
+        "bbox": [
+            153,
+            78,
+            796,
+            134
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "35. In the case of a Public Company, the Proposed Law requires the annual audited accounts, along with the auditor’s report and the directors’ report, to be laid before a General Meeting of its shareholders for their approval, and a copy of these documents filed with the Registrar within 14 days of the approval. ",
+        "bbox": [
+            94,
+            152,
+            919,
+            237
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "36. The enhancement referred to in paragraph 34 above relates to the proposed introduction of: ",
+        "bbox": [
+            85,
+            256,
+            917,
+            295
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a) a Director’s report requirement for Public Companies;26 and   \n(b) a ‘small company’ carve-out27 from the requirements to have the company’s annual accounts audited and filed with the Registrar, to alleviate the unnecessary regulatory burden on such small Private Companies. To have the benefit of this carve-out, a Private Company must meet the criteria of having not more than twenty (20) shareholders and not having an annual turnover exceeding $\\cup \\ S \\ S$ 4,000,000. ",
+        "bbox": [
+            153,
+            314,
+            920,
+            461
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "37. This approach is consistent with the similar carve-outs available to small companies in other jurisdictions, such as in the UK, Australia and Singapore. It is premised on considerations that the costs associated with the requirements relating to annual audits and filing with the Registrar are not commensurate with the small and private nature of such companies. The proposed carve-out would facilitate small companies to do business more cost efficiently in the DIFC. ",
+        "bbox": [
+            94,
+            479,
+            920,
+            610
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Q11. Do you have any concerns relating to the retention of the current requirements relating to accounting and reporting for all companies, as noted in CP paragraph 34? If so what are they, and how should they be addressed?   \nQ12. Do you agree with our proposal for Public Companies to have their annual audited accounts, along with their Directors’ reports, laid at a General Meeting of the company for approval by the Shareholders? If not, what are your reasons?   \nQ13. Do you agree with the proposed ‘carve out’ from the auditing and filing requirements with the Registrar of the annual accounts of small private companies? If not, what are your reasons?   \nQ14. Do you agree with the proposed criteria for defining a small company in CP paragraph 36(b) If not, what are your reasons?   \nQ15. Do you have any other concerns relating to proposals? If so what are they, and how should they be addressed? ",
+        "bbox": [
+            126,
+            631,
+            924,
+            859
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "26 Article 131(4)(c) and Article 133. 27 Article 131(6). ",
+        "bbox": [
+            94,
+            903,
+            355,
+            935
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "12 ",
+        "bbox": [
+            893,
+            953,
+            912,
+            964
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Enhancements to the Registrar’s powers ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            223,
+            436,
+            238
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "38. The Proposed Law contains significant enhancements and clarifications to the Registrar’s powers, which include: ",
+        "bbox": [
+            92,
+            252,
+            919,
+            294
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a) the introduction of objectives of the Registrar in exercising his powers;   \n(b) the enhancements to commercial licences and permissions;   \n(c) the introduction of ‘due process requirements’;   \n(d) the extension of the Registrar’s enforcement and investigation powers to other legislation administered by him; and   \n(e) the expansion of the inspection and enforcement powers. ",
+        "bbox": [
+            151,
+            312,
+            920,
+            502
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The objectives of the Registrar in exercising his powers ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            520,
+            595,
+            538
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "39. Under the Current Law, the objectives which the Registrar should pursue in exercising his powers and discretions are not expressly stated. The Proposed Law sets out the objectives which the Registrar should pursue in performing his functions and powers, including those relating to investigation and enforcement – such as the promotion of good practices and due compliance with the applicable laws in the DIFC which the Registrar administers, and efficiency and transparency.28 ",
+        "bbox": [
+            95,
+            555,
+            920,
+            687
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "28 See Article 9(1) of the Proposed Law ",
+        "bbox": [
+            94,
+            904,
+            397,
+            921
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "13 ",
+        "bbox": [
+            893,
+            953,
+            912,
+            964
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Enhancements to commercial licences and permissions ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            79,
+            595,
+            96
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "40. Under the Current Law, there is a prohibition against the conduct of business operations in or from the DIFC without an appropriate permission by the Registrar. Conclusive evidence of such permission is the registration of a company and any commercial licence issued to such a person.29 ",
+        "bbox": [
+            94,
+            115,
+            919,
+            200
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "41. Under the Proposed Law, we propose to make these provisions clearer, and also cover different types of permissions that the Registrar may issue.30 The Proposed Law proposes to expressly prohibit persons to conduct business in the DIFC unless they are registered as a company, partnership or non-profit incorporated organisation under the relevant DIFC law, and also hold a full Commercial Licence issued by the Registrar. The Commercial Licence would need to be renewed, at the same time as the filing of the company’s annual returns with the Registrar, to provide commercial expedience). ",
+        "bbox": [
+            94,
+            219,
+            919,
+            374
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "42. The above prohibition does not apply to persons: ",
+        "bbox": [
+            94,
+            393,
+            563,
+            409
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) who are prescribed as ‘exempt’ persons under the new Companies Regulations; or   \n(b) to whom the Registrar issues certain other types of commercial permissions, which may be subject to any conditions or restrictions, or which are for a temporary purpose or a specified period. ",
+        "bbox": [
+            153,
+            428,
+            920,
+            528
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "43. The expanded categories of licences and permissions would enable the Registrar to facilitate the conduct of activities in or from the DIFC in a more expansive and flexible manner, taking into account the commercial needs of those proposing to undertake such activities, whilst also protecting the interests and integrity of the DIFC by maintaining control over what activities are conducted in or from the DIFC. This would also enable better detection of unauthorised commercial activities in the DIFC. ",
+        "bbox": [
+            94,
+            547,
+            920,
+            678
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The introduction of ‘due process’ procedures ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            697,
+            501,
+            714
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "44. Due process procedures promote transparency in administrative decision making (such as the decisions which the Registrar is called upon to make in the exercise of his powers and discharge of his duties). Such decisions generally impact on rights, interests and legitimate expectations of parties adversely affected by the decisions, whether that be an imposition of a condition or restriction relating to the way in which a person could conduct commercial activities in the DIFC, or where the Registrar wishes to take some enforcement action against a person for an alleged contravention of the legislation administered by him (such as an imposition of a fine or censure on that person). ",
+        "bbox": [
+            95,
+            733,
+            919,
+            864
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "29 See Article 13(4) of the Current Law. 30 See Articles 4, 9(3)(e) and 17 of the Proposed Law. ",
+        "bbox": [
+            94,
+            904,
+            505,
+            935
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "14 ",
+        "bbox": [
+            893,
+            954,
+            910,
+            964
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "45. Due process procedures envisage that the Registrar, when exercising some of his powers (i.e. those specified in the Proposed Law as requiring due process procedures), would give the persons who are likely to be adversely affected by his decision: ",
+        "bbox": [
+            94,
+            137,
+            917,
+            200
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) a notice containing reasons for proposing to exercise the relevant power;   \n(b) a reasonable opportunity to make representations to the Registrar relating to the matter;   \n(c) an unbiased decision, which takes into account all the relevant material information; and   \n(d) a right to have the Registrar’s decision administratively reviewed. ",
+        "bbox": [
+            151,
+            219,
+            919,
+            394
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "46. The Registrar’s powers to impose administrative fines remain an important part of the powers available to him to deter non-compliance. While some contraventions are of a purely procedural nature and trigger ‘automatic’ fines (such as a failure to file annual returns on the due date), other contraventions involving substantive provisions of the applicable laws would require more weighty decisions. ",
+        "bbox": [
+            94,
+            412,
+            919,
+            520
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "47. It is proposed that only those more significant decisions involving judgement and due deliberation (such as any enforcement action against companies or individuals for alleged contraventions of the applicable laws), would trigger the full due process procedures, which would be prescribed in Regulations. ",
+        "bbox": [
+            94,
+            539,
+            919,
+            624
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "48. Even where the Registrar is not subject to prescribed detailed due process procedures, as an administrative decision maker, his exercise of powers and discharge of duties are, impartial and consistent with the procedures and formalities as set out in various forms and guidance issued by his office. ",
+        "bbox": [
+            94,
+            643,
+            919,
+            729
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The extension of the Registrar’s powers to other legislation administered by him ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            748,
+            814,
+            766
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "49. Under the Proposed Law, the Registrar’s general powers of investigation and enforcement are extended to other legislation administered by the Registrar. This is because these powers are generic powers which he would need to exercise in monitoring and enforcing legislation administered by him. Rather than including similar powers in each discrete piece of legislation administered by the Registrar, we thought it appropriate to centralise those powers in the Proposed Law. ",
+        "bbox": [
+            95,
+            783,
+            919,
+            915
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Enhancements to the Registrar’s inspection and enforcement powers ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            78,
+            715,
+            97
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "50. While the powers and remedies 31 relating to contraventions are retained under the Proposed Law, we have made some significant enhancements to those, particularly in light of our enforcement experience so far in administering the Current Law. ",
+        "bbox": [
+            94,
+            115,
+            920,
+            179
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "51. The enforcement powers and remedies under the Proposed Law apply to both DIFC incorporated companies and Recognised Companies, as under the Current Law. ",
+        "bbox": [
+            94,
+            197,
+            920,
+            237
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "52. The key changes we propose in the Proposed Law include: ",
+        "bbox": [
+            90,
+            256,
+            648,
+            274
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(a) express powers that enable Inspectors appointed by the Registrar to investigate matters to obtain information and documents;32   \n(b) how the information or documents that are obtained by an Inspector could be used;33   \n(c) powers to deal with any obstruction of Inspectors;34   \n(d) provisions enabling the Registrar to apply for an appropriate Court order on the basis of the information found by an Inspector, where a company is found to have acted in contravention of the applicable laws, or in a manner prejudicial to its shareholders;35   \n(e) power of the Registrar to give directions to a company to comply with the applicable laws;36   \n(f) a general power of the Registrar to obtain information and documents;37   \n(g) the power to impose administrative censures;38 and   \n(h) a provision to ensure that the Registrar’s powers to commence any enforcement proceedings against a former company (or any of its officers) remain alive, after the company has ceased to exist, for a period of three years from the date on which the Registrar becomes reasonably aware of a contravention,39 as information relating to alleged contraventions could come to light after a company ceases to exist. ",
+        "bbox": [
+            148,
+            290,
+            924,
+            750
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "31 Under Part 13 of the Current Law, which are incorporated in Part 14 of the New Law. 32 See Article 160 of the Proposed Law. 33 See Article 161 of the Proposed Law. 34 See Article 162 of the Proposed Law. 35 See Article 164 of the Proposed Law. 36 See Article 165 of the Proposed Law. 37 See Article 166 of the Proposed Law. 38 See Article 172 of the Proposed Law. 39 See Article 158(2) of the Proposed Law. ",
+        "bbox": [
+            92,
+            808,
+            752,
+            934
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "16 ",
+        "bbox": [
+            893,
+            953,
+            912,
+            964
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "53. The proposed expansion of the Registrar’s investigation and enforcement powers would enable the Registrar to carry out his role more effectively, especially where effective investigation and enforcement is needed to deter contraventions of the laws administered by him. ",
+        "bbox": [
+            94,
+            78,
+            919,
+            163
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Q16. Do you agree with the proposed objectives of the Registrar? Are there other objectives that need to be added, or any proposed that need to be removed? What are your reasons?   \nQ17. Do you have any concerns relating to the proposed clarifications and expansions of the Registrar’s power to issues commercial licences and permissions? If so, what are those concerns, and how should they be addressed?   \nQ18. Do you have any concerns relating to the proposed ‘due process’ requirements? If so, what are they, and how should they be addressed?   \nQ19. Do you have any concerns relating to the proposed extension of the Registrar’s inspection and enforcement powers to other legislation administered by him? If so, what are they, and how should they be addressed?   \nQ20. Do you have concerns relating to the proposed expansion of the Registrar’s inspection and enforcement powers? If so, what are they and how should they be addressed?   \nQ21. Do you have any concerns relating to the proposed administrative fines, where some are automatic and other trigger the need for due process? If so, what are those concerns and how should they be addressed?   \nQ22. Do you have any concerns relating to any other aspect of Registrar’s powers? What are they and how should they be addressed? ",
+        "bbox": [
+            126,
+            182,
+            922,
+            701
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Disclosure of beneficial ownership of Companies ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            735,
+            503,
+            751
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "54. While the need for DIFC companies, especially those setting up family wealth management business in the DIFC, to protect information relating to their beneficial ownership can be a significant issue, there are also competing considerations which demand more accessibility relating to beneficial ownership information for regulatory purposes (for example, to address risks relating to money laundering, tax evasion, and terrorism financing – collectively referred to here as AML Risks). International standard setters, particularly OECD and FATF, require beneficial ownership of companies to be made available for legitimate purposes, such as regulation or law enforcement needs. ",
+        "bbox": [
+            99,
+            766,
+            920,
+            941
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "55. To ensure the protection of information relating to beneficial ownership of companies, whilst also achieving the desired outcome of mitigating AML Risks to meet international standards, the Proposed Law requires a company’s beneficial ownership information to be provided to the Registrar (and, where changes occur, updates of this information to be filed with the Registrar). 40 However, such beneficial information will not be placed on any public register, and will not be accessible to the public. Instead, the Registrar would only release such information to another body, such as a regulator, standard setter or law enforcement agency, for a legitimate purpose. ",
+        "bbox": [
+            94,
+            78,
+            919,
+            254
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "56. We believe this approach achieves the right balance relating to privacy of information needs of owners of DIFC companies, whilst also meeting international standards. This approach is consistent with the approach adopted in Jersey, with regard to beneficial ownership of companies in Jersey. ",
+        "bbox": [
+            94,
+            273,
+            919,
+            358
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Q23. Do you have concerns regarding the proposed approach relating to beneficial ownership information of companies? If so, what are they, and how should they be addressed? ",
+        "bbox": [
+            129,
+            381,
+            920,
+            444
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Whistle-blower protection ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            484,
+            309,
+            501
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "57. The whistle-blower protection provisions included in the Proposed Law reflect the OECD initiatives. 41 These provisions are designed to protect any person who discloses to the Registrar or a company’s auditor or director, any information relating to a reasonable suspicion that the company has, or may have, contravened the companies law regime from being exposed to civil or contractual liability, unfair dismissal and other actions which are prejudicial to the interests of that person. The disclosure must be made in good faith to mitigate against vexatious claims. ",
+        "bbox": [
+            94,
+            515,
+            920,
+            668
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "58. While we have placed these provisions in the Proposed Law, they could also be placed in the Employment Law, DIFC Law No. 4 of 2005 (“Employment Law”). However, we have considered it more appropriate to include them in the Proposed Law, rather than in the Employment Law, because the protection provided is wider than employment related, and the persons who may provide such information could be other than employees of a company who would be able to obtain protection from any civil or contractual liability. ",
+        "bbox": [
+            94,
+            687,
+            920,
+            818
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "59. We are aware that whistle-blower provisions may conflict with a number of Federal Law prohibitions on disclosure of confidential information. These laws criminalise unlawful disclosure of specified types of confidential information. However, the Penal Code (which applies in the DIFC) provides an exception if the disclosure is “allowed by law”. To meet the ‘allowed by law’ test, a provision in a DIFC law which permits or requires disclosure suffices. ",
+        "bbox": [
+            94,
+            837,
+            919,
+            877
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "40 See Article 12(3)(g)(ii)(B) of the Proposed Law. 41 See Article 198. ",
+        "bbox": [
+            94,
+            904,
+            466,
+            934
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "18 ",
+        "bbox": [
+            893,
+            953,
+            910,
+            964
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Q24. Do you have concerns regarding the proposed approach to provide protection to whistle-blowers? If so, what are they and how should they be addressed?   \nQ25. Do you agree with our proposal to place these provisions in the Proposed Law, instead of in the Employment Law? If not, what are your reasons? ",
+        "bbox": [
+            127,
+            185,
+            920,
+            286
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Miscellaneous enhancements ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            327,
+            345,
+            343
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "60. We have also made a significant number of other changes to ensure the Proposed Law promotes business efficiency and protection to shareholders and creditors of companies. These include: ",
+        "bbox": [
+            94,
+            357,
+            920,
+            420
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(a) the removal of the current requirement to have an external legal opinion that a proposed amendment to articles of association meets the applicable legal requirements, instead, requiring a certificate to that effect from at least from one director of the company; 42 ",
+        "bbox": [
+            153,
+            439,
+            919,
+            526
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(b) the filing of special resolutions with the Registrar, such as those making certain changes to articles of association of the company so that such information is centrally available (unless a company is excluded from having to do so by regulations);43 ",
+        "bbox": [
+            153,
+            543,
+            919,
+            608
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(c) requiring only Public Companies to meet a minimum subscription threshold of $\\cup \\ S \\ S$ 100,000, of which only quarter having to be fully paid at the time of subscription,44 which replaces the current requirement for all companies to have fully paid minimum capital requirement of $\\mathsf { U S } \\$ 50,000$ ; 45 ",
+        "bbox": [
+            153,
+            627,
+            919,
+            712
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(d) introducing more formal pre-emption rights for existing shareholders of companies,46 than under the Current Law,47 in line with the UK provisions, to guard against undue dilution of existing shareholders’ rights, with appropriate exclusions for arrangements such as employee share schemes, and also, with more flexibility for private companies to remove or restrict such rights, though express provisions in their articles of association; ",
+        "bbox": [
+            154,
+            730,
+            919,
+            817
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "42 See Article 19(2)(b) of the Proposed Law. 43 See Article 28 of the Proposed Law. 44 See Article 43 of the Proposed Law. 45 See Regulation 2.7.1 of the Regulations. 46 See Article 48 of the Proposed Law. 47 See Article 89 of the Current Law which only applied to Limited Liability Companies. ",
+        "bbox": [
+            92,
+            850,
+            745,
+            935
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "19 ",
+        "bbox": [
+            893,
+            953,
+            912,
+            964
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(e) giving companies more flexibility by allowing them to hold, as treasury shares, those shares redeemed by the company, including any redeemable shares, provided certain conditions are met; 48 ",
+        "bbox": [
+            153,
+            137,
+            919,
+            200
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(f) a prohibition against the use of a company name which is misleading, deceptive or conflicting with the name of another company (whether in the DIFC or elsewhere), with an obligation for the company to change such a name within 30 day of becoming reasonably aware of the misleading or deceptive nature of its name; and 49 ",
+        "bbox": [
+            153,
+            219,
+            920,
+            306
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(g) a requirement for companies which issue debentures to maintain a register of debenture holders. 50 ",
+        "bbox": [
+            153,
+            324,
+            920,
+            364
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Q26. Do you think we should retain the current requirement for an external legal opinion relating to proposed changes to articles of association? If so, what are your reasons?   \nQ27. Should there be a restriction relating to the nominal value of shares that can be held by a company as treasury shares? If so, what should that limit be?   \nQ28. Do you have any other concerns relating to any one or more proposed changes referred to in CP paragraph 60? If so, what are they and how should they be addressed?   \nQ29. Are there any other concerns that are not addressed relating to the Proposed Law? If so, what are they, and how should they be addressed? ",
+        "bbox": [
+            124,
+            384,
+            924,
+            653
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Legislative Proposal ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            690,
+            267,
+            706
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "61. This legislative proposal contains the following: ",
+        "bbox": [
+            92,
+            719,
+            547,
+            737
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "a. the Proposed Law (at Annex A);   \nb. the Current Law (at Annex B);   \nc. a comparison of the Current Law and the Proposed Law (at Annex C);   \nd. a roadmap of the proposed changes (at Annex D); and   \ne. a table of comments to provide your views and comments on the Consultation Paper (at Annex E). ",
+        "bbox": [
+            144,
+            756,
+            762,
+            849
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "48 See Articles 60 to 62 of the Proposed Law. 49 See Article 21 of the Proposed Law. 50 See Article 52 of the Proposed Law. ",
+        "bbox": [
+            94,
+            890,
+            441,
+            934
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "20 ",
+        "bbox": [
+            890,
+            953,
+            912,
+            965
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "COMPANIES LAW ",
+        "bbox": [
+            754,
+            43,
+            917,
+            58
+        ],
+        "page_idx": 20
+    }
+]

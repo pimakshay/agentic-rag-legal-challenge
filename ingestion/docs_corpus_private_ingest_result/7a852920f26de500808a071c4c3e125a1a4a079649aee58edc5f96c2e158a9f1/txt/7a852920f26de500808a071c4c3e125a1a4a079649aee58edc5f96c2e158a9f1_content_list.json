@@ -1,0 +1,982 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            389,
+            363,
+            604,
+            412
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GENERAL PARTNERSHIP REGULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            234,
+            498,
+            728,
+            565
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Consolidated Version No. 3   \nIn force on 12 November 2018 ",
+        "bbox": [
+            296,
+            644,
+            667,
+            706
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            451,
+            70,
+            546,
+            85
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 INTRODUCTION... ",
+        "text_level": 1,
+        "bbox": [
+            97,
+            112,
+            872,
+            125
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 Application and interpretation..   \n1.2 References to writing .. ",
+        "bbox": [
+            95,
+            129,
+            869,
+            155
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 REGISTRATION.... ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            168,
+            872,
+            181
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Application for registration.   \n2.2 Certificate of registration... ",
+        "bbox": [
+            109,
+            184,
+            867,
+            212
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 PARTNERS .. ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            225,
+            872,
+            238
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 Registerof Partners . 2   \n3.2 Change of Partners................ .. 3 ",
+        "bbox": [
+            100,
+            241,
+            870,
+            268
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4 RECOGNI SEDPARTNERSHIPS.... ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            281,
+            872,
+            294
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1 Application for registration .. .3   \n4.2 Certificate of registration ... 3   \n4.3 Requirements of a Recognised Partnership ... .4 ",
+        "bbox": [
+            105,
+            295,
+            874,
+            337
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5 MISCELLANEOUS.... ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            349,
+            872,
+            362
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5.1 Exemption from filing accounts . ..4   \n5.2 Fees ... .. 4   \n5.3 Public Register .. ..4   \n5.4 Rights of third parties .. 5 ",
+        "bbox": [
+            105,
+            365,
+            872,
+            422
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Appendix 1 - Fees ... ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            437,
+            872,
+            450
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GENERAL PARTNERSHIP REGULATIONS ",
+        "bbox": [
+            520,
+            26,
+            887,
+            41
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            491,
+            942,
+            501,
+            953
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Board of Directors of the DIFCA, in the exercise of the powers conferred on them by Article 58 of the Law, hereby make these Regulations. ",
+        "bbox": [
+            105,
+            74,
+            867,
+            103
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 INTRODUCTION ",
+        "bbox": [
+            107,
+            116,
+            303,
+            130
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 APPLICATION AND INTERPRETATION ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            142,
+            488,
+            157
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 These Regulations may be cited as the “General Partnership Regulations”. ",
+        "bbox": [
+            102,
+            171,
+            667,
+            185
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 These Regulations apply to: ",
+        "bbox": [
+            109,
+            198,
+            359,
+            212
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) persons applying for the registration of a General Partnership or a Recognised Partnership under the Law;   \n(b) Partners, officers and employees of General Partnerships and Recognised Partnerships registered under the Law;   \n(c) General Partnerships and Recognised Partnerships;   \n(d) the Registrar; and   \n(e) any other Person to whom the Law applies. ",
+        "bbox": [
+            164,
+            224,
+            882,
+            377
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 Defined terms are identified throughout these Regulations by the capitalisation of the initial letter of a word or phrase. Where capitalisation of the initial letter is not used, an expression has its natural meaning. ",
+        "bbox": [
+            107,
+            389,
+            889,
+            431
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.4 Thefollowing defined terms have the meaning given below: ",
+        "bbox": [
+            105,
+            444,
+            582,
+            459
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/edc4cbbef070f8f1a3855c1f53cd88b30e76c179a7c1f1cb36014917b68aa97d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Defined Term</td><td rowspan=1 colspan=1>Definition</td></tr><tr><td rowspan=1 colspan=1>Approved Person</td><td rowspan=1 colspan=1>a person who is authorised to accept service of any Document or notice on behalfof the Recognised Partnership under Article 13(2)(b) of the Law.</td></tr><tr><td rowspan=1 colspan=1>Authorised Person</td><td rowspan=1 colspan=1>a person defined as such in Schedule 1  item 3 of the Regulatory Law No. 1 of2004.</td></tr><tr><td rowspan=1 colspan=1>DNFBP</td><td rowspan=1 colspan=1>has the meaning given to that term in the Regulatory Law 2004.</td></tr><tr><td rowspan=1 colspan=1>Recognised Person</td><td rowspan=1 colspan=1>a recognised person as defined under Article 37(3) of the Markets Law No. 1 of2012.</td></tr></table>",
+        "bbox": [
+            105,
+            484,
+            890,
+            636
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.5 All other defined terms have the same meaning they have under the Law. ",
+        "bbox": [
+            109,
+            649,
+            661,
+            665
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.6 The Rules of interpretation in the Law apply to these Regulations. ",
+        "bbox": [
+            105,
+            676,
+            612,
+            692
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 REFERENCES TO WRITING ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            704,
+            394,
+            718
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 If a provision in these Regulations refers to a communication, notice, agreement of other document 'in writing' then, unless the contrary intention appears, it means in legible form and capable of being reproduced on paper, irrespective of the medium used. Expressions relatedto writing mustbeinterpreted accordingly. ",
+        "bbox": [
+            107,
+            731,
+            892,
+            787
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 This does not affect any other legal requirements which may apply in relation to the form or manner of executing a document or agreement. ",
+        "bbox": [
+            102,
+            800,
+            890,
+            828
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GENERAL PARTNERSHIP REGULATIONS ",
+        "bbox": [
+            520,
+            26,
+            887,
+            40
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            493,
+            946,
+            503,
+            957
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 REGISTRATION ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            60,
+            302,
+            74
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 Application for registration ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            87,
+            367,
+            103
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 A person applying for the registration of a General Partnership shall use the form prescribed by the Registrar and shall include the following particulars: ",
+        "bbox": [
+            102,
+            115,
+            889,
+            143
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) where a proposed partner is an individual, the full name and address, the date and place of birth and all former given or family names of the proposed partners;   \n(b) where a proposed partner is a body corporate, its full corporate or firm name and address of its registered or principal office;   \n(c) the full address of the registered office of the General Partnership, which must be within the DIFC; and   \n(d) every other matter that the Registrar considers appropriate. ",
+        "bbox": [
+            164,
+            156,
+            889,
+            295
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 Where a person applying for the registration of a General Partnership is a body corporate, the application shall be accompanied by a copy of the person's current certificate of incorporation or registration, or a document of similar effect, certified by the relevant authority in the jurisdiction in which the person is incorporated or registered acceptable to the Registrar. ",
+        "bbox": [
+            107,
+            307,
+            892,
+            362
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Certificate of registration ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            381,
+            352,
+            395
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 On the registration of a General Partnership or upon the registration of a change of name of a General Partnership, the Registrar shall issue a certificate of registration, which shall set out: ",
+        "bbox": [
+            102,
+            408,
+            889,
+            437
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) the name of the General Partnership;   \n(b) theGeneral Partnership's registered number;   \n(c) a statement that the General Partnership is registered; and   \n(d) the date of registration of the General Partnership and if applicable, the date on which the new name of the General Partnership was registered. ",
+        "bbox": [
+            164,
+            447,
+            887,
+            560
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 PARTNERS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            572,
+            260,
+            586
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 Register of Partners ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            599,
+            313,
+            614
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 The register of Partners of every General Partnership shall set out, in respect of each Partner, the Partner's: ",
+        "bbox": [
+            102,
+            627,
+            890,
+            654
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) full name;   \n(b) any former names;   \n(c) date and place of birth or incorporation or registration, as the case may be;   \n(d) address;   \n(e) any former addresses within the last five (5) years;   \n(f) date of admission to the General Partnership; and (g) date of cessation (if relevant). ",
+        "bbox": [
+            164,
+            667,
+            729,
+            847
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GENERAL PARTNERSHIP REGULATIONS ",
+        "bbox": [
+            520,
+            26,
+            887,
+            40
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 Change of Partners ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            60,
+            310,
+            76
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 Whenever: ",
+        "bbox": [
+            107,
+            85,
+            246,
+            99
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) a Partner is admitted to a General Partnership after initial registration of the General Partnership; or   \n(b) a Partner retires, is removed or for any other reason ceases to act; the General Partnership shall file a notice with the Registrar within thirty (30) days of change of Partner using the applicable form prescribed by the Registrar. ",
+        "bbox": [
+            166,
+            112,
+            885,
+            210
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 Whenever there is any change in the name or address of a Partner of a General Partnership, the General Partnership shall file a notice with the Registrar within thirty (30) days of the change of name or address, using the form prescribed by the Registrar. ",
+        "bbox": [
+            109,
+            220,
+            890,
+            263
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 RECOGNISED PARTNERSHIPS ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            275,
+            416,
+            290
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1 Application for registration ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            304,
+            367,
+            318
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 A general partnership formed outside the DIFC applying for registration as a Recognised Partnership shall apply using the applicable form prescribed by the Registrar and shall include the following: ",
+        "bbox": [
+            102,
+            331,
+            884,
+            359
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) the name and address of its place of business in the DFIC;   \n(b) the address for service of documents on the general partnership in the DIFC;   \n(c) the name and address of the Approved Person authorised to accept service of any document on behalf of the Recognised Partnership;   \n(d) the nature of the business to be conducted by the general partnership in the DIFC;   \n(e) the full name and address, the date and place of birth and all former given or family names of the partners of the Recognised Partnership;   \n(f) the full corporate or firm name and address of the registered or principal offices of those partners which are bodies corporate operating in the DIFC;   \n(g) its registered office in its place of origin, or, in the event there is no registered office required under the laws of the place of origin, its place of business in its place of origin; and   \n(h) any other matter that the Registrar considers appropriate. ",
+        "bbox": [
+            164,
+            370,
+            885,
+            633
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 If the document referred to in (1) is not in the English language, the documents shall be accompanied by a translation certified to the satisfaction of the Registrar. ",
+        "bbox": [
+            102,
+            644,
+            884,
+            673
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 Certificate of registration ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            685,
+            352,
+            700
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 On registration of a Recognised Partnership, the Registrar shall issue a certificate of registration, which shall set out: ",
+        "bbox": [
+            104,
+            712,
+            887,
+            741
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) The name of the Recognised Partnership;   \n(b) the Recognised Partnership'sregistered number;   \n(c) a statement that the Recognised Partnership is registered as a Recognised Partnership;and (d) the date of registration. ",
+        "bbox": [
+            164,
+            752,
+            820,
+            851
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GENERAL PARTNERSHIP REGULATIONS ",
+        "bbox": [
+            520,
+            26,
+            887,
+            41
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            493,
+            946,
+            503,
+            957
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3 Requirements of a Recognised Partnership ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            60,
+            476,
+            76
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3.1 For the purposes of Article 8 of the Law, 'carrying on any business, purpose or activity with a view to making a profit' includes: ",
+        "bbox": [
+            104,
+            87,
+            887,
+            116
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) establishing or maintaining a place of business;   \n(b) administering,leasing toothers, or managing property situated in the DIFC as principal or agent; (c) operating as a reporting entity under theMarkets Law2004; or   \n(d) employing persons;   \nbut shall not include merely:   \n(e) being a party to a proceeding, claim or dispute;   \n(f) holding meetings of its Partners;   \n(g) creating a charge on property;   \n(h) collecting its debts or enforcing its rights in regard to any security;   \n(i) conducting an isolated transaction; or   \n(j) being a customer of an Authorised Person or a DNFBP. ",
+        "bbox": [
+            164,
+            128,
+            862,
+            419
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3.2 A Recognised Partnership shall, using the applicable form prescribed by the Registrar: ",
+        "bbox": [
+            102,
+            429,
+            751,
+            445
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) file with the Registrar a notice of appointment of an Approved Person and any changes in the details of such person whenever a new Approved Person is appointed or the details of the existing person change; and   \n(b) file with the Registrar a notice of change of its place of business in the DIFC, whenever the Recognised Partnership changes its place of business in the DIFC. ",
+        "bbox": [
+            164,
+            456,
+            892,
+            540
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 MISCELLANEOUS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            557,
+            317,
+            571
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1 Exemption from filing accounts ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            584,
+            395,
+            599
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Unless the Registrar otherwise directs, a General Partnership which is not: ",
+        "bbox": [
+            166,
+            611,
+            667,
+            625
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) an Authorised Person; (b) DNFBP; or (c) a Recognised Person; ",
+        "bbox": [
+            166,
+            638,
+            377,
+            709
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "is exempt from the requirements contained in Article 19(5) of the Law to file its accounts with the Registrar. ",
+        "bbox": [
+            166,
+            722,
+            830,
+            749
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2 Fees ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            762,
+            201,
+            776
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the purposes of Article 61 of the Law, the fees in respect of matters set out in Appendix 1 shall be paid to the Registrar by the relevant person. ",
+        "bbox": [
+            164,
+            789,
+            890,
+            817
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.3 Public register ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            830,
+            273,
+            845
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Registrar shall maintain the register of General and Recognised Partnerships by recording the following details, insofar as they may be relevant, in respect of each General Partnership or Recognised Partnership that is, or has been, registered in the DIFC: ",
+        "bbox": [
+            167,
+            857,
+            890,
+            899
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GENERAL PARTNERSHIP REGULATIONS ",
+        "bbox": [
+            520,
+            26,
+            887,
+            40
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            493,
+            946,
+            503,
+            956
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) current name;   \n(b) registered number;   \n(c) date of registration;   \n(d) former names;   \n(e) date of registration of every change of name;   \n(f) current registered officeor place of business;   \n(g) former registered offices or places of business;   \n(h) date of cessation of former registered offices;   \n(i) current Partners;   \n(j) date of registration of current Partners;   \n(k) former Partners;   \n(l) dates of registration and cessation of former Partners;   \n(m) in the case of a Recognised Partnership, the country in which the Recognised Partnership is formed; and (n) the General Partnership's financial year end. ",
+        "bbox": [
+            162,
+            51,
+            828,
+            435
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.4 Rights of third parties ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            446,
+            328,
+            460
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the purposes of Article 48(2) of the Law, an advertisement must be legible and clearly state the necessary details of a change of Partner or dissolution of the General Partnership, must be placed in one or more newspapers or other publications best suited to bring the change or dissolution to the attention of any persons who may be affected by such change or dissolution. ",
+        "bbox": [
+            166,
+            473,
+            889,
+            529
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "GENERAL PARTNERSHIP REGULATIONS ",
+        "bbox": [
+            518,
+            26,
+            887,
+            40
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            493,
+            938,
+            503,
+            948
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 1 - FEES ",
+        "text_level": 1,
+        "bbox": [
+            414,
+            79,
+            580,
+            93
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table of fees ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            117,
+            206,
+            131
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ec68ce5b96f4e83ea6a28cfb952c42921952f8f2402b941a3c03dec36fbb4dc6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Upon receipt by the Registrar of:</td><td rowspan=1 colspan=1>Fee (USD)</td></tr><tr><td rowspan=1 colspan=1>Application for registration of a General Partnership</td><td rowspan=1 colspan=1>$4,000</td></tr><tr><td rowspan=1 colspan=1>Application for registration of a General Partnership conducting retail activities</td><td rowspan=1 colspan=1>$1,700</td></tr><tr><td rowspan=1 colspan=1>Application for registration of a Recognised Partnership</td><td rowspan=1 colspan=1>$4,000</td></tr><tr><td rowspan=1 colspan=1>Application for registration of a Recognised Partnership conducting retail activities</td><td rowspan=1 colspan=1>$1,700</td></tr><tr><td rowspan=1 colspan=1>Notice of Appointment or cessation of a Partner</td><td rowspan=1 colspan=1>Nil</td></tr><tr><td rowspan=1 colspan=1>Notice of Change of name or address of a Partner</td><td rowspan=1 colspan=1>Nil</td></tr><tr><td rowspan=1 colspan=1>Notice of appointment of Approved Person</td><td rowspan=1 colspan=1>Nil</td></tr><tr><td rowspan=1 colspan=1>Notice of change of details of Approved Person</td><td rowspan=1 colspan=1>Nil</td></tr><tr><td rowspan=1 colspan=1>Notice of change of principal place of business</td><td rowspan=1 colspan=1>Nil</td></tr></table>",
+        "bbox": [
+            114,
+            157,
+            892,
+            355
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "GENERAL PARTNERSHIP REGULATIONS ",
+        "bbox": [
+            520,
+            26,
+            887,
+            40
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            493,
+            938,
+            505,
+            947
+        ],
+        "page_idx": 7
+    }
+]

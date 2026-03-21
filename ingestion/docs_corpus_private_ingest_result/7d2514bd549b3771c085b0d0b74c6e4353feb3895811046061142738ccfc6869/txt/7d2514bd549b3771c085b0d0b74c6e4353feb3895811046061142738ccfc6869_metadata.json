@@ -1,0 +1,2808 @@
+{
+    "doc_type": "law",
+    "official_title": "Intellectual Property Law",
+    "official_title_normalized": "intellectual property law",
+    "short_title": "Intellectual Property Law 2019",
+    "short_title_normalized": "intellectual property law 2019",
+    "law_number": "4",
+    "law_year": "2019",
+    "official_citation": "DIFC Law No. 4 of 2019",
+    "official_citation_normalized": "difc law no 4 of 2019",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "March 2022",
+    "amending_laws": [
+        "As amended by DIFC Laws Amendment Law DIFC Law No. 2 of 2022"
+    ],
+    "administering_authority": "",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 40,
+    "page_count": 40,
+    "alias_keys": [
+        "DIFC Law No. 4 of 2019",
+        "Intellectual Property Law",
+        "Intellectual Property Law 2019"
+    ],
+    "article_index": {
+        "Article 1": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 410,
+            "block_end": 415
+        },
+        "Article 7": {
+            "heading": "Recognition of Patents and Utility Certificates registered in the UAE",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 57,
+            "block_end": 58
+        },
+        "Article 14": {
+            "heading": "Recognition of Industrial Drawings and Industrial Designs registered in the UAE",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 97,
+            "block_end": 100
+        },
+        "Article 17": {
+            "heading": "Recognition of copyright under the Federal Copyright Law",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 111,
+            "block_end": 112
+        },
+        "Article 42": {
+            "heading": "Prohibited Acts",
+            "article_number": "42",
+            "page_start": 18,
+            "page_end": 20,
+            "block_start": 257,
+            "block_end": 268
+        },
+        "Article 43": {
+            "heading": "Recognition of Trademarks Registered in the UAE",
+            "article_number": "43",
+            "page_start": 20,
+            "page_end": 20,
+            "block_start": 269,
+            "block_end": 270
+        },
+        "Article 48": {
+            "heading": "Prohibited Acts that would constitute infringement",
+            "article_number": "48",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 292,
+            "block_end": 295
+        },
+        "Article 52": {
+            "heading": "General Conditions for Trade Secrets",
+            "article_number": "52",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 308,
+            "block_end": 310
+        },
+        "Article 56": {
+            "heading": "Appointment of the Commissioner of Intellectual Property",
+            "article_number": "56",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 327,
+            "block_end": 328
+        },
+        "Article 61": {
+            "heading": "Funding",
+            "article_number": "61",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 370,
+            "block_end": 371
+        },
+        "Article 66": {
+            "heading": "Directions",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 388,
+            "block_end": 396
+        },
+        "Article 2": {
+            "heading": "Legislation in the DIFC",
+            "article_number": "2",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 416,
+            "block_end": 420
+        },
+        "Article 3": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 34,
+            "page_end": 40,
+            "block_start": 421,
+            "block_end": 442
+        },
+        "Article 3(1)": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 38,
+            "page_end": 40,
+            "block_start": 433,
+            "block_end": 442
+        },
+        "Article 4": {
+            "heading": "Date of enactment and commencement",
+            "article_number": "4",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 45,
+            "block_end": 46
+        },
+        "Article 4(1)": {
+            "heading": "Date of enactment and commencement",
+            "article_number": "4",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 46,
+            "block_end": 46
+        },
+        "Article 5": {
+            "heading": "Administration of the Law",
+            "article_number": "5",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 47,
+            "block_end": 48
+        },
+        "Article 6": {
+            "heading": "Schedules",
+            "article_number": "6",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 49,
+            "block_end": 56
+        },
+        "Article 6(1)(a)": {
+            "heading": "Schedules",
+            "article_number": "6",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 51,
+            "block_end": 51
+        },
+        "Article 6(1)": {
+            "heading": "Schedules",
+            "article_number": "6",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 50,
+            "block_end": 51
+        },
+        "Article 6(2)": {
+            "heading": "Schedules",
+            "article_number": "6",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 52,
+            "block_end": 56
+        },
+        "Article 8": {
+            "heading": "Rights conferred by a Patent or Utility Certificate",
+            "article_number": "8",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 59,
+            "block_end": 62
+        },
+        "Article 8(1)(a)": {
+            "heading": "Rights conferred by a Patent or Utility Certificate",
+            "article_number": "8",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 61,
+            "block_end": 61
+        },
+        "Article 8(1)": {
+            "heading": "Rights conferred by a Patent or Utility Certificate",
+            "article_number": "8",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 60,
+            "block_end": 61
+        },
+        "Article 8(2)": {
+            "heading": "Rights conferred by a Patent or Utility Certificate",
+            "article_number": "8",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 62,
+            "block_end": 62
+        },
+        "Article 9": {
+            "heading": "Acts of infringement",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 63,
+            "block_end": 69
+        },
+        "Article 9(2)": {
+            "heading": "Acts of infringement",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 66,
+            "block_end": 66
+        },
+        "Article 9(3)": {
+            "heading": "Acts of infringement",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 67,
+            "block_end": 67
+        },
+        "Article 9(4)": {
+            "heading": "Acts of infringement",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 68,
+            "block_end": 69
+        },
+        "Article 10": {
+            "heading": "Acts of exploitation that would not constitute infringement",
+            "article_number": "10",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 70,
+            "block_end": 77
+        },
+        "Article 10(1)": {
+            "heading": "Acts of exploitation that would not constitute infringement",
+            "article_number": "10",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 71,
+            "block_end": 71
+        },
+        "Article 10(2)(a)": {
+            "heading": "Acts of exploitation that would not constitute infringement",
+            "article_number": "10",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 73,
+            "block_end": 74
+        },
+        "Article 10(2)": {
+            "heading": "Acts of exploitation that would not constitute infringement",
+            "article_number": "10",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 72,
+            "block_end": 74
+        },
+        "Article 10(3)(a)": {
+            "heading": "Acts of exploitation that would not constitute infringement",
+            "article_number": "10",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 76,
+            "block_end": 76
+        },
+        "Article 10(3)": {
+            "heading": "Acts of exploitation that would not constitute infringement",
+            "article_number": "10",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 75,
+            "block_end": 76
+        },
+        "Article 10(4)": {
+            "heading": "Acts of exploitation that would not constitute infringement",
+            "article_number": "10",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 77,
+            "block_end": 77
+        },
+        "Article 11": {
+            "heading": "Reversal of burden of proof",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 78,
+            "block_end": 80
+        },
+        "Article 11(1)": {
+            "heading": "Reversal of burden of proof",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 79,
+            "block_end": 79
+        },
+        "Article 11(2)": {
+            "heading": "Reversal of burden of proof",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 80,
+            "block_end": 80
+        },
+        "Article 12": {
+            "heading": "Patent ownership in employment relationship",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 81,
+            "block_end": 92
+        },
+        "Article 12(1)": {
+            "heading": "Patent ownership in employment relationship",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 82,
+            "block_end": 82
+        },
+        "Article 12(2)(a)": {
+            "heading": "Patent ownership in employment relationship",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 84,
+            "block_end": 85
+        },
+        "Article 12(2)(b)": {
+            "heading": "Patent ownership in employment relationship",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 86,
+            "block_end": 86
+        },
+        "Article 12(2)": {
+            "heading": "Patent ownership in employment relationship",
+            "article_number": "12",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 83,
+            "block_end": 86
+        },
+        "Article 12(3)": {
+            "heading": "Patent ownership in employment relationship",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 87,
+            "block_end": 87
+        },
+        "Article 12(4)": {
+            "heading": "Patent ownership in employment relationship",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 88,
+            "block_end": 88
+        },
+        "Article 12(5)": {
+            "heading": "Patent ownership in employment relationship",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 89,
+            "block_end": 89
+        },
+        "Article 12(6)": {
+            "heading": "Patent ownership in employment relationship",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 90,
+            "block_end": 90
+        },
+        "Article 12(7)(a)": {
+            "heading": "Patent ownership in employment relationship",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 92,
+            "block_end": 92
+        },
+        "Article 12(7)": {
+            "heading": "Patent ownership in employment relationship",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 91,
+            "block_end": 92
+        },
+        "Article 13": {
+            "heading": "Rights to an Invention",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 93,
+            "block_end": 96
+        },
+        "Article 13(1)": {
+            "heading": "Rights to an Invention",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 94,
+            "block_end": 94
+        },
+        "Article 13(2)": {
+            "heading": "Rights to an Invention",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 95,
+            "block_end": 96
+        },
+        "Article 15": {
+            "heading": "Rights conferred by an Industrial Drawing or Designs",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 101,
+            "block_end": 104
+        },
+        "Article 15(1)(a)": {
+            "heading": "Rights conferred by an Industrial Drawing or Designs",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 103,
+            "block_end": 104
+        },
+        "Article 15(1)": {
+            "heading": "Rights conferred by an Industrial Drawing or Designs",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 102,
+            "block_end": 104
+        },
+        "Article 16": {
+            "heading": "Application of Articles related to Patents and Utility Certificates on Industrial Drawing or Designs",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 105,
+            "block_end": 110
+        },
+        "Article 18": {
+            "heading": "Works protected by copyright",
+            "article_number": "18",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 113,
+            "block_end": 115
+        },
+        "Article 18(1)": {
+            "heading": "Works protected by copyright",
+            "article_number": "18",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 114,
+            "block_end": 114
+        },
+        "Article 18(4)": {
+            "heading": "Works protected by copyright",
+            "article_number": "18",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 115,
+            "block_end": 115
+        },
+        "Article 19": {
+            "heading": "Works that are not protected by copyright",
+            "article_number": "19",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 116,
+            "block_end": 122
+        },
+        "Article 19(1)(a)": {
+            "heading": "Works that are not protected by copyright",
+            "article_number": "19",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 120,
+            "block_end": 122
+        },
+        "Article 19(1)": {
+            "heading": "Works that are not protected by copyright",
+            "article_number": "19",
+            "page_start": 9,
+            "page_end": 10,
+            "block_start": 117,
+            "block_end": 122
+        },
+        "Article 20": {
+            "heading": "Authorship",
+            "article_number": "20",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 123,
+            "block_end": 129
+        },
+        "Article 20(1)(a)": {
+            "heading": "Authorship",
+            "article_number": "20",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 125,
+            "block_end": 125
+        },
+        "Article 20(1)(b)": {
+            "heading": "Authorship",
+            "article_number": "20",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 126,
+            "block_end": 126
+        },
+        "Article 20(1)(c)": {
+            "heading": "Authorship",
+            "article_number": "20",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 127,
+            "block_end": 128
+        },
+        "Article 20(1)": {
+            "heading": "Authorship",
+            "article_number": "20",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 124,
+            "block_end": 128
+        },
+        "Article 20(3)": {
+            "heading": "Authorship",
+            "article_number": "20",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 129,
+            "block_end": 129
+        },
+        "Article 21": {
+            "heading": "First ownership of copyright",
+            "article_number": "21",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 130,
+            "block_end": 131
+        },
+        "Article 22": {
+            "heading": "Copyright ownership in employment relationships",
+            "article_number": "22",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 132,
+            "block_end": 142
+        },
+        "Article 22(1)": {
+            "heading": "Copyright ownership in employment relationships",
+            "article_number": "22",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 133,
+            "block_end": 133
+        },
+        "Article 22(2)": {
+            "heading": "Copyright ownership in employment relationships",
+            "article_number": "22",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 134,
+            "block_end": 134
+        },
+        "Article 22(3)(a)": {
+            "heading": "Copyright ownership in employment relationships",
+            "article_number": "22",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 136,
+            "block_end": 138
+        },
+        "Article 22(3)(b)": {
+            "heading": "Copyright ownership in employment relationships",
+            "article_number": "22",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 139,
+            "block_end": 139
+        },
+        "Article 22(3)": {
+            "heading": "Copyright ownership in employment relationships",
+            "article_number": "22",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 135,
+            "block_end": 139
+        },
+        "Article 22(4)": {
+            "heading": "Copyright ownership in employment relationships",
+            "article_number": "22",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 140,
+            "block_end": 140
+        },
+        "Article 22(5)(a)": {
+            "heading": "Copyright ownership in employment relationships",
+            "article_number": "22",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 142,
+            "block_end": 142
+        },
+        "Article 22(5)": {
+            "heading": "Copyright ownership in employment relationships",
+            "article_number": "22",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 141,
+            "block_end": 142
+        },
+        "Article 23": {
+            "heading": "Work of Joint Authorship",
+            "article_number": "23",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 143,
+            "block_end": 144
+        },
+        "Article 23(1)": {
+            "heading": "Work of Joint Authorship",
+            "article_number": "23",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 144,
+            "block_end": 144
+        },
+        "Article 24": {
+            "heading": "Works of Co-Authorship",
+            "article_number": "24",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 145,
+            "block_end": 146
+        },
+        "Article 24(1)": {
+            "heading": "Works of Co-Authorship",
+            "article_number": "24",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 146,
+            "block_end": 146
+        },
+        "Article 25": {
+            "heading": "Collective Work",
+            "article_number": "25",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 147,
+            "block_end": 148
+        },
+        "Article 25(1)": {
+            "heading": "Collective Work",
+            "article_number": "25",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 148,
+            "block_end": 148
+        },
+        "Article 26": {
+            "heading": "Co-Authors of Audio-Visual Work, audio Work and visual Work",
+            "article_number": "26",
+            "page_start": 11,
+            "page_end": 12,
+            "block_start": 149,
+            "block_end": 161
+        },
+        "Article 26(1)(a)": {
+            "heading": "Co-Authors of Audio-Visual Work, audio Work and visual Work",
+            "article_number": "26",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 151,
+            "block_end": 153
+        },
+        "Article 26(1)(b)": {
+            "heading": "Co-Authors of Audio-Visual Work, audio Work and visual Work",
+            "article_number": "26",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 154,
+            "block_end": 154
+        },
+        "Article 26(1)": {
+            "heading": "Co-Authors of Audio-Visual Work, audio Work and visual Work",
+            "article_number": "26",
+            "page_start": 11,
+            "page_end": 12,
+            "block_start": 150,
+            "block_end": 154
+        },
+        "Article 26(2)(a)": {
+            "heading": "Co-Authors of Audio-Visual Work, audio Work and visual Work",
+            "article_number": "26",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 156,
+            "block_end": 157
+        },
+        "Article 26(2)": {
+            "heading": "Co-Authors of Audio-Visual Work, audio Work and visual Work",
+            "article_number": "26",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 155,
+            "block_end": 157
+        },
+        "Article 26(3)": {
+            "heading": "Co-Authors of Audio-Visual Work, audio Work and visual Work",
+            "article_number": "26",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 158,
+            "block_end": 158
+        },
+        "Article 26(4)": {
+            "heading": "Co-Authors of Audio-Visual Work, audio Work and visual Work",
+            "article_number": "26",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 159,
+            "block_end": 159
+        },
+        "Article 26(5)": {
+            "heading": "Co-Authors of Audio-Visual Work, audio Work and visual Work",
+            "article_number": "26",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 160,
+            "block_end": 160
+        },
+        "Article 26(6)": {
+            "heading": "Co-Authors of Audio-Visual Work, audio Work and visual Work",
+            "article_number": "26",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 161,
+            "block_end": 161
+        },
+        "Article 27": {
+            "heading": "Moral Rights",
+            "article_number": "27",
+            "page_start": 12,
+            "page_end": 13,
+            "block_start": 162,
+            "block_end": 168
+        },
+        "Article 27(1)(a)": {
+            "heading": "Moral Rights",
+            "article_number": "27",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 164,
+            "block_end": 165
+        },
+        "Article 27(1)(e)": {
+            "heading": "Moral Rights",
+            "article_number": "27",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 166,
+            "block_end": 166
+        },
+        "Article 27(1)": {
+            "heading": "Moral Rights",
+            "article_number": "27",
+            "page_start": 12,
+            "page_end": 13,
+            "block_start": 163,
+            "block_end": 166
+        },
+        "Article 27(2)(a)": {
+            "heading": "Moral Rights",
+            "article_number": "27",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 168,
+            "block_end": 168
+        },
+        "Article 27(2)": {
+            "heading": "Moral Rights",
+            "article_number": "27",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 167,
+            "block_end": 168
+        },
+        "Article 28": {
+            "heading": "Moral Rights of Performing Artists",
+            "article_number": "28",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 169,
+            "block_end": 171
+        },
+        "Article 29": {
+            "heading": "Economic Rights",
+            "article_number": "29",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 172,
+            "block_end": 174
+        },
+        "Article 30": {
+            "heading": "Economic Rights of Producers of Sound Recording",
+            "article_number": "30",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 175,
+            "block_end": 177
+        },
+        "Article 31": {
+            "heading": "Economic Rights of Broadcasting Organisations",
+            "article_number": "31",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 178,
+            "block_end": 183
+        },
+        "Article 32": {
+            "heading": "Economic Rights of Performing Artists",
+            "article_number": "32",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 184,
+            "block_end": 187
+        },
+        "Article 32(1)(a)": {
+            "heading": "Economic Rights of Performing Artists",
+            "article_number": "32",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 186,
+            "block_end": 186
+        },
+        "Article 32(1)": {
+            "heading": "Economic Rights of Performing Artists",
+            "article_number": "32",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 185,
+            "block_end": 186
+        },
+        "Article 32(2)": {
+            "heading": "Economic Rights of Performing Artists",
+            "article_number": "32",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 187,
+            "block_end": 187
+        },
+        "Article 33": {
+            "heading": "Lease of software",
+            "article_number": "33",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 188,
+            "block_end": 189
+        },
+        "Article 34": {
+            "heading": "Assignment of Copyright",
+            "article_number": "34",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 190,
+            "block_end": 191
+        },
+        "Article 34(1)": {
+            "heading": "Assignment of Copyright",
+            "article_number": "34",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 191,
+            "block_end": 191
+        },
+        "Article 35": {
+            "heading": "Licence of Copyright",
+            "article_number": "35",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 192,
+            "block_end": 199
+        },
+        "Article 35(1)": {
+            "heading": "Licence of Copyright",
+            "article_number": "35",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 193,
+            "block_end": 193
+        },
+        "Article 35(2)": {
+            "heading": "Licence of Copyright",
+            "article_number": "35",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 194,
+            "block_end": 194
+        },
+        "Article 35(3)(a)": {
+            "heading": "Licence of Copyright",
+            "article_number": "35",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 196,
+            "block_end": 196
+        },
+        "Article 35(3)": {
+            "heading": "Licence of Copyright",
+            "article_number": "35",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 195,
+            "block_end": 196
+        },
+        "Article 35(4)": {
+            "heading": "Licence of Copyright",
+            "article_number": "35",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 197,
+            "block_end": 199
+        },
+        "Article 36": {
+            "heading": "Disposal of original copy of a Work",
+            "article_number": "36",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 200,
+            "block_end": 201
+        },
+        "Article 36(1)": {
+            "heading": "Disposal of original copy of a Work",
+            "article_number": "36",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 201,
+            "block_end": 201
+        },
+        "Article 37": {
+            "heading": "Attachment of Economic Rights",
+            "article_number": "37",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 202,
+            "block_end": 203
+        },
+        "Article 37(1)": {
+            "heading": "Attachment of Economic Rights",
+            "article_number": "37",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 203,
+            "block_end": 203
+        },
+        "Article 38": {
+            "heading": "Disposal of future Work",
+            "article_number": "38",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 204,
+            "block_end": 205
+        },
+        "Article 39": {
+            "heading": "Duration of Copyright",
+            "article_number": "39",
+            "page_start": 15,
+            "page_end": 16,
+            "block_start": 206,
+            "block_end": 220
+        },
+        "Article 39(1)": {
+            "heading": "Duration of Copyright",
+            "article_number": "39",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 207,
+            "block_end": 207
+        },
+        "Article 39(2)": {
+            "heading": "Duration of Copyright",
+            "article_number": "39",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 208,
+            "block_end": 208
+        },
+        "Article 39(3)(a)": {
+            "heading": "Duration of Copyright",
+            "article_number": "39",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 210,
+            "block_end": 210
+        },
+        "Article 39(3)": {
+            "heading": "Duration of Copyright",
+            "article_number": "39",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 209,
+            "block_end": 210
+        },
+        "Article 39(4)": {
+            "heading": "Duration of Copyright",
+            "article_number": "39",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 211,
+            "block_end": 211
+        },
+        "Article 39(5)": {
+            "heading": "Duration of Copyright",
+            "article_number": "39",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 212,
+            "block_end": 212
+        },
+        "Article 39(6)": {
+            "heading": "Duration of Copyright",
+            "article_number": "39",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 213,
+            "block_end": 213
+        },
+        "Article 39(7)": {
+            "heading": "Duration of Copyright",
+            "article_number": "39",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 214,
+            "block_end": 216
+        },
+        "Article 39(8)": {
+            "heading": "Duration of Copyright",
+            "article_number": "39",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 217,
+            "block_end": 217
+        },
+        "Article 39(9)": {
+            "heading": "Duration of Copyright",
+            "article_number": "39",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 218,
+            "block_end": 218
+        },
+        "Article 39(10)": {
+            "heading": "Duration of Copyright",
+            "article_number": "39",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 219,
+            "block_end": 219
+        },
+        "Article 39(11)": {
+            "heading": "Duration of Copyright",
+            "article_number": "39",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 220,
+            "block_end": 220
+        },
+        "Article 40": {
+            "heading": "Acts permitted in relation to copyrighted Work",
+            "article_number": "40",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 221,
+            "block_end": 245
+        },
+        "Article 40(1)(a)": {
+            "heading": "Acts permitted in relation to copyrighted Work",
+            "article_number": "40",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 223,
+            "block_end": 223
+        },
+        "Article 40(1)(b)": {
+            "heading": "Acts permitted in relation to copyrighted Work",
+            "article_number": "40",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 224,
+            "block_end": 224
+        },
+        "Article 40(1)(c)": {
+            "heading": "Acts permitted in relation to copyrighted Work",
+            "article_number": "40",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 225,
+            "block_end": 225
+        },
+        "Article 40(1)(d)": {
+            "heading": "Acts permitted in relation to copyrighted Work",
+            "article_number": "40",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 226,
+            "block_end": 226
+        },
+        "Article 40(1)(i)": {
+            "heading": "Acts permitted in relation to copyrighted Work",
+            "article_number": "40",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 236,
+            "block_end": 236
+        },
+        "Article 40(1)(e)": {
+            "heading": "Acts permitted in relation to copyrighted Work",
+            "article_number": "40",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 228,
+            "block_end": 230
+        },
+        "Article 40(1)(h)": {
+            "heading": "Acts permitted in relation to copyrighted Work",
+            "article_number": "40",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 233,
+            "block_end": 233
+        },
+        "Article 40(1)": {
+            "heading": "Acts permitted in relation to copyrighted Work",
+            "article_number": "40",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 222,
+            "block_end": 236
+        },
+        "Article 40(2)(a)": {
+            "heading": "Acts permitted in relation to copyrighted Work",
+            "article_number": "40",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 240,
+            "block_end": 240
+        },
+        "Article 40(2)(b)": {
+            "heading": "Acts permitted in relation to copyrighted Work",
+            "article_number": "40",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 241,
+            "block_end": 241
+        },
+        "Article 40(2)(c)": {
+            "heading": "Acts permitted in relation to copyrighted Work",
+            "article_number": "40",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 242,
+            "block_end": 242
+        },
+        "Article 40(2)": {
+            "heading": "Acts permitted in relation to copyrighted Work",
+            "article_number": "40",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 237,
+            "block_end": 242
+        },
+        "Article 40(4)": {
+            "heading": "Acts permitted in relation to copyrighted Work",
+            "article_number": "40",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 243,
+            "block_end": 245
+        },
+        "Article 41": {
+            "heading": "Collection societies",
+            "article_number": "41",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 246,
+            "block_end": 256
+        },
+        "Article 41(1)(a)": {
+            "heading": "Collection societies",
+            "article_number": "41",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 248,
+            "block_end": 248
+        },
+        "Article 41(1)": {
+            "heading": "Collection societies",
+            "article_number": "41",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 247,
+            "block_end": 248
+        },
+        "Article 41(2)": {
+            "heading": "Collection societies",
+            "article_number": "41",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 249,
+            "block_end": 249
+        },
+        "Article 41(3)": {
+            "heading": "Collection societies",
+            "article_number": "41",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 250,
+            "block_end": 250
+        },
+        "Article 41(4)(a)": {
+            "heading": "Collection societies",
+            "article_number": "41",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 252,
+            "block_end": 252
+        },
+        "Article 41(4)": {
+            "heading": "Collection societies",
+            "article_number": "41",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 251,
+            "block_end": 252
+        },
+        "Article 41(5)(a)": {
+            "heading": "Collection societies",
+            "article_number": "41",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 254,
+            "block_end": 254
+        },
+        "Article 41(5)(c)": {
+            "heading": "Collection societies",
+            "article_number": "41",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 255,
+            "block_end": 256
+        },
+        "Article 41(5)": {
+            "heading": "Collection societies",
+            "article_number": "41",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 253,
+            "block_end": 256
+        },
+        "Article 42(1)(a)": {
+            "heading": "Prohibited Acts",
+            "article_number": "42",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 259,
+            "block_end": 260
+        },
+        "Article 42(1)(d)": {
+            "heading": "Prohibited Acts",
+            "article_number": "42",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 261,
+            "block_end": 261
+        },
+        "Article 42(1)(e)": {
+            "heading": "Prohibited Acts",
+            "article_number": "42",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 262,
+            "block_end": 262
+        },
+        "Article 42(1)(f)": {
+            "heading": "Prohibited Acts",
+            "article_number": "42",
+            "page_start": 19,
+            "page_end": 19,
+            "block_start": 263,
+            "block_end": 263
+        },
+        "Article 42(1)(g)": {
+            "heading": "Prohibited Acts",
+            "article_number": "42",
+            "page_start": 19,
+            "page_end": 20,
+            "block_start": 264,
+            "block_end": 268
+        },
+        "Article 42(1)": {
+            "heading": "Prohibited Acts",
+            "article_number": "42",
+            "page_start": 18,
+            "page_end": 20,
+            "block_start": 258,
+            "block_end": 268
+        },
+        "Article 44": {
+            "heading": "Marks that cannot be protected",
+            "article_number": "44",
+            "page_start": 20,
+            "page_end": 21,
+            "block_start": 271,
+            "block_end": 276
+        },
+        "Article 45": {
+            "heading": "Well-known trademarks",
+            "article_number": "45",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 277,
+            "block_end": 284
+        },
+        "Article 45(1)": {
+            "heading": "Well-known trademarks",
+            "article_number": "45",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 278,
+            "block_end": 278
+        },
+        "Article 45(2)(a)": {
+            "heading": "Well-known trademarks",
+            "article_number": "45",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 283,
+            "block_end": 283
+        },
+        "Article 45(2)": {
+            "heading": "Well-known trademarks",
+            "article_number": "45",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 279,
+            "block_end": 283
+        },
+        "Article 45(5)": {
+            "heading": "Well-known trademarks",
+            "article_number": "45",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 284,
+            "block_end": 284
+        },
+        "Article 46": {
+            "heading": "Rights of Trademark owner",
+            "article_number": "46",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 285,
+            "block_end": 286
+        },
+        "Article 47": {
+            "heading": "Licence",
+            "article_number": "47",
+            "page_start": 21,
+            "page_end": 22,
+            "block_start": 287,
+            "block_end": 291
+        },
+        "Article 47(1)": {
+            "heading": "Licence",
+            "article_number": "47",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 288,
+            "block_end": 289
+        },
+        "Article 47(2)": {
+            "heading": "Licence",
+            "article_number": "47",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 290,
+            "block_end": 291
+        },
+        "Article 48(2)": {
+            "heading": "Prohibited Acts that would constitute infringement",
+            "article_number": "48",
+            "page_start": 22,
+            "page_end": 22,
+            "block_start": 295,
+            "block_end": 295
+        },
+        "Article 49": {
+            "heading": "Acts that are not prohibited in relation to Trademarks",
+            "article_number": "49",
+            "page_start": 22,
+            "page_end": 23,
+            "block_start": 296,
+            "block_end": 301
+        },
+        "Article 50": {
+            "heading": "Trade Names",
+            "article_number": "50",
+            "page_start": 23,
+            "page_end": 23,
+            "block_start": 302,
+            "block_end": 303
+        },
+        "Article 51": {
+            "heading": "Conflicts between Trademarks and Trade Names",
+            "article_number": "51",
+            "page_start": 23,
+            "page_end": 24,
+            "block_start": 304,
+            "block_end": 307
+        },
+        "Article 53": {
+            "heading": "Rights of Trade Secrets Owner",
+            "article_number": "53",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 311,
+            "block_end": 313
+        },
+        "Article 53(1)(a)": {
+            "heading": "Rights of Trade Secrets Owner",
+            "article_number": "53",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 313,
+            "block_end": 313
+        },
+        "Article 53(1)": {
+            "heading": "Rights of Trade Secrets Owner",
+            "article_number": "53",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 312,
+            "block_end": 313
+        },
+        "Article 54": {
+            "heading": "Misappropriation of Trade Secrets",
+            "article_number": "54",
+            "page_start": 24,
+            "page_end": 24,
+            "block_start": 314,
+            "block_end": 317
+        },
+        "Article 55": {
+            "heading": "Acts that are not considered misappropriation of Trade Secrets",
+            "article_number": "55",
+            "page_start": 24,
+            "page_end": 26,
+            "block_start": 318,
+            "block_end": 326
+        },
+        "Article 56(1)": {
+            "heading": "Appointment of the Commissioner of Intellectual Property",
+            "article_number": "56",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 328,
+            "block_end": 328
+        },
+        "Article 57": {
+            "heading": "Removal of the Commissioner of Intellectual Property",
+            "article_number": "57",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 329,
+            "block_end": 330
+        },
+        "Article 58": {
+            "heading": "Resignation of the Commissioner of Intellectual Property",
+            "article_number": "58",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 331,
+            "block_end": 332
+        },
+        "Article 59": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 26,
+            "page_end": 27,
+            "block_start": 333,
+            "block_end": 353
+        },
+        "Article 59(1)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 334,
+            "block_end": 334
+        },
+        "Article 59(2)(a)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 336,
+            "block_end": 336
+        },
+        "Article 59(2)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 335,
+            "block_end": 336
+        },
+        "Article 59(3)(a)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 26,
+            "page_end": 26,
+            "block_start": 338,
+            "block_end": 338
+        },
+        "Article 59(3)(i)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 347,
+            "block_end": 347
+        },
+        "Article 59(3)(e)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 343,
+            "block_end": 343
+        },
+        "Article 59(3)(f)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 344,
+            "block_end": 344
+        },
+        "Article 59(3)(g)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 345,
+            "block_end": 345
+        },
+        "Article 59(3)(h)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 346,
+            "block_end": 346
+        },
+        "Article 59(3)(j)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 348,
+            "block_end": 348
+        },
+        "Article 59(3)(k)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 349,
+            "block_end": 349
+        },
+        "Article 59(3)(l)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 350,
+            "block_end": 350
+        },
+        "Article 59(3)(m)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 351,
+            "block_end": 351
+        },
+        "Article 59(3)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 26,
+            "page_end": 27,
+            "block_start": 337,
+            "block_end": 351
+        },
+        "Article 59(4)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 352,
+            "block_end": 352
+        },
+        "Article 59(5)": {
+            "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+            "article_number": "59",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 353,
+            "block_end": 353
+        },
+        "Article 60": {
+            "heading": "Regulations",
+            "article_number": "60",
+            "page_start": 27,
+            "page_end": 28,
+            "block_start": 354,
+            "block_end": 369
+        },
+        "Article 60(1)(a)": {
+            "heading": "Regulations",
+            "article_number": "60",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 356,
+            "block_end": 356
+        },
+        "Article 60(1)": {
+            "heading": "Regulations",
+            "article_number": "60",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 355,
+            "block_end": 356
+        },
+        "Article 60(2)(a)": {
+            "heading": "Regulations",
+            "article_number": "60",
+            "page_start": 27,
+            "page_end": 27,
+            "block_start": 358,
+            "block_end": 360
+        },
+        "Article 60(2)(c)": {
+            "heading": "Regulations",
+            "article_number": "60",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 361,
+            "block_end": 361
+        },
+        "Article 60(2)": {
+            "heading": "Regulations",
+            "article_number": "60",
+            "page_start": 27,
+            "page_end": 28,
+            "block_start": 357,
+            "block_end": 361
+        },
+        "Article 60(3)": {
+            "heading": "Regulations",
+            "article_number": "60",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 362,
+            "block_end": 362
+        },
+        "Article 60(4)": {
+            "heading": "Regulations",
+            "article_number": "60",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 363,
+            "block_end": 363
+        },
+        "Article 60(5)": {
+            "heading": "Regulations",
+            "article_number": "60",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 364,
+            "block_end": 364
+        },
+        "Article 60(6)(a)": {
+            "heading": "Regulations",
+            "article_number": "60",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 366,
+            "block_end": 366
+        },
+        "Article 60(6)": {
+            "heading": "Regulations",
+            "article_number": "60",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 365,
+            "block_end": 366
+        },
+        "Article 60(7)": {
+            "heading": "Regulations",
+            "article_number": "60",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 367,
+            "block_end": 367
+        },
+        "Article 60(8)": {
+            "heading": "Regulations",
+            "article_number": "60",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 368,
+            "block_end": 369
+        },
+        "Article 62": {
+            "heading": "Annual Funding of the Commissioner of Intellectual Property",
+            "article_number": "62",
+            "page_start": 28,
+            "page_end": 29,
+            "block_start": 372,
+            "block_end": 376
+        },
+        "Article 62(1)": {
+            "heading": "Annual Funding of the Commissioner of Intellectual Property",
+            "article_number": "62",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 373,
+            "block_end": 373
+        },
+        "Article 62(2)": {
+            "heading": "Annual Funding of the Commissioner of Intellectual Property",
+            "article_number": "62",
+            "page_start": 28,
+            "page_end": 28,
+            "block_start": 374,
+            "block_end": 375
+        },
+        "Article 62(3)": {
+            "heading": "Annual Funding of the Commissioner of Intellectual Property",
+            "article_number": "62",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 376,
+            "block_end": 376
+        },
+        "Article 63": {
+            "heading": "Accounts",
+            "article_number": "63",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 377,
+            "block_end": 378
+        },
+        "Article 63(1)": {
+            "heading": "Accounts",
+            "article_number": "63",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 378,
+            "block_end": 378
+        },
+        "Article 64": {
+            "heading": "Audit",
+            "article_number": "64",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 379,
+            "block_end": 382
+        },
+        "Article 64(1)": {
+            "heading": "Audit",
+            "article_number": "64",
+            "page_start": 29,
+            "page_end": 29,
+            "block_start": 380,
+            "block_end": 382
+        },
+        "Article 65": {
+            "heading": "Annual Report",
+            "article_number": "65",
+            "page_start": 30,
+            "page_end": 31,
+            "block_start": 383,
+            "block_end": 387
+        },
+        "Article 65(1)": {
+            "heading": "Annual Report",
+            "article_number": "65",
+            "page_start": 30,
+            "page_end": 31,
+            "block_start": 384,
+            "block_end": 387
+        },
+        "Article 66(1)(a)": {
+            "heading": "Directions",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 390,
+            "block_end": 390
+        },
+        "Article 66(1)": {
+            "heading": "Directions",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 389,
+            "block_end": 390
+        },
+        "Article 66(2)": {
+            "heading": "Directions",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 391,
+            "block_end": 392
+        },
+        "Article 66(4)(a)": {
+            "heading": "Directions",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 394,
+            "block_end": 394
+        },
+        "Article 66(4)": {
+            "heading": "Directions",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 393,
+            "block_end": 394
+        },
+        "Article 66(5)(a)": {
+            "heading": "Directions",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 396,
+            "block_end": 396
+        },
+        "Article 66(5)": {
+            "heading": "Directions",
+            "article_number": "66",
+            "page_start": 31,
+            "page_end": 31,
+            "block_start": 395,
+            "block_end": 396
+        },
+        "Article 67": {
+            "heading": "Actions with the Court",
+            "article_number": "67",
+            "page_start": 31,
+            "page_end": 32,
+            "block_start": 397,
+            "block_end": 402
+        },
+        "Article 67(1)": {
+            "heading": "Actions with the Court",
+            "article_number": "67",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 400,
+            "block_end": 400
+        },
+        "Article 67(2)": {
+            "heading": "Actions with the Court",
+            "article_number": "67",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 401,
+            "block_end": 401
+        },
+        "Article 67(3)": {
+            "heading": "Actions with the Court",
+            "article_number": "67",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 402,
+            "block_end": 402
+        },
+        "Article 68": {
+            "heading": "Non-Conflict with DIFC Courts",
+            "article_number": "68",
+            "page_start": 32,
+            "page_end": 33,
+            "block_start": 403,
+            "block_end": 409
+        },
+        "Article 68(1)": {
+            "heading": "Non-Conflict with DIFC Courts",
+            "article_number": "68",
+            "page_start": 32,
+            "page_end": 32,
+            "block_start": 404,
+            "block_end": 404
+        },
+        "Article 68(2)": {
+            "heading": "Non-Conflict with DIFC Courts",
+            "article_number": "68",
+            "page_start": 32,
+            "page_end": 33,
+            "block_start": 405,
+            "block_end": 409
+        },
+        "Article 1(1)(a)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 412,
+            "block_end": 414
+        },
+        "Article 1(1)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 411,
+            "block_end": 414
+        },
+        "Article 1(4)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 33,
+            "page_end": 33,
+            "block_start": 415,
+            "block_end": 415
+        },
+        "Article 3(1)(a)": {
+            "heading": "Defined terms",
+            "article_number": "3",
+            "page_start": 38,
+            "page_end": 40,
+            "block_start": 434,
+            "block_end": 442
+        }
+    },
+    "section_heading_index": {
+        "Title .. ..3 2. Legislative authority. ..3 3. Application of this Law . ...3 4. Date of enactment and commencement. ..3 5. Administration of the Law.... ..3 6. Schedules.... .3": [
+            {
+                "heading": "Title .. ..3 2. Legislative authority. ..3 3. Application of this Law . ...3 4. Date of enactment and commencement. ..3 5. Administration of the Law.... ..3 6. Schedules.... .3",
+                "article_number": "1",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 6,
+                "block_end": 8
+            }
+        ],
+        "Recognition of Patents and Utility Certificates registered in the UAE. ..4 8. Rights conferred by a Patent or Utility Certificate . ..4 9. Acts of infringement... ..4 10. Acts of exploitation that would not constitute infringement . ..5 11. Reversal of burden of proof. ..5 12. Patent ownership in employment relationship.. ..5 13. Rights to an Invention ..6": [
+            {
+                "heading": "Recognition of Patents and Utility Certificates registered in the UAE. ..4 8. Rights conferred by a Patent or Utility Certificate . ..4 9. Acts of infringement... ..4 10. Acts of exploitation that would not constitute infringement . ..5 11. Reversal of burden of proof. ..5 12. Patent ownership in employment relationship.. ..5 13. Rights to an Invention ..6",
+                "article_number": "7",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 9,
+                "block_end": 10
+            }
+        ],
+        "Recognition of Industrial Drawings and Industrial Designs registered in the UAE .. ..6 15. Rights conferred by an Industrial Drawing or Designs . ...7 16. Application of Articles related to Patents and Utility Certificates on Industrial Drawing or Designs .7": [
+            {
+                "heading": "Recognition of Industrial Drawings and Industrial Designs registered in the UAE .. ..6 15. Rights conferred by an Industrial Drawing or Designs . ...7 16. Application of Articles related to Patents and Utility Certificates on Industrial Drawing or Designs .7",
+                "article_number": "14",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 11,
+                "block_end": 13
+            }
+        ],
+        "Recognition of copyright under the Federal Copyright Law .... ....8 18. Works protected by copyright . ...8 19. Works that are not protected by copyright . ..8 20. Authorship.. ...9 21. First ownership of copyright . .................................................................. .....9 22. Copyright ownership in employment relationships . ...9 23. Work of Joint Authorship. ..10 24. Works of Co-Authorship ...... .....10 25. Collective Work . ...10 26. Co-Authors of Audio-Visual Work, audio Work and visual Work . .10 27. Moral Rights.. ..11 28. Moral Rights of Performing Artists .. ........................................................ ....12 29. Economic Rights . .12 30. Economic Rights of Producers of Sound Recording . .......................... ............................... ..12 31. Economic Rights of Broadcasting Organisations ..... ................... .....12 32. Economic Rights of Performing Artists . . ..13 33. Lease of software.. .13 34. Assignment of Copyright . ...13 35. Licence of Copyright.. ....13 36. Disposal of original copy of a Work . ..14 37. Attachment of Economic Rights . ................................................................................. ..14 38. Disposal of future Work ..... ................................................... ......14 39. Duration of Copyright . ..14 40. Acts permitted in relation to copyrighted Work . ..15 41. Collection societies... ..17": [
+            {
+                "heading": "Recognition of copyright under the Federal Copyright Law .... ....8 18. Works protected by copyright . ...8 19. Works that are not protected by copyright . ..8 20. Authorship.. ...9 21. First ownership of copyright . .................................................................. .....9 22. Copyright ownership in employment relationships . ...9 23. Work of Joint Authorship. ..10 24. Works of Co-Authorship ...... .....10 25. Collective Work . ...10 26. Co-Authors of Audio-Visual Work, audio Work and visual Work . .10 27. Moral Rights.. ..11 28. Moral Rights of Performing Artists .. ........................................................ ....12 29. Economic Rights . .12 30. Economic Rights of Producers of Sound Recording . .......................... ............................... ..12 31. Economic Rights of Broadcasting Organisations ..... ................... .....12 32. Economic Rights of Performing Artists . . ..13 33. Lease of software.. .13 34. Assignment of Copyright . ...13 35. Licence of Copyright.. ....13 36. Disposal of original copy of a Work . ..14 37. Attachment of Economic Rights . ................................................................................. ..14 38. Disposal of future Work ..... ................................................... ......14 39. Duration of Copyright . ..14 40. Acts permitted in relation to copyrighted Work . ..15 41. Collection societies... ..17",
+                "article_number": "17",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 14,
+                "block_end": 15
+            }
+        ],
+        "Prohibited Acts ... .17": [
+            {
+                "heading": "Prohibited Acts ... .17",
+                "article_number": "42",
+                "page_start": 2,
+                "page_end": 3,
+                "block_start": 16,
+                "block_end": 20
+            }
+        ],
+        "Recognition of Trademarks Registered in the UAE . ..19 44. Marks that cannot be protected. ................................... ............. ..19 45. Well-known trademarks . ...20 46. Rights of Trademark owner.. ................................. ............ ..20 47. Licence ... ..20": [
+            {
+                "heading": "Recognition of Trademarks Registered in the UAE . ..19 44. Marks that cannot be protected. ................................... ............. ..19 45. Well-known trademarks . ...20 46. Rights of Trademark owner.. ................................. ............ ..20 47. Licence ... ..20",
+                "article_number": "43",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 21,
+                "block_end": 22
+            }
+        ],
+        "Prohibited Acts that would constitute infringement .. .21 49. Acts that are not prohibited in relation to Trademarks ........ .21 CHAPTER 3: TRADE NAMES.. .22 50. Trade Names . .22 51. Conflicts between Trademarks and Trade Names ... .22": [
+            {
+                "heading": "Prohibited Acts that would constitute infringement .. .21 49. Acts that are not prohibited in relation to Trademarks ........ .21 CHAPTER 3: TRADE NAMES.. .22 50. Trade Names . .22 51. Conflicts between Trademarks and Trade Names ... .22",
+                "article_number": "48",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 23,
+                "block_end": 24
+            }
+        ],
+        "General Conditions for Trade Secrets .. .23 53. Rights of Trade Secrets Owner.. ..23 54. Misappropriation of Trade Secrets . .23 55. Acts that are not considered misappropriation of Trade Secrets . .23": [
+            {
+                "heading": "General Conditions for Trade Secrets .. .23 53. Rights of Trade Secrets Owner.. ..23 54. Misappropriation of Trade Secrets . .23 55. Acts that are not considered misappropriation of Trade Secrets . .23",
+                "article_number": "52",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 25,
+                "block_end": 27
+            }
+        ],
+        "Appointment of the Commissioner of Intellectual Property...... .25 57. Removal of the Commissioner of Intellectual Property .25 58. Resignation of the Commissioner of Intellectual Property.... .25 59. Powers, Functions and Objectives of the Commissioner of Intellectual Property. ..25 60. Regulations... .26": [
+            {
+                "heading": "Appointment of the Commissioner of Intellectual Property...... .25 57. Removal of the Commissioner of Intellectual Property .25 58. Resignation of the Commissioner of Intellectual Property.... .25 59. Powers, Functions and Objectives of the Commissioner of Intellectual Property. ..25 60. Regulations... .26",
+                "article_number": "56",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 28,
+                "block_end": 29
+            }
+        ],
+        "Funding..... ..27 62. Annual Funding of the Commissioner of Intellectual Property .............. ..27 63. Accounts... ..28 64. Audit... ..28 65. Annual Report .. ..29": [
+            {
+                "heading": "Funding..... ..27 62. Annual Funding of the Commissioner of Intellectual Property .............. ..27 63. Accounts... ..28 64. Audit... ..28 65. Annual Report .. ..29",
+                "article_number": "61",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 30,
+                "block_end": 31
+            }
+        ],
+        "Directions . ..30 67. Actions with the Court . ..30 68. Non-Conflict with DIFC Courts .. .31": [
+            {
+                "heading": "Directions . ..30 67. Actions with the Court . ..30 68. Non-Conflict with DIFC Courts .. .31",
+                "article_number": "66",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 32,
+                "block_end": 40
+            }
+        ],
+        "Legislative authority": [
+            {
+                "heading": "Legislative authority",
+                "article_number": "2",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 41,
+                "block_end": 42
+            }
+        ],
+        "Application of this Law": [
+            {
+                "heading": "Application of this Law",
+                "article_number": "3",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 43,
+                "block_end": 44
+            }
+        ],
+        "Date of enactment and commencement": [
+            {
+                "heading": "Date of enactment and commencement",
+                "article_number": "4",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 45,
+                "block_end": 46
+            }
+        ],
+        "Administration of the Law": [
+            {
+                "heading": "Administration of the Law",
+                "article_number": "5",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 47,
+                "block_end": 48
+            }
+        ],
+        "Schedules": [
+            {
+                "heading": "Schedules",
+                "article_number": "6",
+                "page_start": 4,
+                "page_end": 5,
+                "block_start": 49,
+                "block_end": 56
+            }
+        ],
+        "Recognition of Patents and Utility Certificates registered in the UAE": [
+            {
+                "heading": "Recognition of Patents and Utility Certificates registered in the UAE",
+                "article_number": "7",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 57,
+                "block_end": 58
+            }
+        ],
+        "Rights conferred by a Patent or Utility Certificate": [
+            {
+                "heading": "Rights conferred by a Patent or Utility Certificate",
+                "article_number": "8",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 59,
+                "block_end": 62
+            }
+        ],
+        "Acts of infringement": [
+            {
+                "heading": "Acts of infringement",
+                "article_number": "9",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 63,
+                "block_end": 69
+            }
+        ],
+        "Acts of exploitation that would not constitute infringement": [
+            {
+                "heading": "Acts of exploitation that would not constitute infringement",
+                "article_number": "10",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 70,
+                "block_end": 77
+            }
+        ],
+        "Reversal of burden of proof": [
+            {
+                "heading": "Reversal of burden of proof",
+                "article_number": "11",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 78,
+                "block_end": 80
+            }
+        ],
+        "Patent ownership in employment relationship": [
+            {
+                "heading": "Patent ownership in employment relationship",
+                "article_number": "12",
+                "page_start": 6,
+                "page_end": 7,
+                "block_start": 81,
+                "block_end": 92
+            }
+        ],
+        "Rights to an Invention": [
+            {
+                "heading": "Rights to an Invention",
+                "article_number": "13",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 93,
+                "block_end": 96
+            }
+        ],
+        "Recognition of Industrial Drawings and Industrial Designs registered in the UAE": [
+            {
+                "heading": "Recognition of Industrial Drawings and Industrial Designs registered in the UAE",
+                "article_number": "14",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 97,
+                "block_end": 100
+            }
+        ],
+        "Rights conferred by an Industrial Drawing or Designs": [
+            {
+                "heading": "Rights conferred by an Industrial Drawing or Designs",
+                "article_number": "15",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 101,
+                "block_end": 104
+            }
+        ],
+        "Application of Articles related to Patents and Utility Certificates on Industrial Drawing or Designs": [
+            {
+                "heading": "Application of Articles related to Patents and Utility Certificates on Industrial Drawing or Designs",
+                "article_number": "16",
+                "page_start": 8,
+                "page_end": 9,
+                "block_start": 105,
+                "block_end": 110
+            }
+        ],
+        "Recognition of copyright under the Federal Copyright Law": [
+            {
+                "heading": "Recognition of copyright under the Federal Copyright Law",
+                "article_number": "17",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 111,
+                "block_end": 112
+            }
+        ],
+        "Works protected by copyright": [
+            {
+                "heading": "Works protected by copyright",
+                "article_number": "18",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 113,
+                "block_end": 115
+            }
+        ],
+        "Works that are not protected by copyright": [
+            {
+                "heading": "Works that are not protected by copyright",
+                "article_number": "19",
+                "page_start": 9,
+                "page_end": 10,
+                "block_start": 116,
+                "block_end": 122
+            }
+        ],
+        "Authorship": [
+            {
+                "heading": "Authorship",
+                "article_number": "20",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 123,
+                "block_end": 129
+            }
+        ],
+        "First ownership of copyright": [
+            {
+                "heading": "First ownership of copyright",
+                "article_number": "21",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 130,
+                "block_end": 131
+            }
+        ],
+        "Copyright ownership in employment relationships": [
+            {
+                "heading": "Copyright ownership in employment relationships",
+                "article_number": "22",
+                "page_start": 10,
+                "page_end": 11,
+                "block_start": 132,
+                "block_end": 142
+            }
+        ],
+        "Work of Joint Authorship": [
+            {
+                "heading": "Work of Joint Authorship",
+                "article_number": "23",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 143,
+                "block_end": 144
+            }
+        ],
+        "Works of Co-Authorship": [
+            {
+                "heading": "Works of Co-Authorship",
+                "article_number": "24",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 145,
+                "block_end": 146
+            }
+        ],
+        "Collective Work": [
+            {
+                "heading": "Collective Work",
+                "article_number": "25",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 147,
+                "block_end": 148
+            }
+        ],
+        "Co-Authors of Audio-Visual Work, audio Work and visual Work": [
+            {
+                "heading": "Co-Authors of Audio-Visual Work, audio Work and visual Work",
+                "article_number": "26",
+                "page_start": 11,
+                "page_end": 12,
+                "block_start": 149,
+                "block_end": 161
+            }
+        ],
+        "Moral Rights": [
+            {
+                "heading": "Moral Rights",
+                "article_number": "27",
+                "page_start": 12,
+                "page_end": 13,
+                "block_start": 162,
+                "block_end": 168
+            }
+        ],
+        "Moral Rights of Performing Artists": [
+            {
+                "heading": "Moral Rights of Performing Artists",
+                "article_number": "28",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 169,
+                "block_end": 171
+            }
+        ],
+        "Economic Rights": [
+            {
+                "heading": "Economic Rights",
+                "article_number": "29",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 172,
+                "block_end": 174
+            }
+        ],
+        "Economic Rights of Producers of Sound Recording": [
+            {
+                "heading": "Economic Rights of Producers of Sound Recording",
+                "article_number": "30",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 175,
+                "block_end": 177
+            }
+        ],
+        "Economic Rights of Broadcasting Organisations": [
+            {
+                "heading": "Economic Rights of Broadcasting Organisations",
+                "article_number": "31",
+                "page_start": 13,
+                "page_end": 14,
+                "block_start": 178,
+                "block_end": 183
+            }
+        ],
+        "Economic Rights of Performing Artists": [
+            {
+                "heading": "Economic Rights of Performing Artists",
+                "article_number": "32",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 184,
+                "block_end": 187
+            }
+        ],
+        "Lease of software": [
+            {
+                "heading": "Lease of software",
+                "article_number": "33",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 188,
+                "block_end": 189
+            }
+        ],
+        "Assignment of Copyright": [
+            {
+                "heading": "Assignment of Copyright",
+                "article_number": "34",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 190,
+                "block_end": 191
+            }
+        ],
+        "Licence of Copyright": [
+            {
+                "heading": "Licence of Copyright",
+                "article_number": "35",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 192,
+                "block_end": 199
+            }
+        ],
+        "Disposal of original copy of a Work": [
+            {
+                "heading": "Disposal of original copy of a Work",
+                "article_number": "36",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 200,
+                "block_end": 201
+            }
+        ],
+        "Attachment of Economic Rights": [
+            {
+                "heading": "Attachment of Economic Rights",
+                "article_number": "37",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 202,
+                "block_end": 203
+            }
+        ],
+        "Disposal of future Work": [
+            {
+                "heading": "Disposal of future Work",
+                "article_number": "38",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 204,
+                "block_end": 205
+            }
+        ],
+        "Duration of Copyright": [
+            {
+                "heading": "Duration of Copyright",
+                "article_number": "39",
+                "page_start": 15,
+                "page_end": 16,
+                "block_start": 206,
+                "block_end": 220
+            }
+        ],
+        "Acts permitted in relation to copyrighted Work": [
+            {
+                "heading": "Acts permitted in relation to copyrighted Work",
+                "article_number": "40",
+                "page_start": 16,
+                "page_end": 17,
+                "block_start": 221,
+                "block_end": 245
+            }
+        ],
+        "Collection societies": [
+            {
+                "heading": "Collection societies",
+                "article_number": "41",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 246,
+                "block_end": 256
+            }
+        ],
+        "Prohibited Acts": [
+            {
+                "heading": "Prohibited Acts",
+                "article_number": "42",
+                "page_start": 18,
+                "page_end": 20,
+                "block_start": 257,
+                "block_end": 268
+            }
+        ],
+        "Recognition of Trademarks Registered in the UAE": [
+            {
+                "heading": "Recognition of Trademarks Registered in the UAE",
+                "article_number": "43",
+                "page_start": 20,
+                "page_end": 20,
+                "block_start": 269,
+                "block_end": 270
+            }
+        ],
+        "Marks that cannot be protected": [
+            {
+                "heading": "Marks that cannot be protected",
+                "article_number": "44",
+                "page_start": 20,
+                "page_end": 21,
+                "block_start": 271,
+                "block_end": 276
+            }
+        ],
+        "Well-known trademarks": [
+            {
+                "heading": "Well-known trademarks",
+                "article_number": "45",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 277,
+                "block_end": 284
+            }
+        ],
+        "Rights of Trademark owner": [
+            {
+                "heading": "Rights of Trademark owner",
+                "article_number": "46",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 285,
+                "block_end": 286
+            }
+        ],
+        "Licence": [
+            {
+                "heading": "Licence",
+                "article_number": "47",
+                "page_start": 21,
+                "page_end": 22,
+                "block_start": 287,
+                "block_end": 291
+            }
+        ],
+        "Prohibited Acts that would constitute infringement": [
+            {
+                "heading": "Prohibited Acts that would constitute infringement",
+                "article_number": "48",
+                "page_start": 22,
+                "page_end": 22,
+                "block_start": 292,
+                "block_end": 295
+            }
+        ],
+        "Acts that are not prohibited in relation to Trademarks": [
+            {
+                "heading": "Acts that are not prohibited in relation to Trademarks",
+                "article_number": "49",
+                "page_start": 22,
+                "page_end": 23,
+                "block_start": 296,
+                "block_end": 301
+            }
+        ],
+        "Trade Names": [
+            {
+                "heading": "Trade Names",
+                "article_number": "50",
+                "page_start": 23,
+                "page_end": 23,
+                "block_start": 302,
+                "block_end": 303
+            }
+        ],
+        "Conflicts between Trademarks and Trade Names": [
+            {
+                "heading": "Conflicts between Trademarks and Trade Names",
+                "article_number": "51",
+                "page_start": 23,
+                "page_end": 24,
+                "block_start": 304,
+                "block_end": 307
+            }
+        ],
+        "General Conditions for Trade Secrets": [
+            {
+                "heading": "General Conditions for Trade Secrets",
+                "article_number": "52",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 308,
+                "block_end": 310
+            }
+        ],
+        "Rights of Trade Secrets Owner": [
+            {
+                "heading": "Rights of Trade Secrets Owner",
+                "article_number": "53",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 311,
+                "block_end": 313
+            }
+        ],
+        "Misappropriation of Trade Secrets": [
+            {
+                "heading": "Misappropriation of Trade Secrets",
+                "article_number": "54",
+                "page_start": 24,
+                "page_end": 24,
+                "block_start": 314,
+                "block_end": 317
+            }
+        ],
+        "Acts that are not considered misappropriation of Trade Secrets": [
+            {
+                "heading": "Acts that are not considered misappropriation of Trade Secrets",
+                "article_number": "55",
+                "page_start": 24,
+                "page_end": 26,
+                "block_start": 318,
+                "block_end": 326
+            }
+        ],
+        "Appointment of the Commissioner of Intellectual Property": [
+            {
+                "heading": "Appointment of the Commissioner of Intellectual Property",
+                "article_number": "56",
+                "page_start": 26,
+                "page_end": 26,
+                "block_start": 327,
+                "block_end": 328
+            }
+        ],
+        "Removal of the Commissioner of Intellectual Property": [
+            {
+                "heading": "Removal of the Commissioner of Intellectual Property",
+                "article_number": "57",
+                "page_start": 26,
+                "page_end": 26,
+                "block_start": 329,
+                "block_end": 330
+            }
+        ],
+        "Resignation of the Commissioner of Intellectual Property": [
+            {
+                "heading": "Resignation of the Commissioner of Intellectual Property",
+                "article_number": "58",
+                "page_start": 26,
+                "page_end": 26,
+                "block_start": 331,
+                "block_end": 332
+            }
+        ],
+        "Powers, Functions and Objectives of the Commissioner of Intellectual Property": [
+            {
+                "heading": "Powers, Functions and Objectives of the Commissioner of Intellectual Property",
+                "article_number": "59",
+                "page_start": 26,
+                "page_end": 27,
+                "block_start": 333,
+                "block_end": 353
+            }
+        ],
+        "Regulations": [
+            {
+                "heading": "Regulations",
+                "article_number": "60",
+                "page_start": 27,
+                "page_end": 28,
+                "block_start": 354,
+                "block_end": 369
+            }
+        ],
+        "Funding": [
+            {
+                "heading": "Funding",
+                "article_number": "61",
+                "page_start": 28,
+                "page_end": 28,
+                "block_start": 370,
+                "block_end": 371
+            }
+        ],
+        "Annual Funding of the Commissioner of Intellectual Property": [
+            {
+                "heading": "Annual Funding of the Commissioner of Intellectual Property",
+                "article_number": "62",
+                "page_start": 28,
+                "page_end": 29,
+                "block_start": 372,
+                "block_end": 376
+            }
+        ],
+        "Accounts": [
+            {
+                "heading": "Accounts",
+                "article_number": "63",
+                "page_start": 29,
+                "page_end": 29,
+                "block_start": 377,
+                "block_end": 378
+            }
+        ],
+        "Audit": [
+            {
+                "heading": "Audit",
+                "article_number": "64",
+                "page_start": 29,
+                "page_end": 29,
+                "block_start": 379,
+                "block_end": 382
+            }
+        ],
+        "Annual Report": [
+            {
+                "heading": "Annual Report",
+                "article_number": "65",
+                "page_start": 30,
+                "page_end": 31,
+                "block_start": 383,
+                "block_end": 387
+            }
+        ],
+        "Directions": [
+            {
+                "heading": "Directions",
+                "article_number": "66",
+                "page_start": 31,
+                "page_end": 31,
+                "block_start": 388,
+                "block_end": 396
+            }
+        ],
+        "Actions with the Court": [
+            {
+                "heading": "Actions with the Court",
+                "article_number": "67",
+                "page_start": 31,
+                "page_end": 32,
+                "block_start": 397,
+                "block_end": 402
+            }
+        ],
+        "Non-Conflict with DIFC Courts": [
+            {
+                "heading": "Non-Conflict with DIFC Courts",
+                "article_number": "68",
+                "page_start": 32,
+                "page_end": 33,
+                "block_start": 403,
+                "block_end": 409
+            }
+        ],
+        "Rules of interpretation": [
+            {
+                "heading": "Rules of interpretation",
+                "article_number": "1",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 410,
+                "block_end": 415
+            }
+        ],
+        "Legislation in the DIFC": [
+            {
+                "heading": "Legislation in the DIFC",
+                "article_number": "2",
+                "page_start": 33,
+                "page_end": 33,
+                "block_start": 416,
+                "block_end": 420
+            }
+        ],
+        "Defined terms": [
+            {
+                "heading": "Defined terms",
+                "article_number": "3",
+                "page_start": 34,
+                "page_end": 40,
+                "block_start": 421,
+                "block_end": 442
+            }
+        ]
+    }
+}

@@ -1,0 +1,4239 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            388,
+            243,
+            606,
+            290
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 4 September 2023 ",
+        "text_level": 1,
+        "bbox": [
+            200,
+            496,
+            797,
+            571
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Digital Assets Digital Assets Law ",
+        "bbox": [
+            117,
+            653,
+            888,
+            737
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            493,
+            942,
+            505,
+            954
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Table of Contents ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            84,
+            277,
+            99
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Why are we issuing this paper?.. 3   \nWho should read this paper?.. .. 3   \nHow to provide comments ... .. 3   \nWhat happens next?.. . 4   \nDefined terms ..... . 5   \nKey changes to existing DIFC legislation . .. 5   \nBackground.... .. 6   \nKey features of the DAL . .. 7   \nDefinition of a Digital Asset... ... 7   \nProperty characterisation... .. 10   \nOriginal acquisition of title .. .. 11   \nTransfer of title........... .... 17   \nInterference / impairment of use.. ... 22   \nRecovery of control of a Digital Asset.. .. 29   \nBona fide purchase......... .. 30   \nContract Law amendments .. .. 36   \nLaw of Damages and Remedies.. .. 39   \nLaw of Obligations.... .... 40   \nITCUT Law .... .... 40   \nTrust Law and Foundations Law.. .. 42   \nInsolvency Law and Insolvency Regulations... . 42   \nLegislative proposal ........... .... 44 ",
+        "bbox": [
+            112,
+            95,
+            883,
+            592
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            493,
+            942,
+            505,
+            954
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Why are we issuing this paper? ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            87,
+            380,
+            104
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. The Dubai International Financial Centre Authority (“DIFCA”) seeks public comment on the proposal to enact a new Digital Assets Law (the “DAL”). ",
+        "bbox": [
+            116,
+            118,
+            885,
+            160
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. As a result of enacting the DAL, consequential amendments are required to the following existing legislation: ",
+        "bbox": [
+            106,
+            176,
+            883,
+            219
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a. Contract Law, DIFC Law No.6 of 2004 (the “Contract Law”);   \nb. Implied Terms in Contracts and Unfair Terms Law, DIFC Law No.6 of 2005 (the “ITCUT Law”);   \nc. Insolvency Law, DIFC Law No.1 of 2019 (the “Insolvency Law”);   \nd. Law of Damages and Remedies, DIFC Law No.7 of 2005 (the “Law of Damages and Remedies”);   \ne. Law of Obligations, DIFC Law No.5 of 2005 (the “Law of Obligations”);   \nf. Trust Law, DIFC Law No. 4 of 2018 (the \"Trust Law”); and   \ng. Foundations Law, DIFC Law No. 3 of 2018 (the \"Foundations Law”); ",
+        "bbox": [
+            173,
+            235,
+            885,
+            522
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. It is proposed that these amendments are made through the DIFC Laws Amendment Law, DIFC Law No. 2 of 2023 (the “DIFC Amendment Law”). Certain consequential changes are proposed to the Insolvency Regulations, Ultimate Beneficial Ownership Regulations and Securities Regulations, which will be enacted by the DIFCA Board. In addition, it is proposed that the Personal Property Law, DIFC Law No. 9 of 2005 (the “PPL”) is amended to take account of changes relating to both the Digital Assets Law and the proposed new Law of Security1. ",
+        "bbox": [
+            117,
+            540,
+            885,
+            693
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. Together the DAL, DIFC Amendment Law, PPL and abovementioned DIFC Regulations are referred to as the “Proposed Laws” in this paper. ",
+        "bbox": [
+            116,
+            711,
+            883,
+            752
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. The proposed amendments to DIFC Laws relating to Digital Assets are also summarised in Schedule 2 of the DAL. ",
+        "bbox": [
+            116,
+            770,
+            883,
+            812
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. This paper should be read in conjunction with Consultation Paper No. 5 of 2023 on the Law of Security, which sets out DIFCA’s proposal to enact a new Law of Security incorporating an amended version of the current Financial Collateral Regulations. ",
+        "bbox": [
+            114,
+            830,
+            880,
+            849
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 Please refer to Consultation Paper No. 5 of 2023 on the Law of Security which has been issued on the same date as this Consultation Paper. ",
+        "bbox": [
+            116,
+            884,
+            872,
+            915
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            493,
+            942,
+            506,
+            954
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Who should read this paper? ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            146,
+            360,
+            163
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7. This Consultation Paper would be of interest to persons conducting or proposing to conduct business in the DIFC. In particular: ",
+        "bbox": [
+            114,
+            178,
+            887,
+            218
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a. entities operating in the DIFC;   \nb. digital asset intermediaries, including investment companies, custodians, broker-dealers, asset managers and advisors;   \nc. banks and financial institutions;   \nd. legal advisors; and   \ne. any other relevant stakeholders. ",
+        "bbox": [
+            175,
+            236,
+            831,
+            425
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "How to provide comments? ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            448,
+            348,
+            464
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8. All comments should be provided to the person specified below: ",
+        "bbox": [
+            112,
+            479,
+            712,
+            497
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates   \nor e-mailed to: consultation@difc.ae ",
+        "bbox": [
+            176,
+            515,
+            505,
+            685
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9. You may choose to identify the organisation you represent in your comments. ",
+        "bbox": [
+            106,
+            710,
+            821,
+            729
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "bbox": [
+            117,
+            747,
+            882,
+            788
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "What happens next? ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            811,
+            292,
+            827
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11. The deadline for providing comments on the proposals in this Consultation Paper is 5 November 2023. ",
+        "bbox": [
+            112,
+            842,
+            883,
+            882
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            493,
+            942,
+            505,
+            954
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "12. Once we receive your comments, we will consider if any further refinements are required. Once DIFCA considers the changes to be in a suitable form, the Proposed Laws will be enacted, to come in to force on a date specified and published. ",
+        "bbox": [
+            117,
+            83,
+            883,
+            147
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "13. The Proposed Laws are in draft form only. You should not act on them until they are formally enacted. We will issue a notice on our website when this happens. ",
+        "bbox": [
+            112,
+            165,
+            882,
+            206
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            229,
+            237,
+            244
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "14. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase and are defined in the Proposed Law. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "bbox": [
+            117,
+            258,
+            885,
+            345
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Key changes to existing DIFC legislation ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            368,
+            456,
+            385
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "15. The key aspects of the proposals under the DIFC Amendment Law include: ",
+        "bbox": [
+            121,
+            399,
+            777,
+            418
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a. Amendments to the Contract Law in relation to mistake, contractual interpretation, and definitions related to money;   \nb. Amendments to the Implied Terms in Contracts and Unfair Terms Law in relation to the passing of title under a sale and unfair terms;   \nc. Amendments to the Insolvency Law and Insolvency Regulations in relation to shortfall, the ‘conversion’ provision in respect of foreign currency, and priorities in insolvency;   \nd. Amendments to the Law of Damages and Remedies in relation to rectification, rescission, and the action for the agreed sum;   \ne. Amendments to the Law of Obligations in relation to the wrongful interference with property regime, electronic trade documents, and misrepresentation;   \nf. Amendments to the Personal Property Law in relation to bona fide purchase rules;   \ng. Amendments to the Trust Law in relation to the certainty of objects requirement and to clarify that ‘property’ includes Digital Assets;   \nh. Amendments to the Foundations Law to clarify that ‘property’ includes Digital Assets; and ",
+        "bbox": [
+            173,
+            431,
+            887,
+            916
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            491,
+            942,
+            505,
+            954
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "i. miscellaneous enhancements. ",
+        "bbox": [
+            176,
+            85,
+            479,
+            100
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            117,
+            222,
+            133
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "16. Digital Assets 2 constitute a trillion-dollar asset class 3 and the scope for future innovation and market opportunities is considerable. However, further legal certainty is required by investors in and users of Digital Assets in order for the potential benefits of Digital Assets and use cases arising from blockchain technology to be realised. ",
+        "bbox": [
+            117,
+            148,
+            885,
+            235
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "17. International legal developments have provided some market certainty as to the legal features and consequences of Digital Assets. Most notably, courts across the common law world have held that Digital Assets constitute objects of property.4 The Law Commission of England and Wales (the “Law Commission”) has also published widely on Digital Assets.5 These publications analyse a wide range of private law issues in relation to Digital Assets and suggest solutions to legal problems faced by Digital Asset market participants. Likewise, the International Institute for the Unification of Private Law (“UNIDROIT”) has formulated its Principles on Digital Assets and Private Law,6 which cover a wide range of private law issues. ",
+        "bbox": [
+            117,
+            252,
+            885,
+            451
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "18. However, the case law on Digital Assets has only ruled on a narrow range of issues, and the reports by organisations such as the Law Commission and UNIDROIT, while often highly influential on the analysis applied by the Courts, are not binding law. ",
+        "bbox": [
+            117,
+            470,
+            883,
+            533
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "19. Legislation is in many ways preferable to having the position develop incrementally through case law, where the position on many issues would otherwise remain uncertain for a substantial period of time. ",
+        "bbox": [
+            117,
+            552,
+            883,
+            614
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "20. We also recognise, however, that any legislative reform in relation to Digital Assets needs to take into account the complexities and subtleties that arise from the underlying technology and its rapid pace of innovation and evolution. ",
+        "bbox": [
+            117,
+            634,
+            882,
+            674
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 “Digital Asset” as used in this Consultation Paper has the meaning given in the DAL, which we consider below. 3 The market capitalisation of cryptocurrencies is understood to be $\\$ 1.06$ trillion as at 16 September 2023 (https://coinmarketcap.com/; accessed 16th September 2023). 4 See e.g. Ruscoe v Cryptopia Ltd [2020] NZHC 728; Quoine Pte Ltd v B2C2 Ltd [2020] SGCA(I) 02; AA v Persons Unknown [2019] EWHC 3556 (Comm); Toma $v$ Murray [2020] EWHC 2295 (Ch); Fetch.ai Ltd v Persons Unknown [2021] EWHC 2254 (Comm); Litecoin Foundation Ltd v Inshallah Ltd [2021] EWHC 1998 (Ch); Janesh s/o Rajkumar v Unknown Person [2022] SGHC 264; Osbourne v Persons Unknown [2022] EWHC 1021; Re Gatecoin Ltd [2023] HKCFI 91. 5 See in particular Law Commission of England and Wales, Digital Assets: Final report (HC 1486, Law Com No 412, 2023) (the “LC Report”); Law Commission of England and Wales, Digital Assets: Consultation paper (Law Com No 256, 2022) (the “LC Consultation Paper”); Law Commission of England and Wales, ‘Digital Assets Interim Update’ (24 November 2021). 6 See https://www.unidroit.org/work-in-progress/digital-assets-and-private-law/ (accessed 16th Septmber 2023). ",
+        "bbox": [
+            116,
+            709,
+            880,
+            914
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            493,
+            942,
+            505,
+            954
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. Accordingly, we propose amendments in the context of the DIFC legal framework that recognises the need for legal certainty, while balancing the unique features of this asset class. ",
+        "bbox": [
+            116,
+            119,
+            885,
+            182
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key features of the DAL ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            205,
+            319,
+            222
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "22. The DAL lays down the foundational legal characteristics of a Digital Asset as a matter of property law. It addresses issues such as how one acquires and transfers title to a Digital Asset, how a Digital Asset should be characterised as a matter of property law, and the circumstances under which one can sue a third party for interfering with the use of a Digital Asset. ",
+        "bbox": [
+            116,
+            237,
+            885,
+            345
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "23. Clarity on these ‘property’ fundamentals is critical to the resolution of many of the legal issues concerning Digital Assets. For example, when determining whether someone is a bona fide purchaser of an asset, one needs to determine whether that person obtains title to the asset, which in turn requires clarity as to the rules governing when title can pass. ",
+        "bbox": [
+            117,
+            363,
+            883,
+            472
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "24. The DAL covers the following aspects: ",
+        "bbox": [
+            116,
+            491,
+            498,
+            509
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a. What is a Digital Asset? b. Is a Digital Asset property, and what type of property is it? c. How does one acquire and transfer title to a Digital Asset? d. When can one sue a defendant for interfering with the use of a Digital Asset? ",
+        "bbox": [
+            173,
+            528,
+            868,
+            657
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Definition of a Digital Asset ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            679,
+            346,
+            695
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "25. Article 8(1) of the DAL provides that: ",
+        "bbox": [
+            116,
+            711,
+            481,
+            728
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“A thing is a Digital Asset if: ",
+        "bbox": [
+            176,
+            748,
+            405,
+            764
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) it exists as a notional quantity unit manifested by the combination of the active operation of software by a network of participants and network-instantiated data; ",
+        "bbox": [
+            175,
+            783,
+            885,
+            825
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(b) it exists independently of any particular person and legal system; and ",
+        "bbox": [
+            173,
+            843,
+            776,
+            862
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(c) the thing is not capable of duplication and use or consumption of the thing by one person or specific group of persons necessarily prejudices the use or consumption of that thing by one or more other persons.” ",
+        "bbox": [
+            175,
+            83,
+            885,
+            146
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "26. We have based our definition on the Law Commission’s discussion (in their 2023 report) of the criteria for third category things. 7 We consider the ‘third category’ characterisation in further detail at paragraphs 42 to 45 below. ",
+        "bbox": [
+            117,
+            166,
+            883,
+            229
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Article 8(1)(a) ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            248,
+            232,
+            264
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "27. Article 8(1)(a) sets out the essential technical requirements for the composition of a Digital Asset. This is based on the discussion of this matter in the Law Commission’s final report on Digital Assets.8 This requirement differs from the Law Commission’s previous formulation in its 2022 consultation paper, namely that a Digital Asset is a thing “composed of data represented in an electronic medium”.9 ",
+        "bbox": [
+            117,
+            283,
+            885,
+            391
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "28. The requirement in Article 8(1)(a) clarifies that the Digital Asset is not the data per se that exists on the database, but the data as it exists in the context of the underlying network and system rules that govern the storage, transmission and deletion of that data. As such, a Digital Asset is not merely “composed of data represented in an electronic medium”. ",
+        "bbox": [
+            116,
+            410,
+            883,
+            519
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "29. The data on the database exists in combination with the underlying network and system rules, which produces an (abstract) asset with a particular quantity unit. This “notional quantity unit”10 functions as part of a network ecosystem that contains rules governing when a transaction, addition, or deletion of such unit(s) is valid.11 As such, a requirement for a Digital Asset is that it is manifested through the “active operation of software by a network of participants” and “network-instantiated data”. ",
+        "bbox": [
+            117,
+            538,
+            885,
+            668
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "30. To provide further clarity, we have defined ‘Network-Instantiated Data’ in the DAL as “data that is part of a system consisting of two or more interconnected computing devices that store and communicate information”.12 ",
+        "bbox": [
+            117,
+            686,
+            882,
+            750
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7 LC Report, Ch 4 generally. 8 LC Report, 4.13-4.21. 9 LC Consultation Paper, 5.10. 10 E.g. ‘1 bitcoin’ or ‘1 Bored Ape’. 11 This has been noted by the Law Commission and various academics cited in the LC Report: see LC Report, 4.14-4.20. 12 DAL, Sch 1 para 3. ",
+        "bbox": [
+            116,
+            818,
+            856,
+            915
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            491,
+            942,
+            505,
+            954
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Article 8(1)(b) ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            85,
+            232,
+            102
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "31. The requirement in 8(1)(b) describes an essential feature of Digital Assets: that they exist independently of any particular person and the legal system. ",
+        "bbox": [
+            116,
+            112,
+            883,
+            153
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "32. This criterion is intended to distinguish Digital Assets from property rights that are ‘mere claims’. Debt claims for example only exist because the legal system confers a contractual right on the relevant person (the creditor). ",
+        "bbox": [
+            116,
+            172,
+            883,
+            235
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "33. In contrast, a Digital Asset is an object that exists regardless of whether there is a legal system. If one were to abolish the legal system, a Digital Asset would still exist, since the blockchain ledger and the underlying infrastructure and computers that support such a ledger would still exist. A Digital Asset also exists independently of any particular person as it is a distinct object as opposed to a claim against particular person(s).13 ",
+        "bbox": [
+            117,
+            254,
+            885,
+            384
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Article 8(1)(c) ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            404,
+            232,
+            421
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "34. Article 8(1)(c) sets out requirements in respect of non-duplication, and rivalrousness. Specifically, a Digital Asset must not be capable of duplication, and needs to be rivalrous in that one party’s use of the asset necessarily prejudices another person’s use of the asset. ",
+        "bbox": [
+            117,
+            433,
+            883,
+            517
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "35. These requirements are intended to distinguish Digital Assets from ‘pure information’, which is not rivalrous, and is capable of duplication through transmission. ",
+        "bbox": [
+            116,
+            536,
+            883,
+            578
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "36. For example, the fact that $\\mathbf { \\tau } ^ { \\ast } \\mathbf { X }$ has one Bitcoin in his address’14 is a piece of pure information. If X tells Y that he has a Bitcoin in his address, and sends a copy of the Bitcoin ledger (and the relevant entries that display his address) to Y, X has transmitted this information to Y by duplicating it. Now, both X and Y have the information. ",
+        "bbox": [
+            116,
+            596,
+            883,
+            704
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "37. However, a Digital Asset cannot be duplicated in this way. A Digital Asset exists in a distinct address, and the fact that it exists in one address necessarily means that it does not exist in another address. The combination of ‘Network-Instantiated Data’ and the system rules governing when there is a valid transfer help to ensure that a Digital Asset cannot be duplicated and thus cannot be double-spent. ",
+        "bbox": [
+            117,
+            723,
+            885,
+            831
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "13 LC Consultation Paper, 5.23-24; LC Report, 4.22-26. 14 By ‘his address’, we are referring to an address over which he has (positive and negative) factual control. ",
+        "bbox": [
+            117,
+            871,
+            860,
+            914
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            491,
+            942,
+            505,
+            954
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "38. Indeed, if X tells Y that he has a Bitcoin in his address, Y cannot as a result use the Bitcoin that exists in X’s address. This ‘pure information’ is not the Bitcoin itself, and Article 8(1)(c) is intended to address this distinction. ",
+        "bbox": [
+            117,
+            83,
+            883,
+            147
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Q1: Do you agree with our definition of a Digital Asset in Article 8 of the DAL? If not, how can it be improved? ",
+        "bbox": [
+            144,
+            167,
+            885,
+            209
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Property characterisation ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            232,
+            328,
+            249
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "39. Our proposed Article 9 characterises Digital Assets in terms of property law, as follows: ",
+        "bbox": [
+            114,
+            263,
+            882,
+            302
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "“A Digital Asset is intangible property and is neither a thing in possession nor a thing in action”. ",
+        "bbox": [
+            175,
+            323,
+            888,
+            362
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "40. This clarifies four matters, namely that a Digital Asset is: ",
+        "bbox": [
+            117,
+            382,
+            648,
+            400
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "a. property; b. not a thing in possession; c. not a thing in action; and d. not tangible property. ",
+        "bbox": [
+            175,
+            419,
+            441,
+            548
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "41. The Law Commission has proposed that Digital Assets should fall within a ‘third category’ of property (i.e. a category of property that is separate from (1) things in possession and (2) things in action).15 ",
+        "bbox": [
+            116,
+            566,
+            883,
+            630
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "42. Our wording in Article 9 is consistent with the Law Commission’s proposal, because a Digital Asset is a ‘third category’ asset insofar as it (1) is not a thing in possession, (2) is not a thing in action, but (3) is property. All three points are established under Article 9. ",
+        "bbox": [
+            116,
+            647,
+            883,
+            733
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "43. In relation to point (3), the Law Commission explicitly recommends “statutory confirmation that a thing will not be deprived of legal status as an object of personal property rights merely by reason of the fact that it is neither a thing in action nor a thing in possession”.16 ",
+        "bbox": [
+            117,
+            751,
+            883,
+            838
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "15 See LC Report, 4.4 (and Ch 4 generally). 16 LC Report, 3.76. ",
+        "bbox": [
+            117,
+            885,
+            442,
+            914
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "44. We would add that, alongside numerous other common law authorities, we have considered the recent decision of the Singapore High Court in Bybit Fintech Ltd v Ho Kai Xin.17 In this case, Jeyaretnam J expressed the view that digital assets are choses in action.18 In particular, in his view all personal property consists of either things in action or things in possession, and there is no ‘third category’ of personal property.19 As such, after establishing that digital assets are not choses in possession, 20 he concluded that digital assets are choses in action. ",
+        "bbox": [
+            117,
+            83,
+            887,
+            236
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "45. We believe that defining ‘things in action’ as all personal property that is not a thing in possession would be unsatisfactory. It would elide crucial distinctions between various kinds of property. Most importantly, it would elide the distinction between (1) rights enforceable by action (i.e. ‘things in action’) and (2) rights that are independent of the legal system and other persons (including Digital Assets). As expressed by the Law Commission: ",
+        "bbox": [
+            121,
+            255,
+            887,
+            385
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "“such an approach risks creating additional legal uncertainty, particularly if certain third category things such as crypto-tokens were inadvertently conceptualised as “rights” to which personal property rights could relate (or were co-extensive with). It also risks diluting or confusing the defining features of things in action (in the narrow sense), which at the moment can (for the most part) be clearly identified, and would mean that different things in action would be subject to different treatment. We conclude that, if different things are to be treated differently, it is cleaner to recognise a separate third category rather than multiple “sub-categories” of a broad residual category.”21 ",
+        "bbox": [
+            176,
+            404,
+            887,
+            580
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Q2: Do you have any concerns in relation to Article 9 of the DAL? If so, how can it be improved? ",
+        "bbox": [
+            153,
+            602,
+            887,
+            642
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Original acquisition of title ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            666,
+            335,
+            682
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Coupling title and control ",
+        "bbox": [
+            178,
+            698,
+            388,
+            716
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "46. Our proposed Article 11(1) provides: ",
+        "bbox": [
+            116,
+            735,
+            483,
+            751
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "“(1) Subject to Articles 12 and 13: ",
+        "bbox": [
+            180,
+            771,
+            457,
+            788
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "11 ",
+        "bbox": [
+            488,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "17 [2023] SGHC 199. 18 Ibid, [34]-[36]. 19 Ibid, [35]. 20 Ibid, [31]: “Crypto assets are not classed as physical assets because we cannot possess them in the way we can possess objects like cars or jewellery. They do not have a fixed physical identity.” 21 Ibid, 3.36. ",
+        "bbox": [
+            116,
+            832,
+            858,
+            914
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) A person (or a group of persons acting together) with control of a Digital Asset is presumed to have legal and equitable title to the Digital Asset, unless it is shown that: ",
+        "bbox": [
+            240,
+            83,
+            885,
+            146
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(i) it was not intended by the creator or transferor (either or both of whom may be a person or a group of persons acting together) of the Digital Asset that such person (or group of persons acting together) would exercise such control or hold such title; or   \n(ii) it was not intended by the person in control that he would exercise such control or hold such title. ",
+        "bbox": [
+            264,
+            163,
+            885,
+            311
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(b) Once a person (or group of persons acting together) acquires title to a Digital Asset that person (or group of persons acting together) remains the owner (or co-owners) of it and title to the Digital Asset shall not cease to exist until the title is either transferred or the Digital Asset is destroyed. ",
+        "bbox": [
+            237,
+            328,
+            883,
+            414
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2) For the purpose of ascertaining the intention of the creator or transferor (either or both of whom may be a person or group of persons acting together) of the Digital Asset regard shall be had to all the circumstances of the case which may include (but are not limited to) the terms of any contract or other agreement or arrangements entered into by the creator, transferor and/or transferee (and the transferee may be a person or group of persons), and the conduct of the creator or transferor.” ",
+        "bbox": [
+            176,
+            433,
+            885,
+            564
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "47. In relation to acquisition of title, the governing principle, contained in Article 11, is that control is the root of title. This reflects the assumption that is generally made, namely, that if a person has control of an asset then that person has title to it. This is consistent with the view of the Law Commission in their 2022 consultation paper where they suggest that the state of the blockchain ledger provides strong evidence of title.22 ",
+        "bbox": [
+            117,
+            583,
+            885,
+            691
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "48. Indeed, the role of control is inextricably linked to the core purpose of blockchain. Specifically, the core purpose of blockchain is to allow for the safe and efficient storage and movement of value (or assets) in a digital context without requiring the cooperation of a central counterparty. This is effected through (1) the creation of ‘locked virtual spaces’ (blockchain addresses) over which a person (or persons acting together) can have exclusive control, and (2) a searchable ledger that records which ‘virtual space’ each asset exists in, and the movements of assets across these virtual ",
+        "bbox": [
+            121,
+            709,
+            885,
+            863
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "22 LC Consultation Paper, 13.13. ",
+        "bbox": [
+            117,
+            900,
+            361,
+            914
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "spaces.23 ",
+        "bbox": [
+            178,
+            85,
+            259,
+            99
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "49. The combination of (1) and (2), as well as the underlying network and system rules that make up the blockchain, is what causes people to make the general ‘control-title’ inference. As such, it is important to have a high degree of correspondence between control and title. If the location of control is too decoupled from the location of title, then this would give rise to a series of undesirable consequences. We consider the two consequences of (a) unfair surprise, and (b) increased risks of fraudulent conduct, below, when discussing transfers of title to a Digital Asset. ",
+        "bbox": [
+            116,
+            121,
+            887,
+            274
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "50. Linking control with title also helps with issues of proof. The Law Commission notes that without “a conclusive system of title registration, it may be difficult for a claimant to prove that they have the superior title to the [Digital Asset]”. 24 As such, a presumption of title that is based on control obviates the need to analyse the chain of title, which in many (or most) cases would be very difficult in the blockchain context as one “may be unaware (or unable) to find evidence as to the superior legal title conferred by an (anonymous or pseudonymous) chain of conveyances”.2526 This in turn helps to strengthen the general ‘control-title’ inference, as having a presumption of title that is based on control enables “market participants to make assumptions as to the superior legal title of a controller of a third category thing”.27 ",
+        "bbox": [
+            117,
+            292,
+            885,
+            514
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "51. Nonetheless, there are various situations in which control and title ought to be decoupled, and in particular where there are more powerful policy reasons than those listed above to justify such a decoupling. For example, decoupling is justified in the event of void transfers (such as theft, lack of mental capacity, and fundamental mistake),28 where the prima facie reason in favour of coupling title and control is overridden by the specific circumstances (e.g. the law should not allow the original owner’s title to be transferred to a thief who obtains control of the Digital Asset, because doing so would not give effect to the original owner’s autonomy).29 However, in the absence of specific policy reasons, control and title ought to be coupled. ",
+        "bbox": [
+            119,
+            532,
+            885,
+            685
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "23 Hin Liu, ‘Transferring legal title to a Digital Asset’ (2023) 5 JIBFL 317. 24 LC Report, 5.89. 25 LC Report, 5.88. 26 The blockchain provides information about the history of the exclusive spaces (addresses) in which each Digital Asset has resided. However, the blockchain itself provides no information about who had control of each exclusive space at any particular time in the past. When this is combined with the fact that most people who transact on the blockchain do not interact with their counterparty face-to-face, it becomes very difficult to obtain information about the person(s) who have had control of the relevant Digital Asset in the past, and about the nature of the relevant transaction(s) or event(s) that caused any change of control (e.g. sale, gift, theft etc). Thus, it is difficult to verify conclusively whether the counterparty has the superior legal title, or only has an inferior legal title because (e.g.) he is a thief. 27 LC Report, 5.88. 28 LC Report, 5.45-5.51. ",
+        "bbox": [
+            116,
+            735,
+            878,
+            914
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "13 ",
+        "bbox": [
+            488,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "52. The prima facie coupling of title and control is analogous to the position at common law as regards tangible assets, namely that possession is the root of title. In the physical asset context, the general inference or assumption made is also that, if a person is in possession of the asset, then that person has title to it. ",
+        "bbox": [
+            116,
+            142,
+            883,
+            229
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "53. This is reflected in the ‘original acquisition’ rule under English common law that a person acquires an original title to a physical asset if the person obtains possession of it.30 Possession consists of two components: first, exclusive factual control of the asset,31 and second, an intention to exercise exclusive factual control over the asset.32 ",
+        "bbox": [
+            116,
+            247,
+            883,
+            333
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "54. The equivalent rule in the Digital Asset context would be that a person (A) obtains an original title to a Digital Asset if (1) A has exclusive control of a Digital Asset and (2) there is an intention that A exercises such control over the Digital Asset. Basing title on possession (or control) allows one to track the general inference people make that if a person has possession (or control) of an asset then that person has title to it. ",
+        "bbox": [
+            116,
+            351,
+            885,
+            460
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "55. Article 11 reflects this balance insofar as it creates a presumption that, if A has control of a Digital Asset, A is presumed to have title to the asset, but this presumption is rebutted if it can be proven that: ",
+        "bbox": [
+            116,
+            478,
+            883,
+            541
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "a. the creator 33 did not intend that A would exercise such control (Article 11(1)(a)(i)); or   \nb. it was not intended by A that he would exercise such control or hold such title (Article 11(1)(a)(ii)). This might arise, for example, if there is an airdrop of valuable Digital Assets into A’s address without A’s knowledge. Unless there is scope for A to rebut the presumption that he has title, the airdrop might have ",
+        "bbox": [
+            173,
+            559,
+            885,
+            706
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "29 Liu (n 22 above), 324. 30 See e.g. Costello v Chief Constable of Derbyshire Constabulary [2001] EWCA Civ 381; [2001] 2 Lloyd’s Rep 216 ; [2001] 1 WLR 1437. The possession rule in the physical asset context is justified for other reasons as well (such as the prevention of violence: see e.g. Luke Rostill, Possession, Relative Title, and Ownership in English Law (Oxford University Press, 2021), 28-30), and we believe that the justifications for the possession rule also apply in the Digital Asset context such that an equivalent ‘control’ rule is justified: see Hin Liu, ‘Title, control and possession in the digital asset world’ [2022] LMCLQ 597, 604-608. 31 See discussion in the LC Consultation Paper, at 11.29-11.40. 32 See discussion in the LC Consultation Paper, at 11.41-11.43. 33 Or, in the case of a transfer, the transferor. ",
+        "bbox": [
+            116,
+            762,
+            880,
+            914
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "unwelcome consequences for him (for example, from a tax perspective). ",
+        "bbox": [
+            222,
+            84,
+            826,
+            100
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Definition of ‘control’ ",
+        "bbox": [
+            178,
+            121,
+            351,
+            138
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "56. Our proposed Article 10 provides the following definition of control in relation to a Digital Asset: ",
+        "bbox": [
+            109,
+            156,
+            885,
+            195
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "“(1) For the purpose of this Law, a person has control of a Digital Asset if: ",
+        "bbox": [
+            178,
+            216,
+            782,
+            235
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) subject to Articles 10(2) and 10(3), the Digital Asset, or the relevant protocol or system, confers on that person: ",
+        "bbox": [
+            223,
+            252,
+            882,
+            294
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(i) the exclusive ability to prevent others from obtaining substantially all the benefit from the Digital Asset;   \n(ii) the ability to obtain substantially all the benefit from the Digital Asset; and   \n(iii) the exclusive ability to transfer the abilities in Articles 10(1)(a)(i) and $1 0 ( 1 ) ( \\mathsf { a } ) ( i i )$ to another person (a ‘change of control’); ",
+        "bbox": [
+            279,
+            311,
+            885,
+            472
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(b) and the Digital Asset, or the relevant protocols or system, allows that person to identify itself as having the abilities set out in Article $1 0 ( 1 ) ( \\mathsfit { a } )$ . ",
+        "bbox": [
+            222,
+            490,
+            883,
+            532
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) A change of control includes the replacement, modification, destruction, cancellation, or elimination of a Digital Asset, and the resulting and corresponding derivative creation of a new Digital Asset which is subject to the control of another person. ",
+        "bbox": [
+            176,
+            549,
+            885,
+            635
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3) An ability for the purposes of Article 10(1)(a) need not be exclusive if and to the extent that: ",
+        "bbox": [
+            178,
+            654,
+            882,
+            694
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(a) the Digital Asset, or the relevant protocol or system, limits the use of, or is programmed to make changes to, the Digital Asset, including change or loss of control of the Digital Asset; or ",
+        "bbox": [
+            218,
+            712,
+            883,
+            776
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(b) the person in control has agreed (expressly, by implication or by conduct) to sharing that ability with one or more other persons.” ",
+        "bbox": [
+            218,
+            794,
+            883,
+            837
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "57. Therefore, ‘control’ requires: ",
+        "bbox": [
+            117,
+            855,
+            417,
+            872
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "a. the existence of factual positive control (the factual ability to obtain substantially ",
+        "bbox": [
+            170,
+            891,
+            882,
+            909
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "15 ",
+        "bbox": [
+            488,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "the whole benefit of the asset); ",
+        "bbox": [
+            223,
+            84,
+            483,
+            100
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "b. the existence of factual negative control (the exclusive factual ability to prevent others from obtaining substantially the whole benefit of the asset); c. the exclusive ability to transfer the abilities in (a) and (b) to another person; and d. the ability to identify oneself as having (a)-(c). ",
+        "bbox": [
+            175,
+            119,
+            883,
+            235
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "58. Such control can be exercised by one person, or jointly (Article 10(3)(b)). The issue of ‘control’ is explored in further detail below (see the section titled ‘Transfer of title’). ",
+        "bbox": [
+            116,
+            254,
+            882,
+            294
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "59. Our approach to control aligns with Principle 6 of UNIDROIT’s Principles on Digital Assets and Private Law.34 ",
+        "bbox": [
+            116,
+            312,
+            883,
+            352
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Q3: Do you agree with our general approach to Article 11 of the DAL, in relation to control being the root of title? If not, what changes do you suggest? Q4: Do you have any concerns about Article 11? If so, how could it be improved? ",
+        "bbox": [
+            146,
+            374,
+            882,
+            451
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Agency ",
+        "bbox": [
+            176,
+            472,
+            245,
+            490
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "60. Article 11(3) provides: ",
+        "bbox": [
+            116,
+            509,
+            365,
+            526
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "“In an agency relationship within the meaning of Part 12 of the Contract Law, if the agent (A) within the course of his agency has control of a Digital Asset on behalf of the agent’s principal $( P )$ , then $P$ holds legal title to the Digital Asset.” ",
+        "bbox": [
+            175,
+            545,
+            883,
+            609
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "61. This clarifies that, if an agent takes control of an asset on behalf of his principal, such control and the associated intention would be attributed to the principal. Absurd consequences would result without this attribution, for example in the corporate context. For example, if an employee (agent) takes control of an asset (such as Bitcoin) on behalf of his company because the company needs to use the asset, he obtains title to an asset while the company obtains no title. This means that the agent would need to execute a separate transfer of title in respect of the asset in order for the company to have title. Clarifying that the normal attribution rules of agency apply ",
+        "bbox": [
+            119,
+            627,
+            885,
+            804
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "34 Our proposed definition of control is slightly different to UNIDROIT’s. Our Art 10(3)(b) provides “the person in control agreed (expressly, by implication or by conduct) …” whereas UNIDROIT’s corresponding article provides, “the person in control has agreed, consented to, or acquiesced in ..”. We suggest that our form of wording is more appropriate in the context of DIFC law. ",
+        "bbox": [
+            117,
+            857,
+            877,
+            914
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "would remove any uncertainty in this regard. ",
+        "bbox": [
+            176,
+            84,
+            548,
+            100
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Transfer of title ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            124,
+            245,
+            140
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "62. Article 12 of the DAL provides: ",
+        "bbox": [
+            117,
+            155,
+            434,
+            173
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "“(1) Subject to Article 13, an inter vivos transfer of title to a Digital Asset from the transferor (a person or group of persons acting together) to the transferee (a person or group of persons acting together) shall occur if the following conditions are satisfied: ",
+        "bbox": [
+            180,
+            192,
+            885,
+            256
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(a) there is a change of control of the Digital Asset to the transferee; and (b) the transferor intends to transfer title to the transferee. ",
+        "bbox": [
+            235,
+            274,
+            875,
+            328
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(2) Where a Digital Asset is transferred by one person (or a group of persons acting together) to another (or others together) by way of a gift, it is presumed that the intention of the parties is that title to the Digital Asset should be transferred unless a contrary intention can be proven.” ",
+        "bbox": [
+            176,
+            347,
+            885,
+            433
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Change of control plus intention ",
+        "bbox": [
+            178,
+            452,
+            446,
+            471
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "63. Accordingly, Article 12 provides the general requirements for a transfer of title such that the governing requirement is a ‘change of control’ plus an intention to transfer title. ",
+        "bbox": [
+            116,
+            489,
+            883,
+            551
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "64. This position tracks the basic ‘control-title’ inference or assumption in the physical asset context, i.e. the general assumption people make that if someone has control of a physical asset then that person has title to it. ",
+        "bbox": [
+            116,
+            571,
+            883,
+            634
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "65. Requiring a change of control for the transfer of title means that there are far fewer decouplings between control and title. If the law allows excessive ‘decoupling’ between control and title,35 this could have undesirable consequences in terms of frustration of people’s reasonable expectations, unfair surprise and an increased risk of a party asserting title to a Digital Asset despite not having control and therefore fraudulent conduct. For example: ",
+        "bbox": [
+            117,
+            653,
+            885,
+            783
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "a. A has title but B has (exclusive) control of Digital Assets. C, reasonably believing that B has title (because B has control), extends credit to B secured by the Digital Assets. B defaults and unsurprisingly enforcement against the Digital Assets becomes problematic. ",
+        "bbox": [
+            175,
+            802,
+            882,
+            843
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "35 The law allows for ‘too much’ decoupling when it allows for decouplings that are not justified by a sufficiently strong policy reason. A sufficiently strong policy reason would include the desire to protect people’s autonomy in the case of theft. ",
+        "bbox": [
+            117,
+            871,
+            878,
+            914
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "17 ",
+        "bbox": [
+            488,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "b. A has control and title but B (a fraudster) asserts that he has title. If title to a Digital Asset can pass by mere agreement as permitted in the sale of goods context, B could assert that A has transferred title to him pursuant to an agreement (e.g. an oral agreement), without any change of control. In contrast, if a change of control is a requirement for transferring title, a fraudster could not assert title in the first place. ",
+        "bbox": [
+            175,
+            142,
+            885,
+            273
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "c. If title can pass by mere agreement, then A could sell his Digital Asset to B while retaining control of it. If A also represents to C that he still has the superior title to the asset, then because A has control, C would generally assume that A has the superior title. A could ‘sell the asset for a second time’ to C. If C buys the asset from A in good faith and without notice of B’s interest, the bona fide purchase rule applies to the detriment of B, because B’s title would be extinguished. A ‘change of control’ requirement would drastically reduce the opportunities for someone to be able to ‘sell the asset twice’.36 ",
+        "bbox": [
+            176,
+            292,
+            885,
+            467
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "66. We address related issues below in the context of bona fide purchase rules for Digital Assets. ",
+        "bbox": [
+            116,
+            486,
+            883,
+            527
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "67. Such undesirable consequences mean that title to Digital Assets should not pass by mere agreement. ",
+        "bbox": [
+            116,
+            546,
+            883,
+            586
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "68. Title can pass by agreement in the sale of goods context. However, the relevant normative considerations are different in the physical asset context. Insisting on delivery37 for the sale of goods is, in many circumstances, commercially inconvenient. As such, the large gain in commercial convenience by allowing title to physical goods to pass by agreement can much more easily justify the increased risks of unfair surprise and fraud that comes from such a rule. In contrast, changing control of a Digital Asset is relatively easy, and dropping such a requirement does not yield nearly the same gains in terms of commercial convenience so as to justify a rule that allows title to a Digital Asset to pass by agreement.38 Article 10(3) ",
+        "bbox": [
+            117,
+            605,
+            885,
+            782
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "36 For A to be able to ‘sell the asset twice’, he would need to regain control of the asset. 37 Delivery involves the transferee taking possession of a physical asset with the consent of the transferor, which is analogous to the paradigm case of a change of control in respect of a Digital Asset. ",
+        "bbox": [
+            117,
+            858,
+            836,
+            914
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "18 ",
+        "bbox": [
+            488,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "69. Article 10(3) provides express relaxation of the exclusivity requirements imposed by Article 10(1)(a)(i) and (iii), in that it provides that the person’s control need not be exclusive if and to the extent that: 39 ",
+        "bbox": [
+            117,
+            156,
+            883,
+            219
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "a. “the Digital Asset, or the relevant protocol or system, limits the use of, or is programmed to make changes to, the Digital Asset, including change or loss of control of the Digital Asset” (Article 10(3)(a)); or   \nb. “the person in control has agreed (expressly, by implication or by conduct) to sharing that ability with one or more other persons” (Article 10(3)(b)).   \nProgrammatic limitations (Article 10(3)(a)) ",
+        "bbox": [
+            173,
+            238,
+            885,
+            399
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "70. Article 10(3)(a) takes into account situations where the asset is programmed in a way that the ability to exercise control is limited, e.g. under a smart contract. ",
+        "bbox": [
+            114,
+            416,
+            880,
+            457
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "71. For example, a Digital Asset could be transferred into a smart contract address, where the smart contract limits people’s ability to exercise control over the Digital Asset until a certain time or until a particular condition is satisfied. ",
+        "bbox": [
+            117,
+            476,
+            883,
+            540
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "72. In our view, a transfer into such an address (when coupled with an intention to transfer title) should be sufficient to transfer title to the transferee40 if the transferee has some control (e.g. control of the Digital Asset at the future time determined under the smart contract), as opposed to requiring the transferee to have immediate control. ",
+        "bbox": [
+            117,
+            558,
+            883,
+            643
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "73. This is because, if a Digital Asset is located at a smart contract address over which no one has immediate control, the ‘control-title inference’ would be much weaker. Specifically, a person would generally not make the inference or assumption that any particular person has title to the asset, even if a person may gain control of the Digital ",
+        "bbox": [
+            117,
+            662,
+            883,
+            749
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "38 For more detailed discussion as to why the balance is different in the physical asset context (why it is acceptable to have an agreement rule in the sale of goods context), see Liu (n 22 above), 320. 39 While we have used the two caveats in Article 10(3) to relax the ‘exclusivity’ requirements in Article 10(1), the Law Commission have used the terminology of someone having control if they have a ‘sufficient’ amount of positive and negative control (and the ability to identify themselves as having such control) in order to relax the exclusivity requirements. We believe the two caveats provide more clarity and guidance as to what is required, as compared to the use of the word ‘sufficiently’ (which results in a circular formulation: see discussion at paras 80-81 below). 40 Or create a co-owned legal title, or transfer a co-owned share of the legal title. ",
+        "bbox": [
+            116,
+            789,
+            875,
+            915
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "19 ",
+        "bbox": [
+            488,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Asset sometime in the future when a certain condition is satisfied. In such situations, there is less room for fraud or unfair surprise. For example, insofar as the ‘double sale’ fraud is premised on someone (A) transferring title but retaining immediate positive control (which enables A to mislead a third party into thinking that A has title),41 this cannot happen in the smart contract example because the transferor does not have immediate positive factual control. As such, the main objections to allowing title to pass without the transferee having positive and negative control do not apply in this situation. ",
+        "bbox": [
+            176,
+            83,
+            883,
+            258
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Sharing of control (Article 10(3)(b)) ",
+        "bbox": [
+            180,
+            279,
+            466,
+            295
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "74. Article 10(3)(b) takes into account situations where control is shared and the person in control agrees to such sharing of control. ",
+        "bbox": [
+            112,
+            315,
+            882,
+            355
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "75. In situations where control of a Digital Asset is shared (e.g. in the case of a multisignature arrangement), the general assumption is not that any one person necessarily has title, but that any person in the group of people who share control could have title. As such, as long as any person in that group has title, it tracks the general assumption/inference that people would make or draw in relation to who has title. ",
+        "bbox": [
+            117,
+            374,
+            883,
+            482
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "76. In the case of transferring co-owned titles, a complete change of control would not be necessary. Suppose A, B and C co-own a Digital Asset in a $^ { \\mathfrak { 3 } }$ of 3 multisig’ wallet42, where each person has one signature/private key. C wants to transfer his (co-owned) title to D, and changes control of his private key to D. This is sufficient to transfer his title, despite the fact that there is not a complete change of control of the Digital Asset. C would satisfy the condition in 12(1)(b) because of 10(1) (control) and 10(3)(b) (shared control). In turn, D impliedly consents to the shared control arrangement because he is agreeing to obtain one signature and a co-owned title. ",
+        "bbox": [
+            119,
+            501,
+            885,
+            676
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Alternative formulations ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            697,
+            314,
+            713
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "77. We prefer the requirement of a ‘change of control’ over a requirement of a ‘transfer operation that effects a state change’ (i.e. an ‘on chain transfer’). The latter was suggested in the Law Commission’s 2022 consultation paper.43 In our view an ‘onchain transfer’ requirement would be undesirable. ",
+        "bbox": [
+            117,
+            725,
+            883,
+            811
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "41 (The superior legal title). 42 A multi-signature wallet where there are three private keys, and signatures from all three private keys are required to execute an on-chain transfer of the asset. 43 LC Consultation Paper, 13.32 and 13.22. ",
+        "bbox": [
+            116,
+            858,
+            851,
+            914
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "78. First, even though the Law Commission operates on the assumption that the relevant on-chain transfer would involve a change of control,44 adopting ‘on chain transfer’ as a requirement in Article 12 means that it can be interpreted literally to include an onchain transfer to an address wholly controlled by the transferor.45 In such situations, there is no change of control at all, and the risks of fraud would drastically increase: the transferor (who no longer has title but retains full control) can (i) conduct a ‘double sale’, as well as (ii) fraudulently represent to third parties that he owns the asset, in a much wider range of situations. ",
+        "bbox": [
+            117,
+            83,
+            885,
+            258
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "79. Second, requiring an ‘on-chain transfer’ (whether or not it involves a change of control) would mean that off chain methods of changing control would not be sufficient to satisfy the requirement. For example, where the private key to an address is sealed in a USB device (such that the holder of the USB device does not know the private key), and the device is transferred to the transferee, the transferee has exclusive control of the assets in the address. It is important to ensure that these methods are effective to transfer title, given that control is the root of title, and it would be undesirable to decouple control from title in situations where there is no valid justification. ",
+        "bbox": [
+            117,
+            279,
+            883,
+            476
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "80. This also means that adopting a formulation of ‘on-chain transfer or off-chain change of control’ would be over-inclusive insofar as an on-chain transfer to an address controlled by oneself would be sufficient to satisfy the formality requirement when coupled with an intention to transfer title to the transferee. ",
+        "bbox": [
+            117,
+            495,
+            885,
+            580
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "‘Sufficient’ change of control? ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            600,
+            365,
+            617
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "81. The Law Commission proposes that a person has control if he is able ‘sufficiently’ to: “(1) exclude others from the [digital] object; (2) put the [digital] object to the uses of which it is capable; and (3) identify themselves as the person with the abilities specified in (1) to (2) above.”46 ",
+        "bbox": [
+            116,
+            629,
+            882,
+            779
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "82. This raises the question of whether the transfer of title requirement should be satisfied where there is a ‘sufficient’ change of control (coupled with an intention to transfer title). We believe that introducing the word ‘sufficiently’ into the formulation is undesirable, because it begs the question of what degree of change of control would be sufficient, and would not in itself provide adequate guidance as to how to make a decision on particular facts. ",
+        "bbox": [
+            116,
+            798,
+            883,
+            839
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "44 LC Consultation Paper, 11.08. 45 This possibility is envisaged by the Law Commission (at 6.6 and fn502 of the LC Report). 46 LC Report, 5.10. ",
+        "bbox": [
+            117,
+            871,
+            801,
+            914
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Article 13 exceptions ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            188,
+            292,
+            205
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "83. Article 13 provides exceptions to the rule that a change of control (with the associated intention) is required for a transfer of legal title to a Digital Asset. In certain situations that involve death, insolvency or incapacity, the applicable law may provide that following the relevant death, insolvency or incapacity, title to a Digital Asset is transferred without a change of control. We believe that deferring to this position provides flexibility and convenience to cater for situations involving death, insolvency or incapacity, as it would otherwise be impossible for (e.g.) the personal representative of the deceased to obtain title to the deceased’s assets, since the deceased cannot have any intention to transfer title for the purpose of Article 12. This is reflected in Article 13(1). ",
+        "bbox": [
+            121,
+            217,
+            885,
+            439
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "84. Article 13(2) clarifies that the operation of the Article 13 exception does not prejudice the operation of heirship rights under the Trust Law/Foundations Law. ",
+        "bbox": [
+            117,
+            457,
+            883,
+            497
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Q5: Do you agree with the general rule that title is transferred by a change of   \ncontrol plus an intention to transfer title? If not, what should the general rule   \nbe?   \nQ6: Do you agree with the threshold we propose in relation to what constitutes   \na change of control for the purposes of the transfer of title rule? If not, what   \nshould the threshold be?   \nQ7: Do you agree with the Article 13 exception to the ‘change of control’ rule   \nfor transfers of title? If not, which of the proposed exceptions should be   \ndeleted, or what additional exceptions are desirable? ",
+        "bbox": [
+            171,
+            516,
+            882,
+            762
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Interference / impairment of use ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            777,
+            385,
+            795
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "85. We propose that Chapter 7 of Part 3 the Law of Obligations (which concerns wrongful interference with property) shall not apply to Digital Assets.47 ",
+        "bbox": [
+            116,
+            809,
+            883,
+            851
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "47 See Article 42 of the Law of Obligations. ",
+        "bbox": [
+            119,
+            900,
+            434,
+            914
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "86. Article 14 of the DAL contains provisions governing what constitutes an actionable interference with a Digital Asset. These provisions directly give effect to a title-holder’s right to exclude, as having title to a Digital Asset entails having rights to sue third parties for interfering with the Digital Asset. ",
+        "bbox": [
+            116,
+            83,
+            885,
+            169
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "87. Article 14 provides: ",
+        "bbox": [
+            117,
+            188,
+            341,
+            205
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "“(1) For the purpose of this Article 14: a) a person has an interest in a Digital Asset if that person has a legal title to it; b) a person’s (A’s) impairment of the use of a Digital Asset in which another person (B) has an interest is reckless if: (i) person A is aware that a risk of impairment exists or may exist and unreasonably goes on to take that risk; and (ii) if person A also has an interest in the Digital Asset, A is aware of a risk that B has an interest that is superior to A’s; ",
+        "bbox": [
+            202,
+            220,
+            885,
+            480
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "c) a person’s (A’s) impairment of the use of a Digital Asset is not intentional unless: ",
+        "bbox": [
+            239,
+            498,
+            883,
+            539
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(i) person A knows that another person (B) has an interest in the Digital Asset; and   \n(ii) if person A also has an interest in the Digital Asset, A knows that person B has an interest that is superior to A’s.” ",
+        "bbox": [
+            296,
+            558,
+            885,
+            659
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(2) A person (A) is liable to another person (B) if the following conditions are satisfied: ",
+        "bbox": [
+            217,
+            675,
+            887,
+            717
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "a) the other person (B) has an interest in the Digital Asset;   \nb) the person (A) impairs the use of the Digital Asset to which the other person (B) is entitled;   \nc) the person’s (A’s) impairment of the use of the Digital Asset is intentional or reckless; and   \nd) the person’s (A’s) impairment causes loss to the other person (B).   \n(3) It is a defence to an impairment if: a) the other person (B) consents to the impairment; or b) a reasonable person in the other person’s (B’s) position is likely to have consented to the impairment.   \n(4) A co-owner (A) may recover under this Article 14 proportionately according to that co-owner’s (A’s) interest in the Digital Asset.   \n(5) A co-owner may bring an action under this Article 14 against a fellow coowner of the same Digital Asset.   \n(6) Where a person has been found liable to one claimant under Part 3 of the Law of Obligations and subsequently a second claimant is found to have a superior legal title to the Digital Asset, which was the subject of the claim, the first claimant is liable to account to the second claimant.” ",
+        "bbox": [
+            232,
+            735,
+            885,
+            910
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The factual requirement ",
+        "text_level": 1,
+        "bbox": [
+            178,
+            440,
+            377,
+            458
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "88. We propose that the interference regime is organised around the notion of an impairment of use, such that the conduct element of the interference tort is satisfied where there is an impairment of use of the claimant’s Digital Asset that causes loss to the claimant (the ‘impairment of use threshold’). ",
+        "bbox": [
+            117,
+            469,
+            885,
+            554
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "89. In our view, this should be the threshold for the simple reason that users of Digital Assets who have a legal title48 should have a remedy in situations where the use of their asset is prejudiced by the actions of a defendant to the extent that it causes loss.49 This also directly expresses the aim of a property regime that confers title to a Digital Asset, and thus rights to exclude. ",
+        "bbox": [
+            116,
+            573,
+            885,
+            681
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "90. We recognise that the conduct element of an ‘impairment of use’ is much wider than the conduct element in relation to the ‘chattel torts’ under English law.50 Under the chattel torts, the conduct element is satisfied where (1) there is a physical interference (physical contact or physical damage), or (2) there is a total impairment of use of the physical asset.51 There have been suggestions that the chattel tort regime should be applied in the context of Digital Assets,52 on the basis that physical assets and Digital Assets are sufficiently similar such that it would be anomalous for physical assets to enjoy the protection of the chattel tort regime without Digital Assets benefiting from the same. However, we believe that doing so would be undesirable. ",
+        "bbox": [
+            117,
+            700,
+            883,
+            787
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "48 This includes relative legal titles as well as superior legal titles. This is reflected in Article 14(1)(a) and 14(2)(a) of the DAL: anyone with a legal title can sue. 49 Provided that the defendant has the relevant mental state, which is discussed in paragraphs 93-97 below. 50 Conversion, trespass, and reversionary injury. ",
+        "bbox": [
+            116,
+            844,
+            872,
+            915
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "91. There are two important disadvantages of applying the chattel tort regime to Digital Assets. First, since physical assets and Digital Assets are very different in nature and surrounding environments, it is difficult to apply the concepts and policies in the physical asset context to Digital Assets without creating unacceptable uncertainty or substantially increasing the risk of incorrect decisions. Second, the rules governing the chattel torts are unsatisfactory and needlessly complex, and so applying such rules to Digital Assets will mean that these undesirable features are replicated in the Digital Asset context.53 ",
+        "bbox": [
+            117,
+            210,
+            885,
+            385
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "92. In our view, the regime in Article 14 provides adequate protection in respect of Digital Assets without suffering from the disadvantages of applying the chattel tort rules to Digital Assets. ",
+        "bbox": [
+            117,
+            404,
+            883,
+            467
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "93. Nonetheless, one may be concerned that the impairment of use threshold leads to too much liability. For example, the chattel torts have a narrower conduct element than our ‘impairment of use’ formulation, which raises the question of whether this has the potential to impose excessive liability on defendants. We address this by having a higher mental requirement (intention or recklessness). This constrains the scope of liability (and this contrasts with the chattel torts, which are strict liability torts). ",
+        "bbox": [
+            117,
+            486,
+            885,
+            617
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "The mental element ",
+        "bbox": [
+            178,
+            637,
+            346,
+            654
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "94. Under Article 14(2)(c), the mental element of the interference regime is satisfied if the defendant’s impairment of the use of the Digital Asset is: ",
+        "bbox": [
+            109,
+            666,
+            882,
+            705
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "a. Intentional: it is not intentional unless the defendant knows that the other person has a legal title in the Digital Asset and if the defendant also has a legal title to the Digital Asset, the defendant must know that the claimant has a legal title that is superior to the defendant’s legal title (Article 14(1)(a) and (c)); or ",
+        "bbox": [
+            175,
+            725,
+            883,
+            764
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "51 See e.g. Simon Douglas, Actionable Interferences in the Chattel Torts: A New Perspective on Economic Loss in Simone Degeling, James Edelman, James Goudkamp (eds), Torts in Commercial Law (Routledge, 2011) 87. 52 See e.g. Sarah Green and Ferdisha Snagg, ‘Intermediated Securities and Distributed Ledger Technology’, in Louise Gullifer and Jennifer Payne (eds), Intermediation and Beyond (Oxford, 2019) 337, 345-348. The Law Commission has also noted that there is a “good argument for extending the tort of conversion” to Digital Assets (LC Consultation Paper, 19.104). 53 LC Report, 9.72 and 9.73; Hin Liu, ‘Interference torts in the digital asset world’ (2023) available at https://ssrn.com/abstract=4433956 (accessed $1 6 ^ { \\mathrm { { t h } } }$ September 2023), Sections 5 and 6. ",
+        "bbox": [
+            116,
+            789,
+            868,
+            914
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "b. Reckless: i.e. the defendant is aware that a risk of impairment exists or may exist and unreasonably goes on to take that risk and, if the defendant also has a legal title to the Digital Asset, the defendant must also be aware of a risk that the claimant has a legal title that is superior to the defendant’s legal title (14(1)(b)). ",
+        "bbox": [
+            175,
+            142,
+            883,
+            251
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "95. Having a mental requirement limited to intention only would set the bar too high, such that the regime would be too defendant-friendly. ",
+        "bbox": [
+            116,
+            269,
+            883,
+            309
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "96. For example, a person who calls a smart contract function may foresee that, once he calls the function, there is a substantial risk of other people’s Digital Assets being frozen or destroyed (or a substantial risk of the use of their Digital Assets being otherwise impaired). If he nonetheless calls such a function (and thus takes that risk), and impairs the use of someone else’s Digital Assets so as to cause loss, we propose that there should be liability if the taking of such a meets the threshold of recklessness as defined in 14(2)(b)). In other words, it is irrelevant that in such situations they do not intend the relevant impairment. ",
+        "bbox": [
+            116,
+            328,
+            885,
+            504
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "97. The recklessness standard encourages defendants not to act in a way that results in impairment to someone else’s Digital Asset(s) when they subjectively foresee the risk of such impairment. ",
+        "bbox": [
+            116,
+            523,
+            883,
+            586
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "98. In our view, the mental requirement should not be negligence. ",
+        "bbox": [
+            116,
+            605,
+            693,
+            623
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "a. In the Digital Assets context, this would be much more akin to imposing general negligence liability for inflicting pure economic loss than imposing general negligence liability for causing property damage to a physical asset.54   \nb. In the context of property damage to a physical asset, the general negligence liability standard is justified on the basis that there are relatively limited ways in which a physical asset can be damaged (because one would generally need to be in physical proximity to the asset to damage it). In general, it is relatively easy to avoid liability for negligent damage to a physical asset because doing so generally just requires being aware of one’s physical surroundings and intuitively ",
+        "bbox": [
+            168,
+            642,
+            888,
+            855
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "54 The general negligence liability standard in respect of physical assets is contained in Articles 18 and 21 of the Law of Obligations. ",
+        "bbox": [
+            116,
+            885,
+            853,
+            915
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "adjusting to them. ",
+        "bbox": [
+            223,
+            85,
+            373,
+            99
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "c. In contrast, in the context of pure economic loss, there are many ways in which one can damage another person’s economic interests. For example, there are many ways of (carelessly) interfering with people’s rights under contracts. As such, negligence liability for causing pure economic loss is restricted to particular circumstances,55 requiring (e.g.) an assumption of responsibility. 56 Having general liability for negligent infliction of reasonably foreseeable economic loss would lead to too much liability on the part of defendants and would unduly stifle the liberty of such defendants.57 ",
+        "bbox": [
+            176,
+            121,
+            885,
+            295
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "d. In this context, Digital Assets are much more similar to economic interests such as contractual rights than they are to physical assets. Like contractual rights, there are many ways of carelessly impairing the use of a Digital Asset, especially since Digital Assets can be programmed in so many ways. They can be programmed to be destroyed under certain conditions (which can be chosen by the programmer) or there may be bugs that lead to the inadvertent destruction of a Digital Asset. Many such ways do not even require any proximate interaction with the blockchain environment.58 As such, it would be too much of a limitation on autonomy if negligent impairment of a Digital Asset gave rise to liability. ",
+        "bbox": [
+            175,
+            314,
+            885,
+            514
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "e. Further, a negligence threshold would create a chilling effect for developers on the blockchain. For example, if a developer knows that careless coding of a smart contract could lead to liability even if they do not (in advance) subjectively foresee the use of any particular Digital Assets being impaired as a result of the code that they have written, this would discourage the developer from (e.g.) deploying their smart contract onto the blockchain. This runs counter to the open source ethos of the blockchain where creativity and experimentation with code is encouraged. Indeed, in most cases it is either impossible or prohibitively expensive to formally verify (as a matter of mathematical proof) that the code ",
+        "bbox": [
+            180,
+            532,
+            885,
+            730
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "55 Law of Obligations, Article 20(1). 56 Law of Obligations, Article 20(1)(b). 57 For example, people would be disincentivised from making stock price predictions. 58 For example, accidentally misreporting prices on a website could lead to the destruction of a Digital Asset that represents a bet between two parties that the price of a stock would not go below X, under which the asset would be destroyed if the price of the stock goes below X. If the Digital Asset is programmed in a way that the price information is to be obtained from such a website, and the relevant person who controls the website (D) negligently misreports the price of the stock (such that it is below X, when the actual stock price is above X), D would have negligently caused the destruction of the Digital Asset without interacting with the blockchain at all. ",
+        "bbox": [
+            116,
+            776,
+            877,
+            914
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "will work as intended by the developer. ",
+        "bbox": [
+            225,
+            84,
+            548,
+            100
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Defences ",
+        "text_level": 1,
+        "bbox": [
+            178,
+            122,
+            260,
+            137
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "99. We have introduced two defences in Article 14(3) that apply to a defendant who has satisfied the prima facie ingredients of the impairment tort under Article 14. ",
+        "bbox": [
+            116,
+            149,
+            885,
+            190
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "100. The first defence is consent (Article 14(3)(a)). The availability of this defence reflects the core tenet in property law that property rights are to be protected against nonconsensual interferences, in order to preserve the right-holder’s ability to enjoy the incidents of his property right, and thus preserve his autonomy.59 ",
+        "bbox": [
+            117,
+            209,
+            883,
+            294
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "101. The second defence (in Article 14(3)(b)) applies where a reasonable person in the claimant’s position is likely to have consented to the impairment. This is intended to cover situations where the claimant did not actually consent, but given the overall circumstances, a reasonable person in the claimant’s position would have consented. ",
+        "bbox": [
+            117,
+            313,
+            883,
+            399
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "102. Such situations may arise (for example) where, the claimant’s use of their Digital Asset is temporarily impaired in order to prevent a greater harm whereby the majority of the assets on the relevant blockchain are at risk of being misappropriated, or if lack of consent would mean that the defendant is unreasonably prevented from conducting its ordinary business or professional activities. ",
+        "bbox": [
+            119,
+            418,
+            883,
+            526
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "103. A concrete example would be where there is a hack or bug that is likely to cause imminent and severe harm to the integrity of the blockchain (where all the assets on the blockchain are in danger of being misappropriated, and the block creation process is in danger of being disrupted). If the defendant blockchain administrator exercises a kill-switch to freeze the claimant’s Digital Assets, such that the claimant’s use of their assets is (temporarily) totally impaired, the defence in Article 14(3)(b) would likely apply. The need to prevent the greater (likely) harm (the integrity of the blockchain being disrupted, large amounts of Digital Assets being misappropriated etc) means that a reasonable person in the claimant’s position would probably consent to the interference. ",
+        "bbox": [
+            119,
+            545,
+            885,
+            766
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "104. Our formulation of the defence provides a high degree of flexibility. This enables judges to conduct a balancing exercise between (1) the protection of the claimant’s autonomy and (2) the need to allow impairments of use where a reasonable person in the claimant’s position would have consented to the interference given the overall circumstances. ",
+        "bbox": [
+            119,
+            783,
+            882,
+            847
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "59 If the right-holder (the claimant in this situation) consents to the relevant interference (which could be e.g. the freezing of his Digital Asset), this releases the defendant’s liability because the claimant’s voluntary choice is given effect to. ",
+        "bbox": [
+            117,
+            871,
+            872,
+            914
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "105. However, we recognise that in providing a relatively open formulation, the defence could potentially be applied in various ways by different judges, and the question arises as to whether Article 14(3)(b) needs to provide more guidance as to when a reasonable person in the claimant’s position would likely consent to the interference. For example, consultees may consider whether considerations such as ‘the prevention of a greater harm’, ‘the use intended by the asset’, and/or ‘the unreasonable disruption of ordinary business and professional activities of the defendant’ should be included explicitly in Article 14(3)(b). ",
+        "bbox": [
+            121,
+            142,
+            885,
+            318
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Q8: Do you agree with the conduct element we propose in respect of the Article 14 impairment regime? If not, what should it be? ",
+        "bbox": [
+            122,
+            339,
+            860,
+            380
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Q9: Do you agree with the mental requirement we propose in respect of the Article 14 impairment regime? If not, how should it be formulated? ",
+        "bbox": [
+            117,
+            407,
+            883,
+            447
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Q10: Do you agree with the proposed scope of defences in respect of the Article 14 impairment regime? If not, what defences should be available? ",
+        "bbox": [
+            119,
+            473,
+            875,
+            515
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Recovery of control of a Digital Asset ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            532,
+            427,
+            548
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "106. We have also added a provision (Article 15 of the DAL) that allows someone who has a legal title60 to a Digital Asset to recover control of it. ",
+        "bbox": [
+            117,
+            564,
+            883,
+            604
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "107. This fills the lacuna that would otherwise be created where a claimant is trying to recover an asset to which they have a legal title but is in the control of another person, yet the other person has no knowledge that the asset is owned by someone else. In such situations, there would not be a remedy under Article 14 because neither the conduct element nor the mental element for interference would be satisfied. Similarly, a Westdeutsche trust based on theft or fraud would not arise as the person in control has no knowledge that the asset is owned by someone else.61 ",
+        "bbox": [
+            117,
+            622,
+            887,
+            776
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "108. In a situation where a Digital Asset owned by C ends up in D’s (blockchain) address (because of e.g. a bug), and D does not know that the asset is in his address, the remedy under Article 15 would be necessary because there is no remedy under the interference regime, and there would be no trust-based remedy that would allow for the recovery of control of the Digital Asset. ",
+        "bbox": [
+            117,
+            795,
+            883,
+            836
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "60 Which could be a superior legal title or an inferior relative legal title. 61 Westdeutsche Landesbank Girozentrale v Islington LBC [1996] UKHL 12. Westdeutsche is relevant to DIFC law because the common law principles of trusts law are imported into DIFC law through Article 10(1) of the Trust Law. ",
+        "bbox": [
+            117,
+            858,
+            880,
+            914
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Q11: Do you agree with the existence and scope of the Article 15 ‘recovery of control’ remedy? If not, what should be its scope? ",
+        "bbox": [
+            112,
+            167,
+            880,
+            209
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Bona fide purchase ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            225,
+            282,
+            242
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "109. In this section, we set out our proposed approach and amendments to the PPL. These amendments extend beyond Digital Assets. References below to PPL Articles are to those in the proposed amended PPL. ",
+        "bbox": [
+            117,
+            256,
+            885,
+            319
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "110. The issue of bona fide purchase (“BFP”) arises where A has title to personal property in which B has an interest, and A transfers his title to C. The BFP rules govern the circumstances under which C takes free of B’s interest. ",
+        "bbox": [
+            117,
+            337,
+            883,
+            401
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "111. Save in relation to Digital Assets, the starting point proposed under the PPL is that C does not take free of B’s interest, as the default nemo dat rule applies, such that C does not obtain a better title than A.62 ",
+        "bbox": [
+            117,
+            420,
+            883,
+            483
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "112. This is subject to a number of bona fide purchase rules: ",
+        "bbox": [
+            117,
+            502,
+            641,
+            520
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "a. Save in relation to Digital Assets, if B is an owner, C takes free of B’s interest in circumstances where B has said or done something that makes C believe in good faith that A is the owner or acting under B’s authority (Article 10(2));63   \nb. C takes free of B’s interest unless he does not give value, or gives value but knew or ought reasonably to have known of the interest (Article 12); or   \nc. C takes free of B’s interest unless he does not give value, or gives value but knows of facts that indicate a significant risk of a competing interest, and deliberately avoids making inquiries a reasonable person in his position would make that would establish the existence of the interest (Article 13); or ",
+        "bbox": [
+            173,
+            539,
+            885,
+            773
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "d. If B’s interest is a Security Right, C takes free of B’s Security Right unless he does not give value, or gives value but has actual knowledge that the transfer violates the rights of the Secured Creditor under the Security Agreement, subject to any conflicting rule in the Law of Security (Article 14).64 ",
+        "bbox": [
+            176,
+            783,
+            885,
+            847
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "62 See PPL Article 10(1) (nemo dat rule), and PPL Article 8 (requirement of consent for transfers of title). 63 This rule does not require C to have given value. ",
+        "bbox": [
+            116,
+            871,
+            856,
+            915
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "113. Article 10(2) is an existing PPL provision and has not been amended, whereas Articles 12, 13 and 14 are new provisions in the PPL. Therefore, the following sections focus on Articles 12, 13 and 14. ",
+        "bbox": [
+            119,
+            119,
+            883,
+            182
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Article 12 ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            204,
+            200,
+            219
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "114. Article 12 of the PPL allows a transferee of title to personal property to take free of competing interests unless he does not give value, or gives value but knew or ought reasonably to have known of the interest. ",
+        "bbox": [
+            117,
+            231,
+            883,
+            294
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "115. Article 12 is a more pro-transferee rule than Article 10(2) in that an owner (B) need not have said or done anything in order for a purchaser (C) to take free of his interest, but it applies in more limited circumstances. ",
+        "bbox": [
+            117,
+            313,
+            883,
+            376
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "116. In particular, save in relation to Digital Assets,65 Article 12 is subject to Article 10. This is in order to prevent an owner’s title from being extinguished in circumstances where he has not said or done anything to make a purchaser (C) believe that the transferor (A) is the owner of the asset. ",
+        "bbox": [
+            117,
+            395,
+            883,
+            480
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "117. Article 12 is also subject to Article 14, which covers situations where B holds a Security Right in the asset to which C obtains title. Article 14 is considered below. ",
+        "bbox": [
+            117,
+            500,
+            885,
+            540
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "118. Article 12 is primarily targeted at situations where: ",
+        "bbox": [
+            117,
+            559,
+            595,
+            577
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "a. a transferee for value is seeking to take free of an equitable interest; and   \nb. a transferee for value of a Digital Asset that is not Money, Financial Collateral, a Negotiable Document or a Negotiable Instrument66 is seeking to take free of a competing interest, whether legal or equitable. ",
+        "bbox": [
+            173,
+            596,
+            883,
+            695
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "119. In these situations, we believe that a knowledge requirement whereby a transferee is bound if he ‘knew or ought reasonably to have known’ of the relevant interest reflects the appropriate normative balance between an interest-holder (B) and a transferee ",
+        "bbox": [
+            117,
+            714,
+            883,
+            779
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "64 Security Right, Secured Creditor and Security Agreement have the meaning given in the proposed Law of Security. 65 Specifically a Digital Asset that is not Money, Financial Collateral, Financial Property, Negotiable Documents or Negotiable Instruments. 66 Digital Assets that are Money, Financial Collateral, Negotiable Documents or Negotiable Instruments are subject to a more pro-transferee rule (the rule in Article 13) because of their role in the functioning of the financial markets or international trade. ",
+        "bbox": [
+            116,
+            817,
+            870,
+            915
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "120. In considering the appropriate knowledge threshold, we have examined common law authorities, especially the decision in Credit Agricole Corp and Investment Bank v Papadimitriou67 (this discusses the appropriate knowledge threshold required for a transferee for value of legal title to take free of an existing equitable interest). ",
+        "bbox": [
+            117,
+            121,
+            885,
+            205
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "121. In light of this decision, we considered adopting a definition of ‘notice’ along the lines of: “A person has ‘notice’ of a third party property interest if he has knowledge of fact(s) that are (1) sufficient to indicate a significant risk that a third party property interest exists, and (2) a reasonable person with the defendant’s characteristics would conduct further investigation based on such fact(s).” ",
+        "bbox": [
+            117,
+            224,
+            885,
+            332
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "122. However, we concluded that this approach is slightly too pro-transferee in the context of assets and interests covered by Article 12, in the sense that it would allow a transferee to take free of a third party property interest in circumstances where he ought not to. We believe that the knowledge threshold in Article 12 strikes a better balance between the transferee (C) and the holder of the third party property interest (B). ",
+        "bbox": [
+            117,
+            352,
+            885,
+            482
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "123. An example illustrates the difference between the two definitions/formulations. ",
+        "bbox": [
+            116,
+            501,
+            819,
+            519
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "124. If a person who only speaks English receives a document in Arabic that indicates the existence of a third party property interest in respect of an item of personal property covered under Article 12, they would not have “knowledge of facts that are…sufficient to indicate a significant risk that a third party property interest exists”. As such, if they are a transferee for value of such personal property, they would automatically take free of any relevant interest that could have been discovered had the document been translated. ",
+        "bbox": [
+            119,
+            538,
+            885,
+            691
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "125. Yet, a judge may think that a reasonable person in the defendant’s position would have obtained a translation of the document, which would have revealed the interest. The threshold in Article 12 makes it possible for a judge in this situation to conclude that the defendant ought reasonably to have known about the interest (whereas the definition of ‘notice’ that we considered commits a judge to the conclusion that the defendant takes free). ",
+        "bbox": [
+            121,
+            709,
+            885,
+            840
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "67 [2015] UKPC 13; [2015] 1 WLR 4265. In particular, we have considered [14]-[17] (Lord Clarke), and [33] (Lord Sumption). ",
+        "bbox": [
+            112,
+            884,
+            880,
+            915
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "126. The flexibility offered by Article 12 is something we believe needs to be preserved, as we consider it too harsh on a holder of a third party property interest for a defendant to take free as long as they do not know of any facts that indicate a significant risk of a third party property interest. There are situations where they ought to have known about the interest despite not knowing of any such facts, i.e. where a reasonable person in their position would have taken steps to discover those facts. ",
+        "bbox": [
+            121,
+            83,
+            887,
+            214
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Article 12 as applied to Digital Assets ",
+        "bbox": [
+            178,
+            232,
+            489,
+            250
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "127. The Article 12 rule is the default BFP rule that applies to Digital Assets. ",
+        "bbox": [
+            119,
+            269,
+            764,
+            288
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "128. We recognise that this is a pro-transferee departure from the default nemo dat rule and Article 10(2) but believe that such a departure is necessary in the context of Digital Assets. ",
+        "bbox": [
+            117,
+            306,
+            883,
+            369
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "129. First, in the blockchain context, it is generally difficult for a transferee of a Digital Asset to obtain information about whether his counterparty has the superior title to the asset and whether the asset is subject to adverse property interests. This is primarily because: ",
+        "bbox": [
+            117,
+            388,
+            883,
+            472
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "a. the blockchain itself provides no information about who had control of each address (and the relevant Digital Asset) at any particular time in the past, or the event(s) that caused any change(s) of control in respect of the Digital Asset (such as a sale, gift, or theft); and   \nb. most people who transact on the blockchain do not interact with their counterparty face-to-face and/or do not know the real-life identity of their counterparty.   \nc. The lack of available information means it is difficult to verify whether the counterparty has the superior title to the Digital Asset, as well as whether their (superior or inferior) title is subject to any competing interests. ",
+        "bbox": [
+            173,
+            491,
+            887,
+            743
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "130. Second, there is a significant volume of daily transactions involving Digital Assets.68 The fast circulation of assets makes it more difficult to obtain information about who has title, as there are more transactions to search. ",
+        "bbox": [
+            119,
+            761,
+            883,
+            825
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "131. We believe that the high information cost of verifying whether the transferor of a Digital ",
+        "bbox": [
+            119,
+            843,
+            882,
+            862
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "68 See e.g. LC Report, 6.86. ",
+        "bbox": [
+            117,
+            900,
+            328,
+            915
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "33 ",
+        "bbox": [
+            488,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Asset has the best title or is subject to third party property interests means that there should not be an overly burdensome duty to investigate. Having a burdensome duty to investigate would discourage the use of blockchain technology and potentially cause undesirable chilling effects that stifle innovation in this area. ",
+        "bbox": [
+            176,
+            83,
+            883,
+            169
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "132. As such, we believe that a good faith transferee for value of a Digital Asset should be able to take free of competing interests unless they knew or ought reasonably to have known about the competing interest (as reflected in Article 12). ",
+        "bbox": [
+            117,
+            187,
+            883,
+            251
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "133. Also, in most situations involving on-chain purchases, there are relatively limited circumstances where the transferee ought to have known of a third party property interest (especially if the interface is technical, or if the transferee does not know the transferor). As such, in this context, Article 12 would not operate too harshly on transferees. ",
+        "bbox": [
+            119,
+            269,
+            883,
+            377
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Article 13 ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            397,
+            198,
+            414
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "134. Article 13 provides that (subject to Article $1 4 ) ^ { 6 9 }$ a transferee for value of Money, Financial Collateral, Financial Property, Negotiable Documents and Negotiable Instruments takes free of competing interests unless they: ",
+        "bbox": [
+            117,
+            426,
+            883,
+            489
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "a. have knowledge of facts sufficient to indicate that there is a significant risk that the third party property interest exists; and   \nb. deliberately avoid making inquiries a reasonable person in his position would make that would establish the existence of the third party property interest. ",
+        "bbox": [
+            175,
+            508,
+            883,
+            609
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "135. This is in substance a ‘wilful blindness’ threshold. ",
+        "bbox": [
+            117,
+            627,
+            587,
+            643
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "136. Article 13 favours the transferee more than Article 12 does, in that there is a higher mental requirement that needs to be satisfied before the transferee takes subject to the third party property interest. ",
+        "bbox": [
+            117,
+            663,
+            883,
+            726
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "137. The rationale for having a more pro-transferee knowledge threshold for this category of assets is that such assets are all important to the functioning of financial markets or international trade. If transferees do not have certainty that they are taking free, this could risk the efficient running of markets. ",
+        "bbox": [
+            119,
+            744,
+            883,
+            831
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "69 Article 13 is subject to Article 14, which covers situations where B holds a security interest in the asset to which C obtains title. This is discussed in paragraphs 140-143 below. ",
+        "bbox": [
+            117,
+            885,
+            882,
+            915
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "138. Thus, in the context of the ‘Arabic document’ example discussed at paragraph 124 (in the context of Article 12) above, a transferee would not be caught under Article 13 even if they do not obtain a translation of the document, because he would not be aware of facts indicating that there is a significant risk of the existence of a third party property interest. ",
+        "bbox": [
+            119,
+            83,
+            883,
+            191
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "139. The desire to provide certainty for purchasers and maintain the efficient running of markets also means that Article 13 is not subject to Article 10. ",
+        "bbox": [
+            117,
+            211,
+            883,
+            250
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "140. Furthermore, Article 13(1) makes it clear that the category of assets covered under Article 13 includes a Digital Asset that is Money, Financial Collateral, Financial Property, a Negotiable Instrument or a Negotiable Document. ",
+        "bbox": [
+            119,
+            269,
+            883,
+            332
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Article 14 ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            353,
+            198,
+            369
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "141. On Article 14, see also paragraphs 160-161 of Consultation Paper No.5 of 2023 on the Law of Security and Financial Collateral Regulations. ",
+        "bbox": [
+            116,
+            381,
+            882,
+            421
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "142. Article 14 applies to a transferee for value of personal property in which there are existing Security Right(s), whereby the general rule is that a transferee for value takes free of the Security Right(s) unless they have actual knowledge that the transfer violates the rights of the Secured Creditor under the Security Agreement. This takes into account that knowledge of the existence of a Security Agreement should not of itself prevent a transferee from taking free of such rights. Article 14 is subject to any conflicting provision in our proposed Law of Security. ",
+        "bbox": [
+            117,
+            440,
+            885,
+            593
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "143. We have set the default knowledge threshold to actual knowledge, in order to maintain consistency with UNCITRAL Model Law on Secured Transactions.70 ",
+        "bbox": [
+            117,
+            612,
+            882,
+            653
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "144. For the avoidance of doubt, a transferee for value of a Digital Asset benefits from the protection of Article 14 to the same extent as a transferee for value of any other personal property. ",
+        "bbox": [
+            117,
+            672,
+            882,
+            735
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Equitable interests ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            755,
+            274,
+            771
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "145. At present, English law only allows transferees for value to take free if they acquire a legal interest. However, we believe that the bona fide purchase rules should also apply to transfers of equitable interests, such that transferees of equitable interests ",
+        "bbox": [
+            119,
+            782,
+            883,
+            845
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "70 Specifically Articles 34(4)-(6) (exceptions to general rule in relation to transactions in the ordinary course of business), Article 47(6) (money credited to a bank account), Article 48(1) (physical money), and Art 49(3) (negotiable instruments and tangible assets covered by negotiable documents). ",
+        "bbox": [
+            117,
+            871,
+            875,
+            915
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "take free of competing equitable interests (apart from superior equitable interests).71 This is reflected explicitly in Articles 12(1)(b) and 13(2)(b) of the PPL, and implicitly in Article 14 of the PPL. ",
+        "bbox": [
+            178,
+            84,
+            882,
+            146
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Provisions in the existing PPL ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            166,
+            365,
+            184
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "146. In order to implement the rules in Articles 12-14 of the PPL, we have deleted, amended or disapplied various provisions in the existing PPL insofar as they conflict with the application of Rules 1-3.72 ",
+        "bbox": [
+            119,
+            194,
+            883,
+            257
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Q12: Do you agree with the scope and the knowledge thresholds of the bona fide purchase rules we have proposed? If not, what changes should be made? ",
+        "bbox": [
+            146,
+            277,
+            878,
+            319
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Contract Law amendments ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            337,
+            345,
+            351
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Mistake ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            362,
+            186,
+            377
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "147. We have made amendments to the mistake provisions in the Contract Law to cater for situations involving an automated acceptance by a computer of a coded term that contains a mistake.73 At present, the conditions for avoidance of a contract for mistake under Article 37 of the Contract Law cater for scenarios where the terms of a contract are accepted by a human. For example, if there is a mistake of sufficient importance that it satisfies the threshold under Article 37(1),74 the contract can be avoided on certain grounds. Under these grounds, there are requirements that are premised on the contract being created as a result of cognition being exercised by humans, such as the requirement that the other party “was also mistaken”, or that he “knew or ought to have known of the mistake” (Article 37(1)(a)). This is impossible to fulfil in the case of an automated acceptance by a computer of a coded term, where there is no conscious human input in such acceptance.75 ",
+        "bbox": [
+            126,
+            388,
+            883,
+            655
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "148. As such, we have introduced a new ground of avoidance for mistake in relation to coded terms that are accepted by a computer program without any conscious human decision. Specifically, provided that the mistake is of sufficient importance that it satisfies Article 37(1), Article 37(2)(e) allows for avoidance of a contract where it is “contrary to commercial standards of fair dealing” to bind the mistaken party to the contract. In terms of what “commercial standards of fair dealing” means, we have left this undefined in order to provide flexibility for judges. ",
+        "bbox": [
+            116,
+            674,
+            880,
+            692
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "71 For the reasons given in Ben McFarlane, The Structure of Property Law (Hart Publishing, 2008) 246-247; Ben McFarlane and Andreas Televantos, ‘As Complex as ABC? Bona Fide Purchasers of Equitable Interests’ in Intermediaries in Commercial Law (Hart Publishing, 2022) 236-237. 72 Articles 8-10 of the PPL have been disapplied in relation to Digital Assets, and Articles 11-13, 20, 25 and 33 of the (original) PPL have been deleted. 73 The definition of ‘Coded term’ in Sch 1 para 3 of the Contract Law uses the term ‘Computer program’, and have added a definition of ‘Computer program’ in Sch 1 para 3 of the Contract Law. 74 I.e. that “the mistake was of such importance that a reasonable person in the same situation as the party would not have concluded it at all if the true state of affairs had been known”. 75 We have considered the Singapore Court of Appeal judgment of Quoine Pte Ltd v B2C2 Ltd [2020] SGCA(I) 02. In our view, the majority approach in Quoine results in mistaken parties being bound in too many situations, and Lord Mance’s approach in his dissenting judgment provides a fairer balance. The threshold we propose in Article 37(2)(e) is influenced by Lord Mance’s approach. ",
+        "bbox": [
+            116,
+            735,
+            875,
+            914
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Q13: Should we leave open what “commercial standards of fair dealing” means for the purpose of Article 37(2)(e) of the Contract Law, or should we have explicit guidelines in Article 37 as to what constitutes “commercial standards of fair dealing”? If so, what should those guidelines provide? ",
+        "bbox": [
+            116,
+            235,
+            851,
+            321
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Contractual interpretation ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            347,
+            329,
+            364
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "149. In the Digital Asset context, there are many agreements that are governed wholly or partly by code (such as agreements that involve the use of smart contracts). This raises the question of how such agreements are to be interpreted, given the lack (or limited amount) of natural language, which can make it difficult to discern the intentions of the parties. ",
+        "bbox": [
+            119,
+            376,
+            883,
+            483
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "150. We have added Article 49(3) which sets out a general approach to the interpretation of coded terms applicable in cases where the intention of the parties cannot be ascertained. In such situations, the task of the court is to interpret the meaning of the term(s) from the perspective of a reasonable coder who has a competent understanding of the relevant coding language(s) in which the term(s) are written.76 ",
+        "bbox": [
+            119,
+            502,
+            883,
+            611
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "151. The standard of a reasonable coder77 is adopted instead of a standard of ‘what the code actually does’, because it is difficult to definitively foresee what the code will do in all situations. Indeed, there may be discrepancies between what the code actually does and what a reasonable coder who knows the coding language foresees the code would do. Interpreting a contract according to what a human understands to be the effect of the code would better uphold the reasonable expectations of the contracting parties. ",
+        "bbox": [
+            119,
+            629,
+            885,
+            782
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "152. The amendments we have made to Articles 50 and 51 also reflect this balance. Article ",
+        "bbox": [
+            114,
+            801,
+            880,
+            819
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "76 See Law Commission, Smart legal contracts Advice to government (Law Com No 401, 2021), 4.48- 4.51. $^ { 7 7 }$ I.e. a “reasonable person with a competent understanding of the relevant code” under Article 49(3) of the Contract Law. ",
+        "bbox": [
+            116,
+            858,
+            875,
+            914
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "37 ",
+        "bbox": [
+            488,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "50(3) provides for the ‘reasonable coder’ test, which applies if the other party’s intention is unknown. Similarly, Article 51(e) provides for guidelines in relation to the interpretation of a contract, such that “the meaning given by reasonable person with competent understanding of the relevant code” can be taken into account when interpreting the meaning of a coded term. ",
+        "bbox": [
+            176,
+            83,
+            883,
+            191
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "153. We have also made a clarificatory amendment to Article 52. Specifically, the amendment clarifies that the principle that terms and expressions ‘shall be interpreted in the context of the contract as a whole’ is to be applied to coded terms and expressions as well. ",
+        "bbox": [
+            117,
+            211,
+            883,
+            295
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "154. In order to provide clarity, we have also added definitions of terms used in Articles 49- 52, namely ‘Code’, ‘Coded contract’, ‘Coded term’, and ‘Hybrid contract’.78 ",
+        "bbox": [
+            117,
+            314,
+            880,
+            355
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Q14: Do you agree with the ‘reasonable coder’ approach that we have introduced   \nin relation to the interpretation of coded terms in a contract? If not, what   \napproach is appropriate?   \nQ15: Do you agree with the amendments we have made to Articles 49-52 of the   \nContract Law? If not, what amendments are appropriate?   \nQ16: Do you agree with the definitions we have introduced in relation to the terms   \nin Articles 49-52? If not, in what respects should they be changed? ",
+        "bbox": [
+            146,
+            375,
+            887,
+            576
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Other amendments ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            602,
+            281,
+            617
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "155. We have added a definition of money to the Contract Law so that it includes Digital Assets, and in order (more generally) to ensure technological neutrality. Specifically, we have defined money as anything that performs the three essential functions of money ((1) medium of exchange, (2) store of value, and (3) unit of account), and we have clarified that it includes a Digital Asset that performs these three functions. This becomes relevant in other contexts in DIFC law (e.g. insolvency, and the action for the agreed sum).79 ",
+        "bbox": [
+            121,
+            629,
+            885,
+            782
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "156. Similarly, we have added definitions of ‘Currency’, ‘Credit Balance’, ‘Monetary obligation’, and ‘Sum’ to clarify that Digital Assets that are functionally equivalent to their relevant non-Digital Asset counterparts are included and thus not prejudiced. ",
+        "bbox": [
+            117,
+            801,
+            883,
+            842
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "78 Contract Law, Sch 1 para 3. 79 See paragraphs 157-159 and 174-178 below. ",
+        "bbox": [
+            116,
+            885,
+            474,
+            914
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "38 ",
+        "bbox": [
+            488,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "157. We have also added Article 124(5) to the Contract Law, concerning agency. Article 124(5) provides that a computer is not to be regarded as an agent. ",
+        "bbox": [
+            117,
+            119,
+            882,
+            161
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Q17: Do you agree with our definitions of ‘Money’, ‘Currency’, ‘Credit balance’, ‘Monetary obligation’ and ‘Sum’? If not, what modifications are required? ",
+        "bbox": [
+            153,
+            181,
+            851,
+            223
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Law of Damages and Remedies ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            238,
+            388,
+            256
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "158. In relation to the Law of Damages and Remedies, we have added some new provisions to make available the action for the agreed sum, as well as the remedies of rectification and rescission. We anticipate that these remedies may be sought on a regular basis in the Digital Asset context. ",
+        "bbox": [
+            117,
+            270,
+            883,
+            356
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "159. In relation to the action for the agreed sum, we have added a new article (Article41C) to provide for this remedy, as there would otherwise be no provision for this in DIFC law. Article 41C(1))] also provides for conditions that prevent someone from being able to bring an action for the agreed sum, namely where there has been an anticipatory breach and there is no legitimate interest in the performance of the contract. This mirrors the equivalent limitation in English law.80 ",
+        "bbox": [
+            117,
+            374,
+            883,
+            505
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "160. We have also added a definition of “Sum” into the Law of Damages and Remedies, to clarify that it includes a Digital Asset that is money or analogous thereto. This allows an action for the agreed sum to be brought in respect of a Digital Asset that is money or analogous thereto.81 ",
+        "bbox": [
+            117,
+            524,
+            883,
+            610
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "161. In relation to rectification and rescission, we have added a separate article to cover each remedy. The substance of each article tracks general English law boundaries as to the scope of each remedy. ",
+        "bbox": [
+            117,
+            628,
+            882,
+            692
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "162. We have also made corresponding amendments to Article 35 (the general provision that confers powers on courts to make orders), to reflect the court’s power to make an order for rectification or rescission. ",
+        "bbox": [
+            117,
+            711,
+            882,
+            774
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Q18: Do you have any concerns in relation to our proposed amendments to the Law of Damages and Remedies? If so, how should the proposal be modified? ",
+        "bbox": [
+            114,
+            794,
+            863,
+            836
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "80 White and Carter (Councils) Ltd v McGregor [1961] UKHL 5. 81 Similarly, we have added definitions of Credit balance, Currency, and Monetary obligation to cater for the Digital Asset context. ",
+        "bbox": [
+            116,
+            871,
+            867,
+            914
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "39 ",
+        "bbox": [
+            488,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Law of Obligations ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            87,
+            276,
+            104
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Wrongful interference with property ",
+        "bbox": [
+            117,
+            112,
+            410,
+            129
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "163. For the reasons we have already explained, we have disapplied the Chapter 7 regime in the Law of Obligations (which deals with wrongful interference with property) in relation to Digital Assets. ",
+        "bbox": [
+            117,
+            141,
+            883,
+            204
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Misrepresentation ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            224,
+            269,
+            239
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "164. We have made an amendment to Article 30 in order to limit a representor’s scope of liability in the context of a misrepresentation such that the position is aligned with English law. The amendment covers a situation where A makes a misrepresentation to B, such that A’s liability for misrepresentation is limited to B, instead of being extended to third parties. ",
+        "bbox": [
+            119,
+            251,
+            885,
+            359
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Electronic trade documents ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            380,
+            346,
+            396
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "165. In our Consultation Paper No.5 of 2023 on the Law of Security and the Financial Collateral Regulations, we consider the important issue of the digitalisation of international trade and electronic trade documents (which may be in the form of Digital Assets). Accordingly, we encourage those interested in such issues to consider paragraphs 88-97 of that Consultation Paper. ",
+        "bbox": [
+            119,
+            408,
+            885,
+            516
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Q19: Do you have any concerns in relation to our proposed amendments to the Law of Obligations? If so, how should the proposal be modified? ",
+        "bbox": [
+            153,
+            538,
+            858,
+            578
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "ITCUT Law ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            595,
+            215,
+            611
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "166. There are two main areas of the ITCUT Law that need to be amended to accommodate Digital Assets: (1) provisions governing the passing of title under a sale, and (2) protective provisions in relation to unfair terms. ",
+        "bbox": [
+            117,
+            625,
+            883,
+            690
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "167. First, there are provisions in the ITCUT Law that function on the premise that title can pass under a sale without a change of control/possession (e.g. Articles 21, 23, and 24). These provisions are disapplied in respect of Digital Assets because they conflict with the rule in Article 12 of the DAL (which provides that a change of control is necessary for title to a Digital Asset to pass). ",
+        "bbox": [
+            119,
+            707,
+            885,
+            815
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "40 ",
+        "bbox": [
+            488,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "168. Second, there are protective provisions in relation to unfair terms (which are covered in Part 3 of the ITCUT Law) which we propose to extend to particular Digital Assets that are constitutively linked82 to or evidences a right to assets that otherwise would fall outside Part 3 of the Law, namely intellectual property and securities (and rights or interests therein). As users of these Digital Assets may not be familiar with how they behave in various scenarios, we believe that the protective provisions in relation to unfair terms should apply to these Digital Assets. ",
+        "bbox": [
+            119,
+            83,
+            883,
+            237
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "169. Finally, we have made an amendment to Article 36(1)(g)(i), such that contracts under which title to Digital Assets is intended to (eventually)83 pass, as well as contracts involving a change of control of a Digital Asset, would not automatically be deprived of the benefit of the protective provisions under Part 3 of the ITCUT Law. ",
+        "bbox": [
+            119,
+            255,
+            883,
+            342
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "170. We have also made an amendment to Article 38 to cater for arbitration clauses. Specifically, insofar as there is a contractual term that compels a party to use arbitration as their avenue for legal recourse, it needs to satisfy the requirement of reasonableness under Article 40. For example, we are aware that, in the Digital Asset context, exchanges’ standard terms of service often include such an arbitration clause. This could operate oppressively as against a consumer. Therefore, in our view there should be protection in such scenarios, in the form of a ‘reasonableness’ assessment of forced arbitration clauses. ",
+        "bbox": [
+            121,
+            359,
+            883,
+            535
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Q20: Do you have any concerns regarding our proposed amendments to the ITCUT Law? If so, what modifications are desirable? ",
+        "bbox": [
+            151,
+            557,
+            831,
+            596
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Q21: Are there any other types of Digital Assets that do not currently benefit from the protective provisions of Part 3 of the ITCUT Law, but should do so? ",
+        "bbox": [
+            153,
+            623,
+            878,
+            665
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "82 The meaning of ‘Constitutively Linked’ is set out in a new definition (see ITCUT Law, Sch 1 para 3): “a Digital Asset is Constitutively Linked with another asset where the Digital Asset confers a right to the (other) asset, and where the right to the other asset can only be transferred if the conditions under Article 12 or 13 of the Digital Assets Law are satisfied”. 83 Because title to Digital Assets cannot pass under a contract, given Article 12 of the DAL requires a change of control and an intention to transfer title. ",
+        "bbox": [
+            116,
+            831,
+            877,
+            914
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "41 ",
+        "bbox": [
+            488,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Trust Law and Foundations Law ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            87,
+            387,
+            103
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "171. In relation to the Trust Law, we propose an amendment to Article 45(1)(b) to relax the certainty of objects requirement for the creation of a trust, in order to cater for the Digital Asset context where the identities of beneficiaries may be unknown (and are instead only identified pseudonymously). ",
+        "bbox": [
+            117,
+            118,
+            885,
+            205
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "172. Specifically, Article 45(1)(b) is amended such that it includes a reference to ‘identifying characteristic’. This is because Article 45(1)(b) does not make it clear whether ascertainment by reference to a pseudonymous address is sufficient to satisfy the certainty of objects requirement. With the amendment in place, various blockchainbased arrangements involving beneficial interests would not fail the certainty of objects test on the mere basis that the names of the beneficiaries are not identified (e.g. arrangements involving equitable interests that are tokenised on the blockchain). This is because ‘identifying characteristic’ would involve a pseudonymous blockchain address over which the relevant beneficiary has control. ",
+        "bbox": [
+            119,
+            222,
+            885,
+            422
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "173. We have also made clarificatory amendments to the reference to property in Article 15(a) of the Foundations Law and Article 15(a) of the Trust Law, such that both provisions cover Digital Assets. ",
+        "bbox": [
+            117,
+            440,
+            882,
+            503
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Q22: Do you agree with our amendment in relation to ‘identifying characteristic’ in Article 45(1)(b) of the Trust Law? If not, how should the issue be addressed? Q23: Do you have any concerns in relation to our proposed amendments to the Trust Law and the Foundations Law? If so, how should these be modified? ",
+        "bbox": [
+            148,
+            523,
+            865,
+            633
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Insolvency Law and Insolvency Regulations ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            649,
+            484,
+            666
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Foreign currency conversion provision to be extended to Digital Assets that are money ",
+        "bbox": [
+            116,
+            680,
+            829,
+            698
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "174. We have made an amendment to Reg 6.26 of the Insolvency Regulations, which covers the conversion of currency claims on liquidation into a US dollar debt. ",
+        "bbox": [
+            116,
+            717,
+            885,
+            758
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "175. In the insolvency context, treatment of a foreign currency claim is different from treatment of a damages claim, as the former is converted into a US dollar debt at the date of liquidation.84 This raises the question of how Digital Assets that function as currencies should be treated (i.e. whether they should be treated as a foreign currency ",
+        "bbox": [
+            119,
+            776,
+            885,
+            863
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "84 See Reg 6.26 of the current Insolvency Regulations. ",
+        "bbox": [
+            116,
+            899,
+            526,
+            915
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "42 ",
+        "bbox": [
+            488,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "claim or a damages claim). ",
+        "bbox": [
+            178,
+            85,
+            404,
+            100
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "176. There are different consequences based on whether the claim is in debt or damages, such as whether the limitations of remoteness and mitigation are applicable. Also, if the claim is converted to a US dollar debt claim at the date of liquidation, subsequent events cannot be taken into account (unlike with a damages claim). In the Digital Asset context, the volatility of the cryptocurrency market means (for example) that assessing the quantum of the claim at a different date can make an immense difference to the value of the claim. Thus, the characterisation question carries enormous practical significance.85 ",
+        "bbox": [
+            119,
+            119,
+            885,
+            295
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "177. We believe that if foreign currency falls within the ‘debt’ category, then Digital Assets that perform the function of money should also fall within that category such that they fall under the Reg 6.26 ‘conversion’ provision. ",
+        "bbox": [
+            119,
+            315,
+            882,
+            377
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "178. As such, we have amended Reg 6.26 of the Insolvency Regulations, so that the ‘conversion’ provision covers not just foreign currency but also Digital Assets that perform the function of money. In this sense, we are drawing the line functionally as opposed to technically, to ensure that all assets that perform the three functions of money86 are treated in like manner under Reg 6.26 of the Insolvency Regulations. This is in line with the Law Commission’s suggestion that Digital Assets should be amenable to an action for the agreed sum if they are “considered money or analogous thereto”.87 ",
+        "bbox": [
+            119,
+            396,
+            885,
+            571
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "Priorities ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            592,
+            193,
+            609
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "179. We have also amended Regulation 6.47.1 of the Insolvency Regulations, which deals with priorities in the context of insolvency. The amendment clarifies that trust beneficiaries, secured creditors and preferential creditors are paid before the general body of unsecured creditors. This is critical in the context of Digital Assets, as there are many Digital Assets that are held on trust. ",
+        "bbox": [
+            119,
+            628,
+            885,
+            736
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "Shortfall ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            756,
+            190,
+            771
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "180. Furthermore, we have added Regulation 6.47.3, in order to reflect the issue of shortfall in relation to Digital Assets. Specifically, Regulation 6.47.3 now provides that Digital Assets (and entitlements to Digital Assets) that are held on trust on an unallocated commingled basis are to be paid out in full unless there is a shortfall (in which case the shortfall is borne pro rata between the beneficiaries). ",
+        "bbox": [
+            117,
+            792,
+            880,
+            809
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "85 Also note LC Consultation Paper, 19.24. 86 Store of value, medium of exchange, and unit of account. We have added a definition of ‘Money’ into the Insolvency Regulations such that it covers a Digital Asset that performs these three functions. 87 LC Consultation Paper, 19.23: “crypto-tokens should only be able to form the subject matter of [a debt] award if and when they are considered money or analogous thereto.” ",
+        "bbox": [
+            117,
+            844,
+            877,
+            914
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "43 ",
+        "bbox": [
+            488,
+            942,
+            510,
+            954
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "181. In relation to the shortfall issue, we believe that a pro rata shortfall allocation mechanism provides time and cost efficiencies insofar as it minimises the delays in relation to the return of assets to their beneficial owners, and minimises litigationrelated costs.88 Limiting such a rule to unallocated commingled holdings also prevents entitlement holders with specific allocated holdings from being prejudiced by the shortfall rule. ",
+        "bbox": [
+            121,
+            187,
+            883,
+            318
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Definitions ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            338,
+            207,
+            355
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "182. In the Insolvency Law, we have amended the definition of ‘property’ to clarify that Digital Assets are included within the definition. ",
+        "bbox": [
+            119,
+            374,
+            883,
+            414
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Q24: Do you agree that a contractual claim for a Digital Asset that is money should be converted into a US dollar debt on the date of liquidation under Reg 6.26 of the Insolvency Regulations?   \nQ25: Do you agree with our pro rata shortfall allocation rule in respect of unallocated commingled holdings?   \nQ26: Do you have any concerns regarding our proposed amendments to the Insolvency Regulations and the Insolvency Law? If so, what modifications are required? ",
+        "bbox": [
+            148,
+            457,
+            855,
+            680
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Legislative proposal ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            695,
+            287,
+            712
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "183. This legislative proposal contains the following: ",
+        "bbox": [
+            117,
+            728,
+            570,
+            745
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "a. the DAL (at Annex A);   \nb. the DIFC Amendment Law (as Annex B); c. the PPL (as Annex C);   \nd. the DIFC Insolvency Regulations (as Annex D);   \ne. the DIFC Ultimate Beneficial Ownership Regulations (as Annex E);   \nf. the DIFC Securities Regulations (as Annex F); and   \ng. a table of comments to provide your views and comments on the Proposed Laws (at Annex G). ",
+        "bbox": [
+            180,
+            764,
+            553,
+            813
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "88 This is what the Law Commission considers the “very reason for introducing a statutory [pro rata] loss allocation rule”: LC Consultation Paper, 17.80. ",
+        "bbox": [
+            119,
+            885,
+            860,
+            914
+        ],
+        "page_idx": 43
+    }
+]

@@ -1,0 +1,946 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            395,
+            275,
+            612,
+            321
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 2 April 2022 ",
+        "text_level": 1,
+        "bbox": [
+            207,
+            464,
+            806,
+            539
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            609,
+            917,
+            688
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONSULTATION PAPER NO. 2 PROPOSAL RELATING TO THE AMENDMENT OF THE PRESCRIBED COMPANY REGULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            87,
+            893,
+            148
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Why are we issuing this paper? ",
+        "bbox": [
+            94,
+            163,
+            358,
+            181
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. The Dubai International Financial Centre Authority (“DIFCA”) proposes to amend the Prescribed Company Regulations (“PC Regulations”) to expand the current regime. This Consultation Paper No. 2 of 2022 (“Consultation Paper”) seeks public comments on the amended Prescribed Company Regulations (the “Proposed Regulations”). ",
+        "bbox": [
+            95,
+            194,
+            922,
+            281
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Who should read this paper? ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            304,
+            336,
+            320
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. This Consultation Paper would be of interest to persons conducting or proposing to conduct business in the DIFC. In particular: ",
+        "bbox": [
+            94,
+            334,
+            920,
+            375
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) Registered Persons;   \n(b) shareholders, directors, partners, officers, senior executive officers and employees of Registered Persons;   \n(c) Corporate Service Providers; and   \n(d) legal advisors to any of the above. ",
+        "bbox": [
+            153,
+            393,
+            907,
+            546
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How to provide comments ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            568,
+            314,
+            584
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. All comments should be provided to the person specified below: ",
+        "bbox": [
+            89,
+            599,
+            690,
+            616
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Jacques Visser   \nChief Legal Officer   \nDIFC Authority   \nLevel 14, The Gate, P. O. Box 74777   \nDubai, United Arab Emirates   \nor e-mailed to: consultation@difc.ae ",
+        "bbox": [
+            153,
+            636,
+            484,
+            767
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. You may choose to identify the organisation you represent in your comments. ",
+        "bbox": [
+            89,
+            785,
+            799,
+            804
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made. ",
+        "bbox": [
+            92,
+            821,
+            920,
+            863
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "What happens next? ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            885,
+            269,
+            901
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "bbox": [
+            550,
+            38,
+            917,
+            53
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "bbox": [
+            887,
+            934,
+            898,
+            946
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6. The deadline for providing comments on the proposals in this Consultation Paper is 4 May 2022. ",
+        "bbox": [
+            90,
+            65,
+            914,
+            106
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. Once we receive your comments, we will consider if any further refinements are required to the Proposed Regulations. Once DIFCA considers the Proposed Regulations to be in a suitable form, it will be enacted as a new DIFC Regulation to come in to force on a date specified and published. ",
+        "bbox": [
+            94,
+            124,
+            920,
+            211
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8. The Proposed Regulations are in draft form only. You should not act on them until the Proposed Regulations are formally enacted. We will issue a notice on our website when this happens. ",
+        "bbox": [
+            92,
+            229,
+            920,
+            292
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Defined terms ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            315,
+            215,
+            331
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9. Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase and are defined in the Proposed Regulations. Unless the context otherwise requires, where capitalisation of the initial letter is not used, the expression has its natural meaning. ",
+        "bbox": [
+            92,
+            345,
+            922,
+            433
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            454,
+            198,
+            472
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10. The PC Regulations were enacted in October 2019 and replaced the former Special Purpose Company Regulations and the former DIFCA Board approved Intermediate Special Purpose Vehicle (ISPV) regime. ",
+        "bbox": [
+            94,
+            492,
+            920,
+            557
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11. In May 2020, pursuant to DIFCA Board approval, the DIFC extended the scope of the Prescribed Companies regime by expanding the definitions of Qualifying Applicant and Qualifying Purpose (the “DIFCA Board Approved Expansion”) (further details of which are included below from paragraph 14). Following the successful implementation of the DIFCA Board Approved Expansion, the DIFC now wishes to formalise, and further expand, the definitions of Qualifying Applicant and Qualifying Purpose in the PC Regulations. ",
+        "bbox": [
+            94,
+            574,
+            920,
+            706
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "12. As has been previously stated, the DIFC, from its inception has strived to be an onshore jurisdiction of substance. It has largely shied away from allowing persons to establish offshore style special purpose vehicles in the DIFC without also having a substantive presence in the Centre, with the exception of Prescribed Companies (and previously Special Purpose Companies and ISPVs). Whilst the DIFC currently remains committed to this policy, the expanded regime proposed as part of this Consultation Paper is moderated by a continued focus on substance requirements, where these are required under relevant substance regulations, for those persons wishing to set up a Prescribed Company in the Centre. ",
+        "bbox": [
+            95,
+            724,
+            920,
+            903
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "bbox": [
+            550,
+            38,
+            917,
+            53
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            887,
+            934,
+            898,
+            946
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Key Changes proposed ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            70,
+            294,
+            86
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "13. The key changes in the Proposed Regulations include the following: ",
+        "bbox": [
+            94,
+            108,
+            715,
+            125
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) formalising, consolidating and expanding the definition of Qualifying Applicant following the DIFCA Board Approved Expansion;   \n(b) formalising, consolidating and expanding the definition of Qualifying Purpose following the DIFCA Board Approved Expansion;   \n(c) disapplying certain provisions of the Companies Law, DIFC Law No. 5 of 2018 (“Companies Law”) in respect of private companies, for Prescribed Companies whose Qualifying Purpose is a Structured Financing or a Crowdfunding Structure; and   \n(d) other miscellaneous amendments. ",
+        "bbox": [
+            153,
+            144,
+            920,
+            342
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Formalising, consolidating and expanding the definition of Qualifying Applicant ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            356,
+            744,
+            374
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14. The below table sets out a summary of Qualifying Applicants and Qualifying Purposes available under the current PC Regulations and pursuant to the DIFCA Board Approved Expansion. ",
+        "bbox": [
+            95,
+            387,
+            919,
+            451
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/006280f9c5ae1b9396dab1df1837f2c103a6c8f44d88785841a1e3e7dd8269df.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Qualifying Applicants (&quot;QAs&quot;)</td><td rowspan=1 colspan=1>Qualifying Purposes (&quot;QPs&quot;)</td></tr><tr><td rowspan=1 colspan=1>Peeennod ns</td><td rowspan=1 colspan=1>1. Authorised Firm2. Fund3. Government Entity4. Family Office5. Fintech Entity6. Foundation7. Holding Company8. Private Trust Company9. Proprietary Investment</td><td rowspan=1 colspan=1>1. Aviation Structure2. Crowd Funding Structure3. Family Holding Structure4.Structured Financing</td></tr><tr><td rowspan=1 colspan=1>poadde pra BadEssundon</td><td rowspan=1 colspan=1>10. DIFC Based Qualifying Applicant(i.e. non-retail entities (other thanPrescribed Companies))11. Shareholders or Ultimate beneficialOwners of DIFC QualifyingApplicant12. Affiliates of a DIFC QualifyingApplicant13. Family Owned Business with alarge UAE presence</td><td rowspan=1 colspan=1>DIFC Holding Structure</td></tr></table>",
+        "bbox": [
+            141,
+            480,
+            917,
+            864
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "bbox": [
+            550,
+            38,
+            919,
+            53
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 ",
+        "bbox": [
+            887,
+            935,
+            898,
+            945
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "15. The Proposed Regulations formalise these additions with the certain modifications. For ease of reference, a revised summary table is set out below to provide an overview of the finalised list of Qualifying Applicants and Qualifying Purposes.1 ",
+        "bbox": [
+            95,
+            65,
+            919,
+            129
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d09949fefe5c51f0cbccfd425a67a4bf663bebf8b073cea62b0d3b44fcca503.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Qualifying Applicants (&quot;QAs&quot;)</td><td rowspan=1 colspan=1>Qualifying Purposes (&quot;QPs&quot;)</td></tr><tr><td rowspan=1 colspan=1>Peegeno s</td><td rowspan=1 colspan=1>Authorised Firm2.Fund3.Government Entity4.Family Office5. Fintech Entity6. Foundation7. Holding Company8. Private Trust Company9. Proprietary Investment</td><td rowspan=1 colspan=1>Aviation StructureCrowd Funding Structure3. Family Holding StructureStructured Financing</td></tr><tr><td rowspan=1 colspan=1>aeeedx paodd oag Bod</td><td rowspan=1 colspan=1>10. DIFC Registered Entity BasedQualifying Applicant (i.c. non retailentities-(other than PrescribedCompanies and Non ProfitIncorporated Organisations)11. Shareholder or Ultimate beneficialOwners of DIFC RegisteredEntities Qualifying Applicant12. Affiliates of a DIFC RegisteredEntities Qualifying Applicant13. Family Operated Owned Businesswith sufficient substance in theUAEa large UAE presence.</td><td rowspan=1 colspan=1>5. DIFC Holding Structure6. Shipping Structure7. Innovation Structure8. Intellectual Property Structure</td></tr></table>",
+        "bbox": [
+            141,
+            153,
+            917,
+            580
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "16. As shown in the table above, a number of changes have been made to the scope of the Qualifying Applicant definition. In particular, “DIFC Based Qualifying Applicant” has been redefined as “DIFC Registered Entity” to avoid confusion between the terminology used to distinguish the broader concept of a Qualifying Applicant under the regulations (i.e. a person or entity that is eligible to establish a Prescribed Company) and one of the eligible applicants meeting the requirements of a Qualifying Applicant. ",
+        "bbox": [
+            95,
+            615,
+            920,
+            747
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "17. As a consequence of the DIFC Registered Entity definition being included in the Proposed Regulations, the definitions of Family Office, Fintech Entity, Foundation, Holding Company, Private Trust and Proprietary Investment have been deleted. This is to remove duplication, as these entity and activity types fall within the scope of the DIFC Registered Entity definition. ",
+        "bbox": [
+            95,
+            764,
+            919,
+            828
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1 Please see the Proposed Regulations for full definitions. ",
+        "bbox": [
+            97,
+            880,
+            484,
+            894
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "bbox": [
+            550,
+            38,
+            917,
+            53
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            887,
+            934,
+            898,
+            945
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "18. In addition to the change of definition, the scope of a DIFC Registered Entity differs slightly from the DIFC Based Qualifying Applicant definition introduced pursuant to the DIFCA Board Approved Expansion. The DIFC Based Qualifying Applicant definition excluded retail entities that operate in the DIFC. Under the Proposed Regulations, a DIFC Registered Entity will include DIFC registered retail entities, i.e. entities that are licenced to carry out retail or hospitality activities. However, if a DIFC registered retail entity wishes to establish a Prescribed Company, it will not be able to use its retail premises for the purpose of complying with the registered office requirements under the regulations (see paragraph 28(b) below for further detail). ",
+        "bbox": [
+            95,
+            102,
+            919,
+            301
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "19. Finally, the expansion of the DIFC Registered Entity definition seeks to provide corporate structuring options for DIFC entities with a substantive presence in the Centre. On this basis, the DIFC Registered Entity definition excludes Prescribed Companies and Non Profit Incorporated Organisations (NPIOs) from its scope. ",
+        "bbox": [
+            94,
+            319,
+            919,
+            406
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "20. The Proposed Regulations also allow other types of applicant to establish a Prescribed Company. These include: ",
+        "bbox": [
+            92,
+            423,
+            919,
+            464
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) Shareholders or Ultimate Beneficial Owners with a Majority Interest in a DIFC Registered Entity;   \n(b) Affiliates (that are legal entities), which are under the same group structure and have Common Ownership or Common Control with a DIFC Registered Entity; and   \n(c) Family Operated businesses that meet the definition of a Single Family under the Single Family Office Regulations, and which have sufficient substance in the UAE. ",
+        "bbox": [
+            186,
+            483,
+            920,
+            687
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. In respect of Affiliates mentioned at paragraph 20(b) above, the definition of Common Control under the Proposed Regulations has been drafted to capture not just direct and indirect legal control in terms of board appointments/removals and management control but also a wider definition of control. Specifically, the DIFC Registered Entity and the Affiliate may be “members of the same network of professional consultants that operate under the same brand and corporate governance policies or rules of association”. This criteria has been included to allow entities that: i) may operate as part of the same corporate group/network and with standardised governance policies; but ii) which otherwise do not fall under the same direct legal control as the affiliated DIFC Registered Entity, to benefit from the regime. ",
+        "bbox": [
+            94,
+            706,
+            920,
+            904
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "bbox": [
+            550,
+            38,
+            917,
+            53
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            887,
+            935,
+            898,
+            945
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "22. In respect of Family Operated Businesses mentioned at paragraph 20(c) above, this definition has been included to allow family owned, or controlled, businesses that meet the definition of a Single Family under the Single Family Operating Regulations, to set up Prescribed Companies. In particular, the definition does not include limitations on the nationality of the Single Family members but seeks to include family businesses that have sufficient economic substance in the UAE to participate in the regime. ",
+        "bbox": [
+            94,
+            65,
+            920,
+            198
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Q1. Do you foresee any difficulties arising from the proposed expansion of the Qualifying Applicants that may establish a Prescribed Company? If so, how should they be addressed?   \nQ2. Do you agree with the exclusion of NPIOs from the definition of DIFC Registered Entities. If not, why not?   \nQ3. Do you think the Qualifying Applicants should be expanded even further? If so, can you please specify these.   \nQ4. What are your views on the requirements and definition of Common Control? ",
+        "bbox": [
+            92,
+            217,
+            922,
+            441
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Formalising, consolidating and expanding the definition of Qualifying Purpose ",
+        "bbox": [
+            94,
+            460,
+            742,
+            478
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "23. As set out in the Proposed Regulations (and summarised in the table at paragraph 15 above), the following Qualifying Purposes have been included under the Proposed Regulations to cater for the needs of new and existing DIFC entities. ",
+        "bbox": [
+            95,
+            491,
+            920,
+            555
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) DIFC Holding Structures – to provide structuring options for Qualifying Applicants that already have a presence in the DIFC. In order to avoid duplication, the Family Holding Structure definition has been deleted, since it will be captured under the DIFC Holding Structure definition.   \n(b) Aviation Structure – a minor addition to this existing definition, which provides that the structure can be utilised with respect to parts of an aircraft.   \n(c) Shipping Structure – a replication of the Aviation Structure for the shipping industry, this structure has been included to support Dubai’s vision to enhance its position as a leading centre of the maritime sector.   \n(d) Innovation Structure – related to innovation and fintech entities involved in cutting-edge technology, products, devices and applications (in accordance with a list published by the DIFCA Board from time to time). The addition of this Qualifying Purpose both supports new and existing clients and the DIFC’s goal to be the largest hub for innovation in the region. ",
+        "bbox": [
+            181,
+            573,
+            920,
+            933
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "bbox": [
+            550,
+            38,
+            917,
+            54
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 ",
+        "bbox": [
+            887,
+            934,
+            897,
+            945
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(e) Intellectual Property Structure – although this Qualifying Purpose has been included to assist new and existing entities with structuring options in the DIFC, it is noted that such entities must comply with substance requirements, particularly with regard to enhanced substance rules relating to High-risk Intellectual Property licencees. ",
+        "bbox": [
+            186,
+            65,
+            919,
+            174
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "24. In addition to the introduction of the Qualifying Purposes set out above, changes to the existing Structured Financing definition have been included in the Proposed Regulations. The proposed definition has been expanded to allow for structures that involve the issuance of Securities intended to facilitate bond or sukuk issuances. Corresponding changes have been made to Regulation 3.2 of the Proposed Regulations in this regard (see paragraphs 25 below for further detail). ",
+        "bbox": [
+            92,
+            192,
+            920,
+            324
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Q5. What are your views on the expanded list of Qualifying Purposes and do you foresee any difficulties arising with the proposed criteria for each Qualifying Purpose? If so, please specify these, as applicable.   \nQ6. What are your views on the new Innovation Structure? Are there any specific innovation entities or types of innovation entity that you think should be included in the DIFCA Board Resolution? If so, please specify these, as applicable.   \nQ7. Do you think the Qualifying Purposes should be expanded even further? If so, please specify these and your reasons for this. ",
+        "bbox": [
+            90,
+            345,
+            929,
+            553
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Disapplying certain provisions of the Companies Law ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            589,
+            535,
+            606
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "25. Pursuant to Article 42 of the Companies Law, a Private Company is prohibited from making an offer of its shares to the public, except in certain circumstances as set out in Articles 42(3) and (4)(b). Regulation 3.2.5 seeks to provide an exemption to this prohibition as follows: ",
+        "bbox": [
+            94,
+            619,
+            920,
+            684
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "“A Prescribed Company whose Qualifying Purpose is a Structured Financing that is making an offer of its Securities to the public to facilitate a bond or sukuk issuance shall, where applicable: ",
+        "bbox": [
+            154,
+            701,
+            920,
+            749
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "a) not be regarded as falling within the definition of a Public Company under Article 27(4)(a) of the Companies Law; and ",
+        "bbox": [
+            181,
+            761,
+            920,
+            794
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "b) be exempted from the following provisions of the Companies Law: ",
+        "bbox": [
+            185,
+            805,
+            769,
+            824
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(i) the prohibition in Article 42 (Prohibition of public offers by Private Companies);   \n(ii) the requirement to have no more than fifty (50) shareholders under Article 27(1)(b).” ",
+        "bbox": [
+            228,
+            834,
+            919,
+            912
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "bbox": [
+            550,
+            38,
+            917,
+            54
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            887,
+            934,
+            898,
+            945
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "26. The introduction of these exemptions is intended to facilitate Prescribed Companies involved in bond and sukuk issuances. In particular, the proposed amendment provides a carve-out for such Prescribed Companies from: i) falling within the Public Companies definition at Article 27(4)(a) of the Companies Law; and ii) the prohibition of public offers by Private Companies at Article 42 of the Companies Law. In addition, an exemption from the 50 shareholder limit for Private Companies has also been included. We consider this may be relevant in circumstances where, for instance, a convertible bond is issued which may result in the Prescribed Company having more than 50 shareholders upon conversion. ",
+        "bbox": [
+            94,
+            65,
+            920,
+            242
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "27. A similar exclusion from the 50 shareholder limit at Article 42 of the Companies Law has been included for Prescribed Companies that have the qualifying purpose of a Crowdfunding Structure. This amendment is intended to assist such Prescribed Companies, which typically seek investment from a wide base of minority investors. ",
+        "bbox": [
+            92,
+            260,
+            920,
+            346
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Q8. What are your views on the proposed exemptions under Regulation 3.2.5? Do you think any further legislative carve-outs are required under the Companies Law to facilitate this addition to the Prescribed Companies Regulations? If so, please specify these, as applicable.   \nQ9. What are your views on the amended Structured Financing definition? Do you think any other types of financing transaction should be included within the definition and are there any further carve-outs required under the Companies Law to facilitate such transactions? If so, please specify these, as applicable. ",
+        "bbox": [
+            92,
+            366,
+            924,
+            559
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Miscellaneous ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            599,
+            217,
+            614
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "28. Certain other amendments to the PC Regulations are proposed as follows. ",
+        "bbox": [
+            89,
+            637,
+            774,
+            655
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) An addition to Regulation 3.1 requires Qualifying Applicants to satisfy the Registrar that they have sufficient substance in the UAE, where substance is required by applicable substance legislation.   \n(b) Further to the addition of DIFC retail entities as possible Qualifying Applicants, Regulation 4.1.2 has been included to prohibit the DIFC retail entity using its retail premises for the purposes of complying with the registered office requirement.   \n(c) Regulation 4.4.2 (in relation to the confirmation statement to be provided by Prescribed Companies that have the Qualifying Purpose of Structured Financing but that do not have an Authorised Firm involved as an Initiator or Transaction Party), has been amended to remove the requirement for an Initiator of a ",
+        "bbox": [
+            176,
+            665,
+            922,
+            916
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            887,
+            935,
+            898,
+            945
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "bbox": [
+            550,
+            38,
+            917,
+            54
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Prescribed Company to provide the confirmation statement. The DIFC is of the view that, owing to the fiduciary duties owed by the Directors to the company, it is sufficient that only the Directors issue this confirmation statement. ",
+        "bbox": [
+            249,
+            65,
+            919,
+            129
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(d) An amendment to Regulation 4.4.2(c), clarifies that it is the illegal activity of tax evasion (as opposed to legitimate tax structuring options that a Prescribed Company may adopt) that is captured by this provision. ",
+        "bbox": [
+            188,
+            147,
+            919,
+            211
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Q10. Do you have any issues, proposed amendments or other suggestions in respect of any of the miscellaneous changes proposed?   \nQ11. Are there any other issues, not included in the Proposed Regulations, which warrant attention? If so, what are they, and why, and how, should they be addressed? ",
+        "bbox": [
+            92,
+            232,
+            920,
+            333
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Legislative Proposal ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            357,
+            276,
+            372
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "29. This legislative proposal contains the following: ",
+        "bbox": [
+            92,
+            387,
+            547,
+            403
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) the Proposed Prescribed Companies Regulations (at Annex A); (b) a table of comments to provide your views and comments on the consultation paper (at Annex B). ",
+        "bbox": [
+            154,
+            409,
+            920,
+            478
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PRESCRIBED COMPANY REGULATIONS ",
+        "bbox": [
+            550,
+            38,
+            917,
+            53
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "10 ",
+        "bbox": [
+            888,
+            935,
+            907,
+            945
+        ],
+        "page_idx": 9
+    }
+]

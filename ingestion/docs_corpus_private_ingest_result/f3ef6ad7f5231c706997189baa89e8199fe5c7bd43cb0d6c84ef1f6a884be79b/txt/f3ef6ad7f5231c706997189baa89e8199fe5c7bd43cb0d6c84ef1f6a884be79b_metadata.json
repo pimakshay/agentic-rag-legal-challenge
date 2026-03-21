@@ -1,0 +1,1735 @@
+{
+    "doc_type": "law",
+    "official_title": "The Implied Terms in Contracts and Unfair Terms Law",
+    "official_title_normalized": "the implied terms in contracts and unfair terms law",
+    "short_title": "The Implied Terms in Contracts and Unfair Terms Law 2005",
+    "short_title_normalized": "the implied terms in contracts and unfair terms law 2005",
+    "law_number": "6",
+    "law_year": "2005",
+    "official_citation": "DIFC Law No. 6 of 2005",
+    "official_citation_normalized": "difc law no 6 of 2005",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "March 2024",
+    "amending_laws": [
+        "DIFC Laws Amendment Law DIFC Law No. 3 of 2024",
+        "DIFC Laws Amendment Law DIFC Law No. 2 of 2022"
+    ],
+    "administering_authority": "",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 21,
+    "page_count": 21,
+    "alias_keys": [
+        "DIFC Law No. 6 of 2005",
+        "Implied Terms in Contracts and Unfair Terms Law",
+        "The Implied Terms in Contracts and Unfair Terms Law",
+        "Implied Terms in Contracts and Unfair Terms Law 2005",
+        "The Implied Terms in Contracts and Unfair Terms Law 2005"
+    ],
+    "article_index": {
+        "Article 7": {
+            "heading": "Scope of this part",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 47,
+            "block_end": 56
+        },
+        "Article 8": {
+            "heading": "Application",
+            "article_number": "8",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 57,
+            "block_end": 58
+        },
+        "Article 13": {
+            "heading": "Implied terms about right to transfer possession",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 88,
+            "block_end": 91
+        },
+        "Article 17": {
+            "heading": "Implied term about care and skill",
+            "article_number": "17",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 114,
+            "block_end": 115
+        },
+        "Article 20": {
+            "heading": "Conformity with the contract",
+            "article_number": "20",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 124,
+            "block_end": 126
+        },
+        "Article 31": {
+            "heading": "Auction sales",
+            "article_number": "31",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 176,
+            "block_end": 177
+        },
+        "Article 35": {
+            "heading": "Application",
+            "article_number": "35",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 186,
+            "block_end": 187
+        },
+        "Article 41": {
+            "heading": "Varieties of exemption clause",
+            "article_number": "41",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 215,
+            "block_end": 221
+        },
+        "Article 4": {
+            "heading": "Date of enactment",
+            "article_number": "4",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 37,
+            "block_end": 40
+        },
+        "Article 6": {
+            "heading": "Interpretation",
+            "article_number": "6",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 41,
+            "block_end": 46
+        },
+        "Article 7(1)": {
+            "heading": "Scope of this part",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 48,
+            "block_end": 48
+        },
+        "Article 7(2)(a)": {
+            "heading": "Scope of this part",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 50,
+            "block_end": 50
+        },
+        "Article 7(2)(b)": {
+            "heading": "Scope of this part",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 51,
+            "block_end": 51
+        },
+        "Article 7(2)(i)(ii)": {
+            "heading": "Scope of this part",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 53,
+            "block_end": 53
+        },
+        "Article 7(2)(i)": {
+            "heading": "Scope of this part",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 52,
+            "block_end": 53
+        },
+        "Article 7(2)(c)": {
+            "heading": "Scope of this part",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 54,
+            "block_end": 54
+        },
+        "Article 7(2)": {
+            "heading": "Scope of this part",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 49,
+            "block_end": 54
+        },
+        "Article 7(3)": {
+            "heading": "Scope of this part",
+            "article_number": "7",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 55,
+            "block_end": 56
+        },
+        "Article 9": {
+            "heading": "Implied terms about title",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 59,
+            "block_end": 68
+        },
+        "Article 9(1)": {
+            "heading": "Implied terms about title",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 60,
+            "block_end": 61
+        },
+        "Article 9(3)": {
+            "heading": "Implied terms about title",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 62,
+            "block_end": 62
+        },
+        "Article 9(4)": {
+            "heading": "Implied terms about title",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 63,
+            "block_end": 63
+        },
+        "Article 9(5)(a)": {
+            "heading": "Implied terms about title",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 65,
+            "block_end": 67
+        },
+        "Article 9(5)(b)": {
+            "heading": "Implied terms about title",
+            "article_number": "9",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 68,
+            "block_end": 68
+        },
+        "Article 9(5)": {
+            "heading": "Implied terms about title",
+            "article_number": "9",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 64,
+            "block_end": 68
+        },
+        "Article 10": {
+            "heading": "Implied terms where sale or supply is by description",
+            "article_number": "10",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 69,
+            "block_end": 70
+        },
+        "Article 10(1)": {
+            "heading": "Implied terms where sale or supply is by description",
+            "article_number": "10",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 70,
+            "block_end": 70
+        },
+        "Article 11": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 7,
+            "block_start": 71,
+            "block_end": 82
+        },
+        "Article 11(1)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 72,
+            "block_end": 72
+        },
+        "Article 11(2)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 73,
+            "block_end": 73
+        },
+        "Article 11(3)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 74,
+            "block_end": 74
+        },
+        "Article 11(4)(a)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 76,
+            "block_end": 76
+        },
+        "Article 11(4)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 75,
+            "block_end": 76
+        },
+        "Article 11(5)(a)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 78,
+            "block_end": 80
+        },
+        "Article 11(5)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "11",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 77,
+            "block_end": 80
+        },
+        "Article 11(6)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "11",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 81,
+            "block_end": 81
+        },
+        "Article 11(7)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "11",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 82,
+            "block_end": 82
+        },
+        "Article 12": {
+            "heading": "Sale or supply by sample",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 83,
+            "block_end": 87
+        },
+        "Article 12(1)": {
+            "heading": "Sale or supply by sample",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 84,
+            "block_end": 84
+        },
+        "Article 12(2)(a)": {
+            "heading": "Sale or supply by sample",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 86,
+            "block_end": 87
+        },
+        "Article 12(2)": {
+            "heading": "Sale or supply by sample",
+            "article_number": "12",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 85,
+            "block_end": 87
+        },
+        "Article 13(1)": {
+            "heading": "Implied terms about right to transfer possession",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 89,
+            "block_end": 89
+        },
+        "Article 13(2)": {
+            "heading": "Implied terms about right to transfer possession",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 90,
+            "block_end": 90
+        },
+        "Article 13(3)": {
+            "heading": "Implied terms about right to transfer possession",
+            "article_number": "13",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 91,
+            "block_end": 91
+        },
+        "Article 14": {
+            "heading": "Implied terms where hire is by description",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 92,
+            "block_end": 95
+        },
+        "Article 14(1)": {
+            "heading": "Implied terms where hire is by description",
+            "article_number": "14",
+            "page_start": 7,
+            "page_end": 7,
+            "block_start": 93,
+            "block_end": 95
+        },
+        "Article 15": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 96,
+            "block_end": 105
+        },
+        "Article 15(1)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 97,
+            "block_end": 97
+        },
+        "Article 15(2)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 98,
+            "block_end": 98
+        },
+        "Article 15(3)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 99,
+            "block_end": 99
+        },
+        "Article 15(4)(a)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 101,
+            "block_end": 101
+        },
+        "Article 15(4)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 100,
+            "block_end": 101
+        },
+        "Article 15(5)(a)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 103,
+            "block_end": 103
+        },
+        "Article 15(5)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 102,
+            "block_end": 103
+        },
+        "Article 15(6)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 104,
+            "block_end": 104
+        },
+        "Article 15(7)": {
+            "heading": "Implied terms about quality or fitness",
+            "article_number": "15",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 105,
+            "block_end": 105
+        },
+        "Article 16": {
+            "heading": "Implied terms where hire is by sample",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 106,
+            "block_end": 113
+        },
+        "Article 16(1)": {
+            "heading": "Implied terms where hire is by sample",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 8,
+            "block_start": 107,
+            "block_end": 107
+        },
+        "Article 16(2)(a)": {
+            "heading": "Implied terms where hire is by sample",
+            "article_number": "16",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 111,
+            "block_end": 113
+        },
+        "Article 16(2)": {
+            "heading": "Implied terms where hire is by sample",
+            "article_number": "16",
+            "page_start": 8,
+            "page_end": 9,
+            "block_start": 108,
+            "block_end": 113
+        },
+        "Article 18": {
+            "heading": "Implied term about time for performance",
+            "article_number": "18",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 116,
+            "block_end": 119
+        },
+        "Article 18(1)": {
+            "heading": "Implied term about time for performance",
+            "article_number": "18",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 117,
+            "block_end": 117
+        },
+        "Article 18(2)": {
+            "heading": "Implied term about time for performance",
+            "article_number": "18",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 118,
+            "block_end": 119
+        },
+        "Article 19": {
+            "heading": "Relation to other remedies",
+            "article_number": "19",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 120,
+            "block_end": 123
+        },
+        "Article 19(1)": {
+            "heading": "Relation to other remedies",
+            "article_number": "19",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 121,
+            "block_end": 121
+        },
+        "Article 19(2)(a)": {
+            "heading": "Relation to other remedies",
+            "article_number": "19",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 123,
+            "block_end": 123
+        },
+        "Article 19(2)": {
+            "heading": "Relation to other remedies",
+            "article_number": "19",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 122,
+            "block_end": 123
+        },
+        "Article 21": {
+            "heading": "Property must be ascertained",
+            "article_number": "21",
+            "page_start": 9,
+            "page_end": 9,
+            "block_start": 127,
+            "block_end": 130
+        },
+        "Article 22": {
+            "heading": "Passing of risk",
+            "article_number": "22",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 131,
+            "block_end": 132
+        },
+        "Article 22(1)": {
+            "heading": "Passing of risk",
+            "article_number": "22",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 132,
+            "block_end": 132
+        },
+        "Article 23": {
+            "heading": "Undivided shares in property forming part of a bulk",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 133,
+            "block_end": 141
+        },
+        "Article 23(1)(a)": {
+            "heading": "Undivided shares in property forming part of a bulk",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 135,
+            "block_end": 135
+        },
+        "Article 23(1)": {
+            "heading": "Undivided shares in property forming part of a bulk",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 134,
+            "block_end": 135
+        },
+        "Article 23(2)(a)": {
+            "heading": "Undivided shares in property forming part of a bulk",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 137,
+            "block_end": 137
+        },
+        "Article 23(2)": {
+            "heading": "Undivided shares in property forming part of a bulk",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 136,
+            "block_end": 137
+        },
+        "Article 23(3)": {
+            "heading": "Undivided shares in property forming part of a bulk",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 138,
+            "block_end": 138
+        },
+        "Article 23(4)": {
+            "heading": "Undivided shares in property forming part of a bulk",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 139,
+            "block_end": 139
+        },
+        "Article 23(5)": {
+            "heading": "Undivided shares in property forming part of a bulk",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 140,
+            "block_end": 140
+        },
+        "Article 23(6)": {
+            "heading": "Undivided shares in property forming part of a bulk",
+            "article_number": "23",
+            "page_start": 10,
+            "page_end": 10,
+            "block_start": 141,
+            "block_end": 141
+        },
+        "Article 24": {
+            "heading": "Deemed consent by co-owner to dealings in bulk property",
+            "article_number": "24",
+            "page_start": 10,
+            "page_end": 11,
+            "block_start": 142,
+            "block_end": 151
+        },
+        "Article 24(2)": {
+            "heading": "Deemed consent by co-owner to dealings in bulk property",
+            "article_number": "24",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 148,
+            "block_end": 148
+        },
+        "Article 24(3)(a)": {
+            "heading": "Deemed consent by co-owner to dealings in bulk property",
+            "article_number": "24",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 150,
+            "block_end": 150
+        },
+        "Article 24(3)": {
+            "heading": "Deemed consent by co-owner to dealings in bulk property",
+            "article_number": "24",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 149,
+            "block_end": 150
+        },
+        "Article 24(4)": {
+            "heading": "Deemed consent by co-owner to dealings in bulk property",
+            "article_number": "24",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 151,
+            "block_end": 151
+        },
+        "Article 25": {
+            "heading": "Rules about delivery",
+            "article_number": "25",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 152,
+            "block_end": 153
+        },
+        "Article 25(1)": {
+            "heading": "Rules about delivery",
+            "article_number": "25",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 153,
+            "block_end": 153
+        },
+        "Article 26": {
+            "heading": "Delivery of wrong quantity",
+            "article_number": "26",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 154,
+            "block_end": 157
+        },
+        "Article 26(1)": {
+            "heading": "Delivery of wrong quantity",
+            "article_number": "26",
+            "page_start": 11,
+            "page_end": 11,
+            "block_start": 155,
+            "block_end": 157
+        },
+        "Article 27": {
+            "heading": "Delivery to carrier",
+            "article_number": "27",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 158,
+            "block_end": 160
+        },
+        "Article 27(1)": {
+            "heading": "Delivery to carrier",
+            "article_number": "27",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 159,
+            "block_end": 159
+        },
+        "Article 27(2)": {
+            "heading": "Delivery to carrier",
+            "article_number": "27",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 160,
+            "block_end": 160
+        },
+        "Article 28": {
+            "heading": "Transferee’s right of examining the property",
+            "article_number": "28",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 161,
+            "block_end": 162
+        },
+        "Article 29": {
+            "heading": "Acceptance",
+            "article_number": "29",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 163,
+            "block_end": 168
+        },
+        "Article 29(1)(a)": {
+            "heading": "Acceptance",
+            "article_number": "29",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 165,
+            "block_end": 165
+        },
+        "Article 29(1)": {
+            "heading": "Acceptance",
+            "article_number": "29",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 164,
+            "block_end": 165
+        },
+        "Article 29(2)(a)": {
+            "heading": "Acceptance",
+            "article_number": "29",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 167,
+            "block_end": 167
+        },
+        "Article 29(2)": {
+            "heading": "Acceptance",
+            "article_number": "29",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 166,
+            "block_end": 167
+        },
+        "Article 29(3)": {
+            "heading": "Acceptance",
+            "article_number": "29",
+            "page_start": 12,
+            "page_end": 12,
+            "block_start": 168,
+            "block_end": 168
+        },
+        "Article 30": {
+            "heading": "Delivery of property otherwise than in conformity with the contract",
+            "article_number": "30",
+            "page_start": 12,
+            "page_end": 13,
+            "block_start": 169,
+            "block_end": 175
+        },
+        "Article 30(1)(b)": {
+            "heading": "Delivery of property otherwise than in conformity with the contract",
+            "article_number": "30",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 173,
+            "block_end": 175
+        },
+        "Article 30(1)": {
+            "heading": "Delivery of property otherwise than in conformity with the contract",
+            "article_number": "30",
+            "page_start": 12,
+            "page_end": 13,
+            "block_start": 170,
+            "block_end": 175
+        },
+        "Article 31(1)": {
+            "heading": "Auction sales",
+            "article_number": "31",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 177,
+            "block_end": 177
+        },
+        "Article 32": {
+            "heading": "Rights enforceable by action",
+            "article_number": "32",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 178,
+            "block_end": 179
+        },
+        "Article 33": {
+            "heading": "Savings: rules of law",
+            "article_number": "33",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 180,
+            "block_end": 181
+        },
+        "Article 33(1)": {
+            "heading": "Savings: rules of law",
+            "article_number": "33",
+            "page_start": 13,
+            "page_end": 13,
+            "block_start": 181,
+            "block_end": 181
+        },
+        "Article 34": {
+            "heading": "Exclusion of implied terms",
+            "article_number": "34",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 182,
+            "block_end": 185
+        },
+        "Article 34(1)": {
+            "heading": "Exclusion of implied terms",
+            "article_number": "34",
+            "page_start": 13,
+            "page_end": 14,
+            "block_start": 183,
+            "block_end": 185
+        },
+        "Article 35(1)": {
+            "heading": "Application",
+            "article_number": "35",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 187,
+            "block_end": 187
+        },
+        "Article 36": {
+            "heading": "Scope",
+            "article_number": "36",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 188,
+            "block_end": 198
+        },
+        "Article 36(1)(a)": {
+            "heading": "Scope",
+            "article_number": "36",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 190,
+            "block_end": 190
+        },
+        "Article 36(1)(d)": {
+            "heading": "Scope",
+            "article_number": "36",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 191,
+            "block_end": 191
+        },
+        "Article 36(1)(i)": {
+            "heading": "Scope",
+            "article_number": "36",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 195,
+            "block_end": 195
+        },
+        "Article 36(1)(e)": {
+            "heading": "Scope",
+            "article_number": "36",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 193,
+            "block_end": 194
+        },
+        "Article 36(1)": {
+            "heading": "Scope",
+            "article_number": "36",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 189,
+            "block_end": 195
+        },
+        "Article 36(2)(a)": {
+            "heading": "Scope",
+            "article_number": "36",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 197,
+            "block_end": 198
+        },
+        "Article 36(2)": {
+            "heading": "Scope",
+            "article_number": "36",
+            "page_start": 14,
+            "page_end": 14,
+            "block_start": 196,
+            "block_end": 198
+        },
+        "Article 37": {
+            "heading": "Negligence liability",
+            "article_number": "37",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 199,
+            "block_end": 200
+        },
+        "Article 37(1)": {
+            "heading": "Negligence liability",
+            "article_number": "37",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 200,
+            "block_end": 200
+        },
+        "Article 38": {
+            "heading": "Liability arising in contract",
+            "article_number": "38",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 201,
+            "block_end": 205
+        },
+        "Article 38(1)": {
+            "heading": "Liability arising in contract",
+            "article_number": "38",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 202,
+            "block_end": 202
+        },
+        "Article 38(2)(a)": {
+            "heading": "Liability arising in contract",
+            "article_number": "38",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 204,
+            "block_end": 204
+        },
+        "Article 38(2)(c)": {
+            "heading": "Liability arising in contract",
+            "article_number": "38",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 205,
+            "block_end": 205
+        },
+        "Article 38(2)": {
+            "heading": "Liability arising in contract",
+            "article_number": "38",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 203,
+            "block_end": 205
+        },
+        "Article 39": {
+            "heading": "Sale, supply and hire",
+            "article_number": "39",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 206,
+            "block_end": 207
+        },
+        "Article 39(1)": {
+            "heading": "Sale, supply and hire",
+            "article_number": "39",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 207,
+            "block_end": 207
+        },
+        "Article 40": {
+            "heading": "The ‘reasonableness’ test",
+            "article_number": "40",
+            "page_start": 15,
+            "page_end": 16,
+            "block_start": 208,
+            "block_end": 214
+        },
+        "Article 40(1)": {
+            "heading": "The ‘reasonableness’ test",
+            "article_number": "40",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 209,
+            "block_end": 209
+        },
+        "Article 40(2)": {
+            "heading": "The ‘reasonableness’ test",
+            "article_number": "40",
+            "page_start": 15,
+            "page_end": 15,
+            "block_start": 210,
+            "block_end": 211
+        },
+        "Article 40(3)": {
+            "heading": "The ‘reasonableness’ test",
+            "article_number": "40",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 212,
+            "block_end": 212
+        },
+        "Article 40(4)(a)": {
+            "heading": "The ‘reasonableness’ test",
+            "article_number": "40",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 214,
+            "block_end": 214
+        },
+        "Article 40(4)": {
+            "heading": "The ‘reasonableness’ test",
+            "article_number": "40",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 213,
+            "block_end": 214
+        },
+        "Article 41(1)(a)": {
+            "heading": "Varieties of exemption clause",
+            "article_number": "41",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 217,
+            "block_end": 218
+        },
+        "Article 41(1)": {
+            "heading": "Varieties of exemption clause",
+            "article_number": "41",
+            "page_start": 16,
+            "page_end": 16,
+            "block_start": 216,
+            "block_end": 218
+        },
+        "Article 41(2)": {
+            "heading": "Varieties of exemption clause",
+            "article_number": "41",
+            "page_start": 16,
+            "page_end": 17,
+            "block_start": 219,
+            "block_end": 221
+        },
+        "Article 1": {
+            "heading": "Article 40 (the reasonableness test)",
+            "article_number": "1",
+            "page_start": 21,
+            "page_end": 21,
+            "block_start": 249,
+            "block_end": 252
+        },
+        "Article 1(1)(a)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 224,
+            "block_end": 224
+        },
+        "Article 1(1)(b)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 225,
+            "block_end": 225
+        },
+        "Article 1(1)(c)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 226,
+            "block_end": 226
+        },
+        "Article 1(1)(d)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 227,
+            "block_end": 227
+        },
+        "Article 1(1)(e)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 228,
+            "block_end": 228
+        },
+        "Article 1(1)(f)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 229,
+            "block_end": 229
+        },
+        "Article 1(1)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 223,
+            "block_end": 229
+        },
+        "Article 1(2)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 230,
+            "block_end": 230
+        },
+        "Article 1(3)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 231,
+            "block_end": 231
+        },
+        "Article 1(4)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 232,
+            "block_end": 232
+        },
+        "Article 1(5)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 233,
+            "block_end": 233
+        },
+        "Article 1(6)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 234,
+            "block_end": 234
+        },
+        "Article 1(7)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 235,
+            "block_end": 235
+        },
+        "Article 1(8)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 236,
+            "block_end": 236
+        },
+        "Article 1(9)": {
+            "heading": "Rules of interpretation",
+            "article_number": "1",
+            "page_start": 17,
+            "page_end": 17,
+            "block_start": 237,
+            "block_end": 238
+        },
+        "Article 2": {
+            "heading": "Legislation in the DIFC",
+            "article_number": "2",
+            "page_start": 18,
+            "page_end": 18,
+            "block_start": 239,
+            "block_end": 241
+        },
+        "Article 3": {
+            "heading": "Defined Terms",
+            "article_number": "3",
+            "page_start": 18,
+            "page_end": 21,
+            "block_start": 242,
+            "block_end": 248
+        }
+    },
+    "section_heading_index": {
+        "Scope of this part.... 2": [
+            {
+                "heading": "Scope of this part.... 2",
+                "article_number": "7",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 11,
+                "block_end": 12
+            }
+        ],
+        "Application. . 2 9. Implied terms about title . . 2 10. Implied terms where sale or supply is by description . . 3 11. Implied terms about quality or fitness . . 3 12. Sale or supply by sample.... . 4": [
+            {
+                "heading": "Application. . 2 9. Implied terms about title . . 2 10. Implied terms where sale or supply is by description . . 3 11. Implied terms about quality or fitness . . 3 12. Sale or supply by sample.... . 4",
+                "article_number": "8",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 13,
+                "block_end": 14
+            }
+        ],
+        "Implied terms about right to transfer possession.. ... 4 14. Implied terms where hire is by description .. 4 15. Implied terms about quality or fitness .. . 5 16. Implied terms where hire is by sample. . 5": [
+            {
+                "heading": "Implied terms about right to transfer possession.. ... 4 14. Implied terms where hire is by description .. 4 15. Implied terms about quality or fitness .. . 5 16. Implied terms where hire is by sample. . 5",
+                "article_number": "13",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 15,
+                "block_end": 16
+            }
+        ],
+        "Implied term about care and skill. ... 6 18. Implied term about time for performance . 6 19. Relation to other remedies . ... 6": [
+            {
+                "heading": "Implied term about care and skill. ... 6 18. Implied term about time for performance . 6 19. Relation to other remedies . ... 6",
+                "article_number": "17",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 17,
+                "block_end": 18
+            }
+        ],
+        "Conformity with the contract . .................................................................................... ....... 6 21. Property must be ascertained... ..................................................................................................... 6 22. Passing of risk . ......................................................................... .... 7 23. Undivided shares in property forming part of a bulk . 24. Deemed consent by co-owner to dealings in bulk property ................................................................................. 7 25. Rules about delivery...... 26. Delivery of wrong quantity ..... 27. Delivery to carrier ...... ................................................................................. 9 28. Transferee’s right of examining the property .................. .............................................................................. 9 29. Acceptance... ............................................. .... 9 30. Delivery of property otherwise than in conformity with the contract . ............................................................. 9": [
+            {
+                "heading": "Conformity with the contract . .................................................................................... ....... 6 21. Property must be ascertained... ..................................................................................................... 6 22. Passing of risk . ......................................................................... .... 7 23. Undivided shares in property forming part of a bulk . 24. Deemed consent by co-owner to dealings in bulk property ................................................................................. 7 25. Rules about delivery...... 26. Delivery of wrong quantity ..... 27. Delivery to carrier ...... ................................................................................. 9 28. Transferee’s right of examining the property .................. .............................................................................. 9 29. Acceptance... ............................................. .... 9 30. Delivery of property otherwise than in conformity with the contract . ............................................................. 9",
+                "article_number": "20",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 19,
+                "block_end": 20
+            }
+        ],
+        "Auction sales ..... ....10 32. Rights enforceable by action. ...10 33. Savings: rules of law ..... ...10 34. Exclusion of implied terms . ...10": [
+            {
+                "heading": "Auction sales ..... ....10 32. Rights enforceable by action. ...10 33. Savings: rules of law ..... ...10 34. Exclusion of implied terms . ...10",
+                "article_number": "31",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 21,
+                "block_end": 22
+            }
+        ],
+        "Application.. ..11 36. Scope..... ..................................................................................................................... ....11 37. Negligence liability ...... .............................................................................................................................. ......12 38. Liability arising in contract ............................................................................................................................ ...12 39. Sale, supply and hire .... ................................................................................................................................ ...12 40. The ‘reasonableness’ test .............................................................................................................................. ......12": [
+            {
+                "heading": "Application.. ..11 36. Scope..... ..................................................................................................................... ....11 37. Negligence liability ...... .............................................................................................................................. ......12 38. Liability arising in contract ............................................................................................................................ ...12 39. Sale, supply and hire .... ................................................................................................................................ ...12 40. The ‘reasonableness’ test .............................................................................................................................. ......12",
+                "article_number": "35",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 23,
+                "block_end": 25
+            }
+        ],
+        "Varieties of exemption clause .......... ..13": [
+            {
+                "heading": "Varieties of exemption clause .......... ..13",
+                "article_number": "41",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 26,
+                "block_end": 36
+            }
+        ],
+        "Date of enactment": [
+            {
+                "heading": "Date of enactment",
+                "article_number": "4",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 37,
+                "block_end": 40
+            }
+        ],
+        "Interpretation": [
+            {
+                "heading": "Interpretation",
+                "article_number": "6",
+                "page_start": 4,
+                "page_end": 5,
+                "block_start": 41,
+                "block_end": 46
+            }
+        ],
+        "Scope of this part": [
+            {
+                "heading": "Scope of this part",
+                "article_number": "7",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 47,
+                "block_end": 56
+            }
+        ],
+        "Application": [
+            {
+                "heading": "Application",
+                "article_number": "8",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 57,
+                "block_end": 58
+            },
+            {
+                "heading": "Application",
+                "article_number": "35",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 186,
+                "block_end": 187
+            }
+        ],
+        "Implied terms about title": [
+            {
+                "heading": "Implied terms about title",
+                "article_number": "9",
+                "page_start": 5,
+                "page_end": 6,
+                "block_start": 59,
+                "block_end": 68
+            }
+        ],
+        "Implied terms where sale or supply is by description": [
+            {
+                "heading": "Implied terms where sale or supply is by description",
+                "article_number": "10",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 69,
+                "block_end": 70
+            }
+        ],
+        "Implied terms about quality or fitness": [
+            {
+                "heading": "Implied terms about quality or fitness",
+                "article_number": "11",
+                "page_start": 6,
+                "page_end": 7,
+                "block_start": 71,
+                "block_end": 82
+            },
+            {
+                "heading": "Implied terms about quality or fitness",
+                "article_number": "15",
+                "page_start": 8,
+                "page_end": 8,
+                "block_start": 96,
+                "block_end": 105
+            }
+        ],
+        "Sale or supply by sample": [
+            {
+                "heading": "Sale or supply by sample",
+                "article_number": "12",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 83,
+                "block_end": 87
+            }
+        ],
+        "Implied terms about right to transfer possession": [
+            {
+                "heading": "Implied terms about right to transfer possession",
+                "article_number": "13",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 88,
+                "block_end": 91
+            }
+        ],
+        "Implied terms where hire is by description": [
+            {
+                "heading": "Implied terms where hire is by description",
+                "article_number": "14",
+                "page_start": 7,
+                "page_end": 7,
+                "block_start": 92,
+                "block_end": 95
+            }
+        ],
+        "Implied terms where hire is by sample": [
+            {
+                "heading": "Implied terms where hire is by sample",
+                "article_number": "16",
+                "page_start": 8,
+                "page_end": 9,
+                "block_start": 106,
+                "block_end": 113
+            }
+        ],
+        "Implied term about care and skill": [
+            {
+                "heading": "Implied term about care and skill",
+                "article_number": "17",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 114,
+                "block_end": 115
+            }
+        ],
+        "Implied term about time for performance": [
+            {
+                "heading": "Implied term about time for performance",
+                "article_number": "18",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 116,
+                "block_end": 119
+            }
+        ],
+        "Relation to other remedies": [
+            {
+                "heading": "Relation to other remedies",
+                "article_number": "19",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 120,
+                "block_end": 123
+            }
+        ],
+        "Conformity with the contract": [
+            {
+                "heading": "Conformity with the contract",
+                "article_number": "20",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 124,
+                "block_end": 126
+            }
+        ],
+        "Property must be ascertained": [
+            {
+                "heading": "Property must be ascertained",
+                "article_number": "21",
+                "page_start": 9,
+                "page_end": 9,
+                "block_start": 127,
+                "block_end": 130
+            }
+        ],
+        "Passing of risk": [
+            {
+                "heading": "Passing of risk",
+                "article_number": "22",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 131,
+                "block_end": 132
+            }
+        ],
+        "Undivided shares in property forming part of a bulk": [
+            {
+                "heading": "Undivided shares in property forming part of a bulk",
+                "article_number": "23",
+                "page_start": 10,
+                "page_end": 10,
+                "block_start": 133,
+                "block_end": 141
+            }
+        ],
+        "Deemed consent by co-owner to dealings in bulk property": [
+            {
+                "heading": "Deemed consent by co-owner to dealings in bulk property",
+                "article_number": "24",
+                "page_start": 10,
+                "page_end": 11,
+                "block_start": 142,
+                "block_end": 151
+            }
+        ],
+        "Rules about delivery": [
+            {
+                "heading": "Rules about delivery",
+                "article_number": "25",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 152,
+                "block_end": 153
+            }
+        ],
+        "Delivery of wrong quantity": [
+            {
+                "heading": "Delivery of wrong quantity",
+                "article_number": "26",
+                "page_start": 11,
+                "page_end": 11,
+                "block_start": 154,
+                "block_end": 157
+            }
+        ],
+        "Delivery to carrier": [
+            {
+                "heading": "Delivery to carrier",
+                "article_number": "27",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 158,
+                "block_end": 160
+            }
+        ],
+        "Transferee’s right of examining the property": [
+            {
+                "heading": "Transferee’s right of examining the property",
+                "article_number": "28",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 161,
+                "block_end": 162
+            }
+        ],
+        "Acceptance": [
+            {
+                "heading": "Acceptance",
+                "article_number": "29",
+                "page_start": 12,
+                "page_end": 12,
+                "block_start": 163,
+                "block_end": 168
+            }
+        ],
+        "Delivery of property otherwise than in conformity with the contract": [
+            {
+                "heading": "Delivery of property otherwise than in conformity with the contract",
+                "article_number": "30",
+                "page_start": 12,
+                "page_end": 13,
+                "block_start": 169,
+                "block_end": 175
+            }
+        ],
+        "Auction sales": [
+            {
+                "heading": "Auction sales",
+                "article_number": "31",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 176,
+                "block_end": 177
+            }
+        ],
+        "Rights enforceable by action": [
+            {
+                "heading": "Rights enforceable by action",
+                "article_number": "32",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 178,
+                "block_end": 179
+            }
+        ],
+        "Savings: rules of law": [
+            {
+                "heading": "Savings: rules of law",
+                "article_number": "33",
+                "page_start": 13,
+                "page_end": 13,
+                "block_start": 180,
+                "block_end": 181
+            }
+        ],
+        "Exclusion of implied terms": [
+            {
+                "heading": "Exclusion of implied terms",
+                "article_number": "34",
+                "page_start": 13,
+                "page_end": 14,
+                "block_start": 182,
+                "block_end": 185
+            }
+        ],
+        "Scope": [
+            {
+                "heading": "Scope",
+                "article_number": "36",
+                "page_start": 14,
+                "page_end": 14,
+                "block_start": 188,
+                "block_end": 198
+            }
+        ],
+        "Negligence liability": [
+            {
+                "heading": "Negligence liability",
+                "article_number": "37",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 199,
+                "block_end": 200
+            }
+        ],
+        "Liability arising in contract": [
+            {
+                "heading": "Liability arising in contract",
+                "article_number": "38",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 201,
+                "block_end": 205
+            }
+        ],
+        "Sale, supply and hire": [
+            {
+                "heading": "Sale, supply and hire",
+                "article_number": "39",
+                "page_start": 15,
+                "page_end": 15,
+                "block_start": 206,
+                "block_end": 207
+            }
+        ],
+        "The ‘reasonableness’ test": [
+            {
+                "heading": "The ‘reasonableness’ test",
+                "article_number": "40",
+                "page_start": 15,
+                "page_end": 16,
+                "block_start": 208,
+                "block_end": 214
+            }
+        ],
+        "Varieties of exemption clause": [
+            {
+                "heading": "Varieties of exemption clause",
+                "article_number": "41",
+                "page_start": 16,
+                "page_end": 17,
+                "block_start": 215,
+                "block_end": 221
+            }
+        ],
+        "Rules of interpretation": [
+            {
+                "heading": "Rules of interpretation",
+                "article_number": "1",
+                "page_start": 17,
+                "page_end": 17,
+                "block_start": 222,
+                "block_end": 238
+            }
+        ],
+        "Legislation in the DIFC": [
+            {
+                "heading": "Legislation in the DIFC",
+                "article_number": "2",
+                "page_start": 18,
+                "page_end": 18,
+                "block_start": 239,
+                "block_end": 241
+            }
+        ],
+        "Defined Terms": [
+            {
+                "heading": "Defined Terms",
+                "article_number": "3",
+                "page_start": 18,
+                "page_end": 21,
+                "block_start": 242,
+                "block_end": 248
+            }
+        ],
+        "Article 40 (the reasonableness test)": [
+            {
+                "heading": "Article 40 (the reasonableness test)",
+                "article_number": "1",
+                "page_start": 21,
+                "page_end": 21,
+                "block_start": 249,
+                "block_end": 252
+            }
+        ]
+    }
+}

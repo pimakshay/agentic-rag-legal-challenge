@@ -1,0 +1,121 @@
+[
+    {
+        "type": "text",
+        "text": "ENF 001/2010 - Execution Order ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            172,
+            495,
+            195
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JANUARY 18, 2010 ENFORCEMENT,ORDERS ",
+        "bbox": [
+            40,
+            200,
+            450,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CLAIM NO: ENF 001/2010 THE JUDICIAL AUTHORITY OF THE DUBAI INTERNATIONAL FINANCIAL CENTRE Between ",
+        "text_level": 1,
+        "bbox": [
+            40,
+            254,
+            857,
+            299
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/9d43de23d915a8a4ce59dd96ac2e57d45a58347c683032a2e6fb45904ed7b6b4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>JAD AL FARES</td><td>Claimant</td></tr><tr><td>And AMANAH XDATA</td><td>Defendant</td></tr></table>",
+        "bbox": [
+            42,
+            302,
+            410,
+            382
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ORDER OF EXECUTION IN DUBAI THIS ORDER OF EXECUTION WAS ISSUED by H.E. Justice Ali Al Madhani of the Judicial Authority of the Dubai International Financial Centre (\"DIFC Courts\"), Ground Level, Building 4, Dubai - UAE on 18th January 2010 on the written application of Jad Al Fares dated 5th January 2010. The names and addresses for enforcement are: ",
+        "bbox": [
+            40,
+            407,
+            954,
+            487
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a) Amanah Xdata, Offi ce 240, Building 16, Dubai Internet City, Dubai, UAE ; and b) Amanah Xdata, Etisalat TCN Data Centre, behind the Fairmont Hotel, Level 2, Racks F4 and F5, Dubai, UAE. ",
+        "bbox": [
+            75,
+            489,
+            939,
+            549
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BY ORDER OF THE COURTS TO: Amna Alowais, a person authorised to enforce Orders of execution issued from the DIFC Courts. YOU ARE NOW COMMANDED to seize in execution the goods, chattels and other property of the Defendant as authorised by law and raise therefrom the sums detailed in the Schedule, and after execution to pay the Claimant, Jad Al Fares the said sums. YOU ARE ALSO COMMANDED to endorse on this Order after execution a statement of the manner in which you have executed it and send a copy of the statement to the Defendant.   H.E. Justice Ali Al Madhani DIFC Courts Issue Date: 18th January 2010 at 2.00pm ",
+        "bbox": [
+            35,
+            555,
+            947,
+            711
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SCHEDULE TO ORDER OF EXECUTION IN ENF 001/2010 ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            755,
+            579,
+            772
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c95159037801eaed7c8a4690d4a24dee7fb034c07ad29c1993136716e1388ff.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>(1) Date of Order</td><td rowspan=1 colspan=1>12th January 2010</td></tr><tr><td rowspan=1 colspan=1>(2) Amount of Order</td><td rowspan=1 colspan=1>AED 54,000 plus Court Fees of AED 367.50</td></tr><tr><td rowspan=1 colspan=1>Total</td><td rowspan=1 colspan=1>AED 54,367.50</td></tr></table>",
+        "bbox": [
+            43,
+            776,
+            658,
+            889
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Together with: Judgment interest from the date the judgment was entered, 27th December 2009, at the rate of $1 \\%$ over the Emirates Interbank Offer Rate (\"EIBOR\"). EIBOR is in reference to the EIBOR three months' reference rate as at the date of judgment. ",
+        "bbox": [
+            40,
+            914,
+            951,
+            973
+        ],
+        "page_idx": 0
+    }
+]

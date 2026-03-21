@@ -1,0 +1,1413 @@
+[
+    {
+        "type": "text",
+        "text": "DIFC ",
+        "text_level": 1,
+        "bbox": [
+            389,
+            404,
+            605,
+            453
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTYREGULATIONS",
+        "text_level": 1,
+        "bbox": [
+            231,
+            538,
+            764,
+            605
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In force on 5 July 2021 ",
+        "bbox": [
+            378,
+            684,
+            620,
+            705
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "bbox": [
+            465,
+            85,
+            532,
+            98
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. INTRODUCTION . ",
+        "bbox": [
+            105,
+            124,
+            892,
+            140
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 Application and Interpretation .   \n1.2 References to writing . ",
+        "bbox": [
+            102,
+            141,
+            887,
+            168
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. COMPLAINTS .. ",
+        "bbox": [
+            95,
+            181,
+            892,
+            195
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Procedures for Filing and Processing Complaints . ................................................................................. .... 2   \n2.2 Inspection, seizure and storage ...... ................................................................................ 3   \n2.3 Fees ..... .... 4   \n2.4 Experts ... ... 4   \n2.5 Representation . .. 4 ",
+        "bbox": [
+            104,
+            192,
+            895,
+            263
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. DIRECTIONS . 5 ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            277,
+            890,
+            291
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 Issuance of Direction . .. 5   \n3.2 Failure to Comply with Direction . .. 6   \n3.3 Review by the Court .... ... 6 ",
+        "bbox": [
+            105,
+            292,
+            894,
+            334
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. APPOINTMENT OF OFFICERS AND DELEGATION OF POWERS. ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            347,
+            889,
+            361
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1 Appointment of Officers . .7   \n4.2 Delegation of Powers.... 7 ",
+        "bbox": [
+            100,
+            363,
+            889,
+            388
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. COORDINATION WITH AUTHORITIES.. ",
+        "bbox": [
+            99,
+            403,
+            889,
+            416
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5.1 Commissioner’s Coordination with Authorities . ",
+        "bbox": [
+            97,
+            418,
+            885,
+            431
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 1 – FEES . 8 ",
+        "bbox": [
+            99,
+            444,
+            889,
+            460
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 2 – FORM 1 . C ",
+        "bbox": [
+            99,
+            473,
+            889,
+            487
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "bbox": [
+            502,
+            42,
+            894,
+            57
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            494,
+            942,
+            504,
+            953
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Board of Directors of the DIFCA, in the exercise of the powers conferred on them by Article 60 of the Intellectual Property Law No. 4 of 2019, hereby make these Regulations. ",
+        "bbox": [
+            102,
+            74,
+            895,
+            103
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. INTRODUCTION ",
+        "bbox": [
+            107,
+            116,
+            304,
+            130
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": ".1 Application and Interpretation ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            145,
+            393,
+            160
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 These Regulations apply to any person to whom the Law applies. ",
+        "bbox": [
+            107,
+            172,
+            606,
+            187
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 Defined terms are identified throughout these Regulations by the capitalisation of the initial letter of a word or phrase. Where capitalisation of the initial letter is not used, an expression has its natural meaning. ",
+        "bbox": [
+            107,
+            200,
+            895,
+            229
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b4fe68dced3595613dc9ece85559c1664f1670871721251d1bbb4c7faf9e023c.jpg",
+        "table_caption": [
+            "1.1.3 The following defined terms have the meaning given below: "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Defined Term</td><td rowspan=1 colspan=1>Definition</td></tr><tr><td rowspan=1 colspan=1>Commissioner</td><td rowspan=1 colspan=1>the DIFC Commissioner of Intellectual Property.</td></tr><tr><td rowspan=1 colspan=1>Complainant</td><td rowspan=1 colspan=1>a person filing a complaint with the Commissioner pursuant to an infringement,prohibited act, misappropriation or conflict pursuant to the Law.</td></tr><tr><td rowspan=1 colspan=1>Expert</td><td rowspan=1 colspan=1>a person with the relevant technical expertise appointed by the Commissioner inaccordance with the Regulations.</td></tr><tr><td rowspan=1 colspan=1>Law</td><td rowspan=1 colspan=1>the Intellectual Property Law No. 4 of 2019 and any amendments.</td></tr><tr><td rowspan=1 colspan=1>Regulations</td><td rowspan=1 colspan=1>these Intellectual Property Regulations and any amendments.</td></tr><tr><td rowspan=1 colspan=1>Respondent</td><td rowspan=1 colspan=1>a person against whom a complaint is filed with the Commissioner.</td></tr></table>",
+        "bbox": [
+            105,
+            268,
+            907,
+            464
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.4 A term that is used in these Regulations which does not appear in the table above and is defined in the Law shall have in these Regulations, the same meaning as it has in the Law. ",
+        "bbox": [
+            107,
+            478,
+            892,
+            505
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": ".5 The Rules of interpretation in the Law apply to these Regulations. ",
+        "bbox": [
+            137,
+            505,
+            623,
+            519
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 References to writing ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            532,
+            322,
+            546
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 If a provision in these Regulations refers to a communication, notice, agreement or other document “in writing” then, unless the contrary intention appears, it means in legible form and capable of being reproduced on paper, irrespective of the medium used. Expressions related to writing must be interpreted accordingly. ",
+        "bbox": [
+            107,
+            560,
+            894,
+            601
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 This does not affect any other legal requirements which may apply in relation to the form or manner of executing a document or agreement. ",
+        "bbox": [
+            104,
+            615,
+            892,
+            644
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "bbox": [
+            502,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 ",
+        "bbox": [
+            494,
+            942,
+            504,
+            953
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "• COMPLAINTS ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            74,
+            284,
+            89
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 Procedures for Filing and Processing Complaints ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            103,
+            522,
+            118
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": ".1.1 Complaints filed with the Commissioner pursuant to Article 59(3)(a) of the Law, including any disputes, shall be filed and processed in accordance with this Regulation 2. ",
+        "bbox": [
+            122,
+            130,
+            892,
+            159
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 A Complainant may lodge a complaint with the Commissioner in such manner prescribed by the Commissioner, providing the following information: ",
+        "bbox": [
+            100,
+            172,
+            894,
+            200
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) full name, address and capacity of the Complainant;   \n(b) the name and details of the Respondent;   \n(c) the details of the complaint;   \n(d) a detailed statement of the alleged facts which the Complainant believes gives rise to the complaint;   \nand (e) the relief sought by the Complainant. ",
+        "bbox": [
+            164,
+            214,
+            892,
+            355
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 A complaint filed in accordance to Regulation 2.1.2 shall be accompanied with supporting documents including the following: ",
+        "bbox": [
+            100,
+            367,
+            890,
+            397
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) proof of ownership of intellectual property rights or the right to claim protection pursuant to such ownership, which may include patent registration certificates, trademark registration certificates and agreements evidencing ownership;   \n(b) if a complaint is filed on behalf of the owner of the intellectual property or the holder of intellectual property rights, a suitable power of attorney;   \n(c) any documents or other evidences, including witness statements, confirming that the infringement, misappropriation or conflict occurred within the DIFC;   \n(d) proof of payment of the fees in accordance with Regulation 2.3; and   \n(e) an undertaking to cover any costs and expenses incurred by the Commissioner (or his delegate) to investigate the complaint, including any costs associated with appointing an Expert (if applicable) under Regulation 2.4.3. ",
+        "bbox": [
+            164,
+            409,
+            894,
+            618
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.4 Upon receipt of a complaint, the Commissioner shall consider the complaint and may request the Complainant to submit additional documents, information or other forms of evidence that the Commissioner considers necessary to consider the complaint. The Commissioner may request certain formal certification of any document to verify such documents. ",
+        "bbox": [
+            107,
+            631,
+            892,
+            687
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.5 Unless Regulation 2.1.6 applies, the Commissioner shall notify the Respondent in writing of the details of a complaint filed against the Respondent, within ten (10) business days of the receipt of: ",
+        "bbox": [
+            102,
+            700,
+            890,
+            728
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a) the complaint pursuant to Regulation 2.1.2; or   \n(b) any additional documents, information or other evidence requested by the Commissioner under Regulation 2.1.4, whichever is later. ",
+        "bbox": [
+            164,
+            740,
+            892,
+            797
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.6 If the Commissioner is of the opinion that notifying a Respondent of a complaint under Regulation 2.1.5 may pose a risk to the investigation of the complaint or the preservation of evidence relating to the complaint, the Commissioner may delay the notification for such period as the Commissioner deems fit. ",
+        "bbox": [
+            107,
+            812,
+            892,
+            853
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.7 A Respondent shall have the right to respond to the complaint within ten (10) business days of receiving the Commissioner’s notification under Regulation 2.1.5. The Commissioner may extend this period if the Respondent provides sufficient reasons to justify the extension. ",
+        "bbox": [
+            100,
+            866,
+            895,
+            909
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "bbox": [
+            502,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.8 If a Respondent does not respond to the Commissioner within the period specified or allowed by Regulation 2.1.7, the Commissioner may proceed to issue a direction based on the findings of his own investigations of the complaint, or accept the submissions of a Complainant without any further investigations or verification. ",
+        "bbox": [
+            107,
+            76,
+            892,
+            117
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.9 The Commissioner shall provide a Complainant with a copy of a response submitted by a Respondent under Regulation 2.1.7, together with all supporting documents, and the Complainant may file a reply to any further points raised by a Respondent in the response. Any such reply must be filed by the Complainant within ten (10) business days of receiving the Respondent’s response from the Commissioner. The Commissioner may extend this period if the Claimant provides sufficient reasons to justify the extension. No further responses will be accepted unless specifically requested by the Commissioner. The Commissioner shall provide a Respondent with a copy of any reply submitted by a Complainant under Regulation 2.1.9 together with all supporting documents. ",
+        "bbox": [
+            109,
+            130,
+            892,
+            240
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.10 Any complaint, response, reply or document filed with the Commissioner must be in the English Language or accompanied by an English translation, certified to the satisfaction of the Commissioner. ",
+        "bbox": [
+            102,
+            254,
+            889,
+            281
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.11 The Commissioner may invite a Complainant and/or a Respondent to attend meetings or calls to discuss aspects of a complaint that in the view of the Commissioner are necessary to issue a direction. The Commissioner shall prepare minutes of such meetings which shall be added to the Commissioner’s records of the complaint and related proceedings. Shall the Complainant or Respondent decline to attend a meeting with the Commissioner despite being notified, the Commissioner may proceed with the complaint procedures to issue a direction. ",
+        "bbox": [
+            107,
+            296,
+            892,
+            378
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.12 A Complainant may withdraw a complaint at any stage, by providing the Commissioner with a request to withdraw with the reasons for such request. The Commissioner may accept the request and close the complaint, after the Complainant pays all cost incurred throughout the process, if any. ",
+        "bbox": [
+            100,
+            392,
+            894,
+            434
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 Inspection, seizure and storage ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            448,
+            389,
+            461
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 In order to investigate a complaint from a Complainant and obtain any relevant evidence, the Commissioner may inspect the DIFC premises of a Respondent, which may take place prior to or after notifying the Respondent of such complaint. Where required, the Commissioner may coordinate with the relevant UAE federal and local authorities to conduct such an inspection pursuant to the provisions of Article 59(3)(b) of the Law. ",
+        "bbox": [
+            107,
+            476,
+            894,
+            543
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 The Commissioner shall prepare a report indicating the result of the inspection, which shall be added to the Commissioner’s records of the complaint and related proceedings. ",
+        "bbox": [
+            105,
+            558,
+            890,
+            586
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 Where, for the reasons provided in Regulation 2.1.6, an inspection takes place prior to the Respondent having received the details of the complaint pursuant to Regulation 2.1.5, the Commissioner (or his delegate, pursuant to Regulation 2.2.4) shall provide the Respondent with such details upon arriving at the Respondent’s premises, or as soon as reasonably practicable thereafter. ",
+        "bbox": [
+            107,
+            600,
+            892,
+            655
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.4 The Commissioner may delegate his inspection rights under the Law or these Regulations to an officer appointed in accordance with Regulation 4.2. ",
+        "bbox": [
+            100,
+            669,
+            889,
+            696
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.5 The Commissioner may seek the assistance of an Expert at any stage during an inspection, investigation or when determining a complaint. ",
+        "bbox": [
+            112,
+            711,
+            892,
+            738
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.6 The Commissioner shall prepare a report on the result of the inspection, which may include the description and quantity of infringing products at the premises, as well as any machines, materials, tools and equipment used in the infringement. ",
+        "bbox": [
+            107,
+            752,
+            892,
+            793
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.7 Based on the inspection, the Commissioner may decide on the seizure of any infringing items including goods, machines, materials, tools and equipment found at the Respondent's premises. ",
+        "bbox": [
+            107,
+            807,
+            889,
+            835
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.8 The Complainant, based on the Commissioner’s instructions, shall arrange for storing items seized in accordance with Regulation 2.2.7 at a storage facility approved by the Commissioner. The storage facility shall provide an undertaking to keep the seized items under its custody until a direction is issued in the complaint. ",
+        "bbox": [
+            107,
+            848,
+            890,
+            904
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "bbox": [
+            502,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 ",
+        "bbox": [
+            494,
+            942,
+            504,
+            953
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.9 Any cost incurred under Regulation 2.2 must be covered directly by the Complainant. The Complainant shall be entitled to recover such costs from the Respondent if the Commissioner issues a direction enabling the Complainant to recover these costs. ",
+        "bbox": [
+            107,
+            76,
+            894,
+            116
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fees ",
+        "text_level": 1,
+        "bbox": [
+            168,
+            131,
+            201,
+            145
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Complainant shall pay the fees prescribed in Annex 1 upon filing the complaint in accordance with Regulation 2.1. ",
+        "bbox": [
+            161,
+            158,
+            892,
+            185
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Commissioner shall not consider a complaint if fees were not paid in accordance with Regulation 2.3.1. ",
+        "bbox": [
+            161,
+            199,
+            889,
+            214
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Experts ",
+        "text_level": 1,
+        "bbox": [
+            168,
+            228,
+            226,
+            242
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 The Commissioner shall establish a register of approved Experts. ",
+        "bbox": [
+            117,
+            256,
+            606,
+            269
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 A person wishing to be registered as an Expert shall submit an application to the Commissioner using the form prescribed by the Commissioner. The application must be accompanied by the fee prescribed in Annex 1. An Expert approved by the Commissioner shall pay annual registration fees prescribed in Annex 1. ",
+        "bbox": [
+            109,
+            284,
+            892,
+            325
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.3 The Commissioner may appoint one (1) or more Experts to provide a technical report in connection with a Complaint. The Commissioner shall decide on the fees, charges and any expenses payable to the Expert in connection with producing the technical report, based on the complexity of the subject matter and the task(s) assigned to the Expert. The Complainant shall bear the costs of the Expert, which the Complainant shall be entitled to recover from the Respondent, if the Commissioner issues a direction enabling the Complainant to recover such costs. ",
+        "bbox": [
+            107,
+            340,
+            892,
+            420
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.4 An Expert appointed by the Commissioner shall provide a report on the subject matter tasked by the Commissioner within a period of 10 business days from receiving its task. This period which may be extendable for further periods as deemed reasonable by the Commissioner. ",
+        "bbox": [
+            107,
+            436,
+            892,
+            476
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 Representation ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            492,
+            277,
+            505
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5.1 The Complainant and Respondent may represent themselves before the Commissioner or be represented by a legal practitioner registered on Part I or Part II of the Courts' Register of Legal Practitioners. ",
+        "bbox": [
+            100,
+            519,
+            892,
+            546
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "bbox": [
+            502,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. DIRECTIONS ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            74,
+            277,
+            89
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 Issuance of Direction ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            103,
+            321,
+            117
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 After considering a complaint and completing all the investigations and inspections the Commissioner deems necessary, the Commissioner shall issue a direction in accordance with Article 66 of the Law and this Regulation 3.1, as follows: ",
+        "bbox": [
+            107,
+            130,
+            892,
+            172
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) if the Commissioner is satisfied that a person has violated the Law, he may issue a direction with one (1) or more of the following measures: (i) order the Respondent to refrain from the violation and carry out all necessary acts to comply with the Law; (ii) request the DIFC Registrar of Companies to temporarily suspend the DIFC licence of the Respondent; (iii) order confiscation of all materials, goods, tools, machines, equipment, signs, advertisements related to the violation and order the transfer, storage and destruction of the same, at the expense of the Respondent and in accordance with Regulation 3.1.4; (iv) impose fines in accordance with Article 66(1) and Schedule 3 of the Law; or (v) in case of a repeat infringement, request the DIFC Registrar of Companies to revoke the DIFC licence of the Respondent and/or impose up to double the fines stipulated in Schedule 3 of the Law as permitted under Article 66(2) of the Law. For the avoidance of doubt, a repeat infringement shall occur regardless of the intellectual property right previously infringed; ",
+        "bbox": [
+            166,
+            185,
+            894,
+            463
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(b) if the Commissioner is not satisfied that a person has violated the Law, the Commissioner may issue a direction rejecting the complaint; or   \n(c) if the Commissioner, after consideration, was unable to conclude whether a violation has been committed, the Commissioner shall issue a direction requesting the parties to refer the matter to the Court. ",
+        "bbox": [
+            164,
+            476,
+            892,
+            561
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 A direction issued by the Commissioner under Regulation 3.1.1 shall be a written notice (a “Notice of Direction” in accordance with Form 1 in Annex 2) issued to the Complainant and, if applicable, the Respondent including: ",
+        "bbox": [
+            110,
+            574,
+            894,
+            615
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) the measures (if any) ordered in respect of the complaint as set out in Regulation 3.1.1(a);   \n(b) the reasons for the direction, including any findings of fact, and specifying the legal provisions relied on by the Commissioner in reaching the direction;   \n(c) if the Commissioner is satisfied that a violation is being or has been committed, a statement relating to the violation of the Law or these Regulations;   \n(d) a copy of any relevant materials considered;   \n(e) the date on which the direction is to take effect;   \n(f) if applicable, the date by which any relevant action shall be taken;   \n(g) if applicable, any costs incurred by the Commissioner or the Complainant to be paid by the Respondent; and   \n(h) a statement to the effect that the aggrieved party may seek a review of the direction before the Court, and the period to seek a review before the Court pursuant to Regulation 3.3.1. ",
+        "bbox": [
+            164,
+            629,
+            894,
+            895
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "bbox": [
+            502,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 ",
+        "bbox": [
+            494,
+            942,
+            504,
+            953
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 For the purposes of Regulation 3.1.2(c) above, the Commissioner: ",
+        "bbox": [
+            105,
+            76,
+            613,
+            90
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) may refer to materials (instead of providing a copy) if the materials are held by the Respondent or are publicly available; and   \n(b) is not required to provide materials that are subject of legal professional privilege, or when its disclosure may prejudice the protection of intellectual property rights. ",
+        "bbox": [
+            164,
+            103,
+            892,
+            173
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.4 For the purposes of Regulation 3.1.2(e), if a direction ordered the confiscation, transfer, storage and destruction of materials, goods, tools, machines, equipment, signs, advertisements related to an infringement in accordance with Regulation 3.1.1(a)(iii), the Commissioner shall specify in the direction the process, timing and location for such destruction, which shall be carried out with due regard to the nature of items seized, and shall be executed in coordination with the relevant federal and local authorities. ",
+        "bbox": [
+            105,
+            186,
+            892,
+            255
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.5 If a direction includes a request to the DIFC Registrar of Companies to temporarily suspend or revoke the DIFC license of the Respondent in the DIFC, the Commissioner shall, upon issuance of the direction, send a copy of the direction to the DIFC Registrar of Companies for his consideration. If the Respondent is regulated under the DFSA, the Commissioner shall send a copy of the direction to the DFSA. ",
+        "bbox": [
+            107,
+            268,
+            892,
+            324
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 Failure to Comply with Direction ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            337,
+            408,
+            353
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "If a person fails to comply with a direction, the Commissioner may apply to the Court to issue orders as detailed in Article 66(5) of the Law. ",
+        "bbox": [
+            137,
+            366,
+            892,
+            393
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Review by the Court ",
+        "text_level": 1,
+        "bbox": [
+            156,
+            407,
+            317,
+            422
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 In accordance with Article 67 of the Law, a person aggrieved by the direction of the Commissioner may file a request to the Court to review the direction within fifteen (15) days of receiving a Notice of Direction from the Commissioner. ",
+        "bbox": [
+            107,
+            436,
+            892,
+            476
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 If a request for review is filed with the Court, the measures (if any) included in the Notice of Direction issued by the Commissioner shall be suspended pending a decision issued by the Court. ",
+        "bbox": [
+            102,
+            491,
+            890,
+            519
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "bbox": [
+            502,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6 ",
+        "bbox": [
+            494,
+            942,
+            504,
+            953
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. APPOINTMENT OF OFFICERS AND DELEGATION OF POWERS ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            74,
+            675,
+            90
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1 Appointment of Officers ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            103,
+            346,
+            117
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 In accordance with Article 59(3)(f) of the Law, the Commissioner may, if he deems it necessary or desirable in the pursuit of his powers and functions, appoint one (1) or more officers to assist the Commissioner with his functions including investigating, inspecting and consideration of infringement complaints raised with the Commissioner in accordance with the Law and these Regulations. ",
+        "bbox": [
+            107,
+            131,
+            892,
+            186
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 Officers to be appointed in accordance with Regulation 4.1 shall have the appropriate experience and qualifications in the field of intellectual property. ",
+        "bbox": [
+            100,
+            200,
+            894,
+            228
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2 Delegation of Powers ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            241,
+            321,
+            255
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 The Commissioner may delegate some of his powers to the appointed officer(s) in accordance with Article 59(3)(g) of the Law and shall obtain the DIFCA Board of Directors approval on any delegation made in accordance with Regulation 4. ",
+        "bbox": [
+            107,
+            269,
+            892,
+            311
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5. COORDINATION WITH AUTHORITIES ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            324,
+            480,
+            338
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.1 Commissioner’s Coordination with Authorities ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            353,
+            507,
+            367
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.1.1 In accordance with Article 59(3)(b) of the Law, the Commissioner shall coordinate with the UAE federal and local authorities with respect to the protection of intellectual property rights within the DIFC. ",
+        "bbox": [
+            107,
+            381,
+            892,
+            409
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.1.2 Subject to Regulation 5.1.3, the Commissioner may sign agreements or memoranda of understanding in relation to coordinating and cooperating for cooperation with relevant UAE federal and local authorities, which would facilitate the Commissioner’s duties in the enforcement of the Law and these Regulations in the DIFC. Such coordination and cooperation shall include sharing information, assistance in inspection, seizures, confiscation and destruction of infringing items, as well as any other aspects of cooperation that may be required for enforcement of intellectual property rights in the DIFC. ",
+        "bbox": [
+            107,
+            423,
+            892,
+            505
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.1.3 Any agreement or memoranda of understanding to be signed by the Commissioner pursuant to Regulation 5.1.2 shall require approval by the DIFCA Board, or its delegate, to ensure that it meets the objectives of the DIFC. ",
+        "bbox": [
+            107,
+            519,
+            892,
+            560
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "bbox": [
+            502,
+            42,
+            892,
+            57
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 1 FEES ",
+        "text_level": 1,
+        "bbox": [
+            447,
+            74,
+            549,
+            102
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/f1f34b5a6dac4d741e2cd80b26aa63182e01990224e58dacff201f6d139c8e29.jpg",
+        "table_caption": [
+            "Table of fees "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Type of Service</td><td rowspan=1 colspan=1>Applicable Fee (USD)</td></tr><tr><td rowspan=1 colspan=1>Patent/Utility Model infringement complaint</td><td rowspan=1 colspan=1>500</td></tr><tr><td rowspan=1 colspan=1>Design infringement complaint</td><td rowspan=1 colspan=1>500</td></tr><tr><td rowspan=1 colspan=1>Trademark infringement complaint</td><td rowspan=1 colspan=1>500</td></tr><tr><td rowspan=1 colspan=1>Copyright infringement complaint</td><td rowspan=1 colspan=1>500</td></tr><tr><td rowspan=1 colspan=1>Trade Secret misappropriation complaint</td><td rowspan=1 colspan=1>500</td></tr><tr><td rowspan=1 colspan=1>Inspection of a Respondent&#x27;s Premises</td><td rowspan=1 colspan=1>500</td></tr><tr><td rowspan=1 colspan=1>Expert Application Fee</td><td rowspan=1 colspan=1>500</td></tr><tr><td rowspan=1 colspan=1>Recording an Expert with the Commissioner (per annum fee)</td><td rowspan=1 colspan=1>1,000</td></tr></table>",
+        "bbox": [
+            105,
+            142,
+            894,
+            404
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "bbox": [
+            502,
+            42,
+            894,
+            57
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "8 ",
+        "bbox": [
+            494,
+            942,
+            504,
+            953
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX 2 FORM 1 ",
+        "text_level": 1,
+        "bbox": [
+            447,
+            74,
+            549,
+            103
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "COMMISSIONER OF INTELLECTUAL PROPERTY",
+        "text_level": 1,
+        "bbox": [
+            295,
+            115,
+            700,
+            131
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "NOTICE OF DIRECTION ",
+        "text_level": 1,
+        "bbox": [
+            400,
+            143,
+            598,
+            159
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "PURSUANT TO ARTICLE 66 OF THE DIFC INTELLECTUAL PROPERTY LAW",
+        "bbox": [
+            189,
+            171,
+            806,
+            187
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To: Full name and address of person receiving Notice ",
+        "bbox": [
+            109,
+            230,
+            472,
+            243
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1. The Commissioner of Intellectual Property has considered the complaint filed by [ [ ] ",
+        "bbox": [
+            107,
+            256,
+            744,
+            286
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "] against ",
+        "bbox": [
+            828,
+            258,
+            892,
+            272
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2. Taking into account the facts giving rise to this complaint, the documents reviewed, this direction (“Direction”) has been issued by the Commissioner of Intellectual Property. ",
+        "bbox": [
+            100,
+            299,
+            892,
+            328
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[Provide details of the Direction as set out in Regulation 3.1.2]. ",
+        "bbox": [
+            166,
+            340,
+            601,
+            355
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3. This Direction is effective as of the date of this notification and must be executed by [date]. ",
+        "bbox": [
+            104,
+            368,
+            786,
+            384
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4. This Direction can be appealed to the DIFC Court within fifteen (15) days of date of this notification. ",
+        "bbox": [
+            114,
+            395,
+            850,
+            411
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Should you neither execute this Direction, nor file an appeal with the DIFC Court before 5pm on [date], the Commissioner of Intellectual Property may apply to the Court seeking suitable orders. ",
+        "bbox": [
+            119,
+            424,
+            894,
+            453
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6. Should no appeal be filed in respect of this Notice of Direction, the Commissioner of Intellectual Property may publish details of the matter to which this Direction relates. ",
+        "bbox": [
+            99,
+            466,
+            892,
+            494
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "INTELLECTUAL PROPERTY REGULATIONS",
+        "bbox": [
+            502,
+            42,
+            894,
+            57
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "9 ",
+        "bbox": [
+            494,
+            942,
+            504,
+            953
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Commissioner of Intellectual Property ",
+        "bbox": [
+            107,
+            624,
+            368,
+            638
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Date ",
+        "bbox": [
+            650,
+            625,
+            685,
+            637
+        ],
+        "page_idx": 10
+    }
+]

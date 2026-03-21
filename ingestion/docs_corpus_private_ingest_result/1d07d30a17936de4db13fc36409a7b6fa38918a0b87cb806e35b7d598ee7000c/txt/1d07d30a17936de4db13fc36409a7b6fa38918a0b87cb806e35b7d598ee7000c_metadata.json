@@ -1,0 +1,508 @@
+{
+    "doc_type": "law",
+    "official_title": "CONSULTATION PAPER NO. 2 July 2014 PROPOSED DIFC NETTING LAW",
+    "official_title_normalized": "consultation paper no 2 july 2014 proposed difc netting law",
+    "short_title": "CONSULTATION PAPER NO. 2 July 2014 PROPOSED DIFC NETTING LAW",
+    "short_title_normalized": "consultation paper no 2 july 2014 proposed difc netting law",
+    "law_number": "2",
+    "law_year": "2014",
+    "official_citation": "DIFC Law No. 2 of 2014",
+    "official_citation_normalized": "difc law no 2 of 2014",
+    "citation_title_from_text": "",
+    "consolidated_version_date": "",
+    "amending_laws": [],
+    "administering_authority": "DIFCA",
+    "jurisdiction": "Dubai International Financial Centre",
+    "title_page_number": 1,
+    "last_page_number": 6,
+    "page_count": 6,
+    "alias_keys": [
+        "DIFC Law No. 2 of 2014",
+        "CONSULTATION PAPER NO. 2 July 2014 PROPOSED DIFC NETTING LAW",
+        "CONSULTATION PAPER NO. 2 July 2014 PROPOSED DIFC NETTING LAW 2014"
+    ],
+    "article_index": {
+        "Article 1": {
+            "heading": "Your views are sought on whether the Netting Law should also apply to natural persons and if so, why?",
+            "article_number": "1",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 40,
+            "block_end": 41
+        },
+        "Article 2": {
+            "heading": "Your views are sought on whether the Netting Law should include multibranch netting provisions? If so, why and if not, why not?",
+            "article_number": "2",
+            "page_start": 5,
+            "page_end": 6,
+            "block_start": 51,
+            "block_end": 54
+        },
+        "Article 3": {
+            "heading": "Your views are sought on whether Article 8 of the Netting Law should be removed or modified? If so, why?",
+            "article_number": "3",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 59,
+            "block_end": 61
+        },
+        "Article 4": {
+            "heading": "You may choose to identify the organisation you represent in your comments",
+            "article_number": "4",
+            "page_start": 2,
+            "page_end": 2,
+            "block_start": 13,
+            "block_end": 13
+        },
+        "Article 5": {
+            "heading": "DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made",
+            "article_number": "5",
+            "page_start": 2,
+            "page_end": 2,
+            "block_start": 14,
+            "block_end": 15
+        },
+        "Article 6": {
+            "heading": "DIFCA is releasing this Consultation Paper No. 2 of 2014 for public consultation. 7. The deadline for providing comments on the Legislative Proposal is 5 September 2014. 8. Once we receive your comments, we will consider if any further refinements are required to the Netting Law and proceed to adopt the changes to the Netting Law",
+            "article_number": "6",
+            "page_start": 2,
+            "page_end": 2,
+            "block_start": 16,
+            "block_end": 17
+        },
+        "Article 9": {
+            "heading": "Given that the Netting Law is still a proposal, you should not act on it until the Netting Law is enacted. We will issue a notice on our website advising you when this happens",
+            "article_number": "9",
+            "page_start": 3,
+            "page_end": 3,
+            "block_start": 18,
+            "block_end": 19
+        },
+        "Article 10": {
+            "heading": "Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase. Any references in this paper to terms that are defined in the Netting Law, has the meaning given to it in the Netting Law. Unless the context otherwise requires, where capitalisation of the initial letter is not used or the term is not defined in the Netting Law, the expression has its natural meaning",
+            "article_number": "10",
+            "page_start": 3,
+            "page_end": 3,
+            "block_start": 20,
+            "block_end": 21
+        },
+        "Article 11": {
+            "heading": "It is proposed to introduce a new Netting Law in the DIFC that is based on the International Swaps and Derivatives Association (ISDA) model law. The ISDA model law provides example text for a netting law, and has been the model used in a number of countries that have introduced netting. The ISDA model law sets out core principles and includes provisions relating to gaming laws, financial collateral and multi-branch netting",
+            "article_number": "11",
+            "page_start": 3,
+            "page_end": 3,
+            "block_start": 22,
+            "block_end": 22
+        },
+        "Article 12": {
+            "heading": "The Legislative Proposal is attached at Annexure A",
+            "article_number": "12",
+            "page_start": 3,
+            "page_end": 3,
+            "block_start": 23,
+            "block_end": 24
+        },
+        "Article 13": {
+            "heading": "The main aim of netting legislation is to create legal certainty as to the enforceability of close-out netting. Close-out netting and set-off (“close-out netting”) are legal mechanisms, which reduce exposures and therefore risks between two counterparties. Upon the default of one of the two counterparties, the balance of the transactions between them are terminated early, valued and any outstanding amounts netted off. What finally remains for actual payment can be a small fraction of the gross positions and claims between those two parties",
+            "article_number": "13",
+            "page_start": 3,
+            "page_end": 3,
+            "block_start": 25,
+            "block_end": 25
+        },
+        "Article 14": {
+            "heading": "Close-out netting may be available in normal and/or in insolvency situations. It may be contractually agreed and permitted by law, or imposed directly by law. Close-out netting must be effective under the relevant insolvency law. If a firm is certain that it can rapidly close-out transactions with its counterparties in case of their insolvency (i.e. the applicable insolvency law will not prevent close-out), its counterparty credit risk is substantially reduced to the resulting net position. This is translated into:",
+            "article_number": "14",
+            "page_start": 3,
+            "page_end": 3,
+            "block_start": 26,
+            "block_end": 27
+        },
+        "Article 15": {
+            "heading": "Financial institutions and other \"corporate entities\" widely rely on contractually agreed netting arrangements to achieve this result as it is an effective risk mitigating technique",
+            "article_number": "15",
+            "page_start": 3,
+            "page_end": 3,
+            "block_start": 28,
+            "block_end": 28
+        },
+        "Article 16": {
+            "heading": "More recently, the Financial Stability Board in its Key Attributes of Efficient",
+            "article_number": "16",
+            "page_start": 3,
+            "page_end": 4,
+            "block_start": 29,
+            "block_end": 32
+        },
+        "Article 17": {
+            "heading": "Approximately forty five jurisdictions worldwide have enacted specific netting legislation, while netting in a number of other jurisdictions applies as a general principle of law. ISDA in its industry netting opinions currently covers approximately sixty jurisdictions worldwide where the netting analysis is positive. So far, ISDA has not obtained a positive netting opinion from any jurisdiction in the GCC region",
+            "article_number": "17",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 33,
+            "block_end": 33
+        },
+        "Article 18": {
+            "heading": "Close-out netting is not currently statutorily underpinned in the UAE, as a result there is some uncertainty as to the enforceability of derivative transactions in an insolvency of a counterparty located in the UAE, including a counterparty located in the DIFC. The reason for introducing a netting legislation in the DIFC is to statutorily underpin close-out netting in the DIFC and enable DIFC firms to benefit from this important risk mitigating technique",
+            "article_number": "18",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 34,
+            "block_end": 35
+        },
+        "Article 19": {
+            "heading": "The Netting Law applies to qualified financial instruments, and netting agreements or collateral agreements relating to qualified financial instruments, entered into by a person to whom the Netting Law applies (Article 6 of the Netting Law)",
+            "article_number": "19",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 36,
+            "block_end": 36
+        },
+        "Article 20": {
+            "heading": "The Netting Law defines “qualified financial instruments” to include financial agreements and transactions such as derivative transactions, repos and securities lending transactions. The specified list of instruments falling within the definition of “qualified financial instruments” under the Netting Law may be added to from time to time by the DFSA",
+            "article_number": "20",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 37,
+            "block_end": 37
+        },
+        "Article 21": {
+            "heading": "A particular feature of the Netting Law is that it seeks specifically to include both various Islamic hedging transactions such as profit rate swaps, and the close out netting mechanism contained in certain standard Islamic netting agreements available in the market. In view of DIFC and the UAE's important role in the context of Islamic finance, covering Islamic hedging transactions is considered appropriate",
+            "article_number": "21",
+            "page_start": 4,
+            "page_end": 4,
+            "block_start": 38,
+            "block_end": 39
+        },
+        "Article 22": {
+            "heading": "As currently drafted, Article 6 of the Netting Law purports to:",
+            "article_number": "22",
+            "page_start": 4,
+            "page_end": 5,
+            "block_start": 42,
+            "block_end": 46
+        },
+        "Article 23": {
+            "heading": "The ISDA model netting law includes multi-branch netting provisions, the purpose of which is, to reduce the net claim that may be made under a netting agreement between two parties from that provided by the netting agreement in circumstances where, in an insolvency of one of the parties outside the jurisdiction, the netting agreement is not effective with the result that one party is enabled to claim more than the net amount contemplated by the parties' netting agreement. The reduction in the amount of the claim provided for by such a multi-branch provision is intended to restore the overall position between the parties to that provided for by the netting agreement",
+            "article_number": "23",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 47,
+            "block_end": 47
+        },
+        "Article 24": {
+            "heading": "DIFC has not included the multi-branch netting provisions in the Netting Law for the two main reasons set out below:",
+            "article_number": "24",
+            "page_start": 5,
+            "page_end": 5,
+            "block_start": 48,
+            "block_end": 50
+        },
+        "Article 25": {
+            "heading": "A provision is proposed to confirm the enforcement and validity of derivative contracts in DIFC, a financial product recognized in Article 9(3) of the Dubai Law 9/2004. This is to address the possibility of doubt or uncertainty by virtue of the prohibition on wagering or gambling under the UAE Penal Code, which applies in the DIFC",
+            "article_number": "25",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 55,
+            "block_end": 55
+        },
+        "Article 26": {
+            "heading": "In order to address this issue and provide legal certainty, the Netting Law in Article 7 affirms the validity of such transactions from a commercial and civil law perspective, by stating that $^ { 6 6 } { \\sf A }$ qualified financial instrument shall not be and shall be deemed never to have been void or unenforceable by reason of being, or having the characteristics of, a wager, lottery, gambling or gaming contract”",
+            "article_number": "26",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 56,
+            "block_end": 56
+        },
+        "Article 27": {
+            "heading": "Given that DIFC Law cannot override the UAE Penal Code, Article 7 is thought to be the most that can be done by the Netting Law in relation to validating derivative contracts",
+            "article_number": "27",
+            "page_start": 6,
+            "page_end": 6,
+            "block_start": 57,
+            "block_end": 58
+        }
+    },
+    "section_heading_index": {
+        "This Consultation Paper seeks public comment on the DIFC Authority’s (“DIFCA”) proposal to introduce a new Netting Law in the DIFC through the Netting Law, DIFC Law No. 2 of 2014 (“Netting Law”)": [
+            {
+                "heading": "This Consultation Paper seeks public comment on the DIFC Authority’s (“DIFCA”) proposal to introduce a new Netting Law in the DIFC through the Netting Law, DIFC Law No. 2 of 2014 (“Netting Law”)",
+                "article_number": "1",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 6,
+                "block_end": 7
+            }
+        ],
+        "This Consultation Paper would be of interest to:": [
+            {
+                "heading": "This Consultation Paper would be of interest to:",
+                "article_number": "2",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 8,
+                "block_end": 10
+            }
+        ],
+        "All comments should be provided to the person specified below:": [
+            {
+                "heading": "All comments should be provided to the person specified below:",
+                "article_number": "3",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 11,
+                "block_end": 12
+            }
+        ],
+        "You may choose to identify the organisation you represent in your comments": [
+            {
+                "heading": "You may choose to identify the organisation you represent in your comments",
+                "article_number": "4",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 13,
+                "block_end": 13
+            }
+        ],
+        "DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made": [
+            {
+                "heading": "DIFCA reserves the right to publish, on its website or elsewhere, any comments you provide, unless you expressly request otherwise at the time the comments are made",
+                "article_number": "5",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 14,
+                "block_end": 15
+            }
+        ],
+        "DIFCA is releasing this Consultation Paper No. 2 of 2014 for public consultation. 7. The deadline for providing comments on the Legislative Proposal is 5 September 2014. 8. Once we receive your comments, we will consider if any further refinements are required to the Netting Law and proceed to adopt the changes to the Netting Law": [
+            {
+                "heading": "DIFCA is releasing this Consultation Paper No. 2 of 2014 for public consultation. 7. The deadline for providing comments on the Legislative Proposal is 5 September 2014. 8. Once we receive your comments, we will consider if any further refinements are required to the Netting Law and proceed to adopt the changes to the Netting Law",
+                "article_number": "6",
+                "page_start": 2,
+                "page_end": 2,
+                "block_start": 16,
+                "block_end": 17
+            }
+        ],
+        "Given that the Netting Law is still a proposal, you should not act on it until the Netting Law is enacted. We will issue a notice on our website advising you when this happens": [
+            {
+                "heading": "Given that the Netting Law is still a proposal, you should not act on it until the Netting Law is enacted. We will issue a notice on our website advising you when this happens",
+                "article_number": "9",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 18,
+                "block_end": 19
+            }
+        ],
+        "Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase. Any references in this paper to terms that are defined in the Netting Law, has the meaning given to it in the Netting Law. Unless the context otherwise requires, where capitalisation of the initial letter is not used or the term is not defined in the Netting Law, the expression has its natural meaning": [
+            {
+                "heading": "Defined terms are identified throughout this paper by the capitalisation of the initial letter of a word or of each word in a phrase. Any references in this paper to terms that are defined in the Netting Law, has the meaning given to it in the Netting Law. Unless the context otherwise requires, where capitalisation of the initial letter is not used or the term is not defined in the Netting Law, the expression has its natural meaning",
+                "article_number": "10",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 20,
+                "block_end": 21
+            }
+        ],
+        "It is proposed to introduce a new Netting Law in the DIFC that is based on the International Swaps and Derivatives Association (ISDA) model law. The ISDA model law provides example text for a netting law, and has been the model used in a number of countries that have introduced netting. The ISDA model law sets out core principles and includes provisions relating to gaming laws, financial collateral and multi-branch netting": [
+            {
+                "heading": "It is proposed to introduce a new Netting Law in the DIFC that is based on the International Swaps and Derivatives Association (ISDA) model law. The ISDA model law provides example text for a netting law, and has been the model used in a number of countries that have introduced netting. The ISDA model law sets out core principles and includes provisions relating to gaming laws, financial collateral and multi-branch netting",
+                "article_number": "11",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 22,
+                "block_end": 22
+            }
+        ],
+        "The Legislative Proposal is attached at Annexure A": [
+            {
+                "heading": "The Legislative Proposal is attached at Annexure A",
+                "article_number": "12",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 23,
+                "block_end": 24
+            }
+        ],
+        "The main aim of netting legislation is to create legal certainty as to the enforceability of close-out netting. Close-out netting and set-off (“close-out netting”) are legal mechanisms, which reduce exposures and therefore risks between two counterparties. Upon the default of one of the two counterparties, the balance of the transactions between them are terminated early, valued and any outstanding amounts netted off. What finally remains for actual payment can be a small fraction of the gross positions and claims between those two parties": [
+            {
+                "heading": "The main aim of netting legislation is to create legal certainty as to the enforceability of close-out netting. Close-out netting and set-off (“close-out netting”) are legal mechanisms, which reduce exposures and therefore risks between two counterparties. Upon the default of one of the two counterparties, the balance of the transactions between them are terminated early, valued and any outstanding amounts netted off. What finally remains for actual payment can be a small fraction of the gross positions and claims between those two parties",
+                "article_number": "13",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 25,
+                "block_end": 25
+            }
+        ],
+        "Close-out netting may be available in normal and/or in insolvency situations. It may be contractually agreed and permitted by law, or imposed directly by law. Close-out netting must be effective under the relevant insolvency law. If a firm is certain that it can rapidly close-out transactions with its counterparties in case of their insolvency (i.e. the applicable insolvency law will not prevent close-out), its counterparty credit risk is substantially reduced to the resulting net position. This is translated into:": [
+            {
+                "heading": "Close-out netting may be available in normal and/or in insolvency situations. It may be contractually agreed and permitted by law, or imposed directly by law. Close-out netting must be effective under the relevant insolvency law. If a firm is certain that it can rapidly close-out transactions with its counterparties in case of their insolvency (i.e. the applicable insolvency law will not prevent close-out), its counterparty credit risk is substantially reduced to the resulting net position. This is translated into:",
+                "article_number": "14",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 26,
+                "block_end": 27
+            }
+        ],
+        "Financial institutions and other \"corporate entities\" widely rely on contractually agreed netting arrangements to achieve this result as it is an effective risk mitigating technique": [
+            {
+                "heading": "Financial institutions and other \"corporate entities\" widely rely on contractually agreed netting arrangements to achieve this result as it is an effective risk mitigating technique",
+                "article_number": "15",
+                "page_start": 3,
+                "page_end": 3,
+                "block_start": 28,
+                "block_end": 28
+            }
+        ],
+        "More recently, the Financial Stability Board in its Key Attributes of Efficient": [
+            {
+                "heading": "More recently, the Financial Stability Board in its Key Attributes of Efficient",
+                "article_number": "16",
+                "page_start": 3,
+                "page_end": 4,
+                "block_start": 29,
+                "block_end": 32
+            }
+        ],
+        "Approximately forty five jurisdictions worldwide have enacted specific netting legislation, while netting in a number of other jurisdictions applies as a general principle of law. ISDA in its industry netting opinions currently covers approximately sixty jurisdictions worldwide where the netting analysis is positive. So far, ISDA has not obtained a positive netting opinion from any jurisdiction in the GCC region": [
+            {
+                "heading": "Approximately forty five jurisdictions worldwide have enacted specific netting legislation, while netting in a number of other jurisdictions applies as a general principle of law. ISDA in its industry netting opinions currently covers approximately sixty jurisdictions worldwide where the netting analysis is positive. So far, ISDA has not obtained a positive netting opinion from any jurisdiction in the GCC region",
+                "article_number": "17",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 33,
+                "block_end": 33
+            }
+        ],
+        "Close-out netting is not currently statutorily underpinned in the UAE, as a result there is some uncertainty as to the enforceability of derivative transactions in an insolvency of a counterparty located in the UAE, including a counterparty located in the DIFC. The reason for introducing a netting legislation in the DIFC is to statutorily underpin close-out netting in the DIFC and enable DIFC firms to benefit from this important risk mitigating technique": [
+            {
+                "heading": "Close-out netting is not currently statutorily underpinned in the UAE, as a result there is some uncertainty as to the enforceability of derivative transactions in an insolvency of a counterparty located in the UAE, including a counterparty located in the DIFC. The reason for introducing a netting legislation in the DIFC is to statutorily underpin close-out netting in the DIFC and enable DIFC firms to benefit from this important risk mitigating technique",
+                "article_number": "18",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 34,
+                "block_end": 35
+            }
+        ],
+        "The Netting Law applies to qualified financial instruments, and netting agreements or collateral agreements relating to qualified financial instruments, entered into by a person to whom the Netting Law applies (Article 6 of the Netting Law)": [
+            {
+                "heading": "The Netting Law applies to qualified financial instruments, and netting agreements or collateral agreements relating to qualified financial instruments, entered into by a person to whom the Netting Law applies (Article 6 of the Netting Law)",
+                "article_number": "19",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 36,
+                "block_end": 36
+            }
+        ],
+        "The Netting Law defines “qualified financial instruments” to include financial agreements and transactions such as derivative transactions, repos and securities lending transactions. The specified list of instruments falling within the definition of “qualified financial instruments” under the Netting Law may be added to from time to time by the DFSA": [
+            {
+                "heading": "The Netting Law defines “qualified financial instruments” to include financial agreements and transactions such as derivative transactions, repos and securities lending transactions. The specified list of instruments falling within the definition of “qualified financial instruments” under the Netting Law may be added to from time to time by the DFSA",
+                "article_number": "20",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 37,
+                "block_end": 37
+            }
+        ],
+        "A particular feature of the Netting Law is that it seeks specifically to include both various Islamic hedging transactions such as profit rate swaps, and the close out netting mechanism contained in certain standard Islamic netting agreements available in the market. In view of DIFC and the UAE's important role in the context of Islamic finance, covering Islamic hedging transactions is considered appropriate": [
+            {
+                "heading": "A particular feature of the Netting Law is that it seeks specifically to include both various Islamic hedging transactions such as profit rate swaps, and the close out netting mechanism contained in certain standard Islamic netting agreements available in the market. In view of DIFC and the UAE's important role in the context of Islamic finance, covering Islamic hedging transactions is considered appropriate",
+                "article_number": "21",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 38,
+                "block_end": 39
+            }
+        ],
+        "Your views are sought on whether the Netting Law should also apply to natural persons and if so, why?": [
+            {
+                "heading": "Your views are sought on whether the Netting Law should also apply to natural persons and if so, why?",
+                "article_number": "1",
+                "page_start": 4,
+                "page_end": 4,
+                "block_start": 40,
+                "block_end": 41
+            }
+        ],
+        "As currently drafted, Article 6 of the Netting Law purports to:": [
+            {
+                "heading": "As currently drafted, Article 6 of the Netting Law purports to:",
+                "article_number": "22",
+                "page_start": 4,
+                "page_end": 5,
+                "block_start": 42,
+                "block_end": 46
+            }
+        ],
+        "The ISDA model netting law includes multi-branch netting provisions, the purpose of which is, to reduce the net claim that may be made under a netting agreement between two parties from that provided by the netting agreement in circumstances where, in an insolvency of one of the parties outside the jurisdiction, the netting agreement is not effective with the result that one party is enabled to claim more than the net amount contemplated by the parties' netting agreement. The reduction in the amount of the claim provided for by such a multi-branch provision is intended to restore the overall position between the parties to that provided for by the netting agreement": [
+            {
+                "heading": "The ISDA model netting law includes multi-branch netting provisions, the purpose of which is, to reduce the net claim that may be made under a netting agreement between two parties from that provided by the netting agreement in circumstances where, in an insolvency of one of the parties outside the jurisdiction, the netting agreement is not effective with the result that one party is enabled to claim more than the net amount contemplated by the parties' netting agreement. The reduction in the amount of the claim provided for by such a multi-branch provision is intended to restore the overall position between the parties to that provided for by the netting agreement",
+                "article_number": "23",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 47,
+                "block_end": 47
+            }
+        ],
+        "DIFC has not included the multi-branch netting provisions in the Netting Law for the two main reasons set out below:": [
+            {
+                "heading": "DIFC has not included the multi-branch netting provisions in the Netting Law for the two main reasons set out below:",
+                "article_number": "24",
+                "page_start": 5,
+                "page_end": 5,
+                "block_start": 48,
+                "block_end": 50
+            }
+        ],
+        "Your views are sought on whether the Netting Law should include multibranch netting provisions? If so, why and if not, why not?": [
+            {
+                "heading": "Your views are sought on whether the Netting Law should include multibranch netting provisions? If so, why and if not, why not?",
+                "article_number": "2",
+                "page_start": 5,
+                "page_end": 6,
+                "block_start": 51,
+                "block_end": 54
+            }
+        ],
+        "A provision is proposed to confirm the enforcement and validity of derivative contracts in DIFC, a financial product recognized in Article 9(3) of the Dubai Law 9/2004. This is to address the possibility of doubt or uncertainty by virtue of the prohibition on wagering or gambling under the UAE Penal Code, which applies in the DIFC": [
+            {
+                "heading": "A provision is proposed to confirm the enforcement and validity of derivative contracts in DIFC, a financial product recognized in Article 9(3) of the Dubai Law 9/2004. This is to address the possibility of doubt or uncertainty by virtue of the prohibition on wagering or gambling under the UAE Penal Code, which applies in the DIFC",
+                "article_number": "25",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 55,
+                "block_end": 55
+            }
+        ],
+        "In order to address this issue and provide legal certainty, the Netting Law in Article 7 affirms the validity of such transactions from a commercial and civil law perspective, by stating that $^ { 6 6 } { \\sf A }$ qualified financial instrument shall not be and shall be deemed never to have been void or unenforceable by reason of being, or having the characteristics of, a wager, lottery, gambling or gaming contract”": [
+            {
+                "heading": "In order to address this issue and provide legal certainty, the Netting Law in Article 7 affirms the validity of such transactions from a commercial and civil law perspective, by stating that $^ { 6 6 } { \\sf A }$ qualified financial instrument shall not be and shall be deemed never to have been void or unenforceable by reason of being, or having the characteristics of, a wager, lottery, gambling or gaming contract”",
+                "article_number": "26",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 56,
+                "block_end": 56
+            }
+        ],
+        "Given that DIFC Law cannot override the UAE Penal Code, Article 7 is thought to be the most that can be done by the Netting Law in relation to validating derivative contracts": [
+            {
+                "heading": "Given that DIFC Law cannot override the UAE Penal Code, Article 7 is thought to be the most that can be done by the Netting Law in relation to validating derivative contracts",
+                "article_number": "27",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 57,
+                "block_end": 58
+            }
+        ],
+        "Your views are sought on whether Article 8 of the Netting Law should be removed or modified? If so, why?": [
+            {
+                "heading": "Your views are sought on whether Article 8 of the Netting Law should be removed or modified? If so, why?",
+                "article_number": "3",
+                "page_start": 6,
+                "page_end": 6,
+                "block_start": 59,
+                "block_end": 61
+            }
+        ]
+    }
+}
