@@ -407,6 +407,17 @@ class LegalHybridRAGPipeline:
         if answer_type == "name":
             if route.comparison_kind == "issue_date" and len(route.case_ids) == 2:
                 return self._execute_issue_date_comparison_bypass(route)
+            if len(route.case_ids) == 1:
+                result = self._execute_single_fact_name_bypass(route, lowered)
+                if result is not None:
+                    return result
+
+        if answer_type == "names":
+            if len(route.case_ids) == 1:
+                result = self._execute_multi_fact_names_bypass(route, lowered)
+                if result is not None:
+                    return result
+
         return None
 
     def _build_evidence_docs(self, evidences: Sequence[FactEvidence]) -> List[Document]:
@@ -515,6 +526,56 @@ class LegalHybridRAGPipeline:
             ]
             return True, self._build_evidence_docs(evidences)
         return False, self._build_evidence_docs(evidences_a + evidences_b)
+
+    _FACT_BYPASS_SKIP_KEYWORDS = (
+        "counsel", "lawyer", "barrister", "solicitor", "representative", "law firm",
+    )
+    _FACT_ATTR_MAP: Sequence[Tuple[Tuple[str, ...], str]] = (
+        (("judge", "justice", "presiding"), "judges"),
+        (("claimant", "plaintiff", "applicant"), "claimants"),
+        (("defendant", "respondent"), "defendants"),
+    )
+
+    def _detect_case_fact_attr(self, lowered: str) -> Optional[str]:
+        for keywords, attr in self._FACT_ATTR_MAP:
+            if any(kw in lowered for kw in keywords):
+                return attr
+        return None
+
+    def _execute_single_fact_name_bypass(
+        self, route: RoutePlan, lowered: str,
+    ) -> Optional[Tuple[Any, List[Document]]]:
+        if not route.case_ids or len(route.case_ids) != 1:
+            return None
+        if any(kw in lowered for kw in self._FACT_BYPASS_SKIP_KEYWORDS):
+            return None
+        attr_name = self._detect_case_fact_attr(lowered)
+        if attr_name is None:
+            return None
+        resolved = self._resolve_unique_case_fact(route.case_ids[0], attr_name)
+        if resolved is None:
+            return None
+        value, evidences = resolved
+        return value, self._build_evidence_docs(evidences)
+
+    def _execute_multi_fact_names_bypass(
+        self, route: RoutePlan, lowered: str,
+    ) -> Optional[Tuple[Any, List[Document]]]:
+        if not route.case_ids or len(route.case_ids) != 1:
+            return None
+        if any(kw in lowered for kw in self._FACT_BYPASS_SKIP_KEYWORDS):
+            return None
+        attr_name = self._detect_case_fact_attr(lowered)
+        if attr_name is None:
+            return None
+        record = self._resolve_case_record(route.case_ids[0])
+        if record is None:
+            return None
+        evidences = [e for e in getattr(record, attr_name, []) if e.confidence == "high"]
+        if not evidences:
+            return None
+        names = list(dict.fromkeys(e.value for e in evidences))
+        return names, self._build_evidence_docs(evidences)
 
     def _build_metadata_indexes(self, source_documents: Sequence[Document]) -> None:
         self._all_doc_ids = set()
@@ -628,7 +689,7 @@ class LegalHybridRAGPipeline:
         for block in blocks:
             page_number = int(block.get("page_number") or 0)
             block_index = int(block.get("block_index") or 0)
-            if page_number <= 0 or page_number > 2 or block_index > 60:
+            if page_number <= 0 or page_number > 3 or block_index > 80:
                 continue
             text = " ".join(str(block.get("text") or "").split())
             if not text:
@@ -650,26 +711,43 @@ class LegalHybridRAGPipeline:
                 )
         return evidences
 
+    _JUDGE_BLOCK_MARKERS = (
+        "BEFORE ",
+        "BEFORE:",
+        "ISSUED BY:",
+        "ISSUED BY ",
+        "ORDER WITH REASONS OF",
+        "AMENDED ORDER WITH REASONS OF",
+        "REASONS FOR THE ORDER OF",
+        "JUDGMENT OF",
+        "ORDER OF H.E.",
+        "ORDER OF HIS EXCELLENCY",
+        "ORDER OF HER EXCELLENCY",
+        "REASONS OF H.E.",
+        "REASONS OF HIS EXCELLENCY",
+        "REASONS OF HER EXCELLENCY",
+        "JUDGMENT OF H.E.",
+        "JUDGMENT OF HIS EXCELLENCY",
+        "JUDGMENT OF HER EXCELLENCY",
+        "BEFORE HIS EXCELLENCY",
+        "BEFORE HER EXCELLENCY",
+        "BEFORE THE HONOURABLE",
+        "BEFORE THE HONORABLE",
+    )
+
     def _is_high_confidence_judge_block(self, text: str) -> bool:
         upper = " ".join(text.upper().split())
-        judge_markers = (
-            "BEFORE ",
-            "ISSUED BY:",
-            "ORDER WITH REASONS OF",
-            "AMENDED ORDER WITH REASONS OF",
-            "REASONS FOR THE ORDER OF",
-            "JUDGMENT OF",
-            "ORDER OF H.E.",
-            "REASONS OF H.E.",
-        )
-        return any(upper.startswith(marker) for marker in judge_markers) and "JUSTICE" in upper
+        if not any(upper.startswith(m) for m in self._JUDGE_BLOCK_MARKERS):
+            return False
+        return "JUSTICE" in upper or "JUDGE" in upper
 
     def _extract_judge_names_from_text(self, text: str) -> List[str]:
         candidates: List[str] = []
         normalized_text = " ".join(text.replace("\n", " ").split())
         for match in re.finditer(
-            r"(?:H\.E\.\s+)?(?:(?:CHIEF|DEPUTY)\s+)?JUSTICE\s+([A-Z][A-Za-z\s.'-]+?(?:KC|KBE|CBE)?)"
-            r"(?=,| AND | DATED |$)",
+            r"(?:(?:H\.E\.|HIS\s+EXCELLENCY|HER\s+EXCELLENCY|THE\s+HONOU?RABLE)\s+)?"
+            r"(?:(?:CHIEF|DEPUTY)\s+)?JUSTICE\s+([A-Z][A-Za-z\s.'\-]+?(?:KC|KBE|CBE|QC)?)"
+            r"(?=,| AND | DATED | ON |\s*$)",
             normalized_text,
             re.IGNORECASE,
         ):
@@ -718,6 +796,9 @@ class LegalHybridRAGPipeline:
         if not candidate_doc_ids:
             for law_title in route.law_title_candidates:
                 candidate_doc_ids.update(self._law_alias_index.get(self._normalize_key(law_title), set()))
+            if not candidate_doc_ids:
+                for law_title in route.law_title_candidates:
+                    candidate_doc_ids.update(self._fuzzy_match_law_alias(self._normalize_key(law_title)))
             if candidate_doc_ids:
                 confident_match = True
 
@@ -745,6 +826,45 @@ class LegalHybridRAGPipeline:
             confident_match=confident_match,
             article_entries=article_entries,
         )
+
+    _LAW_FILLER_TOKENS = frozenset({"law", "the", "of", "and", "in", "on", "for", "difc", "a", "an"})
+
+    def _fuzzy_match_law_alias(self, query_key: str) -> Set[str]:
+        if not query_key:
+            return set()
+        query_tokens = set(query_key.split())
+        significant = query_tokens - self._LAW_FILLER_TOKENS
+        if not significant:
+            return set()
+
+        best: Set[str] = set()
+        best_score = 0.0
+
+        for alias_key, doc_ids in self._law_alias_index.items():
+            if query_key in alias_key or alias_key in query_key:
+                if best_score < 1.0:
+                    best_score = 1.0
+                    best = set(doc_ids)
+                else:
+                    best.update(doc_ids)
+                continue
+
+            alias_significant = set(alias_key.split()) - self._LAW_FILLER_TOKENS
+            if not alias_significant:
+                continue
+            overlap = significant & alias_significant
+            if not overlap:
+                continue
+            q_cov = len(overlap) / len(significant)
+            a_cov = len(overlap) / len(alias_significant)
+            score = q_cov * 0.7 + a_cov * 0.3
+            if score >= 0.55 and score > best_score:
+                best_score = score
+                best = set(doc_ids)
+            elif score >= 0.55 and abs(score - best_score) < 0.01:
+                best.update(doc_ids)
+
+        return best
 
     def _filter_chunks(self, chunks: Sequence[Document], candidate_doc_ids: Set[str]) -> List[Document]:
         return [
@@ -1247,11 +1367,17 @@ class LegalHybridRAGPipeline:
             return self._default_absent_answer("free_text")
         return cleaned or self._default_absent_answer("free_text")
 
+    _MONTH_NAMES_RE = (
+        r"January|February|March|April|May|June|July|August"
+        r"|September|October|November|December"
+    )
+
     def _parse_non_iso_date(self, text: str) -> Optional[str]:
         from datetime import datetime
 
-        t = text.strip().title()
-        for fmt in [
+        cleaned = re.sub(r"(\d+)(?:st|nd|rd|th)\b", r"\1", text.strip())
+        t = " ".join(cleaned.split()).title()
+        for fmt in (
             "%B %d, %Y",
             "%b %d, %Y",
             "%d %B %Y",
@@ -1260,15 +1386,31 @@ class LegalHybridRAGPipeline:
             "%b %d %Y",
             "%d/%m/%Y",
             "%d-%m-%Y",
-        ]:
+            "%d.%m.%Y",
+            "%Y/%m/%d",
+        ):
             try:
                 return datetime.strptime(t, fmt).strftime("%Y-%m-%d")
             except ValueError:
                 continue
-        match = re.search(r"(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{4})", t, re.IGNORECASE)
-        if match:
+        day_month_year = re.search(
+            rf"(\d{{1,2}})\s+({self._MONTH_NAMES_RE})\s+(\d{{4}})", t, re.IGNORECASE,
+        )
+        if day_month_year:
             try:
-                return datetime.strptime(f"{match.group(1)} {match.group(2)} {match.group(3)}", "%d %B %Y").strftime("%Y-%m-%d")
+                return datetime.strptime(
+                    f"{day_month_year.group(1)} {day_month_year.group(2)} {day_month_year.group(3)}", "%d %B %Y",
+                ).strftime("%Y-%m-%d")
+            except ValueError:
+                pass
+        month_day_year = re.search(
+            rf"({self._MONTH_NAMES_RE})\s+(\d{{1,2}}),?\s+(\d{{4}})", t, re.IGNORECASE,
+        )
+        if month_day_year:
+            try:
+                return datetime.strptime(
+                    f"{month_day_year.group(2)} {month_day_year.group(1)} {month_day_year.group(3)}", "%d %B %Y",
+                ).strftime("%Y-%m-%d")
             except ValueError:
                 pass
         return None

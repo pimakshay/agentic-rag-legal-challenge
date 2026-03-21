@@ -19,6 +19,15 @@ _ADVERSARIAL_PATTERNS = (
     "plea bargain",
     "parole hearing",
     "parole hearings",
+    "fifth amendment",
+    "grand jury",
+    "district attorney",
+    "bail bond",
+    "probation officer",
+    "criminal sentencing",
+    "habeas corpus",
+    "supreme court of the united states",
+    "federal court",
 )
 def detect_free_text_subtype(question_text: str, supporting_docs: Sequence[Document]) -> str:
     """Classify free-text questions for prompt specialization."""
@@ -41,7 +50,9 @@ def detect_free_text_subtype(question_text: str, supporting_docs: Sequence[Docum
     if multi_part_markers:
         return FREE_TEXT_SUBTYPE_MULTI_PART
 
-    if "maximum fine" in lowered:
+    if any(phrase in lowered for phrase in (
+        "maximum fine", "maximum penalty", "maximum sentence", "maximum punishment",
+    )):
         return FREE_TEXT_SUBTYPE_ABSENCE_OR_PARTIAL
 
     if "any information about" in lowered or any(pattern in lowered for pattern in _ADVERSARIAL_PATTERNS):
@@ -120,9 +131,29 @@ def _context_text(supporting_docs: Sequence[Document]) -> str:
     return " ".join(doc.page_content.lower() for doc in supporting_docs if doc.page_content).strip()
 
 
+_CONTEXT_CHECK_FILLER = frozenset({
+    "the", "and", "for", "are", "but", "not", "you", "all", "can", "had",
+    "was", "one", "our", "has", "how", "who", "what", "which", "when",
+    "where", "why", "does", "did", "this", "that", "with", "from", "have",
+    "they", "been", "will", "each", "make", "than", "them", "into",
+    "case", "document", "page", "based", "according", "under", "about",
+    "any", "information", "provide", "there", "also", "other", "between",
+    "law", "legal", "difc", "upon",
+})
+
+
 def _looks_context_limited(question_text: str, context_text: str) -> bool:
     if not context_text:
         return True
+    if len(context_text.strip()) < 100:
+        return True
     if "retention periods" in question_text:
         return question_text.count("article") > context_text.count("article")
-    return False
+
+    question_words = {
+        w for w in re.findall(r"[a-z]{3,}", question_text) if w not in _CONTEXT_CHECK_FILLER
+    }
+    if len(question_words) < 2:
+        return False
+    found = sum(1 for w in question_words if w in context_text)
+    return found / len(question_words) < 0.25
