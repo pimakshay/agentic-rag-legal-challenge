@@ -28,6 +28,14 @@ _ADVERSARIAL_PATTERNS = (
     "habeas corpus",
     "supreme court of the united states",
     "federal court",
+    "solar system",
+    "largest planet",
+    "speed of light",
+    "vacuum",
+    "smallest country",
+    "square root",
+    "photosynthesis",
+    "plants absorb",
 )
 def detect_free_text_subtype(question_text: str, supporting_docs: Sequence[Document]) -> str:
     """Classify free-text questions for prompt specialization."""

@@ -291,6 +291,24 @@ class LegalHybridRAGPipeline:
                 raw_response="",
             )
 
+        guarded_absent_answer = self._maybe_force_absent_answer(
+            question_text,
+            answer_type,
+            route,
+            resolution,
+            supporting_docs,
+        )
+        if guarded_absent_answer is not None:
+            if telemetry_timer:
+                telemetry_timer.mark_token()
+            return AnswerResult(
+                answer=guarded_absent_answer,
+                supporting_docs=[],
+                retrieval_refs=[],
+                debug_metadata={"route": asdict(route), "reason": "negative_question_guard"},
+                raw_response="" if guarded_absent_answer is None else str(guarded_absent_answer),
+            )
+
         if self.llm is None:
             raise ValueError("llm must be provided to answer questions")
 
@@ -1420,6 +1438,179 @@ class LegalHybridRAGPipeline:
         if answer_type.lower() == "free_text":
             return "There is no information on this question in the provided documents."
         return None
+
+    _NON_LEGAL_KNOWLEDGE_PATTERNS = (
+        "solar system",
+        "largest planet",
+        "speed of light",
+        "in a vacuum",
+        "smallest country",
+        "country in the world",
+        "square root",
+        "photosynthesis",
+        "plants absorb",
+    )
+
+    _LEGAL_OR_CORPUS_CUE_PATTERNS = (
+        "difc",
+        "law",
+        "laws",
+        "regulation",
+        "regulations",
+        "rule",
+        "rules",
+        "court",
+        "courts",
+        "tribunal",
+        "article",
+        "section",
+        "chapter",
+        "part ",
+        "parts",
+        "claimant",
+        "defendant",
+        "judge",
+        "judgment",
+        "order",
+        "citation",
+        "defined term",
+        "register",
+        "proceedings",
+        "annex",
+        "schedule",
+    )
+
+    _QUESTION_SUPPORT_STOPWORDS = frozenset(
+        {
+            "the",
+            "and",
+            "for",
+            "are",
+            "but",
+            "not",
+            "you",
+            "all",
+            "can",
+            "had",
+            "was",
+            "one",
+            "our",
+            "has",
+            "how",
+            "who",
+            "what",
+            "which",
+            "when",
+            "where",
+            "why",
+            "does",
+            "did",
+            "this",
+            "that",
+            "with",
+            "from",
+            "have",
+            "they",
+            "been",
+            "will",
+            "each",
+            "make",
+            "than",
+            "them",
+            "into",
+            "case",
+            "document",
+            "page",
+            "pages",
+            "based",
+            "according",
+            "under",
+            "about",
+            "any",
+            "information",
+            "provide",
+            "provided",
+            "there",
+            "also",
+            "other",
+            "between",
+            "these",
+            "those",
+            "their",
+            "question",
+        }
+    )
+
+    def _maybe_force_absent_answer(
+        self,
+        question_text: str,
+        answer_type: str,
+        route: RoutePlan,
+        resolution: ResolutionContext,
+        supporting_docs: Sequence[Document],
+    ) -> Any:
+        if resolution.confident_match:
+            return None
+        if route.case_ids or route.neutral_citations or route.article_refs or route.law_numbers or route.law_title_candidates:
+            return None
+        if route.page_specific_mode or route.comparison_mode:
+            return None
+        if not self._looks_like_explicit_negative_question(question_text, route):
+            return None
+        if self._retrieved_context_supports_question(question_text, supporting_docs):
+            return None
+        return self._default_absent_answer(answer_type)
+
+    def _looks_like_explicit_negative_question(self, question_text: str, route: RoutePlan) -> bool:
+        lowered = " ".join((question_text or "").lower().split())
+        if not lowered:
+            return False
+        if self._question_has_legal_or_corpus_cues(question_text, route):
+            return False
+        return any(pattern in lowered for pattern in self._NON_LEGAL_KNOWLEDGE_PATTERNS)
+
+    def _question_has_legal_or_corpus_cues(self, question_text: str, route: RoutePlan) -> bool:
+        if route.case_ids or route.neutral_citations or route.article_refs or route.law_numbers or route.law_title_candidates:
+            return True
+        lowered = " ".join((question_text or "").lower().split())
+        return any(pattern in lowered for pattern in self._LEGAL_OR_CORPUS_CUE_PATTERNS)
+
+    def _retrieved_context_supports_question(
+        self,
+        question_text: str,
+        supporting_docs: Sequence[Document],
+    ) -> bool:
+        if not supporting_docs:
+            return False
+
+        context_parts: List[str] = []
+        for doc in list(supporting_docs)[:4]:
+            metadata = doc.metadata or {}
+            context_parts.extend(
+                [
+                    str(metadata.get("title") or ""),
+                    str(metadata.get("heading") or ""),
+                    str(metadata.get("claim_number") or ""),
+                    doc.page_content[:1600],
+                ]
+            )
+        combined_context = " ".join(context_parts).lower()
+        if len(combined_context.strip()) < 40:
+            return False
+
+        question_terms = [
+            term
+            for term in re.findall(r"[a-z]{3,}", question_text.lower())
+            if term not in self._QUESTION_SUPPORT_STOPWORDS
+        ]
+        if not question_terms:
+            return False
+
+        hits = sum(1 for term in question_terms if term in combined_context)
+        coverage = hits / len(question_terms)
+        if hits >= 2 and coverage >= 0.34:
+            return True
+        return coverage >= 0.5
 
     def _clean_free_text_answer(self, answer: str) -> str:
         """Strip filler prefixes to improve clarity."""

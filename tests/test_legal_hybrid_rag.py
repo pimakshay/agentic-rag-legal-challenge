@@ -16,6 +16,8 @@ from retrieval import (
     LegalIngestChunker,
     LegalQuestionRouter,
 )
+from retrieval.free_text_prompts import detect_free_text_subtype
+from retrieval.legal_hybrid_rag_pipeline import ResolutionContext
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -358,6 +360,68 @@ class LegalHybridRAGTests(unittest.TestCase):
                 resolution,
             )
         )
+
+    def test_negative_question_guard_abstains_for_explicit_world_knowledge_queries(self):
+        pipeline = LegalHybridRAGPipeline(llm=object(), embedding_model=object())
+        route = pipeline.router.route(
+            "What is the largest planet in the Solar System?",
+            "free_text",
+        )
+        supporting_docs = [
+            Document(
+                page_content="The DIFC Courts heard the matter and issued the order on 1 January 2026.",
+                metadata={"doc_id": "doc-1", "title": "Court Order"},
+            )
+        ]
+        guarded = pipeline._maybe_force_absent_answer(
+            "What is the largest planet in the Solar System?",
+            "free_text",
+            route,
+            ResolutionContext(candidate_doc_ids={"doc-1"}, confident_match=False),
+            supporting_docs,
+        )
+        self.assertEqual(
+            guarded,
+            "There is no information on this question in the provided documents.",
+        )
+
+    def test_negative_question_guard_does_not_block_legal_deictic_questions(self):
+        pipeline = LegalHybridRAGPipeline(llm=object(), embedding_model=object())
+        route = pipeline.router.route(
+            "What is the citation for these Regulations?",
+            "free_text",
+        )
+        supporting_docs = [
+            Document(
+                page_content="These Regulations may be cited as the Family Arrangements Regulations 2023.",
+                metadata={
+                    "doc_id": "doc-1",
+                    "title": "Family Arrangements Regulations 2023",
+                    "heading": "Citation",
+                },
+            )
+        ]
+        guarded = pipeline._maybe_force_absent_answer(
+            "What is the citation for these Regulations?",
+            "free_text",
+            route,
+            ResolutionContext(candidate_doc_ids={"doc-1"}, confident_match=False),
+            supporting_docs,
+        )
+        self.assertIsNone(guarded)
+
+    def test_free_text_prompt_marks_world_knowledge_questions_as_absence_or_partial(self):
+        docs = [
+            Document(
+                page_content="The document concerns DIFC court procedure only.",
+                metadata={"doc_id": "doc-1"},
+            )
+        ]
+        subtype = detect_free_text_subtype(
+            "What gas do plants absorb during photosynthesis?",
+            docs,
+        )
+        self.assertEqual(subtype, "absence_or_partial")
 
 
 if __name__ == "__main__":
