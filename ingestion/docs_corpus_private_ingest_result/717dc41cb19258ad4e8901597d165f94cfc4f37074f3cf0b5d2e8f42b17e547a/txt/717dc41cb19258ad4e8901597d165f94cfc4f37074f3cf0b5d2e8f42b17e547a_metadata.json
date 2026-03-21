@@ -1,22 +1,30 @@
 {
     "doc_type": "case",
-    "case_name": "",
-    "case_name_normalized": "",
+    "case_name": "(1) Trafigura PTE LTD (2) Trafigura India PTV LTD v (1) Mr Prateek Gupta (2) Mrs Ginni Gupta",
+    "case_name_normalized": "1 trafigura pte ltd 2 trafigura india ptv ltd v 1 mr prateek gupta 2 mrs ginni gupta",
     "neutral_citation": "[2025] DIFC CA 001",
     "neutral_citation_normalized": "2025 difc ca 001",
     "claim_number": "CA 001/2025",
     "claim_number_normalized": "ca 001 2025",
-    "court": "",
-    "court_division": "",
-    "hearing_date": "",
-    "judgment_date": "",
-    "judgment_release_date": "",
-    "claimant": "",
-    "defendants": [],
-    "claimant_counsel": [],
-    "defendant_counsel": [],
-    "claimant_law_firm": "",
-    "defendant_law_firm": "",
+    "court": "THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
+    "court_division": "COURT OF APPEAL",
+    "hearing_date": "2 September 2025",
+    "judgment_date": "22 September 2025",
+    "judgment_release_date": "22 September 2025",
+    "claimant": "(1) TRAFIGURA PTE LTD (2) TRAFIGURA INDIA PTV LTD",
+    "defendants": [
+        "(1) Mr PRATEEK GUPTA",
+        "(2) MRS GINNI GUPTA"
+    ],
+    "claimant_counsel": [
+        "Mr Tom Montagu Smith KC"
+    ],
+    "defendant_counsel": [
+        "Mr Alistair Webster KC",
+        "Mr Faisal Osman"
+    ],
+    "claimant_law_firm": "Stephenson Harwood Midde East",
+    "defendant_law_firm": "Omar Khalifa Advocates",
     "title_page_number": 1,
     "last_page_number": 27,
     "page_count": 27

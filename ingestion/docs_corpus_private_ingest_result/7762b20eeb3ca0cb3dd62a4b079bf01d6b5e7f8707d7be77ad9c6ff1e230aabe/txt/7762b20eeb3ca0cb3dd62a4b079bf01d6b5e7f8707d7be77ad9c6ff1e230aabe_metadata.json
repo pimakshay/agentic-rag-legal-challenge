@@ -1,20 +1,28 @@
 {
     "doc_type": "case",
-    "case_name": "",
-    "case_name_normalized": "",
+    "case_name": "(1) Korek Telecom Company LLC (2) Korek International (Management) Limited (3) Sirwan Saber Mustafa v (1) Iraq Telecom Limited for itself and in the name and on behalf of International Holdings Limited (2) International Holdings Limited",
+    "case_name_normalized": "1 korek telecom company llc 2 korek international management limited 3 sirwan saber mustafa v 1 iraq telecom limited for itself and in the name and on behalf of international holdings limited 2 international holdings limited",
     "neutral_citation": "[2024] DIFC CA 016",
     "neutral_citation_normalized": "2024 difc ca 016",
     "claim_number": "CA 016/2024",
     "claim_number_normalized": "ca 016 2024",
-    "court": "",
-    "court_division": "",
-    "hearing_date": "",
-    "judgment_date": "",
-    "judgment_release_date": "",
-    "claimant": "",
-    "defendants": [],
-    "claimant_counsel": [],
-    "defendant_counsel": [],
+    "court": "THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
+    "court_division": "IN THE COURT OF APPEAL",
+    "hearing_date": "1 May 2025",
+    "judgment_date": "16 June 2025",
+    "judgment_release_date": "16 June 2025",
+    "claimant": "(1) KOREK TELECOM COMPANY LLC (2) KOREK INTERNATIONAL (MANAGEMENT) LIMITED (3) SIRWAN SABER MUSTAFA",
+    "defendants": [
+        "(1) IRAQ TELECOM LIMITED FOR ITSELF AND IN THE NAME AND ON BEHALF OF INTERNATIONAL HOLDINGS LIMITED",
+        "(2) INTERNATIONAL HOLDINGS LIMITED"
+    ],
+    "claimant_counsel": [
+        "Ms Zoe O'Sullivan KC"
+    ],
+    "defendant_counsel": [
+        "Mr Tom Montagu-Smith KC",
+        "Ms Miriam Schmelzer"
+    ],
     "claimant_law_firm": "",
     "defendant_law_firm": "",
     "title_page_number": 1,

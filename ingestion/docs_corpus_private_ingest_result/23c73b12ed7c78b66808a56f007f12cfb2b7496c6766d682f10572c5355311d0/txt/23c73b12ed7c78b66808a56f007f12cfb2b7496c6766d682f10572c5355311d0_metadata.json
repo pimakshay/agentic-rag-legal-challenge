@@ -1,22 +1,33 @@
 {
     "doc_type": "case",
-    "case_name": "",
-    "case_name_normalized": "",
+    "case_name": "(1) Gate Mena DMCC (Formerly Known as Huobi OTC DMCC) (2) Huobi Mena FZE v (1) Tabarak Investment Capital Limited (2) Christian Thurner",
+    "case_name_normalized": "1 gate mena dmcc formerly known as huobi otc dmcc 2 huobi mena fze v 1 tabarak investment capital limited 2 christian thurner",
     "neutral_citation": "[2023] DIFC CA 002",
     "neutral_citation_normalized": "2023 difc ca 002",
     "claim_number": "CA 002/2023",
     "claim_number_normalized": "ca 002 2023",
-    "court": "",
-    "court_division": "",
-    "hearing_date": "",
-    "judgment_date": "",
-    "judgment_release_date": "",
-    "claimant": "",
-    "defendants": [],
-    "claimant_counsel": [],
-    "defendant_counsel": [],
-    "claimant_law_firm": "",
-    "defendant_law_firm": "",
+    "court": "THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
+    "court_division": "IN THE COURT OF APPEAL",
+    "hearing_date": "15 – 17 January 2024",
+    "judgment_date": "13 June 2024",
+    "judgment_release_date": "13 June 2024",
+    "claimant": "(1) GATE MENA DMCC (FORMERLY KNOWN AS HUOBI OTC DMCC) (2) HUOBI MENA FZE",
+    "defendants": [
+        "(1) TABARAK INVESTMENT CAPITAL LIMITED",
+        "(2) CHRISTIAN THURNER"
+    ],
+    "claimant_counsel": [
+        "Andrew Spink KC",
+        "Justina Stewart"
+    ],
+    "defendant_counsel": [
+        "Richard Hill KC",
+        "Bushra Ahmed",
+        "Salah Mattoo",
+        "Brian Kotick"
+    ],
+    "claimant_law_firm": "Charles Russell Speechlys LLP",
+    "defendant_law_firm": "KBH Ltd; M.B. Kemp (ME) LLP",
     "title_page_number": 1,
     "last_page_number": 69,
     "page_count": 69

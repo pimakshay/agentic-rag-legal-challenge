@@ -1,22 +1,35 @@
 {
     "doc_type": "case",
-    "case_name": "",
-    "case_name_normalized": "",
+    "case_name": "Lals Holdings Limited (and The Companies Identified In Schedules 1 To 3 Of The Claim Form) v (1) Emirates Insurance Company (PSC) (2) Siaci Insurance Brokers LLC",
+    "case_name_normalized": "lals holdings limited and the companies identified in schedules 1 to 3 of the claim form v 1 emirates insurance company psc 2 siaci insurance brokers llc",
     "neutral_citation": "[2024] DIFC CA 002",
     "neutral_citation_normalized": "2024 difc ca 002",
     "claim_number": "CA 002/2024",
     "claim_number_normalized": "ca 002 2024",
-    "court": "",
-    "court_division": "",
-    "hearing_date": "",
-    "judgment_date": "",
-    "judgment_release_date": "",
-    "claimant": "",
-    "defendants": [],
-    "claimant_counsel": [],
-    "defendant_counsel": [],
-    "claimant_law_firm": "",
-    "defendant_law_firm": "",
+    "court": "THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
+    "court_division": "IN THE COURT OF APPEAL",
+    "hearing_date": "3 June 2024",
+    "judgment_date": "2 July 2024",
+    "judgment_release_date": "3 July 2024",
+    "claimant": "LALS HOLDINGS LIMITED (And the Companies identified in Schedules 1 to 3 of the Claim Form)",
+    "defendants": [
+        "EMIRATES INSURANCE COMPANY (PSC)",
+        "SIACI INSURANCE BROKERS LLC"
+    ],
+    "claimant_counsel": [
+        "Mr Charles Dougherty KC",
+        "Mr Timothy Killen",
+        "Mr David Walsh",
+        "Mr Neil Hext KC",
+        "Mr Lucas Fear-Segal"
+    ],
+    "defendant_counsel": [
+        "Mr David Walsh",
+        "Mr Neil Hext KC",
+        "Mr Lucas Fear-Segal"
+    ],
+    "claimant_law_firm": "Al Tamimi and Company",
+    "defendant_law_firm": "Holman Fenwick Willan Middle East LLP; Kennedys Dubai LLP",
     "title_page_number": 1,
     "last_page_number": 33,
     "page_count": 33
