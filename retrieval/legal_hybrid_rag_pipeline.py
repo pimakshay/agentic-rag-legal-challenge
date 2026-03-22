@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import asdict, dataclass, field
+import json
 import logging
 import math
 import re
@@ -597,7 +598,9 @@ class LegalHybridRAGPipeline:
         evidences = [e for e in getattr(record, attr_name, []) if e.confidence == "high"]
         if not evidences:
             return None
-        names = list(dict.fromkeys(e.value for e in evidences))
+        names = self._parse_names_answer("\n".join(e.value for e in evidences))
+        if not names:
+            return None
         return names, self._build_evidence_docs(evidences)
 
     def _build_metadata_indexes(self, source_documents: Sequence[Document]) -> None:
@@ -1258,7 +1261,10 @@ class LegalHybridRAGPipeline:
                 "Preserve citation text such as 'No. 4 of 2007' when present."
             ) + strict
         if normalized == "names":
-            return "Return only a semicolon-separated list of exact names from the context (e.g. Name A; Name B)." + strict
+            return (
+                'Return only a JSON array of exact names from the context, with each distinct name as its own string '
+                'element and no numbering (e.g. ["Name A", "Name B"]).'
+            ) + strict
         if normalized == "date":
             return "Return only the date in YYYY-MM-DD format (e.g. 2026-02-02)." + strict
         return "Return a concise answer grounded in the context, max 260 characters."
@@ -1337,14 +1343,78 @@ class LegalHybridRAGPipeline:
             if m:
                 text = text[m.end() :].strip()
                 break
+        normalized_answer_type = (answer_type or "").lower()
+        if normalized_answer_type == "names":
+            first_line = text.split("\n")[0].strip()
+            if first_line.startswith("[") and "]" in first_line:
+                return first_line
         text = re.sub(r"^[\[\]`\"]+|[\[\]`\"]+$", "", text).strip()
         first_line = text.split("\n")[0].strip()
-        if (answer_type or "").lower() in {"name", "names"} or self._LEGAL_NAME_PRESERVE_RE.search(first_line):
+        if normalized_answer_type in {"name", "names"} or self._LEGAL_NAME_PRESERVE_RE.search(first_line):
             out = first_line
             return out.rstrip(".,;:") if out else out
         first_sentence = re.split(r"[.!?]\s+", first_line)[0].strip()
         out = (first_sentence or first_line or text).strip()
         return out.rstrip(".,;:") if out else out
+
+    def _parse_names_answer(self, raw: str) -> Optional[List[str]]:
+        text = (raw or "").strip()
+        if not text:
+            return None
+
+        json_names = self._parse_names_json_array(text)
+        if json_names is not None:
+            return json_names
+
+        numbered_names = self._extract_numbered_names(text)
+        if numbered_names:
+            return self._normalize_name_items(numbered_names)
+
+        normalized_text = re.sub(r"\s+and\s+", ";", text, flags=re.IGNORECASE)
+        split_names = [
+            item
+            for item in re.split(r";|\n", normalized_text)
+            if item.strip()
+        ]
+        return self._normalize_name_items(split_names)
+
+    def _parse_names_json_array(self, text: str) -> Optional[List[str]]:
+        if not text.startswith("["):
+            return None
+        try:
+            payload = json.loads(text)
+        except json.JSONDecodeError:
+            return None
+        if not isinstance(payload, list):
+            return None
+        return self._normalize_name_items(str(item) for item in payload if item is not None)
+
+    def _extract_numbered_names(self, text: str) -> List[str]:
+        pattern = re.compile(
+            r"(?P<marker>\(\d+\)|\d+[.)])\s*(?P<value>.*?)(?=(?:\s+(?:\(\d+\)|\d+[.)])\s*)|$)",
+            re.DOTALL,
+        )
+        matches = [match.group("value").strip() for match in pattern.finditer(text) if match.group("value").strip()]
+        return matches
+
+    def _normalize_name_items(self, items: Sequence[str]) -> Optional[List[str]]:
+        normalized: List[str] = []
+        seen: Set[str] = set()
+        for item in items:
+            cleaned = self._normalize_name_item(item)
+            if not cleaned or cleaned in seen:
+                continue
+            seen.add(cleaned)
+            normalized.append(cleaned)
+        return normalized or None
+
+    def _normalize_name_item(self, item: str) -> str:
+        cleaned = " ".join((item or "").split())
+        cleaned = re.sub(r"^(?:\(\d+\)|\d+[.)])\s*", "", cleaned)
+        cleaned = cleaned.strip()
+        cleaned = re.sub(r'^[\'"`]+|[\'"`]+$', "", cleaned)
+        cleaned = cleaned.rstrip(",;:")
+        return cleaned.strip()
 
     def _extract_free_text_payload(self, raw: str) -> Tuple[str, List[int]]:
         parsed_answer = raw
@@ -1420,15 +1490,7 @@ class LegalHybridRAGPipeline:
             number_text = numbers[0]
             return float(number_text) if "." in number_text else int(number_text)
         if normalized == "names":
-            if not text:
-                return None
-            normalized_text = re.sub(r"\s+and\s+", ";", text, flags=re.IGNORECASE)
-            names = [
-                " ".join(item.strip().split()).strip(".,;:\"'")
-                for item in re.split(r";|,|\n", normalized_text)
-                if item.strip()
-            ]
-            return names or None
+            return self._parse_names_answer(text)
         if normalized == "date":
             iso_match = re.search(r"\b\d{4}-\d{2}-\d{2}\b", text)
             if iso_match:

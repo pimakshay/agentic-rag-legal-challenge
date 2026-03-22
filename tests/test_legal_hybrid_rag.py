@@ -117,6 +117,36 @@ class LegalHybridRAGTests(unittest.TestCase):
         self.assertEqual(pipeline._parse_answer_by_type("Alice; Bob", "names"), ["Alice", "Bob"])
         self.assertIsNone(pipeline._parse_answer_by_type("null", "number"))
 
+    def test_names_parser_handles_numbered_concatenation(self):
+        pipeline = LegalHybridRAGPipeline(llm=object(), embedding_model=object())
+        self.assertEqual(
+            pipeline._parse_answer_by_type(
+                "(1) KPMG LOWER GULF LIMITED (2) KPMG (a firm) (3) KPMG LLP",
+                "names",
+            ),
+            ["KPMG LOWER GULF LIMITED", "KPMG (a firm)", "KPMG LLP"],
+        )
+
+    def test_names_parser_handles_json_array_string(self):
+        pipeline = LegalHybridRAGPipeline(llm=object(), embedding_model=object())
+        self.assertEqual(
+            pipeline._parse_answer_by_type(
+                '["KPMG LOWER GULF LIMITED", "KPMG", "KPMG LLP"]',
+                "names",
+            ),
+            ["KPMG LOWER GULF LIMITED", "KPMG", "KPMG LLP"],
+        )
+
+    def test_names_candidate_preserves_json_array(self):
+        pipeline = LegalHybridRAGPipeline(llm=object(), embedding_model=object())
+        self.assertEqual(
+            pipeline._extract_deterministic_candidate(
+                'Answer: ["KPMG LOWER GULF LIMITED", "KPMG", "KPMG LLP"]',
+                "names",
+            ),
+            '["KPMG LOWER GULF LIMITED", "KPMG", "KPMG LLP"]',
+        )
+
     def test_name_candidate_preserves_law_citations(self):
         pipeline = LegalHybridRAGPipeline(llm=object(), embedding_model=object())
         candidate = pipeline._extract_deterministic_candidate(
@@ -188,6 +218,29 @@ class LegalHybridRAGTests(unittest.TestCase):
             }
         )
         self.assertEqual(result.answer, "2026-02-02")
+
+    def test_names_metadata_bypass_strips_numbering(self):
+        pipeline = LegalHybridRAGPipeline(
+            llm=object(),
+            embedding_model=object(),
+            ingest_root=str(INGEST_ROOT),
+            docs_root=str(DOCS_ROOT),
+        )
+        pipeline.source_documents = self.documents
+        pipeline._build_metadata_indexes(self.documents)
+
+        result = pipeline.answer_question(
+            {
+                "question": "Who are the defendants in case CFI 057/2025?",
+                "answer_type": "names",
+            }
+        )
+
+        self.assertEqual(
+            result.answer,
+            ["UNION PROPERTIES P.J.S.C.", "UPP CAPITAL INVESTMENT LLC"],
+        )
+        self.assertEqual(result.debug_metadata["reason"], "metadata_bypass")
         self.assertEqual(result.debug_metadata["reason"], "metadata_bypass")
 
     def test_issue_date_comparison_regressions_use_metadata_bypass(self):
