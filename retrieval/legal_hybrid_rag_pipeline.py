@@ -17,7 +17,11 @@ from retrieval.chunkers.legal_chunk_types import (
     decode_page_numbers,
     sanitize_metadata_for_vectorstore,
 )
-from retrieval.free_text_prompts import build_free_text_prompt, detect_free_text_subtype
+from retrieval.free_text_prompts import (
+    build_free_text_prompt,
+    build_free_text_retry_prompt,
+    detect_free_text_subtype,
+)
 from retrieval.legal_question_router import LegalQuestionRouter, RoutePlan
 from retrieval.loaders import IngestedCorpusLoader
 from retrieval.retrievers.base import BaseRAGRetriever
@@ -329,22 +333,25 @@ class LegalHybridRAGPipeline:
         parsed_answer = raw_response
 
         if answer_type.lower() != "free_text":
-            parsed_answer = self._extract_deterministic_candidate(raw_response)
-        elif answer_type.lower() == "free_text":
-            ans_match = re.search(r"Answer:\s*(.*?)(?:\nIndices:|$)", raw_response, re.IGNORECASE | re.DOTALL)
-            idx_match = re.search(r"Indices:\s*(.*)", raw_response, re.IGNORECASE | re.DOTALL)
-            if ans_match:
-                parsed_answer = ans_match.group(1).strip()
-            if idx_match:
-                idx_str = idx_match.group(1).strip()
-                for token in re.split(r"[^\d]+", idx_str):
-                    if token.isdigit():
-                        used_indices.append(int(token))
-                        
+            parsed_answer = self._extract_deterministic_candidate(raw_response, answer_type)
+        else:
+            parsed_answer, used_indices = self._extract_free_text_payload(raw_response)
+
         answer = self._parse_answer_by_type(parsed_answer, answer_type)
+        if answer_type.lower() == "free_text" and isinstance(answer, str):
+            answer = self._clean_free_text_answer(answer).strip()
+            if answer != self._default_absent_answer("free_text") and len(answer) > 280:
+                answer, used_indices, raw_response = self._retry_overlong_free_text_answer(
+                    question_text=question_text,
+                    supporting_docs=supporting_docs,
+                    answer=answer,
+                    used_indices=used_indices,
+                    raw_response=raw_response,
+                    timing_out=timing_breakdown,
+                )
 
         is_absent = answer is None or (
-            answer_type == "free_text" and answer == self._default_absent_answer("free_text")
+            answer_type.lower() == "free_text" and answer == self._default_absent_answer("free_text")
         )
 
         if is_absent:
@@ -372,9 +379,6 @@ class LegalHybridRAGPipeline:
                 RetrievalRef(doc_id=str(doc.metadata["doc_id"]), page_numbers=self._chunk_page_numbers(doc))
                 for doc in filtered_docs
             )
-
-            if answer_type == "free_text" and isinstance(answer, str):
-                answer = self._clean_free_text_answer(answer).strip()
 
             if answer is None:
                 retrieval_refs = []
@@ -1249,7 +1253,10 @@ class LegalHybridRAGPipeline:
         if normalized == "number":
             return "Return only a single number (integer or decimal, e.g. 1000 or 1000.0)." + strict
         if normalized == "name":
-            return "Return only the exact name or entity from the context." + strict
+            return (
+                "Return only the exact name, entity, or full cited title from the context. "
+                "Preserve citation text such as 'No. 4 of 2007' when present."
+            ) + strict
         if normalized == "names":
             return "Return only a semicolon-separated list of exact names from the context (e.g. Name A; Name B)." + strict
         if normalized == "date":
@@ -1309,7 +1316,12 @@ class LegalHybridRAGPipeline:
                 return str(content).strip()
             return str(response).strip()
 
-    def _extract_deterministic_candidate(self, raw: str) -> str:
+    _LEGAL_NAME_PRESERVE_RE = re.compile(
+        r"\b(?:difc\s+law\s+no\.?\s+\d+\s+of\s+\d{4}|law\s+no\.?\s+\d+\s+of\s+\d{4}|regulations?\s+\d{4}|rules?\s+\d{4})\b",
+        re.IGNORECASE,
+    )
+
+    def _extract_deterministic_candidate(self, raw: str, answer_type: Optional[str] = None) -> str:
         """Extract the answer substring for deterministic types: strip prefixes, take first line."""
         if not (raw or "").strip():
             return ""
@@ -1320,16 +1332,61 @@ class LegalHybridRAGPipeline:
             r"Answer is\s*",
             r"The value is\s*",
             r"Result:\s*",
-        ):
+            ):
             m = re.search(prefix, text, re.IGNORECASE)
             if m:
                 text = text[m.end() :].strip()
                 break
         text = re.sub(r"^[\[\]`\"]+|[\[\]`\"]+$", "", text).strip()
         first_line = text.split("\n")[0].strip()
+        if (answer_type or "").lower() in {"name", "names"} or self._LEGAL_NAME_PRESERVE_RE.search(first_line):
+            out = first_line
+            return out.rstrip(".,;:") if out else out
         first_sentence = re.split(r"[.!?]\s+", first_line)[0].strip()
         out = (first_sentence or first_line or text).strip()
         return out.rstrip(".,;:") if out else out
+
+    def _extract_free_text_payload(self, raw: str) -> Tuple[str, List[int]]:
+        parsed_answer = raw
+        used_indices: List[int] = []
+        ans_match = re.search(r"Answer:\s*(.*?)(?:\nIndices:|$)", raw, re.IGNORECASE | re.DOTALL)
+        idx_match = re.search(r"Indices:\s*(.*)", raw, re.IGNORECASE | re.DOTALL)
+        if ans_match:
+            parsed_answer = ans_match.group(1).strip()
+        if idx_match:
+            idx_str = idx_match.group(1).strip()
+            for token in re.split(r"[^\d]+", idx_str):
+                if token.isdigit():
+                    used_indices.append(int(token))
+        return parsed_answer, used_indices
+
+    def _retry_overlong_free_text_answer(
+        self,
+        question_text: str,
+        supporting_docs: Sequence[Document],
+        answer: str,
+        used_indices: List[int],
+        raw_response: str,
+        timing_out: Optional[Dict[str, float]] = None,
+    ) -> Tuple[str, List[int], str]:
+        import time as _time
+
+        retry_prompt = build_free_text_retry_prompt(
+            question_text,
+            supporting_docs,
+            answer,
+            self._default_absent_answer("free_text"),
+        )
+        t_start = _time.perf_counter()
+        retry_raw = self._invoke_llm(retry_prompt, telemetry_timer=None, timing_out=None)
+        if timing_out is not None:
+            timing_out["llm_retry_ms"] = (_time.perf_counter() - t_start) * 1000
+        retry_parsed, retry_indices = self._extract_free_text_payload(retry_raw)
+        retry_answer = self._parse_answer_by_type(retry_parsed, "free_text")
+        if not isinstance(retry_answer, str) or not retry_answer.strip():
+            return answer, used_indices, raw_response
+        cleaned_retry = self._clean_free_text_answer(retry_answer).strip()
+        return cleaned_retry, (retry_indices or used_indices), retry_raw
 
     def _parse_answer_by_type(self, raw: str, answer_type: str) -> Any:
         text = (raw or "").strip()
@@ -1449,6 +1506,11 @@ class LegalHybridRAGPipeline:
         "square root",
         "photosynthesis",
         "plants absorb",
+        "first modern olympic games",
+        "olympic games held",
+        "average distance from the earth to the moon",
+        "distance from the earth to the moon",
+        "distance to the moon",
     )
 
     _LEGAL_OR_CORPUS_CUE_PATTERNS = (

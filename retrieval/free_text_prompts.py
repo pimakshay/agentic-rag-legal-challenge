@@ -36,7 +36,14 @@ _ADVERSARIAL_PATTERNS = (
     "square root",
     "photosynthesis",
     "plants absorb",
+    "first modern olympic games",
+    "olympic games held",
+    "average distance from the earth to the moon",
+    "distance from the earth to the moon",
+    "distance to the moon",
 )
+
+
 def detect_free_text_subtype(question_text: str, supporting_docs: Sequence[Document]) -> str:
     """Classify free-text questions for prompt specialization."""
 
@@ -84,7 +91,8 @@ def build_free_text_prompt(
     return (
         "You answer legal challenge questions using only the provided context.\n"
         "Start with the direct answer, not setup or meta-commentary.\n"
-        "Maximum 280 characters. One to two sentences when possible. Fully grounded and concise.\n"
+        "Never exceed 280 characters. Prefer one compact sentence and only the minimum words needed.\n"
+        "If the answer would be long, compress aggressively by removing background and restating only the dispositive fact.\n"
         "Optimize for correctness, completeness, confidence calibration, and clarity.\n"
         "Avoid phrases like 'provided excerpts', 'context lacks', or similar unless the answer is genuinely unsupported.\n"
         f"{_subtype_instruction(subtype, absence_statement)}\n\n"
@@ -92,6 +100,29 @@ def build_free_text_prompt(
         f"Context:\n{context}\n\n"
         "Respond in the following format exactly:\n"
         "Answer: <your answer>\n"
+        "Indices: <comma-separated list of [Context N] indices used, e.g. 1, 3. Empty if not found>"
+    )
+
+
+def build_free_text_retry_prompt(
+    question_text: str,
+    supporting_docs: Sequence[Document],
+    previous_answer: str,
+    absence_statement: str = FREE_TEXT_ABSENCE_STATEMENT,
+) -> str:
+    """Build a rewrite prompt for overlong free-text answers."""
+
+    context = _render_context(supporting_docs)
+    return (
+        "You are rewriting a legal challenge answer using only the provided context.\n"
+        "Keep the meaning and grounding, but rewrite it so the answer is 280 characters or fewer.\n"
+        "Use one compact sentence when possible and preserve the direct answer.\n"
+        f"If the context does not support any answer, return exactly: {absence_statement}\n\n"
+        f"Question: {question_text}\n"
+        f"Previous answer: {previous_answer}\n\n"
+        f"Context:\n{context}\n\n"
+        "Respond in the following format exactly:\n"
+        "Answer: <rewritten answer>\n"
         "Indices: <comma-separated list of [Context N] indices used, e.g. 1, 3. Empty if not found>"
     )
 
@@ -111,7 +142,8 @@ def _subtype_instruction(subtype: str, absence_statement: str) -> str:
             "Do not speculate or invent missing details."
         )
     return (
-        "Answer in one compact sentence where possible. Prefer the dispositive fact first, such as the ruling, result, entity, date, or fine amount."
+        "Answer in one compact sentence where possible. Prefer the dispositive fact first, such as the ruling, result, entity, date, or fine amount. "
+        "Avoid background clauses that are not needed to answer the question."
     )
 
 

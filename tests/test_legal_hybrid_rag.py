@@ -25,6 +25,18 @@ INGEST_ROOT = ROOT / "ingestion" / "docs_corpus_ingest_result"
 DOCS_ROOT = ROOT / "docs_corpus"
 
 
+class StaticResponsesLLM:
+    def __init__(self, responses):
+        self._responses = list(responses)
+        self.prompts = []
+
+    def invoke(self, prompt):
+        self.prompts.append(prompt)
+        if not self._responses:
+            raise AssertionError("No more stub responses available")
+        return self._responses.pop(0)
+
+
 class LegalHybridRAGTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
@@ -104,6 +116,18 @@ class LegalHybridRAGTests(unittest.TestCase):
         self.assertEqual(pipeline._parse_answer_by_type("2026-01-13", "date"), "2026-01-13")
         self.assertEqual(pipeline._parse_answer_by_type("Alice; Bob", "names"), ["Alice", "Bob"])
         self.assertIsNone(pipeline._parse_answer_by_type("null", "number"))
+
+    def test_name_candidate_preserves_law_citations(self):
+        pipeline = LegalHybridRAGPipeline(llm=object(), embedding_model=object())
+        candidate = pipeline._extract_deterministic_candidate(
+            "Answer: Data Protection Law, DIFC Law No. 5 of 2020.",
+            "name",
+        )
+        self.assertEqual(candidate, "Data Protection Law, DIFC Law No. 5 of 2020")
+        self.assertEqual(
+            pipeline._parse_answer_by_type(candidate, "name"),
+            "Data Protection Law, DIFC Law No. 5 of 2020",
+        )
 
     def test_issue_date_normalization_helper(self):
         pipeline = LegalHybridRAGPipeline(llm=object(), embedding_model=object())
@@ -385,6 +409,45 @@ class LegalHybridRAGTests(unittest.TestCase):
             "There is no information on this question in the provided documents.",
         )
 
+    def test_negative_question_guard_abstains_for_olymics_and_moon_questions(self):
+        pipeline = LegalHybridRAGPipeline(llm=object(), embedding_model=object())
+        supporting_docs = [
+            Document(
+                page_content="The DIFC Courts heard the matter and issued the order on 1 January 2026.",
+                metadata={"doc_id": "doc-1", "title": "Court Order"},
+            )
+        ]
+
+        olympics_route = pipeline.router.route(
+            "In which country was the first modern Olympic Games held?",
+            "free_text",
+        )
+        self.assertEqual(
+            pipeline._maybe_force_absent_answer(
+                "In which country was the first modern Olympic Games held?",
+                "free_text",
+                olympics_route,
+                ResolutionContext(candidate_doc_ids={"doc-1"}, confident_match=False),
+                supporting_docs,
+            ),
+            "There is no information on this question in the provided documents.",
+        )
+
+        moon_route = pipeline.router.route(
+            "What is the average distance from the Earth to the Moon?",
+            "free_text",
+        )
+        self.assertEqual(
+            pipeline._maybe_force_absent_answer(
+                "What is the average distance from the Earth to the Moon?",
+                "free_text",
+                moon_route,
+                ResolutionContext(candidate_doc_ids={"doc-1"}, confident_match=False),
+                supporting_docs,
+            ),
+            "There is no information on this question in the provided documents.",
+        )
+
     def test_negative_question_guard_does_not_block_legal_deictic_questions(self):
         pipeline = LegalHybridRAGPipeline(llm=object(), embedding_model=object())
         route = pipeline.router.route(
@@ -422,6 +485,57 @@ class LegalHybridRAGTests(unittest.TestCase):
             docs,
         )
         self.assertEqual(subtype, "absence_or_partial")
+
+    def test_free_text_prompt_marks_olympic_question_as_absence_or_partial(self):
+        docs = [
+            Document(
+                page_content="The document concerns DIFC court procedure only.",
+                metadata={"doc_id": "doc-1"},
+            )
+        ]
+        subtype = detect_free_text_subtype(
+            "In which country was the first modern Olympic Games held?",
+            docs,
+        )
+        self.assertEqual(subtype, "absence_or_partial")
+
+    def test_answer_question_retries_once_for_overlong_free_text(self):
+        initial_answer = (
+            "Answer: The citation is the Family Arrangements Regulations 2023, which set out the governing framework "
+            "for family arrangements in the DIFC and include provisions on registration, eligibility, administration, "
+            "and related procedural matters for applicants and authorities, while also establishing the terms used by "
+            "the regulations, the application process, the registration process, and multiple ongoing administrative "
+            "obligations for parties and decision-makers under the DIFC framework.\n"
+            "Indices: 1"
+        )
+        retry_answer = "Answer: The citation is the Family Arrangements Regulations 2023.\nIndices: 1"
+        llm = StaticResponsesLLM([initial_answer, retry_answer])
+        pipeline = LegalHybridRAGPipeline(llm=llm, embedding_model=object())
+        supporting_docs = [
+            Document(
+                page_content="These Regulations may be cited as the Family Arrangements Regulations 2023.",
+                metadata={
+                    "doc_id": "doc-1",
+                    "title": "Family Arrangements Regulations 2023",
+                    "heading": "Citation",
+                    "page_numbers": [1],
+                },
+            )
+        ]
+
+        def fake_retrieve(question_text, answer_type="free_text", route=None, timing_out=None):
+            return supporting_docs, route or pipeline.router.route(question_text, answer_type)
+
+        pipeline.retrieve = fake_retrieve  # type: ignore[method-assign]
+
+        result = pipeline.answer_question(
+            {"question": "What is the citation for these Regulations?", "answer_type": "free_text"}
+        )
+
+        self.assertEqual(result.answer, "The citation is the Family Arrangements Regulations 2023.")
+        self.assertLessEqual(len(result.answer), 280)
+        self.assertEqual(len(llm.prompts), 2)
+        self.assertTrue(result.retrieval_refs)
 
 
 if __name__ == "__main__":
