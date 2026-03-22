@@ -1,22 +1,31 @@
 {
     "doc_type": "case",
-    "case_name": "",
-    "case_name_normalized": "",
+    "case_name": "(1) Sandra Holding Ltd (2) Nuri Musaed Al Saleh v (1) Fawzi Musaed Al Saleh (2) Ahmed Fawzi Al Saleh (3) Yasmine Fawzi Al Saleh (4) Farah El Merabi",
+    "case_name_normalized": "1 sandra holding ltd 2 nuri musaed al saleh v 1 fawzi musaed al saleh 2 ahmed fawzi al saleh 3 yasmine fawzi al saleh 4 farah el merabi",
     "neutral_citation": "[2023] DIFC CA 003",
     "neutral_citation_normalized": "2023 difc ca 003",
     "claim_number": "CA 003/2023",
     "claim_number_normalized": "ca 003 2023",
-    "court": "",
-    "court_division": "",
-    "hearing_date": "",
-    "judgment_date": "",
-    "judgment_release_date": "",
-    "claimant": "",
-    "defendants": [],
-    "claimant_counsel": [],
-    "defendant_counsel": [],
-    "claimant_law_firm": "",
-    "defendant_law_firm": "",
+    "court": "DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
+    "court_division": "COURT OF APPEAL",
+    "hearing_date": "10 May 2023 – 11 May 2023",
+    "judgment_date": "6 September 2023",
+    "judgment_release_date": "6 September 2023",
+    "claimant": "(1) SANDRA HOLDING LTD (2) NURI MUSAED AL SALEH",
+    "defendants": [
+        "(1) FAWZI MUSAED AL SALEH",
+        "(2) AHMED FAWZI AL SALEH",
+        "(3) YASMINE FAWZI AL SALEH",
+        "(4) FARAH EL MERABI"
+    ],
+    "claimant_counsel": [
+        "Mr Harris Bor"
+    ],
+    "defendant_counsel": [
+        "Mr James Leabeater KC"
+    ],
+    "claimant_law_firm": "Messrs. Trowers and Hamlins LLP",
+    "defendant_law_firm": "Messrs. BSA Ahmad Bin Hezeem & Associates LLP",
     "title_page_number": 1,
     "last_page_number": 26,
     "page_count": 26

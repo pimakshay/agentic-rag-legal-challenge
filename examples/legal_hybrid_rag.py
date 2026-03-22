@@ -28,6 +28,8 @@ from retrieval import (  # noqa: E402
 )
 
 CONFIG = get_config()
+INGEST_ROOT = ROOT_DIR / "ingestion" / "docs_corpus_private_ingest_result"
+DOCS_ROOT = Path(CONFIG.docs_dir)
 
 _LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO").strip().upper()
 logging.basicConfig(
@@ -39,7 +41,6 @@ logger = logging.getLogger(__name__)
 _EXCLUDE_DIRS = {
     "__pycache__",
     "ingestion",
-    "docs_corpus",
     "storage",
     ".venv",
     "venv",
@@ -50,6 +51,8 @@ _EXCLUDE_DIRS = {
     "public_dataset",
     "notebooks",
 }
+if DOCS_ROOT.name:
+    _EXCLUDE_DIRS.add(DOCS_ROOT.name)
 _EXCLUDE_FILES = {
     ".env",
     "submission.json",
@@ -170,17 +173,18 @@ def build_pipeline():
         f"(TURBOPUFFER_API_KEY={'set' if bool(os.getenv('TURBOPUFFER_API_KEY')) else 'unset'}) "
         f"skip_indexing={int(skip_indexing)}"
     )
-    logger.info(f"Routing/docs: docs_dir={CONFIG.docs_dir} ingest_root={ROOT_DIR/'ingestion'/'docs_corpus_ingest_result'}")
+    logger.info(f"Routing/docs: docs_dir={DOCS_ROOT} ingest_root={INGEST_ROOT}")
 
     pipeline = LegalHybridRAGPipeline(
         llm=llm,
         embedding_model=embeddings,
-        ingest_root=str(ROOT_DIR / "ingestion" / "docs_corpus_ingest_result"),
-        docs_root=str(Path(CONFIG.docs_dir)),
+        ingest_root=str(INGEST_ROOT),
+        docs_root=str(DOCS_ROOT),
         enable_reranking=enable_reranking,
         reranker=reranker,
         use_turbopuffer=use_turbopuffer,
         skip_indexing=skip_indexing,
+        turbopuffer_namespace=CONFIG.turbopuffer_namespace,
     )
 
     # Retrieval defaults that affect runtime cost/recall.
@@ -222,11 +226,10 @@ def main() -> None:
     print("Downloading questions...")
     questions = client.download_questions(target_path=CONFIG.questions_path)
     print("Skipping downloading documents...")
-    # client.download_documents(CONFIG.docs_dir)
+    # client.download_documents(str(DOCS_ROOT))
     # print("Documents extracted")
 
-    ingest_root = ROOT_DIR / "ingestion" / "docs_corpus_ingest_result"
-    validate_ingest_coverage(CONFIG.docs_dir, ingest_root)
+    validate_ingest_coverage(DOCS_ROOT, INGEST_ROOT)
 
     print("Building legal hybrid pipeline...")
     pipeline = build_pipeline()

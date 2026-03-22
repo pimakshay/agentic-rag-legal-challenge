@@ -1,22 +1,29 @@
 {
     "doc_type": "case",
-    "case_name": "",
-    "case_name_normalized": "",
+    "case_name": "Nihan v (1) Nicholas (2) Niaz",
+    "case_name_normalized": "nihan v 1 nicholas 2 niaz",
     "neutral_citation": "[2024] DIFC CA 012",
     "neutral_citation_normalized": "2024 difc ca 012",
     "claim_number": "CA 012/2024",
     "claim_number_normalized": "ca 012 2024",
-    "court": "",
-    "court_division": "",
-    "hearing_date": "",
-    "judgment_date": "",
-    "judgment_release_date": "",
-    "claimant": "",
-    "defendants": [],
-    "claimant_counsel": [],
-    "defendant_counsel": [],
-    "claimant_law_firm": "",
-    "defendant_law_firm": "",
+    "court": "THE DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS",
+    "court_division": "COURT OF APPEAL",
+    "hearing_date": "21 October 2024",
+    "judgment_date": "14 November 2024",
+    "judgment_release_date": "14 November 2024",
+    "claimant": "NIHAN",
+    "defendants": [
+        "(1) NICHOLAS",
+        "(2) NIAZ"
+    ],
+    "claimant_counsel": [
+        "Gregor Hogan"
+    ],
+    "defendant_counsel": [
+        "Zoe O'Sullivan KC"
+    ],
+    "claimant_law_firm": "Al Tamimi & Company",
+    "defendant_law_firm": "Kochhar & Co. Legal Consultants",
     "title_page_number": 1,
     "last_page_number": 14,
     "page_count": 14

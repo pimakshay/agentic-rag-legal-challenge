@@ -13,11 +13,14 @@ from tqdm import tqdm
 try:
     from .legal_metadata import (
         LAW_METADATA_PROMPT,
+        CASE_METADATA_PROMPT,
         build_blocks,
+        build_case_payload,
         build_case_metadata,
         build_law_metadata,
         build_law_payload,
         classify_document,
+        merge_case_llm_metadata,
         parse_llm_json,
         title_page_lines,
     )
@@ -25,18 +28,21 @@ try:
 except ImportError:
     from legal_metadata import (  # type: ignore
         LAW_METADATA_PROMPT,
+        CASE_METADATA_PROMPT,
         build_blocks,
+        build_case_payload,
         build_case_metadata,
         build_law_metadata,
         build_law_payload,
         classify_document,
+        merge_case_llm_metadata,
         parse_llm_json,
         title_page_lines,
     )
     from utils import call_openai_llm as call_llm  # type: ignore
 
 
-folder = "../public_dataset/docs_corpus"
+folder = "/home/akshay/Documents/projects/agentic_rag_legal_challenge/main-branch/agentic-rag-legal-challenge/ingestion/docs_corpus_private_ingest_result"
 logger = logging.getLogger(__name__)
 prompt_template = """/no_think
 # Task
@@ -71,39 +77,6 @@ The input is a dictionary where:
 {input_dict}
 
 # Result
-"""
-
-CASE_METADATA_PROMPT = """You are a legal document information extraction system.
-
-Your task is to extract key metadata from a legal judgment title page.
-
-Rules:
-- Only extract information explicitly present in the text.
-- Do not infer missing information.
-- If a field is not present, return NOT_FOUND.
-- Preserve original wording.
-- Return JSON only.
-
-Text:
-{text}
-
-Return:
-{{
-  "case_name": "",
-  "neutral_citation": "",
-  "court": "",
-  "court_division": "",
-  "claim_number": "",
-  "hearing_date": "",
-  "judgment_date": "",
-  "judgment_release_date": "",
-  "claimant": "",
-  "defendants": [],
-  "claimant_counsel": [],
-  "defendant_counsel": [],
-  "claimant_law_firm": "",
-  "defendant_law_firm": ""
-}}
 """
 
 RE_THINK = __import__("re").compile(r"<think>(.*?)</think>", __import__("re").DOTALL)
@@ -323,15 +296,11 @@ class Ingestion:
             return False
 
     @staticmethod
-    def _case_llm_metadata(content_items: list[dict[str, Any]]) -> Dict[str, Any]:
-        first_page_text = "\n".join(
-            (item.get("text") or item.get("table_body") or "").strip()
-            for item in content_items
-            if int(item.get("page_idx", 0)) == 0
-        )
-        if not first_page_text.strip():
+    def _case_llm_metadata(blocks: list[dict[str, Any]]) -> Dict[str, Any]:
+        payload = build_case_payload(blocks)
+        if not payload.get("title_page_lines"):
             return {}
-        return parse_llm_json(call_llm(CASE_METADATA_PROMPT.format(text=first_page_text)))
+        return parse_llm_json(call_llm(CASE_METADATA_PROMPT.format(payload=json.dumps(payload, indent=2, ensure_ascii=False))))
 
     @staticmethod
     def _law_llm_metadata(blocks: list[dict[str, Any]]) -> Dict[str, Any]:
@@ -350,11 +319,12 @@ class Ingestion:
                 llm_metadata = self._law_llm_metadata(blocks) if self.use_llm else {}
                 result = build_law_metadata(content_items, structured_items, existing_metadata, llm_metadata)
             else:
-                existing_case = existing_metadata if existing_metadata.get("doc_type") == "case" or existing_metadata.get("claim_number") else existing_metadata
+                existing_case = existing_metadata if existing_metadata.get("doc_type") == "case" or existing_metadata.get("claim_number") else {}
                 llm_metadata = {}
-                if self.use_llm and (not existing_case or not existing_case.get("case_name") or not existing_case.get("claim_number")):
-                    llm_metadata = self._case_llm_metadata(content_items)
+                if self.use_llm:
+                    llm_metadata = self._case_llm_metadata(blocks)
                 result = build_case_metadata(content_items, structured_items, existing_case, llm_metadata)
+                result = merge_case_llm_metadata(result, llm_metadata)
 
             self._write_json(metadata_file, result)
             logger.info("metadata %s doc_type=%s", os.path.basename(metadata_file), result.get("doc_type"))
@@ -385,5 +355,5 @@ class Ingestion:
 
 
 if __name__ == "__main__":
-    pipeline = Ingestion(folder=folder, output_path="docs_corpus_ingest_result")
+    pipeline = Ingestion(folder=folder, output_path="docs_corpus_private_ingest_result")
     pipeline.ingest()

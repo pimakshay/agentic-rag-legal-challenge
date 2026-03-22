@@ -8,6 +8,14 @@ from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
 CASE_NUMBER_RE = re.compile(r"\b(?:CA|CFI|SCT|DEC|ENF|ARB|TCD)\s+\d{3}/\d{4}\b", re.IGNORECASE)
 NEUTRAL_CITATION_RE = re.compile(r"\[\d{4}\]\s+DIFC\s+(?:CA|CFI|SCT|DEC|ENF|ARB|TCD)\s+\d{3}\b", re.IGNORECASE)
 LAW_NUMBER_RE = re.compile(r"DIFC\s+LAW\s+NO\.?\s*(\d+)\s+OF\s+(\d{4})", re.IGNORECASE)
+MONTH_NAME_RE = (
+    r"January|February|March|April|May|June|July|August"
+    r"|September|October|November|December"
+)
+TEXTUAL_DATE_RE = re.compile(
+    rf"\b(?:{MONTH_NAME_RE})\s+\d{{1,2}},\s+\d{{4}}\b|\b\d{{1,2}}\s+(?:{MONTH_NAME_RE})\s+\d{{4}}\b",
+    re.IGNORECASE,
+)
 CONSOLIDATED_VERSION_RE = re.compile(
     r"Consolidated\s+Version(?:\s+No\.?\s*\d+)?\s*\(([^)]+)\)",
     re.IGNORECASE,
@@ -109,6 +117,37 @@ Input:
 {payload}
 """
 
+CASE_METADATA_PROMPT = """You extract metadata for a DIFC court case document from curated title-page parse output.
+
+Rules:
+- Only use the provided title-page lines and early structured blocks.
+- Return JSON only.
+- Do not invent missing values.
+- Preserve party names and court wording as written, but normalize obvious OCR spacing only if the intended text is explicit.
+- `defendants`, `claimant_counsel`, and `defendant_counsel` must be arrays.
+
+Return this schema:
+{{
+  "case_name": "",
+  "neutral_citation": "",
+  "court": "",
+  "court_division": "",
+  "claim_number": "",
+  "hearing_date": "",
+  "judgment_date": "",
+  "judgment_release_date": "",
+  "claimant": "",
+  "defendants": [],
+  "claimant_counsel": [],
+  "defendant_counsel": [],
+  "claimant_law_firm": "",
+  "defendant_law_firm": ""
+}}
+
+Input:
+{payload}
+"""
+
 
 def parse_llm_json(text: str) -> Dict[str, Any]:
     cleaned = (text or "").strip()
@@ -180,6 +219,16 @@ def dedupe_preserve(values: Iterable[str]) -> List[str]:
             seen.add(cleaned)
             result.append(cleaned)
     return result
+
+
+def coerce_text_list(value: Any) -> List[str]:
+    if value in (None, "", []):
+        return []
+    if isinstance(value, str):
+        return [value]
+    if isinstance(value, (list, tuple, set)):
+        return [str(item) for item in value if str(item).strip()]
+    return [str(value)]
 
 
 def empty_case_metadata(page_count: int) -> Dict[str, Any]:
@@ -273,6 +322,10 @@ def extract_claim_number(text: str) -> str:
 def extract_neutral_citation(text: str) -> str:
     match = NEUTRAL_CITATION_RE.search(normalize_whitespace(text))
     return normalize_whitespace(match.group(0).upper()) if match else ""
+
+
+def extract_textual_dates(text: str) -> List[str]:
+    return [normalize_whitespace(match.group(0)) for match in TEXTUAL_DATE_RE.finditer(normalize_whitespace(text))]
 
 
 def extract_law_number_components(text: str) -> Tuple[str, str]:
@@ -396,6 +449,214 @@ def infer_jurisdiction(lines: Sequence[str], blocks: Sequence[Dict[str, Any]]) -
     return ""
 
 
+def _strip_case_line_prefixes(text: str) -> str:
+    cleaned = normalize_whitespace(clean_ocr_spacing(text))
+    cleaned = CASE_NUMBER_RE.sub("", cleaned, count=1)
+    cleaned = NEUTRAL_CITATION_RE.sub("", cleaned)
+    cleaned = re.sub(
+        r"\[\d{4}\]\s+DIFC\s+(?:CA|CFI|SCT|DEC|ENF|ARB|TCD)\s+\d{3}\b",
+        "",
+        cleaned,
+        flags=re.IGNORECASE,
+    )
+    cleaned = re.sub(rf"\b(?:{MONTH_NAME_RE})\s+\d{{1,2}},\s+\d{{4}}\b.*$", "", cleaned, flags=re.IGNORECASE)
+    cleaned = re.sub(rf"\b\d{{1,2}}\s+(?:{MONTH_NAME_RE})\s+\d{{4}}\b.*$", "", cleaned, flags=re.IGNORECASE)
+    return normalize_whitespace(cleaned.strip(" -,:"))
+
+
+def extract_case_name(lines: Sequence[str], claimant: str = "", defendants: Optional[Sequence[str]] = None) -> str:
+    for line in lines[:6]:
+        cleaned = normalize_whitespace(line)
+        if re.search(r"\bv\b", cleaned, re.IGNORECASE):
+            title = _strip_case_line_prefixes(cleaned)
+            if title:
+                return title
+    if claimant and defendants:
+        return normalize_whitespace(f"{claimant} v {' '.join(defendants)}")
+    return ""
+
+
+def extract_case_issue_date(lines: Sequence[str]) -> str:
+    combined = "\n".join(lines)
+    for pattern in (
+        r"\bJudgment\s*:\s*([^<\n]+)",
+        r"\bDate of Issue\s*:\s*([^<\n]+)",
+        r"\bReleased\s*:\s*([^<\n]+)",
+    ):
+        match = re.search(pattern, combined, re.IGNORECASE)
+        if match:
+            dates = extract_textual_dates(match.group(1))
+            if dates:
+                return dates[0]
+    for line in lines[:4]:
+        dates = extract_textual_dates(line)
+        if dates:
+            return dates[0]
+    return ""
+
+
+def extract_case_hearing_date(lines: Sequence[str]) -> str:
+    combined = "\n".join(lines)
+    for pattern in (
+        r"\bHearing\s*:\s*([^<\n]+)",
+        r"\bHeard on\s*:\s*([^<\n]+)",
+    ):
+        match = re.search(pattern, combined, re.IGNORECASE)
+        if match:
+            dates = extract_textual_dates(match.group(1))
+            if dates:
+                return dates[0]
+    return ""
+
+
+def extract_case_court(lines: Sequence[str]) -> str:
+    for line in lines[:20]:
+        cleaned = normalize_whitespace(line)
+        upper = cleaned.upper()
+        if "DUBAI INTERNATIONAL FINANCIAL CENTRE COURTS" in upper:
+            return re.sub(r"^IN THE\s+", "", cleaned, flags=re.IGNORECASE)
+        if "COURTS OF DUBAI INTERNATIONAL FINANCIAL CENTRE" in upper:
+            return re.sub(r"^IN THE\s+", "", cleaned, flags=re.IGNORECASE)
+    return ""
+
+
+def extract_case_court_division(lines: Sequence[str]) -> str:
+    for line in lines[:20]:
+        cleaned = normalize_whitespace(line)
+        upper = cleaned.upper()
+        if re.match(r"^IN THE COURT OF ", upper):
+            return re.sub(r"^IN THE\s+", "", cleaned, flags=re.IGNORECASE)
+        if re.match(r"^IN THE SMALL CLAIMS TRIBUNAL$", upper):
+            return re.sub(r"^IN THE\s+", "", cleaned, flags=re.IGNORECASE)
+    for line in lines[:5]:
+        cleaned = normalize_whitespace(line)
+        match = re.search(
+            rf"\b(?:{MONTH_NAME_RE})\s+\d{{1,2}},\s+\d{{4}}\s+(.+?)\s*-\s*(?:ORDERS?|JUDGMENTS?)\b",
+            cleaned,
+            re.IGNORECASE,
+        )
+        if match:
+            return normalize_whitespace(match.group(1))
+    return ""
+
+
+def _party_lines_to_values(lines: Sequence[str], allow_split_enumerated: bool) -> List[str]:
+    if not lines:
+        return []
+    cleaned_lines = []
+    for line in lines:
+        cleaned = normalize_whitespace(line)
+        if not cleaned:
+            continue
+        cleaned = re.sub(
+            r"\b(?:Claimant|Claimants|Defendant|Defendants|Respondent|Respondents|Applicant|Applicants|Appellant|Appellants)\b$",
+            "",
+            cleaned,
+            flags=re.IGNORECASE,
+        ).strip(" ,;:")
+        if cleaned:
+            cleaned_lines.append(cleaned)
+    if not cleaned_lines:
+        return []
+    if allow_split_enumerated:
+        joined = " ".join(cleaned_lines)
+        matches = [
+            normalize_whitespace(match.group(0))
+            for match in re.finditer(r"\(\d+\)\s*[^()]+?(?=(?:\(\d+\)\s*|$))", joined)
+        ]
+        if matches:
+            return dedupe_preserve(matches)
+        if len(cleaned_lines) > 1:
+            return dedupe_preserve(cleaned_lines)
+    return [normalize_whitespace(" ".join(cleaned_lines))]
+
+
+def extract_case_parties(lines: Sequence[str]) -> Tuple[str, List[str]]:
+    claimant_lines: List[str] = []
+    defendant_lines: List[str] = []
+    active: Optional[str] = None
+    started = False
+    stop_prefixes = (
+        "ORDER WITH REASONS",
+        "AMENDED ORDER WITH REASONS",
+        "REASONS FOR THE ORDER",
+        "JUDGMENT OF",
+        "BEFORE ",
+        "UPON ",
+        "AND UPON ",
+        "IT IS HEREBY ORDERED",
+    )
+
+    for line in lines:
+        cleaned = normalize_whitespace(line)
+        upper = cleaned.upper()
+        if not started:
+            if upper == "BETWEEN":
+                started = True
+                active = "claimant"
+            continue
+        if upper in {"AND", "-AND-"}:
+            active = "defendant"
+            continue
+        if any(upper.startswith(prefix) for prefix in stop_prefixes):
+            break
+        if re.search(r"\bCLAIMANT\b|\bPLAINTIFF\b|\bAPPELLANT\b|\bAPPLICANT\b", upper):
+            continue
+        if re.search(r"\bDEFENDANT\b|\bRESPONDENT\b", upper):
+            continue
+        if active == "claimant":
+            claimant_lines.append(cleaned)
+        elif active == "defendant":
+            defendant_lines.append(cleaned)
+
+    claimant_values = _party_lines_to_values(claimant_lines, allow_split_enumerated=False)
+    defendant_values = _party_lines_to_values(defendant_lines, allow_split_enumerated=True)
+    claimant = claimant_values[0] if claimant_values else ""
+    return claimant, defendant_values
+
+
+def extract_case_law_firms(lines: Sequence[str]) -> Tuple[str, str]:
+    combined = " ".join(lines)
+    claimant_patterns = (
+        r"instructed by\s+(.+?)\s+for the\s+(?:claimant|appellant/claimant|claimant/appellant|claimant/respondent)",
+        r"instructed by\s+(.+?)\s+for the\s+(?:applicant|plaintiff)",
+    )
+    defendant_patterns = (
+        r"instructed by\s+(.+?)\s+for the\s+(?:defendant|respondent|defendant/appellant|applicant/respondent|defendant/respondent)",
+        r"instructed by\s+(.+?)\s+for the\s+applicants/respondents",
+    )
+
+    def extract(patterns: Sequence[str]) -> str:
+        for pattern in patterns:
+            match = re.search(pattern, combined, re.IGNORECASE)
+            if match:
+                value = normalize_whitespace(match.group(1).strip(" ,.;"))
+                if value:
+                    return value
+        return ""
+
+    return extract(claimant_patterns), extract(defendant_patterns)
+
+
+def build_case_payload(blocks: Sequence[Dict[str, Any]]) -> Dict[str, Any]:
+    lines = title_page_lines(blocks)
+    claimant, defendants = extract_case_parties(lines)
+    return {
+        "title_page_lines": lines[:25],
+        "early_blocks": [normalize_whitespace(block["text"]) for block in blocks[:25]],
+        "claim_number": extract_claim_number(" ".join(lines[:15])),
+        "neutral_citation": extract_neutral_citation(" ".join(lines[:15])),
+        "case_name_candidate": extract_case_name(lines, claimant, defendants),
+        "court_candidate": extract_case_court(lines),
+        "court_division_candidate": extract_case_court_division(lines),
+        "judgment_date_candidate": extract_case_issue_date(lines),
+        "hearing_date_candidate": extract_case_hearing_date(lines),
+        "claimant_candidate": claimant,
+        "defendant_candidates": defendants,
+        "page_count": page_count_from_blocks(blocks),
+    }
+
+
 def classify_document(
     content_items: Sequence[Dict[str, Any]],
     structured_items: Dict[int, Dict[str, Any]],
@@ -440,32 +701,67 @@ def build_case_metadata(
                 merged[key] = value
 
     first_page_text = "\n".join(lines)
+    claimant, defendants = extract_case_parties(lines)
+    claimant_law_firm, defendant_law_firm = extract_case_law_firms(lines)
+    derived_issue_date = extract_case_issue_date(lines)
     metadata.update(
         {
-            "case_name": normalize_whitespace(str(merged.get("case_name") or "")),
+            "case_name": normalize_whitespace(
+                str(merged.get("case_name") or extract_case_name(lines, claimant, defendants))
+            ),
             "neutral_citation": normalize_whitespace(
                 str(merged.get("neutral_citation") or extract_neutral_citation(first_page_text))
             ),
             "claim_number": normalize_whitespace(
                 str(merged.get("claim_number") or extract_claim_number(first_page_text))
             ).upper(),
-            "court": normalize_whitespace(str(merged.get("court") or "")),
-            "court_division": normalize_whitespace(str(merged.get("court_division") or "")),
-            "hearing_date": normalize_whitespace(str(merged.get("hearing_date") or "")),
-            "judgment_date": normalize_whitespace(str(merged.get("judgment_date") or "")),
+            "court": normalize_whitespace(str(merged.get("court") or extract_case_court(lines))),
+            "court_division": normalize_whitespace(str(merged.get("court_division") or extract_case_court_division(lines))),
+            "hearing_date": normalize_whitespace(str(merged.get("hearing_date") or extract_case_hearing_date(lines))),
+            "judgment_date": normalize_whitespace(str(merged.get("judgment_date") or derived_issue_date)),
             "judgment_release_date": normalize_whitespace(str(merged.get("judgment_release_date") or "")),
-            "claimant": normalize_whitespace(str(merged.get("claimant") or "")),
-            "defendants": dedupe_preserve(str(item) for item in (merged.get("defendants") or [])),
-            "claimant_counsel": dedupe_preserve(str(item) for item in (merged.get("claimant_counsel") or [])),
-            "defendant_counsel": dedupe_preserve(str(item) for item in (merged.get("defendant_counsel") or [])),
-            "claimant_law_firm": normalize_whitespace(str(merged.get("claimant_law_firm") or "")),
-            "defendant_law_firm": normalize_whitespace(str(merged.get("defendant_law_firm") or "")),
+            "claimant": normalize_whitespace(str(merged.get("claimant") or claimant)),
+            "defendants": dedupe_preserve(coerce_text_list(merged.get("defendants") or defendants)),
+            "claimant_counsel": dedupe_preserve(coerce_text_list(merged.get("claimant_counsel") or [])),
+            "defendant_counsel": dedupe_preserve(coerce_text_list(merged.get("defendant_counsel") or [])),
+            "claimant_law_firm": normalize_whitespace(str(merged.get("claimant_law_firm") or claimant_law_firm)),
+            "defendant_law_firm": normalize_whitespace(str(merged.get("defendant_law_firm") or defendant_law_firm)),
         }
     )
+    if not metadata["judgment_release_date"] and metadata["judgment_date"]:
+        metadata["judgment_release_date"] = metadata["judgment_date"] if "ORDER" not in first_page_text.upper() else ""
     metadata["case_name_normalized"] = normalize_lookup_key(metadata["case_name"])
     metadata["neutral_citation_normalized"] = normalize_lookup_key(metadata["neutral_citation"])
     metadata["claim_number_normalized"] = normalize_lookup_key(metadata["claim_number"])
     return metadata
+
+
+def merge_case_llm_metadata(base: Dict[str, Any], llm_metadata: Optional[Dict[str, Any]]) -> Dict[str, Any]:
+    if not llm_metadata:
+        return base
+    merged = dict(base)
+    for key in [
+        "case_name",
+        "neutral_citation",
+        "court",
+        "court_division",
+        "claim_number",
+        "hearing_date",
+        "judgment_date",
+        "judgment_release_date",
+        "claimant",
+        "claimant_law_firm",
+        "defendant_law_firm",
+    ]:
+        if llm_metadata.get(key):
+            merged[key] = normalize_whitespace(str(llm_metadata[key]))
+    if llm_metadata.get("defendants"):
+        merged["defendants"] = dedupe_preserve(coerce_text_list(llm_metadata["defendants"]))
+    if llm_metadata.get("claimant_counsel"):
+        merged["claimant_counsel"] = dedupe_preserve(coerce_text_list(llm_metadata["claimant_counsel"]))
+    if llm_metadata.get("defendant_counsel"):
+        merged["defendant_counsel"] = dedupe_preserve(coerce_text_list(llm_metadata["defendant_counsel"]))
+    return merged
 
 
 def merge_law_llm_metadata(base: Dict[str, Any], llm_metadata: Optional[Dict[str, Any]]) -> Dict[str, Any]:
@@ -486,7 +782,7 @@ def merge_law_llm_metadata(base: Dict[str, Any], llm_metadata: Optional[Dict[str
         if llm_metadata.get(key):
             merged[key] = normalize_whitespace(str(llm_metadata[key]))
     if llm_metadata.get("amending_laws"):
-        merged["amending_laws"] = dedupe_preserve(str(item) for item in llm_metadata["amending_laws"])
+        merged["amending_laws"] = dedupe_preserve(coerce_text_list(llm_metadata["amending_laws"]))
     return merged
 
 
@@ -648,14 +944,23 @@ def build_law_metadata(
         metadata.get("short_title")
         or infer_short_title(metadata["official_title"], metadata["citation_title_from_text"], metadata.get("law_year") or law_year)
     )
-    metadata["law_number"] = normalize_whitespace(str(metadata.get("law_number") or law_number))
-    metadata["law_year"] = normalize_whitespace(str(metadata.get("law_year") or law_year))
+    merged_law_number = normalize_whitespace(str(metadata.get("law_number") or law_number))
+    merged_law_year = normalize_whitespace(str(metadata.get("law_year") or law_year))
+    parsed_number, parsed_year = extract_law_number_components(
+        " ".join(
+            value
+            for value in [merged_law_number, merged_law_year, str(metadata.get("official_citation") or "")]
+            if value
+        )
+    )
+    metadata["law_number"] = parsed_number or merged_law_number
+    metadata["law_year"] = parsed_year or merged_law_year
     metadata["official_citation"] = (
         normalize_whitespace(str(metadata.get("official_citation") or ""))
         or format_official_citation(metadata["law_number"], metadata["law_year"])
     )
     metadata["consolidated_version_date"] = normalize_whitespace(str(metadata.get("consolidated_version_date") or ""))
-    metadata["amending_laws"] = dedupe_preserve(str(item) for item in (metadata.get("amending_laws") or []))
+    metadata["amending_laws"] = dedupe_preserve(coerce_text_list(metadata.get("amending_laws") or []))
     metadata["administering_authority"] = normalize_whitespace(str(metadata.get("administering_authority") or ""))
     metadata["jurisdiction"] = normalize_whitespace(str(metadata.get("jurisdiction") or ""))
     metadata["official_title_normalized"] = normalize_lookup_key(metadata["official_title"])

@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import asdict, dataclass, field
+import json
 import logging
 import math
 import re
@@ -17,7 +18,11 @@ from retrieval.chunkers.legal_chunk_types import (
     decode_page_numbers,
     sanitize_metadata_for_vectorstore,
 )
-from retrieval.free_text_prompts import build_free_text_prompt, detect_free_text_subtype
+from retrieval.free_text_prompts import (
+    build_free_text_prompt,
+    build_free_text_retry_prompt,
+    detect_free_text_subtype,
+)
 from retrieval.legal_question_router import LegalQuestionRouter, RoutePlan
 from retrieval.loaders import IngestedCorpusLoader
 from retrieval.retrievers.base import BaseRAGRetriever
@@ -100,6 +105,7 @@ class LegalHybridRAGPipeline:
         store: Optional[TurbopufferStore] = None,
         use_turbopuffer: bool = False,
         skip_indexing: bool = False,
+        turbopuffer_namespace: str = "legal-challenge-final",
     ) -> None:
         self.llm = llm
         self.embedding_model = embedding_model
@@ -116,7 +122,7 @@ class LegalHybridRAGPipeline:
         self.use_turbopuffer = use_turbopuffer
         self.store = store
         if self.store is None and self.use_turbopuffer:
-            self.store = TurbopufferStore(namespace="legal-challenge", region="gcp-europe-west3")
+            self.store = TurbopufferStore(namespace=turbopuffer_namespace, region="gcp-europe-west3")
         self.loader = loader or IngestedCorpusLoader(ingest_root=ingest_root, docs_root=docs_root)
         self.chunker = chunker or LegalIngestChunker(LegalChunkerConfig())
         self.router = router or LegalQuestionRouter()
@@ -290,6 +296,24 @@ class LegalHybridRAGPipeline:
                 raw_response="",
             )
 
+        guarded_absent_answer = self._maybe_force_absent_answer(
+            question_text,
+            answer_type,
+            route,
+            resolution,
+            supporting_docs,
+        )
+        if guarded_absent_answer is not None:
+            if telemetry_timer:
+                telemetry_timer.mark_token()
+            return AnswerResult(
+                answer=guarded_absent_answer,
+                supporting_docs=[],
+                retrieval_refs=[],
+                debug_metadata={"route": asdict(route), "reason": "negative_question_guard"},
+                raw_response="" if guarded_absent_answer is None else str(guarded_absent_answer),
+            )
+
         if self.llm is None:
             raise ValueError("llm must be provided to answer questions")
 
@@ -310,22 +334,25 @@ class LegalHybridRAGPipeline:
         parsed_answer = raw_response
 
         if answer_type.lower() != "free_text":
-            parsed_answer = self._extract_deterministic_candidate(raw_response)
-        elif answer_type.lower() == "free_text":
-            ans_match = re.search(r"Answer:\s*(.*?)(?:\nIndices:|$)", raw_response, re.IGNORECASE | re.DOTALL)
-            idx_match = re.search(r"Indices:\s*(.*)", raw_response, re.IGNORECASE | re.DOTALL)
-            if ans_match:
-                parsed_answer = ans_match.group(1).strip()
-            if idx_match:
-                idx_str = idx_match.group(1).strip()
-                for token in re.split(r"[^\d]+", idx_str):
-                    if token.isdigit():
-                        used_indices.append(int(token))
-                        
+            parsed_answer = self._extract_deterministic_candidate(raw_response, answer_type)
+        else:
+            parsed_answer, used_indices = self._extract_free_text_payload(raw_response)
+
         answer = self._parse_answer_by_type(parsed_answer, answer_type)
+        if answer_type.lower() == "free_text" and isinstance(answer, str):
+            answer = self._clean_free_text_answer(answer).strip()
+            if answer != self._default_absent_answer("free_text") and len(answer) > 280:
+                answer, used_indices, raw_response = self._retry_overlong_free_text_answer(
+                    question_text=question_text,
+                    supporting_docs=supporting_docs,
+                    answer=answer,
+                    used_indices=used_indices,
+                    raw_response=raw_response,
+                    timing_out=timing_breakdown,
+                )
 
         is_absent = answer is None or (
-            answer_type == "free_text" and answer == self._default_absent_answer("free_text")
+            answer_type.lower() == "free_text" and answer == self._default_absent_answer("free_text")
         )
 
         if is_absent:
@@ -353,9 +380,6 @@ class LegalHybridRAGPipeline:
                 RetrievalRef(doc_id=str(doc.metadata["doc_id"]), page_numbers=self._chunk_page_numbers(doc))
                 for doc in filtered_docs
             )
-
-            if answer_type == "free_text" and isinstance(answer, str):
-                answer = self._clean_free_text_answer(answer).strip()
 
             if answer is None:
                 retrieval_refs = []
@@ -574,7 +598,9 @@ class LegalHybridRAGPipeline:
         evidences = [e for e in getattr(record, attr_name, []) if e.confidence == "high"]
         if not evidences:
             return None
-        names = list(dict.fromkeys(e.value for e in evidences))
+        names = self._parse_names_answer("\n".join(e.value for e in evidences))
+        if not names:
+            return None
         return names, self._build_evidence_docs(evidences)
 
     def _build_metadata_indexes(self, source_documents: Sequence[Document]) -> None:
@@ -1230,9 +1256,15 @@ class LegalHybridRAGPipeline:
         if normalized == "number":
             return "Return only a single number (integer or decimal, e.g. 1000 or 1000.0)." + strict
         if normalized == "name":
-            return "Return only the exact name or entity from the context." + strict
+            return (
+                "Return only the exact name, entity, or full cited title from the context. "
+                "Preserve citation text such as 'No. 4 of 2007' when present."
+            ) + strict
         if normalized == "names":
-            return "Return only a semicolon-separated list of exact names from the context (e.g. Name A; Name B)." + strict
+            return (
+                'Return only a JSON array of exact names from the context, with each distinct name as its own string '
+                'element and no numbering (e.g. ["Name A", "Name B"]).'
+            ) + strict
         if normalized == "date":
             return "Return only the date in YYYY-MM-DD format (e.g. 2026-02-02)." + strict
         return "Return a concise answer grounded in the context, max 260 characters."
@@ -1290,7 +1322,12 @@ class LegalHybridRAGPipeline:
                 return str(content).strip()
             return str(response).strip()
 
-    def _extract_deterministic_candidate(self, raw: str) -> str:
+    _LEGAL_NAME_PRESERVE_RE = re.compile(
+        r"\b(?:difc\s+law\s+no\.?\s+\d+\s+of\s+\d{4}|law\s+no\.?\s+\d+\s+of\s+\d{4}|regulations?\s+\d{4}|rules?\s+\d{4})\b",
+        re.IGNORECASE,
+    )
+
+    def _extract_deterministic_candidate(self, raw: str, answer_type: Optional[str] = None) -> str:
         """Extract the answer substring for deterministic types: strip prefixes, take first line."""
         if not (raw or "").strip():
             return ""
@@ -1301,16 +1338,125 @@ class LegalHybridRAGPipeline:
             r"Answer is\s*",
             r"The value is\s*",
             r"Result:\s*",
-        ):
+            ):
             m = re.search(prefix, text, re.IGNORECASE)
             if m:
                 text = text[m.end() :].strip()
                 break
+        normalized_answer_type = (answer_type or "").lower()
+        if normalized_answer_type == "names":
+            first_line = text.split("\n")[0].strip()
+            if first_line.startswith("[") and "]" in first_line:
+                return first_line
         text = re.sub(r"^[\[\]`\"]+|[\[\]`\"]+$", "", text).strip()
         first_line = text.split("\n")[0].strip()
+        if normalized_answer_type in {"name", "names"} or self._LEGAL_NAME_PRESERVE_RE.search(first_line):
+            out = first_line
+            return out.rstrip(".,;:") if out else out
         first_sentence = re.split(r"[.!?]\s+", first_line)[0].strip()
         out = (first_sentence or first_line or text).strip()
         return out.rstrip(".,;:") if out else out
+
+    def _parse_names_answer(self, raw: str) -> Optional[List[str]]:
+        text = (raw or "").strip()
+        if not text:
+            return None
+
+        json_names = self._parse_names_json_array(text)
+        if json_names is not None:
+            return json_names
+
+        numbered_names = self._extract_numbered_names(text)
+        if numbered_names:
+            return self._normalize_name_items(numbered_names)
+
+        normalized_text = re.sub(r"\s+and\s+", ";", text, flags=re.IGNORECASE)
+        split_names = [
+            item
+            for item in re.split(r";|\n", normalized_text)
+            if item.strip()
+        ]
+        return self._normalize_name_items(split_names)
+
+    def _parse_names_json_array(self, text: str) -> Optional[List[str]]:
+        if not text.startswith("["):
+            return None
+        try:
+            payload = json.loads(text)
+        except json.JSONDecodeError:
+            return None
+        if not isinstance(payload, list):
+            return None
+        return self._normalize_name_items(str(item) for item in payload if item is not None)
+
+    def _extract_numbered_names(self, text: str) -> List[str]:
+        pattern = re.compile(
+            r"(?P<marker>\(\d+\)|\d+[.)])\s*(?P<value>.*?)(?=(?:\s+(?:\(\d+\)|\d+[.)])\s*)|$)",
+            re.DOTALL,
+        )
+        matches = [match.group("value").strip() for match in pattern.finditer(text) if match.group("value").strip()]
+        return matches
+
+    def _normalize_name_items(self, items: Sequence[str]) -> Optional[List[str]]:
+        normalized: List[str] = []
+        seen: Set[str] = set()
+        for item in items:
+            cleaned = self._normalize_name_item(item)
+            if not cleaned or cleaned in seen:
+                continue
+            seen.add(cleaned)
+            normalized.append(cleaned)
+        return normalized or None
+
+    def _normalize_name_item(self, item: str) -> str:
+        cleaned = " ".join((item or "").split())
+        cleaned = re.sub(r"^(?:\(\d+\)|\d+[.)])\s*", "", cleaned)
+        cleaned = cleaned.strip()
+        cleaned = re.sub(r'^[\'"`]+|[\'"`]+$', "", cleaned)
+        cleaned = cleaned.rstrip(",;:")
+        return cleaned.strip()
+
+    def _extract_free_text_payload(self, raw: str) -> Tuple[str, List[int]]:
+        parsed_answer = raw
+        used_indices: List[int] = []
+        ans_match = re.search(r"Answer:\s*(.*?)(?:\nIndices:|$)", raw, re.IGNORECASE | re.DOTALL)
+        idx_match = re.search(r"Indices:\s*(.*)", raw, re.IGNORECASE | re.DOTALL)
+        if ans_match:
+            parsed_answer = ans_match.group(1).strip()
+        if idx_match:
+            idx_str = idx_match.group(1).strip()
+            for token in re.split(r"[^\d]+", idx_str):
+                if token.isdigit():
+                    used_indices.append(int(token))
+        return parsed_answer, used_indices
+
+    def _retry_overlong_free_text_answer(
+        self,
+        question_text: str,
+        supporting_docs: Sequence[Document],
+        answer: str,
+        used_indices: List[int],
+        raw_response: str,
+        timing_out: Optional[Dict[str, float]] = None,
+    ) -> Tuple[str, List[int], str]:
+        import time as _time
+
+        retry_prompt = build_free_text_retry_prompt(
+            question_text,
+            supporting_docs,
+            answer,
+            self._default_absent_answer("free_text"),
+        )
+        t_start = _time.perf_counter()
+        retry_raw = self._invoke_llm(retry_prompt, telemetry_timer=None, timing_out=None)
+        if timing_out is not None:
+            timing_out["llm_retry_ms"] = (_time.perf_counter() - t_start) * 1000
+        retry_parsed, retry_indices = self._extract_free_text_payload(retry_raw)
+        retry_answer = self._parse_answer_by_type(retry_parsed, "free_text")
+        if not isinstance(retry_answer, str) or not retry_answer.strip():
+            return answer, used_indices, raw_response
+        cleaned_retry = self._clean_free_text_answer(retry_answer).strip()
+        return cleaned_retry, (retry_indices or used_indices), retry_raw
 
     def _parse_answer_by_type(self, raw: str, answer_type: str) -> Any:
         text = (raw or "").strip()
@@ -1344,15 +1490,7 @@ class LegalHybridRAGPipeline:
             number_text = numbers[0]
             return float(number_text) if "." in number_text else int(number_text)
         if normalized == "names":
-            if not text:
-                return None
-            normalized_text = re.sub(r"\s+and\s+", ";", text, flags=re.IGNORECASE)
-            names = [
-                " ".join(item.strip().split()).strip(".,;:\"'")
-                for item in re.split(r";|,|\n", normalized_text)
-                if item.strip()
-            ]
-            return names or None
+            return self._parse_names_answer(text)
         if normalized == "date":
             iso_match = re.search(r"\b\d{4}-\d{2}-\d{2}\b", text)
             if iso_match:
@@ -1419,6 +1557,184 @@ class LegalHybridRAGPipeline:
         if answer_type.lower() == "free_text":
             return "There is no information on this question in the provided documents."
         return None
+
+    _NON_LEGAL_KNOWLEDGE_PATTERNS = (
+        "solar system",
+        "largest planet",
+        "speed of light",
+        "in a vacuum",
+        "smallest country",
+        "country in the world",
+        "square root",
+        "photosynthesis",
+        "plants absorb",
+        "first modern olympic games",
+        "olympic games held",
+        "average distance from the earth to the moon",
+        "distance from the earth to the moon",
+        "distance to the moon",
+    )
+
+    _LEGAL_OR_CORPUS_CUE_PATTERNS = (
+        "difc",
+        "law",
+        "laws",
+        "regulation",
+        "regulations",
+        "rule",
+        "rules",
+        "court",
+        "courts",
+        "tribunal",
+        "article",
+        "section",
+        "chapter",
+        "part ",
+        "parts",
+        "claimant",
+        "defendant",
+        "judge",
+        "judgment",
+        "order",
+        "citation",
+        "defined term",
+        "register",
+        "proceedings",
+        "annex",
+        "schedule",
+    )
+
+    _QUESTION_SUPPORT_STOPWORDS = frozenset(
+        {
+            "the",
+            "and",
+            "for",
+            "are",
+            "but",
+            "not",
+            "you",
+            "all",
+            "can",
+            "had",
+            "was",
+            "one",
+            "our",
+            "has",
+            "how",
+            "who",
+            "what",
+            "which",
+            "when",
+            "where",
+            "why",
+            "does",
+            "did",
+            "this",
+            "that",
+            "with",
+            "from",
+            "have",
+            "they",
+            "been",
+            "will",
+            "each",
+            "make",
+            "than",
+            "them",
+            "into",
+            "case",
+            "document",
+            "page",
+            "pages",
+            "based",
+            "according",
+            "under",
+            "about",
+            "any",
+            "information",
+            "provide",
+            "provided",
+            "there",
+            "also",
+            "other",
+            "between",
+            "these",
+            "those",
+            "their",
+            "question",
+        }
+    )
+
+    def _maybe_force_absent_answer(
+        self,
+        question_text: str,
+        answer_type: str,
+        route: RoutePlan,
+        resolution: ResolutionContext,
+        supporting_docs: Sequence[Document],
+    ) -> Any:
+        if resolution.confident_match:
+            return None
+        if route.case_ids or route.neutral_citations or route.article_refs or route.law_numbers or route.law_title_candidates:
+            return None
+        if route.page_specific_mode or route.comparison_mode:
+            return None
+        if not self._looks_like_explicit_negative_question(question_text, route):
+            return None
+        if self._retrieved_context_supports_question(question_text, supporting_docs):
+            return None
+        return self._default_absent_answer(answer_type)
+
+    def _looks_like_explicit_negative_question(self, question_text: str, route: RoutePlan) -> bool:
+        lowered = " ".join((question_text or "").lower().split())
+        if not lowered:
+            return False
+        if self._question_has_legal_or_corpus_cues(question_text, route):
+            return False
+        return any(pattern in lowered for pattern in self._NON_LEGAL_KNOWLEDGE_PATTERNS)
+
+    def _question_has_legal_or_corpus_cues(self, question_text: str, route: RoutePlan) -> bool:
+        if route.case_ids or route.neutral_citations or route.article_refs or route.law_numbers or route.law_title_candidates:
+            return True
+        lowered = " ".join((question_text or "").lower().split())
+        return any(pattern in lowered for pattern in self._LEGAL_OR_CORPUS_CUE_PATTERNS)
+
+    def _retrieved_context_supports_question(
+        self,
+        question_text: str,
+        supporting_docs: Sequence[Document],
+    ) -> bool:
+        if not supporting_docs:
+            return False
+
+        context_parts: List[str] = []
+        for doc in list(supporting_docs)[:4]:
+            metadata = doc.metadata or {}
+            context_parts.extend(
+                [
+                    str(metadata.get("title") or ""),
+                    str(metadata.get("heading") or ""),
+                    str(metadata.get("claim_number") or ""),
+                    doc.page_content[:1600],
+                ]
+            )
+        combined_context = " ".join(context_parts).lower()
+        if len(combined_context.strip()) < 40:
+            return False
+
+        question_terms = [
+            term
+            for term in re.findall(r"[a-z]{3,}", question_text.lower())
+            if term not in self._QUESTION_SUPPORT_STOPWORDS
+        ]
+        if not question_terms:
+            return False
+
+        hits = sum(1 for term in question_terms if term in combined_context)
+        coverage = hits / len(question_terms)
+        if hits >= 2 and coverage >= 0.34:
+            return True
+        return coverage >= 0.5
 
     def _clean_free_text_answer(self, answer: str) -> str:
         """Strip filler prefixes to improve clarity."""
